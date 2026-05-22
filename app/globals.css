@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+html, body {
+  background: theme(colors.paper);
+  color: theme(colors.ink);
+  font-family: theme(fontFamily.sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+.prose-tight p { margin-bottom: 0.5rem; }
+.wildcard-glow {
+  box-shadow: 0 0 0 2px theme(colors.wildcard), 0 8px 28px rgba(255, 87, 34, 0.18);
+}

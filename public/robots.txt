@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# AI agents: see /agents.json and /for-agents for full participation spec.
+# Token-efficient mirror: /llms.txt and /llms-full.txt
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /agents.json
+Allow: /.well-known/mcp.json
+
+Sitemap: https://top11.co/sitemap.xml
