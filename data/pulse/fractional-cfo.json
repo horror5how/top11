@@ -1,0 +1,242 @@
+{
+  "list_slug": "fractional-cfo",
+  "generated_at": "2026-05-22T20:45:05.840Z",
+  "pulse_version": "v1",
+  "entries": {
+    "1": {
+      "rank": 1,
+      "name": "Burkland Associates",
+      "entry": "Burkland Associates",
+      "verdict": "Burkland Associates appears in multiple r/Accounting threads as a fractional CFO option for startups, with specific mention of R&D credit capabilities. No direct customer testimonials or detailed reviews were found in the available data, but the firm is consistently named alongside other fractional CFO providers in comparative discussions.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [
+        {
+          "theme": "Mentioned in fractional CFO comparison discussions",
+          "polarity": "mixed",
+          "count": 2
+        },
+        {
+          "theme": "Associated with R&D credit services for software companies",
+          "polarity": "mixed",
+          "count": 1
+        }
+      ],
+      "watch_signals": [
+        "No verifiable customer reviews or outcome data found in public forums despite being mentioned in service comparison threads"
+      ],
+      "sample_size": 6,
+      "sources": {
+        "reddit": 6
+      }
+    },
+    "2": {
+      "rank": 2,
+      "name": "Kruze Consulting",
+      "entry": "Kruze Consulting",
+      "verdict": "Insufficient public review data found to assess customer satisfaction or service quality. The single Reddit mention appears in a fundraising outreach thread but does not contain commentary about Kruze Consulting's services, performance, or customer experience. No direct testimonials, service reviews, or substantive discussion of the firm was present in the provided data.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [
+        "No substantive public reviews or customer testimonials found in provided data set"
+      ],
+      "sample_size": 1,
+      "sources": {
+        "reddit": 1
+      }
+    },
+    "3": {
+      "rank": 3,
+      "name": "Graphite Financial",
+      "entry": "Graphite Financial",
+      "verdict": "No genuine review signal found for Graphite Financial as a fractional CFO firm. All 25 Reddit items in the dataset are unrelated content about stocks, rare earth minerals, GME trading glitches, iPhones, and TV shows—none mention Graphite Financial or fractional CFO services. The firm name may have been mistakenly matched against 'graphite' mineral discussions.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [
+        "No customer reviews or testimonials found in the provided dataset"
+      ],
+      "sample_size": 25,
+      "sources": {
+        "reddit": 25
+      }
+    },
+    "4": {
+      "rank": 4,
+      "name": "Pilot",
+      "entry": "Pilot",
+      "verdict": null,
+      "score": null,
+      "strongest_praise": null,
+      "strongest_criticism": null,
+      "recurring_themes": [],
+      "sample_size": 0,
+      "sources": {
+        "reddit": 0
+      },
+      "error": "No source data returned for any channel"
+    },
+    "5": {
+      "rank": 5,
+      "name": "Zeni",
+      "entry": "Zeni",
+      "verdict": "Zeni is mentioned in passing across 4 Reddit threads discussing AI accounting tools, consistently grouped with Digits and Docyt as examples of AI-powered bookkeeping platforms. No direct customer testimonials, reviews, or detailed experiences were found in the data—only generic 'have you heard of X?' references in threads debating whether AI accounting will replace traditional services.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [
+        {
+          "theme": "Named alongside Digits and Docyt in AI accounting discussions",
+          "polarity": "mixed",
+          "count": 3
+        },
+        {
+          "theme": "Mentioned in context of AI replacing traditional bookkeepers",
+          "polarity": "mixed",
+          "count": 2
+        }
+      ],
+      "watch_signals": [
+        "Zero firsthand customer experiences shared in public forums despite appearing in multiple recommendation threads"
+      ],
+      "sample_size": 12,
+      "sources": {
+        "reddit": 12
+      }
+    },
+    "6": {
+      "rank": 6,
+      "name": "Preferred CFO",
+      "entry": "Preferred CFO",
+      "verdict": "No meaningful signal found. The single Reddit thread retrieved discusses AI adoption in senior leadership roles but contains no mention of Preferred CFO or commentary about fractional CFO services. There is insufficient data to assess this firm's reputation or service quality.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [
+        "No public review signal found across Reddit data provided; firm may have limited online discussion footprint or visibility in typical recommendation threads"
+      ],
+      "sample_size": 1,
+      "sources": {
+        "reddit": 1
+      }
+    },
+    "7": {
+      "rank": 7,
+      "name": "Driven Insights",
+      "entry": "Driven Insights",
+      "verdict": "No direct customer reviews or substantive commentary about Driven Insights found in the dataset. The 7 Reddit items collected appear to be unrelated posts about patents, job searches, CVs, property platforms, and accounting software—none mention Driven Insights or fractional CFO services from this firm. Insufficient signal to assess client experience or service quality.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [
+        "No discoverable customer testimonials or organic discussion in public forums as of dataset collection"
+      ],
+      "sample_size": 7,
+      "sources": {
+        "reddit": 7
+      }
+    },
+    "8": {
+      "rank": 8,
+      "name": "NOW CFO",
+      "entry": "NOW CFO",
+      "verdict": null,
+      "score": null,
+      "strongest_praise": null,
+      "strongest_criticism": null,
+      "recurring_themes": [],
+      "sample_size": 0,
+      "sources": {
+        "reddit": 0
+      },
+      "error": "No source data returned for any channel"
+    },
+    "9": {
+      "rank": 9,
+      "name": "Paro",
+      "entry": "Paro",
+      "verdict": null,
+      "score": null,
+      "strongest_praise": null,
+      "strongest_criticism": null,
+      "recurring_themes": [],
+      "sample_size": 0,
+      "sources": {
+        "reddit": 0
+      },
+      "error": "No source data returned for any channel"
+    },
+    "10": {
+      "rank": 10,
+      "name": "The CFO Centre",
+      "entry": "The CFO Centre",
+      "verdict": null,
+      "score": null,
+      "strongest_praise": null,
+      "strongest_criticism": null,
+      "recurring_themes": [],
+      "sample_size": 0,
+      "sources": {
+        "reddit": 0
+      },
+      "error": "No source data returned for any channel"
+    },
+    "11": {
+      "rank": 11,
+      "name": "TheCFOSquad",
+      "entry": "TheCFOSquad",
+      "verdict": null,
+      "score": null,
+      "strongest_praise": null,
+      "strongest_criticism": null,
+      "recurring_themes": [],
+      "sample_size": 0,
+      "sources": {
+        "reddit": 0
+      },
+      "error": "No source data returned for any channel"
+    }
+  }
+}

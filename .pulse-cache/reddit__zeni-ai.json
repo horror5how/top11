@@ -1,0 +1,116 @@
+{
+  "source": "reddit",
+  "entry": "Zeni",
+  "via": "public-json",
+  "count": 12,
+  "threads": [
+    {
+      "title": "17.5 yasindayim evde barfiks ve şınav beslenmeme dikkat ediyorum",
+      "subreddit": "salonfareleri",
+      "url": "https://www.reddit.com/r/salonfareleri/comments/1qg67hb/175_yasindayim_evde_barfiks_ve_şınav_beslenmeme/",
+      "ups": 52,
+      "created": "2026-01-18T11:23:58.000Z",
+      "excerpt": "önerilere açığım (fotoğraf cekinmeyi bilmiyorum)",
+      "num_comments": 59
+    },
+    {
+      "title": "Making a list of AI tools in accounting...what are you seeing or using?",
+      "subreddit": "Accounting",
+      "url": "https://www.reddit.com/r/Accounting/comments/1ktrrtt/making_a_list_of_ai_tools_in_accountingwhat_are/",
+      "ups": 19,
+      "created": "2025-05-23T19:05:36.000Z",
+      "excerpt": "Hey, I’m working on a list of AI accounting/tax products to pin over at r/AccountingTechnology to track what's being built/used in the space, and was hoping for some help! I have a rough draft here of some products in the accounting/tax space. I’m more focused on things that are built specifically for the industry (which is why chatgpt, etc isn’t on there), but if there’s something you stand by, non-accounting specific, I could add a more generic list of tools to it too. I plan on updating it as I learn about more things out there. Here’s the list so far: Tax Research / Advisory * [TaxGPT](ht…",
+      "num_comments": 48
+    },
+    {
+      "title": "Rüyamda Reddit sayesinde iphone 17 im oluyodu",
+      "subreddit": "SacmaBirSub",
+      "url": "https://www.reddit.com/r/SacmaBirSub/comments/1pliikd/rüyamda_reddit_sayesinde_iphone_17_im_oluyodu/",
+      "ups": 15,
+      "created": "2025-12-13T10:39:51.000Z",
+      "excerpt": "Olm bi post atmıştım ne bilmiyorum ve insanlar upvote yerine iphone 17 telefonu emojisiyle (discor mantığındaydı aq) tepki veriyodu ve olm sonra o emojileri gerçeğe çevirebiliyodum iki tane iphone 17 çıkartmıştım birini ablama vermiştim annem de kızmamıştı nedense bi de iphone nin nasıl birşey oldupunu keşfetmeye çalışıyodum bi redmi kullanıcısı olarak 😫✌",
+      "num_comments": 12
+    },
+    {
+      "title": "How are early-stage teams handling finance before hiring internally? I will not promote",
+      "subreddit": "startups",
+      "url": "https://www.reddit.com/r/startups/comments/1pqes8c/how_are_earlystage_teams_handling_finance_before/",
+      "ups": 7,
+      "created": "2025-12-19T07:09:31.000Z",
+      "excerpt": "I’ve been talking to a few founders at smaller startups and keep seeing the same pattern. Most teams don’t have a dedicated finance hire yet which makes sense. But in the meantime: Cash and runway are tracked manually (usually Excel) Monthly numbers get rebuilt every time Accountants handle compliance, not management visibility Founders have numbers, but don’t always trust them There seems to be a gap between “founder + accountant + spreadsheets” and “internal finance team.” I’m curious how others handled this phase: Did you just live with manual tracking until you hired? Did you hire earlier…",
+      "num_comments": 30
+    },
+    {
+      "title": "Built and released my first React Native app",
+      "subreddit": "reactnative",
+      "url": "https://www.reddit.com/r/reactnative/comments/1nnpwja/built_and_released_my_first_react_native_app/",
+      "ups": 5,
+      "created": "2025-09-22T15:39:52.000Z",
+      "excerpt": "I’ve been working on a side project for a while and finally released it on both iOS and Android. It’s called **zenyAI**. The app lets you scan receipts, automatically parses them, and organizes everything in one place so you can keep track of expenses without the usual hassle. This has been a fun project to build, and I’d love to hear your thoughts. If you have a chance to try it out, any feedback on the experience, design, or general flow would be super helpful. Here are the links if you want to check it out: * [iOS](https://apps.apple.com/us/app/receipt-expense-zenyai/id6751862953) * [andro…",
+      "num_comments": 12
+    },
+    {
+      "title": "Do you guys think AI accounting will work ?",
+      "subreddit": "SaaS",
+      "url": "https://www.reddit.com/r/SaaS/comments/1l5eab4/do_you_guys_think_ai_accounting_will_work/",
+      "ups": 4,
+      "created": "2025-06-07T06:33:36.000Z",
+      "excerpt": "Do you think AI accounting will actually work long-term? I've been seeing a ton of new tools like Digits, Zeni, and others promising \"AI-powered accounting\" — handling bookkeeping, generating reports, spotting trends, even replacing analysts. As someone who's run a startup (or is about to), the idea sounds amazing. But I’m also wondering: Will AI truly replace human accountants for small businesses? How reliable are these tools with tax laws and compliance? Are there any real-world success stories yet, or is it all hype? What are the risks if the AI messes up? Curious to hear your thoughts. H…",
+      "num_comments": 11
+    },
+    {
+      "title": "I built a Bench alternative after watching 12,000 founders get stranded. Here's what I learned about the startup finance market.",
+      "subreddit": "SaaS",
+      "url": "https://www.reddit.com/r/SaaS/comments/1sf2h57/i_built_a_bench_alternative_after_watching_12000/",
+      "ups": 3,
+      "created": "2026-04-07T17:21:13.000Z",
+      "excerpt": "When Bench collapsed in late 2024, I was watching the founder of Slack panic in real time. Year-end was three days away. People couldn't pull their books. A lot of folks ended up paying their old bookkeeper a rush fee to recreate 2024 from bank statements. I'd been kicking around the idea of building something in the startup finance space for a while, and the Bench thing pushed me over the edge. Spent the last year talking to stranded founders, building, and shipping. Sharing what I learned because I think a lot of SaaS founders eyeing this space are about to make the same mistakes Bench did.…",
+      "num_comments": 5
+    },
+    {
+      "title": "I see a lot of AI bookkeeping naysayers; has anyone actually used them?",
+      "subreddit": "Accounting",
+      "url": "https://www.reddit.com/r/Accounting/comments/1m2ubrb/i_see_a_lot_of_ai_bookkeeping_naysayers_has/",
+      "ups": 3,
+      "created": "2025-07-18T05:48:57.000Z",
+      "excerpt": "Context: I'm a small business owner and trying to figure out what systems to use. I'm no accounting expert so looking for advice. I've seen a lot of hate for AI bookkeeping and of course it sucks as far as it taking jobs is concerned but as a business owner, the cost seems attractive. In reading multiple threads, I see a lot of \"AI will never be able to do bookkeeping\", but I'm curious if any of you have used some of the AI bookkeepers (e.g., digits, zeni), and what your experience has been? I'd love it if you could give **specific examples** of where it fails. It would help me understand whe…",
+      "num_comments": 23
+    },
+    {
+      "title": "Bench collapsed and exposed a bigger problem in startup finance. I built around that gap.",
+      "subreddit": "micro_saas",
+      "url": "https://www.reddit.com/r/micro_saas/comments/1sgk2z0/bench_collapsed_and_exposed_a_bigger_problem_in/",
+      "ups": 1,
+      "created": "2026-04-09T08:46:14.000Z",
+      "excerpt": "When Bench collapsed in late 2024, I was watching the founder of Slack panic in real time. Year-end was three days away. People couldn't pull their books. A lot of folks ended up paying their old bookkeeper a rush fee to recreate 2024 from bank statements. I'd been kicking around the idea of building something in the startup finance space for a while, and the Bench thing pushed me over the edge. Spent the last year talking to stranded founders, building, and shipping. Sharing what I learned because I think a lot of SaaS founders eyeing this space are about to make the same mistakes Bench did.…",
+      "num_comments": 0
+    },
+    {
+      "title": "Looking for feedback on my first iOS app",
+      "subreddit": "AppStoreOptimization",
+      "url": "https://www.reddit.com/r/AppStoreOptimization/comments/1nnq3k2/looking_for_feedback_on_my_first_ios_app/",
+      "ups": 0,
+      "created": "2025-09-22T15:47:08.000Z",
+      "excerpt": "A few weeks ago I released my first iOS app, it’s called zenyAI. The idea is pretty simple — you snap a photo of a receipt and it pulls out the details so you don’t have to type everything in. It also keeps things organized for bookkeeping. I’d really like to get some honest feedback from folks here [https://apps.apple.com/us/app/receipt-expense-zenyai/id6751862953](https://apps.apple.com/us/app/receipt-expense-zenyai/id6751862953)",
+      "num_comments": 4
+    },
+    {
+      "title": "Will AI accounting service be accepted replacing traditional accounting services ? \"i will not promote\"",
+      "subreddit": "startups",
+      "url": "https://www.reddit.com/r/startups/comments/1l5eij1/will_ai_accounting_service_be_accepted_replacing/",
+      "ups": 0,
+      "created": "2025-06-07T06:48:50.000Z",
+      "excerpt": "I am coming across a bunch of AI tools Digits, Zeni, Docyt etc. I am just curious that if AI accounting software will be the next turn for the accounting and financial management at least for small and medium enterprises but my question is will people be ready to go for the switch because nobody likes to change their existing accountant right. What are your thoughts ?",
+      "num_comments": 22
+    },
+    {
+      "title": "Question for the Accountants",
+      "subreddit": "Accounting",
+      "url": "https://www.reddit.com/r/Accounting/comments/1l16ih7/question_for_the_accountants/",
+      "ups": 0,
+      "created": "2025-06-02T02:14:34.000Z",
+      "excerpt": "Hey everyone , I'm interested in finance and AI and was wondering do any of you actually use small automation tools in your workflow like filling data or spotting inconsistencies. I've been trying a few tools for a few basic tasks and curious if anyone does or wants to do the same. Side Note-Does this happen in practice as well, like do businesses actually encourage the use of certain Gen-AI based workflows?",
+      "num_comments": 2
+    }
+  ]
+}

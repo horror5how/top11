@@ -1,0 +1,63 @@
+name: Review Pulse — nightly refresh
+
+on:
+  schedule:
+    # 03:30 UTC every day
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+    inputs:
+      list:
+        description: "List slug to refresh"
+        required: false
+        default: "fractional-cfo"
+      sources:
+        description: "Comma-separated sources (reddit,trustpilot,google,facebook). Empty = all."
+        required: false
+        default: ""
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Install Apify CLI
+        run: npm install -g apify-cli
+
+      - name: Apify login
+        env:
+          APIFY_TOKEN: ${{ secrets.APIFY_TOKEN }}
+        run: |
+          if [ -n "$APIFY_TOKEN" ]; then
+            apify login --token "$APIFY_TOKEN"
+          else
+            echo "::warning::APIFY_TOKEN missing — pipeline will use public Reddit fallback only."
+          fi
+
+      - name: Run pulse refresh
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PULSE_ONLY: ${{ github.event.inputs.sources }}
+          PULSE_REDDIT_PUBLIC: "1"
+        run: node scripts/pulse/run.mjs ${{ github.event.inputs.list || 'fractional-cfo' }}
+
+      - name: Commit refreshed pulse
+        run: |
+          git config user.email "pulse-bot@top11.co"
+          git config user.name "Top 11 Pulse Bot"
+          git add data/pulse/
+          if git diff --staged --quiet; then
+            echo "No pulse changes."
+            exit 0
+          fi
+          git commit -m "chore(pulse): nightly refresh $(date -u +%Y-%m-%d)"
+          git push

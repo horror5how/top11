@@ -5,6 +5,7 @@ import VoteWidget from "@/app/components/VoteWidget";
 import ComplaintForm from "@/app/components/ComplaintForm";
 import MatchmakerQuiz from "@/app/components/MatchmakerQuiz";
 import CiteWidget from "@/app/components/CiteWidget";
+import ReviewPulse from "@/app/components/ReviewPulse";
 
 export const metadata: Metadata = {
   title: data.title,
@@ -125,7 +126,9 @@ export default function FractionalCfoPage() {
                 </div>
               </div>
 
-              <div className="flex items-center justify-between border-t border-ink/10 pt-4">
+              <ReviewPulse rank={e.rank} />
+
+              <div className="flex items-center justify-between border-t border-ink/10 pt-4 mt-4">
                 <VoteWidget entrySlug={`${data.slug}-${e.rank}`} />
                 <a
                   href={`#complain-${e.rank}`}

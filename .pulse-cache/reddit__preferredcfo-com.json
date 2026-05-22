@@ -1,0 +1,17 @@
+{
+  "source": "reddit",
+  "entry": "Preferred CFO",
+  "via": "public-json",
+  "count": 1,
+  "threads": [
+    {
+      "title": "Is anyone genuinely using AI to make Snr Leadership role easier?",
+      "subreddit": "auscorp",
+      "url": "https://www.reddit.com/r/auscorp/comments/1pf8q1z/is_anyone_genuinely_using_ai_to_make_snr/",
+      "ups": 95,
+      "created": "2025-12-05T22:28:56.000Z",
+      "excerpt": "I am in a Senior Leadership role and am quite forward thinking and receptive to change and tech adoption… I see people around me dabbling and trying things in AI - as I am - but I am yet to see true productivity breakthroughs. My position on AI in our business is that we never get to everything we want to do because we are so time poor - so this isn’t a resource play for us, this is an acceleration play!! I have made a few custom GPTs to support summarising various documents, writing emails in a specific format based on how I know the recipient likes to read them - ie CEO has a very specific …",
+      "num_comments": 91
+    }
+  ]
+}

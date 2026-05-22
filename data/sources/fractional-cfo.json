@@ -1,0 +1,127 @@
+{
+  "list_slug": "fractional-cfo",
+  "version": "1.0",
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Burkland Associates",
+      "domain": "burklandassociates.com",
+      "trustpilot": "burklandassociates.com",
+      "google_place_id": null,
+      "google_search": "Burkland Associates fractional CFO",
+      "facebook": "burklandassociates",
+      "reddit_queries": ["Burkland Associates", "Burkland CFO", "Burkland fractional CFO"],
+      "subreddits": ["startups", "ycombinator", "Entrepreneur", "SaaS", "smallbusiness"]
+    },
+    {
+      "rank": 2,
+      "name": "Kruze Consulting",
+      "domain": "kruzeconsulting.com",
+      "trustpilot": "kruzeconsulting.com",
+      "google_place_id": null,
+      "google_search": "Kruze Consulting fractional CFO",
+      "facebook": "KruzeConsulting",
+      "reddit_queries": ["Kruze Consulting", "Kruze CFO", "Kruze R&D credit"],
+      "subreddits": ["startups", "ycombinator", "Entrepreneur", "SaaS", "smallbusiness", "Accounting"]
+    },
+    {
+      "rank": 3,
+      "name": "Graphite Financial",
+      "domain": "graphitefinancial.com",
+      "trustpilot": "graphitefinancial.com",
+      "google_place_id": null,
+      "google_search": "Graphite Financial fractional CFO",
+      "facebook": "graphitefinancial",
+      "reddit_queries": ["Graphite Financial", "Graphite CFO", "Graphite YC"],
+      "subreddits": ["startups", "ycombinator", "Entrepreneur", "SaaS"]
+    },
+    {
+      "rank": 4,
+      "name": "Pilot",
+      "domain": "pilot.com",
+      "trustpilot": "pilot.com",
+      "google_place_id": null,
+      "google_search": "Pilot.com bookkeeping CFO",
+      "facebook": "pilotbooks",
+      "reddit_queries": ["Pilot.com", "Pilot bookkeeping", "Pilot CFO services"],
+      "subreddits": ["startups", "ycombinator", "Entrepreneur", "SaaS", "smallbusiness", "Accounting", "Bookkeeping"]
+    },
+    {
+      "rank": 5,
+      "name": "Zeni",
+      "domain": "zeni.ai",
+      "trustpilot": "zeni.ai",
+      "google_place_id": null,
+      "google_search": "Zeni.ai AI bookkeeping CFO",
+      "facebook": "zeniai",
+      "reddit_queries": ["Zeni.ai", "Zeni AI bookkeeping", "Zeni CFO"],
+      "subreddits": ["startups", "ycombinator", "Entrepreneur", "SaaS", "Accounting"]
+    },
+    {
+      "rank": 6,
+      "name": "Preferred CFO",
+      "domain": "preferredcfo.com",
+      "trustpilot": "preferredcfo.com",
+      "google_place_id": null,
+      "google_search": "Preferred CFO Utah fractional",
+      "facebook": "PreferredCFO",
+      "reddit_queries": ["Preferred CFO", "Preferred CFO Utah"],
+      "subreddits": ["Entrepreneur", "smallbusiness", "Accounting", "startups"]
+    },
+    {
+      "rank": 7,
+      "name": "Driven Insights",
+      "domain": "driveninsights.com",
+      "trustpilot": "driveninsights.com",
+      "google_place_id": null,
+      "google_search": "Driven Insights fractional CFO",
+      "facebook": "driveninsights",
+      "reddit_queries": ["Driven Insights CFO", "Driven Insights fractional"],
+      "subreddits": ["Entrepreneur", "smallbusiness", "Accounting"]
+    },
+    {
+      "rank": 8,
+      "name": "NOW CFO",
+      "domain": "nowcfo.com",
+      "trustpilot": "nowcfo.com",
+      "google_place_id": null,
+      "google_search": "NOW CFO outsourced",
+      "facebook": "NowCFO",
+      "reddit_queries": ["NOW CFO", "NowCFO outsourced"],
+      "subreddits": ["Entrepreneur", "smallbusiness", "Accounting", "startups"]
+    },
+    {
+      "rank": 9,
+      "name": "Paro",
+      "domain": "paro.ai",
+      "trustpilot": "paro.ai",
+      "google_place_id": null,
+      "google_search": "Paro.ai fractional CFO marketplace",
+      "facebook": "paroai",
+      "reddit_queries": ["Paro.ai", "Paro CFO marketplace", "Paro finance"],
+      "subreddits": ["Entrepreneur", "smallbusiness", "Accounting", "startups", "freelance"]
+    },
+    {
+      "rank": 10,
+      "name": "The CFO Centre",
+      "domain": "cfocentre.com",
+      "trustpilot": "cfocentre.com",
+      "google_place_id": null,
+      "google_search": "CFO Centre international fractional",
+      "facebook": "TheCFOCentre",
+      "reddit_queries": ["CFO Centre", "The CFO Centre London", "CFO Centre franchise"],
+      "subreddits": ["Entrepreneur", "smallbusiness", "Accounting", "ukbusiness", "UKPersonalFinance"]
+    },
+    {
+      "rank": 11,
+      "name": "TheCFOSquad",
+      "domain": "thecfosquad.com",
+      "trustpilot": "thecfosquad.com",
+      "google_place_id": null,
+      "google_search": "TheCFOSquad AI native CFO",
+      "facebook": null,
+      "reddit_queries": ["TheCFOSquad", "CFO Squad AI"],
+      "subreddits": ["startups", "ycombinator", "SaaS", "ArtificialIntelligence"]
+    }
+  ]
+}
