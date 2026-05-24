@@ -90,14 +90,14 @@ export default function Methodology() {
         per-entry "Reddit Pulse" panel populates from an Apify-CLI scheduled scrape (no browser-scraping).
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">10. Editor</h2>
+      <h2 className="text-2xl font-serif mt-10 mb-3">10. Editorial</h2>
       <p>
-        Top 11 is currently a single-editor publication. The editor is{" "}
-        <a className="underline" href="https://www.meethayat.com" target="_blank" rel="noreferrer">
-          Hayat Amin
-        </a>{" "}
-        — Fractional CFO, 3 exits, IP &amp; Data Strategist. Editor's profile, conflicts, and prior work are publicly
-        verifiable. As more editors join, each list will name its editor and their conflicts at the top.
+        Top 11 editors are <strong>anonymous by design</strong>. This is deliberate: it removes personal-brand bias
+        from rankings, and prevents listed firms from targeting individuals when they don't like a placement. Editors
+        are vetted operators with first-hand experience in their list's vertical. Conflicts of interest are still
+        disclosed at the JSON level on every list — if an editor has an economic interest in any listed firm, it shows
+        up in the list metadata. Editor identity can be revealed under subpoena or for dispute arbitration, but is not
+        published.
       </p>
 
       <p className="mt-10 text-sm text-ink/60">

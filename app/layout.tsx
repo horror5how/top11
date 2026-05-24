@@ -46,15 +46,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <footer className="border-t border-ink/10 mt-16">
           <div className="max-w-5xl mx-auto px-6 py-8 text-sm text-ink/60 flex flex-col gap-2 sm:flex-row sm:justify-between">
-            <p>
-              Edited by{" "}
-              <a className="underline" href="https://www.meethayat.com" target="_blank" rel="noreferrer">
-                Hayat Amin
-              </a>{" "}
-              · Fractional CFO · 3 exits · IP &amp; Data Strategist
-            </p>
+            <p>Independent editorial — anonymous by design · No paid placement, ever</p>
             <p className="font-mono text-xs">
-              No paid placement · Methodology public · <Link href="/for-agents" className="underline">Agent-friendly</Link>
+              Methodology public · <Link href="/for-agents" className="underline">Agent-friendly</Link>
             </p>
           </div>
         </footer>

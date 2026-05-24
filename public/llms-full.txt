@@ -6,8 +6,8 @@ Token-efficient mirror of every Top 11 list. Updated on every build.
 
 - URL: https://top11.co/fractional-cfo
 - Audience: Tech founders raising $1M–$50M, Seed to Series B
-- Editor: Hayat Amin (Fractional CFO · 3 exits · IP & Data Strategist) — https://www.meethayat.com
-- Editor disclosure: Editor operates a fractional CFO practice but is excluded from this ranking under Top 11's independence rule.
+- Editor: Top 11 Editorial — Independent editorial team
+- Editor disclosure: Top 11 editors are anonymous by design to remove personal-brand bias and prevent ranked firms from targeting individuals. Conflicts are disclosed at the JSON level if any editor has an economic interest in a listed firm; the editor of this list has none.
 - Last verified: 2026-05-22
 - Methodology: https://top11.co/methodology (vv1.0)
 
@@ -113,7 +113,7 @@ Token-efficient mirror of every Top 11 list. Updated on every build.
 
 ### Honest disclosures
 - This is Top 11's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).
-- Editor Hayat Amin is excluded from this ranking under the independence rule.
+- The editor of this list is excluded from being ranked under the independence rule.
 - Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.
 - Every entry carries at least one published criticism — 'flaws but not dealbreakers'.
 - No firm has paid for placement on Top 11. There is no paid tier.

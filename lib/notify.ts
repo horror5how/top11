@@ -2,7 +2,7 @@
 // Falls back to no-op console.log so V1 ships without external deps.
 
 const LOOPS_API_KEY = process.env.LOOPS_API_KEY;
-const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "hayat@beyondelevation.com";
+const NOTIFY_EMAIL = process.env.NOTIFY_EMAIL || "editor@top11.co";
 const LOOPS_TRANSACTIONAL_ID = process.env.LOOPS_TRANSACTIONAL_ID; // optional
 
 export type NotifyPayload = {

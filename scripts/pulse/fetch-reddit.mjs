@@ -5,7 +5,7 @@
 import { apifyCall, cacheKey, readCache, writeCache, truncate } from "./lib.mjs";
 
 const ACTOR = "trudax/reddit-scraper-lite";
-const UA = "top11.co/1.0 (independent review aggregator; editor: hayat@beyondelevation.com)";
+const UA = "top11.co/1.0 (independent review aggregator; contact: agents@top11.co)";
 
 async function fetchPublicRedditSearch(query, time = "year", limit = 25, subreddit = null) {
   const base = subreddit

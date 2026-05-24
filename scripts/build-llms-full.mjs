@@ -25,7 +25,7 @@ for (const list of lists) {
   md.push("");
   md.push(`- URL: https://top11.co/${list.slug}`);
   md.push(`- Audience: ${list.audience}`);
-  md.push(`- Editor: ${list.editor.name} (${list.editor.credential}) — ${list.editor.url}`);
+  md.push(`- Editor: ${list.editor.name}${list.editor.credential ? " — " + list.editor.credential : ""}${list.editor.url ? " (" + list.editor.url + ")" : ""}`);
   md.push(`- Editor disclosure: ${list.editor.conflict_disclosure}`);
   md.push(`- Last verified: ${list.last_verified}`);
   md.push(`- Methodology: https://top11.co/methodology (v${list.methodology_version})`);

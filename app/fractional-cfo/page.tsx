@@ -41,10 +41,8 @@ export default function FractionalCfoPage() {
             Last verified {daysSince} day{daysSince === 1 ? "" : "s"} ago
           </span>
           <span className="text-ink/50">
-            Edited by{" "}
-            <a className="underline" href={data.editor.url} target="_blank" rel="noreferrer">
-              {data.editor.name}
-            </a>
+            Editor: <span className="text-ink/80">{data.editor.name}</span>{" "}
+            <span className="text-ink/40">(anonymous by design)</span>
           </span>
         </div>
       </header>
@@ -59,7 +57,7 @@ export default function FractionalCfoPage() {
           their LLM stack.
         </p>
         <p className="text-ink/60">
-          Editor disclosure: {data.editor.conflict_disclosure}
+          Disclosure: {data.editor.conflict_disclosure}
         </p>
       </aside>
 

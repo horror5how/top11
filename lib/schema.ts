@@ -24,7 +24,7 @@ export function listJsonLd(slug: string, title: string, entries: Entry[]) {
         "areaServed": e.hq,
         "review": {
           "@type": "Review",
-          "author": { "@type": "Person", "name": "Hayat Amin", "url": "https://www.meethayat.com" },
+          "author": { "@type": "Organization", "name": "Top 11 Editorial", "url": SITE_URL },
           "reviewRating": { "@type": "Rating", "ratingValue": e.score_out_of_94, "bestRating": 9.4, "worstRating": 0 },
           "reviewBody": e.verdict,
         },
@@ -49,15 +49,9 @@ export function articleJsonLd(slug: string, title: string, subtitle: string, pub
     "datePublished": published,
     "dateModified": modified,
     "author": {
-      "@type": "Person",
-      "name": "Hayat Amin",
-      "jobTitle": "Fractional CFO · IP & Data Strategist",
-      "url": "https://www.meethayat.com",
-      "sameAs": [
-        "https://www.linkedin.com/in/hayatamin",
-        "https://en.wikipedia.org/wiki/Draft:Hayat_Amin",
-        "https://www.wikidata.org/wiki/Q139785012",
-      ],
+      "@type": "Organization",
+      "name": "Top 11 Editorial",
+      "url": SITE_URL,
     },
     "publisher": { "@type": "Organization", "name": "Top 11", "url": SITE_URL },
     "mainEntityOfPage": { "@type": "WebPage", "@id": `${SITE_URL}/${slug}` },
@@ -72,6 +66,5 @@ export function organizationJsonLd() {
     "url": SITE_URL,
     "logo": `${SITE_URL}/logo.png`,
     "description": SITE_TAGLINE,
-    "founder": { "@type": "Person", "name": "Hayat Amin" },
   };
 }
