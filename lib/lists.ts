@@ -1,4 +1,5 @@
 import fractionalCfo from "@/data/fractional-cfo.json";
+import dentalCrm from "@/data/dental-crm.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -7,6 +8,7 @@ type AnyEntry = Record<string, unknown>;
 // Registry of every published list. Add new lists here (and a data/<slug>.json).
 const REGISTRY: Record<string, ListData> = {
   [fractionalCfo.slug]: fractionalCfo as ListData,
+  [dentalCrm.slug]: dentalCrm as ListData,
 };
 
 export function listSlugs(): string[] {

@@ -1,11 +1,13 @@
 import Link from "next/link";
-import data from "@/data/fractional-cfo.json";
+import { getList, listSlugs } from "@/lib/lists";
 
 export default function Home() {
+  const slugs = listSlugs();
+  const productsRanked = slugs.reduce((n, s) => n + (getList(s)?.entries.length || 0), 0);
   return (
     <div className="max-w-5xl mx-auto px-6 py-16">
       <div className="space-y-4">
-        <p className="font-mono text-xs tracking-widest text-ink/50 uppercase">Launch list · {data.published}</p>
+        <p className="font-mono text-xs tracking-widest text-ink/50 uppercase">Independent ranked lists · built for AI</p>
         <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight leading-[1.05]">
           Independent ranked lists.
           <br />
@@ -13,45 +15,56 @@ export default function Home() {
           <span className="text-ink/60">Always one wildcard.</span>
         </h1>
         <p className="text-lg text-ink/70 max-w-2xl">
-          Every list is curated by a named editor, scored against a public methodology, and capped at 9.4/9.4 because
-          perfect scores read fake. Real humans can complain. Real AI agents can review — when they prove they used the
-          product.
+          Every list is scored against a public methodology and capped at 9.4/9.4 because perfect scores read fake. The
+          whole site is built so AI assistants can crawl, query, and cite the exact recommendation — with a live API,
+          a problem-matcher, and an MCP server. Humans can complain; verified AI agents can review.
         </p>
       </div>
 
       <div className="mt-12 grid gap-4 sm:grid-cols-3">
-        <Stat label="Live lists" value="1" />
-        <Stat label="Independent editors" value="1" />
+        <Stat label="Live lists" value={String(slugs.length)} />
+        <Stat label="Products ranked" value={String(productsRanked)} />
         <Stat label="Paid placements accepted" value="0" highlight />
       </div>
 
       <section className="mt-16">
-        <h2 className="text-2xl font-semibold mb-4">Now live</h2>
-        <Link
-          href={`/${data.slug}`}
-          className="block border border-ink/15 hover:border-wildcard rounded-2xl p-6 transition-colors"
-        >
-          <div className="flex items-center justify-between mb-2">
-            <span className="font-mono text-xs uppercase tracking-widest text-wildcard">List #001</span>
-            <span className="font-mono text-xs text-ink/50">Last verified {data.last_verified}</span>
-          </div>
-          <h3 className="text-2xl font-bold tracking-tight">{data.title}</h3>
-          <p className="text-ink/70 mt-2">{data.subtitle}</p>
-          <p className="mt-4 text-sm text-ink/60">
-            For: <span className="text-ink">{data.audience}</span>
-          </p>
-        </Link>
+        <h2 className="text-2xl font-bold tracking-tight mb-4">Now live</h2>
+        <div className="grid gap-4">
+          {slugs.map((slug, i) => {
+            const l = getList(slug);
+            if (!l) return null;
+            return (
+              <Link
+                key={slug}
+                href={`/${slug}`}
+                className="block border border-ink/15 hover:border-wildcard rounded-2xl p-6 transition-colors"
+              >
+                <div className="flex items-center justify-between mb-2">
+                  <span className="font-mono text-xs uppercase tracking-widest text-wildcard">
+                    List #{String(i + 1).padStart(3, "0")}
+                  </span>
+                  <span className="font-mono text-xs text-ink/50">Last verified {l.last_verified}</span>
+                </div>
+                <h3 className="text-2xl font-bold tracking-tight">{l.title}</h3>
+                <p className="text-ink/70 mt-2">{l.subtitle}</p>
+                <p className="mt-4 text-sm text-ink/60">
+                  For: <span className="text-ink">{l.audience}</span>
+                </p>
+              </Link>
+            );
+          })}
+        </div>
       </section>
 
       <section className="mt-16 border-t border-ink/10 pt-12">
-        <h2 className="text-2xl font-semibold mb-6">How Top 11 is different</h2>
+        <h2 className="text-2xl font-bold tracking-tight mb-6">How Top 11 is different</h2>
         <div className="grid gap-6 sm:grid-cols-2">
+          <Card title="Built for AI first" body="A live MCP server, a /recommend problem-matcher, and JSON, CSV, and Markdown for every list. AI assistants fetch the exact pick — no scraping guesswork." />
+          <Card title="Niche within niche" body="Every product is tagged with the exact problems it solves and who it's for, so an AI can match a precise pain point to the one right recommendation." />
           <Card title="Every list is exactly 11" body="Top 10 is lazy. 11 means a Wildcard — the one entry we couldn't cut, marked separately on every list." />
           <Card title="Cap at 9.4 / 9.4" body="No perfect scores. Every entry carries a published criticism. The imperfect list is the trusted list." />
-          <Card title="Recency badges" body="73% of buyers only trust reviews from the last 30 days. Every entry shows when it was last verified — and degrades visibly with age." />
-          <Card title="Built for AI agents" body="llms.txt, agents.json, MCP manifest, and a write endpoint at /api/agent-review. Verified agents can review the products they've actually used." />
-          <Card title="Right of Reply" body="Every listed firm gets one pinned response on their entry. Drama, fairness, and zero defamation." />
-          <Card title="No paid placement, ever" body="There is no paid tier. Brands cannot buy a spot. The editor's conflicts are publicly disclosed at the top of every list." />
+          <Card title="Public methodology" body="Every ranking is scored against a weighted rubric anyone can read, reviewed quarterly, with a visible last-verified date." />
+          <Card title="No paid placement, ever" body="There is no paid tier. Vendors cannot buy a spot. The editor's conflicts are disclosed on every list." />
         </div>
       </section>
     </div>

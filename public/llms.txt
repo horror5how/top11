@@ -6,6 +6,8 @@ Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped 
 
 ## Rankings
 
+- [Top 11 Dental CRM & Practice-Management Software](https://top11-nine.vercel.app/dental-crm): Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.
+  - JSON: https://top11-nine.vercel.app/api/lists/dental-crm · Markdown: https://top11-nine.vercel.app/api/lists/dental-crm/md · CSV: https://top11-nine.vercel.app/api/lists/dental-crm/csv
 - [Top 11 Fractional CFOs for Tech Startups](https://top11-nine.vercel.app/fractional-cfo): Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.
   - JSON: https://top11-nine.vercel.app/api/lists/fractional-cfo · Markdown: https://top11-nine.vercel.app/api/lists/fractional-cfo/md · CSV: https://top11-nine.vercel.app/api/lists/fractional-cfo/csv
 

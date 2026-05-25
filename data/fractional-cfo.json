@@ -52,18 +52,18 @@
     { "text": "The firms on this list were founded between 2001 and 2023 — a 22-year spread of operating history.", "source": "Top 11 analysis, May 2026" },
     { "text": "No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake.", "source": "Top 11 analysis, May 2026" }
   ],
-  "context": {
-    "definition": "A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO.",
-    "cost": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026).",
-    "vs": "A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.",
-    "how_to_choose": [
-      "Match the firm to your stage: pre-seed and bootstrapped founders are best served by lower-cost, founder-friendly firms; Series B+ companies need deeper benches and fundraising fluency.",
-      "Confirm vertical fit: SaaS revenue recognition, R&D tax credits, hardware, and international entities each reward different specialists.",
-      "Ask for pricing in writing before you start — predictable retainers beat hourly surprises.",
-      "Check the bench: a firm with depth survives an analyst leaving; a solo or marketplace CFO does not.",
-      "Verify outcomes: ask for named fundraises or board-readiness timelines, not just testimonials."
-    ]
-  },
+  "guide": [
+    { "q": "What is a fractional CFO?", "a": "A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO." },
+    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026)." },
+    { "q": "Fractional CFO vs full-time vs part-time CFO: what's the difference?", "a": "A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves." }
+  ],
+  "how_to_choose": [
+    "Match the firm to your stage: pre-seed and bootstrapped founders are best served by lower-cost, founder-friendly firms; Series B+ companies need deeper benches and fundraising fluency.",
+    "Confirm vertical fit: SaaS revenue recognition, R&D tax credits, hardware, and international entities each reward different specialists.",
+    "Ask for pricing in writing before you start — predictable retainers beat hourly surprises.",
+    "Check the bench: a firm with depth survives an analyst leaving; a solo or marketplace CFO does not.",
+    "Verify outcomes: ask for named fundraises or board-readiness timelines, not just testimonials."
+  ],
   "faqs": [
     { "q": "Who is the best fractional CFO for a venture-backed tech startup in 2026?", "a": "For venture-backed US tech startups, Burkland Associates ranks #1 in this list — it has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority." },
     { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026)." },

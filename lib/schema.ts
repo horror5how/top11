@@ -58,19 +58,19 @@ export function breadcrumbJsonLd(crumbs: { name: string; url: string }[]) {
 }
 
 /** One ranked entry -> a Service/ProfessionalService node with editorial Review (no AggregateRating). */
-function entryNode(slug: string, e: Entry) {
+function entryNode(list: ListData, e: Entry) {
   const isWild = "is_wildcard" in e && (e as { is_wildcard?: boolean }).is_wildcard;
-  const entryId = `${SITE_URL}/${slug}#rank-${e.rank}`;
+  const entryId = `${SITE_URL}/${list.slug}#rank-${e.rank}`;
   return {
     "@type": ["ProfessionalService", "Service"],
     "@id": entryId,
     name: e.name,
     url: e.url,
     description: e.verdict,
-    serviceType: data.vertical,
-    areaServed: { "@type": "Place", name: e.hq },
+    serviceType: list.vertical,
     priceRange: priceSymbol(e.pricing_band),
-    foundingDate: String(e.founded),
+    ...(e.hq ? { areaServed: { "@type": "Place", name: e.hq } } : {}),
+    ...(e.founded ? { foundingDate: String(e.founded) } : {}),
     provider: {
       "@type": "Organization",
       "@id": `${entryId}-org`,
@@ -80,8 +80,8 @@ function entryNode(slug: string, e: Entry) {
     },
     additionalProperty: [
       { "@type": "PropertyValue", name: "Best for", value: e.best_for },
-      { "@type": "PropertyValue", name: "Headquarters", value: e.hq },
-      { "@type": "PropertyValue", name: "Team size", value: e.team_size_band },
+      ...(e.hq ? [{ "@type": "PropertyValue", name: "Region", value: e.hq }] : []),
+      ...(e.team_size_band ? [{ "@type": "PropertyValue", name: "Team size", value: e.team_size_band }] : []),
       { "@type": "PropertyValue", name: "Pricing", value: e.pricing_band },
       ...(isWild ? [{ "@type": "PropertyValue", name: "Designation", value: "Wildcard (#11)" }] : []),
     ],
@@ -89,8 +89,8 @@ function entryNode(slug: string, e: Entry) {
       "@type": "Review",
       "@id": `${entryId}-review`,
       author: { "@id": ORG_ID },
-      datePublished: data.published,
-      dateModified: data.last_verified,
+      datePublished: list.published,
+      dateModified: list.last_verified,
       name: `Top 11 editorial review — ${e.name} (rank #${e.rank})`,
       reviewBody: e.verdict,
       positiveNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.praise }] },
@@ -151,7 +151,7 @@ export function listJsonLd(d: ListData = data) {
         "@type": "ListItem",
         position: e.rank,
         url: `${pageId}#rank-${e.rank}`,
-        item: entryNode(d.slug, e),
+        item: entryNode(d, e),
       })),
     },
   };

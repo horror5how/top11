@@ -107,11 +107,9 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       if (e.is_wildcard && e.wildcard_reason) md.push(`- Why wildcard: ${e.wildcard_reason}`);
       md.push("");
     }
-    if (l.context) {
+    if (l.guide?.length) {
       md.push("### Buyer's guide");
-      md.push(`- What is a ${l.vertical.replace(/ Services$/, "").toLowerCase()}? ${l.context.definition}`);
-      md.push(`- Cost: ${l.context.cost}`);
-      md.push(`- Vs full-time/part-time: ${l.context.vs}`);
+      for (const g of l.guide) md.push(`- ${g.q} ${g.a}`);
       md.push("");
     }
     if (l.faqs?.length) {

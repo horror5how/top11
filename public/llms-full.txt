@@ -1,7 +1,152 @@
 # Top 11 — Full Markdown Mirror
 
 Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-25T17:40:12.070Z
+Generated: 2026-05-25T18:17:28.363Z
+
+## Top 11 Dental CRM & Practice-Management Software
+
+**Short answer:** As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling — the case where one patient is seen across several chairs and providers in a single day — is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology — no vendor paid to appear.
+
+- URL: https://top11-nine.vercel.app/dental-crm
+- Audience: Dentists and practice managers — solo GPs, multi-location groups and DSOs, and specialty practices
+- Editor: Top 11 Editorial (anonymous by design)
+- Last verified: 2026-05-25
+- Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
+- Scoring criteria: Real-world capability & track record (30%), Pricing transparency (20%), Segment fit (20%), Usability & support (15%), Integrations & verification (15%)
+- Candidate pool: 14+ providers screened; reviewed quarterly
+
+### Key statistics
+- We reviewed 14 dental platforms and ranked the 11 strongest, segmented by exactly who each is for. (Top 11 analysis, May 2026)
+- Only one product on this list — Open Dental — publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling. (Top 11 review of vendor documentation, May 2026)
+- Published monthly pricing across this list ranges from about $109 to $750+ per location; several vendors quote only. (Top 11 analysis of vendor and Software Advice pricing, May 2026)
+- Six of the 11 are fully cloud-hosted; the rest are Windows/server-based or hybrid. (Top 11 analysis, May 2026)
+- No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake. (Top 11 analysis, May 2026)
+
+### Ranking
+### #1 — Open Dental (9/9.4)
+- URL: https://www.opendental.com/
+- Best for: High-volume practices with complex same-day, multi-operatory scheduling
+- Founded undefined, United States, team undefined, $ ($149–$199/mo per location + $20/provider over 3)
+- Verdict: The most powerful operatory scheduler in dental, at the lowest price — Open Dental is the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what breaks lesser systems when a patient is seen across several chairs in a day. The trade-off is that you run the server yourself.
+- Pro: The only product with documented appointment mirroring across operatories and fully customizable multi-column scheduling views; open source; the lowest published price in the category.
+- Con: Windows/server only, with no vendor-hosted cloud, so you need IT support to run and maintain it.
+
+### #2 — CareStack (8.8/9.4)
+- URL: https://www.carestack.com/
+- Best for: Multi-specialty DSOs and groups wanting one platform for scheduling, billing, imaging and referrals
+- Founded undefined, United States, UK, Australia, team undefined, $$$ (from ~$698/mo)
+- Verdict: CareStack is the highest-rated dental PMS on Capterra and the all-in-one DSO platform that also handles specialty referral management across ortho, perio, endo and oral surgery. It serves enterprise groups in the US, UK and Australia, with the trade-off of the highest entry price and a heavier implementation.
+- Pro: Highest overall satisfaction in the category (4.8/5 on Capterra); serves enterprise DSOs with 30+ locations; built-in specialty referral management and AI phone.
+- Con: Most expensive entry price on this list, and a heavy implementation that is overkill for smaller practices.
+
+### #3 — Denticon (Planet DDS) (8.6/9.4)
+- URL: https://www.planetdds.com/denticon/
+- Best for: Growth-stage DSOs needing multi-location reporting and standardized workflows
+- Founded undefined, United States, team undefined, $$$ (from ~$750/mo)
+- Verdict: Denticon is the purpose-built DSO platform — centralized data, location-drillable reporting, and standardized clinical workflows across every site, now with embedded AI. It powers 13,000+ practices and is a 2025 G2 Momentum Leader, but the $750/month starting price makes it overkill for solo and small practices.
+- Pro: Built ground-up for DSOs; 13,000+ practices and 45,000+ users; open API and embedded AI; G2 Spring 2025 Momentum Leader.
+- Con: Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein — overkill for small practices.
+
+### #4 — Curve Dental (8.4/9.4)
+- URL: https://www.curvedental.com/
+- Best for: Independent and small-group practices wanting the cleanest cloud scheduling UX
+- Founded undefined, United States, team undefined, $$ (quote only; mid-market cloud)
+- Verdict: Curve Dental has the best-reviewed scheduling experience of any product here, with a clean modern UI, 24/7 patient self-scheduling and cloud imaging in one all-in-one platform. Its one real weakness is billing, which reviewers flag as confusing.
+- Pro: Scheduling rated 4.63/5, the highest of any product on Software Advice; 24/7 self-scheduling; cloud imaging; modern UI that cuts training time.
+- Con: Billing and payment processes are the weakest-rated feature, with reviewers citing confusing invoicing and family-account billing.
+
+### #5 — Dentrix Ascend (Henry Schein One) (8.2/9.4)
+- URL: https://www.dentrixascend.com/
+- Best for: Practices migrating off a legacy Dentrix server to the cloud
+- Founded undefined, United States, team undefined, $$ (quote only)
+- Verdict: Dentrix Ascend is the easiest cloud migration for Dentrix loyalists — true browser access, SOC 2 security, AI charting and 80,000+ active users, with a familiar workflow. Reporting is its weakest area and the tight Henry Schein integration limits third-party flexibility.
+- Pro: 100% browser-based with fast onboarding; 80,000+ clinicians; SOC 2 compliance; AI-powered charting (Voice Notes, Image Verify).
+- Con: Reporting is rated the weakest feature (3.36/5), and the Henry Schein ecosystem limits third-party integrations.
+
+### #6 — tab32 (8/9.4)
+- URL: https://tab32.com/
+- Best for: Startup-to-growth cloud practices and pediatric groups wanting transparent pricing
+- Founded undefined, United States, team undefined, $ ($125/mo year 1, $225/mo year 2+)
+- Verdict: tab32 is the most transparently priced all-in-one cloud dental PMS, with public tiered pricing, built-in AI radiology on higher plans, and a go-live measured in days. It is ideal for a startup or growing pediatric/specialty group, though brand recognition trails the incumbents and claims billing can add cost at volume.
+- Pro: The only product with fully public tiered pricing; built-in AI radiology on Grow+ plans; multi-tenant architecture; live in days, not months.
+- Con: Smaller brand recognition than Dentrix/Eaglesoft, and usage-based claims billing adds cost at high volume.
+
+### #7 — Dentrix Enterprise (Henry Schein One) (7.9/9.4)
+- URL: https://www.dentrixenterprise.com/
+- Best for: Large multi-location organizations, FQHCs and public-health dental providers
+- Founded undefined, United States, team undefined, $$$ (enterprise quote only)
+- Verdict: Dentrix Enterprise is Henry Schein's enterprise engine — one central database for as many providers and sites as the organization requires, built for FQHCs and public-health compliance. It is powerful but heavy to implement and inappropriate for small practices.
+- Pro: True central database for unlimited providers and locations; built for FQHC and public-health compliance; standardized workflows enterprise-wide.
+- Con: Lowest ease-of-use rating among Dentrix products (3.8/5) and a heavy implementation; wrong fit for small practices.
+
+### #8 — Practice-Web (7.7/9.4)
+- URL: https://practice-web.com/
+- Best for: Budget-conscious solo and small practices on Windows
+- Founded undefined, United States, team undefined, $ ($109/mo flat, all-inclusive)
+- Verdict: Practice-Web is the highest-rated dental software on Software Advice at the lowest flat monthly price — $109/month all-in, including conversion, training, patient portal and forms. It is built for the solo dentist who wants everything in one, with the trade-off that it is server-based with no native cloud or multi-location features.
+- Pro: Highest Software Advice rating in the category (4.9/5, FrontRunner 2026); $109/mo flat includes conversion, training and patient portal; serving dentistry since 1988.
+- Con: Server-based and Windows-only, with no native cloud and no multi-location or DSO features.
+
+### #9 — Eaglesoft (Patterson Dental) (7.5/9.4)
+- URL: https://www.pattersondental.com/
+- Best for: Patterson Dental customers wanting native equipment integration
+- Founded undefined, United States, team undefined, $$ (quote only; Patterson clients)
+- Verdict: Eaglesoft is the workhorse general-practice system for Patterson customers, with deep imaging and device integration and a solid GP workflow. It is reliable but frozen in time — Windows-only, with no Mac, mobile or cloud, and a UI reviewers call dated.
+- Pro: Deep imaging and device integration within the Patterson ecosystem; reliable general-dentistry workflow; strong Patterson support network.
+- Con: Windows only — no Mac, mobile or cloud — and verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.
+
+### #10 — ABELDent (7.4/9.4)
+- URL: https://www.abeldent.com/
+- Best for: Canadian dental practices wanting cloud-or-local with identical UX
+- Founded undefined, Canada and United States, team undefined, $$ (quote only; cloud or local)
+- Verdict: ABELDent is Canada's leading dental PMS — Azure cloud or local server with an identical interface, Canadian billing and provincial-insurance compliance, and Power BI analytics built in. Its review base is smaller than US-centric competitors and pricing is quote-only, but it has no close Canada-focused rival.
+- Pro: The only product with an identical cloud and local interface (zero retraining when switching); Canadian provincial-insurance compliance; Power BI analytics built in.
+- Con: Smaller review base than US-centric competitors, quote-only pricing, and less recognition outside Canada.
+
+### #11 [WILDCARD] — Weave (7.2/9.4)
+- URL: https://www.getweave.com/dental/
+- Best for: Any practice wanting the best patient-communication layer on top of its existing PMS
+- Founded undefined, United States, team undefined, $$ (quote only; tiered)
+- Verdict: Weave is the #1 Capterra-ranked dental tool, but it is a communication engine, not a records system. Layered on top of your existing PMS, it automates reminders, reviews, missed-call recovery and text-to-pay. The catch is that it requires an existing PMS and customer service gets mixed reviews.
+- Pro: Top-rated dental tool on Capterra (97/100); integrates with 50+ PMS; ASAP/waitlist management, text-to-pay and AI call pop.
+- Con: Not a standalone PMS — it requires an existing records system — and customer service is rated only 3.9/5.
+- Why wildcard: The Wildcard slot goes to the one product that doesn't fit the pattern: Weave is not a practice-management system at all. It is the best patient-communication layer — phones, texting, reviews, scheduling and payments — and it makes whatever PMS you run measurably stickier. It is the top-rated dental tool on Capterra, which is why it was too good to cut.
+
+### Buyer's guide
+- What is dental practice-management software (a dental CRM)? Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type — a solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for.
+- Which dental software handles a patient with multiple same-day appointments across operatories? Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring — automatically placing a linked provider exam when a hygiene block is created — and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale.
+- How much does dental practice-management software cost in 2026? Published pricing on this list runs from about $109/month flat (Practice-Web) and $125–$225/month (tab32) at the low end, up to $698–$750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149–$199/month per location plus a small per-provider fee above three providers. Several vendors — including Dentrix Ascend, Curve, Eaglesoft and Weave — are quote-only (Top 11 analysis, May 2026).
+- Cloud vs server: which should a dental practice choose? Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device — best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode.
+
+### FAQ
+**Q: What is the best dental software for complex same-day, multi-operatory scheduling?**
+A: Open Dental (#1) is the strongest pick. It is the only product on this list that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what a high-volume practice needs when one patient is seen across several chairs and providers in a single day. CareStack (#2) is the best alternative at multi-location DSO scale.
+
+**Q: What is the best dental practice-management software for a multi-location DSO?**
+A: Denticon by Planet DDS (#3) is purpose-built for DSOs, with centralized cross-location reporting and standardized workflows. CareStack (#2) is the close alternative when you also need specialty referral management and revenue-cycle tools, and is the highest-rated dental PMS on Capterra.
+
+**Q: What is the cheapest full dental practice-management software?**
+A: Practice-Web (#8) is the lowest-priced full PMS at $109/month flat, all-inclusive, and the highest-rated in its category on Software Advice. Open Dental (#1) is the next-best value at $149–$199/month per location and adds far stronger scheduling. tab32 (#6) publishes a low $125/month first-year cloud price.
+
+**Q: What is the best dental software for a Canadian practice?**
+A: ABELDent (#10) is the strongest pick for Canada. It handles provincial insurance billing and PIPEDA/PHIPA compliance, runs cloud or local with an identical interface, and includes Power BI analytics — with no close Canada-focused competitor on this list.
+
+**Q: Is Weave a dental practice-management system?**
+A: No. Weave (the #11 Wildcard) is a patient-communication platform — phones, texting, reviews, online scheduling and payments — that layers on top of your existing PMS. It is the top-rated dental tool on Capterra, but it does not replace your records system; it makes whatever PMS you run stickier.
+
+**Q: Can an AI agent query this dental ranking programmatically?**
+A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/lists/dental-crm/{rank} for one product, or GET /api/lists/dental-crm/md for a Markdown mirror. For problem-led matching, call GET /api/lists/dental-crm/recommend?problem=…&segment=…&budget=… , or use the recommend tool on the live MCP server at POST /mcp.
+
+### Honest disclosures
+- This list ranks dental practice-management software and CRMs; product capabilities were checked against vendor documentation and third-party review platforms (G2, Capterra, Software Advice) as of May 2026.
+- Open Dental is named the standout for same-day multi-operatory scheduling because it is the only product on this list that publicly documents appointment mirroring; verify current capability against the vendor before purchase.
+- Weave is included as the #11 Wildcard despite not being a full practice-management system, because it is the strongest patient-communication layer in the category.
+- Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.
+- Every entry carries at least one published criticism.
+- No vendor has paid for placement on Top 11. There is no paid tier.
+- Right of Reply: every listed vendor gets one pinned response on its entry. Email editor@top11.co to use it.
+
+---
 
 ## Top 11 Fractional CFOs for Tech Startups
 
@@ -113,9 +258,9 @@ Generated: 2026-05-25T17:40:12.070Z
 - Why wildcard: The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.
 
 ### Buyer's guide
-- What is a fractional cfo? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO.
-- Cost: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026).
-- Vs full-time/part-time: A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
+- What is a fractional CFO? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO.
+- How much does a fractional CFO cost in 2026? Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026).
+- Fractional CFO vs full-time vs part-time CFO: what's the difference? A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
 
 ### FAQ
 **Q: Who is the best fractional CFO for a venture-backed tech startup in 2026?**
