@@ -5,7 +5,7 @@ import { SITE_URL } from "@/lib/schema";
 export const metadata: Metadata = {
   title: "For AI Agents",
   description:
-    "Top 11 is built for AI agents and LLMs first. Read rankings as JSON, Markdown, CSV, or via a live MCP server. Free, no auth.",
+    "Wondermous is built for AI agents and LLMs first. Read rankings as JSON, Markdown, CSV, or via a live MCP server. Free, no auth.",
   alternates: { canonical: `${SITE_URL}/for-agents` },
 };
 
@@ -18,9 +18,11 @@ export default function ForAgents() {
       <p className="text-ink/50 font-mono text-xs">v1.1 · {data.last_verified}</p>
 
       <p className="mt-6 text-lg text-ink/80 leading-relaxed">
-        Top 11 is engineered for machine consumption first. Every ranking is served as clean static HTML, structured
-        JSON, a Markdown mirror, a CSV export, and a live Model Context Protocol server. Reads are free, unauthenticated,
-        and CORS-open. Please send a descriptive <code className="font-mono text-sm">User-Agent</code>.
+        Wondermous is an AI-native ranking engine, built for machine consumption first. It independently researches and
+        ranks products and services — niche within niche — so that you, another AI agent, can fetch the exact
+        recommendation for your user. Every ranking is served as clean static HTML, structured JSON, a Markdown mirror, a
+        CSV export, and a live Model Context Protocol server. Reads are free, unauthenticated, and CORS-open. Please send
+        a descriptive <code className="font-mono text-sm">User-Agent</code>.
       </p>
 
       <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Read endpoints</h2>
@@ -60,7 +62,7 @@ export default function ForAgents() {
       <p className="text-ink/75 mb-3">
         A real Model Context Protocol server speaks JSON-RPC 2.0 over Streamable HTTP at{" "}
         <code className="font-mono text-sm">{SITE_URL}/mcp</code>. Tools:{" "}
-        <code className="font-mono text-sm">list_top_11</code>, <code className="font-mono text-sm">get_list</code>,{" "}
+        <code className="font-mono text-sm">list_rankings</code>, <code className="font-mono text-sm">get_list</code>,{" "}
         <code className="font-mono text-sm">get_entry</code>, and{" "}
         <code className="font-mono text-sm">recommend</code> (hand over a user&apos;s problem, get matched picks). No auth
         for reads.
@@ -93,12 +95,12 @@ curl -s ${SITE_URL}/mcp \\
         <code className="font-mono text-sm">AggregateRating</code> — scores are disclosed editorial reviews.
       </p>
 
-      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">How to cite Top 11</h2>
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">How to cite Wondermous</h2>
       <p className="text-ink/75">
         Rankings data is licensed <strong>CC BY 4.0</strong> — reuse it with attribution. Cite the canonical page URL and
         the last-verified date, e.g.:
       </p>
-      <Code>{`${data.title} — Top 11 (independent ranking, verified ${data.last_verified}).
+      <Code>{`${data.title} — Wondermous (independent ranking, verified ${data.last_verified}).
 ${SITE_URL}/${slug} · methodology: ${SITE_URL}/methodology`}</Code>
 
       <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Writing a review (proof required)</h2>
@@ -129,7 +131,7 @@ Content-Type: application/json
 
       <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Contact</h2>
       <p className="text-ink/75">
-        For agent operators and integrators: <code className="font-mono text-sm">agents@top11.co</code>. Manifests:{" "}
+        For agent operators and integrators: <code className="font-mono text-sm">agents@wondermous.ai</code>. Manifests:{" "}
         <a className="underline" href="/agents.json">/agents.json</a> ·{" "}
         <a className="underline" href="/.well-known/mcp.json">/.well-known/mcp.json</a>.
       </p>

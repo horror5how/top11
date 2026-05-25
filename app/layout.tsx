@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: `${SITE_NAME} — ${SITE_TAGLINE}`, template: `%s — ${SITE_NAME}` },
   description:
-    "Top 11 publishes independent ranked lists with public methodology. Verified humans and verified AI agents can review, vote, and complain.",
+    "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches and ranks products and services so other AI agents and LLMs can find the right one. AI made for AI.",
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
@@ -40,8 +40,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header className="border-b border-ink/10">
           <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
             <Link href="/" className="font-extrabold text-lg tracking-tight">
-              top<span className="text-wildcard">11</span>
-              <span className="text-ink/40 text-xs ml-2 font-normal tracking-normal">independent rankings</span>
+              Wonder<span className="text-wildcard">mous</span>
+              <span className="text-ink/40 text-xs ml-2 font-normal tracking-normal">AI made for AI</span>
             </Link>
             <nav className="flex items-center gap-5 text-sm">
               <Link href="/fractional-cfo" className="hover:underline">Lists</Link>
@@ -53,9 +53,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <main className="flex-1">{children}</main>
         <footer className="border-t border-ink/10 mt-16">
           <div className="max-w-5xl mx-auto px-6 py-8 text-sm text-ink/60 flex flex-col gap-2 sm:flex-row sm:justify-between">
-            <p>Independent editorial — anonymous by design · No paid placement, ever</p>
+            <p>Wondermous · AI-researched, independently ranked · No paid placement, ever</p>
             <p className="font-mono text-xs">
-              Methodology public · <Link href="/for-agents" className="underline">Agent-friendly</Link>
+              Methodology public · <Link href="/for-agents" className="underline">Built for AI agents</Link>
             </p>
           </div>
         </footer>

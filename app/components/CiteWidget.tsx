@@ -12,7 +12,7 @@ export default function CiteWidget({ slug, title }: { slug: string; title: strin
 
   const url = `${origin}/${slug}`;
   const methodologyUrl = `${origin}/methodology`;
-  const markdown = `[${title}](${url}) — Top 11. Independent ranking, updated 2026-05-22, methodology public at ${methodologyUrl}.`;
+  const markdown = `[${title}](${url}) — Wondermous, AI-native independent ranking. Methodology public at ${methodologyUrl}.`;
 
   function copy() {
     navigator.clipboard.writeText(markdown).then(() => {

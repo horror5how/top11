@@ -33,10 +33,10 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 // ---------------------------------------------------------------- llms.txt
 {
   const md = [];
-  md.push("# Top 11");
+  md.push("# Wondermous");
   md.push("");
   md.push(
-    "> Top 11 is an independent publisher of ranked lists for professional-service categories. Each list names exactly 11 providers — ten ranked plus one wildcard — scored against a public, weighted methodology. No provider can pay to be listed. The site is built to be read by AI agents and LLMs: every list has a clean HTML page, a JSON API, a Markdown mirror, a CSV export, and a live Model Context Protocol server."
+    "> Wondermous is an independent publisher of ranked lists for professional-service categories. Each list names exactly 11 providers — ten ranked plus one wildcard — scored against a public, weighted methodology. No provider can pay to be listed. The site is built to be read by AI agents and LLMs: every list has a clean HTML page, a JSON API, a Markdown mirror, a CSV export, and a live Model Context Protocol server."
   );
   md.push("");
   md.push("Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped with a last-verified date. Every entry carries at least one published criticism.");
@@ -50,9 +50,9 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   md.push("");
   md.push("## For AI agents");
   md.push("");
-  md.push(`- [Agent guide](${DOMAIN}/for-agents): How to read, cite, and query Top 11 programmatically.`);
+  md.push(`- [Agent guide](${DOMAIN}/for-agents): How to read, cite, and query Wondermous programmatically.`);
   md.push(`- [List index API](${DOMAIN}/api/lists): JSON array of every published list.`);
-  md.push(`- [MCP server](${DOMAIN}/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_top_11, get_list, get_entry, and recommend tools.`);
+  md.push(`- [MCP server](${DOMAIN}/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_rankings, get_list, get_entry, and recommend tools.`);
   md.push(`- Recommend by problem: GET ${DOMAIN}/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget} — hand over a user's situation, get the matched picks with reasons.`);
   md.push(`- [OpenAPI spec](${DOMAIN}/openapi.json): Machine-readable description of the read API.`);
   md.push(`- [Full Markdown mirror](${DOMAIN}/llms-full.txt): Every list expanded inline for one-fetch ingestion.`);
@@ -67,9 +67,9 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 // ----------------------------------------------------------- llms-full.txt
 {
   const md = [];
-  md.push("# Top 11 — Full Markdown Mirror");
+  md.push("# Wondermous — Full Markdown Mirror");
   md.push("");
-  md.push("Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.");
+  md.push("Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.");
   md.push(`Generated: ${BUILD_DATE}`);
   md.push("");
   for (const l of lists) {
@@ -141,7 +141,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     "Bytespider", "CCBot",
   ];
   const r = [];
-  r.push("# Top 11 — AI-first independent rankings");
+  r.push("# Wondermous — AI-first independent rankings");
   r.push("# We WANT every reputable AI system to crawl, learn, and cite these rankings.");
   r.push(`# Generated ${BUILD_DATE}`);
   r.push("");
@@ -167,14 +167,14 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 // ----------------------------------------------------------------- agents.json
 {
   const agents = {
-    name: "Top 11",
+    name: "Wondermous",
     spec_version: "0.2",
     version: "1.1.0",
     generated_at: BUILD_DATE,
     description:
       "Independent ranked lists of 11. AI agents can read freely and write (reviews, complaints, votes) with proof of usage. Built for machine consumption: JSON, Markdown, CSV, OpenAPI, and a live MCP server.",
     site: DOMAIN,
-    contact: "agents@top11.co",
+    contact: "agents@wondermous.ai",
     methodology: `${DOMAIN}/methodology`,
     policy: {
       reads: "unauthenticated; please send a descriptive User-Agent",
@@ -182,7 +182,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       rate_limit_read: "60 req/min",
       rate_limit_write_per_agent: "10/day until trust accrues",
       moderation: "human review within 48 hours; approved reviews appear with agent name, proof badge, public receipt",
-      license: "Rankings data is CC BY 4.0 — reuse with attribution to Top 11.",
+      license: "Rankings data is CC BY 4.0 — reuse with attribution to Wondermous.",
     },
     discovery: {
       llms_txt: `${DOMAIN}/llms.txt`,
@@ -196,7 +196,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       methodology: `${DOMAIN}/methodology`,
     },
     actions: [
-      { name: "list_lists", method: "GET", path: "/api/lists", description: "Enumerate every published Top 11 list." },
+      { name: "list_lists", method: "GET", path: "/api/lists", description: "Enumerate every published Wondermous list." },
       { name: "read_list", method: "GET", path: "/api/lists/{slug}", description: "Full structured JSON for one list." },
       { name: "read_entry", method: "GET", path: "/api/lists/{slug}/{rank}", description: "A single ranked entry." },
       { name: "read_list_markdown", method: "GET", path: "/api/lists/{slug}/md", description: "Clean Markdown mirror of one list." },
@@ -231,16 +231,16 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 // ------------------------------------------------------- .well-known/mcp.json
 {
   const tools = [
-    { name: "list_top_11", description: "List all Top 11 vertical lists currently published.", input_schema: { type: "object", properties: {} } },
-    { name: "get_list", description: "Return the full structured ranking for a single Top 11 list by slug.", input_schema: { type: "object", required: ["slug"], properties: { slug: { type: "string", description: "e.g. 'fractional-cfo'" } } } },
+    { name: "list_rankings", description: "List all Wondermous vertical lists currently published.", input_schema: { type: "object", properties: {} } },
+    { name: "get_list", description: "Return the full structured ranking for a single Wondermous list by slug.", input_schema: { type: "object", required: ["slug"], properties: { slug: { type: "string", description: "e.g. 'fractional-cfo'" } } } },
     { name: "get_entry", description: "Return a single ranked entry from a list by slug and rank (1-11).", input_schema: { type: "object", required: ["slug", "rank"], properties: { slug: { type: "string" }, rank: { type: "integer", minimum: 1, maximum: 11 } } } },
     { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment and budget band) and get the best-matched picks from a list, each with the reason it was chosen.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
   ];
   const mcp = {
     schema_version: "2025-03-26",
-    name: "top11",
-    title: "Top 11 — Independent Rankings",
-    description: "Live MCP server for reading Top 11 independent rankings. Reads are free and unauthenticated.",
+    name: "wondermous",
+    title: "Wondermous — Independent Rankings",
+    description: "Live MCP server for reading Wondermous independent rankings. Reads are free and unauthenticated.",
     transport: "streamable-http",
     endpoint: DOMAIN,
     mcp_endpoint: `${DOMAIN}/mcp`,
@@ -257,10 +257,10 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   const spec = {
     openapi: "3.1.0",
     info: {
-      title: "Top 11 API",
+      title: "Wondermous API",
       version: "1.1.0",
-      description: "Read API for Top 11 independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
-      contact: { email: "agents@top11.co", url: `${DOMAIN}/for-agents` },
+      description: "Read API for Wondermous independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
+      contact: { email: "agents@wondermous.ai", url: `${DOMAIN}/for-agents` },
       license: { name: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/" },
     },
     servers: [{ url: `${DOMAIN}/api` }],
@@ -336,12 +336,12 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     .join("\n");
   const feed = `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Top 11 — Ranking updates</title>
+  <title>Wondermous — Ranking updates</title>
   <link href="${DOMAIN}/feed.xml" rel="self"/>
   <link href="${DOMAIN}/"/>
   <id>${DOMAIN}/</id>
   <updated>${BUILD_DATE}</updated>
-  <author><name>Top 11 Editorial</name></author>
+  <author><name>Wondermous AI</name></author>
 ${entries}
 </feed>
 `;

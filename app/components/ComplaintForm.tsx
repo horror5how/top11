@@ -36,7 +36,7 @@ export default function ComplaintForm({ entries, listSlug }: { entries: EntryRef
         setMsg(d.message || "Filed. We'll review within 48 hours.");
       } else {
         setState("error");
-        setMsg(d.message || "Something broke. Try again or email editor@top11.co.");
+        setMsg(d.message || "Something broke. Try again or email editor@wondermous.ai.");
       }
     } catch {
       setState("error");

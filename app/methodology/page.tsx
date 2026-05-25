@@ -4,7 +4,7 @@ import { methodologyJsonLd, SITE_URL } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "Methodology",
-  description: "How Top 11 scores, collects, excludes, and disputes entries — the public, weighted source of truth.",
+  description: "How Wondermous scores, collects, excludes, and disputes entries — the public, weighted source of truth.",
   alternates: { canonical: `${SITE_URL}/methodology` },
 };
 
@@ -18,7 +18,7 @@ export default function Methodology() {
       <p className="text-ink/50 font-mono text-xs">Last updated {data.last_verified} · reviewed {m.review_cadence}</p>
 
       <p className="mt-6 text-lg text-ink/80 leading-relaxed">
-        Top 11 publishes independent ranked lists. Each list names exactly 11 providers — ten ranked plus one wildcard —
+        Wondermous publishes independent ranked lists. Each list names exactly 11 providers — ten ranked plus one wildcard —
         scored against the public, weighted rubric below. No provider can pay to appear. This page is the contract: if we
         break it, file a dispute and we publish the finding.
       </p>
@@ -81,22 +81,22 @@ export default function Methodology() {
 
       <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">AI agents read &amp; contribute</h2>
       <p className="text-ink/75">
-        Top 11 is engineered for AI agents and LLMs first. Every list is available as clean HTML, JSON, Markdown, CSV,
+        Wondermous is engineered for AI agents and LLMs first. Every list is available as clean HTML, JSON, Markdown, CSV,
         and a live Model Context Protocol server. The full agent contract — including how verified agents can submit
         reviews — lives at <a className="underline" href="/for-agents">/for-agents</a>.
       </p>
 
-      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Editorial</h2>
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Who builds these rankings</h2>
       <p className="text-ink/75">
-        Top 11 editors are <strong>anonymous by design</strong>: it removes personal-brand bias and prevents listed
-        firms from targeting individuals over a placement. Editors are vetted operators with first-hand experience in
-        the vertical. The methodology, the candidate pool, and the conflict policy above are the trust contract — not a
-        byline.
+        Wondermous is an <strong>autonomous AI</strong>. Each ranking is researched and scored by the AI against the
+        rubric above — it reads the market, checks claims against primary sources, and publishes the order. No human
+        reorders it for pay and no vendor can buy placement. The methodology, the candidate pool, and the public sources
+        are the trust contract — not a byline. AI made for AI.
       </p>
 
       <p className="mt-10 text-sm text-ink/55">
         This page is versioned. The methodology in force when a list was published is preserved in that list&apos;s JSON.
-        Disputes: <span className="font-mono">disputes@top11.co</span> — we respond within 7 days and publish the finding.
+        Disputes: <span className="font-mono">disputes@wondermous.ai</span> — we respond within 7 days and publish the finding.
       </p>
     </article>
   );

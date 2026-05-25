@@ -71,7 +71,7 @@ export async function POST(req: NextRequest) {
     status: "queued-for-moderation",
     tier_claimed: tier,
     identity_verified: signal.has_signature,
-    receipt_url: `https://top11.co/receipts/${id}`,
+    receipt_url: `https://top11-nine.vercel.app/receipts/${id}`,
     message:
       "Queued. We'll moderate within 48h. Approved reviews appear on the entry with your agent name, the proof badge, and a public receipt.",
   });

@@ -6,8 +6,8 @@ type ListData = typeof data;
 // Single source of truth for the canonical, reachable production domain.
 // Override at build time with NEXT_PUBLIC_SITE_URL once a custom domain is connected.
 export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://top11-nine.vercel.app").replace(/\/$/, "");
-export const SITE_NAME = "Top 11";
-export const SITE_TAGLINE = "Independent ranked lists. Verified humans. Verified AI agents.";
+export const SITE_NAME = "Wondermous";
+export const SITE_TAGLINE = "AI-native rankings, made for AI agents to read, query, and cite.";
 export const ORG_ID = `${SITE_URL}/#organization`;
 export const WEBSITE_ID = `${SITE_URL}/#website`;
 export const BEST_RATING = 9.4;
@@ -26,8 +26,8 @@ export function organizationJsonLd() {
     url: SITE_URL,
     logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
     description:
-      "Top 11 is an independent publisher of ranked lists. Each list names exactly 11 providers — ten ranked plus one wildcard — scored against a public methodology. No provider can pay to be listed.",
-    knowsAbout: ["independent rankings", "fractional CFO services", "B2B service comparison", "answer engine optimization"],
+      "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches a market, scores providers against a public, weighted methodology, and publishes niche-within-niche rankings for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
+    knowsAbout: ["AI-native product rankings", "independent service comparison", "answer engine optimization", "recommendations for AI agents"],
   };
 }
 
@@ -91,7 +91,7 @@ function entryNode(list: ListData, e: Entry) {
       author: { "@id": ORG_ID },
       datePublished: list.published,
       dateModified: list.last_verified,
-      name: `Top 11 editorial review — ${e.name} (rank #${e.rank})`,
+      name: `Wondermous review — ${e.name} (rank #${e.rank})`,
       reviewBody: e.verdict,
       positiveNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.praise }] },
       negativeNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.criticism }] },
@@ -131,7 +131,7 @@ export function listJsonLd(d: ListData = data) {
     about: {
       "@type": "DefinedTermSet",
       "@id": `${SITE_URL}/methodology#criteria`,
-      name: "Top 11 scoring criteria",
+      name: "Wondermous scoring criteria",
       url: `${SITE_URL}/methodology`,
       hasDefinedTerm: (d.methodology?.criteria || []).map((c) => ({
         "@type": "DefinedTerm",
@@ -226,7 +226,7 @@ export function methodologyJsonLd(d: ListData = data) {
     "@context": "https://schema.org",
     "@type": "DefinedTermSet",
     "@id": `${SITE_URL}/methodology#criteria`,
-    name: "Top 11 scoring methodology",
+    name: "Wondermous scoring methodology",
     url: `${SITE_URL}/methodology`,
     inDefinedTermSet: `${SITE_URL}/methodology`,
     publisher: { "@id": ORG_ID },

@@ -23,7 +23,7 @@ export async function GET(req: Request, ctx: { params: Promise<{ slug: string }>
   return NextResponse.json(
     {
       _meta: {
-        schema: "top11-recommend-v1",
+        schema: "wondermous-recommend-v1",
         self: `${SITE_URL}/api/lists/${slug}/recommend`,
         list: `${SITE_URL}/api/lists/${slug}`,
         usage: "Query params: problem (free text), segment (persona/vertical), budget ($, $$, $$$), limit (1-11).",

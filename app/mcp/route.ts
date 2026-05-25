@@ -5,20 +5,20 @@ export const runtime = "nodejs";
 
 // Live Model Context Protocol server (JSON-RPC 2.0 over Streamable HTTP).
 // Spec: https://modelcontextprotocol.io/specification/2025-03-26
-// Read-only, unauthenticated. Tools: list_top_11, get_list, get_entry.
+// Read-only, unauthenticated. Tools: list_rankings, get_list, get_entry.
 
 const PROTOCOL = "2025-03-26";
-const SERVER_INFO = { name: "top11", version: "1.1.0" };
+const SERVER_INFO = { name: "wondermous", version: "1.1.0" };
 
 const TOOLS = [
   {
-    name: "list_top_11",
-    description: "List every published Top 11 ranking (slug, title, last-verified date).",
+    name: "list_rankings",
+    description: "List every published Wondermous ranking (slug, title, last-verified date).",
     inputSchema: { type: "object", properties: {} },
   },
   {
     name: "get_list",
-    description: "Return the full structured ranking for one Top 11 list by slug, including all 11 entries with scores, verdicts, pros/cons, and pricing.",
+    description: "Return the full structured ranking for one Wondermous list by slug, including all 11 entries with scores, verdicts, pros/cons, and pricing.",
     inputSchema: {
       type: "object",
       required: ["slug"],
@@ -27,7 +27,7 @@ const TOOLS = [
   },
   {
     name: "get_entry",
-    description: "Return a single ranked entry from a Top 11 list by slug and rank (1-11).",
+    description: "Return a single ranked entry from a Wondermous list by slug and rank (1-11).",
     inputSchema: {
       type: "object",
       required: ["slug", "rank"],
@@ -40,7 +40,7 @@ const TOOLS = [
   {
     name: "recommend",
     description:
-      "Hand over a user's situation and get the best-matched picks from a Top 11 list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment and a budget band ($, $$, $$$). Returns the top matches with the reason each was chosen.",
+      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment and a budget band ($, $$, $$$). Returns the top matches with the reason each was chosen.",
     inputSchema: {
       type: "object",
       required: ["problem"],
@@ -72,7 +72,7 @@ function rpcOk(id: unknown, result: unknown) {
 }
 
 function runTool(name: string, args: Record<string, unknown>) {
-  if (name === "list_top_11") return textResult(listIndex());
+  if (name === "list_rankings") return textResult(listIndex());
   if (name === "get_list") {
     const l = getList(String(args.slug ?? ""));
     if (!l) return { ...textResult({ error: "list not found", available: listSlugs() }), isError: true };
@@ -113,7 +113,7 @@ function handleMessage(msg: { jsonrpc?: string; id?: unknown; method?: string; p
         protocolVersion: (params?.protocolVersion as string) || PROTOCOL,
         capabilities: { tools: { listChanged: false } },
         serverInfo: SERVER_INFO,
-        instructions: "Top 11 publishes independent ranked lists. Use list_top_11 to discover lists, get_list for a full ranking, get_entry for one entry.",
+        instructions: "Wondermous publishes independent ranked lists. Use list_rankings to discover lists, get_list for a full ranking, get_entry for one entry.",
       });
     case "tools/list":
       return rpcOk(id, { tools: TOOLS });

@@ -1,11 +1,11 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Top 11 API",
+    "title": "Wondermous API",
     "version": "1.1.0",
-    "description": "Read API for Top 11 independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
+    "description": "Read API for Wondermous independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
     "contact": {
-      "email": "agents@top11.co",
+      "email": "agents@wondermous.ai",
       "url": "https://top11-nine.vercel.app/for-agents"
     },
     "license": {

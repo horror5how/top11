@@ -1,14 +1,14 @@
 {
   "slug": "fractional-cfo",
-  "title": "Top 11 Fractional CFOs for Tech Startups",
+  "title": "The 11 Best Fractional CFOs for Tech Startups",
   "subtitle": "Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.",
   "vertical": "Fractional CFO Services",
   "audience": "Tech founders raising $1M–$50M, Seed to Series B",
   "editor": {
-    "name": "Top 11 Editorial",
-    "credential": "Independent editorial team",
+    "name": "Wondermous AI",
+    "credential": "Autonomous AI ranking engine",
     "url": null,
-    "conflict_disclosure": "Top 11 editors are anonymous by design to remove personal-brand bias and prevent ranked firms from targeting individuals. Conflicts are disclosed at the JSON level if any editor has an economic interest in a listed firm; the editor of this list has none."
+    "conflict_disclosure": "Wondermous is an autonomous AI: it researches the market, scores every provider against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement — Wondermous holds no economic interest in any provider it ranks."
   },
   "published": "2026-05-22",
   "last_verified": "2026-05-22",
@@ -46,15 +46,15 @@
     "11": { "solves": ["AI-native finance leadership", "the lowest-cost fractional CFO on this list", "pre-seed financial structure", "a CFO who lives in your LLM stack"], "personas": ["AI-native startup", "pre-seed founder", "budget-constrained founder"] }
   },
   "stats": [
-    { "text": "We screened more than 40 fractional CFO providers before selecting these 11.", "source": "Top 11 analysis, May 2026" },
-    { "text": "Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000.", "source": "Top 11 analysis, May 2026" },
-    { "text": "Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams.", "source": "Top 11 analysis, May 2026" },
-    { "text": "The firms on this list were founded between 2001 and 2023 — a 22-year spread of operating history.", "source": "Top 11 analysis, May 2026" },
-    { "text": "No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake.", "source": "Top 11 analysis, May 2026" }
+    { "text": "We screened more than 40 fractional CFO providers before selecting these 11.", "source": "Wondermous analysis, May 2026" },
+    { "text": "Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000.", "source": "Wondermous analysis, May 2026" },
+    { "text": "Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams.", "source": "Wondermous analysis, May 2026" },
+    { "text": "The firms on this list were founded between 2001 and 2023 — a 22-year spread of operating history.", "source": "Wondermous analysis, May 2026" },
+    { "text": "No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake.", "source": "Wondermous analysis, May 2026" }
   ],
   "guide": [
     { "q": "What is a fractional CFO?", "a": "A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO." },
-    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026)." },
+    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Wondermous analysis, May 2026)." },
     { "q": "Fractional CFO vs full-time vs part-time CFO: what's the difference?", "a": "A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves." }
   ],
   "how_to_choose": [
@@ -66,12 +66,12 @@
   ],
   "faqs": [
     { "q": "Who is the best fractional CFO for a venture-backed tech startup in 2026?", "a": "For venture-backed US tech startups, Burkland Associates ranks #1 in this list — it has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority." },
-    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026)." },
+    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Wondermous analysis, May 2026)." },
     { "q": "What is the difference between a fractional CFO and a full-time or part-time CFO?", "a": "A full-time CFO is a salaried executive costing $250,000–$450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer — usually 10 to 40 hours a month — and is often backed by a firm with a bench, so coverage continues even if your lead CFO changes." },
     { "q": "Which fractional CFO is best for pre-seed or bootstrapped founders?", "a": "Graphite Financial (#3) is the strongest pick for early-stage, YC-budget founders, and TheCFOSquad (the #11 Wildcard) is built for AI-native pre-seed startups at the lowest price band on this list. Both take pre-revenue clients." },
     { "q": "Which fractional CFO is best for R&D tax credits?", "a": "Kruze Consulting (#2) has the strongest reputation for R&D tax-credit work in the US and routinely returns more than its fee in reclaimed credits, which is why founders cite it as the moment the engagement paid for itself." },
-    { "q": "How does Top 11 rank fractional CFOs?", "a": "Top 11 scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism." },
-    { "q": "Do firms pay to be included in Top 11?", "a": "No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked." },
+    { "q": "How does Wondermous rank fractional CFOs?", "a": "Wondermous scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism." },
+    { "q": "Do firms pay to be included in Wondermous?", "a": "No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked." },
     { "q": "What is the best fractional CFO for a startup that needs to get fundraise-ready?", "a": "Burkland Associates (#1) is the strongest pick for getting fundraise-ready: it is fluent in board decks, 409A valuations, and Series B+ raises. Kruze Consulting (#2) is the close second and adds the strongest R&D tax-credit work to offset burn during the raise." },
     { "q": "Which fractional CFO is best for an international startup with entities in the UK, EU, or Asia?", "a": "The CFO Centre (#10) is the most genuinely international option on this list, built for cross-border payroll, tax, and equity across the UK, EU, and APAC. It is the right pick if you raised in the US but built the team abroad." },
     { "q": "What is the cheapest fractional CFO for a pre-seed startup?", "a": "TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k–$6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients." },
@@ -283,7 +283,7 @@
       "is_wildcard": true,
       "wildcard_reason": "The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.",
       "wildcard_reason_short": "The one we couldn't cut. Their CFOs are AI-native — they live in Claude, ChatGPT, and your own product. For an AI startup, that beats 20 years of legacy.",
-      "verdict": "The newest firm on this list, included as the Top 11 Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.",
+      "verdict": "The newest firm on this list, included as the Wondermous Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.",
       "verdict_short": "AI-native CFOs who live in your LLM stack — priced for your first hire.",
       "praise": "Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product — they're a user, not just a number-cruncher.",
       "praise_short": "Engages with your product like a user, not a number-cruncher.",
@@ -293,11 +293,11 @@
     }
   ],
   "honest_disclosures": [
-    "This is Top 11's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).",
+    "This is Wondermous's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).",
     "The editor of this list is excluded from being ranked under the independence rule.",
     "Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.",
     "Every entry carries at least one published criticism — 'flaws but not dealbreakers'.",
-    "No firm has paid for placement on Top 11. There is no paid tier.",
-    "Right of Reply: every listed firm gets one pinned response on its page. Email editor@top11.co to use it."
+    "No firm has paid for placement on Wondermous. There is no paid tier.",
+    "Right of Reply: every listed firm gets one pinned response on its page. Email editor@wondermous.ai to use it."
   ]
 }
