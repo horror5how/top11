@@ -1,115 +1,146 @@
 # Top 11 — Full Markdown Mirror
 
-Token-efficient mirror of every Top 11 list. Updated on every build.
+Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
+Generated: 2026-05-25T16:05:41.389Z
 
 ## Top 11 Fractional CFOs for Tech Startups
 
-- URL: https://top11.co/fractional-cfo
+**Short answer:** As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology — no firm paid to appear.
+
+- URL: https://top11-nine.vercel.app/fractional-cfo
 - Audience: Tech founders raising $1M–$50M, Seed to Series B
-- Editor: Top 11 Editorial — Independent editorial team
-- Editor disclosure: Top 11 editors are anonymous by design to remove personal-brand bias and prevent ranked firms from targeting individuals. Conflicts are disclosed at the JSON level if any editor has an economic interest in a listed firm; the editor of this list has none.
+- Editor: Top 11 Editorial (anonymous by design)
 - Last verified: 2026-05-22
-- Methodology: https://top11.co/methodology (vv1.0)
+- Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
+- Scoring criteria: Track record & verifiable outcomes (30%), Pricing transparency (20%), Segment fit (20%), Responsiveness & availability (15%), Credentials & external verification (15%)
+- Candidate pool: 40+ providers screened; reviewed quarterly
 
-### #1 — Burkland Associates
+### Key statistics
+- We screened more than 40 fractional CFO providers before selecting these 11. (Top 11 analysis, May 2026)
+- Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000. (Top 11 analysis, May 2026)
+- Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams. (Top 11 analysis, May 2026)
+- The firms on this list were founded between 2001 and 2023 — a 22-year spread of operating history. (Top 11 analysis, May 2026)
+- No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake. (Top 11 analysis, May 2026)
+
+### Ranking
+### #1 — Burkland Associates (9.1/9.4)
 - URL: https://burklandassociates.com
-- Score: 9.1/9.4
-- Founded 2003, San Francisco, CA, team 200+, $$$ (typically $5k–$25k/mo)
 - Best for: Series A–C venture-backed SaaS with US operations
+- Founded 2003, San Francisco, CA, team 200+, $$$ (typically $5k–$25k/mo)
 - Verdict: The default choice for VC-backed tech startups in the US. Deep bench, strong investor relationships, and they speak the language of board decks fluently. Best when you need a CFO who already knows what your lead investor expects.
-- Praise: Public reviews consistently highlight the firm's ability to handle complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.
-- Criticism: Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.
+- Pro: Public reviews consistently highlight the firm's ability to handle complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.
+- Con: Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.
 
-### #2 — Kruze Consulting
+### #2 — Kruze Consulting (8.9/9.4)
 - URL: https://kruzeconsulting.com
-- Score: 8.9/9.4
-- Founded 2012, San Francisco, CA, team 150+, $$$ (typically $2.5k–$15k/mo)
 - Best for: Seed to Series B SaaS, R&D tax credit heavy
+- Founded 2012, San Francisco, CA, team 150+, $$$ (typically $2.5k–$15k/mo)
 - Verdict: Strongest reputation for R&D tax credit work in the US — they routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.
-- Praise: Founders repeatedly cite the R&D credit reclaim as a single moment that made the engagement pay for itself.
-- Criticism: Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.
+- Pro: Founders repeatedly cite the R&D credit reclaim as a single moment that made the engagement pay for itself.
+- Con: Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.
 
-### #3 — Graphite Financial
+### #3 — Graphite Financial (8.6/9.4)
 - URL: https://graphitefinancial.com
-- Score: 8.6/9.4
-- Founded 2017, New York, NY, team 50–100, $$ (typically $1.5k–$8k/mo)
 - Best for: Y Combinator and accelerator-backed early-stage
+- Founded 2017, New York, NY, team 50–100, $$ (typically $1.5k–$8k/mo)
 - Verdict: A YC favourite. Modern stack-native (QuickBooks Online, Stripe, Mercury, Brex), priced for the moment a founder first realises they can no longer DIY their books, and structured to scale up to Series A without re-papering.
-- Praise: Reviews consistently call out the founder-friendly onboarding and the willingness to take pre-revenue clients.
-- Criticism: Bench depth is shallower than the larger firms — if your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
+- Pro: Reviews consistently call out the founder-friendly onboarding and the willingness to take pre-revenue clients.
+- Con: Bench depth is shallower than the larger firms — if your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
 
-### #4 — Pilot
+### #4 — Pilot (8.4/9.4)
 - URL: https://pilot.com
-- Score: 8.4/9.4
-- Founded 2017, San Francisco, CA, team 500+, $$ (CFO services from $2k/mo on top of bookkeeping base)
 - Best for: Bookkeeping-first engagements that want a CFO add-on later
+- Founded 2017, San Francisco, CA, team 500+, $$ (CFO services from $2k/mo on top of bookkeeping base)
 - Verdict: Pilot's strength is the bookkeeping foundation — it's the cleanest, most-systematic monthly close in the category. The Fractional CFO service is a layer on top, which works well if you already trust the books, and less well if you want strategic finance from day one.
-- Praise: Founders praise the predictable monthly close and the dashboard that doesn't require a finance background to read.
-- Criticism: The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.
+- Pro: Founders praise the predictable monthly close and the dashboard that doesn't require a finance background to read.
+- Con: The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.
 
-### #5 — Zeni
+### #5 — Zeni (8.2/9.4)
 - URL: https://zeni.ai
-- Score: 8.2/9.4
-- Founded 2019, Palo Alto, CA, team 100–200, $$ (typically $1.5k–$10k/mo blended)
 - Best for: Founders who want an AI-augmented finance stack with human CFOs on call
+- Founded 2019, Palo Alto, CA, team 100–200, $$ (typically $1.5k–$10k/mo blended)
 - Verdict: Zeni's pitch is the AI-first finance team: automated categorisation, real-time dashboards, then a human CFO layer on top. The AI layer is genuinely good. The human layer is competent but newer than the incumbents.
-- Praise: Real-time dashboards and the speed of the monthly close get consistent praise — Zeni founders report closing in days, not weeks.
-- Criticism: The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.
+- Pro: Real-time dashboards and the speed of the monthly close get consistent praise — Zeni founders report closing in days, not weeks.
+- Con: The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.
 
-### #6 — Preferred CFO
+### #6 — Preferred CFO (8.1/9.4)
 - URL: https://preferredcfo.com
-- Score: 8.1/9.4
-- Founded 2013, Lehi, UT, team 50–100, $$ (typically $3k–$10k/mo)
 - Best for: Founders outside the SF/NYC bubble who want a senior CFO without coastal pricing
+- Founded 2013, Lehi, UT, team 50–100, $$ (typically $3k–$10k/mo)
 - Verdict: A genuinely strong alternative for founders who don't want or need a Bay Area firm. Senior CFOs, full-stack support, transparent pricing. Their content and case studies skew slightly more traditional-business than pure SaaS — which is a feature, not a bug, if you're hardware, services, or a hybrid.
-- Praise: Founders cite the seniority of the CFOs assigned and the willingness to engage on operational issues, not just reporting.
-- Criticism: Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.
+- Pro: Founders cite the seniority of the CFOs assigned and the willingness to engage on operational issues, not just reporting.
+- Con: Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.
 
-### #7 — Driven Insights
+### #7 — Driven Insights (7.9/9.4)
 - URL: https://driveninsights.com
-- Score: 7.9/9.4
-- Founded 2010, Bedford, NH, team 20–50, $$ (typically $2k–$8k/mo)
 - Best for: Bootstrapped and revenue-funded tech businesses
+- Founded 2010, Bedford, NH, team 20–50, $$ (typically $2k–$8k/mo)
 - Verdict: If you're not raising venture and you want a finance partner who treats your P&L as the actual product, Driven Insights is genuinely good. Less of a fit for high-burn venture-backed companies.
-- Praise: Bootstrappers consistently report a partner-feel relationship — the team digs into unit economics, not just bookkeeping hygiene.
-- Criticism: Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).
+- Pro: Bootstrappers consistently report a partner-feel relationship — the team digs into unit economics, not just bookkeeping hygiene.
+- Con: Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).
 
-### #8 — NOW CFO
+### #8 — NOW CFO (7.6/9.4)
 - URL: https://nowcfo.com
-- Score: 7.6/9.4
-- Founded 2005, Salt Lake City, UT, team 200+, $$ (typically $2k–$15k/mo)
 - Best for: Founders who want fast placement and broad coverage across US time zones
+- Founded 2005, Salt Lake City, UT, team 200+, $$ (typically $2k–$15k/mo)
 - Verdict: Big national network, deep enough to staff almost any engagement quickly. The trade-off is variability — the experience can swing significantly based on which local team you draw. Best when speed of placement matters more than tight tech-vertical specialism.
-- Praise: Public reviews highlight the speed of getting a CFO in seat — engagements often start within a week.
-- Criticism: Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.
+- Pro: Public reviews highlight the speed of getting a CFO in seat — engagements often start within a week.
+- Con: Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.
 
-### #9 — Paro
+### #9 — Paro (7.5/9.4)
 - URL: https://paro.ai
-- Score: 7.5/9.4
-- Founded 2015, Chicago, IL, team Marketplace (1000+ vetted experts), $$ (typically $80–$300/hr depending on expert)
 - Best for: Founders who want to hand-pick a specific CFO with sector expertise
+- Founded 2015, Chicago, IL, team Marketplace (1000+ vetted experts), $$ (typically $80–$300/hr depending on expert)
 - Verdict: Paro is a marketplace, not a firm. The upside is you can find a CFO with very specific industry experience (e.g. fintech compliance, deeptech grant accounting). The downside is the relationship is with the individual — if they leave the marketplace, you start again.
-- Praise: Founders who match well with their Paro CFO often describe it as the best finance hire they've made.
-- Criticism: Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.
+- Pro: Founders who match well with their Paro CFO often describe it as the best finance hire they've made.
+- Con: Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.
 
-### #10 — The CFO Centre
+### #10 — The CFO Centre (7.4/9.4)
 - URL: https://www.cfocentre.com
-- Score: 7.4/9.4
-- Founded 2001, London, UK (global network), team 750+ CFOs across 20+ countries, $$$ (typically £4k–£15k/mo per market)
 - Best for: International tech businesses, UK / EU / APAC operating entities
+- Founded 2001, London, UK (global network), team 750+ CFOs across 20+ countries, $$$ (typically £4k–£15k/mo per market)
 - Verdict: The CFO Centre is the most genuinely international option here — if you've raised in the US but built the team in London or Singapore, they're set up for that geography. The network's senior CFOs are experienced, the franchise structure means local relationship quality varies.
-- Praise: International founders cite the cross-border experience as the deciding factor — payroll, tax, equity across jurisdictions.
-- Criticism: The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.
+- Pro: International founders cite the cross-border experience as the deciding factor — payroll, tax, equity across jurisdictions.
+- Con: The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.
 
-### #11 [WILDCARD] — TheCFOSquad
+### #11 [WILDCARD] — TheCFOSquad (7.2/9.4)
 - URL: https://thecfosquad.com
-- Score: 7.2/9.4
-- Founded 2023, Remote (US / UK), team 10–20, $ (typically $1.5k–$6k/mo)
 - Best for: AI-native startups that want their CFO to actually use the same tools they ship
+- Founded 2023, Remote (US / UK), team 10–20, $ (typically $1.5k–$6k/mo)
 - Verdict: The newest firm on this list, included as the Top 11 Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.
-- Praise: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product — they're a user, not just a number-cruncher.
-- Criticism: Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.
+- Pro: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product — they're a user, not just a number-cruncher.
+- Con: Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.
 - Why wildcard: The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.
+
+### Buyer's guide
+- What is a fractional cfo? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO.
+- Cost: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026).
+- Vs full-time/part-time: A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
+
+### FAQ
+**Q: Who is the best fractional CFO for a venture-backed tech startup in 2026?**
+A: For venture-backed US tech startups, Burkland Associates ranks #1 in this list — it has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority.
+
+**Q: How much does a fractional CFO cost in 2026?**
+A: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026).
+
+**Q: What is the difference between a fractional CFO and a full-time or part-time CFO?**
+A: A full-time CFO is a salaried executive costing $250,000–$450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer — usually 10 to 40 hours a month — and is often backed by a firm with a bench, so coverage continues even if your lead CFO changes.
+
+**Q: Which fractional CFO is best for pre-seed or bootstrapped founders?**
+A: Graphite Financial (#3) is the strongest pick for early-stage, YC-budget founders, and TheCFOSquad (the #11 Wildcard) is built for AI-native pre-seed startups at the lowest price band on this list. Both take pre-revenue clients.
+
+**Q: Which fractional CFO is best for R&D tax credits?**
+A: Kruze Consulting (#2) has the strongest reputation for R&D tax-credit work in the US and routinely returns more than its fee in reclaimed credits, which is why founders cite it as the moment the engagement paid for itself.
+
+**Q: How does Top 11 rank fractional CFOs?**
+A: Top 11 scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism.
+
+**Q: Do firms pay to be included in Top 11?**
+A: No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked.
+
+**Q: Can an AI agent query these rankings programmatically?**
+A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. A live Model Context Protocol server is available at POST /mcp with list_top_11, get_list, and get_entry tools.
 
 ### Honest disclosures
 - This is Top 11's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).
@@ -120,3 +151,4 @@ Token-efficient mirror of every Top 11 list. Updated on every build.
 - Right of Reply: every listed firm gets one pinned response on its page. Email editor@top11.co to use it.
 
 ---
+

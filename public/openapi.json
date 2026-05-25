@@ -1,0 +1,138 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Top 11 API",
+    "version": "1.1.0",
+    "description": "Read API for Top 11 independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
+    "contact": {
+      "email": "agents@top11.co",
+      "url": "https://top11-nine.vercel.app/for-agents"
+    },
+    "license": {
+      "name": "CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://top11-nine.vercel.app/api"
+    }
+  ],
+  "paths": {
+    "/lists": {
+      "get": {
+        "summary": "List every published ranking",
+        "operationId": "listLists",
+        "responses": {
+          "200": {
+            "description": "Index of available lists",
+            "content": {
+              "application/json": {}
+            }
+          }
+        }
+      }
+    },
+    "/lists/{slug}": {
+      "get": {
+        "summary": "Get the full ranking for a list",
+        "operationId": "getList",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "example": "fractional-cfo"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Full structured ranking JSON"
+          },
+          "404": {
+            "description": "List not found"
+          }
+        }
+      }
+    },
+    "/lists/{slug}/{rank}": {
+      "get": {
+        "summary": "Get a single entry by rank",
+        "operationId": "getEntry",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "rank",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 11
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Single ranked entry"
+          },
+          "404": {
+            "description": "Entry not found"
+          }
+        }
+      }
+    },
+    "/lists/{slug}/md": {
+      "get": {
+        "summary": "Markdown mirror of a list",
+        "operationId": "getListMarkdown",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "text/markdown"
+          }
+        }
+      }
+    },
+    "/lists/{slug}/csv": {
+      "get": {
+        "summary": "CSV export of a list",
+        "operationId": "getListCsv",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "text/csv"
+          }
+        }
+      }
+    }
+  }
+}

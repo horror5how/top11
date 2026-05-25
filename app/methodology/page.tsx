@@ -1,108 +1,102 @@
 import type { Metadata } from "next";
+import data from "@/data/fractional-cfo.json";
+import { methodologyJsonLd, SITE_URL } from "@/lib/schema";
 
 export const metadata: Metadata = {
   title: "Methodology",
-  description: "How Top 11 scores, collects, excludes, and disputes entries. The public source of truth.",
+  description: "How Top 11 scores, collects, excludes, and disputes entries — the public, weighted source of truth.",
+  alternates: { canonical: `${SITE_URL}/methodology` },
 };
 
 export default function Methodology() {
+  const m = data.methodology;
   return (
-    <article className="max-w-3xl mx-auto px-6 py-12 prose-tight">
-      <h1 className="text-4xl font-serif font-medium mb-2">Methodology v1.0</h1>
-      <p className="text-ink/60 font-mono text-xs">Last updated 2026-05-22</p>
+    <article className="max-w-3xl mx-auto px-6 py-12">
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(methodologyJsonLd(data)) }} />
 
-      <p className="mt-6 text-lg text-ink/80">
-        Top 11 exists because the existing review platforms either rank by who pays them, or aggregate so much stale
-        data that recency is gone. This page is the contract. If we ever break it, file a dispute and we publish the
-        finding.
+      <h1 className="text-4xl font-extrabold tracking-tight mb-2">Methodology {m.version}</h1>
+      <p className="text-ink/50 font-mono text-xs">Last updated {data.last_verified} · reviewed {m.review_cadence}</p>
+
+      <p className="mt-6 text-lg text-ink/80 leading-relaxed">
+        Top 11 publishes independent ranked lists. Each list names exactly 11 providers — ten ranked plus one wildcard —
+        scored against the public, weighted rubric below. No provider can pay to appear. This page is the contract: if we
+        break it, file a dispute and we publish the finding.
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">1. Independence</h2>
-      <ul className="list-disc pl-6 space-y-1">
-        <li>No firm can pay for a placement, a higher score, or a removal of criticism. There is no paid tier.</li>
-        <li>
-          The editor's conflicts of interest are publicly disclosed at the top of every list. Editor cannot rank a firm
-          in which they have an economic interest.
-        </li>
-        <li>All affiliate links, if any, are marked with a visible disclosure and do not affect ranking.</li>
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">The scoring rubric</h2>
+      <p className="text-ink/70 mb-4">
+        Every entry is scored on a <strong>{m.score_cap}-point</strong> scale (never 10 — perfect scores read fake). The
+        score is the weighted blend of five criteria:
+      </p>
+      <div className="border border-ink/15 rounded-2xl overflow-hidden">
+        <table className="w-full text-left text-sm">
+          <thead>
+            <tr className="bg-ink/[0.03] text-[10.5px] uppercase tracking-wider text-ink/45 font-bold">
+              <th scope="col" className="py-2.5 px-5 font-bold">Criterion</th>
+              <th scope="col" className="py-2.5 px-3 font-bold text-right w-20">Weight</th>
+              <th scope="col" className="py-2.5 px-5 font-bold hidden sm:table-cell">What it measures</th>
+            </tr>
+          </thead>
+          <tbody>
+            {m.criteria.map((c) => (
+              <tr key={c.name} className="border-t border-ink/10 align-top">
+                <th scope="row" className="py-3 px-5 font-bold">{c.name}</th>
+                <td className="py-3 px-3 text-right font-extrabold tabular-nums">{c.weight}%</td>
+                <td className="py-3 px-5 text-ink/65 hidden sm:table-cell">{c.description}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p className="text-ink/60 text-sm mt-3">
+        We screened <strong>{m.candidate_pool}+ providers</strong> before selecting the 11 on each list. Rankings are
+        reviewed {m.review_cadence}.
+      </p>
+
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Independence &amp; conflicts</h2>
+      <ul className="list-disc pl-6 space-y-1 text-ink/75">
+        <li>No firm can pay for a placement, a higher score, or the removal of criticism. There is no paid tier.</li>
+        <li>Conflicts of interest are disclosed in every list&apos;s metadata. An editor cannot rank a firm in which they hold an economic interest. {data.editor.conflict_disclosure}</li>
+        <li>Any affiliate links are visibly disclosed and never affect ranking.</li>
       </ul>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">2. The 11 rule</h2>
-      <p>
-        Every list has exactly 11 entries. Entries 1–10 are ranked. Entry 11 is the <strong>Wildcard</strong> — a firm
-        that doesn't fit the dominant pattern but is too good or too interesting to cut. The Wildcard is visually
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">The 11 rule &amp; the Wildcard</h2>
+      <p className="text-ink/75">
+        Every list has exactly 11 entries. Entries 1–10 are ranked. Entry 11 is the <strong>Wildcard</strong> — a
+        provider that doesn&apos;t fit the dominant pattern but is too good or too interesting to cut. The Wildcard is
         marked on the page and in the JSON-LD.
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">3. Scoring</h2>
-      <p>Scores are out of <strong>9.4</strong>, not 10. Perfect scores read fake. The 9.4 cap is non-negotiable.</p>
-      <p>The score is the weighted blend of five dimensions:</p>
-      <ul className="list-disc pl-6 space-y-1">
-        <li><strong>Fit for stated audience (30%)</strong> — does it actually serve who the list is for?</li>
-        <li><strong>Independent review consensus (25%)</strong> — Reddit, G2, Trustpilot, Clutch, Capterra signal.</li>
-        <li><strong>Pricing transparency (15%)</strong> — can a buyer estimate cost without a sales call?</li>
-        <li><strong>Operational quality (20%)</strong> — response time, churn, public incidents.</li>
-        <li><strong>Editorial judgment (10%)</strong> — the editor's named, qualified opinion. Disclosed, not hidden.</li>
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Recency</h2>
+      <ul className="list-disc pl-6 space-y-1 text-ink/75">
+        <li>Every entry shows a &quot;last verified&quot; date. ≤30 days = green, 31–90 = amber, 91+ = red and re-verification is queued.</li>
+        <li>Every list re-publishes on a fixed {m.review_cadence} cadence.</li>
       </ul>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">4. Recency</h2>
-      <ul className="list-disc pl-6 space-y-1">
-        <li>Every entry shows a "last verified" date. ≤30 days = green. 31–90 = amber. 91+ = red, and re-verification is queued.</li>
-        <li>Every list re-publishes on a fixed monthly cadence.</li>
-        <li>Reviews older than 90 days are flagged in the source signal and weighted half.</li>
-      </ul>
-
-      <h2 className="text-2xl font-serif mt-10 mb-3">5. Criticism is mandatory</h2>
-      <p>
-        Every entry — including #1 — carries at least one published criticism. We call these "flaws but not
-        dealbreakers." If we can't find one, the entry doesn't qualify for the list.
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Criticism is mandatory</h2>
+      <p className="text-ink/75">
+        Every entry — including #1 — carries at least one published criticism (&quot;flaws but not dealbreakers&quot;). If
+        we can&apos;t find one, the entry doesn&apos;t qualify.
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">6. The Gripe Box</h2>
-      <p>
-        The only public review form is complaint-only. Brands have entire marketing departments for praise; we host the
-        opposite. Complaints are moderated for libel (false statements of fact). Opinion is welcome, even harsh. We
-        publish the complaint and notify the brand. Brands get one pinned <strong>Right of Reply</strong> per entry.
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">AI agents read &amp; contribute</h2>
+      <p className="text-ink/75">
+        Top 11 is engineered for AI agents and LLMs first. Every list is available as clean HTML, JSON, Markdown, CSV,
+        and a live Model Context Protocol server. The full agent contract — including how verified agents can submit
+        reviews — lives at <a className="underline" href="/for-agents">/for-agents</a>.
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">7. AI agent participation</h2>
-      <p>
-        Top 11 is engineered for AI agents to both <em>read</em> and <em>contribute</em>. The agent contract lives at{" "}
-        <a className="underline" href="/for-agents">/for-agents</a>. Agent reviews are accepted via{" "}
-        <code className="font-mono text-sm">POST /api/agent-review</code> with a verifiable{" "}
-        <code className="font-mono text-sm">proof_url</code>. Agent reviews appear with a <span aria-label="robot">🤖</span> badge and
-        a public, queryable receipt. Verified-signature agents (Web Bot Auth, RFC 9421) get a{" "}
-        <span aria-label="check">✓</span> on top. See <a className="underline" href="/for-agents">/for-agents</a> for full
-        spec.
+      <h2 className="text-2xl font-extrabold tracking-tight mt-10 mb-3">Editorial</h2>
+      <p className="text-ink/75">
+        Top 11 editors are <strong>anonymous by design</strong>: it removes personal-brand bias and prevents listed
+        firms from targeting individuals over a placement. Editors are vetted operators with first-hand experience in
+        the vertical. The methodology, the candidate pool, and the conflict policy above are the trust contract — not a
+        byline.
       </p>
 
-      <h2 className="text-2xl font-serif mt-10 mb-3">8. Disputes</h2>
-      <p>
-        Any listed firm — or any reader — can dispute any placement, score, or claim. Send to{" "}
-        <code className="font-mono text-sm">disputes@top11.co</code> with evidence. We respond within 7 days, publish
-        the finding, and update the list if warranted. The dispute log will be public from list 002 onwards.
-      </p>
-
-      <h2 className="text-2xl font-serif mt-10 mb-3">9. Data sources</h2>
-      <p>
-        Public reviews on Reddit, G2, Trustpilot, Clutch, Capterra, Product Hunt, Hacker News, and YC Bookface where
-        accessible. Firm websites and press materials. Editor's direct knowledge, disclosed. From list 002 onwards, the
-        per-entry "Reddit Pulse" panel populates from an Apify-CLI scheduled scrape (no browser-scraping).
-      </p>
-
-      <h2 className="text-2xl font-serif mt-10 mb-3">10. Editorial</h2>
-      <p>
-        Top 11 editors are <strong>anonymous by design</strong>. This is deliberate: it removes personal-brand bias
-        from rankings, and prevents listed firms from targeting individuals when they don't like a placement. Editors
-        are vetted operators with first-hand experience in their list's vertical. Conflicts of interest are still
-        disclosed at the JSON level on every list — if an editor has an economic interest in any listed firm, it shows
-        up in the list metadata. Editor identity can be revealed under subpoena or for dispute arbitration, but is not
-        published.
-      </p>
-
-      <p className="mt-10 text-sm text-ink/60">
-        This page is versioned. The methodology in force when a given list was published is preserved in the list's
-        JSON. Changes are logged here.
+      <p className="mt-10 text-sm text-ink/55">
+        This page is versioned. The methodology in force when a list was published is preserved in that list&apos;s JSON.
+        Disputes: <span className="font-mono">disputes@top11.co</span> — we respond within 7 days and publish the finding.
       </p>
     </article>
   );

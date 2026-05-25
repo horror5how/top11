@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Top 11 — Ranking updates</title>
+  <link href="https://top11-nine.vercel.app/feed.xml" rel="self"/>
+  <link href="https://top11-nine.vercel.app/"/>
+  <id>https://top11-nine.vercel.app/</id>
+  <updated>2026-05-25T16:05:41.389Z</updated>
+  <author><name>Top 11 Editorial</name></author>
+  <entry>
+    <title>Top 11 Fractional CFOs for Tech Startups</title>
+    <link href="https://top11-nine.vercel.app/fractional-cfo"/>
+    <id>https://top11-nine.vercel.app/fractional-cfo</id>
+    <updated>2026-05-22T00:00:00.000Z</updated>
+    <summary>Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</summary>
+    <content type="text">As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&amp;D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology — no firm paid to appear.</content>
+  </entry>
+</feed>

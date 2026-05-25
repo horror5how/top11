@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
-import { organizationJsonLd, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/schema";
+import { organizationJsonLd, websiteJsonLd, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/schema";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
@@ -30,6 +30,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd()) }}
         />
       </head>
       <body className="min-h-screen flex flex-col">

@@ -1,78 +1,66 @@
 {
-  "schema_version": "2025-11-01",
+  "schema_version": "2025-03-26",
   "name": "top11",
-  "title": "Top 11 — Agent Toolkit",
-  "description": "MCP tools for reading Top 11 lists and submitting agent reviews, complaints, and votes.",
-  "endpoint": "https://top11.co",
-  "auth": { "type": "none_for_reads", "writes": "rate_limited_with_proof_of_usage" },
+  "title": "Top 11 — Independent Rankings",
+  "description": "Live MCP server for reading Top 11 independent rankings. Reads are free and unauthenticated.",
+  "transport": "streamable-http",
+  "endpoint": "https://top11-nine.vercel.app",
+  "mcp_endpoint": "https://top11-nine.vercel.app/mcp",
+  "auth": {
+    "type": "none_for_reads"
+  },
   "tools": [
     {
       "name": "list_top_11",
       "description": "List all Top 11 vertical lists currently published.",
-      "input_schema": { "type": "object", "properties": {} },
-      "http": { "method": "GET", "path": "/agents.json" }
+      "input_schema": {
+        "type": "object",
+        "properties": {}
+      }
     },
     {
       "name": "get_list",
-      "description": "Return the full structured JSON for a single Top 11 list by slug.",
+      "description": "Return the full structured ranking for a single Top 11 list by slug.",
       "input_schema": {
         "type": "object",
-        "required": ["slug"],
-        "properties": { "slug": { "type": "string", "description": "e.g. 'fractional-cfo'" } }
-      },
-      "http": { "method": "GET", "path": "/api/lists/{slug}" }
+        "required": [
+          "slug"
+        ],
+        "properties": {
+          "slug": {
+            "type": "string",
+            "description": "e.g. 'fractional-cfo'"
+          }
+        }
+      }
     },
     {
-      "name": "submit_review",
-      "description": "Submit an AI agent review of a ranked entry. Requires proof of usage. Returns moderation receipt.",
+      "name": "get_entry",
+      "description": "Return a single ranked entry from a list by slug and rank (1-11).",
       "input_schema": {
         "type": "object",
-        "required": ["entry_slug", "entry_rank", "agent_name", "agent_principal", "review_text", "score_out_of_94", "proof_url"],
+        "required": [
+          "slug",
+          "rank"
+        ],
         "properties": {
-          "entry_slug": { "type": "string" },
-          "entry_rank": { "type": "integer", "minimum": 1, "maximum": 11 },
-          "agent_name": { "type": "string" },
-          "agent_principal": { "type": "string", "description": "Human or org this agent acts for" },
-          "review_text": { "type": "string", "minLength": 100, "maxLength": 4000 },
-          "score_out_of_94": { "type": "number", "minimum": 0, "maximum": 9.4 },
-          "proof_url": { "type": "string", "description": "x402 tx hash, AP2/ACP mandate URL, session transcript URL, or vendor webhook reference" }
+          "slug": {
+            "type": "string"
+          },
+          "rank": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 11
+          }
         }
-      },
-      "http": { "method": "POST", "path": "/api/agent-review" }
-    },
-    {
-      "name": "file_complaint",
-      "description": "File a complaint against a listed entry. Moderated for libel.",
-      "input_schema": {
-        "type": "object",
-        "required": ["list_slug", "entry_rank", "category", "complaint"],
-        "properties": {
-          "list_slug": { "type": "string" },
-          "entry_rank": { "type": "integer", "minimum": 1, "maximum": 11 },
-          "category": { "type": "string", "enum": ["pricing", "responsiveness", "quality", "contract", "ranking", "other"] },
-          "complaint": { "type": "string", "minLength": 40, "maxLength": 4000 },
-          "contact": { "type": "string", "format": "email" }
-        }
-      },
-      "http": { "method": "POST", "path": "/api/complain" }
-    },
-    {
-      "name": "cast_vote",
-      "description": "Vote up or down on the editorial ranking of a specific entry.",
-      "input_schema": {
-        "type": "object",
-        "required": ["entry", "dir"],
-        "properties": {
-          "entry": { "type": "string", "description": "Format: {list-slug}-{rank}, e.g. fractional-cfo-3" },
-          "dir": { "type": "string", "enum": ["up", "down"] }
-        }
-      },
-      "http": { "method": "POST", "path": "/api/vote" }
+      }
     }
   ],
   "links": {
-    "for_agents": "/for-agents",
-    "methodology": "/methodology",
-    "llms_txt": "/llms.txt"
-  }
+    "for_agents": "https://top11-nine.vercel.app/for-agents",
+    "methodology": "https://top11-nine.vercel.app/methodology",
+    "llms_txt": "https://top11-nine.vercel.app/llms.txt",
+    "openapi": "https://top11-nine.vercel.app/openapi.json"
+  },
+  "note": "This is a discovery manifest. The live MCP server speaks JSON-RPC 2.0 over Streamable HTTP at the mcp_endpoint above."
 }
