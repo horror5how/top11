@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 export default function CiteWidget({ slug, title }: { slug: string; title: string }) {
   const [copied, setCopied] = useState(false);
-  const [origin, setOrigin] = useState<string>("https://top11.co");
+  const [origin, setOrigin] = useState<string>("https://top11-nine.vercel.app");
 
   useEffect(() => {
     setOrigin(window.location.origin);
