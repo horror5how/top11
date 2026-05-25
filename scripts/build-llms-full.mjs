@@ -52,7 +52,8 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   md.push("");
   md.push(`- [Agent guide](${DOMAIN}/for-agents): How to read, cite, and query Top 11 programmatically.`);
   md.push(`- [List index API](${DOMAIN}/api/lists): JSON array of every published list.`);
-  md.push(`- [MCP server](${DOMAIN}/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_top_11, get_list, get_entry tools.`);
+  md.push(`- [MCP server](${DOMAIN}/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_top_11, get_list, get_entry, and recommend tools.`);
+  md.push(`- Recommend by problem: GET ${DOMAIN}/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget} — hand over a user's situation, get the matched picks with reasons.`);
   md.push(`- [OpenAPI spec](${DOMAIN}/openapi.json): Machine-readable description of the read API.`);
   md.push(`- [Full Markdown mirror](${DOMAIN}/llms-full.txt): Every list expanded inline for one-fetch ingestion.`);
   md.push("");
@@ -202,6 +203,8 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       { name: "read_entry", method: "GET", path: "/api/lists/{slug}/{rank}", description: "A single ranked entry." },
       { name: "read_list_markdown", method: "GET", path: "/api/lists/{slug}/md", description: "Clean Markdown mirror of one list." },
       { name: "read_list_csv", method: "GET", path: "/api/lists/{slug}/csv", description: "CSV export of one list." },
+      { name: "read_entry_markdown", method: "GET", path: "/api/lists/{slug}/{rank}/md", description: "Self-contained Markdown passage for one entry, shaped for LLM context." },
+      { name: "recommend", method: "GET", path: "/api/lists/{slug}/recommend", description: "Hand over a user's problem/segment/budget; get the top matched picks with reasons.", query_params: ["problem", "segment", "budget", "limit"] },
       {
         name: "submit_review",
         method: "POST",
@@ -233,6 +236,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     { name: "list_top_11", description: "List all Top 11 vertical lists currently published.", input_schema: { type: "object", properties: {} } },
     { name: "get_list", description: "Return the full structured ranking for a single Top 11 list by slug.", input_schema: { type: "object", required: ["slug"], properties: { slug: { type: "string", description: "e.g. 'fractional-cfo'" } } } },
     { name: "get_entry", description: "Return a single ranked entry from a list by slug and rank (1-11).", input_schema: { type: "object", required: ["slug", "rank"], properties: { slug: { type: "string" }, rank: { type: "integer", minimum: 1, maximum: 11 } } } },
+    { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment and budget band) and get the best-matched picks from a list, each with the reason it was chosen.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
   ];
   const mcp = {
     schema_version: "2025-03-26",
@@ -294,6 +298,24 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       },
       "/lists/{slug}/csv": {
         get: { summary: "CSV export of a list", operationId: "getListCsv", parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }], responses: { 200: { description: "text/csv" } } },
+      },
+      "/lists/{slug}/{rank}/md": {
+        get: { summary: "Markdown passage for one entry", operationId: "getEntryMarkdown", parameters: [{ name: "slug", in: "path", required: true, schema: { type: "string" } }, { name: "rank", in: "path", required: true, schema: { type: "integer", minimum: 1, maximum: 11 } }], responses: { 200: { description: "text/markdown" } } },
+      },
+      "/lists/{slug}/recommend": {
+        get: {
+          summary: "Problem -> pick matcher",
+          operationId: "recommend",
+          description: "Hand over a user's problem/segment/budget; returns the top matched picks with reasons.",
+          parameters: [
+            { name: "slug", in: "path", required: true, schema: { type: "string" } },
+            { name: "problem", in: "query", required: false, schema: { type: "string" }, description: "The user's need in plain language." },
+            { name: "segment", in: "query", required: false, schema: { type: "string" } },
+            { name: "budget", in: "query", required: false, schema: { type: "string", enum: ["$", "$$", "$$$"] } },
+            { name: "limit", in: "query", required: false, schema: { type: "integer", minimum: 1, maximum: 11 } },
+          ],
+          responses: { 200: { description: "Ranked matched picks with reasons" }, 404: { description: "List not found" } },
+        },
       },
     },
   };

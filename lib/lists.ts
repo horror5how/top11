@@ -41,7 +41,12 @@ export function listIndex() {
   };
 }
 
+function matchIndex(l: ListData): Record<string, { solves: string[]; personas: string[] }> {
+  return ((l as AnyEntry).match_index as Record<string, { solves: string[]; personas: string[] }>) || {};
+}
+
 export function listEnvelope(l: ListData) {
+  const mi = matchIndex(l);
   return {
     _meta: {
       schema: "top11-list-v1",
@@ -49,6 +54,7 @@ export function listEnvelope(l: ListData) {
       human_page: `${SITE_URL}/${l.slug}`,
       markdown: `${SITE_URL}/api/lists/${l.slug}/md`,
       csv: `${SITE_URL}/api/lists/${l.slug}/csv`,
+      recommend: `${SITE_URL}/api/lists/${l.slug}/recommend?problem={problem}&segment={segment}&budget={budget}`,
       llms_full: `${SITE_URL}/llms-full.txt`,
       openapi: `${SITE_URL}/openapi.json`,
       mcp: `${SITE_URL}/mcp`,
@@ -58,7 +64,10 @@ export function listEnvelope(l: ListData) {
     ...l,
     entries: l.entries.map((e) => ({
       ...e,
+      problems_solved: mi[String(e.rank)]?.solves ?? [],
+      personas: mi[String(e.rank)]?.personas ?? [],
       _entry_api: `${SITE_URL}/api/lists/${l.slug}/${e.rank}`,
+      _entry_md: `${SITE_URL}/api/lists/${l.slug}/${e.rank}/md`,
       _anchor: `${SITE_URL}/${l.slug}#rank-${e.rank}`,
     })),
   };
@@ -67,16 +76,20 @@ export function listEnvelope(l: ListData) {
 export function entryEnvelope(l: ListData, rank: number) {
   const e = l.entries.find((x) => x.rank === rank);
   if (!e) return null;
+  const m = matchIndex(l)[String(rank)] || { solves: [], personas: [] };
   return {
     _meta: {
       schema: "top11-entry-v1",
       self: `${SITE_URL}/api/lists/${l.slug}/${rank}`,
+      markdown: `${SITE_URL}/api/lists/${l.slug}/${rank}/md`,
       list: `${SITE_URL}/api/lists/${l.slug}`,
       anchor: `${SITE_URL}/${l.slug}#rank-${rank}`,
     },
     slug: l.slug,
     list_title: l.title,
     ...e,
+    problems_solved: m.solves,
+    personas: m.personas,
   };
 }
 

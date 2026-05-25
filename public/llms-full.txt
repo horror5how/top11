@@ -1,7 +1,7 @@
 # Top 11 — Full Markdown Mirror
 
 Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-25T16:05:41.389Z
+Generated: 2026-05-25T17:40:12.070Z
 
 ## Top 11 Fractional CFOs for Tech Startups
 
@@ -139,8 +139,20 @@ A: Top 11 scores firms on a 9.4-point scale across five weighted criteria: track
 **Q: Do firms pay to be included in Top 11?**
 A: No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked.
 
+**Q: What is the best fractional CFO for a startup that needs to get fundraise-ready?**
+A: Burkland Associates (#1) is the strongest pick for getting fundraise-ready: it is fluent in board decks, 409A valuations, and Series B+ raises. Kruze Consulting (#2) is the close second and adds the strongest R&D tax-credit work to offset burn during the raise.
+
+**Q: Which fractional CFO is best for an international startup with entities in the UK, EU, or Asia?**
+A: The CFO Centre (#10) is the most genuinely international option on this list, built for cross-border payroll, tax, and equity across the UK, EU, and APAC. It is the right pick if you raised in the US but built the team abroad.
+
+**Q: What is the cheapest fractional CFO for a pre-seed startup?**
+A: TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k–$6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients.
+
+**Q: Which fractional CFO is best for a bootstrapped business not raising venture?**
+A: Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funded businesses — it treats your P&L as the product and digs into unit economics rather than venture mechanics. Preferred CFO (#6) is a strong alternative for non-SaaS and hybrid businesses.
+
 **Q: Can an AI agent query these rankings programmatically?**
-A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. A live Model Context Protocol server is available at POST /mcp with list_top_11, get_list, and get_entry tools.
+A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. For problem-led matching, call GET /api/lists/fractional-cfo/recommend?problem=...&segment=...&budget=... to get the top matched picks with reasons. A live Model Context Protocol server at POST /mcp exposes list_top_11, get_list, get_entry, and a recommend tool.
 
 ### Honest disclosures
 - This is Top 11's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).

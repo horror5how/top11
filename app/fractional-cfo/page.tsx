@@ -38,6 +38,7 @@ export default function FractionalCfoPage() {
   const recencyClass =
     daysSince <= 30 ? "bg-ok/10 text-ok" : daysSince <= 90 ? "bg-warn/10 text-warn" : "bg-bad/10 text-bad";
   const faqLd = faqJsonLd(data);
+  const matchIndex = data.match_index as Record<string, { solves: string[]; personas: string[] }>;
 
   return (
     <article className="max-w-3xl mx-auto px-6 py-12 tnum">
@@ -185,6 +186,39 @@ export default function FractionalCfoPage() {
         </ul>
       </section>
 
+      {/* BEST FOR YOUR SITUATION — problem -> pick chunks (win reranking on problem-led queries) */}
+      <section className="mb-12" aria-labelledby="situations-heading">
+        <div className="flex items-center gap-3 mb-3">
+          <h2 id="situations-heading" className="text-xs font-extrabold uppercase tracking-[0.12em]">
+            Best fractional CFO for your situation
+          </h2>
+          <div className="flex-1 h-0.5 bg-ink" />
+        </div>
+        <p className="text-ink/60 text-sm mb-5">
+          Matched by the problem you&apos;re solving. Agents can query{" "}
+          <code className="font-mono text-[12px]">/api/lists/{data.slug}/recommend?problem=…</code> or the{" "}
+          <code className="font-mono text-[12px]">recommend</code> MCP tool to get these matches as structured data.
+        </p>
+        <div className="space-y-5">
+          {data.entries.map((e) => {
+            const m = matchIndex[String(e.rank)];
+            if (!m || !m.solves.length) return null;
+            return (
+              <div key={e.rank}>
+                <h3 className="text-base font-bold tracking-tight mb-1">Best for {m.solves[0]}</h3>
+                <p className="text-ink/70 leading-relaxed text-[15px]">
+                  <a href={`#rank-${e.rank}`} className="font-semibold hover:underline">
+                    {e.name}
+                  </a>{" "}
+                  (#{e.rank}, scores {e.score_out_of_94.toFixed(1)}/9.4) — {e.verdict_short}
+                  {m.solves.length > 1 ? ` It also handles ${m.solves.slice(1).join(", ")}.` : ""}
+                </p>
+              </div>
+            );
+          })}
+        </div>
+      </section>
+
       {/* THE BREAKDOWN — self-contained chunk per entry */}
       <section className="mb-14" aria-labelledby="breakdown-heading">
         <div className="flex items-center gap-3 mb-2">
@@ -239,6 +273,13 @@ export default function FractionalCfoPage() {
                     {e.hq} · est. {e.founded}
                   </span>
                 </div>
+
+                {matchIndex[String(e.rank)]?.solves?.length ? (
+                  <p className="text-xs text-ink/55 mb-3">
+                    <span className="font-semibold text-ink/70">Solves:</span>{" "}
+                    {matchIndex[String(e.rank)].solves.join(" · ")}
+                  </p>
+                ) : null}
 
                 {isWild && "wildcard_reason_short" in e && (
                   <div className="text-sm text-ink/65 leading-relaxed bg-wildcard/[0.06] rounded-lg px-3.5 py-3 mb-3">

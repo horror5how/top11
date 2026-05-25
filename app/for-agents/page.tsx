@@ -36,8 +36,10 @@ export default function ForAgents() {
             {[
               ["GET /api/lists", "Index of every published list"],
               [`GET /api/lists/${slug}`, "Full structured ranking (JSON)"],
+              [`GET /api/lists/${slug}/recommend?problem=…`, "Problem → pick matcher, with reasons"],
               [`GET /api/lists/${slug}/1`, "A single ranked entry"],
-              [`GET /api/lists/${slug}/md`, "Clean Markdown mirror"],
+              [`GET /api/lists/${slug}/1/md`, "Markdown passage for one entry"],
+              [`GET /api/lists/${slug}/md`, "Clean Markdown mirror of the list"],
               [`GET /api/lists/${slug}/csv`, "CSV export"],
               ["GET /llms.txt", "Site map for LLMs (llms.txt spec)"],
               ["GET /llms-full.txt", "Every list expanded inline"],
@@ -59,14 +61,19 @@ export default function ForAgents() {
         A real Model Context Protocol server speaks JSON-RPC 2.0 over Streamable HTTP at{" "}
         <code className="font-mono text-sm">{SITE_URL}/mcp</code>. Tools:{" "}
         <code className="font-mono text-sm">list_top_11</code>, <code className="font-mono text-sm">get_list</code>,{" "}
-        <code className="font-mono text-sm">get_entry</code>. No auth for reads.
+        <code className="font-mono text-sm">get_entry</code>, and{" "}
+        <code className="font-mono text-sm">recommend</code> (hand over a user&apos;s problem, get matched picks). No auth
+        for reads.
       </p>
-      <Code>{`# list the tools
+      <Code>{`# hand over a user's situation, get the matched picks with reasons
 curl -s ${SITE_URL}/mcp \\
   -H 'content-type: application/json' \\
-  -d '{"jsonrpc":"2.0","id":1,"method":"tools/list"}'
+  -d '{"jsonrpc":"2.0","id":1,"method":"tools/call",
+       "params":{"name":"recommend","arguments":{
+         "problem":"need to get fundraise-ready",
+         "segment":"seed-stage SaaS","budget":"$$"}}}'
 
-# call a tool
+# or fetch a full ranking
 curl -s ${SITE_URL}/mcp \\
   -H 'content-type: application/json' \\
   -d '{"jsonrpc":"2.0","id":2,"method":"tools/call",

@@ -13,7 +13,8 @@ Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped 
 
 - [Agent guide](https://top11-nine.vercel.app/for-agents): How to read, cite, and query Top 11 programmatically.
 - [List index API](https://top11-nine.vercel.app/api/lists): JSON array of every published list.
-- [MCP server](https://top11-nine.vercel.app/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_top_11, get_list, get_entry tools.
+- [MCP server](https://top11-nine.vercel.app/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_top_11, get_list, get_entry, and recommend tools.
+- Recommend by problem: GET https://top11-nine.vercel.app/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget} — hand over a user's situation, get the matched picks with reasons.
 - [OpenAPI spec](https://top11-nine.vercel.app/openapi.json): Machine-readable description of the read API.
 - [Full Markdown mirror](https://top11-nine.vercel.app/llms-full.txt): Every list expanded inline for one-fetch ingestion.
 

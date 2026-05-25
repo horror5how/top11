@@ -133,6 +133,102 @@
           }
         }
       }
+    },
+    "/lists/{slug}/{rank}/md": {
+      "get": {
+        "summary": "Markdown passage for one entry",
+        "operationId": "getEntryMarkdown",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "rank",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 11
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "text/markdown"
+          }
+        }
+      }
+    },
+    "/lists/{slug}/recommend": {
+      "get": {
+        "summary": "Problem -> pick matcher",
+        "operationId": "recommend",
+        "description": "Hand over a user's problem/segment/budget; returns the top matched picks with reasons.",
+        "parameters": [
+          {
+            "name": "slug",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "problem",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "The user's need in plain language."
+          },
+          {
+            "name": "segment",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "budget",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "$",
+                "$$",
+                "$$$"
+              ]
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 11
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Ranked matched picks with reasons"
+          },
+          "404": {
+            "description": "List not found"
+          }
+        }
+      }
     }
   }
 }

@@ -54,6 +54,40 @@
           }
         }
       }
+    },
+    {
+      "name": "recommend",
+      "description": "Hand over a user's problem in plain language (plus optional segment and budget band) and get the best-matched picks from a list, each with the reason it was chosen.",
+      "input_schema": {
+        "type": "object",
+        "required": [
+          "problem"
+        ],
+        "properties": {
+          "problem": {
+            "type": "string"
+          },
+          "segment": {
+            "type": "string"
+          },
+          "budget": {
+            "type": "string",
+            "enum": [
+              "$",
+              "$$",
+              "$$$"
+            ]
+          },
+          "slug": {
+            "type": "string"
+          },
+          "limit": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 11
+          }
+        }
+      }
     }
   ],
   "links": {
