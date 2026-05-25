@@ -6,7 +6,7 @@ export default function Home() {
     <div className="max-w-5xl mx-auto px-6 py-16">
       <div className="space-y-4">
         <p className="font-mono text-xs tracking-widest text-ink/50 uppercase">Launch list · {data.published}</p>
-        <h1 className="text-5xl sm:text-6xl font-serif font-medium leading-tight">
+        <h1 className="text-5xl sm:text-6xl font-extrabold tracking-tight leading-[1.05]">
           Independent ranked lists.
           <br />
           <span className="text-wildcard">Always 11.</span>{" "}
@@ -35,7 +35,7 @@ export default function Home() {
             <span className="font-mono text-xs uppercase tracking-widest text-wildcard">List #001</span>
             <span className="font-mono text-xs text-ink/50">Last verified {data.last_verified}</span>
           </div>
-          <h3 className="text-2xl font-serif font-medium">{data.title}</h3>
+          <h3 className="text-2xl font-bold tracking-tight">{data.title}</h3>
           <p className="text-ink/70 mt-2">{data.subtitle}</p>
           <p className="mt-4 text-sm text-ink/60">
             For: <span className="text-ink">{data.audience}</span>
@@ -62,7 +62,7 @@ function Stat({ label, value, highlight }: { label: string; value: string; highl
   return (
     <div className="border border-ink/10 rounded-xl p-4">
       <p className="font-mono text-xs uppercase tracking-widest text-ink/50">{label}</p>
-      <p className={`text-3xl font-serif mt-1 ${highlight ? "text-wildcard" : ""}`}>{value}</p>
+      <p className={`text-3xl font-extrabold tracking-tight mt-1 ${highlight ? "text-wildcard" : ""}`}>{value}</p>
     </div>
   );
 }

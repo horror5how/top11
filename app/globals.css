@@ -17,3 +17,6 @@ html, body {
 .wildcard-glow {
   box-shadow: 0 0 0 2px theme(colors.wildcard), 0 8px 28px rgba(255, 87, 34, 0.18);
 }
+
+/* tabular figures so scores + ranks line up in the leaderboard */
+.tnum { font-feature-settings: "tnum" 1; }

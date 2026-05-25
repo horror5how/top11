@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
+import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
 import { organizationJsonLd, SITE_NAME, SITE_TAGLINE, SITE_URL } from "@/lib/schema";
+
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -20,7 +23,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" className={inter.variable}>
       <head>
         <link rel="icon" href="/favicon.ico" />
         <link rel="alternate" type="application/json" title="Agent manifest" href="/agents.json" />
@@ -32,9 +35,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       <body className="min-h-screen flex flex-col">
         <header className="border-b border-ink/10">
           <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
-            <Link href="/" className="font-mono font-bold text-lg tracking-tight">
+            <Link href="/" className="font-extrabold text-lg tracking-tight">
               top<span className="text-wildcard">11</span>
-              <span className="text-ink/40 text-xs ml-2 font-sans font-normal">independent rankings</span>
+              <span className="text-ink/40 text-xs ml-2 font-normal tracking-normal">independent rankings</span>
             </Link>
             <nav className="flex items-center gap-5 text-sm">
               <Link href="/fractional-cfo" className="hover:underline">Lists</Link>
