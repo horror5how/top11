@@ -26,6 +26,9 @@ export function organizationJsonLd() {
     name: SITE_NAME,
     url: SITE_URL,
     logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
+    email: "agents@wondermous.ai",
+    foundingDate: "2026",
+    sameAs: ["https://github.com/horror5how/top11"],
     description:
       "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches a market, scores providers against a public, weighted methodology, and publishes niche-within-niche rankings for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
     knowsAbout: ["AI-native product rankings", "independent service comparison", "answer engine optimization", "recommendations for AI agents"],

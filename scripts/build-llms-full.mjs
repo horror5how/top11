@@ -373,4 +373,12 @@ ${entries}
 // keep the IndexNow key file present
 write(`${INDEXNOW_KEY}.txt`, INDEXNOW_KEY + "\n");
 
+// Mirror the MCP registry manifest (root server.json) to a served URL for discoverability.
+try {
+  fs.copyFileSync(path.join(root, "server.json"), path.join(pub, "server.json"));
+  console.log("wrote public/server.json");
+} catch (e) {
+  console.log("server.json mirror skipped:", e.message);
+}
+
 console.log("All static machine-discovery files generated for", DOMAIN);
