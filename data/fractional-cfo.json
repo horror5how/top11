@@ -14,6 +14,11 @@
   "last_verified": "2026-05-22",
   "next_review": "2026-06-22",
   "methodology_version": "v1.0",
+  "category": "Finance & Operations",
+  "subsector": "Fractional CFO",
+  "changelog": [
+    { "date": "2026-05-22", "text": "List published — 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1." }
+  ],
   "answer_capsule": "As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology — no firm paid to appear.",
   "methodology": {
     "version": "v1.0",

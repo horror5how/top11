@@ -14,6 +14,11 @@
   "last_verified": "2026-05-25",
   "next_review": "2026-08-25",
   "methodology_version": "v1.0",
+  "category": "Healthcare",
+  "subsector": "Dental practice management",
+  "changelog": [
+    { "date": "2026-05-25", "text": "List published — 11 products ranked; Open Dental debuts at #1 as the multi-operatory / same-day scheduling standout." }
+  ],
   "answer_capsule": "As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling — the case where one patient is seen across several chairs and providers in a single day — is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology — no vendor paid to appear.",
   "methodology": {
     "version": "v1.0",

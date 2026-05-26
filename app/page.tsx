@@ -29,10 +29,10 @@ export default function Home() {
           <span className="hidden sm:inline text-white/35 text-xs ml-2 font-normal">AI made for AI</span>
         </Link>
         <div className="flex items-center gap-5 text-sm text-white/60">
-          <a href="#lists" className="hover:text-white transition">Lists</a>
+          <Link href="/directory" className="hover:text-white transition">Lists</Link>
           <Link href="/methodology" className="hover:text-white transition hidden sm:inline">Methodology</Link>
           <Link href="/for-agents" className="hover:text-white transition text-[#ff8a5c]">For Agents</Link>
-          <a href="#lists" className="rounded-full bg-white text-black px-4 py-1.5 font-semibold hover:bg-white/90 transition">Browse</a>
+          <Link href="/directory" className="rounded-full bg-white text-black px-4 py-1.5 font-semibold hover:bg-white/90 transition">Browse</Link>
         </div>
       </nav>
 
