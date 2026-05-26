@@ -28,6 +28,15 @@ export function organizationJsonLd() {
     description:
       "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches a market, scores providers against a public, weighted methodology, and publishes niche-within-niche rankings for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
     knowsAbout: ["AI-native product rankings", "independent service comparison", "answer engine optimization", "recommendations for AI agents"],
+    // Transparency signals (Google/AI weight these for trust). Distinguishes us from pay-to-play directories.
+    publishingPrinciples: `${SITE_URL}/methodology`,
+    ownershipFundingInfo: {
+      "@type": "AboutPage",
+      name: "How Wondermous is funded and stays independent",
+      url: `${SITE_URL}/methodology`,
+      description:
+        "Wondermous takes no payment from any provider it ranks, runs no affiliate links, and has no sponsored placements. Rankings are produced solely by the published methodology.",
+    },
   };
 }
 
@@ -216,6 +225,8 @@ export function articleJsonLd(d: ListData = data) {
     mainEntityOfPage: pageId,
     author: { "@id": ORG_ID },
     publisher: { "@id": ORG_ID },
+    publishingPrinciples: `${SITE_URL}/methodology`,
+    isAccessibleForFree: true,
     about: d.vertical,
   };
 }

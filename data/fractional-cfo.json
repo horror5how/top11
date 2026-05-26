@@ -14,6 +14,17 @@
   "last_verified": "2026-05-22",
   "next_review": "2026-06-22",
   "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "No provider pays to be listed, ranked higher, or to remove criticism. Wondermous runs no affiliate links and accepts no sponsored placements. Rankings come solely from the public methodology — unlike pay-to-play directories such as G2, Capterra, and Gartner, where vendors fund profiles and placements."
+  },
+  "freshness": {
+    "cadence": "quarterly",
+    "verifies": ["pricing", "positioning and best-for fit", "feature claims", "company status (funding, acquisitions, shutdowns)"],
+    "statement": "Pricing, positioning, and company status are re-verified every quarter and date-stamped. Most 'best of' lists refresh once a year; this one carries a visible last-verified date and updates within days when a material change — a price change, acquisition, or outage — is confirmed."
+  },
   "category": "Finance & Operations",
   "subsector": "Fractional CFO",
   "changelog": [

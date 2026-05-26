@@ -74,16 +74,26 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
         <p className="text-[17px] leading-relaxed text-ink/90">{list.answer_capsule}</p>
       </div>
 
-      <div className="text-sm text-ink/65 leading-relaxed mb-8 flex flex-wrap gap-x-6 gap-y-1">
-        <span>
-          Scored on a <strong className="text-ink/80">9.4-point</strong> scale across{" "}
-          <a href="/methodology" className="underline decoration-ink/20 hover:decoration-ink">
-            {list.methodology.criteria.length} weighted criteria
-          </a>
-          , reviewed {list.methodology.review_cadence}.
-        </span>
-        <span>No firm paid to appear. The editor holds no stake in any firm listed.</span>
+      {/* Independence + verified-freshness — the two differentiators, explicit and citable */}
+      <div className="grid sm:grid-cols-2 gap-3 mb-6">
+        <div className="rounded-xl border border-ink/15 bg-ink/[0.02] p-4">
+          <p className="font-mono text-[10px] uppercase tracking-widest text-ok mb-1.5">✓ Independent</p>
+          <p className="text-sm text-ink/70 leading-relaxed">{list.independence.statement}</p>
+        </div>
+        <div className="rounded-xl border border-ink/15 bg-ink/[0.02] p-4">
+          <p className="font-mono text-[10px] uppercase tracking-widest text-ink/45 mb-1.5">
+            ↻ Verified {verifiedLabel} · re-checked {list.freshness.cadence}
+          </p>
+          <p className="text-sm text-ink/70 leading-relaxed">{list.freshness.statement}</p>
+        </div>
       </div>
+      <p className="text-sm text-ink/55 mb-8">
+        Scored on a <strong className="text-ink/75">9.4-point</strong> scale across{" "}
+        <a href="/methodology" className="underline decoration-ink/20 hover:decoration-ink">
+          {list.methodology.criteria.length} weighted criteria
+        </a>
+        , reviewed {list.methodology.review_cadence}.
+      </p>
 
       <CiteWidget slug={list.slug} title={list.title} />
 
