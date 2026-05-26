@@ -104,6 +104,10 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       md.push(`- Verdict: ${e.verdict}`);
       md.push(`- Pro: ${e.praise}`);
       md.push(`- Con: ${e.criticism}`);
+      if (e.risk_signals) {
+        md.push(`- Risk signals (${e.risk_signals.level}, checked ${e.risk_signals.checked}): ${e.risk_signals.summary}`);
+        for (const s of e.risk_signals.signals) md.push(`  - [${s.category}] ${s.summary} — ${s.source_name}: ${s.source_url}${s.date ? ` (${s.date})` : ""}`);
+      }
       if (e.is_wildcard && e.wildcard_reason) md.push(`- Why wildcard: ${e.wildcard_reason}`);
       md.push("");
     }

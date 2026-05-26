@@ -1,10 +1,34 @@
-import type { ListData } from "@/lib/lists";
+import { getList, listSlugs, type ListData, type RiskSignals, type RiskLevel } from "@/lib/lists";
 
 // Deterministic, explainable problem -> pick matcher over the real list data.
-// Used by /api/lists/[slug]/recommend and the MCP `recommend` tool.
+// Used by /api/lists/[slug]/recommend, /api/recommend (cross-list), and the MCP `recommend` tool.
 
 type MatchIndex = Record<string, { solves: string[]; personas: string[] }>;
 type AnyEntry = Record<string, unknown>;
+
+/** Given a free-text need, pick the most relevant published list (so an agent
+ *  can recommend without knowing the slug). Returns null if nothing matches. */
+export function pickBestList(query: string): string | null {
+  const qt = new Set(tokens(query));
+  if (!qt.size) return null;
+  let best: { slug: string; score: number } | null = null;
+  for (const slug of listSlugs()) {
+    const l = getList(slug);
+    if (!l) continue;
+    const ll = l as AnyEntry;
+    const parts: string[] = [l.title, l.vertical, l.subtitle,
+      ...((ll.segment_tags as string[]) || []),
+      ...((ll.problem_tags as string[]) || []),
+      ...((ll.query_intents as string[]) || [])];
+    const mi = (ll.match_index as MatchIndex) || {};
+    for (const k of Object.keys(mi)) parts.push(...mi[k].solves, ...mi[k].personas);
+    const hay = new Set(tokens(parts.join(" ")));
+    let score = 0;
+    for (const t of qt) if (hay.has(t)) score++;
+    if (!best || score > best.score) best = { slug, score };
+  }
+  return best && best.score > 0 ? best.slug : null;
+}
 
 const STOP = new Set([
   "the","a","an","for","to","and","or","of","my","i","we","our","is","are","with","that","need","needs","needed",
@@ -12,6 +36,8 @@ const STOP = new Set([
   "have","has","im","we're","were","looking","find","should","use","using","good","great","really","just",
 ]);
 const PRICE = { $: 1, $$: 2, $$$: 3 } as Record<string, number>;
+// Verified public risk signals lower a recommendation, proportional to severity.
+const RISK_PENALTY: Record<RiskLevel, number> = { none: 0, low: -1, moderate: -5, elevated: -12 };
 
 function tokens(s: string): string[] {
   return (s.toLowerCase().match(/[a-z0-9]+/g) || []).filter((w) => w.length > 2 && !STOP.has(w));
@@ -45,7 +71,10 @@ export function recommend(
       else { budgetOk = false; score -= 6; }
     }
     score += (e.score_out_of_94 / 9.4) * 2; // gentle editorial tiebreaker
-    return { e, m, sym, score, matchedSolves, matchedPersonas, budgetOk };
+    // Risk factor: verified public risk signals lower a recommendation.
+    const risk = (e as { risk_signals?: RiskSignals }).risk_signals;
+    score += RISK_PENALTY[risk?.level ?? "none"] ?? 0;
+    return { e, m, sym, score, matchedSolves, matchedPersonas, budgetOk, risk };
   });
 
   const ranked = hasQuery
@@ -69,6 +98,8 @@ export function recommend(
       price_band: x.sym,
       solves: x.m.solves,
       personas: x.m.personas,
+      risk_level: x.risk?.level ?? "none",
+      risk_summary: x.risk?.summary ?? null,
       why: buildWhy(x),
       anchor: `/${list.slug}#rank-${x.e.rank}`,
     })),
@@ -80,6 +111,7 @@ function buildWhy(x: {
   matchedSolves: string[];
   matchedPersonas: string[];
   budgetOk: boolean;
+  risk?: RiskSignals;
 }): string {
   const bits: string[] = [];
   if (x.matchedSolves.length) bits.push(`solves ${x.matchedSolves.slice(0, 2).join(" and ")}`);
@@ -88,5 +120,8 @@ function buildWhy(x: {
     ? `#${x.e.rank} ${x.e.name} — ${bits.join("; ")}.`
     : `#${x.e.rank} ${x.e.name} — ${x.e.verdict_short}`;
   if (!x.budgetOk) why += " Note: this sits above the requested budget band.";
+  if (x.risk && (x.risk.level === "moderate" || x.risk.level === "elevated")) {
+    why += ` Risk note (${x.risk.level}): ${x.risk.summary}`;
+  }
   return why;
 }

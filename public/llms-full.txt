@@ -1,7 +1,7 @@
 # Wondermous — Full Markdown Mirror
 
 Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-25T19:24:18.272Z
+Generated: 2026-05-26T18:25:47.669Z
 
 ## The 11 Best Dental CRMs & Practice-Management Software
 
@@ -155,7 +155,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - URL: https://top11-nine.vercel.app/fractional-cfo
 - Audience: Tech founders raising $1M–$50M, Seed to Series B
 - Editor: Wondermous AI (anonymous by design)
-- Last verified: 2026-05-22
+- Last verified: 2026-05-26
 - Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
 - Scoring criteria: Track record & verifiable outcomes (30%), Pricing transparency (20%), Segment fit (20%), Responsiveness & availability (15%), Credentials & external verification (15%)
 - Candidate pool: 40+ providers screened; reviewed quarterly
@@ -175,6 +175,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: The default choice for VC-backed tech startups in the US. Deep bench, strong investor relationships, and they speak the language of board decks fluently. Best when you need a CFO who already knows what your lead investor expects.
 - Pro: Public reviews consistently highlight the firm's ability to handle complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.
 - Con: Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.
+- Risk signals (none, checked 2026-05-26): No major public risk signals found as of May 2026 (checked data breaches, lawsuits, billing complaints, and review-rating trend). Only employee-side reviews and a non-accredited BBB listing exist, neither of which is a buyer risk.
 
 ### #2 — Kruze Consulting (8.9/9.4)
 - URL: https://kruzeconsulting.com
@@ -183,6 +184,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: Strongest reputation for R&D tax credit work in the US — they routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.
 - Pro: Founders repeatedly cite the R&D credit reclaim as a single moment that made the engagement pay for itself.
 - Con: Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.
+- Risk signals (low, checked 2026-05-26): No verifiable data breach or lawsuit; a couple of isolated, years-old negative client reviews on Yelp sit against an otherwise positive 4.3/5 rating, so risk is low and not a current trend.
+  - [support] An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews. — Yelp: https://www.yelp.com/brands/kruze-consulting (2016)
+  - [billing] A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern. — Yelp: https://www.yelp.com/biz/kruze-consulting-san-francisco (2018)
 
 ### #3 — Graphite Financial (8.6/9.4)
 - URL: https://graphitefinancial.com
@@ -191,6 +195,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: A YC favourite. Modern stack-native (QuickBooks Online, Stripe, Mercury, Brex), priced for the moment a founder first realises they can no longer DIY their books, and structured to scale up to Series A without re-papering.
 - Pro: Reviews consistently call out the founder-friendly onboarding and the willingness to take pre-revenue clients.
 - Con: Bench depth is shallower than the larger firms — if your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
+- Risk signals (none, checked 2026-05-26): No verifiable public risk signals found as of May 2026 (checked data breaches, lawsuits, and billing complaints). Buyer reviews on Clutch are 5.0 across 8 reviews with no billing or service complaints.
 
 ### #4 — Pilot (8.4/9.4)
 - URL: https://pilot.com
@@ -199,6 +204,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: Pilot's strength is the bookkeeping foundation — it's the cleanest, most-systematic monthly close in the category. The Fractional CFO service is a layer on top, which works well if you already trust the books, and less well if you want strategic finance from day one.
 - Pro: Founders praise the predictable monthly close and the dashboard that doesn't require a finance background to read.
 - Con: The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.
+- Risk signals (low, checked 2026-05-26): No verifiable breach or lawsuit; some genuine billing complaints on Trustpilot about charging small businesses corporate rates and upselling, but reviews overall skew positive (9/10 on TrustRadius).
+  - [billing] Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses. — Trustpilot: https://www.trustpilot.com/review/pilot.com (2026)
+  - [support] Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend. — TrustRadius: https://www.trustradius.com/products/pilot-com/reviews (2026)
 
 ### #5 — Zeni (8.2/9.4)
 - URL: https://zeni.ai
@@ -207,6 +215,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: Zeni's pitch is the AI-first finance team: automated categorisation, real-time dashboards, then a human CFO layer on top. The AI layer is genuinely good. The human layer is competent but newer than the incumbents.
 - Pro: Real-time dashboards and the speed of the monthly close get consistent praise — Zeni founders report closing in days, not weeks.
 - Con: The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.
+- Risk signals (low, checked 2026-05-26): No confirmed breach or lawsuit against Zeni; one TrustRadius reviewer alleges ACH fraud draining their account in October 2024, but this is a single unverified user allegation, not a proven Zeni security breach.
+  - [support] A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach. — TrustRadius: https://www.trustradius.com/products/zeni/reviews (2024-10)
 
 ### #6 — Preferred CFO (8.1/9.4)
 - URL: https://preferredcfo.com
@@ -215,6 +225,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: A genuinely strong alternative for founders who don't want or need a Bay Area firm. Senior CFOs, full-stack support, transparent pricing. Their content and case studies skew slightly more traditional-business than pure SaaS — which is a feature, not a bug, if you're hardware, services, or a hybrid.
 - Pro: Founders cite the seniority of the CFOs assigned and the willingness to engage on operational issues, not just reporting.
 - Con: Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.
+- Risk signals (none, checked 2026-05-26): No verifiable breach, lawsuit, billing dispute, or service-quality complaint pattern found in public records as of May 2026.
 
 ### #7 — Driven Insights (7.9/9.4)
 - URL: https://driveninsights.com
@@ -223,6 +234,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: If you're not raising venture and you want a finance partner who treats your P&L as the actual product, Driven Insights is genuinely good. Less of a fit for high-burn venture-backed companies.
 - Pro: Bootstrappers consistently report a partner-feel relationship — the team digs into unit economics, not just bookkeeping hygiene.
 - Con: Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).
+- Risk signals (none, checked 2026-05-26): No verifiable risk signals found as of May 2026; BBB rates it A+ with no complaints, and no lawsuits, breaches, or billing/support complaint patterns surfaced.
 
 ### #8 — NOW CFO (7.6/9.4)
 - URL: https://nowcfo.com
@@ -231,6 +243,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: Big national network, deep enough to staff almost any engagement quickly. The trade-off is variability — the experience can swing significantly based on which local team you draw. Best when speed of placement matters more than tight tech-vertical specialism.
 - Pro: Public reviews highlight the speed of getting a CFO in seat — engagements often start within a week.
 - Con: Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.
+- Risk signals (low, checked 2026-05-26): Only a few isolated, years-old client complaints about a non-refunded fee and a poor placement; no breach, lawsuit, or recent service-quality pattern found.
+  - [billing] A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee. — Yelp: https://www.yelp.com/brands/now-cfo (2021)
+  - [support] A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews. — Yelp: https://www.yelp.com/brands/now-cfo (2022)
 
 ### #9 — Paro (7.5/9.4)
 - URL: https://paro.ai
@@ -239,6 +254,10 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: Paro is a marketplace, not a firm. The upside is you can find a CFO with very specific industry experience (e.g. fintech compliance, deeptech grant accounting). The downside is the relationship is with the individual — if they leave the marketplace, you start again.
 - Pro: Founders who match well with their Paro CFO often describe it as the best finance hire they've made.
 - Con: Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.
+- Risk signals (moderate, checked 2026-05-26): Multiple independent platforms show a recurring client pattern of billing disputes and unresponsive support when an assigned expert fails, though no data breach or verified lawsuit against Paro was found. Paro is a marketplace, so experience varies by the individual expert matched.
+  - [billing] BBB rates Paro C+, citing failure to respond to a complaint filed against the business. — BBB: https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984 (2026)
+  - [billing] A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'. — Trustpilot: https://www.trustpilot.com/review/paro.ai (2026-02)
+  - [support] A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews. — G2: https://www.g2.com/products/paro-ai/reviews (2026-03)
 
 ### #10 — The CFO Centre (7.4/9.4)
 - URL: https://www.cfocentre.com
@@ -247,6 +266,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: The CFO Centre is the most genuinely international option here — if you've raised in the US but built the team in London or Singapore, they're set up for that geography. The network's senior CFOs are experienced, the franchise structure means local relationship quality varies.
 - Pro: International founders cite the cross-border experience as the deciding factor — payroll, tax, equity across jurisdictions.
 - Con: The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.
+- Risk signals (low, checked 2026-05-26): Predominantly positive public reviews (Trustpilot around 4 stars) with one isolated customer complaint about unclear communication; no breaches, lawsuits, or billing-fraud records found. As a franchise network, service quality is tied to the local partner.
+  - [support] A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency. — Trustpilot: https://www.trustpilot.com/review/cfocentre.com (2026)
 
 ### #11 [WILDCARD] — TheCFOSquad (7.2/9.4)
 - URL: https://thecfosquad.com
@@ -255,6 +276,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Verdict: The newest firm on this list, included as the Wondermous Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.
 - Pro: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product — they're a user, not just a number-cruncher.
 - Con: Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.
+- Risk signals (none, checked 2026-05-26): No verifiable public-record risk signals found as of May 2026; the firm is new (founded 2023) with little public footprint, so there is no breach, lawsuit, or complaint history to report.
 - Why wildcard: The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.
 
 ### Buyer's guide
@@ -305,6 +327,7 @@ A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /a
 - Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.
 - Every entry carries at least one published criticism — 'flaws but not dealbreakers'.
 - No firm has paid for placement on Wondermous. There is no paid tier.
+- Each entry carries a public risk-signal check (data breaches, lawsuits, billing complaints, support-rating trend) with cited sources; 'no major public risk signals found' means we searched and found nothing verifiable as of the date shown, not that none can exist.
 - Right of Reply: every listed firm gets one pinned response on its page. Email editor@wondermous.ai to use it.
 
 ---

@@ -1,4 +1,5 @@
 import data from "@/data/fractional-cfo.json";
+import type { RiskSignals } from "@/lib/lists";
 
 type Entry = (typeof data)["entries"][number];
 type ListData = typeof data;
@@ -69,6 +70,7 @@ export function breadcrumbJsonLd(crumbs: { name: string; url: string }[]) {
 /** One ranked entry -> a Service/ProfessionalService node with editorial Review (no AggregateRating). */
 function entryNode(list: ListData, e: Entry) {
   const isWild = "is_wildcard" in e && (e as { is_wildcard?: boolean }).is_wildcard;
+  const risk = (e as { risk_signals?: RiskSignals }).risk_signals;
   const entryId = `${SITE_URL}/${list.slug}#rank-${e.rank}`;
   return {
     "@type": ["ProfessionalService", "Service"],
@@ -93,6 +95,13 @@ function entryNode(list: ListData, e: Entry) {
       ...(e.team_size_band ? [{ "@type": "PropertyValue", name: "Team size", value: e.team_size_band }] : []),
       { "@type": "PropertyValue", name: "Pricing", value: e.pricing_band },
       ...(isWild ? [{ "@type": "PropertyValue", name: "Designation", value: "Wildcard (#11)" }] : []),
+      ...(risk
+        ? [{
+            "@type": "PropertyValue",
+            name: "Public risk signals",
+            value: `${risk.summary} (level: ${risk.level}; checked ${risk.checked})`,
+          }]
+        : []),
     ],
     review: {
       "@type": "Review",
@@ -104,6 +113,10 @@ function entryNode(list: ListData, e: Entry) {
       reviewBody: e.verdict,
       positiveNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.praise }] },
       negativeNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.criticism }] },
+      // Real provenance for the risk signals — machine-attributable citations.
+      ...(risk && risk.signals.length
+        ? { citation: risk.signals.map((s) => ({ "@type": "CreativeWork", name: `${s.category}: ${s.summary}`, url: s.source_url, ...(s.date ? { datePublished: s.date } : {}) })) }
+        : {}),
       reviewRating: {
         "@type": "Rating",
         ratingValue: e.score_out_of_94,

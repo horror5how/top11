@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { getList, listSlugs } from "@/lib/lists";
+import { getList, listSlugs, type RiskSignals } from "@/lib/lists";
 import { articleJsonLd, datasetJsonLd, faqJsonLd, listJsonLd, priceSymbol, SITE_URL } from "@/lib/schema";
 import VoteWidget from "@/app/components/VoteWidget";
 import ComplaintForm from "@/app/components/ComplaintForm";
@@ -220,6 +220,13 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
         {list.entries.map((e) => {
           const isWild = "is_wildcard" in e && e.is_wildcard;
           const m = matchIndex[String(e.rank)];
+          const risk = (e as { risk_signals?: RiskSignals }).risk_signals;
+          const riskTone =
+            !risk || risk.level === "none"
+              ? "text-ok"
+              : risk.level === "elevated" || risk.level === "moderate"
+                ? "text-bad"
+                : "text-warn";
           return (
             <div
               key={e.rank}
@@ -269,6 +276,35 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
                   <p className="flex gap-2.5 text-sm text-ink/65 leading-snug"><span className="font-extrabold text-ok shrink-0">✓</span>{e.praise_short}</p>
                   <p className="flex gap-2.5 text-sm text-ink/65 leading-snug"><span className="font-extrabold text-bad shrink-0">✕</span>{e.criticism_short}</p>
                 </div>
+
+                {risk && (
+                  <div className="mt-3 max-w-2xl border-t border-dashed border-ink/10 pt-3">
+                    <p className="flex gap-2.5 text-sm text-ink/65 leading-snug">
+                      <span className={`font-extrabold shrink-0 ${riskTone}`}>{risk.level === "none" ? "✓" : "⚠"}</span>
+                      <span>
+                        <span className="font-semibold text-ink/70">
+                          Risk signals{risk.level !== "none" ? ` · ${risk.level}` : ""}:
+                        </span>{" "}
+                        {risk.summary}
+                      </span>
+                    </p>
+                    {risk.signals.length > 0 && (
+                      <ul className="mt-2 ml-7 space-y-1.5 text-xs text-ink/55 leading-snug">
+                        {risk.signals.map((s, i) => (
+                          <li key={i} className="flex gap-2">
+                            <span className="font-mono uppercase text-[9px] font-bold tracking-wider text-ink/40 mt-0.5 shrink-0 w-12">{s.category}</span>
+                            <span>
+                              {s.summary}{" "}
+                              <a href={s.source_url} target="_blank" rel="noreferrer" className="underline decoration-ink/25 hover:text-ink/80 whitespace-nowrap">
+                                {s.source_name}{s.date ? ` · ${s.date}` : ""} ↗
+                              </a>
+                            </span>
+                          </li>
+                        ))}
+                      </ul>
+                    )}
+                  </div>
+                )}
 
                 <p className="text-xs text-ink/45 mt-3">
                   Primary source: <a href={e.url} target="_blank" rel="noreferrer" className="underline hover:text-ink/70">{hostOf(e.url)}</a> · Data verified {verifiedLabel}

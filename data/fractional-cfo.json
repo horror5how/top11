@@ -11,7 +11,7 @@
     "conflict_disclosure": "Wondermous is an autonomous AI: it researches the market, scores every provider against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement — Wondermous holds no economic interest in any provider it ranks."
   },
   "published": "2026-05-22",
-  "last_verified": "2026-05-22",
+  "last_verified": "2026-05-26",
   "next_review": "2026-06-22",
   "methodology_version": "v1.0",
   "independence": {
@@ -22,12 +22,13 @@
   },
   "freshness": {
     "cadence": "quarterly",
-    "verifies": ["pricing", "positioning and best-for fit", "feature claims", "company status (funding, acquisitions, shutdowns)"],
+    "verifies": ["pricing", "positioning and best-for fit", "feature claims", "company status (funding, acquisitions, shutdowns)", "public risk signals (breaches, lawsuits, billing complaints, support-rating trend)"],
     "statement": "Pricing, positioning, and company status are re-verified every quarter and date-stamped. Most 'best of' lists refresh once a year; this one carries a visible last-verified date and updates within days when a material change — a price change, acquisition, or outage — is confirmed."
   },
   "category": "Finance & Operations",
   "subsector": "Fractional CFO",
   "changelog": [
+    { "date": "2026-05-26", "text": "Added structured public risk-signal research to all 11 entries — data breaches, lawsuits, billing complaints, and support-rating trend, each with a cited source or an honest 'none found as of May 2026'. One firm (Paro, #9) carries a moderate signal corroborated across BBB, Trustpilot, and G2." },
     { "date": "2026-05-22", "text": "List published — 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1." }
   ],
   "answer_capsule": "As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology — no firm paid to appear.",
@@ -112,7 +113,13 @@
       "praise_short": "Handles 409A, SaaS rev-rec, and Series B+ raises without missing a beat.",
       "criticism": "Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.",
       "criticism_short": "Too pricey for pre-seed; slower response at quarter-close.",
-      "sources_pending": ["reddit:r/startups", "g2:burkland", "trustpilot:burkland"]
+      "sources_pending": ["reddit:r/startups", "g2:burkland", "trustpilot:burkland"],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-26",
+        "summary": "No major public risk signals found as of May 2026 (checked data breaches, lawsuits, billing complaints, and review-rating trend). Only employee-side reviews and a non-accredited BBB listing exist, neither of which is a buyer risk.",
+        "signals": []
+      }
     },
     {
       "rank": 2,
@@ -131,7 +138,16 @@
       "praise_short": "R&D credit reclaims routinely exceed their own fee.",
       "criticism": "Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.",
       "criticism_short": "Weak for hardware / non-US; productised model is less flexible.",
-      "sources_pending": ["reddit:r/startups", "g2:kruze", "ycombinator:hn"]
+      "sources_pending": ["reddit:r/startups", "g2:kruze", "ycombinator:hn"],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-26",
+        "summary": "No verifiable data breach or lawsuit; a couple of isolated, years-old negative client reviews on Yelp sit against an otherwise positive 4.3/5 rating, so risk is low and not a current trend.",
+        "signals": [
+          { "category": "support", "summary": "An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/kruze-consulting", "date": "2016" },
+          { "category": "billing", "summary": "A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern.", "source_name": "Yelp", "source_url": "https://www.yelp.com/biz/kruze-consulting-san-francisco", "date": "2018" }
+        ]
+      }
     },
     {
       "rank": 3,
@@ -150,7 +166,13 @@
       "praise_short": "Founder-friendly onboarding; happily takes pre-revenue clients.",
       "criticism": "Bench depth is shallower than the larger firms — if your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.",
       "criticism_short": "Shallow bench; you'll likely outgrow it past $15M ARR.",
-      "sources_pending": ["reddit:r/ycombinator", "yc:bookface"]
+      "sources_pending": ["reddit:r/ycombinator", "yc:bookface"],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-26",
+        "summary": "No verifiable public risk signals found as of May 2026 (checked data breaches, lawsuits, and billing complaints). Buyer reviews on Clutch are 5.0 across 8 reviews with no billing or service complaints.",
+        "signals": []
+      }
     },
     {
       "rank": 4,
@@ -169,7 +191,16 @@
       "praise_short": "Predictable monthly close and a dashboard anyone can read.",
       "criticism": "The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.",
       "criticism_short": "The CFO layer is an add-on, not a first-class offering.",
-      "sources_pending": ["reddit:r/startups", "g2:pilot"]
+      "sources_pending": ["reddit:r/startups", "g2:pilot"],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-26",
+        "summary": "No verifiable breach or lawsuit; some genuine billing complaints on Trustpilot about charging small businesses corporate rates and upselling, but reviews overall skew positive (9/10 on TrustRadius).",
+        "signals": [
+          { "category": "billing", "summary": "Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/pilot.com", "date": "2026" },
+          { "category": "support", "summary": "Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend.", "source_name": "TrustRadius", "source_url": "https://www.trustradius.com/products/pilot-com/reviews", "date": "2026" }
+        ]
+      }
     },
     {
       "rank": 5,
@@ -188,7 +219,15 @@
       "praise_short": "Real-time dashboards; closes in days, not weeks.",
       "criticism": "The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.",
       "criticism_short": "Less institutional history; quality varies by assigned CFO.",
-      "sources_pending": ["reddit:r/startups", "producthunt:zeni"]
+      "sources_pending": ["reddit:r/startups", "producthunt:zeni"],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-26",
+        "summary": "No confirmed breach or lawsuit against Zeni; one TrustRadius reviewer alleges ACH fraud draining their account in October 2024, but this is a single unverified user allegation, not a proven Zeni security breach.",
+        "signals": [
+          { "category": "support", "summary": "A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach.", "source_name": "TrustRadius", "source_url": "https://www.trustradius.com/products/zeni/reviews", "date": "2024-10" }
+        ]
+      }
     },
     {
       "rank": 6,
@@ -207,7 +246,13 @@
       "praise_short": "Seniority of CFOs and willingness to engage on operations.",
       "criticism": "Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.",
       "criticism_short": "Less wired into YC / Tier-1 VC term-sheet nuance.",
-      "sources_pending": ["g2:preferred-cfo", "clutch:preferred-cfo"]
+      "sources_pending": ["g2:preferred-cfo", "clutch:preferred-cfo"],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-26",
+        "summary": "No verifiable breach, lawsuit, billing dispute, or service-quality complaint pattern found in public records as of May 2026.",
+        "signals": []
+      }
     },
     {
       "rank": 7,
@@ -226,7 +271,13 @@
       "praise_short": "Partner-feel; digs into unit economics, not just bookkeeping.",
       "criticism": "Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).",
       "criticism_short": "Thin on venture mechanics (SAFEs, preferred, secondaries).",
-      "sources_pending": ["clutch:driven-insights", "g2:driven-insights"]
+      "sources_pending": ["clutch:driven-insights", "g2:driven-insights"],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-26",
+        "summary": "No verifiable risk signals found as of May 2026; BBB rates it A+ with no complaints, and no lawsuits, breaches, or billing/support complaint patterns surfaced.",
+        "signals": []
+      }
     },
     {
       "rank": 8,
@@ -245,7 +296,16 @@
       "praise_short": "A CFO in seat often within a week.",
       "criticism": "Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.",
       "criticism_short": "Tech specialism is uneven across regions.",
-      "sources_pending": ["g2:now-cfo", "clutch:now-cfo"]
+      "sources_pending": ["g2:now-cfo", "clutch:now-cfo"],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-26",
+        "summary": "Only a few isolated, years-old client complaints about a non-refunded fee and a poor placement; no breach, lawsuit, or recent service-quality pattern found.",
+        "signals": [
+          { "category": "billing", "summary": "A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/now-cfo", "date": "2021" },
+          { "category": "support", "summary": "A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/now-cfo", "date": "2022" }
+        ]
+      }
     },
     {
       "rank": 9,
@@ -264,7 +324,17 @@
       "praise_short": "Find very specific sector expertise (fintech, deeptech).",
       "criticism": "Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.",
       "criticism_short": "Relationship is with the individual; no firm-level memory if they churn.",
-      "sources_pending": ["g2:paro", "trustpilot:paro"]
+      "sources_pending": ["g2:paro", "trustpilot:paro"],
+      "risk_signals": {
+        "level": "moderate",
+        "checked": "2026-05-26",
+        "summary": "Multiple independent platforms show a recurring client pattern of billing disputes and unresponsive support when an assigned expert fails, though no data breach or verified lawsuit against Paro was found. Paro is a marketplace, so experience varies by the individual expert matched.",
+        "signals": [
+          { "category": "billing", "summary": "BBB rates Paro C+, citing failure to respond to a complaint filed against the business.", "source_name": "BBB", "source_url": "https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984", "date": "2026" },
+          { "category": "billing", "summary": "A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/paro.ai", "date": "2026-02" },
+          { "category": "support", "summary": "A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews.", "source_name": "G2", "source_url": "https://www.g2.com/products/paro-ai/reviews", "date": "2026-03" }
+        ]
+      }
     },
     {
       "rank": 10,
@@ -283,7 +353,15 @@
       "praise_short": "Cross-border payroll, tax, and equity across jurisdictions.",
       "criticism": "The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.",
       "criticism_short": "Franchise model; quality tied to the local partner.",
-      "sources_pending": ["g2:cfo-centre", "trustpilot:cfo-centre"]
+      "sources_pending": ["g2:cfo-centre", "trustpilot:cfo-centre"],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-26",
+        "summary": "Predominantly positive public reviews (Trustpilot around 4 stars) with one isolated customer complaint about unclear communication; no breaches, lawsuits, or billing-fraud records found. As a franchise network, service quality is tied to the local partner.",
+        "signals": [
+          { "category": "support", "summary": "A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/cfocentre.com", "date": "2026" }
+        ]
+      }
     },
     {
       "rank": 11,
@@ -305,7 +383,13 @@
       "praise_short": "Engages with your product like a user, not a number-cruncher.",
       "criticism": "Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.",
       "criticism_short": "Too new for a downturn track record; limited bench.",
-      "sources_pending": ["producthunt:thecfosquad"]
+      "sources_pending": ["producthunt:thecfosquad"],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-26",
+        "summary": "No verifiable public-record risk signals found as of May 2026; the firm is new (founded 2023) with little public footprint, so there is no breach, lawsuit, or complaint history to report.",
+        "signals": []
+      }
     }
   ],
   "honest_disclosures": [
@@ -314,6 +398,7 @@
     "Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.",
     "Every entry carries at least one published criticism — 'flaws but not dealbreakers'.",
     "No firm has paid for placement on Wondermous. There is no paid tier.",
+    "Each entry carries a public risk-signal check (data breaches, lawsuits, billing complaints, support-rating trend) with cited sources; 'no major public risk signals found' means we searched and found nothing verifiable as of the date shown, not that none can exist.",
     "Right of Reply: every listed firm gets one pinned response on its page. Email editor@wondermous.ai to use it."
   ]
 }

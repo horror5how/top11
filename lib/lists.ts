@@ -5,6 +5,24 @@ import { SITE_URL } from "@/lib/schema";
 export type ListData = typeof fractionalCfo;
 type AnyEntry = Record<string, unknown>;
 
+// Structured risk signals (winnable problem #4). Populated from real public sources
+// WITH citations; level "none" means we checked and found nothing as of `checked`.
+export type RiskCategory = "breach" | "lawsuit" | "billing" | "support";
+export type RiskLevel = "none" | "low" | "moderate" | "elevated";
+export type RiskSignal = {
+  category: RiskCategory;
+  summary: string;
+  source_name: string;
+  source_url: string;
+  date?: string;
+};
+export type RiskSignals = {
+  level: RiskLevel;
+  checked: string;
+  summary: string;
+  signals: RiskSignal[];
+};
+
 // Registry of every published list. Add new lists here (and a data/<slug>.json).
 const REGISTRY: Record<string, ListData> = {
   [fractionalCfo.slug]: fractionalCfo as ListData,
@@ -96,13 +114,19 @@ export function entryEnvelope(l: ListData, rank: number) {
 }
 
 export function toCsv(l: ListData): string {
-  const cols = ["rank", "name", "url", "score_out_of_94", "best_for", "pricing_band", "hq", "founded", "team_size_band", "is_wildcard"];
+  const cols = ["rank", "name", "url", "score_out_of_94", "best_for", "pricing_band", "hq", "founded", "team_size_band", "is_wildcard", "risk_level", "risk_summary"];
   const esc = (v: unknown) => {
     const s = v == null ? "" : String(v);
     return /[",\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s;
   };
+  const cell = (e: AnyEntry, c: string): unknown => {
+    const rs = e.risk_signals as RiskSignals | undefined;
+    if (c === "risk_level") return rs?.level ?? "";
+    if (c === "risk_summary") return rs?.summary ?? "";
+    return e[c];
+  };
   const rows = [cols.join(",")];
-  for (const e of l.entries) rows.push(cols.map((c) => esc((e as AnyEntry)[c])).join(","));
+  for (const e of l.entries) rows.push(cols.map((c) => esc(cell(e as AnyEntry, c))).join(","));
   return rows.join("\n") + "\n";
 }
 
@@ -127,6 +151,13 @@ export function toMarkdown(l: ListData): string {
     md.push(`- ${e.verdict}`);
     md.push(`- Pro: ${e.praise}`);
     md.push(`- Con: ${e.criticism}`);
+    const rs = (e as AnyEntry).risk_signals as RiskSignals | undefined;
+    if (rs) {
+      md.push(`- Risk signals (${rs.level}, checked ${rs.checked}): ${rs.summary}`);
+      for (const s of rs.signals) {
+        md.push(`  - [${s.category}] ${s.summary} — ${s.source_name}: ${s.source_url}${s.date ? ` (${s.date})` : ""}`);
+      }
+    }
     md.push("");
   }
   const faqs = (l as AnyEntry).faqs as { q: string; a: string }[] | undefined;
