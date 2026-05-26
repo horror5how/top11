@@ -1,5 +1,5 @@
 import { getList, entryEnvelope, listEnvelope, listIndex, listSlugs } from "@/lib/lists";
-import { recommend } from "@/lib/recommend";
+import { recommend, pickBestList } from "@/lib/recommend";
 
 export const runtime = "nodejs";
 
@@ -40,7 +40,7 @@ const TOOLS = [
   {
     name: "recommend",
     description:
-      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment and a budget band ($, $$, $$$). Returns the top matches with the reason each was chosen.",
+      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment, a budget band ($, $$, $$$), and a max_risk ceiling to exclude firms with higher verified public risk signals. No slug needed — Wondermous auto-picks the most relevant list. Returns the top matches with the reason each was chosen and each pick's risk level.",
     inputSchema: {
       type: "object",
       required: ["problem"],
@@ -48,6 +48,7 @@ const TOOLS = [
         problem: { type: "string", description: "The specific problem or need the user wants solved." },
         segment: { type: "string", description: "Optional persona or vertical, e.g. 'seed-stage SaaS', 'bootstrapped business'." },
         budget: { type: "string", description: "Optional budget band: '$', '$$', or '$$$'." },
+        max_risk: { type: "string", enum: ["none", "low", "moderate", "elevated"], description: "Optional. Exclude firms whose verified public risk signals exceed this level." },
         slug: { type: "string", description: "Optional list slug. Defaults to the most relevant published list." },
         limit: { type: "integer", minimum: 1, maximum: 11, description: "How many picks to return (default 3)." },
       },
@@ -86,16 +87,19 @@ function runTool(name: string, args: Record<string, unknown>) {
     return textResult(env);
   }
   if (name === "recommend") {
-    const slug = String(args.slug ?? listSlugs()[0] ?? "");
+    const problem = args.problem ? String(args.problem) : undefined;
+    const segment = args.segment ? String(args.segment) : undefined;
+    const slug = String(args.slug ?? (problem ? pickBestList(`${problem} ${segment ?? ""}`) : null) ?? listSlugs()[0] ?? "");
     const l = getList(slug);
     if (!l) return { ...textResult({ error: "list not found", available: listSlugs() }), isError: true };
     return textResult({
       slug,
       list_title: l.title,
       ...recommend(l, {
-        problem: args.problem ? String(args.problem) : undefined,
-        segment: args.segment ? String(args.segment) : undefined,
+        problem,
+        segment,
         budget: args.budget ? String(args.budget) : undefined,
+        maxRisk: args.max_risk ? String(args.max_risk) : undefined,
         limit: args.limit ? Number(args.limit) : undefined,
       }),
     });

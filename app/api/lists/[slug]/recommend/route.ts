@@ -17,16 +17,17 @@ export async function GET(req: Request, ctx: { params: Promise<{ slug: string }>
   const problem = url.searchParams.get("problem") || url.searchParams.get("q") || undefined;
   const segment = url.searchParams.get("segment") || undefined;
   const budget = url.searchParams.get("budget") || undefined;
+  const maxRisk = url.searchParams.get("max_risk") || undefined;
   const limit = url.searchParams.get("limit") ? Number(url.searchParams.get("limit")) : undefined;
 
-  const result = recommend(list, { problem, segment, budget, limit });
+  const result = recommend(list, { problem, segment, budget, maxRisk, limit });
   return NextResponse.json(
     {
       _meta: {
         schema: "wondermous-recommend-v1",
         self: `${SITE_URL}/api/lists/${slug}/recommend`,
         list: `${SITE_URL}/api/lists/${slug}`,
-        usage: "Query params: problem (free text), segment (persona/vertical), budget ($, $$, $$$), limit (1-11).",
+        usage: "Query params: problem (free text), segment (persona/vertical), budget ($, $$, $$$), max_risk (none|low|moderate|elevated — drop firms with higher verified risk), limit (1-11).",
       },
       slug,
       list_title: list.title,

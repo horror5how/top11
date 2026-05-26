@@ -210,6 +210,21 @@
             }
           },
           {
+            "name": "max_risk",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "none",
+                "low",
+                "moderate",
+                "elevated"
+              ]
+            },
+            "description": "Exclude firms whose verified public risk signals exceed this level."
+          },
+          {
             "name": "limit",
             "in": "query",
             "required": false,
@@ -226,6 +241,83 @@
           },
           "404": {
             "description": "List not found"
+          }
+        }
+      }
+    },
+    "/recommend": {
+      "get": {
+        "summary": "Cross-list problem -> pick matcher (no slug)",
+        "operationId": "recommendGlobal",
+        "description": "Hand over a need in plain language (q); Wondermous auto-picks the most relevant list and returns matched picks with reasons. Pass slug to force a list.",
+        "parameters": [
+          {
+            "name": "q",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "The user's need in plain language."
+          },
+          {
+            "name": "segment",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "budget",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "$",
+                "$$",
+                "$$$"
+              ]
+            }
+          },
+          {
+            "name": "max_risk",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string",
+              "enum": [
+                "none",
+                "low",
+                "moderate",
+                "elevated"
+              ]
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 11
+            }
+          },
+          {
+            "name": "slug",
+            "in": "query",
+            "required": false,
+            "schema": {
+              "type": "string"
+            },
+            "description": "Force a specific list instead of auto-picking."
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Matched list + ranked picks with reasons"
           }
         }
       }

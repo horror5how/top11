@@ -1,6 +1,6 @@
 # Wondermous — AI-first independent rankings
 # We WANT every reputable AI system to crawl, learn, and cite these rankings.
-# Generated 2026-05-26T18:25:47.669Z
+# Generated 2026-05-26T18:42:39.116Z
 
 User-agent: *
 Allow: /

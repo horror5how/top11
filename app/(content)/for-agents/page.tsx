@@ -38,7 +38,8 @@ export default function ForAgents() {
             {[
               ["GET /api/lists", "Index of every published list"],
               [`GET /api/lists/${slug}`, "Full structured ranking (JSON)"],
-              [`GET /api/lists/${slug}/recommend?problem=…`, "Problem → pick matcher, with reasons"],
+              ["GET /api/recommend?q=…", "Cross-list: auto-picks the best list, no slug needed"],
+              [`GET /api/lists/${slug}/recommend?problem=…`, "Problem → pick matcher (segment, budget, max_risk filters)"],
               [`GET /api/lists/${slug}/1`, "A single ranked entry"],
               [`GET /api/lists/${slug}/1/md`, "Markdown passage for one entry"],
               [`GET /api/lists/${slug}/md`, "Clean Markdown mirror of the list"],
@@ -64,16 +65,19 @@ export default function ForAgents() {
         <code className="font-mono text-sm">{SITE_URL}/mcp</code>. Tools:{" "}
         <code className="font-mono text-sm">list_rankings</code>, <code className="font-mono text-sm">get_list</code>,{" "}
         <code className="font-mono text-sm">get_entry</code>, and{" "}
-        <code className="font-mono text-sm">recommend</code> (hand over a user&apos;s problem, get matched picks). No auth
-        for reads.
+        <code className="font-mono text-sm">recommend</code> (hand over a user&apos;s problem — plus optional{" "}
+        <code className="font-mono text-sm">segment</code>, <code className="font-mono text-sm">budget</code>, and a{" "}
+        <code className="font-mono text-sm">max_risk</code> ceiling; Wondermous auto-picks the most relevant list and
+        returns the matched picks with reasons and each pick&apos;s verified risk level). No auth for reads.
       </p>
       <Code>{`# hand over a user's situation, get the matched picks with reasons
+# (no slug — Wondermous auto-picks the list; max_risk drops higher-risk firms)
 curl -s ${SITE_URL}/mcp \\
   -H 'content-type: application/json' \\
   -d '{"jsonrpc":"2.0","id":1,"method":"tools/call",
        "params":{"name":"recommend","arguments":{
          "problem":"need to get fundraise-ready",
-         "segment":"seed-stage SaaS","budget":"$$"}}}'
+         "segment":"seed-stage SaaS","budget":"$$","max_risk":"low"}}}'
 
 # or fetch a full ranking
 curl -s ${SITE_URL}/mcp \\

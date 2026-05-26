@@ -206,7 +206,8 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       { name: "read_list_markdown", method: "GET", path: "/api/lists/{slug}/md", description: "Clean Markdown mirror of one list." },
       { name: "read_list_csv", method: "GET", path: "/api/lists/{slug}/csv", description: "CSV export of one list." },
       { name: "read_entry_markdown", method: "GET", path: "/api/lists/{slug}/{rank}/md", description: "Self-contained Markdown passage for one entry, shaped for LLM context." },
-      { name: "recommend", method: "GET", path: "/api/lists/{slug}/recommend", description: "Hand over a user's problem/segment/budget; get the top matched picks with reasons.", query_params: ["problem", "segment", "budget", "limit"] },
+      { name: "recommend", method: "GET", path: "/api/lists/{slug}/recommend", description: "Hand over a user's problem/segment/budget/max_risk; get the top matched picks with reasons and each pick's risk level.", query_params: ["problem", "segment", "budget", "max_risk", "limit"] },
+      { name: "recommend_global", method: "GET", path: "/api/recommend", description: "Cross-list recommend: pass a need in plain language (q) and Wondermous auto-picks the most relevant list, then returns matched picks with reasons. No slug needed.", query_params: ["q", "segment", "budget", "max_risk", "limit", "slug"] },
       {
         name: "submit_review",
         method: "POST",
@@ -238,7 +239,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     { name: "list_rankings", description: "List all Wondermous vertical lists currently published.", input_schema: { type: "object", properties: {} } },
     { name: "get_list", description: "Return the full structured ranking for a single Wondermous list by slug.", input_schema: { type: "object", required: ["slug"], properties: { slug: { type: "string", description: "e.g. 'fractional-cfo'" } } } },
     { name: "get_entry", description: "Return a single ranked entry from a list by slug and rank (1-11).", input_schema: { type: "object", required: ["slug", "rank"], properties: { slug: { type: "string" }, rank: { type: "integer", minimum: 1, maximum: 11 } } } },
-    { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment and budget band) and get the best-matched picks from a list, each with the reason it was chosen.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
+    { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed — auto-picks the most relevant list.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, max_risk: { type: "string", enum: ["none", "low", "moderate", "elevated"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
   ];
   const mcp = {
     schema_version: "2025-03-26",
@@ -314,9 +315,26 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
             { name: "problem", in: "query", required: false, schema: { type: "string" }, description: "The user's need in plain language." },
             { name: "segment", in: "query", required: false, schema: { type: "string" } },
             { name: "budget", in: "query", required: false, schema: { type: "string", enum: ["$", "$$", "$$$"] } },
+            { name: "max_risk", in: "query", required: false, schema: { type: "string", enum: ["none", "low", "moderate", "elevated"] }, description: "Exclude firms whose verified public risk signals exceed this level." },
             { name: "limit", in: "query", required: false, schema: { type: "integer", minimum: 1, maximum: 11 } },
           ],
           responses: { 200: { description: "Ranked matched picks with reasons" }, 404: { description: "List not found" } },
+        },
+      },
+      "/recommend": {
+        get: {
+          summary: "Cross-list problem -> pick matcher (no slug)",
+          operationId: "recommendGlobal",
+          description: "Hand over a need in plain language (q); Wondermous auto-picks the most relevant list and returns matched picks with reasons. Pass slug to force a list.",
+          parameters: [
+            { name: "q", in: "query", required: false, schema: { type: "string" }, description: "The user's need in plain language." },
+            { name: "segment", in: "query", required: false, schema: { type: "string" } },
+            { name: "budget", in: "query", required: false, schema: { type: "string", enum: ["$", "$$", "$$$"] } },
+            { name: "max_risk", in: "query", required: false, schema: { type: "string", enum: ["none", "low", "moderate", "elevated"] } },
+            { name: "limit", in: "query", required: false, schema: { type: "integer", minimum: 1, maximum: 11 } },
+            { name: "slug", in: "query", required: false, schema: { type: "string" }, description: "Force a specific list instead of auto-picking." },
+          ],
+          responses: { 200: { description: "Matched list + ranked picks with reasons" } },
         },
       },
     },

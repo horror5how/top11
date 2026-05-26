@@ -38,6 +38,12 @@ const STOP = new Set([
 const PRICE = { $: 1, $$: 2, $$$: 3 } as Record<string, number>;
 // Verified public risk signals lower a recommendation, proportional to severity.
 const RISK_PENALTY: Record<RiskLevel, number> = { none: 0, low: -1, moderate: -5, elevated: -12 };
+const RISK_ORDER: Record<RiskLevel, number> = { none: 0, low: 1, moderate: 2, elevated: 3 };
+function parseRiskLevel(s?: string): number | null {
+  if (!s) return null;
+  const k = s.toLowerCase().trim();
+  return k in RISK_ORDER ? RISK_ORDER[k as RiskLevel] : null;
+}
 
 function tokens(s: string): string[] {
   return (s.toLowerCase().match(/[a-z0-9]+/g) || []).filter((w) => w.length > 2 && !STOP.has(w));
@@ -48,12 +54,13 @@ function priceSym(band: string): string {
 
 export function recommend(
   list: ListData,
-  opts: { problem?: string; segment?: string; budget?: string; limit?: number }
+  opts: { problem?: string; segment?: string; budget?: string; maxRisk?: string; limit?: number }
 ) {
   const mi = ((list as AnyEntry).match_index as MatchIndex) || {};
   const queryTokens = new Set([...tokens(opts.problem || ""), ...tokens(opts.segment || "")]);
   const budgetMax = opts.budget ? PRICE[(opts.budget.match(/\$+/) || ["$$$"])[0]] ?? 3 : null;
-  const hasQuery = Boolean(opts.problem || opts.segment || opts.budget);
+  const maxRiskLevel = parseRiskLevel(opts.maxRisk);
+  const hasQuery = Boolean(opts.problem || opts.segment || opts.budget || opts.maxRisk);
 
   const scored = list.entries.map((e) => {
     const m = mi[String(e.rank)] || { solves: [], personas: [] };
@@ -77,18 +84,30 @@ export function recommend(
     return { e, m, sym, score, matchedSolves, matchedPersonas, budgetOk, risk };
   });
 
+  // max_risk is a hard constraint: drop entries whose verified risk exceeds the threshold.
+  let pool = scored;
+  let riskFiltered = false;
+  if (maxRiskLevel != null) {
+    const allowed = scored.filter((x) => RISK_ORDER[x.risk?.level ?? "none"] <= maxRiskLevel);
+    if (allowed.length) { pool = allowed; riskFiltered = true; }
+  }
+
   const ranked = hasQuery
-    ? [...scored].sort((a, b) => b.score - a.score || a.e.rank - b.e.rank)
-    : [...scored].sort((a, b) => a.e.rank - b.e.rank);
+    ? [...pool].sort((a, b) => b.score - a.score || a.e.rank - b.e.rank)
+    : [...pool].sort((a, b) => a.e.rank - b.e.rank);
 
   const limit = Math.min(Math.max(opts.limit ?? 3, 1), 11);
   const picks = ranked.slice(0, limit);
 
+  const notes: string[] = [];
+  if (hasQuery) notes.push("Matched against each firm's problems solved, persona fit, price band, and verified risk signals. Reasons are explained per pick.");
+  else notes.push("No problem given — returning the editorial Top 3.");
+  if (riskFiltered) notes.push(`Filtered to firms with risk no higher than '${opts.maxRisk}'.`);
+  else if (maxRiskLevel != null) notes.push(`No firm met the requested max risk of '${opts.maxRisk}'; returning all, lowest-risk first is not guaranteed — check risk_level per pick.`);
+
   return {
-    query: { problem: opts.problem || null, segment: opts.segment || null, budget: opts.budget || null },
-    note: hasQuery
-      ? "Matched against each firm's problems solved, persona fit, and price band. Reasons are explained per pick."
-      : "No problem given — returning the editorial Top 3.",
+    query: { problem: opts.problem || null, segment: opts.segment || null, budget: opts.budget || null, max_risk: opts.maxRisk || null },
+    note: notes.join(" "),
     matched: picks.map((x) => ({
       rank: x.e.rank,
       name: x.e.name,

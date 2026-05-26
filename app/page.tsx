@@ -108,8 +108,8 @@ export default function Home() {
             </h2>
             <p className="mt-4 text-white/55 leading-relaxed max-w-md">
               Hand Wondermous a user&apos;s exact problem and it returns the matched pick — with the reason — in a single
-              call. No browsing ten blue links. No guessing. This is the recommendation layer the agentic web was
-              missing.
+              call. No slug needed; filter by budget or by verified risk. No browsing ten blue links. No guessing. This
+              is the recommendation layer the agentic web was missing.
             </p>
             <div className="mt-6 flex flex-wrap gap-2">
               {["JSON API", "MCP server", "Markdown", "CSV", "llms.txt", "OpenAPI"].map((x) => (

@@ -57,7 +57,7 @@
     },
     {
       "name": "recommend",
-      "description": "Hand over a user's problem in plain language (plus optional segment and budget band) and get the best-matched picks from a list, each with the reason it was chosen.",
+      "description": "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed — auto-picks the most relevant list.",
       "input_schema": {
         "type": "object",
         "required": [
@@ -76,6 +76,15 @@
               "$",
               "$$",
               "$$$"
+            ]
+          },
+          "max_risk": {
+            "type": "string",
+            "enum": [
+              "none",
+              "low",
+              "moderate",
+              "elevated"
             ]
           },
           "slug": {
