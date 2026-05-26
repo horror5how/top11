@@ -5,25 +5,35 @@ import { useEffect, useMemo, useRef, useState } from "react";
 
 type Item = { slug: string; title: string; subtitle: string; audience: string; tags: string };
 
-const PLACEHOLDERS = [
-  "fractional CFO for a seed-stage SaaS startup",
-  "dental CRM for a patient seen 5–6 times a day",
-  "best software for a multi-location DSO",
-  "fractional CFO to reclaim R&D tax credits",
-  "scheduling tool for a high-volume dental practice",
+const EXAMPLES = [
+  "a fractional CFO for a seed-stage SaaS startup",
+  "a dental CRM for a patient seen 5–6× a day",
+  "the cheapest CFO for a pre-seed startup",
+  "software for a multi-location dental DSO",
+  "a CFO that reclaims R&D tax credits",
+  "scheduling for a high-volume dental practice",
 ];
-const CHIPS = ["fractional CFO", "dental CRM", "multi-visit scheduling", "R&D tax credits", "bootstrapped startup", "multi-location DSO"];
 
 export default function SearchHero({ catalog }: { catalog: Item[] }) {
   const [q, setQ] = useState("");
-  const [ph, setPh] = useState(0);
+  const [typed, setTyped] = useState("");
+  const [focused, setFocused] = useState(false);
   const [email, setEmail] = useState("");
   const [sent, setSent] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  // typewriter ghost (only while empty)
   useEffect(() => {
     if (q) return;
-    const id = setInterval(() => setPh((p) => (p + 1) % PLACEHOLDERS.length), 2600);
+    let ex = 0, ch = 0, dir = 1, hold = 0;
+    const id = setInterval(() => {
+      if (hold > 0) { hold--; return; }
+      const word = EXAMPLES[ex];
+      ch += dir;
+      setTyped(word.slice(0, Math.max(0, ch)));
+      if (ch >= word.length) { dir = -1; hold = 16; }
+      else if (ch <= 0 && dir === -1) { dir = 1; ex = (ex + 1) % EXAMPLES.length; hold = 2; }
+    }, 55);
     return () => clearInterval(id);
   }, [q]);
 
@@ -46,58 +56,43 @@ export default function SearchHero({ catalog }: { catalog: Item[] }) {
     if (!email.includes("@")) return;
     setSent(true);
     try {
-      await fetch("/api/waitlist", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email, niche: q }),
-      });
+      await fetch("/api/waitlist", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email, niche: q }) });
     } catch {}
   }
 
   return (
     <div className="w-full max-w-2xl mx-auto">
-      <div className="relative group">
-        <div className="absolute -inset-0.5 rounded-2xl bg-gradient-to-r from-[#ff5722]/40 via-fuchsia-500/20 to-cyan-400/30 blur opacity-60 group-focus-within:opacity-100 transition" />
-        <div className="relative flex items-center gap-3 rounded-2xl border border-white/15 bg-[#0e0e12]/90 backdrop-blur px-4 sm:px-5 py-4">
-          <svg className="w-5 h-5 text-white/40 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" /></svg>
-          <input
-            ref={inputRef}
-            value={q}
-            onChange={(e) => setQ(e.target.value)}
-            placeholder={`Search a niche — e.g. ${PLACEHOLDERS[ph]}`}
-            className="flex-1 bg-transparent text-white placeholder-white/35 text-base sm:text-lg outline-none"
-            aria-label="Search for a ranked list by niche or problem"
-          />
-          {q && (
-            <button onClick={() => { setQ(""); inputRef.current?.focus(); }} className="text-white/40 hover:text-white text-sm">clear</button>
-          )}
+      <div className="relative">
+        {/* breathing glow — the search bar is the light source */}
+        <div className="pointer-events-none absolute -inset-3 rounded-full bg-gradient-to-r from-[#ff5722]/45 via-fuchsia-500/25 to-cyan-400/35 blur-2xl wm-breathe" />
+        <div className={`relative flex items-center gap-4 rounded-full border bg-[#0e0e12]/85 backdrop-blur px-6 sm:px-8 py-5 sm:py-6 transition-colors ${focused ? "border-[#ff5722]/60" : "border-white/15"}`}>
+          <svg className="w-6 h-6 sm:w-7 sm:h-7 text-white/45 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" /></svg>
+          <div className="relative flex-1 min-w-0">
+            {!q && (
+              <span className="pointer-events-none absolute inset-0 flex items-center text-white/35 text-lg sm:text-2xl whitespace-nowrap overflow-hidden">
+                {typed || " "}{!focused && <span className="wm-cur" />}
+              </span>
+            )}
+            <input
+              ref={inputRef}
+              value={q}
+              onChange={(e) => setQ(e.target.value)}
+              onFocus={() => setFocused(true)}
+              onBlur={() => setFocused(false)}
+              className="w-full bg-transparent text-white text-lg sm:text-2xl outline-none"
+              aria-label="Search for a ranked list by niche or problem"
+            />
+          </div>
+          {q && <button onClick={() => { setQ(""); inputRef.current?.focus(); }} className="text-white/40 hover:text-white text-sm shrink-0">clear</button>}
         </div>
       </div>
-
-      {!q && (
-        <div className="mt-4 flex flex-wrap justify-center gap-2">
-          {CHIPS.map((c) => (
-            <button
-              key={c}
-              onClick={() => { setQ(c); inputRef.current?.focus(); }}
-              className="text-xs font-medium px-3 py-1.5 rounded-full border border-white/12 bg-white/[0.03] text-white/60 hover:text-white hover:border-white/30 transition"
-            >
-              {c}
-            </button>
-          ))}
-        </div>
-      )}
 
       {q && (
         <div className="mt-4 text-left">
           {results.length > 0 ? (
             <div className="space-y-2.5">
               {results.map(({ c }) => (
-                <Link
-                  key={c.slug}
-                  href={`/${c.slug}`}
-                  className="block rounded-xl border border-white/12 bg-white/[0.03] hover:bg-white/[0.06] hover:border-[#ff5722]/50 px-4 py-3.5 transition group"
-                >
+                <Link key={c.slug} href={`/${c.slug}`} className="block rounded-2xl border border-white/12 bg-white/[0.03] hover:bg-white/[0.06] hover:border-[#ff5722]/50 px-5 py-4 transition group">
                   <div className="flex items-center justify-between gap-3">
                     <span className="font-semibold text-white text-[15px]">{c.title}</span>
                     <span className="text-[#ff8a5c] text-sm shrink-0 group-hover:translate-x-0.5 transition">Open list →</span>
@@ -107,23 +102,12 @@ export default function SearchHero({ catalog }: { catalog: Item[] }) {
               ))}
             </div>
           ) : (
-            <div className="rounded-xl border border-white/12 bg-white/[0.03] px-4 py-4">
-              <p className="text-white/70 text-sm">
-                No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Wondermous builds niches on demand.
-              </p>
+            <div className="rounded-2xl border border-white/12 bg-white/[0.03] px-5 py-4">
+              <p className="text-white/70 text-sm">No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Wondermous builds niches on demand.</p>
               {!sent ? (
                 <form onSubmit={joinWaitlist} className="mt-3 flex flex-col sm:flex-row gap-2">
-                  <input
-                    type="email"
-                    required
-                    value={email}
-                    onChange={(e) => setEmail(e.target.value)}
-                    placeholder="your@email.com"
-                    className="flex-1 rounded-lg border border-white/15 bg-[#0e0e12] px-3 py-2.5 text-white placeholder-white/30 text-sm outline-none focus:border-[#ff5722]/60"
-                  />
-                  <button type="submit" className="rounded-lg bg-[#ff5722] px-4 py-2.5 text-sm font-semibold text-white hover:bg-[#ff6a3c] transition">
-                    Build it for me
-                  </button>
+                  <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your@email.com" className="flex-1 rounded-full border border-white/15 bg-[#0e0e12] px-4 py-2.5 text-white placeholder-white/30 text-sm outline-none focus:border-[#ff5722]/60" />
+                  <button type="submit" className="rounded-full bg-[#ff5722] px-5 py-2.5 text-sm font-semibold text-white hover:bg-[#ff6a3c] transition">Build it for me</button>
                 </form>
               ) : (
                 <p className="mt-3 text-sm text-[#28c840]">On the list ✓ — we&apos;ll build this niche and ping you.</p>

@@ -5,12 +5,6 @@ import LiveLeaderboard from "@/app/components/landing/LiveLeaderboard";
 import AgentTerminal from "@/app/components/landing/AgentTerminal";
 import Reveal from "@/app/components/landing/Reveal";
 
-const NICHES = [
-  "Fractional CFOs for SaaS", "Dental CRMs for multi-visit practices", "CRMs for DSOs", "R&D tax-credit specialists",
-  "Practice software for pediatric dentistry", "Finance for bootstrapped founders", "Tools for high-volume front desks",
-  "CFOs for international startups", "Software for solo GP dentists", "Platforms for Series B fundraising",
-];
-
 export default function Home() {
   const slugs = listSlugs();
   const catalog = slugs.map((slug) => {
@@ -36,50 +30,29 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* HERO */}
-      <header className="relative">
+      {/* HERO — the search bar IS the hero */}
+      <header id="search" className="relative min-h-[86vh] flex flex-col items-center justify-center text-center px-6">
         <div className="pointer-events-none absolute inset-0 overflow-hidden">
-          <div className="wm-aurora absolute -top-1/3 left-1/5 w-[60vw] h-[60vw] rounded-full bg-[#ff5722]/25 blur-[130px]" />
-          <div className="wm-aurora2 absolute -top-10 right-0 w-[48vw] h-[48vw] rounded-full bg-fuchsia-600/15 blur-[130px]" />
-          <div className="wm-aurora2 absolute top-1/3 left-0 w-[42vw] h-[42vw] rounded-full bg-cyan-500/10 blur-[130px]" />
+          <div className="wm-float absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-[62%] w-[82vw] max-w-3xl h-[44vh] rounded-full bg-[#ff5722]/10 blur-[120px]" />
         </div>
-        <div className="pointer-events-none absolute inset-0 wm-grid-bg" />
-
-        <div className="relative z-10 max-w-3xl mx-auto px-6 pt-16 sm:pt-24 pb-20 text-center">
-          <div className="inline-flex items-center gap-2 rounded-full border border-white/12 bg-white/[0.04] px-3.5 py-1.5 text-[11px] font-semibold tracking-widest uppercase text-white/55 mb-8">
-            <span className="w-1.5 h-1.5 rounded-full bg-[#ff5722] wm-dot" /> AI-native rankings · made for agents
-          </div>
-          <h1 className="text-5xl sm:text-7xl font-extrabold tracking-tight leading-[0.98]">
-            When AI needs the best,
-            <br />
-            <span className="wm-grad">it comes to Wondermous.</span>
+        <div className="relative z-10 w-full max-w-2xl mx-auto">
+          <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-white/35 mb-6">Wondermous · AI-native rankings</p>
+          <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-[1.05] mb-9">
+            What list are you<br className="hidden sm:block" /> looking for?
           </h1>
-          <p className="mt-6 text-lg sm:text-xl text-white/55 max-w-xl mx-auto leading-relaxed">
-            One ranked list per niche — the Top 11, plus the wildcard everyone else misses. Re-ranked the moment the
-            market moves. Agents read it raw. You just search.
-          </p>
-
-          <div id="search" className="mt-10 scroll-mt-24">
-            <SearchHero catalog={catalog} />
-          </div>
-
-          <p className="mt-6 font-mono text-[11px] tracking-wide text-white/35">
-            no paid placement · public methodology · updated live · open to every AI agent
+          <SearchHero catalog={catalog} />
+          <p className="mt-7 text-white/45 text-sm sm:text-base max-w-lg mx-auto leading-relaxed">
+            However niche. We&apos;ve got the ranked list — the Top 11, plus the one wildcard everyone else misses.
           </p>
         </div>
-
-        {/* niche marquee */}
-        <div className="relative z-10 border-y border-white/8 py-3.5 overflow-hidden">
-          <div className="flex w-max wm-marquee gap-3">
-            {[...NICHES, ...NICHES].map((n, i) => (
-              <span key={i} className="text-xs text-white/40 border border-white/8 rounded-full px-3 py-1 whitespace-nowrap">{n}</span>
-            ))}
-          </div>
-        </div>
+        <a href="#how" className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1.5 text-white/30 hover:text-white/70 transition text-[11px] tracking-widest uppercase">
+          <span>What is this</span>
+          <svg className="w-4 h-4 wm-bob" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><path d="M6 9l6 6 6-6" /></svg>
+        </a>
       </header>
 
       {/* PILLARS */}
-      <section className="relative max-w-6xl mx-auto px-6 py-24">
+      <section id="how" className="relative max-w-6xl mx-auto px-6 py-24 scroll-mt-10">
         <Reveal className="text-center mb-12">
           <p className="font-mono text-xs tracking-widest uppercase text-[#ff8a5c] mb-3">The model</p>
           <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight">Three things nobody else does.</h2>

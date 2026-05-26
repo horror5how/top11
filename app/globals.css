@@ -59,7 +59,12 @@ html, body {
   mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
   -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
 }
+@keyframes wm-breathe { 0%,100% { opacity: .4; transform: scale(1); } 50% { opacity: .85; transform: scale(1.05); } }
+.wm-breathe { animation: wm-breathe 4.5s ease-in-out infinite; }
+.wm-cur { display: inline-block; width: 2px; height: 1.05em; background: #ff5722; margin-left: 2px; vertical-align: -2px; animation: wm-blink 1s step-end infinite; }
+@keyframes wm-bob { 0%,100% { transform: translateY(0); opacity: .5; } 50% { transform: translateY(6px); opacity: 1; } }
+.wm-bob { animation: wm-bob 1.8s ease-in-out infinite; }
 @media (prefers-reduced-motion: reduce) {
-  .wm-aurora, .wm-aurora2, .wm-float, .wm-marquee, .wm-grad { animation: none !important; }
+  .wm-aurora, .wm-aurora2, .wm-float, .wm-marquee, .wm-grad, .wm-breathe, .wm-bob { animation: none !important; }
   .wm-reveal { opacity: 1; transform: none; }
 }
