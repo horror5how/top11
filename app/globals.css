@@ -20,3 +20,46 @@ html, body {
 
 /* tabular figures so scores + ranks line up in the leaderboard */
 .tnum { font-feature-settings: "tnum" 1; }
+
+/* ============ Wondermous landing-page animation system ============ */
+@keyframes wm-aurora {
+  0%   { transform: translate3d(-8%, -6%, 0) scale(1.05); }
+  50%  { transform: translate3d(8%, 6%, 0) scale(1.2); }
+  100% { transform: translate3d(-8%, -6%, 0) scale(1.05); }
+}
+@keyframes wm-aurora2 {
+  0%   { transform: translate3d(10%, 4%, 0) scale(1.1); }
+  50%  { transform: translate3d(-10%, -8%, 0) scale(1.25); }
+  100% { transform: translate3d(10%, 4%, 0) scale(1.1); }
+}
+@keyframes wm-float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+@keyframes wm-blink { 0%,100% { opacity: 1; } 50% { opacity: 0; } }
+@keyframes wm-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@keyframes wm-shimmer { to { background-position: 200% center; } }
+@keyframes wm-pulse { 0% { box-shadow: 0 0 0 0 rgba(255,77,28,.5); } 70% { box-shadow: 0 0 0 8px rgba(255,77,28,0); } 100% { box-shadow: 0 0 0 0 rgba(255,77,28,0); } }
+@keyframes wm-rowmove { from { transform: translateY(var(--from)); } to { transform: translateY(var(--to)); } }
+
+.wm-aurora  { animation: wm-aurora 22s ease-in-out infinite; }
+.wm-aurora2 { animation: wm-aurora2 28s ease-in-out infinite; }
+.wm-float   { animation: wm-float 6s ease-in-out infinite; }
+.wm-caret::after { content: "▌"; margin-left: 1px; animation: wm-blink 1s step-end infinite; color: #ff5722; }
+.wm-marquee { animation: wm-marquee 40s linear infinite; }
+.wm-dot     { animation: wm-pulse 2s infinite; }
+.wm-grad {
+  background: linear-gradient(100deg, #ffffff 0%, #ffd9c7 30%, #ff5722 50%, #ffd9c7 70%, #ffffff 100%);
+  background-size: 200% auto;
+  -webkit-background-clip: text; background-clip: text; color: transparent;
+  animation: wm-shimmer 6s linear infinite;
+}
+.wm-reveal { opacity: 0; transform: translateY(26px); transition: opacity .7s cubic-bezier(.2,.7,.2,1), transform .7s cubic-bezier(.2,.7,.2,1); }
+.wm-reveal.wm-in { opacity: 1; transform: none; }
+.wm-grid-bg {
+  background-image: linear-gradient(rgba(255,255,255,.04) 1px, transparent 1px), linear-gradient(90deg, rgba(255,255,255,.04) 1px, transparent 1px);
+  background-size: 56px 56px;
+  mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
+  -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
+}
+@media (prefers-reduced-motion: reduce) {
+  .wm-aurora, .wm-aurora2, .wm-float, .wm-marquee, .wm-grad { animation: none !important; }
+  .wm-reveal { opacity: 1; transform: none; }
+}
