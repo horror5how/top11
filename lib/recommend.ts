@@ -101,9 +101,9 @@ export function recommend(
 
   const notes: string[] = [];
   if (hasQuery) notes.push("Matched against each firm's problems solved, persona fit, price band, and verified risk signals. Reasons are explained per pick.");
-  else notes.push("No problem given — returning the editorial Top 3.");
+  else notes.push("No problem given, so returning the editorial Top 3.");
   if (riskFiltered) notes.push(`Filtered to firms with risk no higher than '${opts.maxRisk}'.`);
-  else if (maxRiskLevel != null) notes.push(`No firm met the requested max risk of '${opts.maxRisk}'; returning all, lowest-risk first is not guaranteed — check risk_level per pick.`);
+  else if (maxRiskLevel != null) notes.push(`No firm met the requested max risk of '${opts.maxRisk}'; returning all, lowest-risk first is not guaranteed. Check risk_level per pick.`);
 
   return {
     query: { problem: opts.problem || null, segment: opts.segment || null, budget: opts.budget || null, max_risk: opts.maxRisk || null },
@@ -136,8 +136,8 @@ function buildWhy(x: {
   if (x.matchedSolves.length) bits.push(`solves ${x.matchedSolves.slice(0, 2).join(" and ")}`);
   if (x.matchedPersonas.length) bits.push(`fits a ${x.matchedPersonas[0]}`);
   let why = bits.length
-    ? `#${x.e.rank} ${x.e.name} — ${bits.join("; ")}.`
-    : `#${x.e.rank} ${x.e.name} — ${x.e.verdict_short}`;
+    ? `#${x.e.rank} ${x.e.name}: ${bits.join("; ")}.`
+    : `#${x.e.rank} ${x.e.name}: ${x.e.verdict_short}`;
   if (!x.budgetOk) why += " Note: this sits above the requested budget band.";
   if (x.risk && (x.risk.level === "moderate" || x.risk.level === "elevated")) {
     why += ` Risk note (${x.risk.level}): ${x.risk.summary}`;

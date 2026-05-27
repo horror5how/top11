@@ -27,7 +27,7 @@ export async function POST(req: NextRequest) {
   if (review_text.length < 100) return reject("review_text must be at least 100 words / chars");
   if (review_text.length > 4000) return reject("review_text too long (max 4000)");
   if (score < 0 || score > 9.4) return reject("score_out_of_94 must be between 0 and 9.4");
-  if (!proof_url) return reject("proof_url required — see /for-agents for accepted tiers");
+  if (!proof_url) return reject("proof_url required. See /for-agents for accepted tiers");
 
   const signal = readAgentSignal(req, proof_url);
 

@@ -145,7 +145,7 @@ export function toMarkdown(l: ListData): string {
   md.push("");
   for (const e of l.entries) {
     const wild = (e as AnyEntry).is_wildcard ? " [WILDCARD]" : "";
-    md.push(`### #${e.rank}${wild} — ${e.name} — ${e.score_out_of_94}/9.4`);
+    md.push(`### #${e.rank}${wild} ${e.name} · ${e.score_out_of_94}/9.4`);
     md.push(`- Best for: ${e.best_for}`);
     md.push(`- ${e.hq} · founded ${e.founded} · ${e.pricing_band}`);
     md.push(`- ${e.verdict}`);
@@ -155,7 +155,7 @@ export function toMarkdown(l: ListData): string {
     if (rs) {
       md.push(`- Risk signals (${rs.level}, checked ${rs.checked}): ${rs.summary}`);
       for (const s of rs.signals) {
-        md.push(`  - [${s.category}] ${s.summary} — ${s.source_name}: ${s.source_url}${s.date ? ` (${s.date})` : ""}`);
+        md.push(`  - [${s.category}] ${s.summary} (${s.source_name}: ${s.source_url}${s.date ? `, ${s.date}` : ""})`);
       }
     }
     md.push("");

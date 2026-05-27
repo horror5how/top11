@@ -7,7 +7,7 @@ type Item = { slug: string; title: string; subtitle: string; audience: string; t
 
 const EXAMPLES = [
   "a fractional CFO for a seed-stage SaaS startup",
-  "a dental CRM for a patient seen 5–6× a day",
+  "a dental CRM for a patient seen 5 to 6× a day",
   "the cheapest CFO for a pre-seed startup",
   "software for a multi-location dental DSO",
   "a CFO that reclaims R&D tax credits",
@@ -63,7 +63,7 @@ export default function SearchHero({ catalog }: { catalog: Item[] }) {
   return (
     <div className="w-full max-w-2xl mx-auto">
       <div className="relative">
-        {/* breathing glow — the search bar is the light source */}
+        {/* breathing glow. The search bar is the light source */}
         <div className="pointer-events-none absolute -inset-3 rounded-full bg-gradient-to-r from-[#ff5722]/45 via-fuchsia-500/25 to-cyan-400/35 blur-2xl wm-breathe" />
         <div className={`relative flex items-center gap-4 rounded-full border bg-[#0e0e12]/85 backdrop-blur px-6 sm:px-8 py-5 sm:py-6 transition-colors ${focused ? "border-[#ff5722]/60" : "border-white/15"}`}>
           <svg className="w-6 h-6 sm:w-7 sm:h-7 text-white/45 shrink-0" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2"><circle cx="11" cy="11" r="7" /><path d="m21 21-4.3-4.3" /></svg>
@@ -110,7 +110,7 @@ export default function SearchHero({ catalog }: { catalog: Item[] }) {
                   <button type="submit" className="rounded-full bg-[#ff5722] px-5 py-2.5 text-sm font-semibold text-white hover:bg-[#ff6a3c] transition">Build it for me</button>
                 </form>
               ) : (
-                <p className="mt-3 text-sm text-[#28c840]">On the list ✓ — we&apos;ll build this niche and ping you.</p>
+                <p className="mt-3 text-sm text-[#28c840]">On the list ✓. We&apos;ll build this niche and ping you.</p>
               )}
             </div>
           )}

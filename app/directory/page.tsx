@@ -6,7 +6,7 @@ import DirectorySearch from "@/app/components/landing/DirectorySearch";
 import Reveal from "@/app/components/landing/Reveal";
 
 export const metadata: Metadata = {
-  title: "Directory — Mission Control",
+  title: "Directory · Mission Control",
   description: "Every Wondermous list in one place. Search any niche, see what moved this week, and browse by sector. Built for humans and the AI agents they work with.",
   alternates: { canonical: `${SITE_URL}/directory` },
 };
@@ -65,7 +65,7 @@ export default function Directory() {
           Every list. <span className="wm-grad">One search.</span>
         </h1>
         <p className="mt-4 text-white/55 max-w-xl mx-auto">
-          The directory for humans — and the fastest way for an agent to find the exact ranking its user needs.
+          The directory for humans, and the fastest way for an agent to find the exact ranking its user needs.
         </p>
         <div className="mt-8"><DirectorySearch catalog={catalog} /></div>
       </header>
@@ -80,7 +80,7 @@ export default function Directory() {
         </div>
       </section>
 
-      {/* what changed this week — mission control log */}
+      {/* what changed this week. Mission control log */}
       <section className="relative z-10 max-w-6xl mx-auto px-6 py-12">
         <Reveal>
           <div className="flex items-center gap-3 mb-5">
@@ -92,10 +92,10 @@ export default function Directory() {
             {activity.map((a, i) => (
               <div key={i} className="flex items-start gap-4 px-5 py-4">
                 <span className="font-mono text-[11px] text-white/35 shrink-0 pt-0.5 w-20">{a.date}</span>
-                <span className="text-[#ff8a5c] text-xs font-bold uppercase tracking-wider shrink-0 pt-0.5 w-14">{now - new Date(a.date).getTime() <= WEEK ? "NEW" : "—"}</span>
+                <span className="text-[#ff8a5c] text-xs font-bold uppercase tracking-wider shrink-0 pt-0.5 w-14">{now - new Date(a.date).getTime() <= WEEK ? "NEW" : ". "}</span>
                 <span className="text-white/70 text-sm leading-relaxed">
                   <Link href={`/${a.list.slug}`} className="font-semibold text-white hover:text-[#ff8a5c]">{a.list.title}</Link>
-                  {" — "}{a.text}
+                  {". "}{a.text}
                 </span>
               </div>
             ))}

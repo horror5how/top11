@@ -29,9 +29,9 @@ const QUESTIONS: Q[] = [
     id: "vibe",
     label: "What kind of partner are you actually after?",
     options: [
-      { value: "venture-fluent", label: "Investor-fluent — they speak board-deck", map: [1, 2, 3] },
-      { value: "ops-partner", label: "Operating partner — into unit economics", map: [7, 6, 4] },
-      { value: "ai-native", label: "AI-native — fluent in my product stack", map: [5, 11, 4] },
+      { value: "venture-fluent", label: "Investor-fluent, they speak board-deck", map: [1, 2, 3] },
+      { value: "ops-partner", label: "Operating partner, into unit economics", map: [7, 6, 4] },
+      { value: "ai-native", label: "AI-native, fluent in my product stack", map: [5, 11, 4] },
     ],
   },
   {
@@ -39,7 +39,7 @@ const QUESTIONS: Q[] = [
     label: "Monthly retainer ballpark?",
     options: [
       { value: "small", label: "Under $3k / mo", map: [11, 3, 7] },
-      { value: "mid", label: "$3k – $10k / mo", map: [4, 5, 6] },
+      { value: "mid", label: "$3k to $10k / mo", map: [4, 5, 6] },
       { value: "large", label: "$10k+ / mo", map: [1, 2, 10] },
     ],
   },
@@ -133,7 +133,7 @@ export default function MatchmakerQuiz({ slug }: { slug: string }) {
           list_slug: slug,
           entry_rank: 0,
           category: "quiz-lead",
-          complaint: `Quiz match — recommended: ${top3.map((r) => NAME_BY_RANK[r]).join(", ")}. Answers: ${JSON.stringify(answers)}`,
+          complaint: `Quiz match, recommended: ${top3.map((r) => NAME_BY_RANK[r]).join(", ")}. Answers: ${JSON.stringify(answers)}`,
           contact: email,
         }),
       });
@@ -173,7 +173,7 @@ export default function MatchmakerQuiz({ slug }: { slug: string }) {
           </button>
         </div>
       ) : (
-        <p className="text-sm text-ok">Subscribed ✓ — we'll email when this list re-publishes monthly.</p>
+        <p className="text-sm text-ok">Subscribed ✓. We'll email when this list re-publishes monthly.</p>
       )}
       <button
         onClick={() => {

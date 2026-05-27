@@ -24,7 +24,7 @@ export default function ReviewPulse({ rank }: { rank: number }) {
     return (
       <details className="border border-dashed border-ink/15 rounded-lg p-3 text-xs text-ink/50">
         <summary className="cursor-pointer font-mono uppercase tracking-widest">
-          📡 Review Pulse — first ingestion pending
+          📡 Review Pulse: first ingestion pending
         </summary>
         <p className="mt-2 leading-relaxed">
           Reddit, Trustpilot, Google, and Facebook signal will populate on the next scheduled refresh. Editor's
@@ -46,7 +46,7 @@ export default function ReviewPulse({ rank }: { rank: number }) {
     <div className="border border-ink/15 rounded-xl bg-ink/[0.02] p-4 mt-4">
       <div className="flex items-center justify-between mb-2">
         <p className="font-mono text-xs uppercase tracking-widest text-ink/60">
-          📡 Review Pulse — what the internet actually says
+          📡 Review Pulse: what the internet actually says
         </p>
         <span className={`font-mono text-xs ${scoreClass}`}>
           {typeof data.sentiment_score === "number" ? `sentiment ${data.sentiment_score.toFixed(1)}/10` : ""}
@@ -119,7 +119,7 @@ export default function ReviewPulse({ rank }: { rank: number }) {
       ) : null}
 
       <p className="font-mono text-[10px] text-ink/40 mt-3">
-        Sample: {data.sample_size || 0} items · {sourceLabel || "—"}
+        Sample: {data.sample_size || 0} items · {sourceLabel || "n/a"}
       </p>
     </div>
   );

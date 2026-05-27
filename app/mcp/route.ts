@@ -40,7 +40,7 @@ const TOOLS = [
   {
     name: "recommend",
     description:
-      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment, a budget band ($, $$, $$$), and a max_risk ceiling to exclude firms with higher verified public risk signals. No slug needed — Wondermous auto-picks the most relevant list. Returns the top matches with the reason each was chosen and each pick's risk level.",
+      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment, a budget band ($, $$, $$$), and a max_risk ceiling to exclude firms with higher verified public risk signals. No slug needed. Wondermous auto-picks the most relevant list. Returns the top matches with the reason each was chosen and each pick's risk level.",
     inputSchema: {
       type: "object",
       required: ["problem"],

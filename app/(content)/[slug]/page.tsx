@@ -200,7 +200,7 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
                   <h3 className="text-base font-bold tracking-tight mb-1">Best for {m.solves[0]}</h3>
                   <p className="text-ink/70 leading-relaxed text-[15px]">
                     <a href={`#rank-${e.rank}`} className="font-semibold hover:underline">{e.name}</a>{" "}
-                    (#{e.rank}, scores {e.score_out_of_94.toFixed(1)}/9.4) — {e.verdict_short}
+                    (#{e.rank}, scores {e.score_out_of_94.toFixed(1)}/9.4). {e.verdict_short}
                     {m.solves.length > 1 ? ` It also handles ${m.solves.slice(1).join(", ")}.` : ""}
                   </p>
                 </div>
@@ -270,7 +270,7 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
                   </div>
                 )}
 
-                <p className="text-[16px] sm:text-[17px] font-semibold tracking-tight leading-snug mb-3">{e.name} — {e.verdict_short}</p>
+                <p className="text-[16px] sm:text-[17px] font-semibold tracking-tight leading-snug mb-3">{e.name}: {e.verdict_short}</p>
 
                 <div className="flex flex-col gap-1.5 max-w-2xl">
                   <p className="flex gap-2.5 text-sm text-ink/65 leading-snug"><span className="font-extrabold text-ok shrink-0">✓</span>{e.praise_short}</p>

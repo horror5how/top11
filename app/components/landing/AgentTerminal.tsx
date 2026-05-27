@@ -4,7 +4,7 @@ import { useEffect, useRef, useState } from "react";
 
 const SCRIPT = [
   { t: "cmd", text: "POST /mcp  → tools/call  recommend" },
-  { t: "arg", text: '{ "problem": "dental CRM, one patient seen 5–6x a day", "segment": "high-volume practice" }' },
+  { t: "arg", text: '{ "problem": "dental CRM, one patient seen 5 to 6x a day", "segment": "high-volume practice" }' },
   { t: "out", text: "→ #1  Open Dental   9.0/9.4" },
   { t: "out", text: "   why: solves same-day cross-operatory scheduling; fits high-volume practice" },
   { t: "out", text: "→ #2  CareStack     8.8/9.4   (DSO scale)" },

@@ -63,7 +63,7 @@ export default function ComplaintForm({ entries, listSlug }: { entries: EntryRef
             required
             className="mt-1 w-full border border-ink/20 rounded px-3 py-2 text-sm bg-paper"
           >
-            <option value="">Pick an entry —</option>
+            <option value="">Pick an entry…</option>
             {entries.map((e) => (
               <option key={e.rank} value={e.rank}>
                 #{e.rank} · {e.name}
@@ -95,7 +95,7 @@ export default function ComplaintForm({ entries, listSlug }: { entries: EntryRef
           minLength={40}
           maxLength={2000}
           rows={5}
-          placeholder="Specifics. Dates. What happened. We can't moderate vibes — we can moderate facts."
+          placeholder="Specifics. Dates. What happened. We can't moderate vibes, but we can moderate facts."
           className="mt-1 w-full border border-ink/20 rounded px-3 py-2 text-sm bg-paper"
         />
       </label>
@@ -110,7 +110,7 @@ export default function ComplaintForm({ entries, listSlug }: { entries: EntryRef
         />
       </label>
       <div className="flex items-center justify-between">
-        <p className="text-xs text-ink/50">Moderated for libel. Opinion welcome — even harsh.</p>
+        <p className="text-xs text-ink/50">Moderated for libel. Opinion welcome, even harsh.</p>
         <button
           type="submit"
           disabled={state === "sending"}

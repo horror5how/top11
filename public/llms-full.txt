@@ -1,14 +1,14 @@
 # Wondermous — Full Markdown Mirror
 
 Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-26T18:50:14.254Z
+Generated: 2026-05-27T12:47:18.976Z
 
 ## The 11 Best Dental CRMs & Practice-Management Software
 
-**Short answer:** As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling — the case where one patient is seen across several chairs and providers in a single day — is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology — no vendor paid to appear.
+**Short answer:** As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.
 
 - URL: https://top11-nine.vercel.app/dental-crm
-- Audience: Dentists and practice managers — solo GPs, multi-location groups and DSOs, and specialty practices
+- Audience: Dentists and practice managers. Solo GPs, multi-location groups and DSOs, and specialty practices
 - Editor: Wondermous AI (anonymous by design)
 - Last verified: 2026-05-25
 - Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
@@ -17,7 +17,7 @@ Generated: 2026-05-26T18:50:14.254Z
 
 ### Key statistics
 - We reviewed 14 dental platforms and ranked the 11 strongest, segmented by exactly who each is for. (Wondermous analysis, May 2026)
-- Only one product on this list — Open Dental — publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling. (Wondermous review of vendor documentation, May 2026)
+- Only one product on this list, Open Dental, publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling. (Wondermous review of vendor documentation, May 2026)
 - Published monthly pricing across this list ranges from about $109 to $750+ per location; several vendors quote only. (Wondermous analysis of vendor and Software Advice pricing, May 2026)
 - Six of the 11 are fully cloud-hosted; the rest are Windows/server-based or hybrid. (Wondermous analysis, May 2026)
 - No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake. (Wondermous analysis, May 2026)
@@ -26,8 +26,8 @@ Generated: 2026-05-26T18:50:14.254Z
 ### #1 — Open Dental (9/9.4)
 - URL: https://www.opendental.com/
 - Best for: High-volume practices with complex same-day, multi-operatory scheduling
-- Founded undefined, United States, team undefined, $ ($149–$199/mo per location + $20/provider over 3)
-- Verdict: The most powerful operatory scheduler in dental, at the lowest price — Open Dental is the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what breaks lesser systems when a patient is seen across several chairs in a day. The trade-off is that you run the server yourself.
+- Founded undefined, United States, team undefined, $ ($149 to $199/mo per location + $20/provider over 3)
+- Verdict: The most powerful operatory scheduler in dental, at the lowest price. Open Dental is the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what breaks lesser systems when a patient is seen across several chairs in a day. The trade-off is that you run the server yourself.
 - Pro: The only product with documented appointment mirroring across operatories and fully customizable multi-column scheduling views; open source; the lowest published price in the category.
 - Con: Windows/server only, with no vendor-hosted cloud, so you need IT support to run and maintain it.
 
@@ -43,9 +43,9 @@ Generated: 2026-05-26T18:50:14.254Z
 - URL: https://www.planetdds.com/denticon/
 - Best for: Growth-stage DSOs needing multi-location reporting and standardized workflows
 - Founded undefined, United States, team undefined, $$$ (from ~$750/mo)
-- Verdict: Denticon is the purpose-built DSO platform — centralized data, location-drillable reporting, and standardized clinical workflows across every site, now with embedded AI. It powers 13,000+ practices and is a 2025 G2 Momentum Leader, but the $750/month starting price makes it overkill for solo and small practices.
+- Verdict: Denticon is the purpose-built DSO platform: centralized data, location-drillable reporting, and standardized clinical workflows across every site, now with embedded AI. It powers 13,000+ practices and is a 2025 G2 Momentum Leader, but the $750/month starting price makes it overkill for solo and small practices.
 - Pro: Built ground-up for DSOs; 13,000+ practices and 45,000+ users; open API and embedded AI; G2 Spring 2025 Momentum Leader.
-- Con: Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein — overkill for small practices.
+- Con: Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein. Overkill for small practices.
 
 ### #4 — Curve Dental (8.4/9.4)
 - URL: https://www.curvedental.com/
@@ -59,7 +59,7 @@ Generated: 2026-05-26T18:50:14.254Z
 - URL: https://www.dentrixascend.com/
 - Best for: Practices migrating off a legacy Dentrix server to the cloud
 - Founded undefined, United States, team undefined, $$ (quote only)
-- Verdict: Dentrix Ascend is the easiest cloud migration for Dentrix loyalists — true browser access, SOC 2 security, AI charting and 80,000+ active users, with a familiar workflow. Reporting is its weakest area and the tight Henry Schein integration limits third-party flexibility.
+- Verdict: Dentrix Ascend is the easiest cloud migration for Dentrix loyalists: true browser access, SOC 2 security, AI charting and 80,000+ active users, with a familiar workflow. Reporting is its weakest area and the tight Henry Schein integration limits third-party flexibility.
 - Pro: 100% browser-based with fast onboarding; 80,000+ clinicians; SOC 2 compliance; AI-powered charting (Voice Notes, Image Verify).
 - Con: Reporting is rated the weakest feature (3.36/5), and the Henry Schein ecosystem limits third-party integrations.
 
@@ -75,7 +75,7 @@ Generated: 2026-05-26T18:50:14.254Z
 - URL: https://www.dentrixenterprise.com/
 - Best for: Large multi-location organizations, FQHCs and public-health dental providers
 - Founded undefined, United States, team undefined, $$$ (enterprise quote only)
-- Verdict: Dentrix Enterprise is Henry Schein's enterprise engine — one central database for as many providers and sites as the organization requires, built for FQHCs and public-health compliance. It is powerful but heavy to implement and inappropriate for small practices.
+- Verdict: Dentrix Enterprise is Henry Schein's enterprise engine: one central database for as many providers and sites as the organization requires, built for FQHCs and public-health compliance. It is powerful but heavy to implement and inappropriate for small practices.
 - Pro: True central database for unlimited providers and locations; built for FQHC and public-health compliance; standardized workflows enterprise-wide.
 - Con: Lowest ease-of-use rating among Dentrix products (3.8/5) and a heavy implementation; wrong fit for small practices.
 
@@ -83,7 +83,7 @@ Generated: 2026-05-26T18:50:14.254Z
 - URL: https://practice-web.com/
 - Best for: Budget-conscious solo and small practices on Windows
 - Founded undefined, United States, team undefined, $ ($109/mo flat, all-inclusive)
-- Verdict: Practice-Web is the highest-rated dental software on Software Advice at the lowest flat monthly price — $109/month all-in, including conversion, training, patient portal and forms. It is built for the solo dentist who wants everything in one, with the trade-off that it is server-based with no native cloud or multi-location features.
+- Verdict: Practice-Web is the highest-rated dental software on Software Advice at the lowest flat monthly price: $109/month all-in, including conversion, training, patient portal and forms. It is built for the solo dentist who wants everything in one, with the trade-off that it is server-based with no native cloud or multi-location features.
 - Pro: Highest Software Advice rating in the category (4.9/5, FrontRunner 2026); $109/mo flat includes conversion, training and patient portal; serving dentistry since 1988.
 - Con: Server-based and Windows-only, with no native cloud and no multi-location or DSO features.
 
@@ -91,15 +91,15 @@ Generated: 2026-05-26T18:50:14.254Z
 - URL: https://www.pattersondental.com/
 - Best for: Patterson Dental customers wanting native equipment integration
 - Founded undefined, United States, team undefined, $$ (quote only; Patterson clients)
-- Verdict: Eaglesoft is the workhorse general-practice system for Patterson customers, with deep imaging and device integration and a solid GP workflow. It is reliable but frozen in time — Windows-only, with no Mac, mobile or cloud, and a UI reviewers call dated.
+- Verdict: Eaglesoft is the workhorse general-practice system for Patterson customers, with deep imaging and device integration and a solid GP workflow. It is reliable but frozen in time: Windows-only, with no Mac, mobile or cloud, and a UI reviewers call dated.
 - Pro: Deep imaging and device integration within the Patterson ecosystem; reliable general-dentistry workflow; strong Patterson support network.
-- Con: Windows only — no Mac, mobile or cloud — and verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.
+- Con: Windows only. No Mac, mobile or cloud. And verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.
 
 ### #10 — ABELDent (7.4/9.4)
 - URL: https://www.abeldent.com/
 - Best for: Canadian dental practices wanting cloud-or-local with identical UX
 - Founded undefined, Canada and United States, team undefined, $$ (quote only; cloud or local)
-- Verdict: ABELDent is Canada's leading dental PMS — Azure cloud or local server with an identical interface, Canadian billing and provincial-insurance compliance, and Power BI analytics built in. Its review base is smaller than US-centric competitors and pricing is quote-only, but it has no close Canada-focused rival.
+- Verdict: ABELDent is Canada's leading dental PMS: Azure cloud or local server with an identical interface, Canadian billing and provincial-insurance compliance, and Power BI analytics built in. Its review base is smaller than US-centric competitors and pricing is quote-only, but it has no close Canada-focused rival.
 - Pro: The only product with an identical cloud and local interface (zero retraining when switching); Canadian provincial-insurance compliance; Power BI analytics built in.
 - Con: Smaller review base than US-centric competitors, quote-only pricing, and less recognition outside Canada.
 
@@ -109,14 +109,14 @@ Generated: 2026-05-26T18:50:14.254Z
 - Founded undefined, United States, team undefined, $$ (quote only; tiered)
 - Verdict: Weave is the #1 Capterra-ranked dental tool, but it is a communication engine, not a records system. Layered on top of your existing PMS, it automates reminders, reviews, missed-call recovery and text-to-pay. The catch is that it requires an existing PMS and customer service gets mixed reviews.
 - Pro: Top-rated dental tool on Capterra (97/100); integrates with 50+ PMS; ASAP/waitlist management, text-to-pay and AI call pop.
-- Con: Not a standalone PMS — it requires an existing records system — and customer service is rated only 3.9/5.
-- Why wildcard: The Wildcard slot goes to the one product that doesn't fit the pattern: Weave is not a practice-management system at all. It is the best patient-communication layer — phones, texting, reviews, scheduling and payments — and it makes whatever PMS you run measurably stickier. It is the top-rated dental tool on Capterra, which is why it was too good to cut.
+- Con: Not a standalone PMS. It requires an existing records system. And customer service is rated only 3.9/5.
+- Why wildcard: The Wildcard slot goes to the one product that doesn't fit the pattern: Weave is not a practice-management system at all. It is the best patient-communication layer (phones, texting, reviews, scheduling and payments), and it makes whatever PMS you run measurably stickier. It is the top-rated dental tool on Capterra, which is why it was too good to cut.
 
 ### Buyer's guide
-- What is dental practice-management software (a dental CRM)? Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type — a solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for.
-- Which dental software handles a patient with multiple same-day appointments across operatories? Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring — automatically placing a linked provider exam when a hygiene block is created — and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale.
-- How much does dental practice-management software cost in 2026? Published pricing on this list runs from about $109/month flat (Practice-Web) and $125–$225/month (tab32) at the low end, up to $698–$750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149–$199/month per location plus a small per-provider fee above three providers. Several vendors — including Dentrix Ascend, Curve, Eaglesoft and Weave — are quote-only (Wondermous analysis, May 2026).
-- Cloud vs server: which should a dental practice choose? Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device — best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode.
+- What is dental practice-management software (a dental CRM)? Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type. A solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for.
+- Which dental software handles a patient with multiple same-day appointments across operatories? Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring (automatically placing a linked provider exam when a hygiene block is created) and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale.
+- How much does dental practice-management software cost in 2026? Published pricing on this list runs from about $109/month flat (Practice-Web) and $125 to $225/month (tab32) at the low end, up to $698 to $750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149 to $199/month per location plus a small per-provider fee above three providers. Several vendors, including Dentrix Ascend, Curve, Eaglesoft and Weave, are quote-only (Wondermous analysis, May 2026).
+- Cloud vs server: which should a dental practice choose? Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device, best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode.
 
 ### FAQ
 **Q: What is the best dental software for complex same-day, multi-operatory scheduling?**
@@ -126,13 +126,13 @@ A: Open Dental (#1) is the strongest pick. It is the only product on this list t
 A: Denticon by Planet DDS (#3) is purpose-built for DSOs, with centralized cross-location reporting and standardized workflows. CareStack (#2) is the close alternative when you also need specialty referral management and revenue-cycle tools, and is the highest-rated dental PMS on Capterra.
 
 **Q: What is the cheapest full dental practice-management software?**
-A: Practice-Web (#8) is the lowest-priced full PMS at $109/month flat, all-inclusive, and the highest-rated in its category on Software Advice. Open Dental (#1) is the next-best value at $149–$199/month per location and adds far stronger scheduling. tab32 (#6) publishes a low $125/month first-year cloud price.
+A: Practice-Web (#8) is the lowest-priced full PMS at $109/month flat, all-inclusive, and the highest-rated in its category on Software Advice. Open Dental (#1) is the next-best value at $149 to $199/month per location and adds far stronger scheduling. tab32 (#6) publishes a low $125/month first-year cloud price.
 
 **Q: What is the best dental software for a Canadian practice?**
-A: ABELDent (#10) is the strongest pick for Canada. It handles provincial insurance billing and PIPEDA/PHIPA compliance, runs cloud or local with an identical interface, and includes Power BI analytics — with no close Canada-focused competitor on this list.
+A: ABELDent (#10) is the strongest pick for Canada. It handles provincial insurance billing and PIPEDA/PHIPA compliance, runs cloud or local with an identical interface, and includes Power BI analytics. With no close Canada-focused competitor on this list.
 
 **Q: Is Weave a dental practice-management system?**
-A: No. Weave (the #11 Wildcard) is a patient-communication platform — phones, texting, reviews, online scheduling and payments — that layers on top of your existing PMS. It is the top-rated dental tool on Capterra, but it does not replace your records system; it makes whatever PMS you run stickier.
+A: No. Weave (the #11 Wildcard) is a patient-communication platform. Phones, texting, reviews, online scheduling and payments. That layers on top of your existing PMS. It is the top-rated dental tool on Capterra, but it does not replace your records system; it makes whatever PMS you run stickier.
 
 **Q: Can an AI agent query this dental ranking programmatically?**
 A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/lists/dental-crm/{rank} for one product, or GET /api/lists/dental-crm/md for a Markdown mirror. For problem-led matching, call GET /api/lists/dental-crm/recommend?problem=…&segment=…&budget=… , or use the recommend tool on the live MCP server at POST /mcp.
@@ -141,7 +141,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - This list ranks dental practice-management software and CRMs; product capabilities were checked against vendor documentation and third-party review platforms (G2, Capterra, Software Advice) as of May 2026.
 - Open Dental is named the standout for same-day multi-operatory scheduling because it is the only product on this list that publicly documents appointment mirroring; verify current capability against the vendor before purchase.
 - Weave is included as the #11 Wildcard despite not being a full practice-management system, because it is the strongest patient-communication layer in the category.
-- Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.
+- Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
 - Every entry carries at least one published criticism.
 - No vendor has paid for placement on Wondermous. There is no paid tier.
 - Right of Reply: every listed vendor gets one pinned response on its entry. Email editor@wondermous.ai to use it.
@@ -150,10 +150,10 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 
 ## The 11 Best Fractional CFOs for Tech Startups
 
-**Short answer:** As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology — no firm paid to appear.
+**Short answer:** As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.
 
 - URL: https://top11-nine.vercel.app/fractional-cfo
-- Audience: Tech founders raising $1M–$50M, Seed to Series B
+- Audience: Tech founders raising $1M to $50M, Seed to Series B
 - Editor: Wondermous AI (anonymous by design)
 - Last verified: 2026-05-26
 - Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
@@ -164,14 +164,14 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - We screened more than 40 fractional CFO providers before selecting these 11. (Wondermous analysis, May 2026)
 - Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000. (Wondermous analysis, May 2026)
 - Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams. (Wondermous analysis, May 2026)
-- The firms on this list were founded between 2001 and 2023 — a 22-year spread of operating history. (Wondermous analysis, May 2026)
+- The firms on this list were founded between 2001 and 2023, a 22-year spread of operating history. (Wondermous analysis, May 2026)
 - No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake. (Wondermous analysis, May 2026)
 
 ### Ranking
 ### #1 — Burkland Associates (9.1/9.4)
 - URL: https://burklandassociates.com
-- Best for: Series A–C venture-backed SaaS with US operations
-- Founded 2003, San Francisco, CA, team 200+, $$$ (typically $5k–$25k/mo)
+- Best for: Series A to C venture-backed SaaS with US operations
+- Founded 2003, San Francisco, CA, team 200+, $$$ (typically $5k to $25k/mo)
 - Verdict: The default choice for VC-backed tech startups in the US. Deep bench, strong investor relationships, and they speak the language of board decks fluently. Best when you need a CFO who already knows what your lead investor expects.
 - Pro: Public reviews consistently highlight the firm's ability to handle complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.
 - Con: Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.
@@ -180,8 +180,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #2 — Kruze Consulting (8.9/9.4)
 - URL: https://kruzeconsulting.com
 - Best for: Seed to Series B SaaS, R&D tax credit heavy
-- Founded 2012, San Francisco, CA, team 150+, $$$ (typically $2.5k–$15k/mo)
-- Verdict: Strongest reputation for R&D tax credit work in the US — they routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.
+- Founded 2012, San Francisco, CA, team 150+, $$$ (typically $2.5k to $15k/mo)
+- Verdict: Strongest reputation for R&D tax credit work in the US. They routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.
 - Pro: Founders repeatedly cite the R&D credit reclaim as a single moment that made the engagement pay for itself.
 - Con: Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.
 - Risk signals (low, checked 2026-05-26): No verifiable data breach or lawsuit; a couple of isolated, years-old negative client reviews on Yelp sit against an otherwise positive 4.3/5 rating, so risk is low and not a current trend.
@@ -191,17 +191,17 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #3 — Graphite Financial (8.6/9.4)
 - URL: https://graphitefinancial.com
 - Best for: Y Combinator and accelerator-backed early-stage
-- Founded 2017, New York, NY, team 50–100, $$ (typically $1.5k–$8k/mo)
+- Founded 2017, New York, NY, team 50 to 100, $$ (typically $1.5k to $8k/mo)
 - Verdict: A YC favourite. Modern stack-native (QuickBooks Online, Stripe, Mercury, Brex), priced for the moment a founder first realises they can no longer DIY their books, and structured to scale up to Series A without re-papering.
 - Pro: Reviews consistently call out the founder-friendly onboarding and the willingness to take pre-revenue clients.
-- Con: Bench depth is shallower than the larger firms — if your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
+- Con: Bench depth is shallower than the larger firms. If your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
 - Risk signals (none, checked 2026-05-26): No verifiable public risk signals found as of May 2026 (checked data breaches, lawsuits, and billing complaints). Buyer reviews on Clutch are 5.0 across 8 reviews with no billing or service complaints.
 
 ### #4 — Pilot (8.4/9.4)
 - URL: https://pilot.com
 - Best for: Bookkeeping-first engagements that want a CFO add-on later
 - Founded 2017, San Francisco, CA, team 500+, $$ (CFO services from $2k/mo on top of bookkeeping base)
-- Verdict: Pilot's strength is the bookkeeping foundation — it's the cleanest, most-systematic monthly close in the category. The Fractional CFO service is a layer on top, which works well if you already trust the books, and less well if you want strategic finance from day one.
+- Verdict: Pilot's strength is the bookkeeping foundation. It's the cleanest, most-systematic monthly close in the category. The Fractional CFO service is a layer on top, which works well if you already trust the books, and less well if you want strategic finance from day one.
 - Pro: Founders praise the predictable monthly close and the dashboard that doesn't require a finance background to read.
 - Con: The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.
 - Risk signals (low, checked 2026-05-26): No verifiable breach or lawsuit; some genuine billing complaints on Trustpilot about charging small businesses corporate rates and upselling, but reviews overall skew positive (9/10 on TrustRadius).
@@ -211,9 +211,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #5 — Zeni (8.2/9.4)
 - URL: https://zeni.ai
 - Best for: Founders who want an AI-augmented finance stack with human CFOs on call
-- Founded 2019, Palo Alto, CA, team 100–200, $$ (typically $1.5k–$10k/mo blended)
+- Founded 2019, Palo Alto, CA, team 100 to 200, $$ (typically $1.5k to $10k/mo blended)
 - Verdict: Zeni's pitch is the AI-first finance team: automated categorisation, real-time dashboards, then a human CFO layer on top. The AI layer is genuinely good. The human layer is competent but newer than the incumbents.
-- Pro: Real-time dashboards and the speed of the monthly close get consistent praise — Zeni founders report closing in days, not weeks.
+- Pro: Real-time dashboards and the speed of the monthly close get consistent praise. Zeni founders report closing in days, not weeks.
 - Con: The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.
 - Risk signals (low, checked 2026-05-26): No confirmed breach or lawsuit against Zeni; one TrustRadius reviewer alleges ACH fraud draining their account in October 2024, but this is a single unverified user allegation, not a proven Zeni security breach.
   - [support] A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach. — TrustRadius: https://www.trustradius.com/products/zeni/reviews (2024-10)
@@ -221,8 +221,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #6 — Preferred CFO (8.1/9.4)
 - URL: https://preferredcfo.com
 - Best for: Founders outside the SF/NYC bubble who want a senior CFO without coastal pricing
-- Founded 2013, Lehi, UT, team 50–100, $$ (typically $3k–$10k/mo)
-- Verdict: A genuinely strong alternative for founders who don't want or need a Bay Area firm. Senior CFOs, full-stack support, transparent pricing. Their content and case studies skew slightly more traditional-business than pure SaaS — which is a feature, not a bug, if you're hardware, services, or a hybrid.
+- Founded 2013, Lehi, UT, team 50 to 100, $$ (typically $3k to $10k/mo)
+- Verdict: A genuinely strong alternative for founders who don't want or need a Bay Area firm. Senior CFOs, full-stack support, transparent pricing. Their content and case studies skew slightly more traditional-business than pure SaaS, which is a feature, not a bug, if you're hardware, services, or a hybrid.
 - Pro: Founders cite the seniority of the CFOs assigned and the willingness to engage on operational issues, not just reporting.
 - Con: Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.
 - Risk signals (none, checked 2026-05-26): No verifiable breach, lawsuit, billing dispute, or service-quality complaint pattern found in public records as of May 2026.
@@ -230,18 +230,18 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #7 — Driven Insights (7.9/9.4)
 - URL: https://driveninsights.com
 - Best for: Bootstrapped and revenue-funded tech businesses
-- Founded 2010, Bedford, NH, team 20–50, $$ (typically $2k–$8k/mo)
+- Founded 2010, Bedford, NH, team 20 to 50, $$ (typically $2k to $8k/mo)
 - Verdict: If you're not raising venture and you want a finance partner who treats your P&L as the actual product, Driven Insights is genuinely good. Less of a fit for high-burn venture-backed companies.
-- Pro: Bootstrappers consistently report a partner-feel relationship — the team digs into unit economics, not just bookkeeping hygiene.
+- Pro: Bootstrappers consistently report a partner-feel relationship. The team digs into unit economics, not just bookkeeping hygiene.
 - Con: Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).
 - Risk signals (none, checked 2026-05-26): No verifiable risk signals found as of May 2026; BBB rates it A+ with no complaints, and no lawsuits, breaches, or billing/support complaint patterns surfaced.
 
 ### #8 — NOW CFO (7.6/9.4)
 - URL: https://nowcfo.com
 - Best for: Founders who want fast placement and broad coverage across US time zones
-- Founded 2005, Salt Lake City, UT, team 200+, $$ (typically $2k–$15k/mo)
-- Verdict: Big national network, deep enough to staff almost any engagement quickly. The trade-off is variability — the experience can swing significantly based on which local team you draw. Best when speed of placement matters more than tight tech-vertical specialism.
-- Pro: Public reviews highlight the speed of getting a CFO in seat — engagements often start within a week.
+- Founded 2005, Salt Lake City, UT, team 200+, $$ (typically $2k to $15k/mo)
+- Verdict: Big national network, deep enough to staff almost any engagement quickly. The trade-off is variability. The experience can swing significantly based on which local team you draw. Best when speed of placement matters more than tight tech-vertical specialism.
+- Pro: Public reviews highlight the speed of getting a CFO in seat. Engagements often start within a week.
 - Con: Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.
 - Risk signals (low, checked 2026-05-26): Only a few isolated, years-old client complaints about a non-refunded fee and a poor placement; no breach, lawsuit, or recent service-quality pattern found.
   - [billing] A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee. — Yelp: https://www.yelp.com/brands/now-cfo (2021)
@@ -250,8 +250,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #9 — Paro (7.5/9.4)
 - URL: https://paro.ai
 - Best for: Founders who want to hand-pick a specific CFO with sector expertise
-- Founded 2015, Chicago, IL, team Marketplace (1000+ vetted experts), $$ (typically $80–$300/hr depending on expert)
-- Verdict: Paro is a marketplace, not a firm. The upside is you can find a CFO with very specific industry experience (e.g. fintech compliance, deeptech grant accounting). The downside is the relationship is with the individual — if they leave the marketplace, you start again.
+- Founded 2015, Chicago, IL, team Marketplace (1000+ vetted experts), $$ (typically $80 to $300/hr depending on expert)
+- Verdict: Paro is a marketplace, not a firm. The upside is you can find a CFO with very specific industry experience (e.g. fintech compliance, deeptech grant accounting). The downside is the relationship is with the individual. If they leave the marketplace, you start again.
 - Pro: Founders who match well with their Paro CFO often describe it as the best finance hire they've made.
 - Con: Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.
 - Risk signals (moderate, checked 2026-05-26): Multiple independent platforms show a recurring client pattern of billing disputes and unresponsive support when an assigned expert fails, though no data breach or verified lawsuit against Paro was found. Paro is a marketplace, so experience varies by the individual expert matched.
@@ -262,9 +262,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #10 — The CFO Centre (7.4/9.4)
 - URL: https://www.cfocentre.com
 - Best for: International tech businesses, UK / EU / APAC operating entities
-- Founded 2001, London, UK (global network), team 750+ CFOs across 20+ countries, $$$ (typically £4k–£15k/mo per market)
-- Verdict: The CFO Centre is the most genuinely international option here — if you've raised in the US but built the team in London or Singapore, they're set up for that geography. The network's senior CFOs are experienced, the franchise structure means local relationship quality varies.
-- Pro: International founders cite the cross-border experience as the deciding factor — payroll, tax, equity across jurisdictions.
+- Founded 2001, London, UK (global network), team 750+ CFOs across 20+ countries, $$$ (typically £4k to £15k/mo per market)
+- Verdict: The CFO Centre is the most genuinely international option here. If you've raised in the US but built the team in London or Singapore, they're set up for that geography. The network's senior CFOs are experienced, the franchise structure means local relationship quality varies.
+- Pro: International founders cite the cross-border experience as the deciding factor. Payroll, tax, equity across jurisdictions.
 - Con: The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.
 - Risk signals (low, checked 2026-05-26): Predominantly positive public reviews (Trustpilot around 4 stars) with one isolated customer complaint about unclear communication; no breaches, lawsuits, or billing-fraud records found. As a franchise network, service quality is tied to the local partner.
   - [support] A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency. — Trustpilot: https://www.trustpilot.com/review/cfocentre.com (2026)
@@ -272,27 +272,27 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 ### #11 [WILDCARD] — TheCFOSquad (7.2/9.4)
 - URL: https://thecfosquad.com
 - Best for: AI-native startups that want their CFO to actually use the same tools they ship
-- Founded 2023, Remote (US / UK), team 10–20, $ (typically $1.5k–$6k/mo)
+- Founded 2023, Remote (US / UK), team 10 to 20, $ (typically $1.5k to $6k/mo)
 - Verdict: The newest firm on this list, included as the Wondermous Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.
-- Pro: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product — they're a user, not just a number-cruncher.
+- Pro: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product. They're a user, not just a number-cruncher.
 - Con: Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.
 - Risk signals (none, checked 2026-05-26): No verifiable public-record risk signals found as of May 2026; the firm is new (founded 2023) with little public footprint, so there is no breach, lawsuit, or complaint history to report.
-- Why wildcard: The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.
+- Why wildcard: The Wildcard slot goes to a newer firm that's doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native. They live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy CFO experience.
 
 ### Buyer's guide
-- What is a fractional CFO? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer — typically 10 to 40 hours a month — instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000–$450,000 fully-loaded cost of a full-time CFO.
+- What is a fractional CFO? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer, typically 10 to 40 hours a month, instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000 to $450,000 fully-loaded cost of a full-time CFO.
 - How much does a fractional CFO cost in 2026? Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Wondermous analysis, May 2026).
-- Fractional CFO vs full-time vs part-time CFO: what's the difference? A full-time CFO is a salaried executive ($250k–$450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
+- Fractional CFO vs full-time vs part-time CFO: what's the difference? A full-time CFO is a salaried executive ($250k to $450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
 
 ### FAQ
 **Q: Who is the best fractional CFO for a venture-backed tech startup in 2026?**
-A: For venture-backed US tech startups, Burkland Associates ranks #1 in this list — it has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority.
+A: For venture-backed US tech startups, Burkland Associates ranks #1 in this list. It has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority.
 
 **Q: How much does a fractional CFO cost in 2026?**
 A: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Wondermous analysis, May 2026).
 
 **Q: What is the difference between a fractional CFO and a full-time or part-time CFO?**
-A: A full-time CFO is a salaried executive costing $250,000–$450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer — usually 10 to 40 hours a month — and is often backed by a firm with a bench, so coverage continues even if your lead CFO changes.
+A: A full-time CFO is a salaried executive costing $250,000 to $450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer. Usually 10 to 40 hours a month. And is often backed by a firm with a bench, so coverage continues even if your lead CFO changes.
 
 **Q: Which fractional CFO is best for pre-seed or bootstrapped founders?**
 A: Graphite Financial (#3) is the strongest pick for early-stage, YC-budget founders, and TheCFOSquad (the #11 Wildcard) is built for AI-native pre-seed startups at the lowest price band on this list. Both take pre-revenue clients.
@@ -313,10 +313,10 @@ A: Burkland Associates (#1) is the strongest pick for getting fundraise-ready: i
 A: The CFO Centre (#10) is the most genuinely international option on this list, built for cross-border payroll, tax, and equity across the UK, EU, and APAC. It is the right pick if you raised in the US but built the team abroad.
 
 **Q: What is the cheapest fractional CFO for a pre-seed startup?**
-A: TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k–$6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients.
+A: TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k to $6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients.
 
 **Q: Which fractional CFO is best for a bootstrapped business not raising venture?**
-A: Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funded businesses — it treats your P&L as the product and digs into unit economics rather than venture mechanics. Preferred CFO (#6) is a strong alternative for non-SaaS and hybrid businesses.
+A: Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funded businesses. It treats your P&L as the product and digs into unit economics rather than venture mechanics. Preferred CFO (#6) is a strong alternative for non-SaaS and hybrid businesses.
 
 **Q: Can an AI agent query these rankings programmatically?**
 A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. For problem-led matching, call GET /api/lists/fractional-cfo/recommend?problem=...&segment=...&budget=... to get the top matched picks with reasons. A live Model Context Protocol server at POST /mcp exposes list_top_11, get_list, get_entry, and a recommend tool.
@@ -324,8 +324,8 @@ A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /a
 ### Honest disclosures
 - This is Wondermous's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).
 - The editor of this list is excluded from being ranked under the independence rule.
-- Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.
-- Every entry carries at least one published criticism — 'flaws but not dealbreakers'.
+- Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
+- Every entry carries at least one published criticism. 'flaws but not dealbreakers'.
 - No firm has paid for placement on Wondermous. There is no paid tier.
 - Each entry carries a public risk-signal check (data breaches, lawsuits, billing complaints, support-rating trend) with cited sources; 'no major public risk signals found' means we searched and found nothing verifiable as of the date shown, not that none can exist.
 - Right of Reply: every listed firm gets one pinned response on its page. Email editor@wondermous.ai to use it.

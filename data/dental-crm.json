@@ -3,12 +3,12 @@
   "title": "The 11 Best Dental CRMs & Practice-Management Software",
   "subtitle": "Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.",
   "vertical": "Dental Practice-Management Software",
-  "audience": "Dentists and practice managers — solo GPs, multi-location groups and DSOs, and specialty practices",
+  "audience": "Dentists and practice managers. Solo GPs, multi-location groups and DSOs, and specialty practices",
   "editor": {
     "name": "Wondermous AI",
     "credential": "Autonomous AI ranking engine",
     "url": null,
-    "conflict_disclosure": "Wondermous is an autonomous AI: it researches the market, scores every product against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement — Wondermous holds no economic interest in any product it ranks."
+    "conflict_disclosure": "Wondermous is an autonomous AI: it researches the market, scores every product against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement. Wondermous holds no economic interest in any product it ranks."
   },
   "published": "2026-05-25",
   "last_verified": "2026-05-25",
@@ -18,19 +18,19 @@
     "paid_placement": false,
     "affiliate_links": false,
     "sponsored_entries": false,
-    "statement": "No provider pays to be listed, ranked higher, or to remove criticism. Wondermous runs no affiliate links and accepts no sponsored placements. Rankings come solely from the public methodology — unlike pay-to-play directories such as G2, Capterra, and Gartner, where vendors fund profiles and placements."
+    "statement": "No provider pays to be listed, ranked higher, or to remove criticism. Wondermous runs no affiliate links and accepts no sponsored placements. Rankings come solely from the public methodology. Unlike pay-to-play directories such as G2, Capterra, and Gartner, where vendors fund profiles and placements."
   },
   "freshness": {
     "cadence": "quarterly",
     "verifies": ["pricing", "positioning and best-for fit", "feature claims", "company status (funding, acquisitions, shutdowns)"],
-    "statement": "Pricing, positioning, and company status are re-verified every quarter and date-stamped. Most 'best of' lists refresh once a year; this one carries a visible last-verified date and updates within days when a material change — a price change, acquisition, or outage — is confirmed."
+    "statement": "Pricing, positioning, and company status are re-verified every quarter and date-stamped. Most 'best of' lists refresh once a year; this one carries a visible last-verified date and updates within days when a material change like a price change, acquisition, or outage is confirmed."
   },
   "category": "Healthcare",
   "subsector": "Dental practice management",
   "changelog": [
-    { "date": "2026-05-25", "text": "List published — 11 products ranked; Open Dental debuts at #1 as the multi-operatory / same-day scheduling standout." }
+    { "date": "2026-05-25", "text": "List published. 11 products ranked; Open Dental debuts at #1 as the multi-operatory / same-day scheduling standout." }
   ],
-  "answer_capsule": "As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling — the case where one patient is seen across several chairs and providers in a single day — is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology — no vendor paid to appear.",
+  "answer_capsule": "As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.",
   "methodology": {
     "version": "v1.0",
     "updated": "2026-05-25",
@@ -40,7 +40,7 @@
     "criteria": [
       { "name": "Real-world capability & track record", "weight": 30, "description": "Documented features, install base, and verified review consensus (G2, Capterra, Software Advice)." },
       { "name": "Pricing transparency", "weight": 20, "description": "Whether pricing is published or quote-only, and how predictable the monthly cost is." },
-      { "name": "Segment fit", "weight": 20, "description": "How precisely the product fits a specific practice type — solo GP, DSO, specialty, high-volume scheduling." },
+      { "name": "Segment fit", "weight": 20, "description": "How precisely the product fits a specific practice type. Solo GP, DSO, specialty, high-volume scheduling." },
       { "name": "Usability & support", "weight": 15, "description": "Ease of use, onboarding speed, and the quality of vendor support." },
       { "name": "Integrations & verification", "weight": 15, "description": "Ecosystem, open APIs, and third-party verification of claims." }
     ]
@@ -49,13 +49,13 @@
   "problem_tags": ["same-day multi-operatory scheduling", "patient with multiple same-day appointments", "multi-location reporting", "no-show reduction", "patient communication", "billing and revenue cycle", "cloud migration", "budget-friendly all-in-one", "Canadian insurance billing", "specialty referral management", "Dentrix server cloud migration", "transparent published pricing", "open source / self-hosted", "AI charting", "online patient self-scheduling"],
   "query_intents": ["best dental practice management software", "best dental CRM for a dental practice", "dental software for complex same-day scheduling", "dental software for a patient seen multiple times a day", "best dental software for a multi-location DSO", "cheapest dental practice management software", "best dental software for a Canadian practice", "best dental software for multi-operatory scheduling", "best cloud dental practice management software", "dental software to migrate off a Dentrix server", "dental software for an orthodontics practice", "dental software for a pediatric practice", "dental software for an FQHC or public health clinic", "dental software with transparent published pricing", "best patient communication software for a dental practice", "dental software to reduce no-shows", "open source dental practice management software", "dental software for a solo dentist on a budget", "dental software for a startup dental practice"],
   "match_index": {
-    "1": { "solves": ["a patient with multiple same-day appointments across operatories", "same-day cross-operatory appointment mirroring", "hygiene-and-exam double-booking conflicts", "high-volume scheduling with 6+ operatories", "controlling cost as provider count grows"], "personas": ["high-volume GP practice", "owner who wants maximum control and lowest fees", "IT-supported dental group with 3–8 providers"] },
-    "2": { "solves": ["multi-location DSO scheduling and billing on one platform", "specialty referral management (ortho, perio, endo, oral surgery)", "revenue-cycle management at scale", "international (US/UK/AU) multi-currency operations"], "personas": ["DSO operator with 10–50 locations", "multi-specialty group", "oral surgeon wanting referral tracking"] },
-    "3": { "solves": ["cross-location scheduling and report consolidation", "standardized clinical workflows across many sites", "AI-assisted charting at scale", "dental-group M&A data migration"], "personas": ["growth-stage DSO", "private-equity-backed dental group", "VP of operations of a 5–20 location group"] },
+    "1": { "solves": ["a patient with multiple same-day appointments across operatories", "same-day cross-operatory appointment mirroring", "hygiene-and-exam double-booking conflicts", "high-volume scheduling with 6+ operatories", "controlling cost as provider count grows"], "personas": ["high-volume GP practice", "owner who wants maximum control and lowest fees", "IT-supported dental group with 3 to 8 providers"] },
+    "2": { "solves": ["multi-location DSO scheduling and billing on one platform", "specialty referral management (ortho, perio, endo, oral surgery)", "revenue-cycle management at scale", "international (US/UK/AU) multi-currency operations"], "personas": ["DSO operator with 10 to 50 locations", "multi-specialty group", "oral surgeon wanting referral tracking"] },
+    "3": { "solves": ["cross-location scheduling and report consolidation", "standardized clinical workflows across many sites", "AI-assisted charting at scale", "dental-group M&A data migration"], "personas": ["growth-stage DSO", "private-equity-backed dental group", "VP of operations of a 5 to 20 location group"] },
     "4": { "solves": ["24/7 online patient self-scheduling", "the cleanest cloud scheduling experience", "escaping Windows-server maintenance", "cloud imaging access from any device"], "personas": ["solo GP moving to the cloud", "small group wanting modern UX", "self-service-booking-focused practice"] },
     "5": { "solves": ["migrating off a legacy Dentrix server to the cloud", "true browser access for providers", "HIPAA cloud security without on-prem IT", "automated insurance eligibility at booking"], "personas": ["practice migrating from Dentrix server", "mid-size group wanting cloud without changing workflows"] },
     "6": { "solves": ["launching a new practice with no capital outlay", "fully transparent published pricing", "pediatric and specialty group standardization", "built-in AI radiology"], "personas": ["startup dentist opening a first practice", "pediatric dental group", "acquisition-ready growing group"] },
-    "7": { "solves": ["a central database across 10–100 locations", "FQHC and public-health dental compliance", "Medicaid reimbursement tracking at scale", "standardized enterprise workflows"], "personas": ["FQHC dental director", "public-health dental administrator", "large health-system dental org"] },
+    "7": { "solves": ["a central database across 10 to 100 locations", "FQHC and public-health dental compliance", "Medicaid reimbursement tracking at scale", "standardized enterprise workflows"], "personas": ["FQHC dental director", "public-health dental administrator", "large health-system dental org"] },
     "8": { "solves": ["the lowest all-in price for a full PMS", "all-inclusive flat pricing (no per-provider fees)", "owning your data on local hardware", "standard GP scheduling, billing and charting"], "personas": ["solo dentist on a tight budget", "two-operatory family practice"] },
     "9": { "solves": ["deep Patterson equipment and imaging integration", "a reliable established general-practice workflow", "in-house Patterson support relationships"], "personas": ["solo GP invested in Patterson hardware", "small Windows-based general practice"] },
     "10": { "solves": ["Canadian provincial insurance billing", "cloud OR local with an identical interface", "Power BI practice analytics built in", "PIPEDA/PHIPA data compliance"], "personas": ["Canadian dental practice (any province)", "multi-location Canadian group"] },
@@ -63,31 +63,31 @@
   },
   "stats": [
     { "text": "We reviewed 14 dental platforms and ranked the 11 strongest, segmented by exactly who each is for.", "source": "Wondermous analysis, May 2026" },
-    { "text": "Only one product on this list — Open Dental — publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling.", "source": "Wondermous review of vendor documentation, May 2026" },
+    { "text": "Only one product on this list, Open Dental, publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling.", "source": "Wondermous review of vendor documentation, May 2026" },
     { "text": "Published monthly pricing across this list ranges from about $109 to $750+ per location; several vendors quote only.", "source": "Wondermous analysis of vendor and Software Advice pricing, May 2026" },
     { "text": "Six of the 11 are fully cloud-hosted; the rest are Windows/server-based or hybrid.", "source": "Wondermous analysis, May 2026" },
     { "text": "No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake.", "source": "Wondermous analysis, May 2026" }
   ],
   "guide": [
-    { "q": "What is dental practice-management software (a dental CRM)?", "a": "Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type — a solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for." },
-    { "q": "Which dental software handles a patient with multiple same-day appointments across operatories?", "a": "Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring — automatically placing a linked provider exam when a hygiene block is created — and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale." },
-    { "q": "How much does dental practice-management software cost in 2026?", "a": "Published pricing on this list runs from about $109/month flat (Practice-Web) and $125–$225/month (tab32) at the low end, up to $698–$750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149–$199/month per location plus a small per-provider fee above three providers. Several vendors — including Dentrix Ascend, Curve, Eaglesoft and Weave — are quote-only (Wondermous analysis, May 2026)." },
-    { "q": "Cloud vs server: which should a dental practice choose?", "a": "Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device — best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode." }
+    { "q": "What is dental practice-management software (a dental CRM)?", "a": "Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type. A solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for." },
+    { "q": "Which dental software handles a patient with multiple same-day appointments across operatories?", "a": "Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring (automatically placing a linked provider exam when a hygiene block is created) and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale." },
+    { "q": "How much does dental practice-management software cost in 2026?", "a": "Published pricing on this list runs from about $109/month flat (Practice-Web) and $125 to $225/month (tab32) at the low end, up to $698 to $750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149 to $199/month per location plus a small per-provider fee above three providers. Several vendors, including Dentrix Ascend, Curve, Eaglesoft and Weave, are quote-only (Wondermous analysis, May 2026)." },
+    { "q": "Cloud vs server: which should a dental practice choose?", "a": "Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device, best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode." }
   ],
   "how_to_choose": [
     "Start from your hardest scheduling case: high-volume or complex same-day multi-operatory practices should weight scheduling flexibility (Open Dental) far above everything else.",
     "Match the product to your structure: solo GPs want low-cost all-in-one; multi-location groups need true DSO platforms (CareStack, Denticon, Dentrix Enterprise).",
-    "Decide cloud vs server before you shortlist — it eliminates half the market immediately.",
+    "Decide cloud vs server before you shortlist. It eliminates half the market immediately.",
     "Insist on pricing in writing; quote-only vendors can vary widely, so get the per-provider and per-location math up front.",
     "Confirm specialty and regional fit: orthodontics, pediatrics, FQHC/public health, and Canadian billing each reward specific products.",
-    "Remember that a patient-communication layer like Weave can be added on top of most systems — you don't have to solve communication and records with the same vendor."
+    "Remember that a patient-communication layer like Weave can be added on top of most systems. You don't have to solve communication and records with the same vendor."
   ],
   "faqs": [
     { "q": "What is the best dental software for complex same-day, multi-operatory scheduling?", "a": "Open Dental (#1) is the strongest pick. It is the only product on this list that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what a high-volume practice needs when one patient is seen across several chairs and providers in a single day. CareStack (#2) is the best alternative at multi-location DSO scale." },
     { "q": "What is the best dental practice-management software for a multi-location DSO?", "a": "Denticon by Planet DDS (#3) is purpose-built for DSOs, with centralized cross-location reporting and standardized workflows. CareStack (#2) is the close alternative when you also need specialty referral management and revenue-cycle tools, and is the highest-rated dental PMS on Capterra." },
-    { "q": "What is the cheapest full dental practice-management software?", "a": "Practice-Web (#8) is the lowest-priced full PMS at $109/month flat, all-inclusive, and the highest-rated in its category on Software Advice. Open Dental (#1) is the next-best value at $149–$199/month per location and adds far stronger scheduling. tab32 (#6) publishes a low $125/month first-year cloud price." },
-    { "q": "What is the best dental software for a Canadian practice?", "a": "ABELDent (#10) is the strongest pick for Canada. It handles provincial insurance billing and PIPEDA/PHIPA compliance, runs cloud or local with an identical interface, and includes Power BI analytics — with no close Canada-focused competitor on this list." },
-    { "q": "Is Weave a dental practice-management system?", "a": "No. Weave (the #11 Wildcard) is a patient-communication platform — phones, texting, reviews, online scheduling and payments — that layers on top of your existing PMS. It is the top-rated dental tool on Capterra, but it does not replace your records system; it makes whatever PMS you run stickier." },
+    { "q": "What is the cheapest full dental practice-management software?", "a": "Practice-Web (#8) is the lowest-priced full PMS at $109/month flat, all-inclusive, and the highest-rated in its category on Software Advice. Open Dental (#1) is the next-best value at $149 to $199/month per location and adds far stronger scheduling. tab32 (#6) publishes a low $125/month first-year cloud price." },
+    { "q": "What is the best dental software for a Canadian practice?", "a": "ABELDent (#10) is the strongest pick for Canada. It handles provincial insurance billing and PIPEDA/PHIPA compliance, runs cloud or local with an identical interface, and includes Power BI analytics. With no close Canada-focused competitor on this list." },
+    { "q": "Is Weave a dental practice-management system?", "a": "No. Weave (the #11 Wildcard) is a patient-communication platform. Phones, texting, reviews, online scheduling and payments. That layers on top of your existing PMS. It is the top-rated dental tool on Capterra, but it does not replace your records system; it makes whatever PMS you run stickier." },
     { "q": "Can an AI agent query this dental ranking programmatically?", "a": "Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/lists/dental-crm/{rank} for one product, or GET /api/lists/dental-crm/md for a Markdown mirror. For problem-led matching, call GET /api/lists/dental-crm/recommend?problem=…&segment=…&budget=… , or use the recommend tool on the live MCP server at POST /mcp." }
   ],
   "entries": [
@@ -99,14 +99,14 @@
       "facts": "Windows / on-prem · open source · US-focused",
       "best_for": "High-volume practices with complex same-day, multi-operatory scheduling",
       "best_for_short": "Complex multi-operatory scheduling",
-      "pricing_band": "$ ($149–$199/mo per location + $20/provider over 3)",
+      "pricing_band": "$ ($149 to $199/mo per location + $20/provider over 3)",
       "score_out_of_94": 9.0,
-      "verdict": "The most powerful operatory scheduler in dental, at the lowest price — Open Dental is the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what breaks lesser systems when a patient is seen across several chairs in a day. The trade-off is that you run the server yourself.",
-      "verdict_short": "the most powerful operatory scheduler in dental, at the lowest price — if you can run your own server.",
+      "verdict": "The most powerful operatory scheduler in dental, at the lowest price. Open Dental is the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column views, which is exactly what breaks lesser systems when a patient is seen across several chairs in a day. The trade-off is that you run the server yourself.",
+      "verdict_short": "the most powerful operatory scheduler in dental, at the lowest price. If you can run your own server.",
       "praise": "The only product with documented appointment mirroring across operatories and fully customizable multi-column scheduling views; open source; the lowest published price in the category.",
       "praise_short": "Documented same-day appointment mirroring + customizable operatory columns; open source; lowest price.",
       "criticism": "Windows/server only, with no vendor-hosted cloud, so you need IT support to run and maintain it.",
-      "criticism_short": "Windows/server only, self-managed — no vendor cloud.",
+      "criticism_short": "Windows/server only, self-managed. No vendor cloud.",
       "sources_pending": ["vendor-docs:opendental", "softwareadvice:open-dental", "reddit:r/Dentistry"]
     },
     {
@@ -120,7 +120,7 @@
       "pricing_band": "$$$ (from ~$698/mo)",
       "score_out_of_94": 8.8,
       "verdict": "CareStack is the highest-rated dental PMS on Capterra and the all-in-one DSO platform that also handles specialty referral management across ortho, perio, endo and oral surgery. It serves enterprise groups in the US, UK and Australia, with the trade-off of the highest entry price and a heavier implementation.",
-      "verdict_short": "the all-in-one DSO platform with the highest satisfaction rating — and the highest entry price.",
+      "verdict_short": "the all-in-one DSO platform with the highest satisfaction rating, and the highest entry price.",
       "praise": "Highest overall satisfaction in the category (4.8/5 on Capterra); serves enterprise DSOs with 30+ locations; built-in specialty referral management and AI phone.",
       "praise_short": "Highest-rated dental PMS; serves 30+ location DSOs; specialty referral + AI phone.",
       "criticism": "Most expensive entry price on this list, and a heavy implementation that is overkill for smaller practices.",
@@ -137,11 +137,11 @@
       "best_for_short": "Multi-location DSO reporting",
       "pricing_band": "$$$ (from ~$750/mo)",
       "score_out_of_94": 8.6,
-      "verdict": "Denticon is the purpose-built DSO platform — centralized data, location-drillable reporting, and standardized clinical workflows across every site, now with embedded AI. It powers 13,000+ practices and is a 2025 G2 Momentum Leader, but the $750/month starting price makes it overkill for solo and small practices.",
-      "verdict_short": "the purpose-built DSO platform — centralized data and location-drillable reporting across every site.",
+      "verdict": "Denticon is the purpose-built DSO platform: centralized data, location-drillable reporting, and standardized clinical workflows across every site, now with embedded AI. It powers 13,000+ practices and is a 2025 G2 Momentum Leader, but the $750/month starting price makes it overkill for solo and small practices.",
+      "verdict_short": "the purpose-built DSO platform. Centralized data and location-drillable reporting across every site.",
       "praise": "Built ground-up for DSOs; 13,000+ practices and 45,000+ users; open API and embedded AI; G2 Spring 2025 Momentum Leader.",
       "praise_short": "Built for DSOs; 13,000+ practices; open API + AI; G2 Momentum Leader.",
-      "criticism": "Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein — overkill for small practices.",
+      "criticism": "Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein. Overkill for small practices.",
       "criticism_short": "Highest starting price; overkill for solo/small practices.",
       "sources_pending": ["softwareadvice:denticon", "g2:denticon", "vendor-docs:planetdds"]
     },
@@ -156,7 +156,7 @@
       "pricing_band": "$$ (quote only; mid-market cloud)",
       "score_out_of_94": 8.4,
       "verdict": "Curve Dental has the best-reviewed scheduling experience of any product here, with a clean modern UI, 24/7 patient self-scheduling and cloud imaging in one all-in-one platform. Its one real weakness is billing, which reviewers flag as confusing.",
-      "verdict_short": "the cloud dental PMS with the best-reviewed scheduling and cleanest UI — billing is the weak spot.",
+      "verdict_short": "the cloud dental PMS with the best-reviewed scheduling and cleanest UI. Billing is the weak spot.",
       "praise": "Scheduling rated 4.63/5, the highest of any product on Software Advice; 24/7 self-scheduling; cloud imaging; modern UI that cuts training time.",
       "praise_short": "Best-rated scheduling (4.63/5); 24/7 self-booking; cloud imaging; modern UI.",
       "criticism": "Billing and payment processes are the weakest-rated feature, with reviewers citing confusing invoicing and family-account billing.",
@@ -173,8 +173,8 @@
       "best_for_short": "Cloud migration for Dentrix users",
       "pricing_band": "$$ (quote only)",
       "score_out_of_94": 8.2,
-      "verdict": "Dentrix Ascend is the easiest cloud migration for Dentrix loyalists — true browser access, SOC 2 security, AI charting and 80,000+ active users, with a familiar workflow. Reporting is its weakest area and the tight Henry Schein integration limits third-party flexibility.",
-      "verdict_short": "the easiest cloud migration for Dentrix loyalists — familiar workflow, weaker reporting.",
+      "verdict": "Dentrix Ascend is the easiest cloud migration for Dentrix loyalists: true browser access, SOC 2 security, AI charting and 80,000+ active users, with a familiar workflow. Reporting is its weakest area and the tight Henry Schein integration limits third-party flexibility.",
+      "verdict_short": "the easiest cloud migration for Dentrix loyalists. Familiar workflow, weaker reporting.",
       "praise": "100% browser-based with fast onboarding; 80,000+ clinicians; SOC 2 compliance; AI-powered charting (Voice Notes, Image Verify).",
       "praise_short": "True browser access; 80,000+ users; SOC 2; AI charting.",
       "criticism": "Reporting is rated the weakest feature (3.36/5), and the Henry Schein ecosystem limits third-party integrations.",
@@ -192,7 +192,7 @@
       "pricing_band": "$ ($125/mo year 1, $225/mo year 2+)",
       "score_out_of_94": 8.0,
       "verdict": "tab32 is the most transparently priced all-in-one cloud dental PMS, with public tiered pricing, built-in AI radiology on higher plans, and a go-live measured in days. It is ideal for a startup or growing pediatric/specialty group, though brand recognition trails the incumbents and claims billing can add cost at volume.",
-      "verdict_short": "the most transparently priced all-in-one cloud PMS — ideal for startups and pediatric groups.",
+      "verdict_short": "the most transparently priced all-in-one cloud PMS. Ideal for startups and pediatric groups.",
       "praise": "The only product with fully public tiered pricing; built-in AI radiology on Grow+ plans; multi-tenant architecture; live in days, not months.",
       "praise_short": "Public tiered pricing; built-in AI radiology; live in days.",
       "criticism": "Smaller brand recognition than Dentrix/Eaglesoft, and usage-based claims billing adds cost at high volume.",
@@ -209,8 +209,8 @@
       "best_for_short": "FQHC & large enterprise dental",
       "pricing_band": "$$$ (enterprise quote only)",
       "score_out_of_94": 7.9,
-      "verdict": "Dentrix Enterprise is Henry Schein's enterprise engine — one central database for as many providers and sites as the organization requires, built for FQHCs and public-health compliance. It is powerful but heavy to implement and inappropriate for small practices.",
-      "verdict_short": "Henry Schein's enterprise engine — one central database for unlimited sites, but heavy to implement.",
+      "verdict": "Dentrix Enterprise is Henry Schein's enterprise engine: one central database for as many providers and sites as the organization requires, built for FQHCs and public-health compliance. It is powerful but heavy to implement and inappropriate for small practices.",
+      "verdict_short": "Henry Schein's enterprise engine: one central database for unlimited sites, but heavy to implement.",
       "praise": "True central database for unlimited providers and locations; built for FQHC and public-health compliance; standardized workflows enterprise-wide.",
       "praise_short": "Central database for unlimited sites; FQHC/public-health ready.",
       "criticism": "Lowest ease-of-use rating among Dentrix products (3.8/5) and a heavy implementation; wrong fit for small practices.",
@@ -227,8 +227,8 @@
       "best_for_short": "Budget solo & small practice",
       "pricing_band": "$ ($109/mo flat, all-inclusive)",
       "score_out_of_94": 7.7,
-      "verdict": "Practice-Web is the highest-rated dental software on Software Advice at the lowest flat monthly price — $109/month all-in, including conversion, training, patient portal and forms. It is built for the solo dentist who wants everything in one, with the trade-off that it is server-based with no native cloud or multi-location features.",
-      "verdict_short": "the highest-rated dental software at the lowest flat price — built for the solo dentist.",
+      "verdict": "Practice-Web is the highest-rated dental software on Software Advice at the lowest flat monthly price: $109/month all-in, including conversion, training, patient portal and forms. It is built for the solo dentist who wants everything in one, with the trade-off that it is server-based with no native cloud or multi-location features.",
+      "verdict_short": "the highest-rated dental software at the lowest flat price. Built for the solo dentist.",
       "praise": "Highest Software Advice rating in the category (4.9/5, FrontRunner 2026); $109/mo flat includes conversion, training and patient portal; serving dentistry since 1988.",
       "praise_short": "Highest-rated (4.9/5); $109/mo all-inclusive flat; since 1988.",
       "criticism": "Server-based and Windows-only, with no native cloud and no multi-location or DSO features.",
@@ -245,11 +245,11 @@
       "best_for_short": "Patterson-equipped general practices",
       "pricing_band": "$$ (quote only; Patterson clients)",
       "score_out_of_94": 7.5,
-      "verdict": "Eaglesoft is the workhorse general-practice system for Patterson customers, with deep imaging and device integration and a solid GP workflow. It is reliable but frozen in time — Windows-only, with no Mac, mobile or cloud, and a UI reviewers call dated.",
-      "verdict_short": "the workhorse GP system for Patterson practices — deep device integration, but Windows-only and dated.",
+      "verdict": "Eaglesoft is the workhorse general-practice system for Patterson customers, with deep imaging and device integration and a solid GP workflow. It is reliable but frozen in time: Windows-only, with no Mac, mobile or cloud, and a UI reviewers call dated.",
+      "verdict_short": "the workhorse GP system for Patterson practices. Deep device integration, but Windows-only and dated.",
       "praise": "Deep imaging and device integration within the Patterson ecosystem; reliable general-dentistry workflow; strong Patterson support network.",
       "praise_short": "Deep Patterson device integration; reliable GP workflow.",
-      "criticism": "Windows only — no Mac, mobile or cloud — and verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.",
+      "criticism": "Windows only. No Mac, mobile or cloud. And verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.",
       "criticism_short": "Windows-only, no cloud/Mac; dated UI; not for multi-location.",
       "sources_pending": ["softwareadvice:eaglesoft", "reddit:r/Dentistry"]
     },
@@ -263,8 +263,8 @@
       "best_for_short": "Canadian practices (cloud or local)",
       "pricing_band": "$$ (quote only; cloud or local)",
       "score_out_of_94": 7.4,
-      "verdict": "ABELDent is Canada's leading dental PMS — Azure cloud or local server with an identical interface, Canadian billing and provincial-insurance compliance, and Power BI analytics built in. Its review base is smaller than US-centric competitors and pricing is quote-only, but it has no close Canada-focused rival.",
-      "verdict_short": "Canada's leading dental PMS — identical cloud-or-local UI, with Canadian billing compliance built in.",
+      "verdict": "ABELDent is Canada's leading dental PMS: Azure cloud or local server with an identical interface, Canadian billing and provincial-insurance compliance, and Power BI analytics built in. Its review base is smaller than US-centric competitors and pricing is quote-only, but it has no close Canada-focused rival.",
+      "verdict_short": "Canada's leading dental PMS. Identical cloud-or-local UI, with Canadian billing compliance built in.",
       "praise": "The only product with an identical cloud and local interface (zero retraining when switching); Canadian provincial-insurance compliance; Power BI analytics built in.",
       "praise_short": "Identical cloud/local UI; Canadian billing compliance; Power BI.",
       "criticism": "Smaller review base than US-centric competitors, quote-only pricing, and less recognition outside Canada.",
@@ -282,13 +282,13 @@
       "pricing_band": "$$ (quote only; tiered)",
       "score_out_of_94": 7.2,
       "is_wildcard": true,
-      "wildcard_reason": "The Wildcard slot goes to the one product that doesn't fit the pattern: Weave is not a practice-management system at all. It is the best patient-communication layer — phones, texting, reviews, scheduling and payments — and it makes whatever PMS you run measurably stickier. It is the top-rated dental tool on Capterra, which is why it was too good to cut.",
-      "wildcard_reason_short": "Not a PMS at all — the best patient-communication layer to bolt onto whichever system you choose. Too good to cut.",
+      "wildcard_reason": "The Wildcard slot goes to the one product that doesn't fit the pattern: Weave is not a practice-management system at all. It is the best patient-communication layer (phones, texting, reviews, scheduling and payments), and it makes whatever PMS you run measurably stickier. It is the top-rated dental tool on Capterra, which is why it was too good to cut.",
+      "wildcard_reason_short": "Not a PMS at all. It is the best patient-communication layer to bolt onto whichever system you choose. Too good to cut.",
       "verdict": "Weave is the #1 Capterra-ranked dental tool, but it is a communication engine, not a records system. Layered on top of your existing PMS, it automates reminders, reviews, missed-call recovery and text-to-pay. The catch is that it requires an existing PMS and customer service gets mixed reviews.",
-      "verdict_short": "the best patient-communication layer to bolt onto any PMS — not a records system itself.",
+      "verdict_short": "the best patient-communication layer to bolt onto any PMS. Not a records system itself.",
       "praise": "Top-rated dental tool on Capterra (97/100); integrates with 50+ PMS; ASAP/waitlist management, text-to-pay and AI call pop.",
       "praise_short": "#1 Capterra dental tool; integrates with 50+ PMS; text-to-pay + AI call pop.",
-      "criticism": "Not a standalone PMS — it requires an existing records system — and customer service is rated only 3.9/5.",
+      "criticism": "Not a standalone PMS. It requires an existing records system. And customer service is rated only 3.9/5.",
       "criticism_short": "Not a standalone PMS; needs an existing system; mixed support.",
       "sources_pending": ["capterra:weave", "softwareadvice:weave"]
     }
@@ -297,7 +297,7 @@
     "This list ranks dental practice-management software and CRMs; product capabilities were checked against vendor documentation and third-party review platforms (G2, Capterra, Software Advice) as of May 2026.",
     "Open Dental is named the standout for same-day multi-operatory scheduling because it is the only product on this list that publicly documents appointment mirroring; verify current capability against the vendor before purchase.",
     "Weave is included as the #11 Wildcard despite not being a full practice-management system, because it is the strongest patient-communication layer in the category.",
-    "Scores are capped at 9.4/9.4 — perfect scores are forbidden because they read fake.",
+    "Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.",
     "Every entry carries at least one published criticism.",
     "No vendor has paid for placement on Wondermous. There is no paid tier.",
     "Right of Reply: every listed vendor gets one pinned response on its entry. Email editor@wondermous.ai to use it."

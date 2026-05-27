@@ -27,7 +27,7 @@ export async function GET(req: Request, ctx: { params: Promise<{ slug: string }>
         schema: "wondermous-recommend-v1",
         self: `${SITE_URL}/api/lists/${slug}/recommend`,
         list: `${SITE_URL}/api/lists/${slug}`,
-        usage: "Query params: problem (free text), segment (persona/vertical), budget ($, $$, $$$), max_risk (none|low|moderate|elevated — drop firms with higher verified risk), limit (1-11).",
+        usage: "Query params: problem (free text), segment (persona/vertical), budget ($, $$, $$$), max_risk (none|low|moderate|elevated, drops firms with higher verified risk), limit (1-11).",
       },
       slug,
       list_title: list.title,

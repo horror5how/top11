@@ -46,7 +46,7 @@ export default function VoteWidget({ entrySlug }: { entrySlug: string }) {
           voted === "up" ? "bg-ok text-white border-ok" : "border-ink/15 hover:border-ok hover:text-ok"
         } disabled:opacity-80`}
       >
-        👍 {tally?.up ?? "—"}
+        👍 {tally?.up ?? "·"}
       </button>
       <button
         type="button"
@@ -57,7 +57,7 @@ export default function VoteWidget({ entrySlug }: { entrySlug: string }) {
           voted === "down" ? "bg-bad text-white border-bad" : "border-ink/15 hover:border-bad hover:text-bad"
         } disabled:opacity-80`}
       >
-        👎 {tally?.down ?? "—"}
+        👎 {tally?.down ?? "·"}
       </button>
     </div>
   );

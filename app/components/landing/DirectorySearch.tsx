@@ -38,7 +38,7 @@ export default function DirectorySearch({ catalog }: { catalog: Item[] }) {
             onChange={(e) => { setQ(e.target.value); setOpen(true); }}
             onFocus={() => setOpen(true)}
             onKeyDown={(e) => { if (e.key === "Enter" && results[0]) router.push(`/${results[0].c.slug}`); if (e.key === "Escape") setOpen(false); }}
-            placeholder="Search every list — a niche, a sub-niche, or your exact problem…"
+            placeholder="Search every list: a niche, a sub-niche, or your exact problem…"
             className="flex-1 bg-transparent text-white placeholder-white/35 text-lg sm:text-2xl outline-none"
             aria-label="Search all Wondermous lists"
           />
@@ -60,7 +60,7 @@ export default function DirectorySearch({ catalog }: { catalog: Item[] }) {
             ))
           ) : (
             <div className="px-4 py-4 text-sm text-white/55">
-              No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet — Wondermous builds niches on demand.{" "}
+              No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Wondermous builds niches on demand.{" "}
               <Link href={`/?q=${encodeURIComponent(q)}#search`} className="text-[#ff8a5c] hover:underline">Request it →</Link>
             </div>
           )}

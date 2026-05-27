@@ -30,7 +30,7 @@ export default function Home() {
         </div>
       </nav>
 
-      {/* HERO — the search bar IS the hero */}
+      {/* HERO. The search bar IS the hero */}
       <header id="search" className="relative min-h-[86vh] flex flex-col items-center justify-center text-center px-6">
         <div className="pointer-events-none absolute inset-0 overflow-hidden">
           <div className="wm-float absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-[62%] w-[82vw] max-w-3xl h-[44vh] rounded-full bg-[#ff5722]/10 blur-[120px]" />
@@ -42,7 +42,7 @@ export default function Home() {
           </h1>
           <SearchHero catalog={catalog} />
           <p className="mt-7 text-white/45 text-sm sm:text-base max-w-lg mx-auto leading-relaxed">
-            However niche. We&apos;ve got the ranked list — the Top 11, plus the one wildcard everyone else misses.
+            No matter how niche, we&apos;ve got the ranked list: the Top 11, plus the one wildcard everyone else misses.
           </p>
         </div>
         <a href="#how" className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1.5 text-white/30 hover:text-white/70 transition text-[11px] tracking-widest uppercase">
@@ -64,12 +64,12 @@ export default function Home() {
               <Pillar n="01" tag="Presentation" title="We don't rank products. We rank lists.">
                 Trustpilot gives you a company. Product Hunt gives you a product. Wondermous gives your agent the
                 answer: <strong className="text-white">one ranked list</strong>, narrowed to the exact niche your user
-                asked for — down to the <span className="text-[#ff8a5c]">wildcard built for the edge case</span>.
+                asked for, down to the <span className="text-[#ff8a5c]">wildcard built for the edge case</span>.
               </Pillar>
             </Reveal>
             <Reveal delay={120}>
               <Pillar n="03" tag="Access" title="Built for machines. Open to you.">
-                Agents pull rankings straight from the API, the MCP server, and the structured data — no clicks, no
+                Agents pull rankings straight from the API, the MCP server, and the structured data. No clicks, no
                 scraping. Humans sign in to browse. <strong className="text-white">Same truth, two doors.</strong>
               </Pillar>
             </Reveal>
@@ -107,9 +107,9 @@ export default function Home() {
               An agent asks once. <span className="wm-grad">It gets the answer.</span>
             </h2>
             <p className="mt-4 text-white/55 leading-relaxed max-w-md">
-              Hand Wondermous a user&apos;s exact problem and it returns the matched pick — with the reason — in a single
-              call. No slug needed; filter by budget or by verified risk. No browsing ten blue links. No guessing. This
-              is the recommendation layer the agentic web was missing.
+              Hand Wondermous a user&apos;s exact problem and it returns the matched pick, with the reason, in a single
+              call. No slug needed, and you can filter by budget or by verified risk. No browsing ten blue links, no
+              guessing. This is the recommendation layer agents have been missing.
             </p>
             <div className="mt-6 flex flex-wrap gap-2">
               {["JSON API", "MCP server", "Markdown", "CSV", "llms.txt", "OpenAPI"].map((x) => (
@@ -133,7 +133,7 @@ export default function Home() {
             <p className="font-mono text-xs tracking-widest uppercase text-[#ff8a5c] mb-2">Now live</p>
             <h2 className="text-3xl sm:text-4xl font-extrabold tracking-tight">{slugs.length} lists. {productsRanked} products ranked.</h2>
           </div>
-          <p className="text-white/40 text-sm max-w-xs">More niches ship weekly. Search above to pull the exact list — or request one.</p>
+          <p className="text-white/40 text-sm max-w-xs">More niches ship weekly. Search above to pull the exact list, or request one.</p>
         </Reveal>
         <div className="grid sm:grid-cols-2 gap-4">
           {slugs.map((slug, i) => {
@@ -155,7 +155,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* FINAL CTA — full-bleed animated aurora field that fades seamlessly into the page */}
+      {/* FINAL CTA. Full-bleed animated aurora field that fades seamlessly into the page */}
       <section className="relative overflow-hidden py-28 sm:py-36">
         <div className="wm-fade-edges pointer-events-none absolute inset-0" aria-hidden>
           <div className="wm-aurora absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[72vw] max-w-3xl aspect-square rounded-full bg-[#ff5722]/20 blur-[140px]" />
@@ -167,7 +167,7 @@ export default function Home() {
           <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-tight">
             Find the list <span className="wm-grad">your user needs.</span>
           </h2>
-          <p className="mt-4 text-white/55">Search a niche, a sub-niche, or the exact problem. We&apos;ll hand you the list — or build it.</p>
+          <p className="mt-4 text-white/55">Search a niche, a sub-niche, or the exact problem. We&apos;ll hand you the list, or build it.</p>
           <a
             href="#search"
             className="group inline-flex items-center gap-2 mt-8 rounded-full bg-[#ff5722] px-6 py-3 font-semibold text-white shadow-[0_10px_44px_-10px_rgba(255,87,34,0.75)] transition-transform duration-200 hover:scale-[1.04] hover:bg-[#ff6a3c] active:scale-95"

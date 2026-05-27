@@ -31,7 +31,7 @@ export async function notify(payload: NotifyPayload): Promise<{ ok: boolean; via
         email: NOTIFY_EMAIL,
         dataVariables: {
           kind: payload.kind,
-          entry: payload.entry || "—",
+          entry: payload.entry || "n/a",
           payload_json: JSON.stringify(payload.data, null, 2).slice(0, 4000),
         },
       }),

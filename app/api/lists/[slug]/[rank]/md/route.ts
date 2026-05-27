@@ -17,15 +17,15 @@ export async function GET(_req: Request, ctx: { params: Promise<{ slug: string; 
   const m = mi[String(e.rank)] || { solves: [], personas: [] };
   const wild = (e as AnyEntry).is_wildcard ? " (Wildcard)" : "";
 
-  const md = `## #${e.rank}${wild} ${e.name} — ${e.score_out_of_94}/9.4
+  const md = `## #${e.rank}${wild} ${e.name} · ${e.score_out_of_94}/9.4
 
 **Best for:** ${e.best_for}
-**Solves:** ${m.solves.join("; ") || "—"}
-**Fits:** ${m.personas.join("; ") || "—"}
-**Pricing:** ${priceSymbol(e.pricing_band)} — ${e.pricing_band}
+**Solves:** ${m.solves.join("; ") || "n/a"}
+**Fits:** ${m.personas.join("; ") || "n/a"}
+**Pricing:** ${e.pricing_band}
 **HQ / founded:** ${e.hq} · ${e.founded}
 
-${e.name} — ${e.verdict_short}
+${e.name}: ${e.verdict_short}
 
 - Pro: ${e.praise_short}
 - Con: ${e.criticism_short}

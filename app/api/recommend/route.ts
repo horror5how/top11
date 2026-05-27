@@ -28,7 +28,7 @@ export async function GET(req: Request) {
   const list = slug ? getList(slug) : null;
   if (!list) {
     return NextResponse.json(
-      { _meta: meta, query: { q, segment, budget }, matched_list: null, matched: [], note: "No matching list yet — Wondermous builds niches on demand. Request one at " + `${SITE_URL}/?q=${encodeURIComponent(q)}#search` },
+      { _meta: meta, query: { q, segment, budget }, matched_list: null, matched: [], note: "No matching list yet. Wondermous builds niches on demand. Request one at " + `${SITE_URL}/?q=${encodeURIComponent(q)}#search` },
       { headers: { "Cache-Control": "public, max-age=600", ...CORS } }
     );
   }
