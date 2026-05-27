@@ -1,42 +1,13 @@
 {
   "list_slug": "fractional-cfo",
-  "generated_at": "2026-05-26T06:59:28.154Z",
+  "generated_at": "2026-05-27T07:47:38.058Z",
   "pulse_version": "v1",
   "entries": {
     "1": {
       "rank": 1,
       "name": "Burkland Associates",
       "entry": "Burkland Associates",
-      "verdict": "Burkland Associates appears in multiple Reddit threads as a known option for fractional CFO and accounting services, particularly for startups and software companies needing R&D credit support. No detailed customer reviews or outcome testimonials were found in the available data, though the firm is consistently mentioned alongside other fractional CFO providers in recommendation-seeking discussions.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [
-        {
-          "theme": "Mentioned for R&D credit services",
-          "polarity": "mixed",
-          "count": 1
-        },
-        {
-          "theme": "Discussed in fractional CFO comparison threads",
-          "polarity": "mixed",
-          "count": 2
-        },
-        {
-          "theme": "Associated with startup/software company services",
-          "polarity": "mixed",
-          "count": 2
-        }
-      ],
-      "watch_signals": [
-        "No direct customer testimonials or detailed experience reports found in available public discussions"
-      ],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 6,
       "sources": {
         "reddit": 6,
@@ -49,18 +20,7 @@
       "rank": 2,
       "name": "Kruze Consulting",
       "entry": "Kruze Consulting",
-      "verdict": "Insufficient review signal found to assess Kruze Consulting's service quality or client experience. The single Reddit mention appears in a fundraising outreach post from February 2026 but does not contain commentary about working with the firm, its performance, or specific services delivered.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [],
-      "watch_signals": [],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 1,
       "sources": {
         "reddit": 1,
@@ -73,20 +33,7 @@
       "rank": 3,
       "name": "Graphite Financial",
       "entry": "Graphite Financial",
-      "verdict": "No reviews or customer testimonials found. The search results returned unrelated content about stock trading (rare earths, critical minerals), tech products, and television shows, with no mention of Graphite Financial as a fractional CFO firm. Either the firm has minimal online discussion footprint or the data collection did not capture relevant sources.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [],
-      "watch_signals": [
-        "No discoverable customer reviews or testimonials in common discussion forums; prospective clients should request references directly"
-      ],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 25,
       "sources": {
         "reddit": 25,
@@ -117,26 +64,7 @@
       "rank": 5,
       "name": "Zeni",
       "entry": "Zeni",
-      "verdict": "Zeni is mentioned in 4 Reddit threads as an example of an AI-powered accounting or bookkeeping tool, grouped alongside competitors like Digits and Docyt. No direct customer reviews, testimonials, or detailed usage reports were found in the available data—only passing references in broader discussions about whether AI accounting tools will replace traditional bookkeepers.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [
-        {
-          "theme": "Mentioned alongside AI accounting competitors (Digits, Docyt) in category discussions",
-          "polarity": "mixed",
-          "count": 4
-        }
-      ],
-      "watch_signals": [
-        "No verifiable customer reviews or direct user experiences found in public discussions"
-      ],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 12,
       "sources": {
         "reddit": 12,
@@ -149,20 +77,7 @@
       "rank": 6,
       "name": "Preferred CFO",
       "entry": "Preferred CFO",
-      "verdict": "No meaningful signal found. The firm name appears in one Reddit thread about AI adoption in senior leadership, but the mention is incidental and contains no commentary about Preferred CFO's services, performance, or client experience. Insufficient data to assess reputation or service quality.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [],
-      "watch_signals": [
-        "Zero verifiable customer reviews or testimonials found in public discussion forums"
-      ],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 1,
       "sources": {
         "reddit": 1,
@@ -175,20 +90,7 @@
       "rank": 7,
       "name": "Driven Insights",
       "entry": "Driven Insights",
-      "verdict": "No meaningful review signal found for Driven Insights as a fractional CFO firm. The Reddit data provided contains no customer testimonials, service commentary, or recommendation thread mentions of this firm. The results appear to be generic accounting/finance discussions with no connection to driveninsights.com.",
-      "sentiment_score": null,
-      "strongest_praise": {
-        "quote": null,
-        "source_url": ""
-      },
-      "strongest_criticism": {
-        "quote": null,
-        "source_url": ""
-      },
-      "recurring_themes": [],
-      "watch_signals": [
-        "Zero organic customer reviews or mentions found in provided Reddit data despite searching accounting and finance communities"
-      ],
+      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
       "sample_size": 7,
       "sources": {
         "reddit": 7,
