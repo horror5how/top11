@@ -1,7 +1,7 @@
 {
   "schema_version": "2025-03-26",
   "name": "wondermous",
-  "title": "Wondermous — Independent Rankings",
+  "title": "Wondermous: Independent Rankings",
   "description": "Live MCP server for reading Wondermous independent rankings. Reads are free and unauthenticated.",
   "transport": "streamable-http",
   "endpoint": "https://top11-nine.vercel.app",
@@ -57,7 +57,7 @@
     },
     {
       "name": "recommend",
-      "description": "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed — auto-picks the most relevant list.",
+      "description": "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed. Auto-picks the most relevant list.",
       "input_schema": {
         "type": "object",
         "required": [

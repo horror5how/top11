@@ -1,7 +1,7 @@
-# Wondermous — Full Markdown Mirror
+# Wondermous: Full Markdown Mirror
 
 Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-27T12:47:18.976Z
+Generated: 2026-05-27T12:57:54.552Z
 
 ## The 11 Best Dental CRMs & Practice-Management Software
 
@@ -23,7 +23,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake. (Wondermous analysis, May 2026)
 
 ### Ranking
-### #1 — Open Dental (9/9.4)
+### #1 Open Dental (9/9.4)
 - URL: https://www.opendental.com/
 - Best for: High-volume practices with complex same-day, multi-operatory scheduling
 - Founded undefined, United States, team undefined, $ ($149 to $199/mo per location + $20/provider over 3)
@@ -31,7 +31,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: The only product with documented appointment mirroring across operatories and fully customizable multi-column scheduling views; open source; the lowest published price in the category.
 - Con: Windows/server only, with no vendor-hosted cloud, so you need IT support to run and maintain it.
 
-### #2 — CareStack (8.8/9.4)
+### #2 CareStack (8.8/9.4)
 - URL: https://www.carestack.com/
 - Best for: Multi-specialty DSOs and groups wanting one platform for scheduling, billing, imaging and referrals
 - Founded undefined, United States, UK, Australia, team undefined, $$$ (from ~$698/mo)
@@ -39,7 +39,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: Highest overall satisfaction in the category (4.8/5 on Capterra); serves enterprise DSOs with 30+ locations; built-in specialty referral management and AI phone.
 - Con: Most expensive entry price on this list, and a heavy implementation that is overkill for smaller practices.
 
-### #3 — Denticon (Planet DDS) (8.6/9.4)
+### #3 Denticon (Planet DDS) (8.6/9.4)
 - URL: https://www.planetdds.com/denticon/
 - Best for: Growth-stage DSOs needing multi-location reporting and standardized workflows
 - Founded undefined, United States, team undefined, $$$ (from ~$750/mo)
@@ -47,7 +47,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: Built ground-up for DSOs; 13,000+ practices and 45,000+ users; open API and embedded AI; G2 Spring 2025 Momentum Leader.
 - Con: Highest starting price ($750/mo) and a narrower partner ecosystem than Henry Schein. Overkill for small practices.
 
-### #4 — Curve Dental (8.4/9.4)
+### #4 Curve Dental (8.4/9.4)
 - URL: https://www.curvedental.com/
 - Best for: Independent and small-group practices wanting the cleanest cloud scheduling UX
 - Founded undefined, United States, team undefined, $$ (quote only; mid-market cloud)
@@ -55,7 +55,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: Scheduling rated 4.63/5, the highest of any product on Software Advice; 24/7 self-scheduling; cloud imaging; modern UI that cuts training time.
 - Con: Billing and payment processes are the weakest-rated feature, with reviewers citing confusing invoicing and family-account billing.
 
-### #5 — Dentrix Ascend (Henry Schein One) (8.2/9.4)
+### #5 Dentrix Ascend (Henry Schein One) (8.2/9.4)
 - URL: https://www.dentrixascend.com/
 - Best for: Practices migrating off a legacy Dentrix server to the cloud
 - Founded undefined, United States, team undefined, $$ (quote only)
@@ -63,7 +63,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: 100% browser-based with fast onboarding; 80,000+ clinicians; SOC 2 compliance; AI-powered charting (Voice Notes, Image Verify).
 - Con: Reporting is rated the weakest feature (3.36/5), and the Henry Schein ecosystem limits third-party integrations.
 
-### #6 — tab32 (8/9.4)
+### #6 tab32 (8/9.4)
 - URL: https://tab32.com/
 - Best for: Startup-to-growth cloud practices and pediatric groups wanting transparent pricing
 - Founded undefined, United States, team undefined, $ ($125/mo year 1, $225/mo year 2+)
@@ -71,7 +71,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: The only product with fully public tiered pricing; built-in AI radiology on Grow+ plans; multi-tenant architecture; live in days, not months.
 - Con: Smaller brand recognition than Dentrix/Eaglesoft, and usage-based claims billing adds cost at high volume.
 
-### #7 — Dentrix Enterprise (Henry Schein One) (7.9/9.4)
+### #7 Dentrix Enterprise (Henry Schein One) (7.9/9.4)
 - URL: https://www.dentrixenterprise.com/
 - Best for: Large multi-location organizations, FQHCs and public-health dental providers
 - Founded undefined, United States, team undefined, $$$ (enterprise quote only)
@@ -79,7 +79,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: True central database for unlimited providers and locations; built for FQHC and public-health compliance; standardized workflows enterprise-wide.
 - Con: Lowest ease-of-use rating among Dentrix products (3.8/5) and a heavy implementation; wrong fit for small practices.
 
-### #8 — Practice-Web (7.7/9.4)
+### #8 Practice-Web (7.7/9.4)
 - URL: https://practice-web.com/
 - Best for: Budget-conscious solo and small practices on Windows
 - Founded undefined, United States, team undefined, $ ($109/mo flat, all-inclusive)
@@ -87,7 +87,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: Highest Software Advice rating in the category (4.9/5, FrontRunner 2026); $109/mo flat includes conversion, training and patient portal; serving dentistry since 1988.
 - Con: Server-based and Windows-only, with no native cloud and no multi-location or DSO features.
 
-### #9 — Eaglesoft (Patterson Dental) (7.5/9.4)
+### #9 Eaglesoft (Patterson Dental) (7.5/9.4)
 - URL: https://www.pattersondental.com/
 - Best for: Patterson Dental customers wanting native equipment integration
 - Founded undefined, United States, team undefined, $$ (quote only; Patterson clients)
@@ -95,7 +95,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: Deep imaging and device integration within the Patterson ecosystem; reliable general-dentistry workflow; strong Patterson support network.
 - Con: Windows only. No Mac, mobile or cloud. And verified reviewers call it slow to adopt new technology with a dated UI; not suitable for multi-location.
 
-### #10 — ABELDent (7.4/9.4)
+### #10 ABELDent (7.4/9.4)
 - URL: https://www.abeldent.com/
 - Best for: Canadian dental practices wanting cloud-or-local with identical UX
 - Founded undefined, Canada and United States, team undefined, $$ (quote only; cloud or local)
@@ -103,7 +103,7 @@ Generated: 2026-05-27T12:47:18.976Z
 - Pro: The only product with an identical cloud and local interface (zero retraining when switching); Canadian provincial-insurance compliance; Power BI analytics built in.
 - Con: Smaller review base than US-centric competitors, quote-only pricing, and less recognition outside Canada.
 
-### #11 [WILDCARD] — Weave (7.2/9.4)
+### #11 [WILDCARD] Weave (7.2/9.4)
 - URL: https://www.getweave.com/dental/
 - Best for: Any practice wanting the best patient-communication layer on top of its existing PMS
 - Founded undefined, United States, team undefined, $$ (quote only; tiered)
@@ -168,7 +168,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake. (Wondermous analysis, May 2026)
 
 ### Ranking
-### #1 — Burkland Associates (9.1/9.4)
+### #1 Burkland Associates (9.1/9.4)
 - URL: https://burklandassociates.com
 - Best for: Series A to C venture-backed SaaS with US operations
 - Founded 2003, San Francisco, CA, team 200+, $$$ (typically $5k to $25k/mo)
@@ -177,7 +177,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Con: Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.
 - Risk signals (none, checked 2026-05-26): No major public risk signals found as of May 2026 (checked data breaches, lawsuits, billing complaints, and review-rating trend). Only employee-side reviews and a non-accredited BBB listing exist, neither of which is a buyer risk.
 
-### #2 — Kruze Consulting (8.9/9.4)
+### #2 Kruze Consulting (8.9/9.4)
 - URL: https://kruzeconsulting.com
 - Best for: Seed to Series B SaaS, R&D tax credit heavy
 - Founded 2012, San Francisco, CA, team 150+, $$$ (typically $2.5k to $15k/mo)
@@ -185,10 +185,10 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: Founders repeatedly cite the R&D credit reclaim as a single moment that made the engagement pay for itself.
 - Con: Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.
 - Risk signals (low, checked 2026-05-26): No verifiable data breach or lawsuit; a couple of isolated, years-old negative client reviews on Yelp sit against an otherwise positive 4.3/5 rating, so risk is low and not a current trend.
-  - [support] An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews. — Yelp: https://www.yelp.com/brands/kruze-consulting (2016)
-  - [billing] A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern. — Yelp: https://www.yelp.com/biz/kruze-consulting-san-francisco (2018)
+  - [support] An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews. (Yelp: https://www.yelp.com/brands/kruze-consulting, 2016)
+  - [billing] A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern. (Yelp: https://www.yelp.com/biz/kruze-consulting-san-francisco, 2018)
 
-### #3 — Graphite Financial (8.6/9.4)
+### #3 Graphite Financial (8.6/9.4)
 - URL: https://graphitefinancial.com
 - Best for: Y Combinator and accelerator-backed early-stage
 - Founded 2017, New York, NY, team 50 to 100, $$ (typically $1.5k to $8k/mo)
@@ -197,7 +197,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Con: Bench depth is shallower than the larger firms. If your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.
 - Risk signals (none, checked 2026-05-26): No verifiable public risk signals found as of May 2026 (checked data breaches, lawsuits, and billing complaints). Buyer reviews on Clutch are 5.0 across 8 reviews with no billing or service complaints.
 
-### #4 — Pilot (8.4/9.4)
+### #4 Pilot (8.4/9.4)
 - URL: https://pilot.com
 - Best for: Bookkeeping-first engagements that want a CFO add-on later
 - Founded 2017, San Francisco, CA, team 500+, $$ (CFO services from $2k/mo on top of bookkeeping base)
@@ -205,10 +205,10 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: Founders praise the predictable monthly close and the dashboard that doesn't require a finance background to read.
 - Con: The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.
 - Risk signals (low, checked 2026-05-26): No verifiable breach or lawsuit; some genuine billing complaints on Trustpilot about charging small businesses corporate rates and upselling, but reviews overall skew positive (9/10 on TrustRadius).
-  - [billing] Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses. — Trustpilot: https://www.trustpilot.com/review/pilot.com (2026)
-  - [support] Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend. — TrustRadius: https://www.trustradius.com/products/pilot-com/reviews (2026)
+  - [billing] Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses. (Trustpilot: https://www.trustpilot.com/review/pilot.com, 2026)
+  - [support] Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend. (TrustRadius: https://www.trustradius.com/products/pilot-com/reviews, 2026)
 
-### #5 — Zeni (8.2/9.4)
+### #5 Zeni (8.2/9.4)
 - URL: https://zeni.ai
 - Best for: Founders who want an AI-augmented finance stack with human CFOs on call
 - Founded 2019, Palo Alto, CA, team 100 to 200, $$ (typically $1.5k to $10k/mo blended)
@@ -216,9 +216,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: Real-time dashboards and the speed of the monthly close get consistent praise. Zeni founders report closing in days, not weeks.
 - Con: The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.
 - Risk signals (low, checked 2026-05-26): No confirmed breach or lawsuit against Zeni; one TrustRadius reviewer alleges ACH fraud draining their account in October 2024, but this is a single unverified user allegation, not a proven Zeni security breach.
-  - [support] A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach. — TrustRadius: https://www.trustradius.com/products/zeni/reviews (2024-10)
+  - [support] A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach. (TrustRadius: https://www.trustradius.com/products/zeni/reviews, 2024-10)
 
-### #6 — Preferred CFO (8.1/9.4)
+### #6 Preferred CFO (8.1/9.4)
 - URL: https://preferredcfo.com
 - Best for: Founders outside the SF/NYC bubble who want a senior CFO without coastal pricing
 - Founded 2013, Lehi, UT, team 50 to 100, $$ (typically $3k to $10k/mo)
@@ -227,7 +227,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Con: Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.
 - Risk signals (none, checked 2026-05-26): No verifiable breach, lawsuit, billing dispute, or service-quality complaint pattern found in public records as of May 2026.
 
-### #7 — Driven Insights (7.9/9.4)
+### #7 Driven Insights (7.9/9.4)
 - URL: https://driveninsights.com
 - Best for: Bootstrapped and revenue-funded tech businesses
 - Founded 2010, Bedford, NH, team 20 to 50, $$ (typically $2k to $8k/mo)
@@ -236,7 +236,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Con: Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).
 - Risk signals (none, checked 2026-05-26): No verifiable risk signals found as of May 2026; BBB rates it A+ with no complaints, and no lawsuits, breaches, or billing/support complaint patterns surfaced.
 
-### #8 — NOW CFO (7.6/9.4)
+### #8 NOW CFO (7.6/9.4)
 - URL: https://nowcfo.com
 - Best for: Founders who want fast placement and broad coverage across US time zones
 - Founded 2005, Salt Lake City, UT, team 200+, $$ (typically $2k to $15k/mo)
@@ -244,10 +244,10 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: Public reviews highlight the speed of getting a CFO in seat. Engagements often start within a week.
 - Con: Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.
 - Risk signals (low, checked 2026-05-26): Only a few isolated, years-old client complaints about a non-refunded fee and a poor placement; no breach, lawsuit, or recent service-quality pattern found.
-  - [billing] A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee. — Yelp: https://www.yelp.com/brands/now-cfo (2021)
-  - [support] A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews. — Yelp: https://www.yelp.com/brands/now-cfo (2022)
+  - [billing] A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee. (Yelp: https://www.yelp.com/brands/now-cfo, 2021)
+  - [support] A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews. (Yelp: https://www.yelp.com/brands/now-cfo, 2022)
 
-### #9 — Paro (7.5/9.4)
+### #9 Paro (7.5/9.4)
 - URL: https://paro.ai
 - Best for: Founders who want to hand-pick a specific CFO with sector expertise
 - Founded 2015, Chicago, IL, team Marketplace (1000+ vetted experts), $$ (typically $80 to $300/hr depending on expert)
@@ -255,11 +255,11 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: Founders who match well with their Paro CFO often describe it as the best finance hire they've made.
 - Con: Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.
 - Risk signals (moderate, checked 2026-05-26): Multiple independent platforms show a recurring client pattern of billing disputes and unresponsive support when an assigned expert fails, though no data breach or verified lawsuit against Paro was found. Paro is a marketplace, so experience varies by the individual expert matched.
-  - [billing] BBB rates Paro C+, citing failure to respond to a complaint filed against the business. — BBB: https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984 (2026)
-  - [billing] A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'. — Trustpilot: https://www.trustpilot.com/review/paro.ai (2026-02)
-  - [support] A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews. — G2: https://www.g2.com/products/paro-ai/reviews (2026-03)
+  - [billing] BBB rates Paro C+, citing failure to respond to a complaint filed against the business. (BBB: https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984, 2026)
+  - [billing] A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'. (Trustpilot: https://www.trustpilot.com/review/paro.ai, 2026-02)
+  - [support] A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews. (G2: https://www.g2.com/products/paro-ai/reviews, 2026-03)
 
-### #10 — The CFO Centre (7.4/9.4)
+### #10 The CFO Centre (7.4/9.4)
 - URL: https://www.cfocentre.com
 - Best for: International tech businesses, UK / EU / APAC operating entities
 - Founded 2001, London, UK (global network), team 750+ CFOs across 20+ countries, $$$ (typically £4k to £15k/mo per market)
@@ -267,9 +267,9 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Pro: International founders cite the cross-border experience as the deciding factor. Payroll, tax, equity across jurisdictions.
 - Con: The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.
 - Risk signals (low, checked 2026-05-26): Predominantly positive public reviews (Trustpilot around 4 stars) with one isolated customer complaint about unclear communication; no breaches, lawsuits, or billing-fraud records found. As a franchise network, service quality is tied to the local partner.
-  - [support] A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency. — Trustpilot: https://www.trustpilot.com/review/cfocentre.com (2026)
+  - [support] A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency. (Trustpilot: https://www.trustpilot.com/review/cfocentre.com, 2026)
 
-### #11 [WILDCARD] — TheCFOSquad (7.2/9.4)
+### #11 [WILDCARD] TheCFOSquad (7.2/9.4)
 - URL: https://thecfosquad.com
 - Best for: AI-native startups that want their CFO to actually use the same tools they ship
 - Founded 2023, Remote (US / UK), team 10 to 20, $ (typically $1.5k to $6k/mo)

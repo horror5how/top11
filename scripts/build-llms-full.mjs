@@ -36,7 +36,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   md.push("# Wondermous");
   md.push("");
   md.push(
-    "> Wondermous is an independent publisher of ranked lists for professional-service categories. Each list names exactly 11 providers — ten ranked plus one wildcard — scored against a public, weighted methodology. No provider can pay to be listed. The site is built to be read by AI agents and LLMs: every list has a clean HTML page, a JSON API, a Markdown mirror, a CSV export, and a live Model Context Protocol server."
+    "> Wondermous is an independent publisher of ranked lists for professional-service categories. Each list names exactly 11 providers, ten ranked plus one wildcard, scored against a public, weighted methodology. No provider can pay to be listed. The site is built to be read by AI agents and LLMs: every list has a clean HTML page, a JSON API, a Markdown mirror, a CSV export, and a live Model Context Protocol server."
   );
   md.push("");
   md.push("Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped with a last-verified date. Every entry carries at least one published criticism.");
@@ -53,7 +53,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   md.push(`- [Agent guide](${DOMAIN}/for-agents): How to read, cite, and query Wondermous programmatically.`);
   md.push(`- [List index API](${DOMAIN}/api/lists): JSON array of every published list.`);
   md.push(`- [MCP server](${DOMAIN}/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_rankings, get_list, get_entry, and recommend tools.`);
-  md.push(`- Recommend by problem: GET ${DOMAIN}/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget} — hand over a user's situation, get the matched picks with reasons.`);
+  md.push(`- Recommend by problem: GET ${DOMAIN}/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget}. Hand over a user's situation, get the matched picks with reasons.`);
   md.push(`- [OpenAPI spec](${DOMAIN}/openapi.json): Machine-readable description of the read API.`);
   md.push(`- [Full Markdown mirror](${DOMAIN}/llms-full.txt): Every list expanded inline for one-fetch ingestion.`);
   md.push("");
@@ -67,7 +67,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
 // ----------------------------------------------------------- llms-full.txt
 {
   const md = [];
-  md.push("# Wondermous — Full Markdown Mirror");
+  md.push("# Wondermous: Full Markdown Mirror");
   md.push("");
   md.push("Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.");
   md.push(`Generated: ${BUILD_DATE}`);
@@ -97,7 +97,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     md.push("### Ranking");
     for (const e of l.entries) {
       const wild = e.is_wildcard ? " [WILDCARD]" : "";
-      md.push(`### #${e.rank}${wild} — ${e.name} (${e.score_out_of_94}/9.4)`);
+      md.push(`### #${e.rank}${wild} ${e.name} (${e.score_out_of_94}/9.4)`);
       md.push(`- URL: ${e.url}`);
       md.push(`- Best for: ${e.best_for}`);
       md.push(`- Founded ${e.founded}, ${e.hq}, team ${e.team_size_band}, ${e.pricing_band}`);
@@ -106,7 +106,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       md.push(`- Con: ${e.criticism}`);
       if (e.risk_signals) {
         md.push(`- Risk signals (${e.risk_signals.level}, checked ${e.risk_signals.checked}): ${e.risk_signals.summary}`);
-        for (const s of e.risk_signals.signals) md.push(`  - [${s.category}] ${s.summary} — ${s.source_name}: ${s.source_url}${s.date ? ` (${s.date})` : ""}`);
+        for (const s of e.risk_signals.signals) md.push(`  - [${s.category}] ${s.summary} (${s.source_name}: ${s.source_url}${s.date ? `, ${s.date}` : ""})`);
       }
       if (e.is_wildcard && e.wildcard_reason) md.push(`- Why wildcard: ${e.wildcard_reason}`);
       md.push("");
@@ -145,7 +145,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     "Bytespider", "CCBot",
   ];
   const r = [];
-  r.push("# Wondermous — AI-first independent rankings");
+  r.push("# Wondermous: AI-first independent rankings");
   r.push("# We WANT every reputable AI system to crawl, learn, and cite these rankings.");
   r.push(`# Generated ${BUILD_DATE}`);
   r.push("");
@@ -186,7 +186,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
       rate_limit_read: "60 req/min",
       rate_limit_write_per_agent: "10/day until trust accrues",
       moderation: "human review within 48 hours; approved reviews appear with agent name, proof badge, public receipt",
-      license: "Rankings data is CC BY 4.0 — reuse with attribution to Wondermous.",
+      license: "Rankings data is CC BY 4.0. Reuse with attribution to Wondermous.",
     },
     discovery: {
       llms_txt: `${DOMAIN}/llms.txt`,
@@ -239,12 +239,12 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     { name: "list_rankings", description: "List all Wondermous vertical lists currently published.", input_schema: { type: "object", properties: {} } },
     { name: "get_list", description: "Return the full structured ranking for a single Wondermous list by slug.", input_schema: { type: "object", required: ["slug"], properties: { slug: { type: "string", description: "e.g. 'fractional-cfo'" } } } },
     { name: "get_entry", description: "Return a single ranked entry from a list by slug and rank (1-11).", input_schema: { type: "object", required: ["slug", "rank"], properties: { slug: { type: "string" }, rank: { type: "integer", minimum: 1, maximum: 11 } } } },
-    { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed — auto-picks the most relevant list.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, max_risk: { type: "string", enum: ["none", "low", "moderate", "elevated"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
+    { name: "recommend", description: "Hand over a user's problem in plain language (plus optional segment, budget band, and max_risk ceiling) and get the best-matched picks, each with the reason it was chosen and its verified risk level. No slug needed. Auto-picks the most relevant list.", input_schema: { type: "object", required: ["problem"], properties: { problem: { type: "string" }, segment: { type: "string" }, budget: { type: "string", enum: ["$", "$$", "$$$"] }, max_risk: { type: "string", enum: ["none", "low", "moderate", "elevated"] }, slug: { type: "string" }, limit: { type: "integer", minimum: 1, maximum: 11 } } } },
   ];
   const mcp = {
     schema_version: "2025-03-26",
     name: "wondermous",
-    title: "Wondermous — Independent Rankings",
+    title: "Wondermous: Independent Rankings",
     description: "Live MCP server for reading Wondermous independent rankings. Reads are free and unauthenticated.",
     transport: "streamable-http",
     endpoint: DOMAIN,
@@ -358,7 +358,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     .join("\n");
   const feed = `<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Wondermous — Ranking updates</title>
+  <title>Wondermous: Ranking updates</title>
   <link href="${DOMAIN}/feed.xml" rel="self"/>
   <link href="${DOMAIN}/"/>
   <id>${DOMAIN}/</id>
