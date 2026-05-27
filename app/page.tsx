@@ -155,16 +155,25 @@ export default function Home() {
         </div>
       </section>
 
-      {/* FINAL CTA */}
-      <section className="relative max-w-3xl mx-auto px-6 py-24 text-center">
-        <div className="pointer-events-none absolute inset-0 overflow-hidden">
-          <div className="wm-aurora absolute top-0 left-1/3 w-[40vw] h-[40vw] rounded-full bg-[#ff5722]/15 blur-[120px]" />
+      {/* FINAL CTA — full-bleed animated aurora field that fades seamlessly into the page */}
+      <section className="relative overflow-hidden py-28 sm:py-36">
+        <div className="wm-fade-edges pointer-events-none absolute inset-0" aria-hidden>
+          <div className="wm-aurora absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[72vw] max-w-3xl aspect-square rounded-full bg-[#ff5722]/20 blur-[140px]" />
+          <div className="wm-aurora2 absolute left-[62%] top-[30%] w-[42vw] max-w-xl aspect-square rounded-full bg-[#ff8a3c]/14 blur-[120px]" />
+          <div className="wm-aurora absolute left-[28%] top-[66%] w-[36vw] max-w-md aspect-square rounded-full bg-[#ff5722]/12 blur-[110px] [animation-delay:-11s]" />
         </div>
-        <Reveal className="relative">
-          <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-tight">Find the list your user needs.</h2>
+
+        <Reveal className="relative max-w-3xl mx-auto px-6 text-center">
+          <h2 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-tight">
+            Find the list <span className="wm-grad">your user needs.</span>
+          </h2>
           <p className="mt-4 text-white/55">Search a niche, a sub-niche, or the exact problem. We&apos;ll hand you the list — or build it.</p>
-          <a href="#search" className="inline-flex items-center gap-2 mt-8 rounded-full bg-[#ff5722] px-6 py-3 font-semibold text-white hover:bg-[#ff6a3c] transition">
+          <a
+            href="#search"
+            className="group inline-flex items-center gap-2 mt-8 rounded-full bg-[#ff5722] px-6 py-3 font-semibold text-white shadow-[0_10px_44px_-10px_rgba(255,87,34,0.75)] transition-transform duration-200 hover:scale-[1.04] hover:bg-[#ff6a3c] active:scale-95"
+          >
             Search a niche
+            <svg className="w-4 h-4 transition-transform duration-200 group-hover:translate-x-1" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="M5 12h14M13 6l6 6-6 6" /></svg>
           </a>
         </Reveal>
       </section>

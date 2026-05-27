@@ -59,6 +59,11 @@ html, body {
   mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
   -webkit-mask-image: radial-gradient(ellipse 80% 60% at 50% 0%, #000 40%, transparent 78%);
 }
+/* Seamless edge-fade for full-bleed glow layers (e.g. the closing CTA aurora field) */
+.wm-fade-edges {
+  -webkit-mask-image: radial-gradient(ellipse 72% 78% at 50% 50%, #000 30%, transparent 74%);
+  mask-image: radial-gradient(ellipse 72% 78% at 50% 50%, #000 30%, transparent 74%);
+}
 @keyframes wm-breathe { 0%,100% { opacity: .4; transform: scale(1); } 50% { opacity: .85; transform: scale(1.05); } }
 .wm-breathe { animation: wm-breathe 4.5s ease-in-out infinite; }
 .wm-cur { display: inline-block; width: 2px; height: 1.05em; background: #ff5722; margin-left: 2px; vertical-align: -2px; animation: wm-blink 1s step-end infinite; }
