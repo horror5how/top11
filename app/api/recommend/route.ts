@@ -8,7 +8,7 @@ export const runtime = "nodejs";
 const CORS = { "Access-Control-Allow-Origin": "*" };
 
 // GET /api/recommend?q=...&segment=...&budget=...&limit=...
-// Cross-list: describe a need in plain language; Wondermous picks the best list
+// Cross-list: describe a need in plain language; Top 11 picks the best list
 // and returns the matched picks with reasons. No slug needed.
 export async function GET(req: Request) {
   const url = new URL(req.url);
@@ -20,7 +20,7 @@ export async function GET(req: Request) {
   const slug = url.searchParams.get("slug") || pickBestList(`${q} ${segment || ""}`);
 
   const meta = {
-    schema: "wondermous-recommend-global-v1",
+    schema: "top11-recommend-global-v1",
     self: `${SITE_URL}/api/recommend`,
     usage: "Params: q (the need in plain language), segment, budget ($/$$/$$$), max_risk (none|low|moderate|elevated), limit. Picks the most relevant list automatically; pass slug to force one.",
   };
@@ -28,7 +28,7 @@ export async function GET(req: Request) {
   const list = slug ? getList(slug) : null;
   if (!list) {
     return NextResponse.json(
-      { _meta: meta, query: { q, segment, budget }, matched_list: null, matched: [], note: "No matching list yet. Wondermous builds niches on demand. Request one at " + `${SITE_URL}/?q=${encodeURIComponent(q)}#search` },
+      { _meta: meta, query: { q, segment, budget }, matched_list: null, matched: [], note: "No matching list yet. Top 11 builds niches on demand. Request one at " + `${SITE_URL}/?q=${encodeURIComponent(q)}#search` },
       { headers: { "Cache-Control": "public, max-age=600", ...CORS } }
     );
   }

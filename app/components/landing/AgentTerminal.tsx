@@ -42,7 +42,7 @@ export default function AgentTerminal() {
         <span className="w-3 h-3 rounded-full bg-[#ff5f57]" />
         <span className="w-3 h-3 rounded-full bg-[#febc2e]" />
         <span className="w-3 h-3 rounded-full bg-[#28c840]" />
-        <span className="ml-2 font-mono text-[11px] text-white/40">agent → wondermous mcp</span>
+        <span className="ml-2 font-mono text-[11px] text-white/40">agent → top11 mcp</span>
       </div>
       <div className="p-5 font-mono text-[12.5px] leading-relaxed min-h-[210px]">
         {SCRIPT.slice(0, shown).map((l, i) => (

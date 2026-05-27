@@ -1,4 +1,4 @@
-# Wondermous — Fast-Authority Plan + Execution PRD
+# Top 11 — Fast-Authority Plan + Execution PRD
 *2026-05-26 · builds on docs 01–07. Honest, no hype.*
 
 ## Part 0 — The honest premise
@@ -17,7 +17,7 @@ Crawling is already solved (robots allows all 18 AI bots, sitemap, IndexNow, llm
 ## Part 2 — Fast authority-building plan (phased)
 - **Phase 1 — technical authority (week 1):** verify GSC + Bing Webmaster, submit sitemap, ship `Dataset` schema → Google Dataset Search, IndexNow on every change, build the brand **entity** (Organization `sameAs`, Wikidata item, Crunchbase/LinkedIn/X), list the **MCP server in public MCP registries/directories** (agent devs discover servers there — highest-leverage, lowest-effort distribution).
 - **Phase 2 — breadth (weeks 1–4):** ship 20–50 genuinely useful niche lists (quality-gated programmatic) to own long-tail queries with little competing source coverage. Each = full structured data + recommend support.
-- **Phase 3 — off-site seeding (ongoing, honest):** answer real Reddit/forum/Quora questions helpfully and cite the relevant Wondermous list only where genuinely useful; pitch niche newsletters/blogs for backlinks; submit to AI-tool/agent directories; partner with agent frameworks.
+- **Phase 3 — off-site seeding (ongoing, honest):** answer real Reddit/forum/Quora questions helpfully and cite the relevant Top 11 list only where genuinely useful; pitch niche newsletters/blogs for backlinks; submit to AI-tool/agent directories; partner with agent frameworks.
 - **Phase 4 — credibility assets:** publish methodology + an annual "State of [niche]" data report (linkable, citable as a data source) → earns backlinks + PR.
 - **Phase 5 — measure:** reuse the existing `llm-ranking-tracker` to track AI citations; watch GSC impressions + MCP call volume.
 

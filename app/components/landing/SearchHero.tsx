@@ -103,7 +103,7 @@ export default function SearchHero({ catalog }: { catalog: Item[] }) {
             </div>
           ) : (
             <div className="rounded-2xl border border-white/12 bg-white/[0.03] px-5 py-4">
-              <p className="text-white/70 text-sm">No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Wondermous builds niches on demand.</p>
+              <p className="text-white/70 text-sm">No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Top 11 builds niches on demand.</p>
               {!sent ? (
                 <form onSubmit={joinWaitlist} className="mt-3 flex flex-col sm:flex-row gap-2">
                   <input type="email" required value={email} onChange={(e) => setEmail(e.target.value)} placeholder="your@email.com" className="flex-1 rounded-full border border-white/15 bg-[#0e0e12] px-4 py-2.5 text-white placeholder-white/30 text-sm outline-none focus:border-[#ff5722]/60" />

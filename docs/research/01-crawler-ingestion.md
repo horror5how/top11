@@ -214,7 +214,7 @@ User-agent: CCBot
 Allow: /
 
 # Sitemap
-Sitemap: https://top11-nine.vercel.app/sitemap.xml
+Sitemap: https://11.market/sitemap.xml
 ```
 
 ---
@@ -280,7 +280,7 @@ Proposed by Jeremy Howard (fast.ai / Answer.AI), published at https://llmstxt.or
 
 **Specification** (source: llmstxt.org, 2024-09-03, still the canonical reference as of 2026-05):
 
-File location: `/llms.txt` at root (e.g., `https://top11-nine.vercel.app/llms.txt`)
+File location: `/llms.txt` at root (e.g., `https://11.market/llms.txt`)
 
 Required structure, in this exact order:
 1. **H1** — name of the site/project (only mandatory section)
@@ -298,16 +298,16 @@ Top11 covers fractional C-suite services, AI tools, and professional service cat
 
 ## Rankings
 
-- [Top 11 Fractional CFOs](https://top11-nine.vercel.app/fractional-cfo): Ranked fractional CFO providers by experience, pricing, and industry fit.
+- [Top 11 Fractional CFOs](https://11.market/fractional-cfo): Ranked fractional CFO providers by experience, pricing, and industry fit.
 
 ## Methodology
 
-- [How We Rank](https://top11-nine.vercel.app/methodology): Full methodology for how providers are evaluated and ranked.
+- [How We Rank](https://11.market/methodology): Full methodology for how providers are evaluated and ranked.
 
 ## For AI Agents
 
-- [Agent API](https://top11-nine.vercel.app/api/lists): Machine-readable JSON of all rankings.
-- [For Agents](https://top11-nine.vercel.app/for-agents): Agent-readable explanation of the site and how to use it.
+- [Agent API](https://11.market/api/lists): Machine-readable JSON of all rankings.
+- [For Agents](https://11.market/for-agents): Agent-readable explanation of the site and how to use it.
 ```
 
 **llms-full.txt**: Not a separate spec element — it is a community convention for a second file at `/llms-full.txt` that contains the *full text content* of every linked URL expanded inline, so an LLM can ingest the entire site in one fetch. FastHTML's `llms_txt2ctx` CLI tool generates this from an `llms.txt`. The top11 `next.config.js` already has correct Content-Type headers for both files.
@@ -396,7 +396,7 @@ Source: https://www.indexnow.org/documentation
 ```bash
 curl -X POST "https://api.indexnow.org/indexnow" \
   -H "Content-Type: application/json" \
-  -d '{"host":"top11-nine.vercel.app","key":"YOUR_KEY","urlList":["https://top11-nine.vercel.app/fractional-cfo"]}'
+  -d '{"host":"11.market","key":"YOUR_KEY","urlList":["https://11.market/fractional-cfo"]}'
 ```
 
 Top11 should call IndexNow on every content update (new ranking added, score changed, new provider). Note: Google does not currently participate in IndexNow but has stated it may in future. Google freshness is handled by GSC and sitemap.
@@ -413,7 +413,7 @@ Pages should show a visible `<time datetime="2026-05-25">Last updated May 25, 20
 - **Return 200 for all public content pages** — 301s are followed but add latency; 302s can confuse crawl attribution; 404/410 removes pages from indices.
 - **TTFB under 500ms** — live-fetch user-agents (Claude-User, ChatGPT-User, Perplexity-User) have tight timeouts. A page that loads slowly may be abandoned and not cited. Vercel Edge Network helps.
 - **No soft paywalls or JS gates** — if content requires JavaScript to become visible (loading spinner → content), most AI crawlers will see the spinner state, not the content.
-- **Canonical tags** — use `<link rel="canonical" href="https://top11-nine.vercel.app/fractional-cfo" />` on every page. Prevents duplicate content dilution if scrapers find alternate URLs.
+- **Canonical tags** — use `<link rel="canonical" href="https://11.market/fractional-cfo" />` on every page. Prevents duplicate content dilution if scrapers find alternate URLs.
 - **XML Sitemap with accurate `<lastmod>`** — submit to Google Search Console, Bing Webmaster Tools, and call IndexNow on updates.
 - **Structured data (JSON-LD)** — use `ItemList`, `Product`, `Review`, `AggregateRating` schema from schema.org. Google uses structured data to populate AI Overviews. Example for a rankings page:
   ```json

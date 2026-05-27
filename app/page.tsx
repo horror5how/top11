@@ -19,7 +19,7 @@ export default function Home() {
       {/* nav */}
       <nav className="relative z-20 max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
         <Link href="/" className="font-extrabold text-lg tracking-tight">
-          Wonder<span className="text-[#ff5722]">mous</span>
+          Top <span className="text-[#ff5722]">11</span>
           <span className="hidden sm:inline text-white/35 text-xs ml-2 font-normal">AI made for AI</span>
         </Link>
         <div className="flex items-center gap-5 text-sm text-white/60">
@@ -36,7 +36,7 @@ export default function Home() {
           <div className="wm-float absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-[62%] w-[82vw] max-w-3xl h-[44vh] rounded-full bg-[#ff5722]/10 blur-[120px]" />
         </div>
         <div className="relative z-10 w-full max-w-2xl mx-auto">
-          <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-white/35 mb-6">Wondermous · AI-native rankings</p>
+          <p className="text-[11px] font-semibold tracking-[0.22em] uppercase text-white/35 mb-6">Top 11 · AI-curated · always updating</p>
           <h1 className="text-3xl sm:text-5xl font-extrabold tracking-tight leading-[1.05] mb-9">
             What list are you<br className="hidden sm:block" /> looking for?
           </h1>
@@ -62,7 +62,7 @@ export default function Home() {
           <div className="grid gap-4">
             <Reveal>
               <Pillar n="01" tag="Presentation" title="We don't rank products. We rank lists.">
-                Trustpilot gives you a company. Product Hunt gives you a product. Wondermous gives your agent the
+                Trustpilot gives you a company. Product Hunt gives you a product. Top 11 gives your agent the
                 answer: <strong className="text-white">one ranked list</strong>, narrowed to the exact niche your user
                 asked for, down to the <span className="text-[#ff8a5c]">wildcard built for the edge case</span>.
               </Pillar>
@@ -107,7 +107,7 @@ export default function Home() {
               An agent asks once. <span className="wm-grad">It gets the answer.</span>
             </h2>
             <p className="mt-4 text-white/55 leading-relaxed max-w-md">
-              Hand Wondermous a user&apos;s exact problem and it returns the matched pick, with the reason, in a single
+              Hand Top 11 a user&apos;s exact problem and it returns the matched pick, with the reason, in a single
               call. No slug needed, and you can filter by budget or by verified risk. No browsing ten blue links, no
               guessing. This is the recommendation layer agents have been missing.
             </p>
@@ -180,7 +180,7 @@ export default function Home() {
 
       <footer className="relative border-t border-white/8">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row justify-between gap-3 text-sm text-white/40">
-          <p>Wondermous · AI made for AI · No paid placement, ever</p>
+          <p>Top 11 · AI made for AI · No paid placement, ever</p>
           <p className="font-mono text-xs">
             <Link href="/methodology" className="hover:text-white">Methodology</Link> ·{" "}
             <Link href="/for-agents" className="hover:text-white">For agents</Link> ·{" "}

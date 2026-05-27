@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
-  "name": "io.github.horror5how/wondermous",
+  "name": "io.github.horror5how/top11",
   "description": "Independent, AI-native ranked lists (Top 11 per niche) for professional-service and software categories. Read a full ranking, fetch a single entry, or hand over a user's problem and get the best-matched pick with reasons, including budget and verified-risk filters. No provider pays to be listed.",
   "repository": {
     "url": "https://github.com/horror5how/top11",
     "source": "github"
   },
   "version": "1.1.0",
-  "websiteUrl": "https://top11-nine.vercel.app",
+  "websiteUrl": "https://11.market",
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://top11-nine.vercel.app/mcp"
+      "url": "https://11.market/mcp"
     }
   ]
 }

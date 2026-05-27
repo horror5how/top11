@@ -39,7 +39,7 @@ export function getList(slug: string): ListData | null {
 export function listIndex() {
   return {
     _meta: {
-      schema: "wondermous-index-v1",
+      schema: "top11-index-v1",
       self: `${SITE_URL}/api/lists`,
       openapi: `${SITE_URL}/openapi.json`,
       mcp: `${SITE_URL}/mcp`,
@@ -69,7 +69,7 @@ export function listEnvelope(l: ListData) {
   const mi = matchIndex(l);
   return {
     _meta: {
-      schema: "wondermous-list-v1",
+      schema: "top11-list-v1",
       self: `${SITE_URL}/api/lists/${l.slug}`,
       human_page: `${SITE_URL}/${l.slug}`,
       markdown: `${SITE_URL}/api/lists/${l.slug}/md`,
@@ -99,7 +99,7 @@ export function entryEnvelope(l: ListData, rank: number) {
   const m = matchIndex(l)[String(rank)] || { solves: [], personas: [] };
   return {
     _meta: {
-      schema: "wondermous-entry-v1",
+      schema: "top11-entry-v1",
       self: `${SITE_URL}/api/lists/${l.slug}/${rank}`,
       markdown: `${SITE_URL}/api/lists/${l.slug}/${rank}/md`,
       list: `${SITE_URL}/api/lists/${l.slug}`,

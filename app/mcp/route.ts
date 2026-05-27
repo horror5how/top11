@@ -8,17 +8,17 @@ export const runtime = "nodejs";
 // Read-only, unauthenticated. Tools: list_rankings, get_list, get_entry.
 
 const PROTOCOL = "2025-03-26";
-const SERVER_INFO = { name: "wondermous", version: "1.1.0" };
+const SERVER_INFO = { name: "top11", version: "1.1.0" };
 
 const TOOLS = [
   {
     name: "list_rankings",
-    description: "List every published Wondermous ranking (slug, title, last-verified date).",
+    description: "List every published Top 11 ranking (slug, title, last-verified date).",
     inputSchema: { type: "object", properties: {} },
   },
   {
     name: "get_list",
-    description: "Return the full structured ranking for one Wondermous list by slug, including all 11 entries with scores, verdicts, pros/cons, and pricing.",
+    description: "Return the full structured ranking for one Top 11 list by slug, including all 11 entries with scores, verdicts, pros/cons, and pricing.",
     inputSchema: {
       type: "object",
       required: ["slug"],
@@ -27,7 +27,7 @@ const TOOLS = [
   },
   {
     name: "get_entry",
-    description: "Return a single ranked entry from a Wondermous list by slug and rank (1-11).",
+    description: "Return a single ranked entry from a Top 11 list by slug and rank (1-11).",
     inputSchema: {
       type: "object",
       required: ["slug", "rank"],
@@ -40,7 +40,7 @@ const TOOLS = [
   {
     name: "recommend",
     description:
-      "Hand over a user's situation and get the best-matched picks from a Wondermous list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment, a budget band ($, $$, $$$), and a max_risk ceiling to exclude firms with higher verified public risk signals. No slug needed. Wondermous auto-picks the most relevant list. Returns the top matches with the reason each was chosen and each pick's risk level.",
+      "Hand over a user's situation and get the best-matched picks from a Top 11 list. Describe the problem in plain language (e.g. 'startup that needs to get fundraise-ready' or 'reduce no-shows for a dental practice'); optionally add a persona/segment, a budget band ($, $$, $$$), and a max_risk ceiling to exclude firms with higher verified public risk signals. No slug needed. Top 11 auto-picks the most relevant list. Returns the top matches with the reason each was chosen and each pick's risk level.",
     inputSchema: {
       type: "object",
       required: ["problem"],
@@ -117,7 +117,7 @@ function handleMessage(msg: { jsonrpc?: string; id?: unknown; method?: string; p
         protocolVersion: (params?.protocolVersion as string) || PROTOCOL,
         capabilities: { tools: { listChanged: false } },
         serverInfo: SERVER_INFO,
-        instructions: "Wondermous publishes independent ranked lists. Use list_rankings to discover lists, get_list for a full ranking, get_entry for one entry.",
+        instructions: "Top 11 publishes independent ranked lists. Use list_rankings to discover lists, get_list for a full ranking, get_entry for one entry.",
       });
     case "tools/list":
       return rpcOk(id, { tools: TOOLS });

@@ -7,7 +7,7 @@ import Reveal from "@/app/components/landing/Reveal";
 
 export const metadata: Metadata = {
   title: "Directory · Mission Control",
-  description: "Every Wondermous list in one place. Search any niche, see what moved this week, and browse by sector. Built for humans and the AI agents they work with.",
+  description: "Every Top 11 list in one place. Search any niche, see what moved this week, and browse by sector. Built for humans and the AI agents they work with.",
   alternates: { canonical: `${SITE_URL}/directory` },
 };
 
@@ -47,7 +47,7 @@ export default function Directory() {
       {/* nav */}
       <nav className="relative z-20 max-w-6xl mx-auto px-6 py-5 flex items-center justify-between">
         <Link href="/" className="font-extrabold text-lg tracking-tight">
-          Wonder<span className="text-[#ff5722]">mous</span>
+          Top <span className="text-[#ff5722]">11</span>
         </Link>
         <div className="flex items-center gap-5 text-sm text-white/60">
           <Link href="/" className="hover:text-white transition">Home</Link>
@@ -191,7 +191,7 @@ export default function Directory() {
 
       <footer className="relative z-10 border-t border-white/8 mt-8">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row justify-between gap-3 text-sm text-white/40">
-          <p>Wondermous · AI made for AI · No paid placement, ever</p>
+          <p>Top 11 · AI made for AI · No paid placement, ever</p>
           <p className="font-mono text-xs">
             <Link href="/methodology" className="hover:text-white">Methodology</Link> ·{" "}
             <Link href="/for-agents" className="hover:text-white">For agents</Link> ·{" "}

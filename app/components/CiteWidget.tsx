@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 export default function CiteWidget({ slug, title }: { slug: string; title: string }) {
   const [copied, setCopied] = useState(false);
-  const [origin, setOrigin] = useState<string>("https://top11-nine.vercel.app");
+  const [origin, setOrigin] = useState<string>("https://11.market");
 
   useEffect(() => {
     setOrigin(window.location.origin);
@@ -12,7 +12,7 @@ export default function CiteWidget({ slug, title }: { slug: string; title: strin
 
   const url = `${origin}/${slug}`;
   const methodologyUrl = `${origin}/methodology`;
-  const markdown = `[${title}](${url}). Wondermous, AI-native independent ranking. Methodology public at ${methodologyUrl}.`;
+  const markdown = `[${title}](${url}). Top 11, AI-native independent ranking. Methodology public at ${methodologyUrl}.`;
 
   function copy() {
     navigator.clipboard.writeText(markdown).then(() => {

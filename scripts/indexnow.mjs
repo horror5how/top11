@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-// Submit Wondermous URLs to IndexNow (Bing, Yandex, Naver, etc.)
+// Submit Top 11 URLs to IndexNow (Bing, Yandex, Naver, etc.)
 const KEY = "7e8b0e236f4a4f2fb9ec6dccfd709a92";
-const HOST = process.env.TOP11_HOST || "top11-nine.vercel.app";
+const HOST = process.env.TOP11_HOST || "11.market";
 const ORIGIN = `https://${HOST}`;
 
 const urls = [

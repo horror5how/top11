@@ -40,7 +40,7 @@ export default function DirectorySearch({ catalog }: { catalog: Item[] }) {
             onKeyDown={(e) => { if (e.key === "Enter" && results[0]) router.push(`/${results[0].c.slug}`); if (e.key === "Escape") setOpen(false); }}
             placeholder="Search every list: a niche, a sub-niche, or your exact problem…"
             className="flex-1 bg-transparent text-white placeholder-white/35 text-lg sm:text-2xl outline-none"
-            aria-label="Search all Wondermous lists"
+            aria-label="Search all Top 11 lists"
           />
           <kbd className="hidden sm:inline-flex items-center gap-1 text-[11px] font-mono text-white/35 border border-white/12 rounded px-2 py-1">⏎ open</kbd>
         </div>
@@ -60,7 +60,7 @@ export default function DirectorySearch({ catalog }: { catalog: Item[] }) {
             ))
           ) : (
             <div className="px-4 py-4 text-sm text-white/55">
-              No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Wondermous builds niches on demand.{" "}
+              No list for <span className="text-white font-semibold">&ldquo;{q}&rdquo;</span> yet. Top 11 builds niches on demand.{" "}
               <Link href={`/?q=${encodeURIComponent(q)}#search`} className="text-[#ff8a5c] hover:underline">Request it →</Link>
             </div>
           )}

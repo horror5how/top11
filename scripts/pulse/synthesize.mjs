@@ -15,7 +15,7 @@ export async function synthesizeForEntry(entry, sourceBundle) {
       recurring_themes: [],
       sample_size: 0,
       sources: {},
-      error: "ANTHROPIC_API_KEY missing — synthesis skipped",
+      error: "ANTHROPIC_API_KEY missing, synthesis skipped",
     };
   }
 
@@ -60,7 +60,7 @@ export async function synthesizeForEntry(entry, sourceBundle) {
 
 REQUIRED JSON SHAPE (no prose outside the JSON, no markdown fence):
 {
-  "verdict": "2–3 sentence neutral synthesis. If there's real review signal: say what people consistently report. If there isn't enough signal: say so plainly, but also extract whatever useful context IS in the data (e.g. 'mostly discussed in r/Accounting for R&D credit work', 'mentioned as a YC-recommended option', 'no direct customer testimonials found, but appears in 4 fractional-CFO recommendation threads').",
+  "verdict": "2 to 3 sentence neutral synthesis. If there's real review signal: say what people consistently report. If there isn't enough signal: say so plainly, but also extract whatever useful context IS in the data (e.g. 'mostly discussed in r/Accounting for R&D credit work', 'mentioned as a YC-recommended option', 'no direct customer testimonials found, but appears in 4 fractional-CFO recommendation threads').",
   "sentiment_score": <number 0..10. Use 5 for genuinely mixed. Use null only if you literally have no signal at all about this firm specifically.>,
   "strongest_praise": { "quote": "<verbatim or lightly cleaned customer quote, or null if none found>", "source_url": "<url, or empty>" },
   "strongest_criticism": { "quote": "<verbatim or lightly cleaned customer quote, or null if none found>", "source_url": "<url, or empty>" },
@@ -70,13 +70,14 @@ REQUIRED JSON SHAPE (no prose outside the JSON, no markdown fence):
 
 EXTRACTION RULES:
 - Quote only what is actually present in the data. Never fabricate quotes or themes.
-- A "review" is any user-generated commentary about working with this firm — including informal recommendations like "I've used X and they were great for Y" or "stay away from X because Z".
+- A "review" is any user-generated commentary about working with this firm, including informal recommendations like "I've used X and they were great for Y" or "stay away from X because Z".
 - Recommendation threads ("who's the best fractional CFO?") count as signal IF this firm is named, with what context.
-- If only the firm name is mentioned without commentary, themes can include "mentioned as an option in N recommendation threads" — that's still useful.
+- If only the firm name is mentioned without commentary, themes can include "mentioned as an option in N recommendation threads", which is still useful.
 - If a quote is generic, pick a more specific one elsewhere in the data.
 - recurring_themes: at most 5, ordered by frequency. Always include at least one theme if there's any signal at all.
-- watch_signals: 0–3 items. Only include if visible in data.
+- watch_signals: 0 to 3 items. Only include if visible in data.
 - Tone: independent analyst. Not promotional, not hostile, not lazy.
+- Write in plain English: no em-dashes or en-dashes. Use commas, periods, or parentheses.
 
 DATA:
 ${lines.join("\n")}

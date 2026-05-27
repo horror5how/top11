@@ -1,26 +1,26 @@
-# Wondermous: Full Markdown Mirror
+# Top 11: Full Markdown Mirror
 
-Token-efficient mirror of every Wondermous list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-27T12:57:54.552Z
+Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
+Generated: 2026-05-27T13:54:49.216Z
 
 ## The 11 Best Dental CRMs & Practice-Management Software
 
 **Short answer:** As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.
 
-- URL: https://top11-nine.vercel.app/dental-crm
+- URL: https://11.market/dental-crm
 - Audience: Dentists and practice managers. Solo GPs, multi-location groups and DSOs, and specialty practices
-- Editor: Wondermous AI (anonymous by design)
+- Editor: Top 11 (anonymous by design)
 - Last verified: 2026-05-25
-- Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
+- Methodology: https://11.market/methodology (vv1.0)
 - Scoring criteria: Real-world capability & track record (30%), Pricing transparency (20%), Segment fit (20%), Usability & support (15%), Integrations & verification (15%)
 - Candidate pool: 14+ providers screened; reviewed quarterly
 
 ### Key statistics
-- We reviewed 14 dental platforms and ranked the 11 strongest, segmented by exactly who each is for. (Wondermous analysis, May 2026)
-- Only one product on this list, Open Dental, publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling. (Wondermous review of vendor documentation, May 2026)
-- Published monthly pricing across this list ranges from about $109 to $750+ per location; several vendors quote only. (Wondermous analysis of vendor and Software Advice pricing, May 2026)
-- Six of the 11 are fully cloud-hosted; the rest are Windows/server-based or hybrid. (Wondermous analysis, May 2026)
-- No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake. (Wondermous analysis, May 2026)
+- We reviewed 14 dental platforms and ranked the 11 strongest, segmented by exactly who each is for. (Top 11 analysis, May 2026)
+- Only one product on this list, Open Dental, publicly documents same-day cross-operatory appointment mirroring, the feature that solves multi-visit scheduling. (Top 11 review of vendor documentation, May 2026)
+- Published monthly pricing across this list ranges from about $109 to $750+ per location; several vendors quote only. (Top 11 analysis of vendor and Software Advice pricing, May 2026)
+- Six of the 11 are fully cloud-hosted; the rest are Windows/server-based or hybrid. (Top 11 analysis, May 2026)
+- No product scores above 9.0 of a possible 9.4; perfect scores are disallowed because they read as fake. (Top 11 analysis, May 2026)
 
 ### Ranking
 ### #1 Open Dental (9/9.4)
@@ -115,7 +115,7 @@ Generated: 2026-05-27T12:57:54.552Z
 ### Buyer's guide
 - What is dental practice-management software (a dental CRM)? Dental practice-management software (often called a dental CRM) is the system a practice runs its day on: appointment scheduling across chairs and providers, charting, billing and insurance, imaging, and patient communication. The right system depends heavily on practice type. A solo GP, a 30-location DSO, and an orthodontics group each need very different things, which is why this list is segmented by who each product is for.
 - Which dental software handles a patient with multiple same-day appointments across operatories? Open Dental (#1) is the standout for complex same-day, multi-operatory scheduling. It is the only product on this list that publicly documents appointment mirroring (automatically placing a linked provider exam when a hygiene block is created) and offers fully customizable operatory-column appointment views, so a single patient moving across several chairs and providers in one day does not break the book. CareStack (#2) is the runner-up at DSO scale.
-- How much does dental practice-management software cost in 2026? Published pricing on this list runs from about $109/month flat (Practice-Web) and $125 to $225/month (tab32) at the low end, up to $698 to $750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149 to $199/month per location plus a small per-provider fee above three providers. Several vendors, including Dentrix Ascend, Curve, Eaglesoft and Weave, are quote-only (Wondermous analysis, May 2026).
+- How much does dental practice-management software cost in 2026? Published pricing on this list runs from about $109/month flat (Practice-Web) and $125 to $225/month (tab32) at the low end, up to $698 to $750+/month for DSO platforms like CareStack and Denticon. Open Dental is $149 to $199/month per location plus a small per-provider fee above three providers. Several vendors, including Dentrix Ascend, Curve, Eaglesoft and Weave, are quote-only (Top 11 analysis, May 2026).
 - Cloud vs server: which should a dental practice choose? Cloud (browser-based) systems like Curve, Dentrix Ascend, CareStack, Denticon and tab32 remove on-premise IT and give access from any device, best for groups and practices wanting low maintenance. Server-based systems like Open Dental, Eaglesoft and Practice-Web keep data on local hardware, which some owners prefer for control and cost. ABELDent is unusual in offering an identical interface in either mode.
 
 ### FAQ
@@ -143,8 +143,8 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - Weave is included as the #11 Wildcard despite not being a full practice-management system, because it is the strongest patient-communication layer in the category.
 - Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
 - Every entry carries at least one published criticism.
-- No vendor has paid for placement on Wondermous. There is no paid tier.
-- Right of Reply: every listed vendor gets one pinned response on its entry. Email editor@wondermous.ai to use it.
+- No vendor has paid for placement on Top 11. There is no paid tier.
+- Right of Reply: every listed vendor gets one pinned response on its entry. Email editor@11.market to use it.
 
 ---
 
@@ -152,20 +152,20 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 
 **Short answer:** As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.
 
-- URL: https://top11-nine.vercel.app/fractional-cfo
+- URL: https://11.market/fractional-cfo
 - Audience: Tech founders raising $1M to $50M, Seed to Series B
-- Editor: Wondermous AI (anonymous by design)
+- Editor: Top 11 (anonymous by design)
 - Last verified: 2026-05-26
-- Methodology: https://top11-nine.vercel.app/methodology (vv1.0)
+- Methodology: https://11.market/methodology (vv1.0)
 - Scoring criteria: Track record & verifiable outcomes (30%), Pricing transparency (20%), Segment fit (20%), Responsiveness & availability (15%), Credentials & external verification (15%)
 - Candidate pool: 40+ providers screened; reviewed quarterly
 
 ### Key statistics
-- We screened more than 40 fractional CFO providers before selecting these 11. (Wondermous analysis, May 2026)
-- Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000. (Wondermous analysis, May 2026)
-- Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams. (Wondermous analysis, May 2026)
-- The firms on this list were founded between 2001 and 2023, a 22-year spread of operating history. (Wondermous analysis, May 2026)
-- No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake. (Wondermous analysis, May 2026)
+- We screened more than 40 fractional CFO providers before selecting these 11. (Top 11 analysis, May 2026)
+- Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000. (Top 11 analysis, May 2026)
+- Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams. (Top 11 analysis, May 2026)
+- The firms on this list were founded between 2001 and 2023, a 22-year spread of operating history. (Top 11 analysis, May 2026)
+- No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake. (Top 11 analysis, May 2026)
 
 ### Ranking
 ### #1 Burkland Associates (9.1/9.4)
@@ -273,7 +273,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 - URL: https://thecfosquad.com
 - Best for: AI-native startups that want their CFO to actually use the same tools they ship
 - Founded 2023, Remote (US / UK), team 10 to 20, $ (typically $1.5k to $6k/mo)
-- Verdict: The newest firm on this list, included as the Wondermous Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.
+- Verdict: The newest firm on this list, included as the Top 11 Wildcard. Their angle is that their CFOs are themselves AI-native: they automate their own work using the same LLMs the founder ships, they review the founder's own AI product fluently, and they're priced for the moment a pre-seed founder first needs financial structure.
 - Pro: Early reviews from AI-native founders consistently call out how naturally the CFO engages with the product. They're a user, not just a number-cruncher.
 - Con: Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.
 - Risk signals (none, checked 2026-05-26): No verifiable public-record risk signals found as of May 2026; the firm is new (founded 2023) with little public footprint, so there is no breach, lawsuit, or complaint history to report.
@@ -281,7 +281,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 
 ### Buyer's guide
 - What is a fractional CFO? A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer, typically 10 to 40 hours a month, instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000 to $450,000 fully-loaded cost of a full-time CFO.
-- How much does a fractional CFO cost in 2026? Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Wondermous analysis, May 2026).
+- How much does a fractional CFO cost in 2026? Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026).
 - Fractional CFO vs full-time vs part-time CFO: what's the difference? A full-time CFO is a salaried executive ($250k to $450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves.
 
 ### FAQ
@@ -289,7 +289,7 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 A: For venture-backed US tech startups, Burkland Associates ranks #1 in this list. It has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority.
 
 **Q: How much does a fractional CFO cost in 2026?**
-A: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Wondermous analysis, May 2026).
+A: Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026).
 
 **Q: What is the difference between a fractional CFO and a full-time or part-time CFO?**
 A: A full-time CFO is a salaried executive costing $250,000 to $450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer. Usually 10 to 40 hours a month. And is often backed by a firm with a bench, so coverage continues even if your lead CFO changes.
@@ -300,10 +300,10 @@ A: Graphite Financial (#3) is the strongest pick for early-stage, YC-budget foun
 **Q: Which fractional CFO is best for R&D tax credits?**
 A: Kruze Consulting (#2) has the strongest reputation for R&D tax-credit work in the US and routinely returns more than its fee in reclaimed credits, which is why founders cite it as the moment the engagement paid for itself.
 
-**Q: How does Wondermous rank fractional CFOs?**
-A: Wondermous scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism.
+**Q: How does Top 11 rank fractional CFOs?**
+A: Top 11 scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism.
 
-**Q: Do firms pay to be included in Wondermous?**
+**Q: Do firms pay to be included in Top 11?**
 A: No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked.
 
 **Q: What is the best fractional CFO for a startup that needs to get fundraise-ready?**
@@ -322,13 +322,13 @@ A: Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funde
 A: Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. For problem-led matching, call GET /api/lists/fractional-cfo/recommend?problem=...&segment=...&budget=... to get the top matched picks with reasons. A live Model Context Protocol server at POST /mcp exposes list_top_11, get_list, get_entry, and a recommend tool.
 
 ### Honest disclosures
-- This is Wondermous's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).
+- This is Top 11's launch list. Reddit Pulse panels populate from automated scrapes in v1.1 (June 2026).
 - The editor of this list is excluded from being ranked under the independence rule.
 - Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
 - Every entry carries at least one published criticism. 'flaws but not dealbreakers'.
-- No firm has paid for placement on Wondermous. There is no paid tier.
+- No firm has paid for placement on Top 11. There is no paid tier.
 - Each entry carries a public risk-signal check (data breaches, lawsuits, billing complaints, support-rating trend) with cited sources; 'no major public risk signals found' means we searched and found nothing verifiable as of the date shown, not that none can exist.
-- Right of Reply: every listed firm gets one pinned response on its page. Email editor@wondermous.ai to use it.
+- Right of Reply: every listed firm gets one pinned response on its page. Email editor@11.market to use it.
 
 ---
 

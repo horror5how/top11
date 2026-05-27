@@ -1,18 +1,18 @@
 {
   "schema_version": "2025-03-26",
-  "name": "wondermous",
-  "title": "Wondermous: Independent Rankings",
-  "description": "Live MCP server for reading Wondermous independent rankings. Reads are free and unauthenticated.",
+  "name": "top11",
+  "title": "Top 11: Independent Rankings",
+  "description": "Live MCP server for reading Top 11 independent rankings. Reads are free and unauthenticated.",
   "transport": "streamable-http",
-  "endpoint": "https://top11-nine.vercel.app",
-  "mcp_endpoint": "https://top11-nine.vercel.app/mcp",
+  "endpoint": "https://11.market",
+  "mcp_endpoint": "https://11.market/mcp",
   "auth": {
     "type": "none_for_reads"
   },
   "tools": [
     {
       "name": "list_rankings",
-      "description": "List all Wondermous vertical lists currently published.",
+      "description": "List all Top 11 vertical lists currently published.",
       "input_schema": {
         "type": "object",
         "properties": {}
@@ -20,7 +20,7 @@
     },
     {
       "name": "get_list",
-      "description": "Return the full structured ranking for a single Wondermous list by slug.",
+      "description": "Return the full structured ranking for a single Top 11 list by slug.",
       "input_schema": {
         "type": "object",
         "required": [
@@ -100,10 +100,10 @@
     }
   ],
   "links": {
-    "for_agents": "https://top11-nine.vercel.app/for-agents",
-    "methodology": "https://top11-nine.vercel.app/methodology",
-    "llms_txt": "https://top11-nine.vercel.app/llms.txt",
-    "openapi": "https://top11-nine.vercel.app/openapi.json"
+    "for_agents": "https://11.market/for-agents",
+    "methodology": "https://11.market/methodology",
+    "llms_txt": "https://11.market/llms.txt",
+    "openapi": "https://11.market/openapi.json"
   },
   "note": "This is a discovery manifest. The live MCP server speaks JSON-RPC 2.0 over Streamable HTTP at the mcp_endpoint above."
 }

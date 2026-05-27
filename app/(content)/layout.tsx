@@ -19,7 +19,7 @@ export default function ContentLayout({ children }: { children: React.ReactNode 
       <main className="flex-1">{children}</main>
       <footer className="border-t border-ink/10 mt-16">
         <div className="max-w-5xl mx-auto px-6 py-8 text-sm text-ink/60 flex flex-col gap-2 sm:flex-row sm:justify-between">
-          <p>Wondermous · AI-researched, independently ranked · No paid placement, ever</p>
+          <p>Top 11 · AI-researched, independently ranked · No paid placement, ever</p>
           <p className="font-mono text-xs">
             Methodology public · <Link href="/for-agents" className="underline">Built for AI agents</Link>
           </p>

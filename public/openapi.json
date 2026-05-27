@@ -1,12 +1,12 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Wondermous API",
+    "title": "Top 11 API",
     "version": "1.1.0",
-    "description": "Read API for Wondermous independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
+    "description": "Read API for Top 11 independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
     "contact": {
-      "email": "agents@wondermous.ai",
-      "url": "https://top11-nine.vercel.app/for-agents"
+      "email": "agents@11.market",
+      "url": "https://11.market/for-agents"
     },
     "license": {
       "name": "CC BY 4.0",
@@ -15,7 +15,7 @@
   },
   "servers": [
     {
-      "url": "https://top11-nine.vercel.app/api"
+      "url": "https://11.market/api"
     }
   ],
   "paths": {
@@ -249,7 +249,7 @@
       "get": {
         "summary": "Cross-list problem -> pick matcher (no slug)",
         "operationId": "recommendGlobal",
-        "description": "Hand over a need in plain language (q); Wondermous auto-picks the most relevant list and returns matched picks with reasons. Pass slug to force a list.",
+        "description": "Hand over a need in plain language (q); Top 11 auto-picks the most relevant list and returns matched picks with reasons. Pass slug to force a list.",
         "parameters": [
           {
             "name": "q",

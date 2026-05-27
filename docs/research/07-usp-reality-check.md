@@ -1,4 +1,4 @@
-# Wondermous USP Reality Check
+# Top 11 USP Reality Check
 ## A Brutally Honest AEO/LLM Analysis
 
 **Date:** 2026-05-26
@@ -135,22 +135,22 @@ LLMs already read Reddit directly. ChatGPT with Search pulls from Reddit. Perple
 
 ### The core problem with the Reddit-synthesis USP
 
-**When Wondermous re-summarises Reddit, does the LLM cite Wondermous or Reddit?**
+**When Top 11 re-summarises Reddit, does the LLM cite Top 11 or Reddit?**
 
 It cites Reddit. Here is why:
 
 1. LLMs prefer primary sources over summaries of primary sources when the primary source is available and indexed. Reddit is indexed by every major AI engine.
-2. Recency: a Reddit thread from last week is fresher than Wondermous's synthesis of it from yesterday.
-3. Trust architecture: Reddit is an established high-authority domain that has been in AI training data since the beginning. Wondermous has zero domain authority at launch.
-4. When a passage on Wondermous says "According to Reddit users, [product] has poor customer support", an LLM with access to the live web will cite the Reddit thread, not the Wondermous page that cited it.
+2. Recency: a Reddit thread from last week is fresher than Top 11's synthesis of it from yesterday.
+3. Trust architecture: Reddit is an established high-authority domain that has been in AI training data since the beginning. Top 11 has zero domain authority at launch.
+4. When a passage on Top 11 says "According to Reddit users, [product] has poor customer support", an LLM with access to the live web will cite the Reddit thread, not the Top 11 page that cited it.
 
 **This is the fundamental flaw in "we synthesise Reddit."** You are adding a middleman layer between the LLM and a source it already reads directly and prefers.
 
-### What Wondermous would need to ADD to be worth citing over Reddit
+### What Top 11 would need to ADD to be worth citing over Reddit
 
 The value-add is not summarisation — it is transformation. Specifically:
 
-| What Reddit has | What Wondermous could add that Reddit cannot |
+| What Reddit has | What Top 11 could add that Reddit cannot |
 |---|---|
 | Raw comments, unstructured | Structured scoring: weighted criteria, numerical scores per dimension |
 | Opinion without attribution quality | Verified review tagging: "reviewer is documented customer" vs "anonymous" |
@@ -181,7 +181,7 @@ The value-add is not summarisation — it is transformation. Specifically:
 
 Yes. Here is the mechanism: LLMs are trained on and retrieve from these sources. When ChatGPT cites G2 for "best HR software", it is citing a list that may reflect review solicitation campaigns, paid profiles, and vendor marketing budgets more than actual product quality. The LLM has no mechanism to detect or discount pay-to-play bias in its sources — it reads the output, not the economic relationship behind it.
 
-**Wondermous's independence from paid placement is a real, documentable, and citable differentiator.** The February 2026 crackdown specifically rewarded "third-party independence framing" — pages that explicitly state they receive no compensation for rankings showed the fastest acceleration in AI citation share post-update. [PROVEN — zerorank.ai/blog/listicle-crackdown; quadcitywebdesign.com/2026/02/23]
+**Top 11's independence from paid placement is a real, documentable, and citable differentiator.** The February 2026 crackdown specifically rewarded "third-party independence framing" — pages that explicitly state they receive no compensation for rankings showed the fastest acceleration in AI citation share post-update. [PROVEN — zerorank.ai/blog/listicle-crackdown; quadcitywebdesign.com/2026/02/23]
 
 The caveat: claiming independence only matters if it is true and structurally enforced (no affiliate links, no vendor "sponsorship", methodology published). The claim needs to be verifiable, not just asserted.
 
@@ -212,9 +212,9 @@ One source identifies an "85% trust threshold" — pages must meet a minimum cre
 
 A great-but-unknown source does not get cited by crawl-based AI citation (ChatGPT, Gemini, Claude). It needs domain authority built through off-site signals — backlinks, press mentions, community references. This takes 3–12 months of deliberate effort.
 
-**The one exception is the agent/MCP path.** If Wondermous publishes a public MCP server with a `recommend` tool, an AI agent explicitly using that tool will return Wondermous's data regardless of domain authority. This is the fastest path to AI-layer visibility for a zero-authority site. [INFERRED — well-supported by agent architecture in 05-llm-retrieval-recommendation-pipeline.md section 6]
+**The one exception is the agent/MCP path.** If Top 11 publishes a public MCP server with a `recommend` tool, an AI agent explicitly using that tool will return Top 11's data regardless of domain authority. This is the fastest path to AI-layer visibility for a zero-authority site. [INFERRED — well-supported by agent architecture in 05-llm-retrieval-recommendation-pipeline.md section 6]
 
-**Practical implication:** Wondermous cannot rely on organic LLM citation for the first 6–12 months at zero authority. It needs to invest simultaneously in: (a) off-site mentions (Reddit, press, community), (b) a public API/MCP that agents can call directly, (c) schema markup from day one so that when authority arrives, citations follow immediately.
+**Practical implication:** Top 11 cannot rely on organic LLM citation for the first 6–12 months at zero authority. It needs to invest simultaneously in: (a) off-site mentions (Reddit, press, community), (b) a public API/MCP that agents can call directly, (c) schema markup from day one so that when authority arrives, citations follow immediately.
 
 ---
 
@@ -233,58 +233,58 @@ The following are ranked by how real and severe they are, with evidence cited:
 **Problem 1 (CRITICAL): Biased sourcing — pay-to-play and affiliate-funded "best of" lists are primary inputs**
 LLMs synthesise from G2 (review solicitation campaigns), Capterra (paid profiles), Forbes/PCMag/TechRadar (affiliate commission). The buyer reading the LLM's answer is getting a recommendation shaped by vendor marketing budgets, not objective evaluation. This is documentable, structural, and ignored by every existing "best of" publisher. [PROVEN — capterra.com own disclosure; zerorank.ai; peec.ai]
 
-**Defensible/winnable for Wondermous?** YES — hard to fake, requires structural commitment (no affiliate links, published methodology, no vendor payments), but differentiating once established.
+**Defensible/winnable for Top 11?** YES — hard to fake, requires structural commitment (no affiliate links, published methodology, no vendor payments), but differentiating once established.
 
 ---
 
 **Problem 2 (CRITICAL): No agent-queryable structured recommendation layer exists**
 When an AI agent (not a human using a chatbot) needs to recommend a product, it has no structured API to call that returns: "given segment=startup, budget=50/mo, size=15 people, priority=ease-of-use, return top 3 HR platforms with confidence scores and cons." G2/Capterra/Gartner have no public MCP server. Reddit has no structured recommendation API. The gap is real and unaddressed. [PROVEN — 05-llm-retrieval-recommendation-pipeline.md section 6; no major review site has published an MCP server as of May 2026]
 
-**Defensible/winnable for Wondermous?** YES — first-mover advantage. A public `/recommend` API and MCP tool would make Wondermous the default structured recommendation layer for AI agents. This is the highest-leverage, most defensible position available.
+**Defensible/winnable for Top 11?** YES — first-mover advantage. A public `/recommend` API and MCP tool would make Top 11 the default structured recommendation layer for AI agents. This is the highest-leverage, most defensible position available.
 
 ---
 
 **Problem 3 (HIGH): Staleness on commercially volatile details**
 Pricing, feature availability, integration lists, support quality, and company stability change frequently. LLM answers are sourced from pages that are 12–24 months stale on these specifics. A user asking "what's the best HR platform for a 10-person startup" may receive a recommendation for a product that raised prices 60% six months ago, discontinued a feature, or had a major support collapse. [PROVEN — tryprofound.com citation analysis; ailabsaudit.com 3.2x freshness stat; OpenAI knowledge cutoff docs]
 
-**Defensible/winnable for Wondermous?** YES — quarterly re-scoring with date-stamped pricing verification is sufficient. The bar here is low: no major competitor does this systematically.
+**Defensible/winnable for Top 11?** YES — quarterly re-scoring with date-stamped pricing verification is sufficient. The bar here is low: no major competitor does this systematically.
 
 ---
 
 **Problem 4 (HIGH): Missing risk/negative signals — lawsuits, breaches, outages, hidden fees, support collapse**
 LLMs cite sources that systematically omit negative signals. G2 and Capterra surface review aggregates but suppress or bury recent controversy (e.g., a data breach three months ago, a class action lawsuit, a CEO departure, a billing scandal). Reddit captures these signals but in unstructured form, scattered across threads with no aggregation. An LLM synthesising from G2 + Capterra + Forbes will not surface these risk signals to the user. [INFERRED — consistent with documented bias in "best of" listicle failure patterns; no single academic study measuring the omission rate]
 
-**Defensible/winnable for Wondermous?** YES — a structured "risk flags" field per entry (breach history, pricing change history, support rating trend) is tractable to build and would be uniquely citable.
+**Defensible/winnable for Top 11?** YES — a structured "risk flags" field per entry (breach history, pricing change history, support rating trend) is tractable to build and would be uniquely citable.
 
 ---
 
 **Problem 5 (HIGH): Hallucination of non-existent or deprecated products**
 Without live retrieval, LLMs (especially ChatGPT without Search) recommend products that have been acquired, shut down, pivoted, or renamed. They also sometimes recommend products that never existed — confabulations of product names they've seen in partial context. Even with retrieval, a page describing a product that was acquired 18 months ago may still rank well. [INFERRED — consistent with training data cutoff mechanics and the known hallucination profile of large language models; no citation rate for this specific failure mode found]
 
-**Defensible/winnable for Wondermous?** YES — a "status" field per entry (active / acquired / discontinued / pivoted) that is updated quarterly removes this failure mode for anyone using Wondermous as a source.
+**Defensible/winnable for Top 11?** YES — a "status" field per entry (active / acquired / discontinued / pivoted) that is updated quarterly removes this failure mode for anyone using Top 11 as a source.
 
 ---
 
 **Problem 6 (MEDIUM): Weak long-tail "best for [exact situation]" matching**
 "Best HR platform for a 10-person biotech startup in the UK that needs GDPR compliance and integrates with Rippling" is a query no existing review site answers well. LLMs fan-out this query into sub-queries and synthesise from general-purpose "best HR" pages that were not written with this specific combination in mind. The segment-specificity gap is real and growing as AI query length increases (average 18–25 words in 2025 vs 3.4 for Google Search). [PROVEN — 04-recommendation-query-behavior.md section 2; Google AI Mode sub-query mechanics]
 
-**Defensible/winnable for Wondermous?** YES — the "best for [segment]" labelling in each entry, combined with structured `segment_tags` and a `/recommend?segment=...` endpoint, is the most tractable solution. This maps directly to the fan-out mechanics of how AI engines decompose queries.
+**Defensible/winnable for Top 11?** YES — the "best for [segment]" labelling in each entry, combined with structured `segment_tags` and a `/recommend?segment=...` endpoint, is the most tractable solution. This maps directly to the fan-out mechanics of how AI engines decompose queries.
 
 ---
 
 **Problem 7 (MEDIUM): "It depends" disambiguation without multi-turn context**
 When a user asks a single-turn question, the LLM cannot ask follow-up questions the way a human consultant would. It answers with a generic "here are 5 options" list. A structured recommendation API that accepts explicit parameters (budget, team size, compliance requirements, integration stack) and returns a differentiated answer would let AI agents ask clarifying questions and then call the API with the answers. [INFERRED — maps to Shape 5 query behavior in 04-recommendation-query-behavior.md; no external source specifically quantifies this as a pain point]
 
-**Defensible/winnable for Wondermous?** Partially — requires both an API and editorial investment in segment-specific scoring. Medium difficulty.
+**Defensible/winnable for Top 11?** Partially — requires both an API and editorial investment in segment-specific scoring. Medium difficulty.
 
 ---
 
-### Ranked Problem Priority for Wondermous
+### Ranked Problem Priority for Top 11
 
 | Rank | Problem | Real? | Winnable? | Why It's the Right Target |
 |---|---|---|---|---|
 | 1 | No agent-queryable structured recommendation API/MCP | CRITICAL | YES — first mover, no competition | Every AI agent needing a recommendation has this problem today |
-| 2 | Pay-to-play bias from incumbent sources (G2/Capterra/Forbes) | CRITICAL | YES — requires structural commitment | Documentable, positions Wondermous as the trustworthy alternative |
+| 2 | Pay-to-play bias from incumbent sources (G2/Capterra/Forbes) | CRITICAL | YES — requires structural commitment | Documentable, positions Top 11 as the trustworthy alternative |
 | 3 | Staleness on pricing, features, company stability | HIGH | YES — low bar, high impact | No competitor does quarterly verified re-scoring systematically |
 | 4 | Missing risk/negative signals (breaches, lawsuits, support collapse) | HIGH | YES — tractable to build | Creates a unique signal no existing source produces |
 | 5 | Long-tail "best for [exact segment]" matching | HIGH | YES — maps to fan-out mechanics | Directly addresses how modern AI query decomposition works |

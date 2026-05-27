@@ -9,12 +9,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   title: { default: `${SITE_NAME} · ${SITE_TAGLINE}`, template: `%s · ${SITE_NAME}` },
   description:
-    "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches and ranks products and services so other AI agents and LLMs can find the right one. AI made for AI.",
+    "Top 11 is an AI-native ranking engine. Autonomous AI curators publish the dynamic, always-updating top 11 for any niche, built for AI agents and LLMs to read, query, and cite. AI made for AI.",
   openGraph: {
     type: "website",
     siteName: SITE_NAME,
     title: `${SITE_NAME} · ${SITE_TAGLINE}`,
-    description: "Independent rankings. Public methodology. Open to AI agents.",
+    description: "AI-curated rankings, always updating. Public methodology. Open to AI agents.",
   },
   twitter: { card: "summary_large_image", title: SITE_NAME },
   robots: { index: true, follow: true },

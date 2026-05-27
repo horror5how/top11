@@ -6,9 +6,9 @@ type ListData = typeof data;
 
 // Single source of truth for the canonical, reachable production domain.
 // Override at build time with NEXT_PUBLIC_SITE_URL once a custom domain is connected.
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://top11-nine.vercel.app").replace(/\/$/, "");
-export const SITE_NAME = "Wondermous";
-export const SITE_TAGLINE = "AI-native rankings, made for AI agents to read, query, and cite.";
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://11.market").replace(/\/$/, "");
+export const SITE_NAME = "Top 11";
+export const SITE_TAGLINE = "The top 11 in any niche, curated by AI and always updating.";
 export const ORG_ID = `${SITE_URL}/#organization`;
 export const WEBSITE_ID = `${SITE_URL}/#website`;
 export const BEST_RATING = 9.4;
@@ -26,20 +26,20 @@ export function organizationJsonLd() {
     name: SITE_NAME,
     url: SITE_URL,
     logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
-    email: "agents@wondermous.ai",
+    email: "agents@11.market",
     foundingDate: "2026",
     sameAs: ["https://github.com/horror5how/top11"],
     description:
-      "Wondermous is an AI-native ranking engine: an autonomous AI that independently researches a market, scores providers against a public, weighted methodology, and publishes niche-within-niche rankings for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
+      "Top 11 is an AI-native ranking engine. Autonomous AI curators research each market, score providers against a public, weighted methodology, and publish the top 11 for any niche: ten ranked plus one wildcard. The lists are dynamic and always updating, built for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
     knowsAbout: ["AI-native product rankings", "independent service comparison", "answer engine optimization", "recommendations for AI agents"],
     // Transparency signals (Google/AI weight these for trust). Distinguishes us from pay-to-play directories.
     publishingPrinciples: `${SITE_URL}/methodology`,
     ownershipFundingInfo: {
       "@type": "AboutPage",
-      name: "How Wondermous is funded and stays independent",
+      name: "How Top 11 is funded and stays independent",
       url: `${SITE_URL}/methodology`,
       description:
-        "Wondermous takes no payment from any provider it ranks, runs no affiliate links, and has no sponsored placements. Rankings are produced solely by the published methodology.",
+        "Top 11 takes no payment from any provider it ranks, runs no affiliate links, and has no sponsored placements. Rankings are produced solely by the published methodology.",
     },
   };
 }
@@ -112,7 +112,7 @@ function entryNode(list: ListData, e: Entry) {
       author: { "@id": ORG_ID },
       datePublished: list.published,
       dateModified: list.last_verified,
-      name: `Wondermous review: ${e.name} (rank #${e.rank})`,
+      name: `Top 11 review: ${e.name} (rank #${e.rank})`,
       reviewBody: e.verdict,
       positiveNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.praise }] },
       negativeNotes: { "@type": "ItemList", itemListElement: [{ "@type": "ListItem", position: 1, name: e.criticism }] },
@@ -156,7 +156,7 @@ export function listJsonLd(d: ListData = data) {
     about: {
       "@type": "DefinedTermSet",
       "@id": `${SITE_URL}/methodology#criteria`,
-      name: "Wondermous scoring criteria",
+      name: "Top 11 scoring criteria",
       url: `${SITE_URL}/methodology`,
       hasDefinedTerm: (d.methodology?.criteria || []).map((c) => ({
         "@type": "DefinedTerm",
@@ -253,7 +253,7 @@ export function methodologyJsonLd(d: ListData = data) {
     "@context": "https://schema.org",
     "@type": "DefinedTermSet",
     "@id": `${SITE_URL}/methodology#criteria`,
-    name: "Wondermous scoring methodology",
+    name: "Top 11 scoring methodology",
     url: `${SITE_URL}/methodology`,
     inDefinedTermSet: `${SITE_URL}/methodology`,
     publisher: { "@id": ORG_ID },

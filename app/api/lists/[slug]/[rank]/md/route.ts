@@ -32,7 +32,7 @@ ${e.name}: ${e.verdict_short}
 
 Verdict: ${e.verdict}
 
-Source: ${e.url} · Verified ${list.last_verified} · From the independent Wondermous ranking at ${list.slug}.
+Source: ${e.url} · Verified ${list.last_verified} · From the independent Top 11 ranking at ${list.slug}.
 `;
   return new Response(md, {
     headers: {

@@ -3,7 +3,7 @@
 
 **Date:** 2026-05-25  
 **Status:** Research complete — engineering directives in §7  
-**Applies to:** Top 11 (top11-nine.vercel.app) — all pages and API surfaces
+**Applies to:** Top 11 (11.market) — all pages and API surfaces
 
 ---
 
@@ -322,7 +322,7 @@ Freshness is a documented factor in AI Overviews source selection (Google dev do
 
 ### 7.9 Add `llms.txt` to the repo root [INFERRED — agent path]
 
-`llms.txt` (at `https://top11-nine.vercel.app/llms.txt`) is an emerging convention for AI agents to discover a site's machine-readable surfaces. Format:
+`llms.txt` (at `https://11.market/llms.txt`) is an emerging convention for AI agents to discover a site's machine-readable surfaces. Format:
 
 ```
 # Top 11
@@ -331,10 +331,10 @@ Freshness is a documented factor in AI Overviews source selection (Google dev do
 
 ## APIs
 
-- [Full list index](https://top11-nine.vercel.app/api/lists): All published rankings in JSON.
-- [Get a ranking by slug](https://top11-nine.vercel.app/api/lists/{slug}): Full structured data per list.
-- [Markdown mirror](https://top11-nine.vercel.app/api/lists/{slug}/md): Clean markdown for any ranking.
-- [MCP server](https://top11-nine.vercel.app/mcp): Model Context Protocol endpoint — tools: list_top_11, get_list, get_entry, recommend.
+- [Full list index](https://11.market/api/lists): All published rankings in JSON.
+- [Get a ranking by slug](https://11.market/api/lists/{slug}): Full structured data per list.
+- [Markdown mirror](https://11.market/api/lists/{slug}/md): Clean markdown for any ranking.
+- [MCP server](https://11.market/mcp): Model Context Protocol endpoint — tools: list_top_11, get_list, get_entry, recommend.
 ```
 
 ### 7.10 Add `robots.txt` explicit allow for all major AI crawlers [PROVEN — crawl]
