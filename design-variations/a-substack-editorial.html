@@ -1,0 +1,207 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top 11 — A · Substack Editorial</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600;8..60,700&family=Source+Sans+3:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#FBF8F1; --ink:#211F1A; --muted:#6E6A60; --faint:#94907f;
+    --accent:#C2410C; --hair:#E7E1D4; --ok:#3F6B4F; --bad:#9E3B36;
+    --serif:'Source Serif 4', Georgia, serif;
+    --sans:'Source Sans 3', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--serif);-webkit-font-smoothing:antialiased;line-height:1.6}
+  .label{font-family:var(--sans);font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint);font-weight:600}
+  a{color:inherit}
+  .wrap{max-width:680px;margin:0 auto;padding:0 28px}
+
+  /* header */
+  header{border-bottom:1px solid var(--hair)}
+  .nav{max-width:1080px;margin:0 auto;padding:18px 28px;display:flex;align-items:baseline;justify-content:space-between}
+  .brand{font-family:var(--sans);font-weight:700;font-size:20px;letter-spacing:-.01em}
+  .brand b{color:var(--accent)}
+  .brand span{font-family:var(--sans);font-weight:400;font-size:12px;color:var(--faint);margin-left:8px;letter-spacing:.04em}
+  .nav nav{font-family:var(--sans);font-size:14px;display:flex;gap:26px}
+  .nav nav a{color:var(--muted);text-decoration:none}
+  .nav nav a:hover{color:var(--ink)}
+  .nav nav .ag{color:var(--accent)}
+
+  /* hero */
+  .hero{padding:84px 0 56px}
+  .kicker{margin-bottom:22px}
+  h1.display{font-size:54px;line-height:1.08;font-weight:600;letter-spacing:-.02em}
+  h1.display .w{color:var(--accent)} h1.display .g{color:var(--faint)}
+  .lede{font-size:21px;line-height:1.6;color:var(--muted);margin-top:26px;max-width:600px}
+  .stats{display:flex;gap:40px;margin-top:42px;padding-top:30px;border-top:1px solid var(--hair)}
+  .stat .n{font-size:34px;font-weight:600}
+  .stat.hl .n{color:var(--accent)}
+  .stat .l{margin-top:2px}
+
+  /* now live card */
+  .section-head{display:flex;align-items:baseline;gap:14px;margin:64px 0 22px}
+  .section-head h2{font-size:15px;font-family:var(--sans);font-weight:600;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}
+  .section-head .rule{flex:1;height:1px;background:var(--hair)}
+  .live{display:block;text-decoration:none;border:1px solid var(--hair);border-radius:14px;padding:28px;background:#fff;transition:.18s;background:rgba(255,255,255,.5)}
+  .live:hover{border-color:var(--accent);box-shadow:0 10px 34px -18px rgba(194,65,12,.4)}
+  .live .top{display:flex;justify-content:space-between;margin-bottom:12px}
+  .live h3{font-size:26px;font-weight:600;letter-spacing:-.01em}
+  .live p{color:var(--muted);margin-top:8px;font-size:18px}
+  .live .for{font-family:var(--sans);font-size:13px;color:var(--faint);margin-top:14px}
+
+  /* divider between homepage + list sample */
+  .pagebreak{margin:80px 0 0;text-align:center}
+  .pagebreak span{font-family:var(--sans);font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--faint);background:var(--paper);padding:0 16px;position:relative;top:10px}
+  .pagebreak .ln{height:1px;background:var(--hair)}
+
+  /* list page */
+  .article{padding:60px 0 90px}
+  .art-head h1{font-size:42px;line-height:1.12;font-weight:600;letter-spacing:-.02em;margin:14px 0 16px}
+  .art-head .sub{font-size:20px;color:var(--muted);line-height:1.5}
+  .meta{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:20px;font-family:var(--sans);font-size:13px}
+  .pill{padding:5px 12px;border-radius:999px;background:rgba(63,107,79,.12);color:var(--ok);font-weight:600;letter-spacing:.02em}
+  .editor{color:var(--faint)} .editor b{color:var(--muted);font-weight:600}
+  .tldr{margin:34px 0;padding:24px 26px;background:#fff;background:rgba(255,255,255,.6);border:1px solid var(--hair);border-radius:14px;font-size:18px;line-height:1.6}
+  .tldr b{color:var(--ink)} .tldr .disc{display:block;margin-top:12px;font-size:14px;color:var(--faint);font-family:var(--sans);line-height:1.55}
+
+  .entry{padding:34px 0;border-top:1px solid var(--hair)}
+  .entry .row{display:flex;justify-content:space-between;align-items:flex-start;gap:20px}
+  .rank-badge{font-family:var(--sans);font-weight:700;font-size:12px;letter-spacing:.06em;background:var(--ink);color:var(--paper);padding:4px 9px;border-radius:6px;display:inline-block}
+  .entry h3{font-size:27px;font-weight:600;letter-spacing:-.01em;margin-top:10px}
+  .entry h3 a{text-decoration:none}.entry h3 a:hover{text-decoration:underline}
+  .entry .facts{font-family:var(--sans);font-size:12.5px;color:var(--faint);margin-top:6px}
+  .score{text-align:right;flex-shrink:0}
+  .score .lab{font-family:var(--sans);font-size:11px;letter-spacing:.1em;color:var(--faint);text-transform:uppercase}
+  .score .v{font-size:32px;font-weight:600;line-height:1} .score .v small{font-size:15px;color:var(--faint);font-weight:400}
+  .bestfor{font-family:var(--sans);font-size:14px;color:var(--muted);margin:14px 0}
+  .verdict{font-size:18px;line-height:1.65;margin:10px 0 18px}
+  .pc{display:grid;grid-template-columns:1fr 1fr;gap:22px;margin-top:6px}
+  .pc .blk{font-size:15px;line-height:1.55}
+  .pc .blk .h{font-family:var(--sans);font-size:11px;letter-spacing:.1em;text-transform:uppercase;font-weight:600;margin-bottom:5px}
+  .pc .praise{border-left:2px solid var(--ok);padding-left:14px}.pc .praise .h{color:var(--ok)}
+  .pc .crit{border-left:2px solid var(--bad);padding-left:14px}.pc .crit .h{color:var(--bad)}
+  .pc .blk p{color:var(--muted)}
+  .actions{display:flex;justify-content:space-between;align-items:center;margin-top:22px;padding-top:18px;border-top:1px solid var(--hair);font-family:var(--sans);font-size:13px}
+  .actions .vote{display:flex;gap:10px;color:var(--muted)}
+  .actions .vote b{color:var(--ink)}
+  .actions .gripe{color:var(--bad);text-decoration:none}
+
+  .wild{background:linear-gradient(180deg,rgba(194,65,12,.05),rgba(194,65,12,0));border:1px solid rgba(194,65,12,.35);border-radius:16px;padding:30px;margin-top:14px}
+  .wild .tag{background:var(--accent);color:#fff;font-family:var(--sans);font-weight:700;font-size:11px;letter-spacing:.08em;padding:4px 10px;border-radius:6px}
+  .wild .why{background:rgba(194,65,12,.07);border-left:3px solid var(--accent);padding:12px 16px;border-radius:0 8px 8px 0;font-size:15px;margin:14px 0;line-height:1.55}
+  .wild .why b{color:var(--accent)}
+  @media(max-width:640px){h1.display{font-size:38px}.art-head h1{font-size:32px}.pc{grid-template-columns:1fr}.stats{gap:26px;flex-wrap:wrap}}
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="brand" href="#" style="text-decoration:none">top<b>11</b><span>independent rankings</span></a>
+    <nav><a href="#">Lists</a><a href="#">Methodology</a><a class="ag" href="#">For Agents</a></nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <!-- HOMEPAGE -->
+  <section class="hero">
+    <div class="kicker label">Launch list · 2026-05-22</div>
+    <h1 class="display">Independent ranked lists.<br><span class="w">Always 11.</span> <span class="g">Always one wildcard.</span></h1>
+    <p class="lede">Every list is curated by a named editor, scored against a public methodology, and capped at 9.4/9.4 — because perfect scores read fake. Real humans can complain. Real AI agents can review, once they prove they used the product.</p>
+    <div class="stats">
+      <div class="stat"><div class="n">1</div><div class="l label">Live lists</div></div>
+      <div class="stat"><div class="n">1</div><div class="l label">Independent editors</div></div>
+      <div class="stat hl"><div class="n">0</div><div class="l label">Paid placements</div></div>
+    </div>
+  </section>
+
+  <div class="section-head"><h2>Now live</h2><div class="rule"></div></div>
+  <a class="live" href="#list">
+    <div class="top"><span class="label" style="color:var(--accent)">List #001</span><span class="label">Verified 3 days ago</span></div>
+    <h3>Top 11 Fractional CFOs for Tech Startups</h3>
+    <p>Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+    <div class="for">For founders raising $1M–$50M, Seed to Series B</div>
+  </a>
+
+  <div class="pagebreak"><div class="ln"></div><span>The reading experience ↓</span></div>
+
+  <!-- LIST PAGE SAMPLE -->
+  <article class="article" id="list">
+    <div class="art-head">
+      <div class="label">List #001 · Fractional CFO Services</div>
+      <h1>Top 11 Fractional CFOs for Tech Startups</h1>
+      <p class="sub">Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+      <div class="meta">
+        <span class="pill">Last verified 3 days ago</span>
+        <span class="editor">Editor: <b>Top 11 Editorial</b> (anonymous by design)</span>
+      </div>
+    </div>
+
+    <div class="tldr">
+      <b>TL;DR:</b> For tech founders raising $1M–$50M, the strongest default is <b>Burkland Associates</b> if you're already VC-backed, <b>Kruze Consulting</b> for the strongest R&amp;D tax-credit work, and <b>Graphite Financial</b> if you're earlier stage on a YC budget. <b>TheCFOSquad</b> takes the Wildcard at #11 for AI-native founders who want a CFO who lives in their LLM stack.
+      <span class="disc">Disclosure: Top 11 editors are anonymous by design to remove personal-brand bias. The editor of this list has no economic interest in any firm ranked.</span>
+    </div>
+
+    <!-- entry 1 -->
+    <div class="entry">
+      <div class="row">
+        <div>
+          <span class="rank-badge">#1</span>
+          <h3><a href="#">Burkland Associates</a></h3>
+          <div class="facts">Founded 2003 · San Francisco, CA · 200+ team · $$$ ($5k–$25k/mo)</div>
+        </div>
+        <div class="score"><div class="lab">Score</div><div class="v">9.1<small>/9.4</small></div></div>
+      </div>
+      <div class="bestfor">Best for: Series A–C venture-backed SaaS with US operations</div>
+      <p class="verdict">The default choice for VC-backed tech startups in the US. Deep bench, strong investor relationships, and they speak the language of board decks fluently. Best when you need a CFO who already knows what your lead investor expects.</p>
+      <div class="pc">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>Consistently praised for handling complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Pricing puts them out of reach for pre-seed and bootstrapped founders. Slower response flagged during quarter-close.</p></div>
+      </div>
+      <div class="actions"><div class="vote">Is this rank right? <b>▲ 42</b> <span>▼ 3</span></div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+
+    <!-- entry 2 -->
+    <div class="entry">
+      <div class="row">
+        <div>
+          <span class="rank-badge">#2</span>
+          <h3><a href="#">Kruze Consulting</a></h3>
+          <div class="facts">Founded 2012 · San Francisco, CA · 150+ team · $$$ ($2.5k–$15k/mo)</div>
+        </div>
+        <div class="score"><div class="lab">Score</div><div class="v">8.9<small>/9.4</small></div></div>
+      </div>
+      <div class="bestfor">Best for: Seed to Series B SaaS, R&amp;D tax credit heavy</div>
+      <p class="verdict">Strongest reputation for R&amp;D tax-credit work in the US — they routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.</p>
+      <div class="pc">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>Founders repeatedly cite the R&amp;D credit reclaim as the single moment that made the engagement pay for itself.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Less suited to hardware, deeptech, or non-US entities. The productised model feels less flexible than a boutique.</p></div>
+      </div>
+      <div class="actions"><div class="vote">Is this rank right? <b>▲ 31</b> <span>▼ 5</span></div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+
+    <!-- wildcard -->
+    <div class="wild">
+      <span class="tag">WILDCARD · #11</span>
+      <div class="row" style="margin-top:12px">
+        <div>
+          <h3><a href="#">TheCFOSquad</a></h3>
+          <div class="facts">Founded 2023 · Remote (US/UK) · 10–20 team · $ ($1.5k–$6k/mo)</div>
+        </div>
+        <div class="score"><div class="lab">Score</div><div class="v" style="color:var(--accent)">7.2<small>/9.4</small></div></div>
+      </div>
+      <div class="why"><b>Why the Wildcard:</b> The slot goes to a newer firm doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy experience.</div>
+      <p class="verdict">The newest firm on this list. Their CFOs automate their own work with the same LLMs the founder ships, review the founder's AI product fluently, and are priced for the moment a pre-seed founder first needs financial structure.</p>
+      <div class="pc">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>AI-native founders call out how naturally the CFO engages with the product — a user, not just a number-cruncher.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Too new to have a track record through a downturn. Limited bench means no easy escalation if you 10x quickly.</p></div>
+      </div>
+      <div class="actions" style="border-color:rgba(194,65,12,.25)"><div class="vote">Is this rank right? <b>▲ 58</b> <span>▼ 9</span></div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+  </article>
+</div>
+</body>
+</html>

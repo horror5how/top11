@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top 11 — R1 · Leaderboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#FCFCFB; --ink:#0B0B0A; --muted:#67645E; --faint:#9C988F;
+    --accent:#FF4D1C; --line:#EAE8E3; --line2:#F3F1EC;
+    --ok:#15814F; --okbg:#E7F4ED; --bad:#C8392B; --badbg:#FBEBE9;
+    --hi:#0F7A53; --mid:#8A6D2F; --f:'Inter',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--f);-webkit-font-smoothing:antialiased;line-height:1.5;font-feature-settings:"tnum" 1}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:840px;margin:0 auto;padding:0 28px}
+  .label{font-size:11px;letter-spacing:.11em;text-transform:uppercase;color:var(--faint);font-weight:700}
+
+  header{border-bottom:1px solid var(--line);background:rgba(252,252,251,.9);backdrop-filter:blur(10px);position:sticky;top:0;z-index:20}
+  .nav{max-width:1120px;margin:0 auto;padding:16px 28px;display:flex;align-items:center;justify-content:space-between}
+  .brand{font-weight:800;font-size:18px;letter-spacing:-.04em} .brand b{color:var(--accent)}
+  .brand span{font-weight:400;font-size:11px;color:var(--faint);margin-left:9px;letter-spacing:0}
+  .nav nav{font-size:14px;display:flex;gap:26px} .nav nav a{color:var(--muted);font-weight:500} .nav nav a:hover{color:var(--ink)} .nav nav .ag{color:var(--accent)}
+
+  /* compact list header */
+  .lhead{padding:44px 0 26px}
+  .lhead h1{font-size:38px;line-height:1.05;font-weight:800;letter-spacing:-.035em;margin:12px 0 12px}
+  .lhead .sub{font-size:17px;color:var(--muted);max-width:600px}
+  .meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+  .chip{font-size:12px;font-weight:600;padding:5px 11px;border-radius:999px;border:1px solid var(--line);color:var(--muted);display:inline-flex;align-items:center;gap:6px}
+  .chip.green{background:var(--okbg);border-color:transparent;color:var(--ok)}
+  .chip .dot{width:6px;height:6px;border-radius:50%;background:var(--ok)}
+
+  /* THE RANKING — leaderboard table */
+  .sec-label{display:flex;align-items:center;gap:12px;margin:30px 0 14px}
+  .sec-label h2{font-size:13px;font-weight:800;letter-spacing:.1em;text-transform:uppercase}
+  .sec-label .ln{flex:1;height:2px;background:var(--ink)}
+  .board{border:1px solid var(--line);border-radius:14px;overflow:hidden;background:#fff}
+  .board .hr{display:grid;grid-template-columns:46px 1fr 92px 132px;gap:14px;padding:11px 18px;background:var(--line2);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:700}
+  .row{display:grid;grid-template-columns:46px 1fr 92px 132px;gap:14px;padding:13px 18px;align-items:center;border-top:1px solid var(--line);transition:.12s}
+  .row:hover{background:var(--line2)}
+  .row .rk{font-size:18px;font-weight:800;color:var(--ink);letter-spacing:-.02em}
+  .row .nm{font-weight:700;font-size:16px;letter-spacing:-.01em}
+  .row .nm small{display:block;font-weight:500;font-size:12.5px;color:var(--muted);letter-spacing:0;margin-top:1px}
+  .row .pr{font-size:13px;color:var(--muted);font-weight:600}
+  .row .sc{display:flex;align-items:center;gap:9px;justify-content:flex-end}
+  .row .sc .v{font-size:16px;font-weight:800;letter-spacing:-.02em} .row .sc .v small{font-size:11px;color:var(--faint);font-weight:500}
+  .track{width:46px;height:5px;background:var(--line);border-radius:3px;overflow:hidden;flex-shrink:0}
+  .track i{display:block;height:100%;border-radius:3px;background:var(--ink)}
+  .row.top .sc .v{color:var(--hi)} .row.top .track i{background:var(--hi)}
+  .row.wc{background:linear-gradient(90deg,rgba(255,77,28,.07),transparent);border-top:1px solid rgba(255,77,28,.3)}
+  .row.wc .rk{color:var(--accent)} .row.wc .sc .v{color:var(--accent)} .row.wc .track i{background:var(--accent)}
+  .wcpill{display:inline-block;font-size:9px;font-weight:800;letter-spacing:.08em;background:var(--accent);color:#fff;padding:2px 6px;border-radius:4px;margin-left:8px;vertical-align:middle}
+
+  /* THE BREAKDOWN — lean cards */
+  .brk{padding:18px 0 90px}
+  .card{display:grid;grid-template-columns:62px 1fr;gap:18px;padding:22px 0;border-top:1px solid var(--line)}
+  .card .lft{text-align:center}
+  .card .lft .rk{font-size:30px;font-weight:800;letter-spacing:-.04em;line-height:1}
+  .card .lft .sc{margin-top:8px;font-size:20px;font-weight:800;letter-spacing:-.03em;color:var(--hi)}
+  .card .lft .sc small{display:block;font-size:10px;color:var(--faint);font-weight:600;letter-spacing:.05em}
+  .card .nm{font-size:21px;font-weight:700;letter-spacing:-.02em}
+  .card .nm:hover{color:var(--accent)}
+  .tags{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 12px}
+  .tag{font-size:12px;font-weight:600;padding:3px 9px;border-radius:6px;background:var(--line2);color:var(--muted)}
+  .tag.bf{background:#EEF4FB;color:#2563A8}
+  .verdict{font-size:16.5px;font-weight:600;letter-spacing:-.01em;line-height:1.45;margin-bottom:12px}
+  .pcs{display:flex;flex-direction:column;gap:6px;max-width:620px}
+  .pc{display:flex;gap:9px;font-size:14px;line-height:1.45;color:var(--muted)}
+  .pc .mk{font-weight:800;flex-shrink:0} .pc.p .mk{color:var(--ok)} .pc.c .mk{color:var(--bad)}
+  .act{display:flex;gap:18px;align-items:center;margin-top:14px;font-size:12.5px;color:var(--faint);font-weight:500}
+  .act b{color:var(--ink)} .act .g{color:var(--bad)}
+  .card.wc{background:linear-gradient(180deg,rgba(255,77,28,.05),transparent 70%);border-top:2px solid var(--accent);border-radius:0 0 14px 14px;padding:24px 18px;margin-left:-18px;margin-right:-18px;grid-template-columns:62px 1fr}
+  .card.wc .lft .rk,.card.wc .lft .sc{color:var(--accent)}
+  .card.wc .why{font-size:14px;color:var(--muted);line-height:1.5;background:rgba(255,77,28,.06);border-radius:8px;padding:11px 13px;margin-bottom:12px}
+  .card.wc .why b{color:var(--accent)}
+  @media(max-width:680px){
+    .lhead h1{font-size:30px}
+    .board .hr,.row{grid-template-columns:34px 1fr 70px;}
+    .board .hr .c-bf,.row .bf{display:none}
+    .card{grid-template-columns:48px 1fr;gap:12px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="brand" href="#">top<b>11</b><span>independent rankings</span></a>
+    <nav><a href="#">Lists</a><a href="#">Methodology</a><a class="ag" href="#">For Agents</a></nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="lhead">
+    <span class="label">List #001 · Fractional CFO Services</span>
+    <h1>Top 11 Fractional CFOs for Tech Startups</h1>
+    <p class="sub">Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+    <div class="meta">
+      <span class="chip green"><span class="dot"></span>Verified 3 days ago</span>
+      <span class="chip">Editor: Top 11 Editorial · anonymous</span>
+      <span class="chip">Capped at 9.4/9.4 · no perfect scores</span>
+    </div>
+  </div>
+
+  <!-- THE RANKING -->
+  <div class="sec-label"><h2>The Ranking</h2><div class="ln"></div></div>
+  <div class="board">
+    <div class="hr"><span>#</span><span>Firm · best for</span><span class="c-bf">Price</span><span style="text-align:right">Score</span></div>
+
+    <a class="row top" href="#e1"><span class="rk">1</span><span class="nm">Burkland Associates<small>Series A–C VC-backed SaaS</small></span><span class="pr bf">$$$</span><span class="sc"><span class="track"><i style="width:97%"></i></span><span class="v">9.1<small>/9.4</small></span></span></a>
+    <a class="row top" href="#e2"><span class="rk">2</span><span class="nm">Kruze Consulting<small>Seed–Series B · R&amp;D-credit heavy</small></span><span class="pr bf">$$$</span><span class="sc"><span class="track"><i style="width:95%"></i></span><span class="v">8.9<small>/9.4</small></span></span></a>
+    <a class="row top" href="#e3"><span class="rk">3</span><span class="nm">Graphite Financial<small>YC / accelerator early-stage</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:91%"></i></span><span class="v">8.6<small>/9.4</small></span></span></a>
+    <a class="row" href="#e4"><span class="rk">4</span><span class="nm">Pilot<small>Bookkeeping-first + CFO add-on</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:89%"></i></span><span class="v">8.4<small>/9.4</small></span></span></a>
+    <a class="row" href="#e5"><span class="rk">5</span><span class="nm">Zeni<small>AI-augmented stack + human CFO</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:87%"></i></span><span class="v">8.2<small>/9.4</small></span></span></a>
+    <a class="row" href="#e6"><span class="rk">6</span><span class="nm">Preferred CFO<small>Senior CFO outside SF/NYC</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:86%"></i></span><span class="v">8.1<small>/9.4</small></span></span></a>
+    <a class="row" href="#e7"><span class="rk">7</span><span class="nm">Driven Insights<small>Bootstrapped / revenue-funded</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:84%"></i></span><span class="v">7.9<small>/9.4</small></span></span></a>
+    <a class="row" href="#e8"><span class="rk">8</span><span class="nm">NOW CFO<small>Fast placement, broad US coverage</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:81%"></i></span><span class="v">7.6<small>/9.4</small></span></span></a>
+    <a class="row" href="#e9"><span class="rk">9</span><span class="nm">Paro<small>Hand-pick a sector-expert CFO</small></span><span class="pr bf">$$</span><span class="sc"><span class="track"><i style="width:80%"></i></span><span class="v">7.5<small>/9.4</small></span></span></a>
+    <a class="row" href="#e10"><span class="rk">10</span><span class="nm">The CFO Centre<small>International / multi-entity</small></span><span class="pr bf">$$$</span><span class="sc"><span class="track"><i style="width:79%"></i></span><span class="v">7.4<small>/9.4</small></span></span></a>
+    <a class="row wc" href="#e11"><span class="rk">11</span><span class="nm">TheCFOSquad<span class="wcpill">WILDCARD</span><small>AI-native startups</small></span><span class="pr bf">$</span><span class="sc"><span class="track"><i style="width:77%"></i></span><span class="v">7.2<small>/9.4</small></span></span></a>
+  </div>
+
+  <!-- THE BREAKDOWN -->
+  <div class="brk">
+    <div class="sec-label" style="margin-top:40px"><h2>The Breakdown</h2><div class="ln"></div></div>
+
+    <div class="card" id="e1"><div class="lft"><div class="rk">1</div><div class="sc">9.1<small>/9.4</small></div></div>
+      <div><a class="nm" href="#">Burkland Associates</a>
+        <div class="tags"><span class="tag bf">Series A–C VC-backed SaaS</span><span class="tag">$$$ · $5k–$25k/mo</span><span class="tag">SF · est. 2003</span></div>
+        <p class="verdict">The safe default for VC-backed US startups — board-fluent and deep-benched.</p>
+        <div class="pcs"><div class="pc p"><span class="mk">✓</span>Handles 409A, SaaS rev-rec, and Series B+ raises without missing a beat.</div><div class="pc c"><span class="mk">✕</span>Too pricey for pre-seed; slower response at quarter-close.</div></div>
+        <div class="act"><span>Rank right? <b>▲ 42</b> · ▼ 3</span><span class="g">Gripe →</span></div>
+      </div>
+    </div>
+
+    <div class="card" id="e2"><div class="lft"><div class="rk">2</div><div class="sc">8.9<small>/9.4</small></div></div>
+      <div><a class="nm" href="#">Kruze Consulting</a>
+        <div class="tags"><span class="tag bf">Seed–Series B · R&amp;D-credit heavy</span><span class="tag">$$$ · $2.5k–$15k/mo</span><span class="tag">SF · est. 2012</span></div>
+        <p class="verdict">Best R&amp;D tax-credit work in the US — the engagement often pays for itself.</p>
+        <div class="pcs"><div class="pc p"><span class="mk">✓</span>R&amp;D credit reclaims routinely exceed their own fee.</div><div class="pc c"><span class="mk">✕</span>Weak for hardware / non-US; productised model is less flexible.</div></div>
+        <div class="act"><span>Rank right? <b>▲ 31</b> · ▼ 5</span><span class="g">Gripe →</span></div>
+      </div>
+    </div>
+
+    <div class="card" id="e3"><div class="lft"><div class="rk">3</div><div class="sc">8.6<small>/9.4</small></div></div>
+      <div><a class="nm" href="#">Graphite Financial</a>
+        <div class="tags"><span class="tag bf">YC / accelerator early-stage</span><span class="tag">$$ · $1.5k–$8k/mo</span><span class="tag">NYC · est. 2017</span></div>
+        <p class="verdict">The YC favourite — modern stack, priced for your first finance hire.</p>
+        <div class="pcs"><div class="pc p"><span class="mk">✓</span>Founder-friendly onboarding; happily takes pre-revenue clients.</div><div class="pc c"><span class="mk">✕</span>Shallow bench; you'll likely outgrow it past $15M ARR.</div></div>
+        <div class="act"><span>Rank right? <b>▲ 27</b> · ▼ 2</span><span class="g">Gripe →</span></div>
+      </div>
+    </div>
+
+    <div class="card wc" id="e11"><div class="lft"><div class="rk">11</div><div class="sc">7.2<small>/9.4</small></div></div>
+      <div><a class="nm" href="#" style="color:var(--accent)">TheCFOSquad <span class="wcpill">WILDCARD</span></a>
+        <div class="tags"><span class="tag bf">AI-native startups</span><span class="tag">$ · $1.5k–$6k/mo</span><span class="tag">Remote · est. 2023</span></div>
+        <div class="why"><b>Why the Wildcard:</b> the one we couldn't cut. Their CFOs are AI-native — they live in Claude, ChatGPT, and your own product. For an AI startup, that beats 20 years of legacy.</div>
+        <p class="verdict">AI-native CFOs who live in your LLM stack — priced for your first hire.</p>
+        <div class="pcs"><div class="pc p"><span class="mk">✓</span>Engages with your product like a user, not a number-cruncher.</div><div class="pc c"><span class="mk">✕</span>Too new for a downturn track record; limited bench.</div></div>
+        <div class="act"><span>Rank right? <b>▲ 58</b> · ▼ 9</span><span class="g">Gripe →</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

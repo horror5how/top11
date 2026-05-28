@@ -1,0 +1,79 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Wondermous Hero A — Command Palette</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--ac:#ff5722;--ac2:#ff8a5c}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#08080a;color:#fff;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.wrap{position:relative;min-height:100vh;display:flex;flex-direction:column;overflow:hidden}
+/* animated background */
+.bg{position:absolute;inset:0;z-index:0;overflow:hidden}
+.grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:48px 48px;mask-image:radial-gradient(ellipse 70% 60% at 50% 38%,#000 35%,transparent 75%);-webkit-mask-image:radial-gradient(ellipse 70% 60% at 50% 38%,#000 35%,transparent 75%)}
+.glow{position:absolute;border-radius:50%;filter:blur(120px)}
+.g1{width:60vw;height:60vw;left:18%;top:-18%;background:rgba(255,87,34,.22);animation:drift 20s ease-in-out infinite}
+.g2{width:46vw;height:46vw;right:-6%;top:6%;background:rgba(168,85,247,.14);animation:drift2 26s ease-in-out infinite}
+@keyframes drift{0%,100%{transform:translate(-6%,-4%) scale(1.05)}50%{transform:translate(6%,6%) scale(1.22)}}
+@keyframes drift2{0%,100%{transform:translate(8%,3%) scale(1.1)}50%{transform:translate(-8%,-7%) scale(1.25)}}
+.tok{position:absolute;font-family:'JetBrains Mono';font-size:12px;color:rgba(255,255,255,.10);white-space:nowrap;animation:rise linear infinite}
+@keyframes rise{from{transform:translateY(40px);opacity:0}10%{opacity:1}90%{opacity:1}to{transform:translateY(-90vh);opacity:0}}
+nav{position:relative;z-index:5;max-width:1100px;margin:0 auto;width:100%;padding:22px 28px;display:flex;justify-content:space-between;align-items:center}
+.brand{font-weight:900;font-size:20px;letter-spacing:-.04em}.brand b{color:var(--ac)}
+nav .links{display:flex;gap:22px;font-size:14px;color:rgba(255,255,255,.55)}
+.hero{position:relative;z-index:5;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px 24px 60px}
+.ey{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.04);border-radius:99px;padding:7px 14px;font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.6);margin-bottom:26px}
+.dot{width:6px;height:6px;border-radius:50%;background:#28c840;box-shadow:0 0 0 0 rgba(40,200,64,.5);animation:pulse 2s infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 7px rgba(40,200,64,0)}100%{box-shadow:0 0 0 0 rgba(40,200,64,0)}}
+h1{font-size:clamp(46px,8vw,90px);font-weight:900;letter-spacing:-.045em;line-height:.95}
+.grad{background:linear-gradient(100deg,#fff,#ffd9c7 35%,var(--ac) 55%,#ffd9c7 75%,#fff);background-size:200% auto;-webkit-background-clip:text;background-clip:text;color:transparent;animation:sh 6s linear infinite}
+@keyframes sh{to{background-position:200% center}}
+.sub{margin:22px auto 0;max-width:560px;font-size:19px;line-height:1.55;color:rgba(255,255,255,.55)}
+/* command palette */
+.palette{margin-top:34px;width:100%;max-width:620px}
+.activity{font-family:'JetBrains Mono';font-size:13px;text-align:left;background:rgba(12,12,16,.7);border:1px solid rgba(255,255,255,.1);border-radius:14px;padding:14px 16px;min-height:84px;backdrop-filter:blur(8px)}
+.activity .q{color:rgba(255,255,255,.9)}.activity .q .pfx{color:var(--ac2)}
+.activity .r{color:var(--ac2);margin-top:8px;opacity:0;transition:opacity .3s}
+.activity .r.show{opacity:1}
+.caret{display:inline-block;width:8px;height:15px;background:var(--ac);margin-left:2px;vertical-align:-2px;animation:blink 1s step-end infinite}
+@keyframes blink{50%{opacity:0}}
+.searchwrap{position:relative;margin-top:14px}
+.searchwrap .ring{position:absolute;inset:-2px;border-radius:16px;background:linear-gradient(90deg,rgba(255,87,34,.5),rgba(217,70,239,.25),rgba(34,211,238,.35));filter:blur(7px);opacity:.55}
+.search{position:relative;display:flex;align-items:center;gap:12px;background:rgba(14,14,18,.92);border:1px solid rgba(255,255,255,.16);border-radius:16px;padding:16px 18px;backdrop-filter:blur(8px)}
+.search input{flex:1;background:transparent;border:0;outline:0;color:#fff;font-size:17px}
+.search input::placeholder{color:rgba(255,255,255,.36)}
+.search .k{font-family:'JetBrains Mono';font-size:11px;color:rgba(255,255,255,.4);border:1px solid rgba(255,255,255,.14);border-radius:6px;padding:4px 7px}
+.trust{margin-top:22px;font-family:'JetBrains Mono';font-size:11px;color:rgba(255,255,255,.32);letter-spacing:.04em}
+.tag{position:fixed;bottom:14px;left:0;right:0;text-align:center;font-size:11px;color:rgba(255,255,255,.3);letter-spacing:.2em;text-transform:uppercase}
+</style></head>
+<body>
+<div class="wrap">
+  <div class="bg"><div class="grid"></div><div class="glow g1"></div><div class="glow g2"></div><div id="toks"></div></div>
+  <nav><div class="brand">Wonder<b>mous</b></div><div class="links"><span>Lists</span><span>Methodology</span><span style="color:var(--ac2)">For Agents</span></div></nav>
+  <div class="hero">
+    <div class="ey"><span class="dot"></span>AI-native · made for agents</div>
+    <h1>AI asks.<br><span class="grad">We answer.</span></h1>
+    <p class="sub">One ranked list per niche — the Top 11, plus the wildcard everyone else misses. Re-ranked the moment the market moves.</p>
+    <div class="palette">
+      <div class="activity"><div class="q"><span class="pfx">agent ▸ </span><span id="typed"></span><span class="caret"></span></div><div class="r" id="result"></div></div>
+      <div class="searchwrap"><div class="ring"></div><div class="search">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,.4)" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input placeholder="Or search a niche yourself…"/><span class="k">⏎</span>
+      </div></div>
+      <div class="trust">no paid placement · public methodology · updated live · open to every AI agent</div>
+    </div>
+  </div>
+</div>
+<div class="tag">Hero Option A — Command Palette</div>
+<script>
+// floating tokens
+const toks=document.getElementById('toks');const words=['best CRM for…','top 11 →','fractional CFO','dental · multi-visit','GET /api/lists','recommend()','#1 Open Dental','re-ranked','MCP ▸ get_list','niche → list','9.0/9.4','wildcard #11'];
+for(let i=0;i<16;i++){const s=document.createElement('div');s.className='tok';s.textContent=words[i%words.length];s.style.left=(Math.random()*100)+'%';s.style.bottom='-20px';s.style.animationDuration=(10+Math.random()*12)+'s';s.style.animationDelay=(-Math.random()*14)+'s';toks.appendChild(s);}
+// typing demo
+const demos=[['best CRM for a dentist seeing one patient 5–6x a day','→ Top 11 · Dental CRMs — #1 Open Dental  (9.0/9.4)'],['fractional CFO to get a SaaS startup fundraise-ready','→ Top 11 · Fractional CFOs — #1 Burkland  (9.1/9.4)'],['cheapest dental software for a pre-seed practice','→ Top 11 · Dental CRMs — Practice-Web  ($109/mo)'],['CFO for an international startup, UK + Asia entities','→ Top 11 · Fractional CFOs — The CFO Centre  (#10)']];
+const typed=document.getElementById('typed'),result=document.getElementById('result');let di=0;
+function run(){const [q,r]=demos[di];let i=0;result.classList.remove('show');typed.textContent='';
+  const t=setInterval(()=>{typed.textContent=q.slice(0,++i);if(i>=q.length){clearInterval(t);setTimeout(()=>{result.textContent=r;result.classList.add('show');},350);setTimeout(()=>{di=(di+1)%demos.length;run();},3200);}},38);}
+run();
+</script>
+</body></html>

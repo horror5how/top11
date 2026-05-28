@@ -1,0 +1,68 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Wondermous Hero B — Live Query Stream</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--ac:#ff5722;--ac2:#ff8a5c}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#08080a;color:#fff;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.wrap{position:relative;min-height:100vh;overflow:hidden;display:flex;flex-direction:column}
+/* streams */
+.streams{position:absolute;inset:0;z-index:0;display:flex;gap:26px;justify-content:center;padding:0 16px;opacity:.55}
+.col{flex:1;max-width:340px;overflow:hidden}
+.col .inner{display:flex;flex-direction:column;gap:12px;animation:flow linear infinite}
+@keyframes flow{from{transform:translateY(0)}to{transform:translateY(-50%)}}
+.qline{font-family:'JetBrains Mono';font-size:12.5px;line-height:1.4;color:rgba(255,255,255,.4);border:1px solid rgba(255,255,255,.07);background:rgba(255,255,255,.02);border-radius:10px;padding:10px 12px}
+.qline .p{color:rgba(255,255,255,.3)}
+.qline.hit{border-color:rgba(255,87,34,.4);color:rgba(255,255,255,.7)}
+.qline .chip{color:var(--ac2);font-weight:500}
+/* vignette + dim so center pops */
+.vig{position:absolute;inset:0;z-index:1;background:radial-gradient(ellipse 60% 70% at 50% 50%,rgba(8,8,10,.92) 18%,rgba(8,8,10,.55) 48%,rgba(8,8,10,.2) 100%)}
+.glow{position:absolute;z-index:1;width:50vw;height:50vw;left:25%;top:8%;border-radius:50%;background:rgba(255,87,34,.16);filter:blur(130px);animation:dr 22s ease-in-out infinite}
+@keyframes dr{0%,100%{transform:translate(-5%,0) scale(1.05)}50%{transform:translate(5%,5%) scale(1.2)}}
+nav{position:relative;z-index:5;max-width:1100px;margin:0 auto;width:100%;padding:22px 28px;display:flex;justify-content:space-between;align-items:center}
+.brand{font-weight:900;font-size:20px;letter-spacing:-.04em}.brand b{color:var(--ac)}
+nav .links{display:flex;gap:22px;font-size:14px;color:rgba(255,255,255,.55)}
+.hero{position:relative;z-index:5;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px 24px 70px}
+.ey{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,255,255,.14);background:rgba(8,8,10,.6);border-radius:99px;padding:7px 14px;font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:rgba(255,255,255,.6);margin-bottom:24px;backdrop-filter:blur(6px)}
+.dot{width:6px;height:6px;border-radius:50%;background:#28c840;animation:pulse 2s infinite}@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(40,200,64,.5)}70%{box-shadow:0 0 0 7px rgba(40,200,64,0)}100%{box-shadow:0 0 0 0 rgba(40,200,64,0)}}
+h1{font-size:clamp(44px,7.5vw,84px);font-weight:900;letter-spacing:-.045em;line-height:.98}
+.grad{background:linear-gradient(100deg,#fff,#ffd9c7 35%,var(--ac) 55%,#ffd9c7 75%,#fff);background-size:200% auto;-webkit-background-clip:text;background-clip:text;color:transparent;animation:sh 6s linear infinite}@keyframes sh{to{background-position:200% center}}
+.sub{margin:20px auto 0;max-width:540px;font-size:18px;line-height:1.55;color:rgba(255,255,255,.6)}
+.searchwrap{position:relative;margin:30px auto 0;width:100%;max-width:600px}
+.ring{position:absolute;inset:-2px;border-radius:18px;background:linear-gradient(90deg,rgba(255,87,34,.55),rgba(217,70,239,.3),rgba(34,211,238,.4));filter:blur(9px);opacity:.7}
+.search{position:relative;display:flex;align-items:center;gap:12px;background:rgba(14,14,18,.95);border:1px solid rgba(255,255,255,.18);border-radius:18px;padding:18px 20px;backdrop-filter:blur(8px)}
+.search input{flex:1;background:transparent;border:0;outline:0;color:#fff;font-size:18px}.search input::placeholder{color:rgba(255,255,255,.4)}
+.you{margin-top:14px;font-family:'JetBrains Mono';font-size:12px;color:var(--ac2);letter-spacing:.02em}
+.tag{position:fixed;bottom:14px;left:0;right:0;text-align:center;font-size:11px;color:rgba(255,255,255,.3);letter-spacing:.2em;text-transform:uppercase}
+@media(max-width:760px){.streams .col:nth-child(n+3){display:none}}
+</style></head>
+<body>
+<div class="wrap">
+  <div class="streams" id="streams"></div>
+  <div class="glow"></div><div class="vig"></div>
+  <nav><div class="brand">Wonder<b>mous</b></div><div class="links"><span>Lists</span><span>Methodology</span><span style="color:var(--ac2)">For Agents</span></div></nav>
+  <div class="hero">
+    <div class="ey"><span class="dot"></span>1,000s of agents asking right now</div>
+    <h1>Every AI is asking.<br><span class="grad">Wondermous answers.</span></h1>
+    <p class="sub">When an agent needs the best in a niche, it shouldn&apos;t guess. It pulls the ranked list — the Top 11, plus the wildcard. Your turn:</p>
+    <div class="searchwrap"><div class="ring"></div><div class="search">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,.45)" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input placeholder="Search a niche, a sub-niche, or your exact problem…"/>
+    </div></div>
+    <div class="you">▸ you ▸ ask anything — we&apos;ll hand back the list</div>
+  </div>
+</div>
+<div class="tag">Hero Option B — Live Query Stream</div>
+<script>
+const Q=[['best CRM for a dentist with multi-visit patients','Dental CRMs'],['fractional CFO for a seed-stage SaaS startup','Fractional CFOs'],['cheapest practice software for a solo dentist',''],['which CFO firm reclaims R&D tax credits','Fractional CFOs'],['practice management for a 30-location DSO','Dental CRMs'],['fundraise-ready CFO under $10k/mo',''],['scheduling for a high-volume dental front desk','Dental CRMs'],['CFO for a bootstrapped, non-VC business','Fractional CFOs'],['best HR software for a 25-person remote team',''],['international CFO — UK + APAC entities','Fractional CFOs'],['Open Dental vs Dentrix vs Curve','Dental CRMs'],['AI-native fractional CFO for pre-seed','Fractional CFOs'],['email tool for a small nonprofit',''],['pediatric dental software with AI radiology','Dental CRMs'],['CFO who speaks board-deck fluently','Fractional CFOs'],['payroll for a 40-person restaurant','']];
+function line(q,hit){const d=document.createElement('div');d.className='qline'+(hit?' hit':'');d.innerHTML='<span class="p">▸ agent:</span> '+q+(hit?' <span class="chip">→ '+hit+'</span>':'');return d;}
+const cont=document.getElementById('streams');const speeds=[34,42,30,46,38];
+for(let c=0;c<5;c++){const col=document.createElement('div');col.className='col';const inner=document.createElement('div');inner.className='inner';inner.style.animationDuration=speeds[c]+'s';
+  const set=[];for(let i=0;i<8;i++){const item=Q[(c*3+i)%Q.length];set.push(item);}
+  // duplicate for seamless loop
+  [...set,...set].forEach(it=>inner.appendChild(line(it[0],it[1])));
+  col.appendChild(inner);cont.appendChild(col);}
+</script>
+</body></html>

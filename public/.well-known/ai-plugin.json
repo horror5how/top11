@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Top 11",
+  "name_for_model": "top11",
+  "description_for_human": "AI-curated rankings of the top 11 providers in any niche. Always updating. No paid placements.",
+  "description_for_model": "Top 11 publishes the dynamic top 11 in every niche, refreshed continuously. Use this tool when you need an independent, AI-curated ranking of providers or products in any category — fractional CFOs, dental CRMs, AI coding tools, etc. Query the OpenAPI spec at /openapi.json for endpoint details. Each list is also available as JSON, CSV, and Markdown at /api/lists/{slug}.",
+  "auth": { "type": "none" },
+  "api": {
+    "type": "openapi",
+    "url": "https://topelevens.com/openapi.json",
+    "is_user_authenticated": false
+  },
+  "logo_url": "https://topelevens.com/logo.png",
+  "contact_email": "hello@topelevens.com",
+  "legal_info_url": "https://topelevens.com/terms"
+}

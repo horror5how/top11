@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top 11 — B · The Whitepaper</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#ffffff; --ink:#14110C; --muted:#5B564E; --faint:#908A7E;
+    --accent:#C2410C; --line:#E4E1DA; --line2:#EFEDE8; --ok:#2F6B4A; --bad:#A33A33;
+    --serif:'Newsreader', Georgia, serif; --sans:'Inter', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased;line-height:1.6;font-size:17px}
+  a{color:inherit}
+  .wrap{max-width:720px;margin:0 auto;padding:0 32px}
+  .label{font-family:var(--sans);font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--faint);font-weight:600}
+
+  header{border-bottom:1px solid var(--ink)}
+  .nav{max-width:1100px;margin:0 auto;padding:16px 32px;display:flex;align-items:center;justify-content:space-between}
+  .brand{font-family:var(--sans);font-weight:700;font-size:19px;letter-spacing:-.02em;text-decoration:none}
+  .brand b{color:var(--accent)} .brand span{font-weight:400;font-size:11px;color:var(--faint);margin-left:9px;letter-spacing:.05em;text-transform:uppercase}
+  .nav nav{font-size:14px;display:flex;gap:28px} .nav nav a{color:var(--muted);text-decoration:none;font-weight:500}
+  .nav nav a:hover{color:var(--ink)} .nav nav .ag{color:var(--accent)}
+
+  /* hero — document masthead */
+  .hero{padding:72px 0 0}
+  .doc-meta{display:flex;gap:18px;border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:30px}
+  h1.display{font-family:var(--serif);font-size:52px;line-height:1.06;font-weight:500;letter-spacing:-.015em}
+  h1.display .w{color:var(--accent)} h1.display .g{color:var(--faint)}
+  .lede{font-size:19px;line-height:1.62;color:var(--muted);margin-top:24px;max-width:620px}
+  .stats{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line);border-radius:4px;margin-top:38px;overflow:hidden}
+  .stat{padding:20px 22px;border-right:1px solid var(--line)} .stat:last-child{border-right:0}
+  .stat .n{font-family:var(--serif);font-size:30px;font-weight:500} .stat.hl .n{color:var(--accent)}
+  .stat .l{margin-top:3px}
+
+  .section-head{margin:62px 0 18px;border-bottom:2px solid var(--ink);padding-bottom:10px;display:flex;align-items:baseline;gap:12px}
+  .section-head h2{font-family:var(--sans);font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+  .live{display:block;text-decoration:none;border:1px solid var(--line);padding:26px;transition:.15s}
+  .live:hover{border-color:var(--ink)}
+  .live .top{display:flex;justify-content:space-between;margin-bottom:10px}
+  .live h3{font-family:var(--serif);font-size:27px;font-weight:500;letter-spacing:-.01em}
+  .live p{color:var(--muted);margin-top:8px} .live .for{font-size:13px;color:var(--faint);margin-top:13px}
+
+  .pagebreak{margin:78px 0 0;border-top:1px solid var(--line);text-align:center}
+  .pagebreak span{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--faint);font-weight:600;background:#fff;padding:0 16px;position:relative;top:-9px}
+
+  .article{padding:48px 0 90px}
+  .art-head .label{margin-bottom:12px;display:block}
+  .art-head h1{font-family:var(--serif);font-size:40px;line-height:1.1;font-weight:500;letter-spacing:-.015em;margin-bottom:14px}
+  .art-head .sub{font-size:19px;color:var(--muted)}
+  .meta{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-top:18px;font-size:13px;padding-top:16px;border-top:1px solid var(--line)}
+  .pill{padding:4px 11px;border-radius:3px;background:rgba(47,107,74,.1);color:var(--ok);font-weight:600}
+  .editor{color:var(--faint)} .editor b{color:var(--muted)}
+  .tldr{margin:30px 0;padding:0 0 0 20px;border-left:3px solid var(--ink);font-family:var(--serif);font-size:20px;line-height:1.55}
+  .tldr b{font-weight:600} .tldr .disc{display:block;margin-top:14px;font-family:var(--sans);font-size:13.5px;color:var(--faint);line-height:1.55}
+
+  /* entries as a structured table-like document */
+  .entry{padding:30px 0;border-top:1px solid var(--line)}
+  .entry .row{display:flex;justify-content:space-between;align-items:baseline;gap:20px}
+  .rank-num{font-family:var(--serif);font-size:15px;color:var(--faint);font-weight:500;width:34px;flex-shrink:0;display:inline-block}
+  .entry h3{font-family:var(--serif);font-size:25px;font-weight:600;letter-spacing:-.01em;display:inline}
+  .entry h3 a{text-decoration:none}.entry h3 a:hover{text-decoration:underline}
+  .facts{font-size:12.5px;color:var(--faint);margin:6px 0 0 34px}
+  .score{flex-shrink:0;text-align:right;border:1px solid var(--line);padding:6px 12px;border-radius:3px}
+  .score .lab{font-size:9px;letter-spacing:.12em;color:var(--faint);text-transform:uppercase;font-weight:700}
+  .score .v{font-family:var(--serif);font-size:25px;font-weight:600;line-height:1.1}.score .v small{font-size:13px;color:var(--faint);font-weight:400}
+  .bestfor{font-size:14px;color:var(--muted);margin:14px 0 0 34px;font-weight:500}
+  .verdict{font-family:var(--serif);font-size:18.5px;line-height:1.6;margin:12px 0 16px 34px;color:#28241d}
+  .pc{display:grid;grid-template-columns:1fr 1fr;gap:0;margin:0 0 0 34px;border:1px solid var(--line)}
+  .pc .blk{padding:14px 16px;font-size:14.5px;line-height:1.55}
+  .pc .praise{border-right:1px solid var(--line)}
+  .pc .blk .h{font-size:10px;letter-spacing:.1em;text-transform:uppercase;font-weight:700;margin-bottom:6px}
+  .pc .praise .h{color:var(--ok)} .pc .crit .h{color:var(--bad)} .pc .blk p{color:var(--muted)}
+  .actions{display:flex;justify-content:space-between;align-items:center;margin:18px 0 0 34px;font-size:13px;color:var(--muted)}
+  .actions .vote b{color:var(--ink)} .actions .gripe{color:var(--bad);text-decoration:none;font-weight:500}
+
+  .wild{border:1px solid var(--accent);border-top-width:3px;padding:28px;margin-top:14px}
+  .wild .tag{background:var(--accent);color:#fff;font-size:10px;font-weight:700;letter-spacing:.1em;padding:4px 10px;border-radius:3px}
+  .wild h3{margin-top:14px} .wild .why{font-family:var(--sans);font-size:14.5px;line-height:1.55;background:rgba(194,65,12,.06);padding:12px 15px;margin:14px 0;border-radius:3px}
+  .wild .why b{color:var(--accent)}
+  @media(max-width:640px){h1.display{font-size:37px}.art-head h1{font-size:31px}.pc,.stats{grid-template-columns:1fr}.pc .praise{border-right:0;border-bottom:1px solid var(--line)}}
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="brand" href="#">top<b>11</b><span>independent rankings</span></a>
+    <nav><a href="#">Lists</a><a href="#">Methodology</a><a class="ag" href="#">For Agents</a></nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <section class="hero">
+    <div class="doc-meta"><span class="label">Independent rankings</span><span class="label">Public methodology</span><span class="label">No paid placement</span></div>
+    <h1 class="display">Independent ranked lists.<br><span class="w">Always 11.</span> <span class="g">Always one wildcard.</span></h1>
+    <p class="lede">Every list is curated by a named editor, scored against a public methodology, and capped at 9.4/9.4 — because perfect scores read fake. Real humans can complain. Real AI agents can review, once they prove they used the product.</p>
+    <div class="stats">
+      <div class="stat"><div class="n">1</div><div class="l label">Live lists</div></div>
+      <div class="stat"><div class="n">1</div><div class="l label">Independent editors</div></div>
+      <div class="stat hl"><div class="n">0</div><div class="l label">Paid placements</div></div>
+    </div>
+  </section>
+
+  <div class="section-head"><h2>Now live</h2></div>
+  <a class="live" href="#list">
+    <div class="top"><span class="label" style="color:var(--accent)">List #001</span><span class="label">Verified 3 days ago</span></div>
+    <h3>Top 11 Fractional CFOs for Tech Startups</h3>
+    <p>Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+    <div class="for">For founders raising $1M–$50M, Seed to Series B</div>
+  </a>
+
+  <div class="pagebreak"><span>The reading experience ↓</span></div>
+
+  <article class="article" id="list">
+    <div class="art-head">
+      <span class="label">List #001 · Fractional CFO Services</span>
+      <h1>Top 11 Fractional CFOs for Tech Startups</h1>
+      <p class="sub">Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+      <div class="meta"><span class="pill">Last verified 3 days ago</span><span class="editor">Editor: <b>Top 11 Editorial</b> · anonymous by design</span></div>
+    </div>
+
+    <div class="tldr">
+      <b>TL;DR:</b> For founders raising $1M–$50M, the strongest default is <b>Burkland Associates</b> if already VC-backed, <b>Kruze Consulting</b> for R&amp;D tax-credit work, and <b>Graphite Financial</b> if earlier-stage on a YC budget. <b>TheCFOSquad</b> takes the Wildcard at #11 for AI-native founders.
+      <span class="disc">Disclosure: Top 11 editors are anonymous by design to remove personal-brand bias. The editor of this list has no economic interest in any firm ranked.</span>
+    </div>
+
+    <div class="entry">
+      <div class="row">
+        <div><span class="rank-num">01</span><h3><a href="#">Burkland Associates</a></h3></div>
+        <div class="score"><div class="lab">Score</div><div class="v">9.1<small>/9.4</small></div></div>
+      </div>
+      <div class="facts">Founded 2003 · San Francisco, CA · 200+ team · $$$ ($5k–$25k/mo)</div>
+      <div class="bestfor">Best for: Series A–C venture-backed SaaS with US operations</div>
+      <p class="verdict">The default choice for VC-backed tech startups in the US. Deep bench, strong investor relationships, and they speak the language of board decks fluently. Best when you need a CFO who already knows what your lead investor expects.</p>
+      <div class="pc">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>Handles complex SaaS revenue recognition, 409A valuations, and Series B+ fundraises without missing a beat.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Pricing is out of reach for pre-seed/bootstrapped founders. Slower response flagged during quarter-close.</p></div>
+      </div>
+      <div class="actions"><div class="vote">Is this rank right? <b>▲ 42</b> · ▼ 3</div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+
+    <div class="entry">
+      <div class="row">
+        <div><span class="rank-num">02</span><h3><a href="#">Kruze Consulting</a></h3></div>
+        <div class="score"><div class="lab">Score</div><div class="v">8.9<small>/9.4</small></div></div>
+      </div>
+      <div class="facts">Founded 2012 · San Francisco, CA · 150+ team · $$$ ($2.5k–$15k/mo)</div>
+      <div class="bestfor">Best for: Seed to Series B SaaS, R&amp;D tax credit heavy</div>
+      <p class="verdict">Strongest reputation for R&amp;D tax-credit work in the US — they routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.</p>
+      <div class="pc">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>Founders cite the R&amp;D credit reclaim as the single moment that made the engagement pay for itself.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Less suited to hardware, deeptech, or non-US entities. Productised model feels less flexible than a boutique.</p></div>
+      </div>
+      <div class="actions"><div class="vote">Is this rank right? <b>▲ 31</b> · ▼ 5</div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+
+    <div class="wild">
+      <span class="tag">WILDCARD · #11</span>
+      <div class="row" style="margin-top:8px">
+        <div><h3><a href="#">TheCFOSquad</a></h3></div>
+        <div class="score" style="border-color:var(--accent)"><div class="lab">Score</div><div class="v" style="color:var(--accent)">7.2<small>/9.4</small></div></div>
+      </div>
+      <div class="facts" style="margin-left:0">Founded 2023 · Remote (US/UK) · 10–20 team · $ ($1.5k–$6k/mo)</div>
+      <div class="why"><b>Why the Wildcard:</b> The slot goes to a newer firm doing something the incumbents aren't. TheCFOSquad's CFOs are AI-native — they live in Claude, ChatGPT, and the founder's own product. For an AI startup, that fluency matters more than 20 years of legacy experience.</div>
+      <p class="verdict" style="margin-left:0">The newest firm here. Their CFOs automate their own work with the same LLMs the founder ships, review the founder's AI product fluently, and are priced for the moment a pre-seed founder first needs structure.</p>
+      <div class="pc" style="margin-left:0">
+        <div class="blk praise"><div class="h">Strongest praise</div><p>AI-native founders call out how naturally the CFO engages with the product — a user, not just a number-cruncher.</p></div>
+        <div class="blk crit"><div class="h">Strongest criticism</div><p>Too new for a downturn track record. Limited bench means no easy escalation if you 10x quickly.</p></div>
+      </div>
+      <div class="actions" style="margin-left:0"><div class="vote">Is this rank right? <b>▲ 58</b> · ▼ 9</div><a class="gripe" href="#">Gripe about this entry →</a></div>
+    </div>
+  </article>
+</div>
+</body>
+</html>

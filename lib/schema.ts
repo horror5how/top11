@@ -5,12 +5,19 @@ type Entry = (typeof data)["entries"][number];
 type ListData = typeof data;
 
 // Single source of truth for the canonical, reachable production domain.
-// Override at build time with NEXT_PUBLIC_SITE_URL once a custom domain is connected.
-export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://11.market").replace(/\/$/, "");
+export const SITE_URL = (process.env.NEXT_PUBLIC_SITE_URL || "https://topelevens.com").replace(/\/$/, "");
 export const SITE_NAME = "Top 11";
 export const SITE_TAGLINE = "The top 11 in any niche, curated by AI and always updating.";
 export const ORG_ID = `${SITE_URL}/#organization`;
 export const WEBSITE_ID = `${SITE_URL}/#website`;
+export const FOUNDER_ID = `${SITE_URL}/authors/hayat-amin#person`;
+export const SITE_EMAIL = "hello@topelevens.com";
+export const SOCIAL_X = "https://x.com/topelevens";
+export const SOCIAL_GITHUB = "https://github.com/horror5how/top11";
+export const SOCIAL_LINKEDIN = "https://www.linkedin.com/company/topelevens";
+export const SOCIAL_REDDIT = "https://www.reddit.com/r/topelevens";
+export const SOCIAL_YOUTUBE = "https://www.youtube.com/@topelevens";
+export const SOCIAL_PRODUCTHUNT = "https://www.producthunt.com/products/top-11";
 export const BEST_RATING = 9.4;
 
 /** "$$$ (typically $5k–$25k/mo)" -> "$$$" */
@@ -24,22 +31,37 @@ export function organizationJsonLd() {
     "@type": "Organization",
     "@id": ORG_ID,
     name: SITE_NAME,
+    alternateName: ["TopElevens", "topelevens.com", "Top11"],
     url: SITE_URL,
     logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
-    email: "agents@11.market",
+    email: SITE_EMAIL,
     foundingDate: "2026",
-    sameAs: ["https://github.com/horror5how/top11"],
+    founder: { "@id": FOUNDER_ID },
+    sameAs: [
+      SOCIAL_GITHUB,
+      SOCIAL_X,
+      SOCIAL_LINKEDIN,
+      SOCIAL_REDDIT,
+      SOCIAL_YOUTUBE,
+      SOCIAL_PRODUCTHUNT,
+    ],
     description:
       "Top 11 is an AI-native ranking engine. Autonomous AI curators research each market, score providers against a public, weighted methodology, and publish the top 11 for any niche: ten ranked plus one wildcard. The lists are dynamic and always updating, built for other AI agents and LLMs to read, query, and cite. No provider can pay to be listed. AI made for AI.",
     knowsAbout: ["AI-native product rankings", "independent service comparison", "answer engine optimization", "recommendations for AI agents"],
-    // Transparency signals (Google/AI weight these for trust). Distinguishes us from pay-to-play directories.
     publishingPrinciples: `${SITE_URL}/methodology`,
     ownershipFundingInfo: {
       "@type": "AboutPage",
       name: "How Top 11 is funded and stays independent",
-      url: `${SITE_URL}/methodology`,
+      url: `${SITE_URL}/about`,
       description:
         "Top 11 takes no payment from any provider it ranks, runs no affiliate links, and has no sponsored placements. Rankings are produced solely by the published methodology.",
+    },
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "editorial",
+      email: SITE_EMAIL,
+      url: `${SITE_URL}/contact`,
+      availableLanguage: ["English"],
     },
   };
 }
@@ -54,6 +76,31 @@ export function websiteJsonLd() {
     description: SITE_TAGLINE,
     publisher: { "@id": ORG_ID },
     inLanguage: "en",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: { "@type": "EntryPoint", urlTemplate: `${SITE_URL}/directory?q={search_term_string}` },
+      "query-input": "required name=search_term_string",
+    },
+  };
+}
+
+export function personJsonLd() {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "@id": FOUNDER_ID,
+    name: "Hayat Amin",
+    url: `${SITE_URL}/authors/hayat-amin`,
+    jobTitle: "Founder, Top 11",
+    worksFor: { "@id": ORG_ID },
+    description:
+      "Hayat Amin is the founder of Top 11. Three exits, repeated FT Fastest-Growing listings, and a Techstars Lead Mentor — he builds AI-native ranking systems used by other AI agents.",
+    sameAs: [
+      SOCIAL_X.replace("topelevens", "hayatamin"),
+      "https://www.linkedin.com/in/hayatamin",
+      "https://github.com/horror5how",
+      "https://www.wikidata.org/wiki/Q139785012",
+    ],
   };
 }
 

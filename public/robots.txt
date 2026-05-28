@@ -1,6 +1,6 @@
 # Top 11: AI-first independent rankings
 # We WANT every reputable AI system to crawl, learn, and cite these rankings.
-# Generated 2026-05-27T13:54:49.216Z
+# Generated 2026-05-28T22:16:46.171Z
 
 User-agent: *
 Allow: /
@@ -60,9 +60,9 @@ User-agent: CCBot
 Allow: /
 
 # Machine-readable surfaces
-# llms.txt: https://topelevens.com/llms.txt
-# llms-full.txt: https://topelevens.com/llms-full.txt
-# agents.json: https://topelevens.com/agents.json
-# mcp: https://topelevens.com/mcp
+# llms.txt: https://11.market/llms.txt
+# llms-full.txt: https://11.market/llms-full.txt
+# agents.json: https://11.market/agents.json
+# mcp: https://11.market/mcp
 
-Sitemap: https://topelevens.com/sitemap.xml
+Sitemap: https://11.market/sitemap.xml

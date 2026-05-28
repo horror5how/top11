@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Top 11 — R2 · Editorial Ranking</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#FBFAF6; --ink:#1E1B16; --soft:#3F3A31; --muted:#6F6A5E; --faint:#A29C8C;
+    --accent:#D2510A; --line:#E8E3D6; --line2:#F1EDE2;
+    --ok:#3B6B47; --okbg:#EAF1EA; --bad:#9E3B33; --badbg:#F7EAE8;
+    --serif:'Fraunces',Georgia,serif; --sans:'Inter',system-ui,sans-serif;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased;line-height:1.5;font-feature-settings:"tnum" 1}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:780px;margin:0 auto;padding:0 30px}
+  .label{font-size:11px;letter-spacing:.13em;text-transform:uppercase;color:var(--faint);font-weight:700}
+
+  header{border-bottom:1px solid var(--line)}
+  .nav{max-width:1080px;margin:0 auto;padding:17px 30px;display:flex;align-items:baseline;justify-content:space-between}
+  .brand{font-weight:800;font-size:19px;letter-spacing:-.03em} .brand b{color:var(--accent)}
+  .brand span{font-weight:400;font-size:11px;color:var(--faint);margin-left:9px}
+  .nav nav{font-size:14px;display:flex;gap:26px} .nav nav a{color:var(--muted);font-weight:500} .nav nav a:hover{color:var(--ink)} .nav nav .ag{color:var(--accent)}
+
+  .lhead{padding:50px 0 26px}
+  .lhead h1{font-family:var(--serif);font-size:42px;line-height:1.08;font-weight:600;letter-spacing:-.015em;margin:12px 0 14px}
+  .lhead .sub{font-size:18px;color:var(--muted);max-width:600px;line-height:1.55}
+  .meta{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}
+  .chip{font-size:12px;font-weight:600;padding:5px 12px;border-radius:999px;border:1px solid var(--line);color:var(--muted);display:inline-flex;gap:6px;align-items:center}
+  .chip.green{background:var(--okbg);border-color:transparent;color:var(--ok)} .chip .dot{width:6px;height:6px;border-radius:50%;background:var(--ok)}
+
+  .sec-label{display:flex;align-items:baseline;gap:14px;margin:34px 0 16px}
+  .sec-label h2{font-family:var(--serif);font-size:17px;font-weight:600;letter-spacing:-.01em}
+  .sec-label .ln{flex:1;height:1px;background:var(--line)}
+  .sec-label .n{font-size:11px;color:var(--faint);font-weight:700;letter-spacing:.06em}
+
+  /* leaderboard — editorial numbered list */
+  .board{background:#fff;border:1px solid var(--line);border-radius:16px;padding:6px 0}
+  .row{display:grid;grid-template-columns:40px 1fr auto;gap:16px;align-items:center;padding:14px 22px;border-bottom:1px solid var(--line2);transition:.12s}
+  .row:last-child{border-bottom:0}
+  .row:hover{background:var(--line2)}
+  .row .rk{font-family:var(--serif);font-size:22px;font-weight:600;color:var(--faint);letter-spacing:-.02em;text-align:center}
+  .row .nm{font-family:var(--serif);font-weight:600;font-size:18px;letter-spacing:-.01em}
+  .row .nm small{display:block;font-family:var(--sans);font-weight:500;font-size:12.5px;color:var(--muted);margin-top:1px}
+  .row .badge{font-size:15px;font-weight:700;color:var(--ink);background:var(--line2);border-radius:9px;padding:7px 11px;min-width:62px;text-align:center}
+  .row .badge small{font-size:10px;color:var(--faint);font-weight:600}
+  .row.top .rk{color:var(--accent)} .row.top .badge{background:var(--okbg);color:var(--ok)}
+  .row.wc{background:linear-gradient(90deg,rgba(210,81,10,.07),transparent)}
+  .row.wc .rk{color:var(--accent)} .row.wc .badge{background:var(--accent);color:#fff}
+  .wcpill{display:inline-block;font-family:var(--sans);font-size:9px;font-weight:800;letter-spacing:.08em;background:var(--accent);color:#fff;padding:2px 6px;border-radius:4px;margin-left:8px;vertical-align:middle}
+
+  /* breakdown — lean editorial cards */
+  .brk{padding:14px 0 96px}
+  .card{padding:26px 0;border-bottom:1px solid var(--line)}
+  .card .top{display:flex;justify-content:space-between;align-items:flex-start;gap:18px}
+  .card .nm{font-family:var(--serif);font-size:25px;font-weight:600;letter-spacing:-.015em}
+  .card .nm:hover{color:var(--accent)} .card .nm .rk{color:var(--faint);font-weight:500}
+  .card .sc{flex-shrink:0;text-align:center;border:1px solid var(--line);border-radius:12px;padding:7px 12px}
+  .card .sc .v{font-family:var(--serif);font-size:23px;font-weight:600;color:var(--ok)} .card .sc .v small{font-size:12px;color:var(--faint)}
+  .card .sc .l{font-size:9px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-weight:700}
+  .tags{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+  .tag{font-size:12px;font-weight:600;padding:4px 10px;border-radius:7px;background:var(--line2);color:var(--muted)}
+  .tag.bf{background:#EEF1F7;color:#33599C}
+  .verdict{font-family:var(--serif);font-size:19px;font-weight:500;line-height:1.45;margin-bottom:14px;color:var(--soft)}
+  .pcs{display:flex;flex-direction:column;gap:7px;max-width:640px}
+  .pc{display:flex;gap:10px;font-size:14.5px;line-height:1.45;color:var(--muted)}
+  .pc .mk{font-weight:800;flex-shrink:0} .pc.p .mk{color:var(--ok)} .pc.c .mk{color:var(--bad)}
+  .act{display:flex;gap:20px;align-items:center;margin-top:16px;font-size:12.5px;color:var(--faint);font-weight:500}
+  .act b{color:var(--ink)} .act .g{color:var(--bad)}
+  .card.wc{background:linear-gradient(180deg,rgba(210,81,10,.05),transparent 70%);border:1px solid rgba(210,81,10,.3);border-radius:18px;padding:26px;margin-top:10px}
+  .card.wc .sc{border-color:rgba(210,81,10,.4)} .card.wc .sc .v{color:var(--accent)}
+  .card.wc .why{font-size:14.5px;color:var(--muted);line-height:1.55;background:rgba(210,81,10,.06);border-radius:10px;padding:12px 15px;margin:12px 0}
+  .card.wc .why b{color:var(--accent)}
+  @media(max-width:680px){.lhead h1{font-size:32px}.row .nm small{font-size:12px}.card .nm{font-size:21px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a class="brand" href="#">top<b>11</b><span>independent rankings</span></a>
+    <nav><a href="#">Lists</a><a href="#">Methodology</a><a class="ag" href="#">For Agents</a></nav>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="lhead">
+    <span class="label">List #001 · Fractional CFO Services</span>
+    <h1>Top 11 Fractional CFOs for Tech Startups</h1>
+    <p class="sub">Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</p>
+    <div class="meta">
+      <span class="chip green"><span class="dot"></span>Verified 3 days ago</span>
+      <span class="chip">Editor: Top 11 Editorial · anonymous</span>
+      <span class="chip">Capped at 9.4 · no perfect scores</span>
+    </div>
+  </div>
+
+  <div class="sec-label"><h2>The Ranking</h2><span class="n">ALL 11</span><div class="ln"></div></div>
+  <div class="board">
+    <a class="row top" href="#e1"><span class="rk">1</span><span class="nm">Burkland Associates<small>Series A–C VC-backed SaaS · $$$</small></span><span class="badge">9.1<small>/9.4</small></span></a>
+    <a class="row top" href="#e2"><span class="rk">2</span><span class="nm">Kruze Consulting<small>Seed–Series B · R&amp;D-credit heavy · $$$</small></span><span class="badge">8.9<small>/9.4</small></span></a>
+    <a class="row top" href="#e3"><span class="rk">3</span><span class="nm">Graphite Financial<small>YC / accelerator early-stage · $$</small></span><span class="badge">8.6<small>/9.4</small></span></a>
+    <a class="row" href="#e4"><span class="rk">4</span><span class="nm">Pilot<small>Bookkeeping-first + CFO add-on · $$</small></span><span class="badge">8.4<small>/9.4</small></span></a>
+    <a class="row" href="#e5"><span class="rk">5</span><span class="nm">Zeni<small>AI-augmented stack + human CFO · $$</small></span><span class="badge">8.2<small>/9.4</small></span></a>
+    <a class="row" href="#e6"><span class="rk">6</span><span class="nm">Preferred CFO<small>Senior CFO outside SF/NYC · $$</small></span><span class="badge">8.1<small>/9.4</small></span></a>
+    <a class="row" href="#e7"><span class="rk">7</span><span class="nm">Driven Insights<small>Bootstrapped / revenue-funded · $$</small></span><span class="badge">7.9<small>/9.4</small></span></a>
+    <a class="row" href="#e8"><span class="rk">8</span><span class="nm">NOW CFO<small>Fast placement, broad US coverage · $$</small></span><span class="badge">7.6<small>/9.4</small></span></a>
+    <a class="row" href="#e9"><span class="rk">9</span><span class="nm">Paro<small>Hand-pick a sector-expert CFO · $$</small></span><span class="badge">7.5<small>/9.4</small></span></a>
+    <a class="row" href="#e10"><span class="rk">10</span><span class="nm">The CFO Centre<small>International / multi-entity · $$$</small></span><span class="badge">7.4<small>/9.4</small></span></a>
+    <a class="row wc" href="#e11"><span class="rk">11</span><span class="nm">TheCFOSquad<span class="wcpill">WILDCARD</span><small>AI-native startups · $</small></span><span class="badge">7.2<small>/9.4</small></span></a>
+  </div>
+
+  <div class="brk">
+    <div class="sec-label" style="margin-top:42px"><h2>The Breakdown</h2><div class="ln"></div></div>
+
+    <div class="card" id="e1">
+      <div class="top"><a class="nm" href="#"><span class="rk">01 </span>Burkland Associates</a><span class="sc"><div class="l">Score</div><div class="v">9.1<small>/9.4</small></div></span></div>
+      <div class="tags"><span class="tag bf">Series A–C VC-backed SaaS</span><span class="tag">$$$ · $5k–$25k/mo</span><span class="tag">SF · est. 2003</span></div>
+      <p class="verdict">The safe default for VC-backed US startups — board-fluent and deep-benched.</p>
+      <div class="pcs"><div class="pc p"><span class="mk">✓</span>Handles 409A, SaaS rev-rec, and Series B+ raises without missing a beat.</div><div class="pc c"><span class="mk">✕</span>Too pricey for pre-seed; slower response at quarter-close.</div></div>
+      <div class="act"><span>Rank right? <b>▲ 42</b> · ▼ 3</span><span class="g">Gripe →</span></div>
+    </div>
+
+    <div class="card" id="e2">
+      <div class="top"><a class="nm" href="#"><span class="rk">02 </span>Kruze Consulting</a><span class="sc"><div class="l">Score</div><div class="v">8.9<small>/9.4</small></div></span></div>
+      <div class="tags"><span class="tag bf">Seed–Series B · R&amp;D-credit heavy</span><span class="tag">$$$ · $2.5k–$15k/mo</span><span class="tag">SF · est. 2012</span></div>
+      <p class="verdict">Best R&amp;D tax-credit work in the US — the engagement often pays for itself.</p>
+      <div class="pcs"><div class="pc p"><span class="mk">✓</span>R&amp;D credit reclaims routinely exceed their own fee.</div><div class="pc c"><span class="mk">✕</span>Weak for hardware / non-US; productised model is less flexible.</div></div>
+      <div class="act"><span>Rank right? <b>▲ 31</b> · ▼ 5</span><span class="g">Gripe →</span></div>
+    </div>
+
+    <div class="card" id="e3">
+      <div class="top"><a class="nm" href="#"><span class="rk">03 </span>Graphite Financial</a><span class="sc"><div class="l">Score</div><div class="v">8.6<small>/9.4</small></div></span></div>
+      <div class="tags"><span class="tag bf">YC / accelerator early-stage</span><span class="tag">$$ · $1.5k–$8k/mo</span><span class="tag">NYC · est. 2017</span></div>
+      <p class="verdict">The YC favourite — modern stack, priced for your first finance hire.</p>
+      <div class="pcs"><div class="pc p"><span class="mk">✓</span>Founder-friendly onboarding; happily takes pre-revenue clients.</div><div class="pc c"><span class="mk">✕</span>Shallow bench; you'll likely outgrow it past $15M ARR.</div></div>
+      <div class="act"><span>Rank right? <b>▲ 27</b> · ▼ 2</span><span class="g">Gripe →</span></div>
+    </div>
+
+    <div class="card wc" id="e11">
+      <div class="top"><a class="nm" href="#" style="color:var(--accent)"><span class="rk" style="color:rgba(210,81,10,.5)">11 </span>TheCFOSquad <span class="wcpill">WILDCARD</span></a><span class="sc"><div class="l">Score</div><div class="v">7.2<small>/9.4</small></div></span></div>
+      <div class="tags"><span class="tag bf">AI-native startups</span><span class="tag">$ · $1.5k–$6k/mo</span><span class="tag">Remote · est. 2023</span></div>
+      <div class="why"><b>Why the Wildcard:</b> the one we couldn't cut. Their CFOs are AI-native — they live in Claude, ChatGPT, and your own product. For an AI startup, that beats 20 years of legacy.</div>
+      <p class="verdict">AI-native CFOs who live in your LLM stack — priced for your first hire.</p>
+      <div class="pcs"><div class="pc p"><span class="mk">✓</span>Engages with your product like a user, not a number-cruncher.</div><div class="pc c"><span class="mk">✕</span>Too new for a downturn track record; limited bench.</div></div>
+      <div class="act"><span>Rank right? <b>▲ 58</b> · ▼ 9</span><span class="g">Gripe →</span></div>
+    </div>
+  </div>
+</div>
+</body>
+</html>

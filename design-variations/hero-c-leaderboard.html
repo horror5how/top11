@@ -1,0 +1,65 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Wondermous Hero C — Live Leaderboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--ac:#ff5722;--ac2:#ff8a5c}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:#08080a;color:#fff;font-family:'Inter',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+.wrap{position:relative;min-height:100vh;overflow:hidden;display:flex;flex-direction:column}
+/* leaderboard background */
+.board{position:absolute;z-index:0;left:50%;top:50%;transform:translate(-50%,-50%);width:min(640px,92vw);height:660px;opacity:.42}
+.row{position:absolute;left:0;right:0;display:flex;align-items:center;gap:16px;height:52px;padding:0 22px;border:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.025);border-radius:14px;transition:top .7s cubic-bezier(.2,.7,.2,1),border-color .5s,background .5s}
+.row .rk{font-weight:900;font-size:19px;width:28px;text-align:center;color:rgba(255,255,255,.45);font-variant-numeric:tabular-nums}
+.row .nm{flex:1;font-weight:600;font-size:16px;color:rgba(255,255,255,.8)}
+.row .sc{font-family:'JetBrains Mono';font-size:13px;color:rgba(255,255,255,.4);font-variant-numeric:tabular-nums}
+.row.lead .rk{color:var(--ac)}
+.row.move{border-color:rgba(255,87,34,.55);background:rgba(255,87,34,.09)}
+.glow{position:absolute;z-index:1;width:55vw;height:55vw;left:22%;top:6%;border-radius:50%;background:rgba(255,87,34,.16);filter:blur(140px);animation:dr 24s ease-in-out infinite}
+@keyframes dr{0%,100%{transform:translate(-5%,0) scale(1.05)}50%{transform:translate(6%,6%) scale(1.22)}}
+.vig{position:absolute;inset:0;z-index:2;background:radial-gradient(ellipse 58% 46% at 50% 52%,rgba(8,8,10,.94) 30%,rgba(8,8,10,.4) 62%,transparent 100%)}
+nav{position:relative;z-index:6;max-width:1100px;margin:0 auto;width:100%;padding:22px 28px;display:flex;justify-content:space-between;align-items:center}
+.brand{font-weight:900;font-size:20px;letter-spacing:-.04em}.brand b{color:var(--ac)}
+nav .links{display:flex;gap:22px;font-size:14px;color:rgba(255,255,255,.55)}
+.hero{position:relative;z-index:6;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:20px 24px 70px}
+.ey{display:inline-flex;align-items:center;gap:8px;border:1px solid rgba(255,87,34,.3);background:rgba(255,87,34,.08);border-radius:99px;padding:7px 14px;font-size:11px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ac2);margin-bottom:24px}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--ac);animation:pulse 1.8s infinite}@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(255,87,34,.5)}70%{box-shadow:0 0 0 7px rgba(255,87,34,0)}100%{box-shadow:0 0 0 0 rgba(255,87,34,0)}}
+h1{font-size:clamp(42px,7vw,80px);font-weight:900;letter-spacing:-.045em;line-height:1.0}
+.grad{background:linear-gradient(100deg,#fff,#ffd9c7 35%,var(--ac) 55%,#ffd9c7 75%,#fff);background-size:200% auto;-webkit-background-clip:text;background-clip:text;color:transparent;animation:sh 6s linear infinite}@keyframes sh{to{background-position:200% center}}
+.sub{margin:20px auto 0;max-width:520px;font-size:18px;line-height:1.55;color:rgba(255,255,255,.6)}
+.searchwrap{position:relative;margin:30px auto 0;width:100%;max-width:600px}
+.ring{position:absolute;inset:-2px;border-radius:18px;background:linear-gradient(90deg,rgba(255,87,34,.55),rgba(217,70,239,.3),rgba(34,211,238,.4));filter:blur(9px);opacity:.7}
+.search{position:relative;display:flex;align-items:center;gap:12px;background:rgba(14,14,18,.96);border:1px solid rgba(255,255,255,.18);border-radius:18px;padding:18px 20px;backdrop-filter:blur(8px)}
+.search input{flex:1;background:transparent;border:0;outline:0;color:#fff;font-size:18px}.search input::placeholder{color:rgba(255,255,255,.4)}
+.trust{margin-top:20px;font-family:'JetBrains Mono';font-size:11px;color:rgba(255,255,255,.34);letter-spacing:.04em}
+.tag{position:fixed;bottom:14px;left:0;right:0;text-align:center;font-size:11px;color:rgba(255,255,255,.3);letter-spacing:.2em;text-transform:uppercase}
+</style></head>
+<body>
+<div class="wrap">
+  <div class="board" id="board"></div>
+  <div class="glow"></div><div class="vig"></div>
+  <nav><div class="brand">Wonder<b>mous</b></div><div class="links"><span>Lists</span><span>Methodology</span><span style="color:var(--ac2)">For Agents</span></div></nav>
+  <div class="hero">
+    <div class="ey"><span class="dot"></span>Re-ranking live</div>
+    <h1>Ranked live.<br><span class="grad">The moment the market moves.</span></h1>
+    <p class="sub">Not a frozen &ldquo;best of&rdquo; from last year. A leaderboard that updates the second #8 earns #6 — so your AI never quotes a stale winner.</p>
+    <div class="searchwrap"><div class="ring"></div><div class="search">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="rgba(255,255,255,.45)" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      <input placeholder="Search a niche to see the live ranking…"/>
+    </div></div>
+    <div class="trust">11 ranked + 1 wildcard per niche · scored on a public methodology · no paid placement</div>
+  </div>
+</div>
+<div class="tag">Hero Option C — Live Leaderboard</div>
+<script>
+const NAMES=['Northstar','Vertex','Kepler','Lumen','Pylon','Atlas','Orbit','Quanta','Helix','Nimbus','Drift'];
+const H=56;const board=document.getElementById('board');
+let order=NAMES.map((_,i)=>i);
+let scores=NAMES.map((_,i)=>(9.2-i*0.22).toFixed(1));
+const els=NAMES.map((n,i)=>{const d=document.createElement('div');d.className='row';d.innerHTML='<span class="rk"></span><span class="nm">'+n+(i===10?'  <span style="color:var(--ac2);font-size:11px;font-weight:700;border:1px solid rgba(255,138,92,.4);border-radius:5px;padding:1px 5px">WILDCARD</span>':'')+'</span><span class="sc"></span>';board.appendChild(d);return d;});
+function paint(){order.forEach((item,rank)=>{const el=els[item];el.style.top=(rank*H)+'px';el.querySelector('.rk').textContent=rank+1;el.querySelector('.sc').textContent=scores[item]+'/9.4';el.classList.toggle('lead',rank===0);});}
+paint();
+setInterval(()=>{const pos=1+Math.floor(Math.random()*(order.length-1));[order[pos-1],order[pos]]=[order[pos],order[pos-1]];const climber=els[order[pos-1]];scores=scores.map(s=>Math.min(9.4,Math.max(6.4,(parseFloat(s)+(Math.random()-0.5)*0.2))).toFixed(1));paint();climber.classList.add('move');setTimeout(()=>climber.classList.remove('move'),850);},1900);
+</script>
+</body></html>
