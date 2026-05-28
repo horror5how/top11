@@ -57,8 +57,8 @@ export default function AboutPage() {
         Founded in 2026 by <Link href="/authors/hayat-amin">Hayat Amin</Link> — three exits, repeat
         FT Fastest-Growing listings, Techstars Lead Mentor. The technical architecture and ranking
         models are{" "}
-        <a href="https://github.com/horror5how/top11" rel="noopener">
-          open source on GitHub
+        <a href="https://github.com/horror5how" rel="noopener">
+          public on GitHub
         </a>
         .
       </p>
