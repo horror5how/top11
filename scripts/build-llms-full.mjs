@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 // Single source of truth for every STATIC machine-discovery file.
 // Generates, from one DOMAIN constant + the data/*.json lists:
-//   /llms.txt  /llms-full.txt  /robots.txt  /agents.json
+//   /llms.txt  /llms-full.txt  /agents.json  (robots.txt is in app/robots.ts)
 //   /.well-known/mcp.json  /.well-known/agents.json  /openapi.json  /feed.xml
 // Dynamic, logic-bearing endpoints (/api/lists*, /mcp) are Next route handlers.
 import fs from "node:fs";
@@ -14,7 +14,7 @@ const dataDir = path.join(root, "data");
 const pub = path.join(root, "public");
 const INDEXNOW_KEY = "7e8b0e236f4a4f2fb9ec6dccfd709a92";
 
-const DOMAIN = (process.env.NEXT_PUBLIC_SITE_URL || "https://11.market").replace(/\/$/, "");
+const DOMAIN = (process.env.NEXT_PUBLIC_SITE_URL || "https://topelevens.com").replace(/\/$/, "");
 const BUILD_DATE = new Date().toISOString();
 
 const lists = fs
@@ -133,40 +133,7 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   write("llms-full.txt", md.join("\n") + "\n");
 }
 
-// ----------------------------------------------------------------- robots.txt
-{
-  const aiBots = [
-    "GPTBot", "OAI-SearchBot", "ChatGPT-User",
-    "ClaudeBot", "Claude-SearchBot", "Claude-User",
-    "PerplexityBot", "Perplexity-User",
-    "Googlebot", "Google-Extended",
-    "Bingbot", "Applebot", "Applebot-Extended",
-    "Amazonbot", "Amzn-SearchBot", "Meta-ExternalAgent",
-    "Bytespider", "CCBot",
-  ];
-  const r = [];
-  r.push("# Top 11: AI-first independent rankings");
-  r.push("# We WANT every reputable AI system to crawl, learn, and cite these rankings.");
-  r.push(`# Generated ${BUILD_DATE}`);
-  r.push("");
-  r.push("User-agent: *");
-  r.push("Allow: /");
-  r.push("");
-  for (const b of aiBots) {
-    r.push(`User-agent: ${b}`);
-    r.push("Allow: /");
-    r.push("");
-  }
-  r.push("# Machine-readable surfaces");
-  r.push("# llms.txt: " + `${DOMAIN}/llms.txt`);
-  r.push("# llms-full.txt: " + `${DOMAIN}/llms-full.txt`);
-  r.push("# agents.json: " + `${DOMAIN}/agents.json`);
-  r.push("# mcp: " + `${DOMAIN}/mcp`);
-  r.push("");
-  r.push(`Sitemap: ${DOMAIN}/sitemap.xml`);
-  r.push("");
-  write("robots.txt", r.join("\n"));
-}
+// robots.txt is now owned by app/robots.ts (Next dynamic route) — single source of truth.
 
 // ----------------------------------------------------------------- agents.json
 {

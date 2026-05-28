@@ -4,8 +4,8 @@
   "title": "Top 11: Independent Rankings",
   "description": "Live MCP server for reading Top 11 independent rankings. Reads are free and unauthenticated.",
   "transport": "streamable-http",
-  "endpoint": "https://11.market",
-  "mcp_endpoint": "https://11.market/mcp",
+  "endpoint": "https://topelevens.com",
+  "mcp_endpoint": "https://topelevens.com/mcp",
   "auth": {
     "type": "none_for_reads"
   },
@@ -100,10 +100,10 @@
     }
   ],
   "links": {
-    "for_agents": "https://11.market/for-agents",
-    "methodology": "https://11.market/methodology",
-    "llms_txt": "https://11.market/llms.txt",
-    "openapi": "https://11.market/openapi.json"
+    "for_agents": "https://topelevens.com/for-agents",
+    "methodology": "https://topelevens.com/methodology",
+    "llms_txt": "https://topelevens.com/llms.txt",
+    "openapi": "https://topelevens.com/openapi.json"
   },
   "note": "This is a discovery manifest. The live MCP server speaks JSON-RPC 2.0 over Streamable HTTP at the mcp_endpoint above."
 }

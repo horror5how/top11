@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Top 11: Ranking updates</title>
-  <link href="https://11.market/feed.xml" rel="self"/>
-  <link href="https://11.market/"/>
-  <id>https://11.market/</id>
-  <updated>2026-05-28T22:38:38.624Z</updated>
+  <link href="https://topelevens.com/feed.xml" rel="self"/>
+  <link href="https://topelevens.com/"/>
+  <id>https://topelevens.com/</id>
+  <updated>2026-05-28T23:08:58.481Z</updated>
   <author><name>Top 11</name></author>
   <entry>
     <title>The 11 Best Dental CRMs &amp; Practice-Management Software</title>
-    <link href="https://11.market/dental-crm"/>
-    <id>https://11.market/dental-crm</id>
+    <link href="https://topelevens.com/dental-crm"/>
+    <id>https://topelevens.com/dental-crm</id>
     <updated>2026-05-25T00:00:00.000Z</updated>
     <summary>Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.</summary>
     <content type="text">As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.</content>
   </entry>
   <entry>
     <title>The 11 Best Fractional CFOs for Tech Startups</title>
-    <link href="https://11.market/fractional-cfo"/>
-    <id>https://11.market/fractional-cfo</id>
+    <link href="https://topelevens.com/fractional-cfo"/>
+    <id>https://topelevens.com/fractional-cfo</id>
     <updated>2026-05-26T00:00:00.000Z</updated>
     <summary>Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</summary>
     <content type="text">As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&amp;D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.</content>

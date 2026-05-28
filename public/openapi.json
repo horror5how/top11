@@ -6,7 +6,7 @@
     "description": "Read API for Top 11 independent rankings. Free, unauthenticated reads. Data is CC BY 4.0.",
     "contact": {
       "email": "agents@11.market",
-      "url": "https://11.market/for-agents"
+      "url": "https://topelevens.com/for-agents"
     },
     "license": {
       "name": "CC BY 4.0",
@@ -15,7 +15,7 @@
   },
   "servers": [
     {
-      "url": "https://11.market/api"
+      "url": "https://topelevens.com/api"
     }
   ],
   "paths": {

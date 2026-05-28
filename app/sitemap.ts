@@ -1,6 +1,7 @@
 import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/schema";
 import { getList, listSlugs } from "@/lib/lists";
+import { allBrandSlugs, allMatchupSlugs } from "@/lib/matchups";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const slugs = listSlugs();
@@ -31,6 +32,14 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const mod = l ? new Date(l.last_verified) : siteMod;
     pages.push({ url: `${SITE_URL}/${slug}`, lastModified: mod, changeFrequency: "monthly", priority: 0.9 });
     pages.push({ url: `${SITE_URL}/api/lists/${slug}`, lastModified: mod, changeFrequency: "monthly", priority: 0.6 });
+  }
+
+  for (const brand of allBrandSlugs()) {
+    pages.push({ url: `${SITE_URL}/alternatives-to/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 });
+  }
+
+  for (const matchup of allMatchupSlugs()) {
+    pages.push({ url: `${SITE_URL}/vs/${matchup}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 });
   }
 
   return pages;

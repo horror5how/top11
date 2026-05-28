@@ -6,21 +6,21 @@ Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped 
 
 ## Rankings
 
-- [The 11 Best Dental CRMs & Practice-Management Software](https://11.market/dental-crm): Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.
-  - JSON: https://11.market/api/lists/dental-crm · Markdown: https://11.market/api/lists/dental-crm/md · CSV: https://11.market/api/lists/dental-crm/csv
-- [The 11 Best Fractional CFOs for Tech Startups](https://11.market/fractional-cfo): Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.
-  - JSON: https://11.market/api/lists/fractional-cfo · Markdown: https://11.market/api/lists/fractional-cfo/md · CSV: https://11.market/api/lists/fractional-cfo/csv
+- [The 11 Best Dental CRMs & Practice-Management Software](https://topelevens.com/dental-crm): Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.
+  - JSON: https://topelevens.com/api/lists/dental-crm · Markdown: https://topelevens.com/api/lists/dental-crm/md · CSV: https://topelevens.com/api/lists/dental-crm/csv
+- [The 11 Best Fractional CFOs for Tech Startups](https://topelevens.com/fractional-cfo): Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.
+  - JSON: https://topelevens.com/api/lists/fractional-cfo · Markdown: https://topelevens.com/api/lists/fractional-cfo/md · CSV: https://topelevens.com/api/lists/fractional-cfo/csv
 
 ## For AI agents
 
-- [Agent guide](https://11.market/for-agents): How to read, cite, and query Top 11 programmatically.
-- [List index API](https://11.market/api/lists): JSON array of every published list.
-- [MCP server](https://11.market/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_rankings, get_list, get_entry, and recommend tools.
-- Recommend by problem: GET https://11.market/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget}. Hand over a user's situation, get the matched picks with reasons.
-- [OpenAPI spec](https://11.market/openapi.json): Machine-readable description of the read API.
-- [Full Markdown mirror](https://11.market/llms-full.txt): Every list expanded inline for one-fetch ingestion.
+- [Agent guide](https://topelevens.com/for-agents): How to read, cite, and query Top 11 programmatically.
+- [List index API](https://topelevens.com/api/lists): JSON array of every published list.
+- [MCP server](https://topelevens.com/mcp): Live Model Context Protocol endpoint (JSON-RPC 2.0) with list_rankings, get_list, get_entry, and recommend tools.
+- Recommend by problem: GET https://topelevens.com/api/lists/{slug}/recommend?problem={problem}&segment={segment}&budget={budget}. Hand over a user's situation, get the matched picks with reasons.
+- [OpenAPI spec](https://topelevens.com/openapi.json): Machine-readable description of the read API.
+- [Full Markdown mirror](https://topelevens.com/llms-full.txt): Every list expanded inline for one-fetch ingestion.
 
 ## Methodology
 
-- [How we rank](https://11.market/methodology): The weighted scoring criteria, candidate pool, and conflict policy behind every ranking.
+- [How we rank](https://topelevens.com/methodology): The weighted scoring criteria, candidate pool, and conflict policy behind every ranking.
 

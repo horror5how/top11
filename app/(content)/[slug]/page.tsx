@@ -1,7 +1,18 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getList, listSlugs, type RiskSignals } from "@/lib/lists";
-import { articleJsonLd, datasetJsonLd, faqJsonLd, listJsonLd, priceSymbol, SITE_URL } from "@/lib/schema";
+import {
+  articleJsonLd,
+  breadcrumbJsonLd,
+  datasetJsonLd,
+  faqJsonLd,
+  listJsonLd,
+  personJsonLd,
+  priceSymbol,
+  SITE_URL,
+  SITE_NAME,
+} from "@/lib/schema";
 import VoteWidget from "@/app/components/VoteWidget";
 import ComplaintForm from "@/app/components/ComplaintForm";
 import CiteWidget from "@/app/components/CiteWidget";
@@ -45,13 +56,41 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
   const faqLd = faqJsonLd(list);
   const matchIndex = (list.match_index || {}) as Record<string, { solves: string[]; personas: string[] }>;
   const hasSituations = Object.keys(matchIndex).length > 0;
+  const breadcrumbLd = breadcrumbJsonLd([
+    { name: SITE_NAME, url: SITE_URL },
+    { name: "Directory", url: `${SITE_URL}/directory` },
+    { name: list.vertical, url: `${SITE_URL}/directory#${encodeURIComponent(list.vertical.toLowerCase().replace(/\s+/g, "-"))}` },
+    { name: list.title, url: `${SITE_URL}/${list.slug}` },
+  ]);
 
   return (
     <article className="max-w-3xl mx-auto px-6 py-12 tnum">
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(listJsonLd(list)) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetJsonLd(list)) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleJsonLd(list)) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd()) }} />
       {faqLd && <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }} />}
+
+      {/* Breadcrumb trail (visible — Google reads visible breadcrumbs separately) */}
+      <nav aria-label="Breadcrumb" className="font-mono text-[11px] uppercase tracking-widest text-ink/45 mb-3 flex flex-wrap gap-1.5">
+        <Link href="/" className="hover:text-ink/70">Top 11</Link>
+        <span>›</span>
+        <Link href="/directory" className="hover:text-ink/70">Directory</Link>
+        <span>›</span>
+        <span className="text-ink/55">{list.vertical}</span>
+      </nav>
+
+      {/* Editorial byline — establishes E-E-A-T */}
+      <p className="text-xs text-ink/55 mb-5 flex flex-wrap items-center gap-2">
+        <span>By</span>
+        <Link href="/authors/hayat-amin" className="font-medium text-ink/80 hover:underline" rel="author">
+          Hayat Amin
+        </Link>
+        <span>· editorial direction, Top 11</span>
+        <span aria-hidden="true">·</span>
+        <span>Updated <time dateTime={list.last_verified}>{new Date(list.last_verified).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</time></span>
+      </p>
 
       <header className="mb-6">
         <p className="font-mono text-xs uppercase tracking-widest text-ink/50 mb-3">{list.vertical}</p>
@@ -368,6 +407,29 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
         </p>
         <ComplaintForm entries={list.entries.map((e) => ({ rank: e.rank, name: e.name }))} listSlug={list.slug} />
       </section>
+
+      {/* Changelog — recency signal for LLMs (parsed verbatim by GPTBot/ClaudeBot) */}
+      {list.changelog?.length ? (
+        <section className="mb-14 border-t border-ink/10 pt-10" aria-labelledby="changelog-heading">
+          <h2 id="changelog-heading" className="text-2xl font-extrabold tracking-tight mb-2">Changelog</h2>
+          <p className="text-ink/55 mb-6 text-sm">Every material edit to this ranking — date-stamped for humans and LLMs.</p>
+          <ol className="space-y-4 border-l-2 border-ink/10 pl-5">
+            {list.changelog.map((c, i) => (
+              <li key={i} className="text-sm leading-relaxed">
+                <time dateTime={c.date} className="font-mono text-[11px] uppercase tracking-widest text-ink/55 block mb-1">
+                  {new Date(c.date).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}
+                </time>
+                <p className="text-ink/75">{c.text}</p>
+              </li>
+            ))}
+          </ol>
+          {/* Machine-parseable comment for LLM crawlers */}
+          {/* eslint-disable-next-line react/no-danger */}
+          <div dangerouslySetInnerHTML={{
+            __html: `<!-- top11:changelog ${JSON.stringify(list.changelog)} -->`,
+          }} />
+        </section>
+      ) : null}
 
       <section className="mb-8 border-t border-ink/10 pt-8 text-sm space-y-2 text-ink/60">
         <h2 className="text-base font-bold text-ink mb-3">Honest disclosures</h2>

@@ -1,17 +1,17 @@
 # Top 11: Full Markdown Mirror
 
 Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-28T22:38:38.624Z
+Generated: 2026-05-28T23:08:58.481Z
 
 ## The 11 Best Dental CRMs & Practice-Management Software
 
 **Short answer:** As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.
 
-- URL: https://11.market/dental-crm
+- URL: https://topelevens.com/dental-crm
 - Audience: Dentists and practice managers. Solo GPs, multi-location groups and DSOs, and specialty practices
 - Editor: Top 11 (anonymous by design)
 - Last verified: 2026-05-25
-- Methodology: https://11.market/methodology (vv1.0)
+- Methodology: https://topelevens.com/methodology (vv1.0)
 - Scoring criteria: Real-world capability & track record (30%), Pricing transparency (20%), Segment fit (20%), Usability & support (15%), Integrations & verification (15%)
 - Candidate pool: 14+ providers screened; reviewed quarterly
 
@@ -152,11 +152,11 @@ A: Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/l
 
 **Short answer:** As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.
 
-- URL: https://11.market/fractional-cfo
+- URL: https://topelevens.com/fractional-cfo
 - Audience: Tech founders raising $1M to $50M, Seed to Series B
 - Editor: Top 11 (anonymous by design)
 - Last verified: 2026-05-26
-- Methodology: https://11.market/methodology (vv1.0)
+- Methodology: https://topelevens.com/methodology (vv1.0)
 - Scoring criteria: Track record & verifiable outcomes (30%), Pricing transparency (20%), Segment fit (20%), Responsiveness & availability (15%), Credentials & external verification (15%)
 - Candidate pool: 40+ providers screened; reviewed quarterly
 

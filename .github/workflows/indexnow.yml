@@ -1,0 +1,33 @@
+name: IndexNow push on deploy
+
+# Pings IndexNow with every URL in the sitemap whenever main changes.
+# IndexNow distributes to Bing, Yandex, Seznam, Naver, and Yep in one call.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "data/**"
+      - "lib/**"
+      - "public/**"
+      - "scripts/indexnow-push.mjs"
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    # Wait for Vercel to redeploy before pinging — IndexNow checks each URL returns 200.
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Wait for Vercel deploy
+        run: sleep 90
+
+      - name: Sanity-check site is live
+        run: |
+          curl --fail --silent --max-time 10 https://topelevens.com/sitemap.xml > /dev/null
+          echo "Sitemap reachable."
+
+      - name: Push to IndexNow
+        run: node scripts/indexnow-push.mjs
