@@ -6,12 +6,13 @@ export default function ContentLayout({ children }: { children: React.ReactNode 
       <header className="border-b border-ink/10">
         <div className="max-w-5xl mx-auto px-6 py-4 flex items-center justify-between">
           <Link href="/" className="font-extrabold text-lg tracking-tight">
-            Wonder<span className="text-wildcard">mous</span>
+            Top <span className="text-wildcard">11</span>
             <span className="text-ink/40 text-xs ml-2 font-normal tracking-normal">AI made for AI</span>
           </Link>
           <nav className="flex items-center gap-5 text-sm">
-            <Link href="/fractional-cfo" className="hover:underline">Lists</Link>
+            <Link href="/directory" className="hover:underline">Lists</Link>
             <Link href="/methodology" className="hover:underline">Methodology</Link>
+            <Link href="/about" className="hover:underline">About</Link>
             <Link href="/for-agents" className="hover:underline text-wildcard">For Agents 🤖</Link>
           </nav>
         </div>

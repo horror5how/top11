@@ -1,6 +1,6 @@
 # Top 11: AI-first independent rankings
 # We WANT every reputable AI system to crawl, learn, and cite these rankings.
-# Generated 2026-05-28T22:16:46.171Z
+# Generated 2026-05-28T22:38:38.624Z
 
 User-agent: *
 Allow: /
