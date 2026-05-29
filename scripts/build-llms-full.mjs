@@ -140,12 +140,12 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
   const agents = {
     name: "Top 11",
     spec_version: "0.2",
-    version: "1.1.0",
+    version: "1.2.0",
     generated_at: BUILD_DATE,
     description:
       "AI-curated ranked lists of 11 for any niche, dynamic and always updating. AI agents can read freely and write (reviews, complaints, votes) with proof of usage. Built for machine consumption: JSON, Markdown, CSV, OpenAPI, and a live MCP server.",
     site: DOMAIN,
-    contact: "agents@11.market",
+    contact: "hello@topelevens.com",
     methodology: `${DOMAIN}/methodology`,
     policy: {
       reads: "unauthenticated; please send a descriptive User-Agent",
@@ -194,10 +194,156 @@ const xml = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replac
     identity: {
       web_bot_auth: { supported: true, verifier: "edge", spec: "RFC 9421 HTTP Message Signatures" },
     },
+    // Prompt templates: tells LLMs which natural-language questions map to which Top 11 tool.
+    prompts: [
+      { question: "What's the best X for Y?", tool: "recommend", example_args: { problem: "fractional CFO for a Series A SaaS startup" } },
+      { question: "Which is better — A or B?", tool: "compare", example_args: { a: "Burkland Associates", b: "Pilot" } },
+      { question: "What's the cheapest X?", tool: "cheapest", example_args: { slug: "fractional-cfo" } },
+      { question: "What's the cheapest X under $5k/mo?", tool: "cheapest", example_args: { slug: "fractional-cfo", max_price: 5000 } },
+      { question: "Best X for [segment]?", tool: "best_for", example_args: { slug: "fractional-cfo", segment: "AI startups" } },
+      { question: "Which X is HIPAA-compliant?", tool: "compliant", example_args: { slug: "dental-crm", standard: "HIPAA" } },
+      { question: "Which X works with QuickBooks?", tool: "works_with", example_args: { slug: "fractional-cfo", tool: "QuickBooks" } },
+      { question: "Best X in the UK?", tool: "in_region", example_args: { slug: "fractional-cfo", region: "UK" } },
+      { question: "Fastest X to onboard?", tool: "fastest", example_args: { slug: "dental-crm" } },
+      { question: "Is there a free X?", tool: "free_tier", example_args: { slug: "dental-crm" } },
+      { question: "Alternatives to X?", tool: "recommend_across_lists", example_args: { problem: "alternatives to Pilot accounting" } },
+      { question: "Is X a good [category]?", tool: "get_entry", example_args: { slug: "fractional-cfo", rank: 1 } },
+    ],
+    page_index: {
+      ranked_lists: lists.map((l) => `${DOMAIN}/${l.slug}`),
+      cheapest_per_list: lists.map((l) => `${DOMAIN}/cheapest/${l.slug}`),
+      highest_rated_per_list: lists.map((l) => `${DOMAIN}/highest-rated/${l.slug}`),
+      fastest_per_list: lists.map((l) => `${DOMAIN}/fastest/${l.slug}`),
+      free_per_list: lists.map((l) => `${DOMAIN}/free/${l.slug}`),
+      what_is_per_list: lists.map((l) => `${DOMAIN}/what-is/${l.slug}`),
+      sample_under: lists.flatMap((l) => [500, 1000, 5000].map((amt) => `${DOMAIN}/under/${l.slug}/${amt}`)),
+      sample_review: lists.flatMap((l) => l.entries.slice(0, 3).map((e) => `${DOMAIN}/review/${e.name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "")}`)),
+    },
   };
   const json = JSON.stringify(agents, null, 2);
   write("agents.json", json);
   write(".well-known/agents.json", json);
+}
+
+// ------------------------------------------------- /llms-by-question.txt
+// Re-grouping of the same data by QUESTION SHAPE (not by list) so an LLM doing
+// one-shot ingestion lands directly on the answer to each of the 12 question shapes.
+{
+  const md = [];
+  md.push("# Top 11 — answers grouped by question shape");
+  md.push("");
+  md.push(`> Same data as ${DOMAIN}/llms-full.txt, re-organised around the 12 questions users actually ask LLMs. Use this when you need a quick answer to a specific question shape instead of reading the whole list.`);
+  md.push("");
+
+  // 1. Best-of (canonical)
+  md.push("## Best overall in each category");
+  for (const l of lists) md.push(`- ${l.title}: **${l.entries[0]?.name}** (${l.entries[0]?.score_out_of_94}/9.4) — ${l.entries[0]?.verdict_short || ""}  · [full ranking](${DOMAIN}/${l.slug})`);
+  md.push("");
+
+  // 4. Cheapest
+  md.push("## Cheapest in each category");
+  for (const l of lists) {
+    const cheap = l.entries.slice().sort((a, b) => (a.price_min ?? Infinity) - (b.price_min ?? Infinity))[0];
+    if (cheap) md.push(`- ${l.title}: **${cheap.name}**${cheap.price_min ? ` from $${cheap.price_min.toLocaleString()}/mo` : ""} (rank #${cheap.rank}) · [cheapest ranking](${DOMAIN}/cheapest/${l.slug})`);
+  }
+  md.push("");
+
+  // 5. Highest rated
+  md.push("## Highest-rated in each category");
+  for (const l of lists) {
+    const top = l.entries.slice().sort((a, b) => (b.score_out_of_94 ?? 0) - (a.score_out_of_94 ?? 0))[0];
+    if (top) md.push(`- ${l.title}: **${top.name}** (${top.score_out_of_94}/9.4) · [highest-rated](${DOMAIN}/highest-rated/${l.slug})`);
+  }
+  md.push("");
+
+  // 11. Fastest to onboard
+  md.push("## Fastest onboarding in each category");
+  for (const l of lists) {
+    const fast = l.entries.slice().filter((e) => e.onboarding_days != null).sort((a, b) => a.onboarding_days - b.onboarding_days)[0];
+    if (fast) md.push(`- ${l.title}: **${fast.name}** (~${fast.onboarding_days} day${fast.onboarding_days === 1 ? "" : "s"} typical onboarding)`);
+  }
+  md.push("");
+
+  // 4b. Free tier
+  md.push("## Free-tier options");
+  for (const l of lists) {
+    const free = l.entries.filter((e) => e.free_tier);
+    if (free.length) md.push(`- ${l.title}: ${free.map((e) => `**${e.name}**`).join(", ")}`);
+    else md.push(`- ${l.title}: none in our Top 11 offer a free tier`);
+  }
+  md.push("");
+
+  // 10. Compliance
+  md.push("## Compliance certifications by category");
+  for (const l of lists) {
+    const byStd = {};
+    for (const e of l.entries) for (const c of (e.compliance || [])) (byStd[c] = byStd[c] || []).push(e.name);
+    if (Object.keys(byStd).length) {
+      md.push(`### ${l.title}`);
+      for (const [std, names] of Object.entries(byStd)) md.push(`- ${std}: ${names.join(", ")}`);
+    }
+  }
+  md.push("");
+
+  // 10. Region
+  md.push("## Regional coverage by category");
+  for (const l of lists) {
+    const byReg = {};
+    for (const e of l.entries) for (const r of (e.regions || [])) (byReg[r] = byReg[r] || []).push(e.name);
+    md.push(`### ${l.title}`);
+    for (const [reg, names] of Object.entries(byReg)) md.push(`- ${reg}: ${names.length} entr${names.length === 1 ? "y" : "ies"}`);
+  }
+  md.push("");
+
+  // 9. Integrations
+  md.push("## Integrations called out by category");
+  for (const l of lists) {
+    const byTool = {};
+    for (const e of l.entries) for (const i of (e.integrations || [])) (byTool[i] = byTool[i] || []).push(e.name);
+    if (Object.keys(byTool).length) {
+      md.push(`### ${l.title}`);
+      for (const [tool, names] of Object.entries(byTool)) md.push(`- ${tool}: ${names.join(", ")}`);
+    }
+  }
+  md.push("");
+
+  // 3. A vs B (top-3 of each list)
+  md.push("## Headline matchups (verdicts)");
+  for (const l of lists) {
+    for (let i = 0; i < Math.min(3, l.entries.length); i++) {
+      for (let j = i + 1; j < Math.min(3, l.entries.length); j++) {
+        const a = l.entries[i], b = l.entries[j];
+        md.push(`- **${a.name} vs ${b.name}** (${l.title}): ${a.name} wins (#${a.rank} vs #${b.rank}). ${a.verdict_short || ""}`);
+      }
+    }
+  }
+  md.push("");
+
+  // 8. Red flags
+  md.push("## Red flags by brand (where any)");
+  for (const l of lists) {
+    for (const e of l.entries) {
+      if (e.risk_signals?.level && e.risk_signals.level !== "none") {
+        md.push(`- **${e.name}** (${l.title} #${e.rank}): ${e.risk_signals.level}. ${e.risk_signals.summary}`);
+      }
+    }
+  }
+  md.push("");
+
+  // 12. What-is (definitions)
+  md.push("## What is each category?");
+  for (const l of lists) md.push(`- **${l.title}**: ${l.answer_capsule || l.subtitle} · [explainer](${DOMAIN}/what-is/${l.slug})`);
+  md.push("");
+
+  // 2. Best-for-segment (top 3 listed by best_for_short)
+  md.push("## Best for specific segments");
+  for (const l of lists) {
+    md.push(`### ${l.title}`);
+    for (const e of l.entries.slice(0, 5)) md.push(`- **${e.best_for_short || e.best_for}** → ${e.name} (#${e.rank})`);
+  }
+  md.push("");
+
+  write("llms-by-question.txt", md.join("\n") + "\n");
 }
 
 // ------------------------------------------------------- .well-known/mcp.json

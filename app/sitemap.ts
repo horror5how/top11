@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/schema";
 import { getList, listSlugs } from "@/lib/lists";
 import { allBrandSlugs, allMatchupSlugs } from "@/lib/matchups";
+import { allSliceUrls } from "@/lib/slices";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const slugs = listSlugs();
@@ -25,6 +26,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/api/lists`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.6 },
     { url: `${SITE_URL}/openapi.json`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.5 },
     { url: `${SITE_URL}/llms-full.txt`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.5 },
+    { url: `${SITE_URL}/llms-by-question.txt`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.6 },
   ];
 
   for (const slug of slugs) {
@@ -36,10 +38,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   for (const brand of allBrandSlugs()) {
     pages.push({ url: `${SITE_URL}/alternatives-to/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 });
+    pages.push({ url: `${SITE_URL}/review/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 });
+    pages.push({ url: `${SITE_URL}/red-flags/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 });
   }
 
   for (const matchup of allMatchupSlugs()) {
     pages.push({ url: `${SITE_URL}/vs/${matchup}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 });
+  }
+
+  for (const url of allSliceUrls(SITE_URL)) {
+    pages.push({ url, lastModified: siteMod, changeFrequency: "weekly", priority: 0.7 });
   }
 
   return pages;

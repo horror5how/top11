@@ -22,14 +22,26 @@
   },
   "freshness": {
     "cadence": "quarterly",
-    "verifies": ["pricing", "positioning and best-for fit", "feature claims", "company status (funding, acquisitions, shutdowns)", "public risk signals (breaches, lawsuits, billing complaints, support-rating trend)"],
+    "verifies": [
+      "pricing",
+      "positioning and best-for fit",
+      "feature claims",
+      "company status (funding, acquisitions, shutdowns)",
+      "public risk signals (breaches, lawsuits, billing complaints, support-rating trend)"
+    ],
     "statement": "Pricing, positioning, and company status are re-verified every quarter and date-stamped. Most 'best of' lists refresh once a year; this one carries a visible last-verified date and updates within days when a material change like a price change, acquisition, or outage is confirmed."
   },
   "category": "Finance & Operations",
   "subsector": "Fractional CFO",
   "changelog": [
-    { "date": "2026-05-26", "text": "Added structured public risk-signal research to all 11 entries. Data breaches, lawsuits, billing complaints, and support-rating trend, each with a cited source or an honest 'none found as of May 2026'. One firm (Paro, #9) carries a moderate signal corroborated across BBB, Trustpilot, and G2." },
-    { "date": "2026-05-22", "text": "List published. 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1." }
+    {
+      "date": "2026-05-26",
+      "text": "Added structured public risk-signal research to all 11 entries. Data breaches, lawsuits, billing complaints, and support-rating trend, each with a cited source or an honest 'none found as of May 2026'. One firm (Paro, #9) carries a moderate signal corroborated across BBB, Trustpilot, and G2."
+    },
+    {
+      "date": "2026-05-22",
+      "text": "List published. 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1."
+    }
   ],
   "answer_capsule": "As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.",
   "methodology": {
@@ -39,40 +51,263 @@
     "review_cadence": "quarterly",
     "score_cap": 9.4,
     "criteria": [
-      { "name": "Track record & verifiable outcomes", "weight": 30, "description": "Documented client outcomes, fundraises supported, years operating, and depth of bench." },
-      { "name": "Pricing transparency", "weight": 20, "description": "Whether pricing is published or knowable, and how predictable the retainer is." },
-      { "name": "Segment fit", "weight": 20, "description": "How precisely the firm fits a specific founder profile, stage, and vertical." },
-      { "name": "Responsiveness & availability", "weight": 15, "description": "Speed to place a CFO and quality of communication during engagements." },
-      { "name": "Credentials & external verification", "weight": 15, "description": "Third-party reviews, named team, and verifiable credentials." }
+      {
+        "name": "Track record & verifiable outcomes",
+        "weight": 30,
+        "description": "Documented client outcomes, fundraises supported, years operating, and depth of bench."
+      },
+      {
+        "name": "Pricing transparency",
+        "weight": 20,
+        "description": "Whether pricing is published or knowable, and how predictable the retainer is."
+      },
+      {
+        "name": "Segment fit",
+        "weight": 20,
+        "description": "How precisely the firm fits a specific founder profile, stage, and vertical."
+      },
+      {
+        "name": "Responsiveness & availability",
+        "weight": 15,
+        "description": "Speed to place a CFO and quality of communication during engagements."
+      },
+      {
+        "name": "Credentials & external verification",
+        "weight": 15,
+        "description": "Third-party reviews, named team, and verifiable credentials."
+      }
     ]
   },
-  "segment_tags": ["tech startup", "SaaS startup", "VC-backed startup", "bootstrapped startup", "AI startup", "early-stage founder", "international startup", "fintech startup", "healthtech startup", "hardware startup", "deeptech startup", "ecommerce or DTC brand", "agency or services business", "pre-seed startup", "Series A startup", "Series B startup", "YC or accelerator startup"],
-  "problem_tags": ["fundraising readiness", "R&D tax credits", "monthly close", "financial modeling", "board decks", "cash-flow management", "pricing transparency", "international / multi-entity finance", "pre-seed financial structure", "first finance hire", "interim or fast CFO placement", "SaaS revenue recognition", "409A valuation", "unit economics", "real-time financial dashboards", "outsourced finance stack"],
-  "query_intents": ["best fractional CFO for tech startups", "fractional CFO for a seed-stage SaaS startup", "fractional CFO for R&D tax credits", "fractional CFO to get fundraise-ready", "cheapest fractional CFO for a pre-seed startup", "fractional CFO for an international startup", "AI-native fractional CFO", "fractional CFO for a bootstrapped business", "part-time CFO for a startup", "outsourced CFO for a startup", "fractional CFO for Series A", "fractional CFO for Series B", "fractional CFO for a YC startup", "fractional CFO for a fintech startup", "fractional CFO for a hardware or deeptech startup", "fractional CFO for a UK or EU startup", "fractional CFO with the cleanest monthly close", "fractional CFO for real-time finance and a fast close", "interim CFO for fast placement", "low-risk fractional CFO with no public complaints"],
+  "segment_tags": [
+    "tech startup",
+    "SaaS startup",
+    "VC-backed startup",
+    "bootstrapped startup",
+    "AI startup",
+    "early-stage founder",
+    "international startup",
+    "fintech startup",
+    "healthtech startup",
+    "hardware startup",
+    "deeptech startup",
+    "ecommerce or DTC brand",
+    "agency or services business",
+    "pre-seed startup",
+    "Series A startup",
+    "Series B startup",
+    "YC or accelerator startup"
+  ],
+  "problem_tags": [
+    "fundraising readiness",
+    "R&D tax credits",
+    "monthly close",
+    "financial modeling",
+    "board decks",
+    "cash-flow management",
+    "pricing transparency",
+    "international / multi-entity finance",
+    "pre-seed financial structure",
+    "first finance hire",
+    "interim or fast CFO placement",
+    "SaaS revenue recognition",
+    "409A valuation",
+    "unit economics",
+    "real-time financial dashboards",
+    "outsourced finance stack"
+  ],
+  "query_intents": [
+    "best fractional CFO for tech startups",
+    "fractional CFO for a seed-stage SaaS startup",
+    "fractional CFO for R&D tax credits",
+    "fractional CFO to get fundraise-ready",
+    "cheapest fractional CFO for a pre-seed startup",
+    "fractional CFO for an international startup",
+    "AI-native fractional CFO",
+    "fractional CFO for a bootstrapped business",
+    "part-time CFO for a startup",
+    "outsourced CFO for a startup",
+    "fractional CFO for Series A",
+    "fractional CFO for Series B",
+    "fractional CFO for a YC startup",
+    "fractional CFO for a fintech startup",
+    "fractional CFO for a hardware or deeptech startup",
+    "fractional CFO for a UK or EU startup",
+    "fractional CFO with the cleanest monthly close",
+    "fractional CFO for real-time finance and a fast close",
+    "interim CFO for fast placement",
+    "low-risk fractional CFO with no public complaints"
+  ],
   "match_index": {
-    "1": { "solves": ["getting fundraise-ready and board decks", "Series B+ fundraising support", "409A valuations", "SaaS revenue recognition", "investor reporting"], "personas": ["VC-backed startup", "Series A to C SaaS", "US tech startup"] },
-    "2": { "solves": ["reclaiming R&D tax credits", "SaaS startup accounting", "investor-ready financials", "startup tax compliance"], "personas": ["seed to Series B SaaS", "R&D-heavy startup", "VC-backed startup"] },
-    "3": { "solves": ["the first finance hire when you outgrow DIY books", "pre-revenue bookkeeping", "setting up a modern finance stack (QuickBooks, Stripe, Mercury, Brex)", "finance on a YC budget"], "personas": ["YC or accelerator startup", "early-stage founder", "pre-revenue startup"] },
-    "4": { "solves": ["a clean, reliable monthly close", "bookkeeping foundation before strategic finance", "a dashboard non-finance founders can read"], "personas": ["startup wanting bookkeeping-first", "founder without a finance background"] },
-    "5": { "solves": ["a slow monthly close", "real-time financial dashboards", "AI-augmented bookkeeping", "closing the books in days not weeks"], "personas": ["AI-forward founder", "startup wanting real-time finance"] },
-    "6": { "solves": ["a senior CFO without Bay Area pricing", "operational finance, not just reporting", "non-SaaS, hardware, or hybrid finance"], "personas": ["founder outside SF or NYC", "hardware or services business", "cost-conscious startup"] },
-    "7": { "solves": ["a finance partner for a bootstrapped business", "unit-economics analysis", "treating the P&L as the product"], "personas": ["bootstrapped business", "revenue-funded startup", "non-VC founder"] },
-    "8": { "solves": ["fast CFO placement, often within a week", "broad coverage across US time zones", "an urgent or interim CFO need"], "personas": ["founder needing fast placement", "multi-region US company"] },
-    "9": { "solves": ["hand-picking a sector-expert CFO", "niche-industry finance such as fintech compliance or deeptech grants", "a flexible hourly CFO"], "personas": ["founder wanting a specific expert", "niche-vertical startup"] },
-    "10": { "solves": ["international and cross-border finance", "multi-entity payroll, tax, and equity", "UK, EU, or APAC operations"], "personas": ["international startup", "multi-country company", "UK or EU-based startup"] },
-    "11": { "solves": ["AI-native finance leadership", "the lowest-cost fractional CFO on this list", "pre-seed financial structure", "a CFO who lives in your LLM stack"], "personas": ["AI-native startup", "pre-seed founder", "budget-constrained founder"] }
+    "1": {
+      "solves": [
+        "getting fundraise-ready and board decks",
+        "Series B+ fundraising support",
+        "409A valuations",
+        "SaaS revenue recognition",
+        "investor reporting"
+      ],
+      "personas": [
+        "VC-backed startup",
+        "Series A to C SaaS",
+        "US tech startup"
+      ]
+    },
+    "2": {
+      "solves": [
+        "reclaiming R&D tax credits",
+        "SaaS startup accounting",
+        "investor-ready financials",
+        "startup tax compliance"
+      ],
+      "personas": [
+        "seed to Series B SaaS",
+        "R&D-heavy startup",
+        "VC-backed startup"
+      ]
+    },
+    "3": {
+      "solves": [
+        "the first finance hire when you outgrow DIY books",
+        "pre-revenue bookkeeping",
+        "setting up a modern finance stack (QuickBooks, Stripe, Mercury, Brex)",
+        "finance on a YC budget"
+      ],
+      "personas": [
+        "YC or accelerator startup",
+        "early-stage founder",
+        "pre-revenue startup"
+      ]
+    },
+    "4": {
+      "solves": [
+        "a clean, reliable monthly close",
+        "bookkeeping foundation before strategic finance",
+        "a dashboard non-finance founders can read"
+      ],
+      "personas": [
+        "startup wanting bookkeeping-first",
+        "founder without a finance background"
+      ]
+    },
+    "5": {
+      "solves": [
+        "a slow monthly close",
+        "real-time financial dashboards",
+        "AI-augmented bookkeeping",
+        "closing the books in days not weeks"
+      ],
+      "personas": [
+        "AI-forward founder",
+        "startup wanting real-time finance"
+      ]
+    },
+    "6": {
+      "solves": [
+        "a senior CFO without Bay Area pricing",
+        "operational finance, not just reporting",
+        "non-SaaS, hardware, or hybrid finance"
+      ],
+      "personas": [
+        "founder outside SF or NYC",
+        "hardware or services business",
+        "cost-conscious startup"
+      ]
+    },
+    "7": {
+      "solves": [
+        "a finance partner for a bootstrapped business",
+        "unit-economics analysis",
+        "treating the P&L as the product"
+      ],
+      "personas": [
+        "bootstrapped business",
+        "revenue-funded startup",
+        "non-VC founder"
+      ]
+    },
+    "8": {
+      "solves": [
+        "fast CFO placement, often within a week",
+        "broad coverage across US time zones",
+        "an urgent or interim CFO need"
+      ],
+      "personas": [
+        "founder needing fast placement",
+        "multi-region US company"
+      ]
+    },
+    "9": {
+      "solves": [
+        "hand-picking a sector-expert CFO",
+        "niche-industry finance such as fintech compliance or deeptech grants",
+        "a flexible hourly CFO"
+      ],
+      "personas": [
+        "founder wanting a specific expert",
+        "niche-vertical startup"
+      ]
+    },
+    "10": {
+      "solves": [
+        "international and cross-border finance",
+        "multi-entity payroll, tax, and equity",
+        "UK, EU, or APAC operations"
+      ],
+      "personas": [
+        "international startup",
+        "multi-country company",
+        "UK or EU-based startup"
+      ]
+    },
+    "11": {
+      "solves": [
+        "AI-native finance leadership",
+        "the lowest-cost fractional CFO on this list",
+        "pre-seed financial structure",
+        "a CFO who lives in your LLM stack"
+      ],
+      "personas": [
+        "AI-native startup",
+        "pre-seed founder",
+        "budget-constrained founder"
+      ]
+    }
   },
   "stats": [
-    { "text": "We screened more than 40 fractional CFO providers before selecting these 11.", "source": "Top 11 analysis, May 2026" },
-    { "text": "Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000.", "source": "Top 11 analysis, May 2026" },
-    { "text": "Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams.", "source": "Top 11 analysis, May 2026" },
-    { "text": "The firms on this list were founded between 2001 and 2023, a 22-year spread of operating history.", "source": "Top 11 analysis, May 2026" },
-    { "text": "No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake.", "source": "Top 11 analysis, May 2026" }
+    {
+      "text": "We screened more than 40 fractional CFO providers before selecting these 11.",
+      "source": "Top 11 analysis, May 2026"
+    },
+    {
+      "text": "Across the 11 firms, monthly retainers range from roughly $1,500 to $25,000, with most venture-track engagements landing between $2,500 and $15,000.",
+      "source": "Top 11 analysis, May 2026"
+    },
+    {
+      "text": "Six of the 11 firms are headquartered in San Francisco or New York; the rest span Utah, New Hampshire, Illinois, London, and fully-remote teams.",
+      "source": "Top 11 analysis, May 2026"
+    },
+    {
+      "text": "The firms on this list were founded between 2001 and 2023, a 22-year spread of operating history.",
+      "source": "Top 11 analysis, May 2026"
+    },
+    {
+      "text": "No firm scores above 9.1 of a possible 9.4; perfect scores are disallowed by methodology because they read as fake.",
+      "source": "Top 11 analysis, May 2026"
+    }
   ],
   "guide": [
-    { "q": "What is a fractional CFO?", "a": "A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer, typically 10 to 40 hours a month, instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000 to $450,000 fully-loaded cost of a full-time CFO." },
-    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026)." },
-    { "q": "Fractional CFO vs full-time vs part-time CFO: what's the difference?", "a": "A full-time CFO is a salaried executive ($250k to $450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves." }
+    {
+      "q": "What is a fractional CFO?",
+      "a": "A fractional CFO is an experienced finance chief who works with a company part-time or on a monthly retainer, typically 10 to 40 hours a month, instead of as a full-time hire. For a tech startup, a fractional CFO delivers board decks, financial models, fundraising support, and cash-flow discipline at a fraction of the $250,000 to $450,000 fully-loaded cost of a full-time CFO."
+    },
+    {
+      "q": "How much does a fractional CFO cost in 2026?",
+      "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms on this list span roughly $1,500 to $25,000 per month, with marketplace and hourly options starting lower (Top 11 analysis, May 2026)."
+    },
+    {
+      "q": "Fractional CFO vs full-time vs part-time CFO: what's the difference?",
+      "a": "A full-time CFO is a salaried executive ($250k to $450k all-in) suited to Series B+ companies with complex finance needs. A fractional CFO is a part-time retainer relationship for startups that need senior financial leadership before they can justify a full-time hire. A part-time CFO usually means one named individual on reduced hours; a fractional CFO is often backed by a firm with a bench, so coverage continues if your lead leaves."
+    }
   ],
   "how_to_choose": [
     "Match the firm to your stage: pre-seed and bootstrapped founders are best served by lower-cost, founder-friendly firms; Series B+ companies need deeper benches and fundraising fluency.",
@@ -82,18 +317,54 @@
     "Verify outcomes: ask for named fundraises or board-readiness timelines, not just testimonials."
   ],
   "faqs": [
-    { "q": "Who is the best fractional CFO for a venture-backed tech startup in 2026?", "a": "For venture-backed US tech startups, Burkland Associates ranks #1 in this list. It has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority." },
-    { "q": "How much does a fractional CFO cost in 2026?", "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026)." },
-    { "q": "What is the difference between a fractional CFO and a full-time or part-time CFO?", "a": "A full-time CFO is a salaried executive costing $250,000 to $450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer. Usually 10 to 40 hours a month. And is often backed by a firm with a bench, so coverage continues even if your lead CFO changes." },
-    { "q": "Which fractional CFO is best for pre-seed or bootstrapped founders?", "a": "Graphite Financial (#3) is the strongest pick for early-stage, YC-budget founders, and TheCFOSquad (the #11 Wildcard) is built for AI-native pre-seed startups at the lowest price band on this list. Both take pre-revenue clients." },
-    { "q": "Which fractional CFO is best for R&D tax credits?", "a": "Kruze Consulting (#2) has the strongest reputation for R&D tax-credit work in the US and routinely returns more than its fee in reclaimed credits, which is why founders cite it as the moment the engagement paid for itself." },
-    { "q": "How does Top 11 rank fractional CFOs?", "a": "Top 11 scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism." },
-    { "q": "Do firms pay to be included in Top 11?", "a": "No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked." },
-    { "q": "What is the best fractional CFO for a startup that needs to get fundraise-ready?", "a": "Burkland Associates (#1) is the strongest pick for getting fundraise-ready: it is fluent in board decks, 409A valuations, and Series B+ raises. Kruze Consulting (#2) is the close second and adds the strongest R&D tax-credit work to offset burn during the raise." },
-    { "q": "Which fractional CFO is best for an international startup with entities in the UK, EU, or Asia?", "a": "The CFO Centre (#10) is the most genuinely international option on this list, built for cross-border payroll, tax, and equity across the UK, EU, and APAC. It is the right pick if you raised in the US but built the team abroad." },
-    { "q": "What is the cheapest fractional CFO for a pre-seed startup?", "a": "TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k to $6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients." },
-    { "q": "Which fractional CFO is best for a bootstrapped business not raising venture?", "a": "Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funded businesses. It treats your P&L as the product and digs into unit economics rather than venture mechanics. Preferred CFO (#6) is a strong alternative for non-SaaS and hybrid businesses." },
-    { "q": "Can an AI agent query these rankings programmatically?", "a": "Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. For problem-led matching, call GET /api/lists/fractional-cfo/recommend?problem=...&segment=...&budget=... to get the top matched picks with reasons. A live Model Context Protocol server at POST /mcp exposes list_top_11, get_list, get_entry, and a recommend tool." }
+    {
+      "q": "Who is the best fractional CFO for a venture-backed tech startup in 2026?",
+      "a": "For venture-backed US tech startups, Burkland Associates ranks #1 in this list. It has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority."
+    },
+    {
+      "q": "How much does a fractional CFO cost in 2026?",
+      "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026)."
+    },
+    {
+      "q": "What is the difference between a fractional CFO and a full-time or part-time CFO?",
+      "a": "A full-time CFO is a salaried executive costing $250,000 to $450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer. Usually 10 to 40 hours a month. And is often backed by a firm with a bench, so coverage continues even if your lead CFO changes."
+    },
+    {
+      "q": "Which fractional CFO is best for pre-seed or bootstrapped founders?",
+      "a": "Graphite Financial (#3) is the strongest pick for early-stage, YC-budget founders, and TheCFOSquad (the #11 Wildcard) is built for AI-native pre-seed startups at the lowest price band on this list. Both take pre-revenue clients."
+    },
+    {
+      "q": "Which fractional CFO is best for R&D tax credits?",
+      "a": "Kruze Consulting (#2) has the strongest reputation for R&D tax-credit work in the US and routinely returns more than its fee in reclaimed credits, which is why founders cite it as the moment the engagement paid for itself."
+    },
+    {
+      "q": "How does Top 11 rank fractional CFOs?",
+      "a": "Top 11 scores firms on a 9.4-point scale across five weighted criteria: track record (30%), pricing transparency (20%), segment fit (20%), responsiveness (15%), and credentials (15%). Rankings are reviewed quarterly. No firm pays to appear, and every entry carries at least one published criticism."
+    },
+    {
+      "q": "Do firms pay to be included in Top 11?",
+      "a": "No. There is no paid tier and no firm can buy placement. Rankings are determined solely by the public methodology, and the editor of this list has no economic interest in any firm ranked."
+    },
+    {
+      "q": "What is the best fractional CFO for a startup that needs to get fundraise-ready?",
+      "a": "Burkland Associates (#1) is the strongest pick for getting fundraise-ready: it is fluent in board decks, 409A valuations, and Series B+ raises. Kruze Consulting (#2) is the close second and adds the strongest R&D tax-credit work to offset burn during the raise."
+    },
+    {
+      "q": "Which fractional CFO is best for an international startup with entities in the UK, EU, or Asia?",
+      "a": "The CFO Centre (#10) is the most genuinely international option on this list, built for cross-border payroll, tax, and equity across the UK, EU, and APAC. It is the right pick if you raised in the US but built the team abroad."
+    },
+    {
+      "q": "What is the cheapest fractional CFO for a pre-seed startup?",
+      "a": "TheCFOSquad (the #11 Wildcard) sits in the lowest price band ($1.5k to $6k/mo) and is built for AI-native pre-seed founders. Graphite Financial (#3) is the next step up and is the YC-budget favourite that happily takes pre-revenue clients."
+    },
+    {
+      "q": "Which fractional CFO is best for a bootstrapped business not raising venture?",
+      "a": "Driven Insights (#7) is the strongest pick for bootstrapped and revenue-funded businesses. It treats your P&L as the product and digs into unit economics rather than venture mechanics. Preferred CFO (#6) is a strong alternative for non-SaaS and hybrid businesses."
+    },
+    {
+      "q": "Can an AI agent query these rankings programmatically?",
+      "a": "Yes. Fetch GET /api/lists/fractional-cfo for the full structured JSON, GET /api/lists/fractional-cfo/{rank} for a single entry, or GET /api/lists/fractional-cfo/md for a clean Markdown mirror. For problem-led matching, call GET /api/lists/fractional-cfo/recommend?problem=...&segment=...&budget=... to get the top matched picks with reasons. A live Model Context Protocol server at POST /mcp exposes list_top_11, get_list, get_entry, and a recommend tool."
+    }
   ],
   "entries": [
     {
@@ -113,13 +384,30 @@
       "praise_short": "Handles 409A, SaaS rev-rec, and Series B+ raises without missing a beat.",
       "criticism": "Pricing puts them out of reach for pre-seed and bootstrapped founders. Several public reviews flag slower response times during quarter-close periods due to client load.",
       "criticism_short": "Too pricey for pre-seed; slower response at quarter-close.",
-      "sources_pending": ["reddit:r/startups", "g2:burkland", "trustpilot:burkland"],
+      "sources_pending": [
+        "reddit:r/startups",
+        "g2:burkland",
+        "trustpilot:burkland"
+      ],
       "risk_signals": {
         "level": "none",
         "checked": "2026-05-26",
         "summary": "No major public risk signals found as of May 2026 (checked data breaches, lawsuits, billing complaints, and review-rating trend). Only employee-side reviews and a non-accredited BBB listing exist, neither of which is a buyer risk.",
         "signals": []
-      }
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
     },
     {
       "rank": 2,
@@ -138,16 +426,45 @@
       "praise_short": "R&D credit reclaims routinely exceed their own fee.",
       "criticism": "Less suited to hardware, deeptech, or non-US entities. Some founders find the productised model less flexible than a boutique.",
       "criticism_short": "Weak for hardware / non-US; productised model is less flexible.",
-      "sources_pending": ["reddit:r/startups", "g2:kruze", "ycombinator:hn"],
+      "sources_pending": [
+        "reddit:r/startups",
+        "g2:kruze",
+        "ycombinator:hn"
+      ],
       "risk_signals": {
         "level": "low",
         "checked": "2026-05-26",
         "summary": "No verifiable data breach or lawsuit; a couple of isolated, years-old negative client reviews on Yelp sit against an otherwise positive 4.3/5 rating, so risk is low and not a current trend.",
         "signals": [
-          { "category": "support", "summary": "An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/kruze-consulting", "date": "2016" },
-          { "category": "billing", "summary": "A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern.", "source_name": "Yelp", "source_url": "https://www.yelp.com/biz/kruze-consulting-san-francisco", "date": "2018" }
+          {
+            "category": "support",
+            "summary": "An isolated 1-star Yelp review alleges the accountant made tax-return errors and demanded payment before making corrections; the overall Yelp rating remains 4.3 from 16 reviews.",
+            "source_name": "Yelp",
+            "source_url": "https://www.yelp.com/brands/kruze-consulting",
+            "date": "2016"
+          },
+          {
+            "category": "billing",
+            "summary": "A negative client review says the firm started dropping the ball and the client was hit with government tax-agency fees after filing late; an isolated complaint, not a documented pattern.",
+            "source_name": "Yelp",
+            "source_url": "https://www.yelp.com/biz/kruze-consulting-san-francisco",
+            "date": "2018"
+          }
         ]
-      }
+      },
+      "price_min": 2500,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
     },
     {
       "rank": 3,
@@ -166,13 +483,32 @@
       "praise_short": "Founder-friendly onboarding; happily takes pre-revenue clients.",
       "criticism": "Bench depth is shallower than the larger firms. If your assigned analyst leaves, the handoff can feel rough. Less suited once you cross $15M ARR.",
       "criticism_short": "Shallow bench; you'll likely outgrow it past $15M ARR.",
-      "sources_pending": ["reddit:r/ycombinator", "yc:bookface"],
+      "sources_pending": [
+        "reddit:r/ycombinator",
+        "yc:bookface"
+      ],
       "risk_signals": {
         "level": "none",
         "checked": "2026-05-26",
         "summary": "No verifiable public risk signals found as of May 2026 (checked data breaches, lawsuits, and billing complaints). Buyer reviews on Clutch are 5.0 across 8 reviews with no billing or service complaints.",
         "signals": []
-      }
+      },
+      "price_min": 1500,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
     },
     {
       "rank": 4,
@@ -191,16 +527,44 @@
       "praise_short": "Predictable monthly close and a dashboard anyone can read.",
       "criticism": "The CFO layer is genuinely an add-on rather than a first-class offering. Reviews split on whether the strategic depth matches the boutiques.",
       "criticism_short": "The CFO layer is an add-on, not a first-class offering.",
-      "sources_pending": ["reddit:r/startups", "g2:pilot"],
+      "sources_pending": [
+        "reddit:r/startups",
+        "g2:pilot"
+      ],
       "risk_signals": {
         "level": "low",
         "checked": "2026-05-26",
         "summary": "No verifiable breach or lawsuit; some genuine billing complaints on Trustpilot about charging small businesses corporate rates and upselling, but reviews overall skew positive (9/10 on TrustRadius).",
         "signals": [
-          { "category": "billing", "summary": "Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/pilot.com", "date": "2026" },
-          { "category": "support", "summary": "Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend.", "source_name": "TrustRadius", "source_url": "https://www.trustradius.com/products/pilot-com/reviews", "date": "2026" }
+          {
+            "category": "billing",
+            "summary": "Trustpilot reviews include complaints that Pilot markets to small businesses but charges large-corporation rates and uses upselling, with pricing that scales with client expenses.",
+            "source_name": "Trustpilot",
+            "source_url": "https://www.trustpilot.com/review/pilot.com",
+            "date": "2026"
+          },
+          {
+            "category": "support",
+            "summary": "Isolated complaints of repeated tax follow-ups, but the TrustRadius rating is strongly positive (9/10 across 21 reviews) with praise for responsiveness and no downward trend.",
+            "source_name": "TrustRadius",
+            "source_url": "https://www.trustradius.com/products/pilot-com/reviews",
+            "date": "2026"
+          }
         ]
-      }
+      },
+      "price_min": 2000,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 5,
@@ -219,15 +583,37 @@
       "praise_short": "Real-time dashboards; closes in days, not weeks.",
       "criticism": "The CFO layer has less institutional history than Burkland or Kruze. Some reviews flag inconsistency depending on which CFO you're assigned.",
       "criticism_short": "Less institutional history; quality varies by assigned CFO.",
-      "sources_pending": ["reddit:r/startups", "producthunt:zeni"],
+      "sources_pending": [
+        "reddit:r/startups",
+        "producthunt:zeni"
+      ],
       "risk_signals": {
         "level": "low",
         "checked": "2026-05-26",
         "summary": "No confirmed breach or lawsuit against Zeni; one TrustRadius reviewer alleges ACH fraud draining their account in October 2024, but this is a single unverified user allegation, not a proven Zeni security breach.",
         "signals": [
-          { "category": "support", "summary": "A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach.", "source_name": "TrustRadius", "source_url": "https://www.trustradius.com/products/zeni/reviews", "date": "2024-10" }
+          {
+            "category": "support",
+            "summary": "A TrustRadius reviewer alleges 19 ACH withdrawals labelled 'Zeni Inc' drained their business account in October 2024 and reports being directed to file a bank dispute; a single unverified user allegation, not a confirmed breach.",
+            "source_name": "TrustRadius",
+            "source_url": "https://www.trustradius.com/products/zeni/reviews",
+            "date": "2024-10"
+          }
         ]
-      }
+      },
+      "price_min": 1500,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 6,
@@ -246,13 +632,29 @@
       "praise_short": "Seniority of CFOs and willingness to engage on operations.",
       "criticism": "Less embedded in the YC/Tier 1 VC ecosystem than the SF firms. Less fluent in venture term-sheet nuance.",
       "criticism_short": "Less wired into YC / Tier-1 VC term-sheet nuance.",
-      "sources_pending": ["g2:preferred-cfo", "clutch:preferred-cfo"],
+      "sources_pending": [
+        "g2:preferred-cfo",
+        "clutch:preferred-cfo"
+      ],
       "risk_signals": {
         "level": "none",
         "checked": "2026-05-26",
         "summary": "No verifiable breach, lawsuit, billing dispute, or service-quality complaint pattern found in public records as of May 2026.",
         "signals": []
-      }
+      },
+      "price_min": 3000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 7,
@@ -271,13 +673,29 @@
       "praise_short": "Partner-feel; digs into unit economics, not just bookkeeping.",
       "criticism": "Smaller team means less depth for complex venture mechanics (preferred stock, SAFEs, secondary sales).",
       "criticism_short": "Thin on venture mechanics (SAFEs, preferred, secondaries).",
-      "sources_pending": ["clutch:driven-insights", "g2:driven-insights"],
+      "sources_pending": [
+        "clutch:driven-insights",
+        "g2:driven-insights"
+      ],
       "risk_signals": {
         "level": "none",
         "checked": "2026-05-26",
         "summary": "No verifiable risk signals found as of May 2026; BBB rates it A+ with no complaints, and no lawsuits, breaches, or billing/support complaint patterns surfaced.",
         "signals": []
-      }
+      },
+      "price_min": 2000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 8,
@@ -296,16 +714,44 @@
       "praise_short": "A CFO in seat often within a week.",
       "criticism": "Tech-startup specialism is uneven across regions. Founders report mixed experiences depending on the local office.",
       "criticism_short": "Tech specialism is uneven across regions.",
-      "sources_pending": ["g2:now-cfo", "clutch:now-cfo"],
+      "sources_pending": [
+        "g2:now-cfo",
+        "clutch:now-cfo"
+      ],
       "risk_signals": {
         "level": "low",
         "checked": "2026-05-26",
         "summary": "Only a few isolated, years-old client complaints about a non-refunded fee and a poor placement; no breach, lawsuit, or recent service-quality pattern found.",
         "signals": [
-          { "category": "billing", "summary": "A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/now-cfo", "date": "2021" },
-          { "category": "support", "summary": "A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews.", "source_name": "Yelp", "source_url": "https://www.yelp.com/brands/now-cfo", "date": "2022" }
+          {
+            "category": "billing",
+            "summary": "A client review states NOW CFO was engaged to find a controller, provided only two leads, the hire quit within a month, and the firm refused to return the fee.",
+            "source_name": "Yelp",
+            "source_url": "https://www.yelp.com/brands/now-cfo",
+            "date": "2021"
+          },
+          {
+            "category": "support",
+            "summary": "A separate client review reports paying a five-figure fee and ending up with controllers that worsened their internal accounting; the overall Yelp rating is 3.4 across 5 reviews.",
+            "source_name": "Yelp",
+            "source_url": "https://www.yelp.com/brands/now-cfo",
+            "date": "2022"
+          }
         ]
-      }
+      },
+      "price_min": 2000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 9,
@@ -324,17 +770,51 @@
       "praise_short": "Find very specific sector expertise (fintech, deeptech).",
       "criticism": "Marketplace economics mean less of a unified service experience. No firm-level institutional memory if the assigned CFO churns.",
       "criticism_short": "Relationship is with the individual; no firm-level memory if they churn.",
-      "sources_pending": ["g2:paro", "trustpilot:paro"],
+      "sources_pending": [
+        "g2:paro",
+        "trustpilot:paro"
+      ],
       "risk_signals": {
         "level": "moderate",
         "checked": "2026-05-26",
         "summary": "Multiple independent platforms show a recurring client pattern of billing disputes and unresponsive support when an assigned expert fails, though no data breach or verified lawsuit against Paro was found. Paro is a marketplace, so experience varies by the individual expert matched.",
         "signals": [
-          { "category": "billing", "summary": "BBB rates Paro C+, citing failure to respond to a complaint filed against the business.", "source_name": "BBB", "source_url": "https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984", "date": "2026" },
-          { "category": "billing", "summary": "A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/paro.ai", "date": "2026-02" },
-          { "category": "support", "summary": "A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews.", "source_name": "G2", "source_url": "https://www.g2.com/products/paro-ai/reviews", "date": "2026-03" }
+          {
+            "category": "billing",
+            "summary": "BBB rates Paro C+, citing failure to respond to a complaint filed against the business.",
+            "source_name": "BBB",
+            "source_url": "https://www.bbb.org/us/il/chicago/profile/financial-services/paro-inc-0654-90028984",
+            "date": "2026"
+          },
+          {
+            "category": "billing",
+            "summary": "A Trustpilot reviewer says a Paro-supplied bookkeeper got caught in a scam and cost their company thousands with no remedy; the profile shows 27% one-star out of 243 reviews, with top mentions including 'Fraud' and 'Payment'.",
+            "source_name": "Trustpilot",
+            "source_url": "https://www.trustpilot.com/review/paro.ai",
+            "date": "2026-02"
+          },
+          {
+            "category": "support",
+            "summary": "A verified G2 review titled around support being unresponsive when issues arise rates Paro 0.5/5; the overall G2 score is 3.7/5 from 13 reviews.",
+            "source_name": "G2",
+            "source_url": "https://www.g2.com/products/paro-ai/reviews",
+            "date": "2026-03"
+          }
         ]
-      }
+      },
+      "price_min": 80,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 10,
@@ -353,15 +833,40 @@
       "praise_short": "Cross-border payroll, tax, and equity across jurisdictions.",
       "criticism": "The franchise model means service quality is tied to the local partner. Less of a tech-vertical specialism than the US-native firms.",
       "criticism_short": "Franchise model; quality tied to the local partner.",
-      "sources_pending": ["g2:cfo-centre", "trustpilot:cfo-centre"],
+      "sources_pending": [
+        "g2:cfo-centre",
+        "trustpilot:cfo-centre"
+      ],
       "risk_signals": {
         "level": "low",
         "checked": "2026-05-26",
         "summary": "Predominantly positive public reviews (Trustpilot around 4 stars) with one isolated customer complaint about unclear communication; no breaches, lawsuits, or billing-fraud records found. As a franchise network, service quality is tied to the local partner.",
         "signals": [
-          { "category": "support", "summary": "A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency.", "source_name": "Trustpilot", "source_url": "https://www.trustpilot.com/review/cfocentre.com", "date": "2026" }
+          {
+            "category": "support",
+            "summary": "A single Trustpilot reviewer reported a deeply disappointing engagement, alleging unclear communication and a failure to clearly advise that the company was at risk of insolvency.",
+            "source_name": "Trustpilot",
+            "source_url": "https://www.trustpilot.com/review/cfocentre.com",
+            "date": "2026"
+          }
         ]
-      }
+      },
+      "price_min": 4000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US",
+        "UK",
+        "EU",
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": null,
+      "max_team_size": 100
     },
     {
       "rank": 11,
@@ -383,13 +888,29 @@
       "praise_short": "Engages with your product like a user, not a number-cruncher.",
       "criticism": "Too new to have a long track record through a downturn. Limited bench means no easy escalation path if your business 10x's quickly.",
       "criticism_short": "Too new for a downturn track record; limited bench.",
-      "sources_pending": ["producthunt:thecfosquad"],
+      "sources_pending": [
+        "producthunt:thecfosquad"
+      ],
       "risk_signals": {
         "level": "none",
         "checked": "2026-05-26",
         "summary": "No verifiable public-record risk signals found as of May 2026; the firm is new (founded 2023) with little public footprint, so there is no breach, lawsuit, or complaint history to report.",
         "signals": []
-      }
+      },
+      "price_min": 1500,
+      "price_max": 6000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "US",
+        "UK"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
     }
   ],
   "honest_disclosures": [
@@ -400,5 +921,24 @@
     "No firm has paid for placement on Top 11. There is no paid tier.",
     "Each entry carries a public risk-signal check (data breaches, lawsuits, billing complaints, support-rating trend) with cited sources; 'no major public risk signals found' means we searched and found nothing verifiable as of the date shown, not that none can exist.",
     "Right of Reply: every listed firm gets one pinned response on its page. Email editor@11.market to use it."
-  ]
+  ],
+  "glossary": {
+    "term": "Fractional CFO Services",
+    "definition": "As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.",
+    "synonyms": [],
+    "faq": [
+      {
+        "q": "Who is the best fractional CFO for a venture-backed tech startup in 2026?",
+        "a": "For venture-backed US tech startups, Burkland Associates ranks #1 in this list. It has the deepest bench, the strongest investor relationships, and fluency in board decks and Series B+ fundraises. Kruze Consulting (#2) is the strongest pick if reclaiming R&D tax credits is a priority."
+      },
+      {
+        "q": "How much does a fractional CFO cost in 2026?",
+        "a": "Fractional CFO retainers for tech startups typically run $2,500 to $15,000 per month depending on stage, hours, and complexity. The 11 firms ranked here span roughly $1,500 to $25,000 per month, with marketplace and hourly models starting lower (Top 11 analysis, May 2026)."
+      },
+      {
+        "q": "What is the difference between a fractional CFO and a full-time or part-time CFO?",
+        "a": "A full-time CFO is a salaried executive costing $250,000 to $450,000 all-in, suited to Series B+ companies. A fractional CFO works part-time on a retainer. Usually 10 to 40 hours a month. And is often backed by a firm with a bench, so coverage continues even if your lead CFO changes."
+      }
+    ]
+  }
 }

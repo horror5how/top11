@@ -63,6 +63,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <link rel="alternate" type="application/atom+xml" title="Top 11 feed" href="/feed.xml" />
         <link rel="alternate" type="text/plain" title="LLM overview" href="/llms.txt" />
         <link rel="alternate" type="text/plain" title="LLM full corpus" href="/llms-full.txt" />
+        <link rel="alternate" type="text/plain" title="LLM answers by question shape" href="/llms-by-question.txt" />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd()) }}
