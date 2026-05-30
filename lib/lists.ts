@@ -1,5 +1,6 @@
 import fractionalCfo from "@/data/fractional-cfo.json";
 import dentalCrm from "@/data/dental-crm.json";
+import cfoAiOperators from "@/data/cfo-ai-operators.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -27,6 +28,7 @@ export type RiskSignals = {
 const REGISTRY: Record<string, ListData> = {
   [fractionalCfo.slug]: fractionalCfo as ListData,
   [dentalCrm.slug]: dentalCrm as ListData,
+  [cfoAiOperators.slug]: cfoAiOperators as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

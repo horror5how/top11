@@ -113,6 +113,23 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
         <p className="text-[17px] leading-relaxed text-ink/90">{list.answer_capsule}</p>
       </div>
 
+      {/* Editor-as-subject conflict disclosure — renders only on lists where the editor is also ranked. */}
+      {(list as { editor_disclosure?: { type: string; headline: string; body: string } }).editor_disclosure ? (
+        <aside
+          role="note"
+          aria-label="Editorial disclosure"
+          className="rounded-2xl border-2 border-wildcard bg-wildcard/[0.04] p-5 mb-8"
+        >
+          <p className="font-mono text-[11px] uppercase tracking-widest text-wildcard mb-2">⚠️ Editorial disclosure</p>
+          <p className="text-base font-bold text-ink mb-2">{(list as { editor_disclosure: { headline: string } }).editor_disclosure.headline}</p>
+          {(list as { editor_disclosure: { body: string } }).editor_disclosure.body
+            .split(/\n\n+/)
+            .map((para: string, i: number) => (
+              <p key={i} className="text-sm text-ink/80 leading-relaxed mb-2 last:mb-0">{para}</p>
+            ))}
+        </aside>
+      ) : null}
+
       {/* Independence + verified-freshness — the two differentiators, explicit and citable */}
       <div className="grid sm:grid-cols-2 gap-3 mb-6">
         <div className="rounded-xl border border-ink/15 bg-ink/[0.02] p-4">
