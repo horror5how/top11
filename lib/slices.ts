@@ -88,16 +88,25 @@ export function under(slug: string, amount: number): SliceResult | null {
   return { list, ...cap(sorted) };
 }
 
-/** Entries whose best_for or segment_tags match a segment label. */
+/** Entries whose best_for, segment_tags, or match_index personas match a segment label. */
 export function bestFor(slug: string, segment: string): SliceResult | null {
-  const list = getList(slug);
+  const list = getList(slug) as unknown as { segment_tags?: string[]; match_index?: Record<string, { solves?: string[]; personas?: string[] }>; entries?: Entry[] };
   if (!list) return null;
   const needle = segment.toLowerCase().replace(/-/g, " ");
-  const filtered = (list.entries as Entry[]).filter((e) => {
+  const segKebab = segment.toLowerCase();
+  const listLevelMatch = (list.segment_tags || []).some((t) => t.toLowerCase() === segKebab);
+  const mi = list.match_index || {};
+  const filtered = (list.entries || []).filter((e) => {
     const text = [e.best_for, e.best_for_short, e.verdict, ...(e.integrations || [])].filter(Boolean).join(" ").toLowerCase();
-    return text.includes(needle);
+    if (text.includes(needle)) return true;
+    const m = mi[String(e.rank)] || {};
+    const personaHit = (m.personas || []).some((p) => p.toLowerCase().includes(needle) || p.toLowerCase().replace(/\s+/g, "-") === segKebab);
+    const solveHit = (m.solves || []).some((p) => p.toLowerCase().includes(needle) || p.toLowerCase() === segKebab);
+    if (personaHit || solveHit) return true;
+    // If the segment is a list-level tag, all entries qualify (the segment describes the whole list)
+    return listLevelMatch;
   });
-  return { list, ...cap(filtered) };
+  return { list: getList(slug)!, ...cap(filtered) };
 }
 
 /** Entries whose integrations array contains the given tool. */
@@ -133,19 +142,35 @@ export function compliant(slug: string, standard: string): SliceResult | null {
   return { list, ...cap(filtered) };
 }
 
-/** Common segment slugs derivable from existing match_index or best_for fields. */
+/** Common segment slugs derivable from segment_tags, query_intents, or match_index. */
 export function segmentsFor(slug: string): string[] {
-  const list = getList(slug);
+  const list = getList(slug) as unknown as { segment_tags?: string[]; query_intents?: string[]; match_index?: Record<string, { solves?: string[]; personas?: string[] }>; entries?: Entry[] };
   if (!list) return [];
-  const m = (list as { match_index?: Record<string, unknown> }).match_index;
-  if (m && typeof m === "object") return Object.keys(m);
+  const out = new Set<string>();
+  // Prefer explicit segment_tags (already kebab-case)
+  for (const t of list.segment_tags || []) {
+    const s = t.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+    if (s) out.add(s);
+  }
+  // match_index.personas — convert "seed-stage ai founder" → "seed-stage-ai-founder"
+  for (const m of Object.values(list.match_index || {})) {
+    for (const persona of m.personas || []) {
+      const s = persona.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+      if (s) out.add(s);
+    }
+    for (const solves of m.solves || []) {
+      const s = solves.toLowerCase().replace(/\s+/g, "-").replace(/[^a-z0-9-]/g, "");
+      if (s) out.add(s);
+    }
+  }
   // Fallback: derive from best_for_short phrases
-  return Array.from(new Set((list.entries as Entry[]).flatMap((e) => {
+  for (const e of list.entries || []) {
     const phrases = (e.best_for_short || e.best_for || "")
       .toLowerCase().split(/[,;/]/).map((s) => s.trim()).filter((s) => s.length > 3 && s.length < 40)
       .map((s) => s.replace(/[^a-z0-9 ]/g, "").replace(/\s+/g, "-"));
-    return phrases;
-  })));
+    for (const p of phrases) if (p) out.add(p);
+  }
+  return Array.from(out);
 }
 
 /** Common integration slugs (only those that actually appear). */

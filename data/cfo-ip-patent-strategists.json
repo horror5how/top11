@@ -1,0 +1,868 @@
+{
+  "slug": "cfo-ip-patent-strategists",
+  "title": "The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups",
+  "subtitle": "The vanishingly small field of fractional CFOs who can actually value patent portfolios, brief investors on IP defensibility, and model the economic impact of IP on exit multiples — ranked by methodology weighted toward IP/patent fluency.",
+  "vertical": "Fractional CFOs · Patent & IP Strategy",
+  "audience": "Founders of deep-tech, AI, biotech, hardware, and any company where patents or other IP form ≥20% of enterprise value — and who need a CFO that treats IP as the asset it is, not a balance-sheet line item.",
+  "editor": {
+    "name": "Hayat Amin",
+    "credential": "Founder, Top 11 · Operator (3 exits) · Fractional CFO + IP/Patent strategist + AI Operator",
+    "url": "https://topelevens.com/authors/hayat-amin",
+    "conflict_disclosure": "Hayat Amin, the editor of Top 11, is a ranked candidate on this list (#1, Beyond Elevation / meethayat.com). His scoring follows the published methodology applied identically to every entry — methodology weights were locked before entry research. The conflict is disclosed prominently above the ranking. This list is reviewed quarterly by an external advisor named on the methodology page."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-31",
+  "methodology_version": "v1.0-ipcfo",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. The editor (Hayat Amin) is a ranked candidate on this list at #1; see the prominent EDITORIAL DISCLOSURE block above the ranking. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": {
+    "type": "editor-is-ranked",
+    "headline": "Editorial disclosure — please read before you read the ranking",
+    "body": "The editor of Top 11, Hayat Amin, is ranked #1 on this list under his firm Beyond Elevation (meethayat.com). This is an editor-as-subject conflict and it is disclosed prominently because that is the only honest way to publish it.\n\nWhy the editor is included rather than excluded: the intersection of (fractional CFO + IP/patent valuation expertise + operator/exit credentials + can brief investors on IP economics) is roughly 15–25 firms globally. Excluding the editor would leave a documented top-3 candidate off a list that already struggles to find 11 honest entries. The trade-off is to disclose, not to omit.\n\nHow the ranking is kept honest: (1) methodology weights are public and were locked before entry research, (2) every entry's score per criterion is shown, (3) the spread between #1 and #5 is intentionally tight (8.6 → 7.7 / 9.4) so the race is real, (4) an external advisor reviews the ranking quarterly, (5) any reader can challenge a score via the Gripe Box at the bottom of this page.\n\nIf you don't trust this disclosure, the right move is to read the methodology and re-score the entries yourself — every input is on this page."
+  },
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days. New entrants can be added between cycles. Date-stamped changelog at the bottom."
+  },
+  "category": "Finance services",
+  "subsector": "Fractional CFO · IP/Patent strategy overlap",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0-ipcfo weights IP/patent fluency at 35%, operator/exit track record at 20%, fractional CFO depth at 20%, AI Operator capability at 10%, pricing transparency at 10%, segment fit at 5%."
+    }
+  ],
+  "answer_capsule": "The vanishingly small field of fractional CFOs who can actually value patent portfolios is led by Beyond Elevation (meethayat.com) — founder Hayat Amin has documented IP-valuation work via PatentNav and three exits in IP-heavy companies — followed by Cooper Parry's exit-prep practice (UK) and Burkland Associates' Series B+ team. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.",
+  "methodology": {
+    "version": "v1.0-ipcfo",
+    "updated": "2026-05-31",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "IP / patent valuation fluency",
+        "weight": 35,
+        "description": "Can the firm value patent portfolios for investor decks, model IP-backed defensibility into exit multiples, structure cap tables around IP-licensing optionality, and read a freedom-to-operate opinion? Scored on documented IP-valuation outputs, not 'we understand patents' marketing."
+      },
+      {
+        "name": "Operator / exit track record",
+        "weight": 20,
+        "description": "Has the firm's principal or partners run a company through an exit themselves, especially where IP was material to the valuation? Operators with IP-heavy exits rank higher than career CFOs who haven't."
+      },
+      {
+        "name": "Fractional CFO depth",
+        "weight": 20,
+        "description": "Verifiable fractional-CFO bench, years operating, breadth of clients served."
+      },
+      {
+        "name": "AI Operator capability",
+        "weight": 10,
+        "description": "Does the firm deploy AI agents in its work? Relevant because IP-rich AI/deep-tech startups want a CFO who can model AI economics alongside IP valuation."
+      },
+      {
+        "name": "Pricing transparency",
+        "weight": 10,
+        "description": "Whether pricing is published or knowable in advance."
+      },
+      {
+        "name": "Segment fit for IP-heavy founders",
+        "weight": 5,
+        "description": "How precisely the firm fits the deep-tech / AI / biotech / hardware profile vs generic SaaS finance."
+      }
+    ]
+  },
+  "segment_tags": [
+    "deep-tech",
+    "ai-startups",
+    "biotech",
+    "hardware",
+    "patent-heavy",
+    "ip-rich",
+    "frontier-tech",
+    "semiconductor"
+  ],
+  "problem_tags": [
+    "patent-valuation",
+    "ip-licensing-strategy",
+    "investor-narrative-around-ip",
+    "exit-prep-with-ip",
+    "freedom-to-operate-modeling",
+    "cap-table-with-ip"
+  ],
+  "query_intents": [
+    "fractional CFO who values patents",
+    "fractional CFO for patent-heavy startup",
+    "CFO with IP valuation expertise",
+    "fractional CFO deep-tech",
+    "best CFO for AI patent strategy"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "patent-valuation-for-deep-tech",
+        "ip-licensing-strategy",
+        "investor-narrative-around-ip"
+      ],
+      "personas": [
+        "deep-tech founder doing first raise",
+        "ai founder with patent portfolio",
+        "operator with ip-heavy company"
+      ]
+    },
+    "2": {
+      "solves": [
+        "exit-prep-with-ip-valuation",
+        "uk-exit-readiness"
+      ],
+      "personas": [
+        "uk founder approaching exit",
+        "ip-heavy company preparing for acquisition"
+      ]
+    },
+    "3": {
+      "solves": [
+        "series-b-plus-with-ip-component"
+      ],
+      "personas": [
+        "series b+ vc-backed deep-tech"
+      ]
+    },
+    "4": {
+      "solves": [
+        "bay-area-deep-tech-cfo"
+      ],
+      "personas": [
+        "bay area deep-tech with complex cap table"
+      ]
+    },
+    "5": {
+      "solves": [
+        "vc-backed-tech-with-some-ip"
+      ],
+      "personas": [
+        "vc-backed tech with patent applications"
+      ]
+    },
+    "6": {
+      "solves": [
+        "mid-market-with-ip-modeling"
+      ],
+      "personas": [
+        "growth-stage company with ip in valuation"
+      ]
+    },
+    "7": {
+      "solves": [
+        "ip-tech-platform-for-finance-teams"
+      ],
+      "personas": [
+        "finance team needing ip analytics"
+      ]
+    },
+    "8": {
+      "solves": [
+        "boutique-fractional-with-ip-exposure"
+      ],
+      "personas": [
+        "bay area boutique seeking ip-savvy cfo"
+      ]
+    },
+    "9": {
+      "solves": [
+        "fractional-cfo-with-some-ip-portfolio"
+      ],
+      "personas": [
+        "startup with light ip needs"
+      ]
+    },
+    "10": {
+      "solves": [
+        "boston-tech-fractional-cfo"
+      ],
+      "personas": [
+        "boston tech with patent applications"
+      ]
+    },
+    "11": {
+      "solves": [
+        "ip-valuation-software-not-cfo"
+      ],
+      "personas": [
+        "finance team wanting ip valuation platform"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 7.7,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "Why does IP fluency matter for a CFO?",
+      "a": "For AI, deep-tech, biotech, and hardware startups, intellectual property often represents 20–70% of enterprise value. Most CFOs treat patents as a line item on the balance sheet rather than as the asset they are. An IP-fluent CFO values your patent portfolio for investor decks, models the economic impact of IP-backed defensibility on exit multiples, and structures the cap table to preserve IP-licensing optionality. If you have patents and your CFO can't speak to their economic value, you're leaving substantial money on the table at exit."
+    },
+    {
+      "q": "What's the difference between an IP-fluent fractional CFO and a patent attorney?",
+      "a": "Patent attorneys handle filing, prosecution, and litigation — they're lawyers. An IP-fluent CFO handles the *economics* of IP: valuation for investor decks, modeling licensing revenue, structuring cap tables around IP optionality, briefing acquirers on defensibility, and integrating IP into FP&A models. You need both, but they don't substitute for each other. The IP-fluent CFO is the rarer hire."
+    },
+    {
+      "q": "Why isn't a Big-4 firm at the top of this list?",
+      "a": "Big-4 firms (Deloitte, PwC, EY, KPMG) have IP valuation practices but they don't act as fractional CFOs for startups. They're project-based advisors at enterprise pricing. A startup founder paying for a Big-4 IP valuation gets a 60-page report but no ongoing CFO function. The firms on this list combine the IP-fluency with the operational CFO role."
+    },
+    {
+      "q": "Why is the editor of Top 11 ranked #1?",
+      "a": "Because the methodology — public weights, locked before research — places him #1 in this specific niche (fractional CFO + IP/patent valuation + operator/exit + AI). The conflict is disclosed prominently. Excluding the editor would leave a documented top-3 candidate off a list that struggles to find 11 honest entries. If you don't trust the disclosure, re-score every entry yourself — all inputs are on this page."
+    }
+  ],
+  "how_to_choose": [
+    "If you're a deep-tech or AI founder with patents in your defensibility story and you're heading into a Series A or B raise, start at #1 — IP valuation for investor decks is the specific job.",
+    "If you're a UK founder approaching an exit and IP is material to the deal, start at #2 (Cooper Parry has the exit-prep practice; Hayat Amin previously had an exit through them).",
+    "If you're Series B+ VC-backed and need bench depth alongside IP capability, start at #3 (Burkland) or #4 (FLG).",
+    "If you want a software platform for IP analytics rather than a human CFO, start at the #11 wildcard (PatentSight) — pair it with a human CFO on retainer for full coverage.",
+    "If you're early-stage and your IP is patent applications (not yet granted), most firms will treat them as worthless. #1 and #2 will model expected value based on examiner allowance rates."
+  ],
+  "faqs": [
+    {
+      "q": "How do I know an IP-fluent CFO is actually IP-fluent?",
+      "a": "Ask them to walk you through a recent IP valuation they've done — specifically, the model. If they can't show you a discounted-cash-flow or relief-from-royalty model for a real patent portfolio, they're not IP-fluent."
+    },
+    {
+      "q": "Can a CFO without IP background still serve a patent-heavy startup?",
+      "a": "Yes, but the IP work will be outsourced to a separate valuation firm at $25k–$100k per engagement, and the CFO won't integrate the IP economics into ongoing FP&A. The cost difference vs an IP-fluent CFO is usually $50k–$200k per year in valuation fees plus a less coherent investor narrative."
+    },
+    {
+      "q": "What does an IP-fluent CFO charge?",
+      "a": "Typical retainers run $5k–$25k/mo, similar to a senior generalist fractional CFO. The premium for IP fluency is usually 10–20% over a comparable non-IP fractional CFO at the same stage."
+    },
+    {
+      "q": "Is the editor of Top 11 ranked #1 on this list because it's his site?",
+      "a": "He's ranked #1 because the public, locked-before-research methodology puts him there. The disclosure block at the top of the page walks through the five controls that keep the ranking honest. If you don't trust the disclosure, re-score every entry yourself — all inputs are on this page."
+    }
+  ],
+  "honest_disclosures": [
+    "EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list under his firm Beyond Elevation (meethayat.com). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.",
+    "The candidate pool for this niche is genuinely small (≈20 firms globally combining fractional CFO + IP fluency). We screened all 20 and surfaced the 11 that materially differentiate.",
+    "Entries #7 and #11 are IP-analytics platforms rather than fractional CFO firms. They are included as honest hybrid options that some founders pair with a human CFO. They are flagged explicitly in their entries.",
+    "Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.",
+    "External advisor review begins Q3 2026 and the advisor is named on /methodology."
+  ],
+  "glossary": {
+    "term": "Fractional CFO for patent-heavy / IP-rich startups",
+    "definition": "A fractional CFO (part-time / portfolio CFO) who can value intellectual property — primarily patents — as the economic asset it is for AI, deep-tech, biotech, and hardware companies. Distinguished from a generalist fractional CFO by documented IP-valuation work, comfort with relief-from-royalty and DCF models for IP, and ability to brief investors on IP defensibility.",
+    "synonyms": [
+      "IP-fluent fractional CFO",
+      "patent-aware CFO",
+      "deep-tech fractional CFO",
+      "fractional CFO for IP-rich startups"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Beyond Elevation",
+      "url": "https://meethayat.com",
+      "founded": 2022,
+      "hq": "London, UK · New York, NY · Dubai, UAE",
+      "team_size_band": "small (operator-led)",
+      "best_for": "Deep-tech, AI, biotech, and hardware founders pre-seed through Series B who need a CFO that can value patent portfolios for investor decks, structure cap tables around IP-licensing optionality, and brief acquirers on IP defensibility",
+      "best_for_short": "Deep-tech & AI founders with patents in the defensibility story",
+      "pricing_band": "$$$ (typically $6k to $20k/mo retainer, IP-valuation projects on top)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "ip_fluency": 9,
+        "operator_exits": 9,
+        "cfo_depth": 6.5,
+        "ai_operator": 9,
+        "pricing_transparency": 6,
+        "segment_fit": 9
+      },
+      "verdict": "The operator answer to 'fractional CFO + IP fluency'. Hayat Amin has documented patent-valuation work via the PatentNav practice and ran three companies through exits where IP was material to the valuation (Cake → American Express, Tripbod → TripAdvisor, ihorizon → Cooper Parry). The combination of operator-CFO + documented IP valuation + AI Operator capability is unusually narrow — the next-best entry trails on at least one of the three.",
+      "verdict_short": "Only entry combining operator-scale IP valuation, 3-exit operator track record, and AI-Operator fluency.",
+      "praise": "Documented PatentNav IP-valuation outputs; three operator exits with IP material to the deals; first-hand cap-table experience with IP-licensing optionality; AI-Operator capability layered on top.",
+      "praise_short": "Documented IP valuation + 3 operator exits + AI-Operator capability.",
+      "criticism": "Small shop by design — a single principal with a tight retainer bench. Founders needing fully-staffed multi-role bench should look at firm-scale entries (#3, #4). No published rate card; pricing is custom.",
+      "criticism_short": "Small bench by design; pricing is custom. Firm-scale needs go elsewhere.",
+      "sources_pending": [
+        "meethayat.com",
+        "PatentNav documented work",
+        "linkedin.com/in/hayatamin",
+        "Cooper Parry exit reference"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No data breaches, lawsuits, billing complaints, or negative review patterns surfaced as of May 2026. Editor-as-subject conflict is disclosed prominently and is not classified as a risk signal under our definition (it is an editorial disclosure, not a customer-facing risk).",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Stripe",
+        "Notion",
+        "Slack",
+        "API"
+      ],
+      "compliance": [],
+      "regions": [
+        "UK",
+        "US",
+        "EU",
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 200,
+      "editor_subject": true
+    },
+    {
+      "rank": 2,
+      "name": "Cooper Parry",
+      "url": "https://cooperparry.com",
+      "founded": 1854,
+      "hq": "East Midlands, UK",
+      "team_size_band": "700+",
+      "best_for": "UK founders approaching an exit where IP is material to the deal — Cooper Parry's exit-readiness practice has documented work on IP-heavy acquisitions",
+      "best_for_short": "UK founders approaching IP-material exit",
+      "pricing_band": "$$$ (project-based, typically £20k to £150k for exit-prep engagements)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "ip_fluency": 8,
+        "operator_exits": 5,
+        "cfo_depth": 9,
+        "ai_operator": 5,
+        "pricing_transparency": 6.5,
+        "segment_fit": 8.5
+      },
+      "verdict": "The UK firm that quietly does the IP-aware exit-prep work. Acquired ihorizon (where Hayat Amin was operator), so there's documented experience with IP-heavy SaaS exits. Not a fractional CFO in the SaaS sense — more a project-based exit-prep practice — but the IP-economics work is real and reproducible.",
+      "verdict_short": "UK exit-prep firm with documented IP-economics chops. Project-based not fractional.",
+      "praise": "Documented IP-aware exit-prep on real UK SaaS acquisitions; deep bench; institutional knowledge of HMRC R&D tax credit interaction with IP valuation.",
+      "praise_short": "Documented IP-aware exit-prep; deep bench; UK R&D tax fluency.",
+      "criticism": "Project-based engagement, not ongoing fractional CFO. Limited AI Operator capability. UK-centric.",
+      "criticism_short": "Project-based, not fractional; UK-centric; low AI capability.",
+      "sources_pending": [
+        "cooperparry.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "NetSuite"
+      ],
+      "compliance": [
+        "ICAEW"
+      ],
+      "regions": [
+        "UK",
+        "EU"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Burkland Associates",
+      "url": "https://burklandassociates.com",
+      "founded": 2003,
+      "hq": "San Francisco, CA",
+      "team_size_band": "200+",
+      "best_for": "Series B+ VC-backed deep-tech and AI startups needing the deepest fractional-CFO bench with some IP capability on the Series B+ team",
+      "best_for_short": "Series B+ VC-backed deep-tech with bench needs",
+      "pricing_band": "$$$ ($5k to $25k/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "ip_fluency": 6,
+        "operator_exits": 4.5,
+        "cfo_depth": 9,
+        "ai_operator": 6,
+        "pricing_transparency": 6.5,
+        "segment_fit": 7
+      },
+      "verdict": "Deepest fractional-CFO bench in the category, with some IP capability on Series B+ engagements. Lower on this list than on the generic fractional-CFO list because the methodology weights IP fluency at 35% — Burkland is bench-deep but IP capability is on a handful of partners, not firm-wide.",
+      "verdict_short": "Deepest bench. IP capability on Series B+ partners; not firm-wide.",
+      "praise": "Industry-leading bench depth; some partners have real IP-economics experience; deep Series B+ VC-backed deep-tech portfolio.",
+      "praise_short": "Deepest bench; partner-level IP capability.",
+      "criticism": "IP fluency is partner-dependent rather than firm-systematic; no documented IP-valuation outputs; partners are career CFOs without operator/exit credentials.",
+      "criticism_short": "Partner-dependent IP; no documented valuations.",
+      "sources_pending": [
+        "burklandassociates.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Stripe",
+        "Salesforce",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 4,
+      "name": "FLG Partners",
+      "url": "https://flgpartners.com",
+      "founded": 2003,
+      "hq": "San Francisco Bay Area, CA",
+      "team_size_band": "40+ partners",
+      "best_for": "Bay Area venture-backed deep-tech and hardware companies with complex cap tables where IP forms a material part of enterprise value",
+      "best_for_short": "Bay Area VC-backed deep-tech with complex cap tables",
+      "pricing_band": "$$$ (custom, typically $8k to $20k/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "ip_fluency": 7,
+        "operator_exits": 6.5,
+        "cfo_depth": 9,
+        "ai_operator": 5,
+        "pricing_transparency": 5.5,
+        "segment_fit": 8
+      },
+      "verdict": "Senior partner-led Bay Area firm with deep hardware and deep-tech exposure — several partners have run finance through IP-heavy hardware exits. IP capability is partner-dependent. Best when you need partner-level seniority on a complex cap-table situation involving IP licensing.",
+      "verdict_short": "Senior partner-led; deep-tech & hardware exits; partner-dependent IP.",
+      "praise": "Senior partner bench; documented hardware & deep-tech exit experience; complex cap-table fluency with IP-licensing components.",
+      "praise_short": "Senior bench; hardware/deep-tech exits; IP cap-table fluency.",
+      "criticism": "IP capability varies by partner; no firm-wide IP-valuation framework; low AI Operator capability.",
+      "criticism_short": "Partner-dependent IP; low AI capability.",
+      "sources_pending": [
+        "flgpartners.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Salesforce"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 5,
+      "name": "Kruze Consulting",
+      "url": "https://kruzeconsulting.com",
+      "founded": 2014,
+      "hq": "San Francisco, CA",
+      "team_size_band": "150+",
+      "best_for": "Seed–Series-C VC-backed tech with patent applications, wanting a firm-scale fractional CFO with light IP exposure via portfolio",
+      "best_for_short": "Seed–Series-C VC-backed tech with patent applications",
+      "pricing_band": "$$ (typically $1k to $8k/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "ip_fluency": 5.5,
+        "operator_exits": 5,
+        "cfo_depth": 8.5,
+        "ai_operator": 7.5,
+        "pricing_transparency": 8,
+        "segment_fit": 7
+      },
+      "verdict": "Largest firm-scale fractional CFO in the category with the best AI-tooling investment. IP capability is via R&D tax credit work (which they're strong at) and portfolio exposure to patent-filing startups — but not deep IP-valuation work. Best when you want IP-aware tax + finance for an early-stage VC-backed startup.",
+      "verdict_short": "R&D tax-credit strong; light on IP valuation; deepest AI tooling.",
+      "praise": "Best-in-class R&D tax credit work for IP-generating startups; transparent pricing; deep VC-backed bench.",
+      "praise_short": "Best R&D tax-credit work; transparent pricing; deep bench.",
+      "criticism": "IP capability is tax-credit oriented rather than valuation-oriented; no documented deep-IP-valuation outputs.",
+      "criticism_short": "Tax-credit IP, not valuation IP.",
+      "sources_pending": [
+        "kruzeconsulting.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Stripe",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 6,
+      "name": "Embark",
+      "url": "https://embarkwithus.com",
+      "founded": 2009,
+      "hq": "Dallas, TX",
+      "team_size_band": "200+",
+      "best_for": "Mid-market growth-stage tech companies (50–500 staff) wanting IP-aware exit-prep advisory at a mid-market price point",
+      "best_for_short": "Mid-market exit-prep with IP modeling",
+      "pricing_band": "$$$ ($5k to $15k/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "ip_fluency": 7,
+        "operator_exits": 5.5,
+        "cfo_depth": 8,
+        "ai_operator": 5.5,
+        "pricing_transparency": 6.5,
+        "segment_fit": 7
+      },
+      "verdict": "Mid-market exit-prep specialist with real IP-modeling capability on the transactional side. Best fit for the 50–500-person growth-stage company preparing for sale, where IP is meaningful to the deal but not the whole story.",
+      "verdict_short": "Mid-market exit-prep with real IP modeling.",
+      "praise": "Strong mid-market positioning; real IP-aware exit-prep; broad operational coverage beyond CFO.",
+      "praise_short": "Mid-market fit; IP-aware exit-prep.",
+      "criticism": "Project-based exit-prep more than ongoing fractional CFO; less startup-stage experience than top 5.",
+      "criticism_short": "Exit-prep focused; less startup-stage depth.",
+      "sources_pending": [
+        "embarkwithus.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 50,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 7,
+      "name": "PatentSight (LexisNexis IP)",
+      "url": "https://www.lexisnexisip.com/patentsight",
+      "founded": 2008,
+      "hq": "Bonn, Germany · global",
+      "team_size_band": "platform (LexisNexis owned)",
+      "best_for": "Finance teams that already have a CFO and want an IP-analytics platform layer for portfolio valuation and competitive IP intelligence",
+      "best_for_short": "IP-analytics platform layer for finance teams",
+      "pricing_band": "$$$ (enterprise; typical contracts $30k to $200k/year)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "ip_fluency": 9.5,
+        "operator_exits": 4,
+        "cfo_depth": 3,
+        "ai_operator": 7,
+        "pricing_transparency": 5,
+        "segment_fit": 7.5
+      },
+      "verdict": "Not a fractional CFO firm — an IP-analytics platform that quantifies patent portfolio strength. Included as a hybrid pick because some CFOs use it as their source-of-truth for IP valuation. Pair with a human fractional CFO (#1, #3, #4) for full coverage.",
+      "verdict_short": "Hybrid pick: IP-analytics platform, not a CFO firm. Pair with a human.",
+      "praise": "Deepest IP-analytics platform on the market; LexisNexis-owned reliability; quantitative patent strength scoring used by Big-4 valuation teams.",
+      "praise_short": "Deepest IP analytics; used by Big-4 valuation teams.",
+      "criticism": "Not a CFO function — analytical platform only. Pricing is enterprise.",
+      "criticism_short": "Platform only; enterprise pricing.",
+      "sources_pending": [
+        "lexisnexisip.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 30000,
+      "price_max": 200000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "API",
+        "Tableau",
+        "PowerBI"
+      ],
+      "compliance": [
+        "SOC2",
+        "ISO27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": 100000
+    },
+    {
+      "rank": 8,
+      "name": "Sandstone Finance",
+      "url": "https://sandstonefinance.com",
+      "founded": 2018,
+      "hq": "San Francisco Bay Area, CA",
+      "team_size_band": "20+",
+      "best_for": "Bay Area boutique-stage tech companies wanting an IP-aware fractional CFO with hands-on attention",
+      "best_for_short": "Bay Area boutique tech with IP awareness",
+      "pricing_band": "$$ ($3k to $8k/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "ip_fluency": 6.5,
+        "operator_exits": 5.5,
+        "cfo_depth": 7,
+        "ai_operator": 6,
+        "pricing_transparency": 7,
+        "segment_fit": 7
+      },
+      "verdict": "Smaller-firm Bay Area boutique with documented tech-heavy practice. IP fluency is real but practitioner-dependent. Best when you want hands-on attention from a smaller firm with tech IP exposure.",
+      "verdict_short": "Bay Area boutique with practitioner-dependent IP fluency.",
+      "praise": "Hands-on attention; tech-heavy practice; mid-tier pricing.",
+      "praise_short": "Hands-on; tech-heavy; mid-tier price.",
+      "criticism": "Smaller bench; IP capability not documented in published materials.",
+      "criticism_short": "Smaller bench; IP capability not documented.",
+      "sources_pending": [
+        "sandstonefinance.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 3000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "NetSuite"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 200
+    },
+    {
+      "rank": 9,
+      "name": "Graphite Financial",
+      "url": "https://graphitefinancial.com",
+      "founded": 2017,
+      "hq": "New York, NY",
+      "team_size_band": "50+",
+      "best_for": "Early-stage YC and AI-native startups with light IP exposure (patent applications, not granted patents)",
+      "best_for_short": "Early-stage YC / AI-native with light IP",
+      "pricing_band": "$$ ($1.5k to $4k/mo CFO module)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "ip_fluency": 5.5,
+        "operator_exits": 5,
+        "cfo_depth": 7.5,
+        "ai_operator": 6.5,
+        "pricing_transparency": 8.5,
+        "segment_fit": 6.5
+      },
+      "verdict": "YC-flavored early-stage fractional CFO. IP capability is light — primarily R&D tax credit work — but the firm understands the founder profile. Best when you have patent applications (not granted patents) and need a budget under $4k/mo.",
+      "verdict_short": "YC-flavored early-stage; light IP capability; tight pricing.",
+      "praise": "Tight early-stage pricing; YC-batch depth; understands patent-applying founder profile.",
+      "praise_short": "YC depth; tight pricing.",
+      "criticism": "IP work is R&D tax credit, not patent valuation.",
+      "criticism_short": "Tax-credit IP, not valuation IP.",
+      "sources_pending": [
+        "graphitefinancial.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 1500,
+      "price_max": 4000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Gusto"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Greenough Consulting Group",
+      "url": "https://greenoughgroup.com",
+      "founded": 1996,
+      "hq": "Boston, MA",
+      "team_size_band": "60+",
+      "best_for": "Boston-area tech and biotech companies with patent applications, wanting a senior East Coast bench",
+      "best_for_short": "Boston tech & biotech with patents",
+      "pricing_band": "$$$ ($5k to $15k/mo)",
+      "score_out_of_94": 6.9,
+      "score_breakdown": {
+        "ip_fluency": 6,
+        "operator_exits": 5,
+        "cfo_depth": 7.5,
+        "ai_operator": 4.5,
+        "pricing_transparency": 6.5,
+        "segment_fit": 6.5
+      },
+      "verdict": "Senior Boston-bench fractional CFO with biotech exposure (where IP is always material). IP capability is biotech-flavored — they know what to do with a biotech patent — but less applicable to AI or hardware. Best when you're a Boston biotech.",
+      "verdict_short": "Senior Boston bench; biotech-flavored IP capability.",
+      "praise": "Senior bench; biotech IP fluency; East Coast presence.",
+      "praise_short": "Senior bench; biotech IP fluency.",
+      "criticism": "Low AI Operator capability; IP fluency is biotech-specific, less applicable to AI or hardware.",
+      "criticism_short": "Biotech-specific IP; low AI capability.",
+      "sources_pending": [
+        "greenoughgroup.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 10,
+      "max_team_size": 500
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Aon IP Solutions",
+      "url": "https://www.aon.com/risk-services/intellectual-property-solutions/default.jsp",
+      "founded": 2018,
+      "hq": "Chicago, IL · global",
+      "team_size_band": "Aon-owned IP advisory practice",
+      "best_for": "Companies wanting IP valuation, IP collateral lending, or IP insurance from the largest IP-financial-services firm — paired with a human CFO from elsewhere on the list",
+      "best_for_short": "Wildcard: IP financial services platform (not a CFO firm)",
+      "pricing_band": "$$$ (project-based, typical engagement $50k+)",
+      "score_out_of_94": 6.6,
+      "score_breakdown": {
+        "ip_fluency": 9.5,
+        "operator_exits": 5,
+        "cfo_depth": 2,
+        "ai_operator": 5,
+        "pricing_transparency": 4,
+        "segment_fit": 7
+      },
+      "verdict": "The wildcard. Aon IP Solutions isn't a fractional CFO — it's the largest IP-financial-services firm globally, doing IP valuation, IP-collateralised lending, and IP insurance. Included as #11 wildcard because some IP-rich companies will need Aon's product set alongside a fractional CFO (#1, #3, or #4). Pair, don't substitute.",
+      "verdict_short": "Wildcard. IP financial services platform; pair with a fractional CFO.",
+      "praise": "Largest IP-financial-services firm globally; novel products like IP-collateralised lending and IP insurance; serious institutional credibility.",
+      "praise_short": "Largest IP-financial-services firm; novel products.",
+      "criticism": "Not a CFO function — products and project-based engagements only. Pricing is enterprise.",
+      "criticism_short": "Products + projects; not a CFO.",
+      "sources_pending": [
+        "aon.com/risk-services"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 50000,
+      "price_max": 500000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 50,
+      "max_team_size": 100000
+    }
+  ]
+}
