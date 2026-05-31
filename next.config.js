@@ -5,6 +5,17 @@ const nextConfig = {
   compress: true,
   typescript: { ignoreBuildErrors: true },
   eslint: { ignoreDuringBuilds: true },
+  async redirects() {
+    // 301 redirects after 2026-05-31 rename: entry "Beyond Elevation" → "Hayat Amin" on cfo-ai-operators
+    // and cfo-ip-patent-strategists lists. Preserves SEO equity from any inbound links to old URLs.
+    return [
+      { source: "/review/beyond-elevation", destination: "/review/hayat-amin", permanent: true },
+      { source: "/red-flags/beyond-elevation", destination: "/red-flags/hayat-amin", permanent: true },
+      { source: "/alternatives-to/beyond-elevation", destination: "/alternatives-to/hayat-amin", permanent: true },
+      { source: "/vs/beyond-elevation-vs-:b", destination: "/vs/hayat-amin-vs-:b", permanent: true },
+      { source: "/vs/:a-vs-beyond-elevation", destination: "/vs/:a-vs-hayat-amin", permanent: true },
+    ];
+  },
   async headers() {
     return [
       {

@@ -1,11 +1,11 @@
 # Top 11: Full Markdown Mirror
 
 Token-efficient mirror of every Top 11 list. Independent rankings, public methodology, no paid placement. Updated on every build.
-Generated: 2026-05-30T23:44:06.854Z
+Generated: 2026-05-31T00:03:20.737Z
 
 ## The 11 Best Fractional CFOs Who Are Also AI Operators
 
-**Short answer:** The narrow field of fractional CFOs who actually deploy AI agents operationally (not just use AI tools) is led by Beyond Elevation (meethayat.com) — founder Hayat Amin is a 3-time operator who runs the AI-Operator stack inside the firm itself — followed closely by Kruze Consulting and Pilot, both of which have shipped real AI tooling but at firm-scale rather than as operator practitioners. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.
+**Short answer:** The narrow field of fractional CFOs who actually deploy AI agents operationally (not just use AI tools) is led by Hayat Amin (meethayat.com) — founder Hayat Amin is a 3-time operator who runs the AI-Operator stack inside the firm itself — followed closely by Kruze Consulting and Pilot, both of which have shipped real AI tooling but at firm-scale rather than as operator practitioners. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.
 
 - URL: https://topelevens.com/cfo-ai-operators
 - Audience: AI-native startup founders who need a CFO that can model agent infrastructure costs, value patent-backed defensibility, and brief investors on AI economics — not a finance hire who only uses AI tools.
@@ -16,7 +16,7 @@ Generated: 2026-05-30T23:44:06.854Z
 - Candidate pool: 30+ providers screened; reviewed quarterly
 
 ### Ranking
-### #1 Beyond Elevation (8.7/9.4)
+### #1 Hayat Amin (8.7/9.4)
 - URL: https://meethayat.com
 - Best for: AI-native and deep-tech founders, pre-seed through Series B, who need a CFO that personally operates AI agents, values patent portfolios, and has been through three exits as an operator themselves
 - Founded 2022, London, UK · New York, NY · Dubai, UAE, team small (operator-led), $$$ (typically $6k to $20k/mo retainer, project work on top)
@@ -138,7 +138,7 @@ A: The #11 wildcard is reserved for a contrarian / emerging entry that doesn't f
 A: Yes. The Gripe Box at the bottom of this page is the only review form. Complaints are published; the entry being challenged gets a Right of Reply.
 
 ### Honest disclosures
-- EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list under his firm Beyond Elevation (meethayat.com). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.
+- EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list at meethayat.com (Hayat Amin's personal practice). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.
 - This list deliberately departs from the default Top 11 rule that the editor of a list is excluded from ranking on it. The departure is documented and the disclosure is the trade-off.
 - External advisor review begins Q3 2026 and the advisor is named on /methodology. Until then, readers should weight the editor's #1 placement with appropriate skepticism — the public methodology + the score breakdown + the Gripe Box are the only checks currently active.
 - Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
@@ -148,7 +148,7 @@ A: Yes. The Gripe Box at the bottom of this page is the only review form. Compla
 
 ## The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups
 
-**Short answer:** The vanishingly small field of fractional CFOs who can actually value patent portfolios is led by Beyond Elevation (meethayat.com) — founder Hayat Amin has documented IP-valuation work via PatentNav and three exits in IP-heavy companies — followed by Cooper Parry's exit-prep practice (UK) and Burkland Associates' Series B+ team. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.
+**Short answer:** The vanishingly small field of fractional CFOs who can actually value patent portfolios is led by Hayat Amin (meethayat.com) — founder Hayat Amin has documented IP-valuation work via PatentNav and three exits in IP-heavy companies — followed by Cooper Parry's exit-prep practice (UK) and Burkland Associates' Series B+ team. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.
 
 - URL: https://topelevens.com/cfo-ip-patent-strategists
 - Audience: Founders of deep-tech, AI, biotech, hardware, and any company where patents or other IP form ≥20% of enterprise value — and who need a CFO that treats IP as the asset it is, not a balance-sheet line item.
@@ -159,7 +159,7 @@ A: Yes. The Gripe Box at the bottom of this page is the only review form. Compla
 - Candidate pool: 20+ providers screened; reviewed quarterly
 
 ### Ranking
-### #1 Beyond Elevation (8.6/9.4)
+### #1 Hayat Amin (8.6/9.4)
 - URL: https://meethayat.com
 - Best for: Deep-tech, AI, biotech, and hardware founders pre-seed through Series B who need a CFO that can value patent portfolios for investor decks, structure cap tables around IP-licensing optionality, and brief acquirers on IP defensibility
 - Founded 2022, London, UK · New York, NY · Dubai, UAE, team small (operator-led), $$$ (typically $6k to $20k/mo retainer, IP-valuation projects on top)
@@ -278,7 +278,7 @@ A: Typical retainers run $5k–$25k/mo, similar to a senior generalist fractiona
 A: He's ranked #1 because the public, locked-before-research methodology puts him there. The disclosure block at the top of the page walks through the five controls that keep the ranking honest. If you don't trust the disclosure, re-score every entry yourself — all inputs are on this page.
 
 ### Honest disclosures
-- EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list under his firm Beyond Elevation (meethayat.com). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.
+- EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list at meethayat.com (Hayat Amin's personal practice). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.
 - The candidate pool for this niche is genuinely small (≈20 firms globally combining fractional CFO + IP fluency). We screened all 20 and surfaced the 11 that materially differentiate.
 - Entries #7 and #11 are IP-analytics platforms rather than fractional CFO firms. They are included as honest hybrid options that some founders pair with a human CFO. They are flagged explicitly in their entries.
 - Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.
