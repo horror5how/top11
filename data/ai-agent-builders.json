@@ -1,0 +1,803 @@
+{
+  "slug": "ai-agent-builders",
+  "title": "The 11 Best AI Agent Builders",
+  "subtitle": "A developer-focused ranking of the top frameworks and platforms for building, deploying, and managing autonomous AI agents.",
+  "vertical": "AI Engineering · Agent Frameworks",
+  "audience": "Developers building autonomous AI agents and workflows",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software Development",
+  "subsector": "AI Development Tools",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Framework Flexibility (30%), Production-Readiness (25%), Developer Experience (20%), Community & Ecosystem (15%), and Multi-Agent Capabilities (10%)."
+    }
+  ],
+  "answer_capsule": "The best AI agent builder is LangChain for its comprehensive ecosystem, followed by LlamaIndex for data-centric agents and CrewAI for multi-agent collaboration.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Framework Flexibility & Extensibility",
+        "weight": 30,
+        "description": "Ability to customize agent logic, integrate custom tools, swap components (LLMs, vector stores), and extend core abstractions."
+      },
+      {
+        "name": "Production-Readiness & Observability",
+        "weight": 25,
+        "description": "Features for deployment, monitoring, logging, tracing, and debugging agents in a live environment (e.g., LangSmith, custom logging)."
+      },
+      {
+        "name": "Developer Experience & Ease of Use",
+        "weight": 20,
+        "description": "Quality of documentation, API/SDK intuitiveness, learning curve, and speed of prototyping."
+      },
+      {
+        "name": "Community & Ecosystem",
+        "weight": 15,
+        "description": "Size and activity of the user community (GitHub, Discord), availability of third-party integrations, tutorials, and pre-built templates."
+      },
+      {
+        "name": "Multi-Agent Capabilities",
+        "weight": 10,
+        "description": "Native support for designing, orchestrating, and managing complex workflows involving multiple collaborating agents."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Open-Source Frameworks",
+    "Managed Platforms",
+    "Multi-Agent Systems",
+    "RAG Agents",
+    "Low-Code AI"
+  ],
+  "problem_tags": [
+    "Autonomous Task Automation",
+    "Complex Workflow Orchestration",
+    "Data-Centric AI Agents",
+    "Conversational AI Development",
+    "AI Tool Integration"
+  ],
+  "query_intents": [
+    "best ai agent framework",
+    "langchain vs autogen",
+    "how to build ai agents",
+    "multi-agent ai system",
+    "ai agent platform"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "General-purpose agent development",
+        "Rapid prototyping",
+        "Complex tool usage"
+      ],
+      "personas": [
+        "AI Engineer",
+        "Full-Stack Developer"
+      ]
+    },
+    "2": {
+      "solves": [
+        "RAG-based agents",
+        "Data-intensive agent workflows",
+        "Query engine optimization"
+      ],
+      "personas": [
+        "Data Scientist",
+        "Backend Developer"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Collaborative multi-agent systems",
+        "Role-based task delegation",
+        "Hierarchical agent workflows"
+      ],
+      "personas": [
+        "AI Workflow Architect",
+        "Automation Engineer"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.2,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is an AI Agent Builder?",
+      "a": "An AI agent builder is a framework, library, or platform that provides developers with the tools to create autonomous agents. These agents can perceive their environment, make decisions, and take actions to achieve specific goals, often by using large language models (LLMs) for reasoning and connecting to various tools and APIs."
+    },
+    {
+      "q": "What are the key components of an AI agent?",
+      "a": "Most AI agents consist of a core reasoning loop (the 'brain', usually an LLM), a set of tools (APIs, functions, databases), memory (short-term for context, long-term for learning), and a planning module to break down complex tasks into smaller steps."
+    }
+  ],
+  "how_to_choose": [
+    "For general-purpose, flexible agent development with a massive ecosystem, start with LangChain.",
+    "If your agent's primary task involves querying and reasoning over your own data (RAG), LlamaIndex is purpose-built for the job.",
+    "For complex workflows requiring multiple specialized agents to collaborate, CrewAI and AutoGen offer powerful multi-agent orchestration.",
+    "If you prefer a managed platform with a UI and API-first approach over an open-source framework, evaluate Superagent or BuildShip."
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between LangChain and LlamaIndex?",
+      "a": "LangChain is a general-purpose framework for building any LLM application, including agents, with a vast array of integrations. LlamaIndex is specialized for building applications on top of your own data, excelling at the data ingestion, indexing, and querying stages required for powerful RAG-based agents."
+    },
+    {
+      "q": "Are these builders suitable for production environments?",
+      "a": "Yes, but with caveats. Frameworks like LangChain (with LangSmith for observability) and LlamaIndex are increasingly production-ready. However, deploying autonomous agents requires robust monitoring, logging, and guardrails to manage costs and unexpected behavior, which is the developer's responsibility."
+    },
+    {
+      "q": "Do I need to be an AI expert to use these tools?",
+      "a": "No, but you need to be a developer. These are not no-code tools for business users. They abstract away much of the complexity of interacting with LLMs, but a solid understanding of Python, APIs, and software architecture is essential for building non-trivial agents."
+    },
+    {
+      "q": "How much does it cost to run an AI agent?",
+      "a": "The framework itself is often free (open-source), but the operational costs come from LLM API calls (e.g., to OpenAI or Anthropic), hosting, and vector database usage. Costs can vary from cents to thousands of dollars per day depending on the agent's complexity and usage."
+    }
+  ],
+  "honest_disclosures": [
+    "The AI agent space is extremely fast-moving; rankings and capabilities can change significantly in a matter of months. This list was last verified on the date specified.",
+    "The list is dominated by Python-based open-source frameworks, reflecting the current state of the market. Options for other languages or fully-managed platforms are less mature.",
+    "Evaluating 'production-readiness' is subjective. We weigh the availability of observability tools and documented best practices heavily."
+  ],
+  "glossary": {
+    "term": "ReAct (Reasoning and Acting)",
+    "definition": "A popular prompting framework for AI agents that enables an LLM to synergistically generate reasoning traces and task-specific actions in an interleaved manner. The reasoning helps the model plan, while the actions allow it to interface with external tools to gather information.",
+    "synonyms": [
+      "Reason-Act Loop",
+      "Agent Loop"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "LangChain",
+      "url": "https://www.langchain.com/",
+      "founded": 2022,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Developers seeking the most comprehensive and flexible open-source framework for building, composing, and deploying any type of LLM-powered agent or application.",
+      "best_for_short": "Most flexible & comprehensive framework",
+      "pricing_band": "Free (Open Source) + Optional Paid Platform",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 9.4,
+        "Production-Readiness & Observability": 9.3,
+        "Developer Experience & Ease of Use": 8.8,
+        "Community & Ecosystem": 9.4,
+        "Multi-Agent Capabilities": 9
+      },
+      "verdict": "LangChain is the best AI agent builder due to its unparalleled flexibility, massive ecosystem of integrations, and robust support for production observability via LangSmith.",
+      "verdict_short": "The most flexible and widely adopted framework with unmatched integrations and production tooling.",
+      "praise": "Its modular architecture with LangChain Expression Language (LCEL) allows for composing complex chains and agents with remarkable control and transparency.",
+      "praise_short": "Extremely modular and composable via LCEL.",
+      "criticism": "The framework's rapid evolution and sprawling abstractions can create a steep learning curve and lead to 'wrapper hell' for complex projects.",
+      "criticism_short": "Steep learning curve and complex abstractions.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "GitHub Repository Activity",
+        "G2 User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Anthropic",
+        "Google Gemini",
+        "Hugging Face",
+        "Pinecone",
+        "ChromaDB",
+        "PostgreSQL",
+        "APIs"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "LlamaIndex",
+      "url": "https://www.llamaindex.ai/",
+      "founded": 2022,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Developers building data-centric agents that need to perform complex reasoning and retrieval over private or domain-specific documents.",
+      "best_for_short": "Best for data-centric RAG agents",
+      "pricing_band": "Free (Open Source) + Optional Paid Platform",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 9,
+        "Production-Readiness & Observability": 9,
+        "Developer Experience & Ease of Use": 9.2,
+        "Community & Ecosystem": 9,
+        "Multi-Agent Capabilities": 8.5
+      },
+      "verdict": "LlamaIndex earns its rank by providing a specialized, high-performance toolkit for building agents on top of your own data, making it the leader for advanced Retrieval-Augmented Generation (RAG) use cases.",
+      "verdict_short": "The top choice for building agents that reason over private or complex datasets.",
+      "praise": "Its sophisticated data indexing, ingestion, and advanced query engine capabilities are second to none for RAG-based agent architectures.",
+      "praise_short": "Unmatched data indexing and RAG capabilities.",
+      "criticism": "While it has general agent capabilities, its primary focus on RAG means it can be less flexible than LangChain for agents that don't rely heavily on data retrieval.",
+      "criticism_short": "Less flexible for non-RAG agent tasks.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "GitHub Repository Activity",
+        "Developer Community Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Anthropic",
+        "Weaviate",
+        "Pinecone",
+        "Snowflake",
+        "Databricks",
+        "Notion",
+        "Slack"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "CrewAI",
+      "url": "https://www.crewai.com/",
+      "founded": 2023,
+      "hq": "San Francisco, USA",
+      "team_size_band": "2-10",
+      "best_for": "Developers focused on building sophisticated multi-agent systems where autonomous agents with distinct roles and tools collaborate to solve complex problems.",
+      "best_for_short": "Best for multi-agent collaboration",
+      "pricing_band": "Free (Open Source)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 8.5,
+        "Production-Readiness & Observability": 8.2,
+        "Developer Experience & Ease of Use": 9.3,
+        "Community & Ecosystem": 8.8,
+        "Multi-Agent Capabilities": 9.4
+      },
+      "verdict": "CrewAI excels as a specialized framework for orchestrating collaborative multi-agent systems, offering an intuitive, role-based approach that simplifies the creation of sophisticated agentic workflows.",
+      "verdict_short": "An intuitive, powerful framework for orchestrating teams of collaborating AI agents.",
+      "praise": "The framework's clear and elegant abstractions for defining Agents, Tasks, and Crews make it exceptionally easy to design and manage complex multi-agent interactions.",
+      "praise_short": "Elegant, intuitive multi-agent abstractions.",
+      "criticism": "As a newer and more specialized framework, it lacks the vast integration ecosystem and production-grade observability tools of more mature platforms like LangChain.",
+      "criticism_short": "Smaller ecosystem and fewer production tools.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "GitHub Repository Activity",
+        "Social Media Mentions"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "OpenAI",
+        "Anthropic",
+        "Custom Tools",
+        "Serper API"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Microsoft AutoGen",
+      "url": "https://microsoft.github.io/autogen/",
+      "founded": 2023,
+      "hq": "Redmond, USA",
+      "team_size_band": "Project within Microsoft Research",
+      "best_for": "Researchers and developers building advanced, conversational multi-agent systems that can solve complex tasks through automated agent chats.",
+      "best_for_short": "Conversational multi-agent systems",
+      "pricing_band": "Free (Open Source)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 9,
+        "Production-Readiness & Observability": 7.8,
+        "Developer Experience & Ease of Use": 8.5,
+        "Community & Ecosystem": 8.6,
+        "Multi-Agent Capabilities": 9.3
+      },
+      "verdict": "Microsoft's AutoGen is a top-tier framework for creating multi-agent systems by enabling multiple, conversable agents to work together, offering a powerful and highly customizable approach to agent orchestration.",
+      "verdict_short": "A powerful, research-backed framework for building agents that collaborate via conversation.",
+      "praise": "Its core strength lies in the concept of 'conversable agents', which simplifies the programming of complex workflows into automated agent chats.",
+      "praise_short": "Powerful 'conversable agent' paradigm.",
+      "criticism": "The framework is more research-oriented, and its documentation and developer experience can be less polished and more complex than commercially-focused alternatives.",
+      "criticism_short": "Research-focused with a steeper learning curve.",
+      "sources_pending": [
+        "Official Documentation",
+        "GitHub Repository",
+        "Academic Papers"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Azure OpenAI",
+        "Local LLMs",
+        "Python Functions"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Superagent",
+      "url": "https://www.superagent.sh/",
+      "founded": 2023,
+      "hq": "London, UK",
+      "team_size_band": "2-10",
+      "best_for": "Developers who want a managed, API-first platform to quickly build, deploy, and manage agents without dealing with the underlying infrastructure.",
+      "best_for_short": "Managed API-first agent platform",
+      "pricing_band": "$ (Free tier, paid plans from $50/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7.8,
+        "Production-Readiness & Observability": 9,
+        "Developer Experience & Ease of Use": 9.2,
+        "Community & Ecosystem": 7.5,
+        "Multi-Agent Capabilities": 8
+      },
+      "verdict": "Superagent provides the best managed platform experience, abstracting away infrastructure complexity and offering a clean API and UI for building and deploying production-grade agents quickly.",
+      "verdict_short": "A clean, API-first managed platform for rapid agent development and deployment.",
+      "praise": "Its focus on a simple, powerful API, coupled with built-in features like memory, document retrieval, and tool usage, dramatically speeds up development time.",
+      "praise_short": "Simple, powerful API speeds up development.",
+      "criticism": "Being a managed platform, it offers less flexibility and customizability compared to open-source frameworks like LangChain, potentially locking users into its ecosystem.",
+      "criticism_short": "Less flexible than open-source frameworks.",
+      "sources_pending": [
+        "Vendor Website",
+        "API Documentation",
+        "User Testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Anthropic",
+        "Stripe",
+        "Zapier",
+        "Twilio",
+        "REST APIs"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Haystack by deepset",
+      "url": "https://haystack.deepset.ai/",
+      "founded": 2018,
+      "hq": "Berlin, Germany",
+      "team_size_band": "51-200",
+      "best_for": "Enterprises and developers building robust, scalable search and RAG pipelines that can be extended with agentic capabilities.",
+      "best_for_short": "Enterprise-grade RAG & search agents",
+      "pricing_band": "Free (Open Source) + Enterprise Edition",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 8.5,
+        "Production-Readiness & Observability": 8.8,
+        "Developer Experience & Ease of Use": 8,
+        "Community & Ecosystem": 8,
+        "Multi-Agent Capabilities": 7
+      },
+      "verdict": "Haystack stands out for its enterprise-grade, pipeline-based approach to building LLM applications, making it a strong choice for creating reliable RAG agents that need to scale.",
+      "verdict_short": "A robust, pipeline-centric framework for building scalable enterprise RAG agents.",
+      "praise": "Its concept of modular, connectable 'Nodes' to build 'Pipelines' provides a clear and powerful way to construct and debug complex data flows for agents.",
+      "praise_short": "Powerful and clear pipeline-based architecture.",
+      "criticism": "While it supports agentic loops, its core design is centered on directed acyclic graphs (pipelines), making it less intuitive for highly dynamic, multi-agent systems compared to CrewAI or AutoGen.",
+      "criticism_short": "Less intuitive for dynamic multi-agent systems.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "GitHub Repository",
+        "deepset Cloud"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Elasticsearch",
+        "OpenSearch",
+        "Pinecone",
+        "Weaviate",
+        "Hugging Face",
+        "OpenAI"
+      ],
+      "compliance": [
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "SuperAGI",
+      "url": "https://superagi.com/",
+      "founded": 2023,
+      "hq": "Bengaluru, India",
+      "team_size_band": "11-50",
+      "best_for": "Developers looking for an open-source autonomous agent framework with a focus on provisioning, running, and managing agents with graphical tools.",
+      "best_for_short": "Open-source autonomous agent platform",
+      "pricing_band": "Free (Open Source) + Paid Cloud",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7.5,
+        "Production-Readiness & Observability": 8.5,
+        "Developer Experience & Ease of Use": 8.2,
+        "Community & Ecosystem": 7.8,
+        "Multi-Agent Capabilities": 7.5
+      },
+      "verdict": "SuperAGI distinguishes itself by providing a complete open-source platform, including a GUI, for managing the entire lifecycle of autonomous agents, from building to monitoring.",
+      "verdict_short": "An open-source platform with a GUI for building and managing autonomous agents.",
+      "praise": "The inclusion of a graphical user interface for agent management, performance monitoring, and token tracking is a significant advantage for teams needing operational visibility.",
+      "praise_short": "Excellent GUI for agent management.",
+      "criticism": "The framework can be less modular and extensible for developers who want to build agents from low-level components compared to foundational libraries like LangChain.",
+      "criticism_short": "Less modular than foundational frameworks.",
+      "sources_pending": [
+        "Vendor Website",
+        "GitHub Repository",
+        "Cloud Platform Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Google Search",
+        "DuckDuckGo",
+        "GitHub",
+        "Slack"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Botpress",
+      "url": "https://botpress.com/",
+      "founded": 2017,
+      "hq": "Quebec, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Teams building sophisticated, next-generation chatbots and conversational assistants with a visual, low-code interface.",
+      "best_for_short": "Visual builder for conversational agents",
+      "pricing_band": "$ (Free tier, usage-based pricing)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7.2,
+        "Production-Readiness & Observability": 8.5,
+        "Developer Experience & Ease of Use": 8.8,
+        "Community & Ecosystem": 7.5,
+        "Multi-Agent Capabilities": 6
+      },
+      "verdict": "Botpress is the leading platform for building conversational agents, offering a powerful visual flow editor and developer-friendly features that bridge the gap between no-code and full-code development.",
+      "verdict_short": "A top-tier visual platform for building complex chatbots and conversational AI.",
+      "praise": "Its visual flow editor, combined with the ability to execute custom code and integrate with any API, provides an exceptional developer experience for building complex conversational logic.",
+      "praise_short": "Excellent visual editor with code extensibility.",
+      "criticism": "Its primary focus is on conversational agents (chatbots), making it less suitable for building general-purpose autonomous agents that perform background tasks without a user interface.",
+      "criticism_short": "Primarily for chatbots, not general agents.",
+      "sources_pending": [
+        "Vendor Website",
+        "User Documentation",
+        "Community Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "WhatsApp",
+        "Stripe",
+        "Salesforce",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "US",
+        "EU",
+        "APAC"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "BuildShip",
+      "url": "https://www.buildship.com/",
+      "founded": 2023,
+      "hq": "San Francisco, USA",
+      "team_size_band": "2-10",
+      "best_for": "Developers who want a low-code visual platform to build backend workflows, APIs, and AI agents that connect to various services.",
+      "best_for_short": "Low-code backend & agent builder",
+      "pricing_band": "$ (Free tier, paid plans from $29/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7,
+        "Production-Readiness & Observability": 7.8,
+        "Developer Experience & Ease of Use": 9,
+        "Community & Ecosystem": 7,
+        "Multi-Agent Capabilities": 6.5
+      },
+      "verdict": "BuildShip excels as a low-code platform for visually building backend logic, making it incredibly fast to create and deploy AI agents that are triggered by webhooks or run on a schedule.",
+      "verdict_short": "A visual, low-code platform for rapidly building backend AI workflows.",
+      "praise": "The platform's seamless integration of AI nodes (e.g., OpenAI, Replicate) with standard backend tools like databases and APIs in a visual builder is its key strength.",
+      "praise_short": "Seamlessly combines AI and backend nodes visually.",
+      "criticism": "As a low-code platform, it sacrifices the granular control and flexibility of pure code frameworks, making it less suitable for highly complex or unconventional agent architectures.",
+      "criticism_short": "Less flexible for highly complex agents.",
+      "sources_pending": [
+        "Vendor Website",
+        "Product Hunt Reviews",
+        "Tutorials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 29,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Stripe",
+        "Supabase",
+        "Firebase",
+        "Google Sheets",
+        "Discord"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 10,
+      "name": "Agency Swarm",
+      "url": "https://github.com/VRSEN/agency-swarm",
+      "founded": 2023,
+      "hq": "Open Source",
+      "team_size_band": "Open Source Project",
+      "best_for": "Developers building multi-agent systems based on OpenAI's Assistants API who need a structured framework for agent-to-agent communication.",
+      "best_for_short": "Multi-agent framework for OpenAI Assistants",
+      "pricing_band": "Free (Open Source)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7.5,
+        "Production-Readiness & Observability": 6.8,
+        "Developer Experience & Ease of Use": 7.8,
+        "Community & Ecosystem": 6.5,
+        "Multi-Agent Capabilities": 8.5
+      },
+      "verdict": "Agency Swarm provides a valuable, specialized framework for orchestrating multiple agents built on the OpenAI Assistants API, simplifying the complex communication patterns required for them to work together effectively.",
+      "verdict_short": "A specialized framework for orchestrating agents built on OpenAI's Assistants API.",
+      "praise": "It provides a clear 'Agency' abstraction where agents with specific instructions and tools can communicate, solving a key challenge of the native Assistants API.",
+      "praise_short": "Simplifies agent-to-agent communication.",
+      "criticism": "Its tight coupling with the OpenAI Assistants API makes it less flexible and portable than model-agnostic frameworks like CrewAI or LangChain.",
+      "criticism_short": "Tightly coupled with OpenAI's Assistants API.",
+      "sources_pending": [
+        "GitHub Repository",
+        "README Documentation",
+        "Community Discussions"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI Assistants API"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "MemGPT",
+      "url": "https://memgpt.ai/",
+      "founded": 2023,
+      "hq": "Berkeley, USA",
+      "team_size_band": "Research Project / Open Source",
+      "best_for": "Developers building agents that require long-term memory and the ability to evolve their knowledge and personality over extended interactions.",
+      "best_for_short": "Agents with persistent, long-term memory",
+      "pricing_band": "Free (Open Source)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Framework Flexibility & Extensibility": 7.5,
+        "Production-Readiness & Observability": 6,
+        "Developer Experience & Ease of Use": 7,
+        "Community & Ecosystem": 7,
+        "Multi-Agent Capabilities": 7
+      },
+      "verdict": "MemGPT is a wildcard because it's not a general-purpose framework but a powerful open-source implementation of a specific technique—virtual context management—that enables LLMs to have persistent, unbounded memory, a critical component for sophisticated agents.",
+      "verdict_short": "A novel technique for giving agents persistent, long-term memory beyond context windows.",
+      "praise": "It cleverly manages different memory tiers, allowing agents to remember past interactions, modify their own memory, and evolve over time, overcoming standard LLM context limitations.",
+      "praise_short": "Solves LLM context limits with virtual memory.",
+      "criticism": "As a research-focused project, it's more of a component to be integrated into a larger system rather than a complete agent-building framework, and it requires more setup and understanding to use effectively.",
+      "criticism_short": "A component, not a full framework.",
+      "sources_pending": [
+        "Project Website",
+        "Academic Paper",
+        "GitHub Repository"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Local LLMs",
+        "OpenAI",
+        "Vector Databases"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

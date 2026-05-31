@@ -8,6 +8,11 @@ import aiCodingAssistants from "@/data/ai-coding-assistants.json";
 import promptEngineeringTools from "@/data/prompt-engineering-tools.json";
 import vectorDatabases from "@/data/vector-databases.json";
 import ragFrameworks from "@/data/rag-frameworks.json";
+import llmEvaluationPlatforms from "@/data/llm-evaluation-platforms.json";
+import aiAgentBuilders from "@/data/ai-agent-builders.json";
+import aiObservabilityPlatforms from "@/data/ai-observability-platforms.json";
+import aiCustomerSupport from "@/data/ai-customer-support.json";
+import aiSalesTools from "@/data/ai-sales-tools.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -43,6 +48,11 @@ const REGISTRY: Record<string, ListData> = {
   [promptEngineeringTools.slug]: promptEngineeringTools as unknown as ListData,
   [vectorDatabases.slug]: vectorDatabases as unknown as ListData,
   [ragFrameworks.slug]: ragFrameworks as unknown as ListData,
+  [llmEvaluationPlatforms.slug]: llmEvaluationPlatforms as unknown as ListData,
+  [aiAgentBuilders.slug]: aiAgentBuilders as unknown as ListData,
+  [aiObservabilityPlatforms.slug]: aiObservabilityPlatforms as unknown as ListData,
+  [aiCustomerSupport.slug]: aiCustomerSupport as unknown as ListData,
+  [aiSalesTools.slug]: aiSalesTools as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

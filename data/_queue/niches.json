@@ -6,46 +6,6 @@
   },
   "pending": [
     {
-      "slug": "llm-evaluation-platforms",
-      "title": "The 11 Best LLM Evaluation Platforms",
-      "vertical": "AI Engineering · Evals",
-      "audience": "ML engineers and AI product teams measuring model quality",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "ai-agent-builders",
-      "title": "The 11 Best AI Agent Builders",
-      "vertical": "AI Engineering · Agent Frameworks",
-      "audience": "Developers building autonomous AI agents and workflows",
-      "candidate_pool_size": 35,
-      "priority": 1
-    },
-    {
-      "slug": "ai-observability-platforms",
-      "title": "The 11 Best AI Observability & Tracing Platforms",
-      "vertical": "AI Infrastructure · Observability",
-      "audience": "AI/ML engineers debugging production LLM apps",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "ai-customer-support",
-      "title": "The 11 Best AI Customer Support Platforms",
-      "vertical": "Customer Support · AI",
-      "audience": "Customer support leaders replacing or augmenting tier-1 with AI",
-      "candidate_pool_size": 40,
-      "priority": 2
-    },
-    {
-      "slug": "ai-sales-tools",
-      "title": "The 11 Best AI Sales Tools",
-      "vertical": "Sales · AI",
-      "audience": "Sales leaders and SDRs using AI for prospecting and conversation analysis",
-      "candidate_pool_size": 50,
-      "priority": 2
-    },
-    {
       "slug": "ai-meeting-assistants",
       "title": "The 11 Best AI Meeting Assistants & Note-Takers",
       "vertical": "Productivity · AI",
@@ -393,7 +353,12 @@
     "ai-coding-assistants",
     "prompt-engineering-tools",
     "vector-databases",
-    "rag-frameworks"
+    "rag-frameworks",
+    "llm-evaluation-platforms",
+    "ai-agent-builders",
+    "ai-observability-platforms",
+    "ai-customer-support",
+    "ai-sales-tools"
   ],
   "skipped": []
 }

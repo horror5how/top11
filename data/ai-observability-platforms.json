@@ -1,0 +1,857 @@
+{
+  "slug": "ai-observability-platforms",
+  "title": "The 11 Best AI Observability & Tracing Platforms",
+  "subtitle": "A ranked analysis of platforms for debugging, monitoring, and tracing production large language model (LLM) applications.",
+  "vertical": "AI Infrastructure · Observability",
+  "audience": "AI/ML engineers debugging production LLM apps",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Developer Tools",
+  "subsector": "AI Monitoring",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights LLM-Specific Features (30%), Integration Ecosystem (25%), Debugging & Root Cause Analysis (20%), Production Readiness & Scalability (15%), and User Experience (10%)."
+    }
+  ],
+  "answer_capsule": "The best AI observability platform is LangSmith for its deep integration with the LangChain ecosystem, followed by Arize AI and Datadog for their robust, enterprise-grade monitoring capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "LLM-Specific Features",
+        "weight": 30,
+        "description": "Depth of features for tracing prompts, completions, token usage, cost, RAG pipelines, function calls, and agentic workflows."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 25,
+        "description": "Ease of integration with LLM frameworks (LangChain, LlamaIndex), model providers (OpenAI, Anthropic), vector DBs, and existing observability stacks (Datadog, OpenTelemetry)."
+      },
+      {
+        "name": "Debugging & Root Cause Analysis",
+        "weight": 20,
+        "description": "Effectiveness of tools for identifying root causes of issues like hallucinations, poor quality, or high latency, including search, filtering, and comparison features."
+      },
+      {
+        "name": "Production Readiness & Scalability",
+        "weight": 15,
+        "description": "Platform stability, scalability, and security for production workloads, including performance, reliability, and compliance (e.g., SOC 2)."
+      },
+      {
+        "name": "User Experience & Onboarding",
+        "weight": 10,
+        "description": "Intuitive UI, quality of documentation, and time-to-value for new engineering teams."
+      }
+    ]
+  },
+  "segment_tags": [
+    "LLM monitoring",
+    "RAG observability",
+    "AI tracing",
+    "prompt engineering",
+    "generative AI",
+    "MLOps"
+  ],
+  "problem_tags": [
+    "debugging LLM apps",
+    "production AI issues",
+    "LLM hallucinations",
+    "high token costs",
+    "slow AI responses",
+    "RAG pipeline failures"
+  ],
+  "query_intents": [
+    "best langsmith alternative",
+    "llm observability tools",
+    "compare ai tracing platforms",
+    "open source llm monitoring",
+    "datadog for llms"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "deep LangChain debugging",
+        "tracing complex agentic workflows"
+      ],
+      "personas": [
+        "LangChain developers",
+        "AI engineers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "model performance drift",
+        "unstructured data quality issues"
+      ],
+      "personas": [
+        "ML engineers",
+        "data scientists"
+      ]
+    },
+    "3": {
+      "solves": [
+        "consolidating AI and infra monitoring",
+        "enterprise-scale LLM observability"
+      ],
+      "personas": [
+        "DevOps teams",
+        "SREs"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.19,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is AI Observability?",
+      "a": "AI Observability is the practice of using tools and techniques to gain deep visibility into complex AI systems, particularly LLM-based applications. It goes beyond traditional software monitoring to track unique elements like prompt/completion pairs, token usage, model drift, data quality, and the behavior of multi-step AI agents or RAG pipelines. The goal is to enable rapid debugging, performance optimization, and cost management for AI in production."
+    },
+    {
+      "q": "Why is it different from traditional APM?",
+      "a": "Traditional Application Performance Monitoring (APM) focuses on metrics like CPU usage, memory, latency, and error rates of stateless services. AI Observability addresses the stochastic and stateful nature of AI. It must trace the 'why' behind a model's output, not just the 'what' of a service failure. This involves inspecting prompts, analyzing embedding quality, tracking conversational context, and evaluating the semantic correctness of responses—concepts foreign to traditional APM."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your core framework. If you are heavily invested in an ecosystem like LangChain, a native tool like LangSmith will offer the tightest integration and least friction.",
+    "Consider your existing stack. If your organization already uses Datadog or New Relic for infrastructure monitoring, leveraging their new LLM observability features can provide a single pane of glass, though perhaps with less specialized depth than a purpose-built tool.",
+    "Evaluate your primary pain point. Are you focused on prompt-level debugging, monitoring for data drift and hallucinations, or managing costs and latency? Different platforms excel in different areas.",
+    "Decide between a proxy/gateway model vs. an SDK-based approach. Gateways like Helicone or Portkey can be easier to set up initially, while SDKs offer more granular control and deeper application context."
+  ],
+  "faqs": [
+    {
+      "q": "What is AI observability?",
+      "a": "AI observability provides visibility into the internal workings of AI and machine learning models in production. For LLMs, this means tracing and logging prompts, responses, latency, token counts, and costs to quickly debug issues like hallucinations, high costs, or poor performance."
+    },
+    {
+      "q": "Why is tracing important for LLM applications?",
+      "a": "LLM applications are often complex chains or graphs of calls (e.g., in RAG systems). Tracing allows developers to see the entire lifecycle of a request—from user input to data retrieval to the final LLM call—making it possible to identify bottlenecks, errors, or the specific step that caused a bad output."
+    },
+    {
+      "q": "How do I choose an AI observability platform?",
+      "a": "Consider your tech stack (e.g., LangChain, Python), primary pain points (cost, latency, quality), team size, and budget. If you're heavily invested in a framework, its native observability tool (like LangSmith for LangChain) is often the best start. For broader needs or integration with existing APM, consider incumbents like Datadog or specialists like Arize."
+    },
+    {
+      "q": "What is the difference between AI observability and MLOps?",
+      "a": "MLOps is a broad set of practices for the entire machine learning lifecycle, including data prep, training, deployment, and governance. AI observability is a sub-discipline of MLOps focused specifically on the post-deployment monitoring, debugging, and performance analysis of live models."
+    }
+  ],
+  "honest_disclosures": [
+    "This is a rapidly evolving market; feature sets and pricing change monthly. The rankings reflect the state of the market as of the publication date.",
+    "Many platforms are venture-backed startups, which carries inherent platform risk compared to established public companies.",
+    "Most providers are US-based, and support for international data residency and compliance requirements may vary."
+  ],
+  "glossary": {
+    "term": "RAG (Retrieval-Augmented Generation)",
+    "definition": "An AI architecture that combines a pre-trained large language model with an external knowledge retrieval system. Before generating a response, the system retrieves relevant documents or data snippets from a knowledge base (like a vector database) to provide context, reducing hallucinations and allowing the model to use up-to-date or proprietary information.",
+    "synonyms": [
+      "Retrieval-Augmented Generation"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "LangSmith",
+      "url": "https://www.langchain.com/langsmith",
+      "founded": 2023,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Teams building with the LangChain or LangGraph frameworks who need a seamlessly integrated, purpose-built debugging and tracing solution.",
+      "best_for_short": "Deep debugging for LangChain apps",
+      "pricing_band": "$$ ($75 to $500/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "LLM-Specific Features": 9.4,
+        "Integration Ecosystem": 9.3,
+        "Debugging & Root Cause Analysis": 9.4,
+        "Production Readiness & Scalability": 8.5,
+        "User Experience & Onboarding": 9
+      },
+      "verdict": "LangSmith is the best AI observability platform for teams building on LangChain because its native integration provides unparalleled visibility into complex chains and agents, making debugging intuitive and fast.",
+      "verdict_short": "The essential, purpose-built observability tool for the massive LangChain ecosystem, offering unmatched debugging depth.",
+      "praise": "The platform's ability to visualize complex agentic traces and nested tool calls is best-in-class, turning opaque processes into understandable execution graphs.",
+      "praise_short": "Unmatched visualization of complex agent traces.",
+      "criticism": "While powerful, its value is heavily tied to the LangChain ecosystem; teams not using LangChain may find other platforms to be a more natural fit.",
+      "criticism_short": "Less valuable for non-LangChain stacks.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Reviews",
+        "Community forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LangGraph",
+        "OpenAI",
+        "Anthropic",
+        "Cohere",
+        "Google Vertex AI",
+        "Mistral",
+        "LlamaIndex"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Arize AI",
+      "url": "https://arize.com",
+      "founded": 2019,
+      "hq": "Berkeley, USA",
+      "team_size_band": "51-200",
+      "best_for": "ML teams who need a robust, enterprise-grade platform that excels at monitoring for model drift, data quality issues, and performance degradation in both traditional ML and LLM applications.",
+      "best_for_short": "Enterprise-grade model performance monitoring",
+      "pricing_band": "$$$ ($599 to $2,000+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "LLM-Specific Features": 8.8,
+        "Integration Ecosystem": 9,
+        "Debugging & Root Cause Analysis": 9.2,
+        "Production Readiness & Scalability": 9.4,
+        "User Experience & Onboarding": 8.5
+      },
+      "verdict": "Arize AI ranks this high due to its deep expertise in ML monitoring, which it has successfully translated into powerful LLM observability features, particularly around unstructured data, drift detection, and RAG evaluation.",
+      "verdict_short": "A mature, enterprise-ready platform with deep roots in ML monitoring, excelling at drift and RAG evaluation.",
+      "praise": "Its automated monitors and root cause analysis workflows for identifying performance regressions and data quality issues are exceptionally powerful for production environments.",
+      "praise_short": "Powerful automated monitors for production issues.",
+      "criticism": "The platform can be more complex to set up and navigate than some newer, LLM-native tools, reflecting its broader MLOps heritage.",
+      "criticism_short": "Can be complex to set up.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Forrester Wave reports",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "OpenAI",
+        "LangChain",
+        "LlamaIndex",
+        "AWS SageMaker",
+        "Google Vertex AI",
+        "Databricks",
+        "Snowflake",
+        "OpenTelemetry"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Datadog",
+      "url": "https://www.datadoghq.com/product/llm-observability/",
+      "founded": 2010,
+      "hq": "New York, USA",
+      "team_size_band": "5000+",
+      "best_for": "Organizations already invested in the Datadog ecosystem that want to consolidate their infrastructure, application, and AI monitoring into a single platform.",
+      "best_for_short": "Unified observability for existing users",
+      "pricing_band": "$$$ (Usage-based)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "LLM-Specific Features": 8.4,
+        "Integration Ecosystem": 9.4,
+        "Debugging & Root Cause Analysis": 8.6,
+        "Production Readiness & Scalability": 9.5,
+        "User Experience & Onboarding": 8
+      },
+      "verdict": "Datadog secures a top spot by offering a 'good enough' and rapidly improving LLM observability product within a world-class, unified platform that thousands of companies already trust for their core infrastructure monitoring.",
+      "verdict_short": "A strong, integrated LLM observability solution for companies already committed to the Datadog platform.",
+      "praise": "The ability to seamlessly correlate an LLM trace with application logs, infrastructure metrics, and RUM data in one place is a superpower for holistic debugging.",
+      "praise_short": "Unifies LLM traces with logs and metrics.",
+      "criticism": "Its LLM-specific features, while improving, still lack the depth and developer-centric UX of purpose-built tools like LangSmith, and pricing can be complex to predict.",
+      "criticism_short": "LLM features less deep than specialists.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Gartner Magic Quadrant",
+        "Public company filings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "LangChain",
+        "AWS",
+        "GCP",
+        "Azure",
+        "Kubernetes",
+        "OpenTelemetry",
+        "Hundreds more"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "PCI DSS",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Galileo",
+      "url": "https://www.rungalileo.io/",
+      "founded": 2021,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Teams focused on the quality and safety of unstructured data pipelines, especially for evaluating, monitoring, and debugging RAG systems.",
+      "best_for_short": "Data-centric RAG evaluation & monitoring",
+      "pricing_band": "$$$$ (Custom Enterprise)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "LLM-Specific Features": 9,
+        "Integration Ecosystem": 8.2,
+        "Debugging & Root Cause Analysis": 9,
+        "Production Readiness & Scalability": 8.2,
+        "User Experience & Onboarding": 8.5
+      },
+      "verdict": "Galileo earns its high rank by focusing intensely on the data-centric aspects of LLM observability, offering powerful tools to detect hallucinations, PII leaks, and data quality issues that other platforms overlook.",
+      "verdict_short": "A data-centric platform excelling at RAG evaluation, hallucination detection, and unstructured data quality.",
+      "praise": "Its suite of 'guardrail metrics' for automatically detecting issues like context adherence, prompt injections, and data toxicity is a key differentiator for production safety.",
+      "praise_short": "Excellent 'guardrail metrics' for AI safety.",
+      "criticism": "The platform is less focused on general-purpose application tracing and cost management compared to broader observability tools.",
+      "criticism_short": "Less focused on cost and latency tracing.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Crunchbase",
+        "Customer case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "OpenAI",
+        "LangChain",
+        "LlamaIndex",
+        "Databricks",
+        "Snowflake",
+        "Pinecone",
+        "ChromaDB"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "WhyLabs",
+      "url": "https://whylabs.ai/",
+      "founded": 2019,
+      "hq": "Seattle, USA",
+      "team_size_band": "11-50",
+      "best_for": "Data science and ML teams that need a robust platform for monitoring data drift, data quality, and model health with a strong open-source component.",
+      "best_for_short": "Data drift and quality monitoring",
+      "pricing_band": "$$$ ($500 to $2,500/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "LLM-Specific Features": 8,
+        "Integration Ecosystem": 8.5,
+        "Debugging & Root Cause Analysis": 8.6,
+        "Production Readiness & Scalability": 8.8,
+        "User Experience & Onboarding": 8
+      },
+      "verdict": "WhyLabs is a top contender because of its mature, data-first approach to monitoring, built on the popular open-source whylogs library, making it excellent for teams that prioritize data quality and statistical profiling.",
+      "verdict_short": "A mature, data-first monitoring platform built on the popular open-source whylogs library.",
+      "praise": "The platform's ability to create statistical profiles of data at scale and automatically detect anomalies is highly effective for catching subtle issues in production.",
+      "praise_short": "Excellent at statistical profiling and anomaly detection.",
+      "criticism": "Its user interface and feature set for interactive, trace-based debugging of LLM chains are less developed than more specialized, LLM-native platforms.",
+      "criticism_short": "Interactive LLM trace debugging is less mature.",
+      "sources_pending": [
+        "Vendor documentation",
+        "whylogs GitHub",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 2500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "AWS SageMaker",
+        "Databricks",
+        "Snowflake",
+        "Kafka",
+        "Spark",
+        "Ray",
+        "LangChain",
+        "OpenAI"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Helicone",
+      "url": "https://www.helicone.ai/",
+      "founded": 2022,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1-10",
+      "best_for": "Developers and startups looking for a simple, lightweight, and easy-to-implement solution for logging, caching, and monitoring LLM API calls.",
+      "best_for_short": "Simple, developer-first API monitoring",
+      "pricing_band": "$ ($40 to $200/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "LLM-Specific Features": 8.2,
+        "Integration Ecosystem": 8,
+        "Debugging & Root Cause Analysis": 7.8,
+        "Production Readiness & Scalability": 8,
+        "User Experience & Onboarding": 9.2
+      },
+      "verdict": "Helicone stands out for its simplicity and developer-first approach; it acts as an intelligent proxy for LLM APIs, providing valuable logging, caching, and analytics with minimal code changes.",
+      "verdict_short": "A simple, elegant API proxy for LLM logging, caching, and analytics with near-zero setup friction.",
+      "praise": "The ease of setup is its killer feature—developers can get comprehensive request/response logging and cost tracking in minutes by simply changing a base URL.",
+      "praise_short": "Extremely easy to set up.",
+      "criticism": "It lacks the deep, multi-step trace analysis and complex data quality monitoring features found in more comprehensive, enterprise-focused platforms.",
+      "criticism_short": "Lacks deep, multi-step trace analysis.",
+      "sources_pending": [
+        "Vendor documentation",
+        "YC Directory",
+        "GitHub"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-31",
+        "summary": "Early-stage startup, which carries inherent platform longevity risk.",
+        "signals": [
+          "Small team size",
+          "Recent funding rounds"
+        ]
+      },
+      "price_min": 0,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Anthropic",
+        "Azure OpenAI",
+        "Workers AI",
+        "LangChain",
+        "LlamaIndex"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 7,
+      "name": "New Relic",
+      "url": "https://newrelic.com/platform/ai-monitoring",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5000+",
+      "best_for": "Enterprises that have standardized on New Relic for APM and want to extend observability to their new AI-powered features within the same platform.",
+      "best_for_short": "Integrated AI monitoring for NR users",
+      "pricing_band": "$$$ (Usage-based)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "LLM-Specific Features": 7.8,
+        "Integration Ecosystem": 8.8,
+        "Debugging & Root Cause Analysis": 7.9,
+        "Production Readiness & Scalability": 9.4,
+        "User Experience & Onboarding": 7.5
+      },
+      "verdict": "New Relic, like Datadog, makes the list by providing a solid AI monitoring solution that integrates tightly with its market-leading APM platform, offering immense value to its large existing customer base.",
+      "verdict_short": "A robust, integrated AI monitoring solution for the extensive New Relic enterprise customer base.",
+      "praise": "Its auto-instrumentation for popular libraries and ability to map LLM performance to specific business transactions are significant advantages for existing users.",
+      "praise_short": "Maps LLM performance to business transactions.",
+      "criticism": "The user experience for AI-specific workflows can feel less intuitive than dedicated tools, and some advanced LLM debugging features are still maturing.",
+      "criticism_short": "AI-specific UX is less intuitive.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Gartner Magic Quadrant",
+        "Public company filings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "LangChain",
+        "AWS Bedrock",
+        "Python",
+        "Node.js",
+        "OpenTelemetry",
+        "Hundreds more"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Fiddler AI",
+      "url": "https://www.fiddler.ai/",
+      "founded": 2018,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "51-200",
+      "best_for": "Regulated industries and enterprises that require strong model governance, explainability (XAI), and fairness monitoring alongside performance observability.",
+      "best_for_short": "Explainability and responsible AI monitoring",
+      "pricing_band": "$$$$ (Custom Enterprise)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "LLM-Specific Features": 7.5,
+        "Integration Ecosystem": 7.8,
+        "Debugging & Root Cause Analysis": 8.2,
+        "Production Readiness & Scalability": 8.5,
+        "User Experience & Onboarding": 7.2
+      },
+      "verdict": "Fiddler AI's strength lies in its deep focus on responsible AI, providing powerful explainability and bias detection capabilities that are critical for enterprises in finance, healthcare, and other regulated sectors.",
+      "verdict_short": "A responsible AI platform with strong explainability, bias detection, and governance features for enterprises.",
+      "praise": "Its ability to provide detailed explanations for model predictions and analyze for fairness and bias across different segments is a key differentiator.",
+      "praise_short": "Powerful explainability and bias detection.",
+      "criticism": "The platform is more focused on model validation and governance than on the real-time, low-latency request tracing that many LLM application developers prioritize.",
+      "criticism_short": "Less focused on real-time request tracing.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Gartner Reports",
+        "Customer case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "AWS SageMaker",
+        "Databricks",
+        "Snowflake",
+        "Google Vertex AI",
+        "OpenAI",
+        "Hugging Face"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Sentry",
+      "url": "https://sentry.io/for/ai/",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Application development teams already using Sentry for error tracking who want to see AI pipeline issues in the context of their broader application's health.",
+      "best_for_short": "AI error tracking for Sentry users",
+      "pricing_band": "$$ ($26 to $400/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "LLM-Specific Features": 7.2,
+        "Integration Ecosystem": 8,
+        "Debugging & Root Cause Analysis": 8,
+        "Production Readiness & Scalability": 8.5,
+        "User Experience & Onboarding": 7.5
+      },
+      "verdict": "Sentry's AI monitoring is a valuable extension for its existing users, connecting LLM pipeline errors and performance issues directly to the application-level errors and traces they already know and love.",
+      "verdict_short": "Connects LLM pipeline issues directly to application errors and traces for existing Sentry users.",
+      "praise": "The ability to see an LLM's failed API call as part of the full stack trace that caused a user-facing error is extremely powerful for fast debugging.",
+      "praise_short": "Links LLM errors to full stack traces.",
+      "criticism": "Its feature set is more focused on error and performance monitoring rather than the deeper, data-centric analysis of prompt quality, model drift, or RAG evaluation.",
+      "criticism_short": "Lacks deep, data-centric model analysis.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Reviews",
+        "GitHub"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "LangChain",
+        "Python",
+        "JavaScript",
+        "Ruby",
+        "Go",
+        "GitHub",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Portkey",
+      "url": "https://portkey.ai/",
+      "founded": 2023,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1-10",
+      "best_for": "Teams that need an AI gateway to manage prompts, cache requests, and route between models, with observability as a key integrated feature.",
+      "best_for_short": "AI gateway with integrated observability",
+      "pricing_band": "$$ ($100 to $500/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "LLM-Specific Features": 7.8,
+        "Integration Ecosystem": 7.5,
+        "Debugging & Root Cause Analysis": 7,
+        "Production Readiness & Scalability": 7.2,
+        "User Experience & Onboarding": 8
+      },
+      "verdict": "Portkey carves out a niche by bundling observability with a suite of AI gateway features like semantic caching, automatic retries, and fallbacks, making it a control plane for LLM usage, not just a monitoring tool.",
+      "verdict_short": "An AI gateway that bundles observability with caching, retries, and model routing features.",
+      "praise": "The semantic caching and load balancing features can deliver significant performance improvements and cost savings, which are tracked directly within its observability dashboards.",
+      "praise_short": "Semantic caching provides direct cost savings.",
+      "criticism": "As a comprehensive gateway, it introduces an extra component into the critical path of an application, and its pure observability features are less mature than dedicated platforms.",
+      "criticism_short": "Observability features are less mature.",
+      "sources_pending": [
+        "Vendor documentation",
+        "YC Directory",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-31",
+        "summary": "Early-stage startup, which carries inherent platform longevity risk.",
+        "signals": [
+          "Small team size",
+          "Recent funding rounds"
+        ]
+      },
+      "price_min": 0,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenAI",
+        "Anthropic",
+        "Cohere",
+        "Google Vertex AI",
+        "LangChain",
+        "LlamaIndex"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "OpenLLMetry",
+      "url": "https://github.com/traceloop/openllmetry",
+      "founded": 2023,
+      "hq": "Open Source",
+      "team_size_band": "1-10",
+      "best_for": "Teams committed to an OpenTelemetry-native observability strategy who want to extend their existing tracing infrastructure to include LLM signals without vendor lock-in.",
+      "best_for_short": "Open source, OpenTelemetry-native tracing",
+      "pricing_band": "$ (Free)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "LLM-Specific Features": 7.5,
+        "Integration Ecosystem": 8.5,
+        "Debugging & Root Cause Analysis": 6.5,
+        "Production Readiness & Scalability": 6.8,
+        "User Experience & Onboarding": 6
+      },
+      "verdict": "Our wildcard pick, OpenLLMetry, isn't a platform but an open-source standard for adding LLM-specific signals to OpenTelemetry traces, making it a powerful, vendor-agnostic choice for teams wanting to own their observability stack.",
+      "verdict_short": "A vendor-agnostic, open-source standard for adding LLM signals to OpenTelemetry traces.",
+      "praise": "It provides a future-proof, flexible foundation that avoids vendor lock-in, allowing teams to send LLM traces to any OpenTelemetry-compatible backend like Jaeger, Datadog, or Honeycomb.",
+      "praise_short": "Future-proof and avoids vendor lock-in.",
+      "criticism": "It requires significant engineering effort to set up and maintain a full backend and visualization layer; it's a set of tools, not a complete, out-of-the-box solution.",
+      "criticism_short": "Requires significant DIY engineering effort.",
+      "sources_pending": [
+        "GitHub repository",
+        "OpenTelemetry documentation",
+        "Community Slack"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-31",
+        "summary": "Project is maintained by a startup (Traceloop), and its long-term development depends on community adoption and corporate sponsorship.",
+        "signals": [
+          "Reliance on community contributions"
+        ]
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "OpenTelemetry",
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "Jaeger",
+        "Prometheus",
+        "Grafana"
+      ],
+      "compliance": [],
+      "regions": [
+        "Self-hosted"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 100
+    }
+  ]
+}
