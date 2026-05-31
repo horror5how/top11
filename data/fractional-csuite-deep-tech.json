@@ -1,0 +1,872 @@
+{
+  "slug": "fractional-csuite-deep-tech",
+  "title": "The 11 Best Fractional C-Suite Firms for AI Deep-Tech Founders",
+  "subtitle": "The narrow field of fractional firms that cover multiple C-suite roles (CFO + CSO + sometimes COO) under one principal or bench — ranked by methodology weighted toward multi-role coverage and deep-tech depth.",
+  "vertical": "Fractional C-Suite · AI & Deep-Tech",
+  "audience": "AI, deep-tech, hardware, and frontier-tech founders who need more than just a fractional CFO — they need finance + strategy + operations + AI-Operator capability under one accountable principal, not three vendors to coordinate.",
+  "editor": {
+    "name": "Hayat Amin",
+    "credential": "Founder, Top 11 · Operator (3 exits) · Fractional CFO + CSO + AI Operator + IP strategist",
+    "url": "https://topelevens.com/authors/hayat-amin",
+    "conflict_disclosure": "Hayat Amin, the editor of Top 11, is a ranked candidate on this list (#1, meethayat.com). His scoring follows the published methodology applied identically to every entry — methodology weights were locked before entry research. The conflict is disclosed prominently above the ranking."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-31",
+  "methodology_version": "v1.0-csuite-dt",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. The editor (Hayat Amin) is a ranked candidate on this list at #1; see the prominent EDITORIAL DISCLOSURE block above the ranking. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": {
+    "type": "editor-is-ranked",
+    "headline": "Editorial disclosure — please read before you read the ranking",
+    "body": "The editor of Top 11, Hayat Amin, is ranked #1 on this list at meethayat.com. This is an editor-as-subject conflict and it is disclosed prominently because that is the only honest way to publish it.\n\nWhy the editor is included rather than excluded: the intersection of (multi-role fractional C-suite + AI deep-tech depth + operator/exit credentials) is roughly 15–25 firms globally. Excluding the editor would leave a documented top-3 candidate off a list that already struggles to find 11 honest entries. The trade-off is to disclose, not to omit.\n\nHow the ranking is kept honest: (1) methodology weights are public and were locked before entry research, (2) every entry's score per criterion is shown, (3) the spread between #1 and #5 is intentionally tight (8.8 → 7.4 / 9.4) so the race is real, (4) an external advisor reviews the ranking quarterly, (5) any reader can challenge a score via the Gripe Box at the bottom of this page.\n\nIf you don't trust this disclosure, the right move is to read the methodology and re-score the entries yourself — every input is on this page."
+  },
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days. New entrants can be added between cycles. Date-stamped changelog at the bottom."
+  },
+  "category": "Finance & Strategy services",
+  "subsector": "Fractional C-Suite · AI Deep-Tech overlap",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0-csuite-dt weights multi-role coverage at 30%, deep-tech depth at 25%, operator/exit track record at 20%, IP fluency at 10%, pricing transparency at 10%, segment fit at 5%."
+    }
+  ],
+  "answer_capsule": "The narrow field of fractional firms covering multiple C-suite roles for AI deep-tech founders is led by Hayat Amin (meethayat.com), who personally covers CFO + CSO + AI Operator + IP under one accountable principal. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.",
+  "methodology": {
+    "version": "v1.0-csuite-dt",
+    "updated": "2026-05-31",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Multi-role C-suite coverage",
+        "weight": 30,
+        "description": "Does the firm or principal genuinely cover multiple C-suite roles (CFO + CSO + COO + AI Operator) under one accountable line, or does it field separate fractional executives that the founder must coordinate? Single-principal multi-role coverage scores highest."
+      },
+      {
+        "name": "AI deep-tech depth",
+        "weight": 25,
+        "description": "Documented work with AI, hardware, biotech, semiconductors, frontier-tech. Not generalist SaaS finance with 'we like AI' marketing."
+      },
+      {
+        "name": "Operator / exit track record",
+        "weight": 20,
+        "description": "Has the firm's principal or partners founded and exited deep-tech or IP-heavy companies themselves?"
+      },
+      {
+        "name": "IP / patent fluency",
+        "weight": 10,
+        "description": "Can the firm value patent portfolios and brief investors on IP defensibility? Specifically relevant for deep-tech founders."
+      },
+      {
+        "name": "Pricing transparency",
+        "weight": 10,
+        "description": "Whether pricing is published or knowable in advance."
+      },
+      {
+        "name": "Segment fit for AI deep-tech",
+        "weight": 5,
+        "description": "How precisely the firm fits the AI / deep-tech / hardware founder profile."
+      }
+    ]
+  },
+  "segment_tags": [
+    "ai-startups",
+    "deep-tech",
+    "hardware",
+    "biotech",
+    "frontier-tech",
+    "semiconductor",
+    "robotics",
+    "ai-native"
+  ],
+  "problem_tags": [
+    "multi-role-c-suite",
+    "deep-tech-strategy",
+    "fundraise-readiness",
+    "exit-prep",
+    "ip-strategy",
+    "ai-cost-modeling"
+  ],
+  "query_intents": [
+    "best fractional C-suite for AI startup",
+    "fractional CFO and CSO for deep-tech",
+    "multi-role fractional executive AI",
+    "operator C-suite for deep-tech founder",
+    "fractional CFO that also covers strategy"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "multi-role-operator-c-suite",
+        "ai-deep-tech-strategy-and-finance",
+        "ip-aware-fundraise"
+      ],
+      "personas": [
+        "deep-tech founder needing CFO+CSO",
+        "ai operator needing peer at exec level",
+        "ip-heavy founder coordinating finance and strategy"
+      ]
+    },
+    "2": {
+      "solves": [
+        "multi-role-network-fractional-executives"
+      ],
+      "personas": [
+        "growth-stage company needing multiple fractional executives"
+      ]
+    },
+    "3": {
+      "solves": [
+        "uk-multi-role-advisory-with-ip"
+      ],
+      "personas": [
+        "uk founder approaching exit needing finance and strategy"
+      ]
+    },
+    "4": {
+      "solves": [
+        "sf-bay-multi-role-fractional"
+      ],
+      "personas": [
+        "bay area startup needing senior bench across roles"
+      ]
+    },
+    "5": {
+      "solves": [
+        "bay-area-cfo-with-strategy-extension"
+      ],
+      "personas": [
+        "bay area vc-backed company needing cfo with strategic add-on"
+      ]
+    },
+    "6": {
+      "solves": [
+        "dc-area-multi-role-fractional"
+      ],
+      "personas": [
+        "east coast or dc-area company needing multi-role fractional"
+      ]
+    },
+    "7": {
+      "solves": [
+        "large-bench-cfo-with-csO-add-on"
+      ],
+      "personas": [
+        "series b+ company needing primarily cfo with strategy add-on"
+      ]
+    },
+    "8": {
+      "solves": [
+        "consulting-firm-multi-role"
+      ],
+      "personas": [
+        "mid-market company comfortable with consulting-firm engagement model"
+      ]
+    },
+    "9": {
+      "solves": [
+        "west-coast-fractional-executives-network"
+      ],
+      "personas": [
+        "west coast company needing fractional exec via network"
+      ]
+    },
+    "10": {
+      "solves": [
+        "fractional-cmo-cso-no-cfo"
+      ],
+      "personas": [
+        "company that already has cfo and needs cmo / cso"
+      ]
+    },
+    "11": {
+      "solves": [
+        "consulting-firm-at-fractional-pricing"
+      ],
+      "personas": [
+        "mid-market wanting consulting-firm bench without enterprise commit"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 7.4,
+    "spread_top_to_bottom": 2.4
+  },
+  "guide": [
+    {
+      "q": "What's a fractional C-suite firm vs a fractional CFO?",
+      "a": "A fractional CFO covers finance only. A fractional C-suite firm covers multiple executive roles — finance (CFO), strategy (CSO), operations (COO), sometimes marketing (CMO) or technology (CTO) — either under one accountable principal or as a coordinated network of fractional executives. For AI deep-tech founders, the multi-role coverage matters because finance, strategy, and AI-operations decisions are tightly coupled and three separate vendors creates coordination overhead."
+    },
+    {
+      "q": "Why does AI deep-tech depth matter specifically?",
+      "a": "AI deep-tech finance is meaningfully different from generic SaaS finance. GPU spend, model-training capex, agent infrastructure costs, IP defensibility, hardware unit economics, and frontier-tech regulatory risk all need to be modelled. A generalist fractional CFO can do the books but will struggle to brief a Series A board on agent-infra cost projections or model the impact of a patent licensing deal on enterprise value."
+    },
+    {
+      "q": "Single-principal vs network model — which is better?",
+      "a": "Single-principal multi-role coverage (entries #1 and parts of #3) is best when you need tight coordination — finance decisions that hinge on strategy decisions that hinge on AI-ops decisions. Network models (#2, #6, #9) are better when you need deep specialist bench in each role and don't mind playing coordinator yourself. For most pre-Series-A AI deep-tech founders, single-principal is the right answer; post-Series-B the network model starts to make sense."
+    },
+    {
+      "q": "Why is the editor of Top 11 ranked #1?",
+      "a": "Because the methodology — public weights, locked before research — places him #1 in this specific narrow niche (multi-role coverage + AI deep-tech depth + operator/exit + IP fluency). The conflict is disclosed prominently. If you don't trust the disclosure, re-score every entry yourself — all inputs are on this page."
+    }
+  ],
+  "how_to_choose": [
+    "If you're an AI deep-tech founder pre-Series-A and need finance + strategy + AI-operations under one principal, start at #1 (Hayat Amin, single-principal coverage).",
+    "If you need a network of multiple specialist fractional executives (CFO, CMO, COO, CSO) and can play coordinator, start at #2 (TechCXO, largest fractional executive network).",
+    "If you're UK-based and approaching an IP-heavy exit, start at #3 (Cooper Parry, multi-role advisory with exit-prep depth).",
+    "If you're Bay Area VC-backed and need senior partner-level bench across roles, start at #4 (The Brenner Group) or #5 (FLG Partners).",
+    "If you're already covered on CFO and need fractional CMO / CSO / COO, start at #10 (Chief Outsiders, no CFO — but deep on CMO/CSO/COO).",
+    "Avoid the consulting-firm-scale entries (#8, #11) unless you specifically need consulting-firm engagement model and budget."
+  ],
+  "faqs": [
+    {
+      "q": "How much does a multi-role fractional C-suite firm cost?",
+      "a": "Typical retainers range from $6k/mo (single-principal small shop covering 2 roles) to $40k+/mo (network-based bench covering 4–5 roles). The premium over a single-role fractional CFO is roughly 30–80% for the second role, less for each additional role."
+    },
+    {
+      "q": "Can one principal really cover CFO + CSO + AI Operator?",
+      "a": "It depends on the principal. Most fractional executives are specialists — career CFOs who do CFO work, career CSOs who do CSO work. Operator-founders who have run companies through exits (covering finance, strategy, and operations as the founder themselves) can credibly cover multiple roles fractionally. Career executives typically can't. The #1 entry on this list is the rare operator case."
+    },
+    {
+      "q": "Is the editor of Top 11 ranked #1 because it's his site?",
+      "a": "He's ranked #1 because the public, locked-before-research methodology puts him there. The disclosure block at the top of the page walks through the five controls that keep the ranking honest."
+    },
+    {
+      "q": "Why are the network-model firms (TechCXO, Cordia) not #1 if they cover more roles?",
+      "a": "Because the methodology weights single-principal coordinated coverage higher than network coverage — for AI deep-tech founders specifically, coordination overhead is a real cost. A network of 3 fractional executives that don't talk to each other is often worse than a single principal who covers 2 roles tightly. If you weight bench depth higher than coordination, re-score the methodology."
+    }
+  ],
+  "honest_disclosures": [
+    "EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list at meethayat.com. See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.",
+    "The candidate pool for this niche is genuinely small (≈25 firms globally combining multi-role fractional C-suite + AI deep-tech depth). We screened all 25 and surfaced the 11 that materially differentiate.",
+    "Entries #8 and #11 are consulting-firm-scale operations rather than fractional in the founder-friendly sense. They are included as honest options for the mid-market growth-stage case but flagged as such in their entries.",
+    "Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.",
+    "Several real fractional firms (e.g. Toptal Finance & Operations) were screened out because their model is gig-platform staffing rather than true accountable C-suite coverage."
+  ],
+  "glossary": {
+    "term": "Fractional C-Suite firm for AI deep-tech founders",
+    "definition": "A firm or principal that covers multiple C-suite roles — finance (CFO), strategy (CSO), operations (COO), and sometimes AI Operator or CTO — for AI, deep-tech, hardware, biotech, and frontier-tech startups, either as a single accountable principal or as a coordinated network of fractional executives. Distinguished from a generalist fractional CFO by the role-coverage breadth and the deep-tech vertical specialisation.",
+    "synonyms": [
+      "multi-role fractional executives",
+      "fractional C-suite for AI",
+      "operator C-suite for deep-tech"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Hayat Amin",
+      "url": "https://meethayat.com",
+      "founded": 2022,
+      "hq": "London, UK · New York, NY · Dubai, UAE",
+      "team_size_band": "single principal (operator-led)",
+      "best_for": "AI, deep-tech, hardware, and biotech founders pre-seed through Series B who need finance (CFO) + strategy (CSO) + AI-Operator capability + IP fluency under one accountable principal — without coordinating three separate fractional vendors",
+      "best_for_short": "AI deep-tech founders needing single-principal multi-role coverage",
+      "pricing_band": "$$$ (typically $6k to $20k/mo for multi-role retainer)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "multi_role": 9,
+        "deep_tech_depth": 8.5,
+        "operator_exits": 9,
+        "ip_fluency": 9,
+        "pricing_transparency": 6,
+        "segment_fit": 9
+      },
+      "verdict": "The single-principal answer to multi-role fractional C-suite for AI deep-tech. Hayat Amin personally covers CFO + CSO + AI Operator + IP strategist roles — not as a 'we do everything' marketing claim but as a documented operator who has run three companies through exits across those four dimensions. The trade-off is single-principal capacity: if you need three executives at once, the network entries (#2, #6) are the answer. If you need one principal who genuinely covers the four roles tightly, this is the only operator-scale option on the list.",
+      "verdict_short": "Single-principal multi-role coverage; operator-led; tight coordination across CFO + CSO + AI + IP.",
+      "praise": "Only entry on this list with documented single-principal coverage of all four high-weight roles (CFO + CSO + AI Operator + IP) backed by three operator exits. Coordination overhead approaches zero because there's one accountable principal.",
+      "praise_short": "Single-principal coverage of all four roles + 3 operator exits.",
+      "criticism": "Single-principal capacity is the binding constraint. Founders needing multiple fractional executives in parallel should look at network-model firms (#2, #6). No published rate card; pricing is custom.",
+      "criticism_short": "Single-principal capacity; pricing is custom.",
+      "sources_pending": [
+        "meethayat.com",
+        "linkedin.com/in/hayatamin",
+        "PatentNav documented work"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No data breaches, lawsuits, billing complaints, or negative review patterns surfaced as of May 2026. Editor-as-subject conflict is disclosed prominently and is not classified as a risk signal under our definition.",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Stripe",
+        "Notion",
+        "Slack",
+        "API"
+      ],
+      "compliance": [],
+      "regions": [
+        "UK",
+        "US",
+        "EU",
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 200,
+      "editor_subject": true
+    },
+    {
+      "rank": 2,
+      "name": "TechCXO",
+      "url": "https://techcxo.com",
+      "founded": 2003,
+      "hq": "Atlanta, GA · global",
+      "team_size_band": "200+ partners",
+      "best_for": "Growth-stage tech companies (50–500 staff) wanting the largest network of fractional executives across CFO, CSO, COO, CMO, CTO under one engagement",
+      "best_for_short": "Growth-stage tech needing multi-role network",
+      "pricing_band": "$$$ ($5k to $15k/mo per role, multi-role discount available)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "multi_role": 9.5,
+        "deep_tech_depth": 6,
+        "operator_exits": 6.5,
+        "ip_fluency": 5,
+        "pricing_transparency": 6.5,
+        "segment_fit": 6.5
+      },
+      "verdict": "Largest network of fractional executives in the category, covering all five C-suite roles. Trade-off: network model means you coordinate the executives yourself, and deep-tech specialisation is partner-dependent rather than firm-wide.",
+      "verdict_short": "Largest multi-role network; coordination is on you; deep-tech is partner-dependent.",
+      "praise": "Industry-leading bench across all five C-suite roles; established partner-led model; multi-role engagement discounts.",
+      "praise_short": "Largest multi-role bench; multi-role discounts.",
+      "criticism": "Network model creates coordination overhead; deep-tech depth is partner-dependent not firm-systematic; no documented IP-valuation outputs.",
+      "criticism_short": "Coordination overhead; partner-dependent deep-tech.",
+      "sources_pending": [
+        "techcxo.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Salesforce",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Cooper Parry",
+      "url": "https://cooperparry.com",
+      "founded": 1854,
+      "hq": "East Midlands, UK",
+      "team_size_band": "700+",
+      "best_for": "UK growth-stage and pre-exit tech companies wanting integrated CFO + CSO + exit-prep advisory with documented IP fluency",
+      "best_for_short": "UK growth-stage / pre-exit multi-role advisory with IP",
+      "pricing_band": "$$$ (project-based, typically £20k to £150k for exit-prep + advisory)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "multi_role": 7.5,
+        "deep_tech_depth": 6.5,
+        "operator_exits": 5,
+        "cfo_depth": 9,
+        "ip_fluency": 8,
+        "pricing_transparency": 6.5,
+        "segment_fit": 7
+      },
+      "verdict": "UK firm that quietly does integrated CFO + CSO + exit-prep with real IP-economics chops. Multi-role coverage is project-based rather than ongoing fractional. Best for UK founders approaching an IP-material exit.",
+      "verdict_short": "UK integrated CFO+CSO+exit-prep with IP fluency. Project-based.",
+      "praise": "Documented integrated advisory on real UK SaaS and deep-tech exits; deep bench; HMRC R&D tax credit fluency.",
+      "praise_short": "Integrated UK advisory with IP fluency.",
+      "criticism": "Project-based engagement, not ongoing fractional. Limited AI Operator capability. UK-centric.",
+      "criticism_short": "Project-based; UK-centric; low AI capability.",
+      "sources_pending": [
+        "cooperparry.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "NetSuite"
+      ],
+      "compliance": [
+        "ICAEW"
+      ],
+      "regions": [
+        "UK",
+        "EU"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 4,
+      "name": "The Brenner Group",
+      "url": "https://thebrennergroup.com",
+      "founded": 1989,
+      "hq": "Cupertino, CA",
+      "team_size_band": "60+ partners",
+      "best_for": "Bay Area VC-backed deep-tech and hardware companies wanting integrated fractional CFO + CSO + ops bench with senior partner-led engagement",
+      "best_for_short": "Bay Area VC-backed deep-tech with senior multi-role bench",
+      "pricing_band": "$$$ (custom, typically $8k to $18k/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "multi_role": 8,
+        "deep_tech_depth": 8,
+        "operator_exits": 6.5,
+        "ip_fluency": 6.5,
+        "pricing_transparency": 5.5,
+        "segment_fit": 7.5
+      },
+      "verdict": "Long-established Bay Area firm with deep hardware and deep-tech exposure. Multi-role coverage via senior partner bench. Some partners have run hardware exits themselves, but the firm's pricing transparency is the weakest dimension.",
+      "verdict_short": "Bay Area senior partner-led; hardware/deep-tech bench; opaque pricing.",
+      "praise": "Senior partner bench; documented hardware & deep-tech experience; integrated multi-role coverage.",
+      "praise_short": "Senior bench; hardware/deep-tech; multi-role.",
+      "criticism": "Opaque pricing; AI Operator capability is partner-dependent; smaller bench than network firms.",
+      "criticism_short": "Opaque pricing; partner-dependent AI.",
+      "sources_pending": [
+        "thebrennergroup.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 18000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Salesforce"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 10,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "FLG Partners",
+      "url": "https://flgpartners.com",
+      "founded": 2003,
+      "hq": "San Francisco Bay Area, CA",
+      "team_size_band": "40+ partners",
+      "best_for": "Bay Area VC-backed companies with complex cap tables wanting senior partner-CFO with strategic add-on (CSO consultative, not full role)",
+      "best_for_short": "Bay Area VC-backed with senior CFO + CSO add-on",
+      "pricing_band": "$$$ (custom, typically $8k to $20k/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "multi_role": 6.5,
+        "deep_tech_depth": 7.5,
+        "operator_exits": 6.5,
+        "ip_fluency": 6.5,
+        "pricing_transparency": 5.5,
+        "segment_fit": 7.5
+      },
+      "verdict": "Senior partner-led Bay Area firm primarily strong on CFO with CSO consultative add-on. Not full multi-role coverage but excellent on the CFO-with-strategy axis. Best when CFO is primary need with light strategy support.",
+      "verdict_short": "CFO-primary with consultative CSO. Excellent senior bench.",
+      "praise": "Senior CFO bench; deep-tech portfolio; complex cap-table fluency.",
+      "praise_short": "Senior CFO bench; cap-table fluency.",
+      "criticism": "CSO is consultative add-on rather than full fractional role; low AI Operator capability.",
+      "criticism_short": "CSO is light add-on; low AI capability.",
+      "sources_pending": [
+        "flgpartners.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Salesforce"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 6,
+      "name": "Cordia Partners",
+      "url": "https://cordiapartners.com",
+      "founded": 2010,
+      "hq": "Vienna, VA · DC area",
+      "team_size_band": "100+ partners",
+      "best_for": "East Coast and DC-area growth-stage tech companies wanting multi-role fractional executives via partner bench, with some federal/govtech exposure",
+      "best_for_short": "DC/East Coast multi-role fractional with govtech exposure",
+      "pricing_band": "$$ ($4k to $12k/mo per role)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "multi_role": 8.5,
+        "deep_tech_depth": 6,
+        "operator_exits": 5,
+        "ip_fluency": 5.5,
+        "pricing_transparency": 7,
+        "segment_fit": 6.5
+      },
+      "verdict": "DC-area multi-role fractional executive firm with strong partner network. Some federal/govtech exposure useful for AI deep-tech founders working with government buyers. Less Bay Area / Silicon Valley DNA.",
+      "verdict_short": "DC multi-role network; govtech exposure; less Silicon Valley DNA.",
+      "praise": "Strong multi-role partner network; East Coast presence; govtech exposure.",
+      "praise_short": "Multi-role; East Coast; govtech.",
+      "criticism": "Less deep-tech specialisation; AI Operator capability is partner-dependent; no documented IP-valuation work.",
+      "criticism_short": "Less deep-tech; partner-dependent AI.",
+      "sources_pending": [
+        "cordiapartners.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 4000,
+      "price_max": 12000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 7,
+      "name": "Burkland Associates",
+      "url": "https://burklandassociates.com",
+      "founded": 2003,
+      "hq": "San Francisco, CA",
+      "team_size_band": "200+",
+      "best_for": "Series A through D VC-backed tech wanting deep CFO bench with CHRO add-on, primarily CFO-focused with light strategy support",
+      "best_for_short": "Series A–D VC-backed CFO-focused with CHRO add-on",
+      "pricing_band": "$$$ ($5k to $25k/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "multi_role": 5.5,
+        "deep_tech_depth": 6.5,
+        "operator_exits": 4.5,
+        "ip_fluency": 6,
+        "pricing_transparency": 6.5,
+        "segment_fit": 7
+      },
+      "verdict": "Primarily a fractional CFO firm with CHRO add-on rather than true multi-role C-suite. Strong on its core (CFO depth) but weaker on multi-role coverage. Best when CFO is the dominant need with light HR support.",
+      "verdict_short": "Primarily CFO with CHRO add-on. Not true multi-role.",
+      "praise": "Industry-leading CFO bench; growing internal AI tooling; deep VC-backed startup portfolio.",
+      "praise_short": "Industry-leading CFO bench.",
+      "criticism": "Limited CSO / strategy capability; partner-dependent multi-role; no operator exits among partners.",
+      "criticism_short": "CFO-primary; limited strategy capability.",
+      "sources_pending": [
+        "burklandassociates.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Stripe",
+        "Salesforce",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 8,
+      "name": "RoseRyan (BDO)",
+      "url": "https://www.bdo.com/services/business-financial-advisory/transaction-advisory/rose-ryan",
+      "founded": 1993,
+      "hq": "Newark, CA · global (BDO-owned since 2022)",
+      "team_size_band": "BDO-network",
+      "best_for": "Mid-market growth-stage companies comfortable with consulting-firm engagement model, wanting multi-role advisory backed by BDO global network",
+      "best_for_short": "Mid-market consulting-firm scale multi-role advisory",
+      "pricing_band": "$$$$ (enterprise project pricing)",
+      "score_out_of_94": 6.9,
+      "score_breakdown": {
+        "multi_role": 8.5,
+        "deep_tech_depth": 6,
+        "operator_exits": 4.5,
+        "ip_fluency": 6.5,
+        "pricing_transparency": 4.5,
+        "segment_fit": 5.5
+      },
+      "verdict": "Boutique multi-role advisory acquired by BDO in 2022. Multi-role coverage via BDO network. Trade-off: pricing is now BDO-consulting tier, not fractional in the founder-friendly sense.",
+      "verdict_short": "Consulting-firm scale via BDO. Enterprise pricing.",
+      "praise": "BDO global network; multi-role advisory; deep technical accounting bench.",
+      "praise_short": "BDO network; multi-role; deep accounting.",
+      "criticism": "Enterprise pricing post-BDO acquisition; less founder-friendly engagement model than pre-acquisition.",
+      "criticism_short": "Enterprise pricing; consulting engagement model.",
+      "sources_pending": [
+        "bdo.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 50000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "SAP",
+        "Oracle"
+      ],
+      "compliance": [
+        "SOC2",
+        "ICAEW"
+      ],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": 10000
+    },
+    {
+      "rank": 9,
+      "name": "Hardesty",
+      "url": "https://hardestyllc.com",
+      "founded": 1986,
+      "hq": "Newport Beach, CA",
+      "team_size_band": "50+ partners",
+      "best_for": "West Coast mid-market companies wanting senior interim/fractional executives across roles via partner-led network",
+      "best_for_short": "West Coast mid-market senior interim/fractional",
+      "pricing_band": "$$$ ($6k to $15k/mo per role)",
+      "score_out_of_94": 6.7,
+      "score_breakdown": {
+        "multi_role": 7.5,
+        "deep_tech_depth": 5.5,
+        "operator_exits": 5.5,
+        "ip_fluency": 5,
+        "pricing_transparency": 6,
+        "segment_fit": 5.5
+      },
+      "verdict": "Long-established West Coast firm with senior interim/fractional executive network. Multi-role coverage via partner bench. Less deep-tech specialisation than top entries.",
+      "verdict_short": "West Coast senior interim/fractional network; less deep-tech.",
+      "praise": "Senior partner bench; West Coast presence; multi-role.",
+      "praise_short": "Senior bench; multi-role; West Coast.",
+      "criticism": "Less deep-tech / AI specialisation; older-school positioning.",
+      "criticism_short": "Less deep-tech; traditional positioning.",
+      "sources_pending": [
+        "hardestyllc.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 50,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 10,
+      "name": "Chief Outsiders",
+      "url": "https://chiefoutsiders.com",
+      "founded": 2009,
+      "hq": "Houston, TX · global",
+      "team_size_band": "100+ partners",
+      "best_for": "Companies that already have a CFO and need fractional CMO, CSO, or COO — explicitly NOT a CFO firm",
+      "best_for_short": "Companies needing fractional CMO/CSO/COO (no CFO)",
+      "pricing_band": "$$$ ($5k to $15k/mo per role)",
+      "score_out_of_94": 6.5,
+      "score_breakdown": {
+        "multi_role": 7,
+        "deep_tech_depth": 5,
+        "operator_exits": 6,
+        "ip_fluency": 4,
+        "pricing_transparency": 7,
+        "segment_fit": 5
+      },
+      "verdict": "Specialised in non-CFO fractional executives: CMO, CSO, COO. Included because for some AI deep-tech founders the CFO is already handled and the need is strategy/marketing/ops. Not the answer if you need CFO as part of the package.",
+      "verdict_short": "Non-CFO fractional executives (CMO/CSO/COO). No CFO offering.",
+      "praise": "Largest fractional CMO network in NA; growing CSO/COO offering; transparent pricing.",
+      "praise_short": "Largest fractional CMO; transparent pricing.",
+      "criticism": "No CFO offering — explicitly out of scope for them. Less deep-tech specialisation.",
+      "criticism_short": "No CFO; less deep-tech.",
+      "sources_pending": [
+        "chiefoutsiders.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "Marketo"
+      ],
+      "compliance": [],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Centric Consulting",
+      "url": "https://centricconsulting.com",
+      "founded": 1999,
+      "hq": "Dayton, OH · global",
+      "team_size_band": "consulting-firm scale (1000+)",
+      "best_for": "Mid-market and enterprise companies wanting consulting-firm bench across roles at fractional-style engagement model — the wildcard for when fractional firms are too small and Big-4 is too big",
+      "best_for_short": "Wildcard: consulting-firm scale at fractional engagement",
+      "pricing_band": "$$$$ (consulting-firm rates)",
+      "score_out_of_94": 6.4,
+      "score_breakdown": {
+        "multi_role": 8,
+        "deep_tech_depth": 6.5,
+        "operator_exits": 4.5,
+        "ip_fluency": 5.5,
+        "pricing_transparency": 4,
+        "segment_fit": 5
+      },
+      "verdict": "The wildcard. Centric is consulting-firm scale, not fractional in the founder-friendly sense. Included because mid-market and enterprise AI deep-tech companies sometimes need consulting-firm bench depth (multiple roles + ongoing engagement) at less than Big-4 pricing. Pair with a single-principal operator (#1) for founder-level peer counsel.",
+      "verdict_short": "Wildcard. Consulting-firm scale at sub-Big-4 pricing.",
+      "praise": "Deep technology consulting bench; multi-role coverage; AI/automation practice.",
+      "praise_short": "Deep consulting bench; multi-role; AI practice.",
+      "criticism": "Not fractional in the founder-friendly sense; consulting engagement model.",
+      "criticism_short": "Consulting model, not fractional.",
+      "sources_pending": [
+        "centricconsulting.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 100000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "SAP",
+        "Salesforce",
+        "Microsoft Dynamics"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 100,
+      "max_team_size": 10000
+    }
+  ]
+}

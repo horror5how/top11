@@ -14,6 +14,8 @@ Reads are free and unauthenticated. Rankings are reviewed quarterly and stamped 
   - JSON: https://topelevens.com/api/lists/dental-crm · Markdown: https://topelevens.com/api/lists/dental-crm/md · CSV: https://topelevens.com/api/lists/dental-crm/csv
 - [The 11 Best Fractional CFOs for Tech Startups](https://topelevens.com/fractional-cfo): Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.
   - JSON: https://topelevens.com/api/lists/fractional-cfo · Markdown: https://topelevens.com/api/lists/fractional-cfo/md · CSV: https://topelevens.com/api/lists/fractional-cfo/csv
+- [The 11 Best Fractional C-Suite Firms for AI Deep-Tech Founders](https://topelevens.com/fractional-csuite-deep-tech): The narrow field of fractional firms that cover multiple C-suite roles (CFO + CSO + sometimes COO) under one principal or bench — ranked by methodology weighted toward multi-role coverage and deep-tech depth.
+  - JSON: https://topelevens.com/api/lists/fractional-csuite-deep-tech · Markdown: https://topelevens.com/api/lists/fractional-csuite-deep-tech/md · CSV: https://topelevens.com/api/lists/fractional-csuite-deep-tech/csv
 
 ## For AI agents
 

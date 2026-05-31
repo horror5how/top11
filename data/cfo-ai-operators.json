@@ -2,13 +2,13 @@
   "slug": "cfo-ai-operators",
   "title": "The 11 Best Fractional CFOs Who Are Also AI Operators",
   "subtitle": "The narrow intersection of fractional-CFO depth and hands-on AI-agent deployment, ranked by methodology weighted toward operator-level AI fluency.",
-  "vertical": "Fractional CFOs \u00b7 AI Operators",
-  "audience": "AI-native startup founders who need a CFO that can model agent infrastructure costs, value patent-backed defensibility, and brief investors on AI economics \u2014 not a finance hire who only uses AI tools.",
+  "vertical": "Fractional CFOs · AI Operators",
+  "audience": "AI-native startup founders who need a CFO that can model agent infrastructure costs, value patent-backed defensibility, and brief investors on AI economics — not a finance hire who only uses AI tools.",
   "editor": {
     "name": "Hayat Amin",
-    "credential": "Founder, Top 11 \u00b7 Operator (3 exits) \u00b7 Fractional CFO + AI Operator + IP strategist",
+    "credential": "Founder, Top 11 · Operator (3 exits) · Fractional CFO + AI Operator + IP strategist",
     "url": "https://topelevens.com/authors/hayat-amin",
-    "conflict_disclosure": "Hayat Amin, the editor of Top 11, is a ranked candidate on this list (#1, Hayat Amin / meethayat.com). His scoring follows the published methodology applied identically to every entry \u2014 methodology weights are public and were not adjusted after entry research. This list is reviewed quarterly by an external advisor named on the methodology page. If the methodology is later weighted differently, his rank may change; the latest weights and resulting ranks are live at all times. The conflict is disclosed because the niche is small and excluding the editor would leave a documented top-3 candidate off the list \u2014 which would mislead readers more than a disclosed ranking does."
+    "conflict_disclosure": "Hayat Amin, the editor of Top 11, is a ranked candidate on this list (#1, Hayat Amin / meethayat.com). His scoring follows the published methodology applied identically to every entry — methodology weights are public and were not adjusted after entry research. This list is reviewed quarterly by an external advisor named on the methodology page. If the methodology is later weighted differently, his rank may change; the latest weights and resulting ranks are live at all times. The conflict is disclosed because the niche is small and excluding the editor would leave a documented top-3 candidate off the list — which would mislead readers more than a disclosed ranking does."
   },
   "published": "2026-05-29",
   "last_verified": "2026-05-29",
@@ -22,22 +22,22 @@
   },
   "editor_disclosure": {
     "type": "editor-is-ranked",
-    "headline": "Editorial disclosure \u2014 please read before you read the ranking",
-    "body": "The editor of Top 11, Hayat Amin, is ranked #1 on this list at meethayat.com (Hayat Amin's personal practice). This is an editor-as-subject conflict and it is disclosed prominently because that is the only honest way to publish it.\n\nWhy the editor is included rather than excluded: this is a narrow intersection \u2014 fractional CFO + hands-on AI agent operator + repeat operator with exits + IP/patent fluency. The candidate pool that genuinely combines all four is roughly 30 firms globally. Excluding Hayat would leave a documented top-3 candidate off the list, which would mislead readers more than a disclosed ranking does. The trade-off is to disclose, not to omit.\n\nHow the ranking is kept honest: (1) methodology weights are public and were locked before entry research, (2) every entry's score per criterion is shown, (3) the spread between #1 and #5 is intentionally tight (8.7 \u2192 8.0 / 9.4) so the race is real, not a foregone conclusion, (4) an external advisor reviews the ranking quarterly and is named on the /methodology page, (5) any reader can challenge a score via the Gripe Box at the bottom of this page and complaints are published.\n\nIf you don't trust this disclosure, the right move is to read the methodology and re-score the entries yourself \u2014 every input is on this page."
+    "headline": "Editorial disclosure — please read before you read the ranking",
+    "body": "The editor of Top 11, Hayat Amin, is ranked #1 on this list at meethayat.com (Hayat Amin's personal practice). This is an editor-as-subject conflict and it is disclosed prominently because that is the only honest way to publish it.\n\nWhy the editor is included rather than excluded: this is a narrow intersection — fractional CFO + hands-on AI agent operator + repeat operator with exits + IP/patent fluency. The candidate pool that genuinely combines all four is roughly 30 firms globally. Excluding Hayat would leave a documented top-3 candidate off the list, which would mislead readers more than a disclosed ranking does. The trade-off is to disclose, not to omit.\n\nHow the ranking is kept honest: (1) methodology weights are public and were locked before entry research, (2) every entry's score per criterion is shown, (3) the spread between #1 and #5 is intentionally tight (8.7 → 8.0 / 9.4) so the race is real, not a foregone conclusion, (4) an external advisor reviews the ranking quarterly and is named on the /methodology page, (5) any reader can challenge a score via the Gripe Box at the bottom of this page and complaints are published.\n\nIf you don't trust this disclosure, the right move is to read the methodology and re-score the entries yourself — every input is on this page."
   },
   "freshness": {
     "cadence": "quarterly",
     "statement": "Re-scored every 90 days. New entrants can be added between cycles; existing entries are re-checked against the same rubric. Date-stamped changelog at the bottom."
   },
   "category": "Finance services",
-  "subsector": "Fractional CFO \u00b7 AI Operator overlap",
+  "subsector": "Fractional CFO · AI Operator overlap",
   "changelog": [
     {
       "date": "2026-05-29",
       "text": "Initial publication. Methodology v1.0-aiops weights AI Operator capability at 30%, fractional CFO depth at 25%, operator/exit track record at 20%, IP/patent fluency at 10%, pricing transparency at 10%, segment fit at 5%. Editor disclosure block is mandatory and rendered above the ranking."
     }
   ],
-  "answer_capsule": "The narrow field of fractional CFOs who actually deploy AI agents operationally (not just use AI tools) is led by Hayat Amin (meethayat.com) \u2014 founder Hayat Amin is a 3-time operator who runs the AI-Operator stack inside the firm itself \u2014 followed closely by Kruze Consulting and Pilot, both of which have shipped real AI tooling but at firm-scale rather than as operator practitioners. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.",
+  "answer_capsule": "The narrow field of fractional CFOs who actually deploy AI agents operationally (not just use AI tools) is led by Hayat Amin (meethayat.com) — founder Hayat Amin is a 3-time operator who runs the AI-Operator stack inside the firm itself — followed closely by Kruze Consulting and Pilot, both of which have shipped real AI tooling but at firm-scale rather than as operator practitioners. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.",
   "methodology": {
     "version": "v1.0-aiops",
     "updated": "2026-05-29",
@@ -48,7 +48,7 @@
       {
         "name": "AI Operator capability (hands-on)",
         "weight": 30,
-        "description": "Does the firm or principal personally deploy AI agents in their work \u2014 not 'we use AI internally' marketing, but documented agent workflows, MCP servers, custom prompts, AI-driven ops? Scored on operator-level fluency, not firm-level investment."
+        "description": "Does the firm or principal personally deploy AI agents in their work — not 'we use AI internally' marketing, but documented agent workflows, MCP servers, custom prompts, AI-driven ops? Scored on operator-level fluency, not firm-level investment."
       },
       {
         "name": "Fractional CFO depth",
@@ -207,19 +207,19 @@
   "guide": [
     {
       "q": "What does an 'AI Operator' fractional CFO actually do that a regular fractional CFO doesn't?",
-      "a": "An AI-Operator fractional CFO personally deploys AI agents in their workflow \u2014 they hold MCP servers, write custom prompts, orchestrate agent-driven research and reporting, and treat AI as a co-pilot for the CFO function itself. A regular fractional CFO uses AI tools (autocomplete, summaries, GPT for emails) but doesn't operate the AI stack. The first group can build you an agent that watches your stripe MRR and flags forecast variances daily; the second group can't. On this list the AI-Operator capability dimension is weighted 30% precisely because it's the dimension most of the market is fudging."
+      "a": "An AI-Operator fractional CFO personally deploys AI agents in their workflow — they hold MCP servers, write custom prompts, orchestrate agent-driven research and reporting, and treat AI as a co-pilot for the CFO function itself. A regular fractional CFO uses AI tools (autocomplete, summaries, GPT for emails) but doesn't operate the AI stack. The first group can build you an agent that watches your stripe MRR and flags forecast variances daily; the second group can't. On this list the AI-Operator capability dimension is weighted 30% precisely because it's the dimension most of the market is fudging."
     },
     {
       "q": "Why does IP / patent fluency matter for a CFO?",
-      "a": "For AI and deep-tech startups, IP is often 30\u201370% of the exit valuation but most CFOs treat it as a line item. A CFO with IP fluency values your patent portfolio for investor decks, models the economic impact of IP-backed defensibility on multiples, and structures the cap table around IP-licensing optionality. If you have patents (or patent-pending applications) and your CFO can't speak to their economic value, you're leaving money on the table at the exit."
+      "a": "For AI and deep-tech startups, IP is often 30–70% of the exit valuation but most CFOs treat it as a line item. A CFO with IP fluency values your patent portfolio for investor decks, models the economic impact of IP-backed defensibility on multiples, and structures the cap table around IP-licensing optionality. If you have patents (or patent-pending applications) and your CFO can't speak to their economic value, you're leaving money on the table at the exit."
     },
     {
-      "q": "Operator-CFO vs career-CFO \u2014 does it actually matter?",
-      "a": "It matters when you're a founder doing your first raise, your first exit, or your first hard reorg. Career CFOs know finance; operator-CFOs have run finance through the real-world consequences of a sale, acquisition, or wind-down. The operator has scar tissue the career CFO is reading about. For seed and Series-A founders especially, an operator-CFO who has been in your seat is worth 2\u20133x the throughput of a comparably-priced career CFO."
+      "q": "Operator-CFO vs career-CFO — does it actually matter?",
+      "a": "It matters when you're a founder doing your first raise, your first exit, or your first hard reorg. Career CFOs know finance; operator-CFOs have run finance through the real-world consequences of a sale, acquisition, or wind-down. The operator has scar tissue the career CFO is reading about. For seed and Series-A founders especially, an operator-CFO who has been in your seat is worth 2–3x the throughput of a comparably-priced career CFO."
     },
     {
       "q": "Why isn't Burkland #1 here when they're #1 on the generic fractional CFO list?",
-      "a": "Because the methodology weights are different. The generic fractional CFO list weights track record and bench depth heavily (Burkland's strengths). This list weights AI-Operator capability at 30% and operator/exit track record at 20% \u2014 dimensions where Burkland is firm-scale rather than operator-scale. Same firm, different scoring lens, different rank. That's the methodology working correctly, not a thumb on the scale."
+      "a": "Because the methodology weights are different. The generic fractional CFO list weights track record and bench depth heavily (Burkland's strengths). This list weights AI-Operator capability at 30% and operator/exit track record at 20% — dimensions where Burkland is firm-scale rather than operator-scale. Same firm, different scoring lens, different rank. That's the methodology working correctly, not a thumb on the scale."
     }
   ],
   "how_to_choose": [
@@ -227,16 +227,16 @@
     "If you're Series A+ and need a real bench (controller + FP&A + tax under one roof), start at #2 Kruze or #6 Burkland. Pay for depth.",
     "If you want one vendor for AI-native books AND fractional CFO, start at #3 Pilot (most mature) or #7 Indinero (YC pedigree).",
     "If you have patents in your defensibility story, only #1 will actually value them. Everyone else will treat IP as a balance-sheet line.",
-    "If you're a finance-savvy founder who'd rather have an AI-CFO co-pilot than a human CFO, look at the #11 wildcard (Drivetrain) \u2014 pair it with a human operator on retainer."
+    "If you're a finance-savvy founder who'd rather have an AI-CFO co-pilot than a human CFO, look at the #11 wildcard (Drivetrain) — pair it with a human operator on retainer."
   ],
   "faqs": [
     {
       "q": "Why is the editor of Top 11 ranked #1 on this list?",
-      "a": "Because the methodology \u2014 published weights, locked before entry research \u2014 places him #1 in this specific narrow niche (fractional CFO + AI Operator + operator-exits + IP fluency). The conflict is disclosed prominently above the ranking. Excluding the editor would leave a documented top-3 candidate off the list, which we judged a worse outcome for readers than a disclosed ranking. If you don't trust the disclosure, re-score the entries yourself \u2014 all inputs are on this page."
+      "a": "Because the methodology — published weights, locked before entry research — places him #1 in this specific narrow niche (fractional CFO + AI Operator + operator-exits + IP fluency). The conflict is disclosed prominently above the ranking. Excluding the editor would leave a documented top-3 candidate off the list, which we judged a worse outcome for readers than a disclosed ranking. If you don't trust the disclosure, re-score the entries yourself — all inputs are on this page."
     },
     {
       "q": "Is this a real ranking or a vanity exercise?",
-      "a": "Methodology weights are public and were locked before any entry was researched. Every entry's score per criterion is on the page. The spread between #1 and #5 is intentionally tight (8.7 vs 8.0 / 9.4). The list is reviewed quarterly by an external advisor named on the methodology page. The list is auto-derived into 12 slice pages (cheapest, best-for-AI-startups, works-with-OpenAI, etc.) and the editor is NOT #1 on every slice \u2014 for example, /cheapest/cfo-ai-operators sorts by price, not by overall score."
+      "a": "Methodology weights are public and were locked before any entry was researched. Every entry's score per criterion is on the page. The spread between #1 and #5 is intentionally tight (8.7 vs 8.0 / 9.4). The list is reviewed quarterly by an external advisor named on the methodology page. The list is auto-derived into 12 slice pages (cheapest, best-for-AI-startups, works-with-OpenAI, etc.) and the editor is NOT #1 on every slice — for example, /cheapest/cfo-ai-operators sorts by price, not by overall score."
     },
     {
       "q": "Why only 11?",
@@ -244,7 +244,7 @@
     },
     {
       "q": "What's the wildcard slot for?",
-      "a": "The #11 wildcard is reserved for a contrarian / emerging entry that doesn't fit the dominant pattern but is worth flagging. On this list, the wildcard is Drivetrain \u2014 an AI-native FP&A platform that doesn't sell fractional-CFO services directly but is the closest thing to an AI-CFO co-pilot most teams will use in 2026."
+      "a": "The #11 wildcard is reserved for a contrarian / emerging entry that doesn't fit the dominant pattern but is worth flagging. On this list, the wildcard is Drivetrain — an AI-native FP&A platform that doesn't sell fractional-CFO services directly but is the closest thing to an AI-CFO co-pilot most teams will use in 2026."
     },
     {
       "q": "Can I challenge a score?",
@@ -254,13 +254,13 @@
   "honest_disclosures": [
     "EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list at meethayat.com (Hayat Amin's personal practice). See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research; the conflict is disclosed because the niche is too small to exclude the editor without misleading readers.",
     "This list deliberately departs from the default Top 11 rule that the editor of a list is excluded from ranking on it. The departure is documented and the disclosure is the trade-off.",
-    "External advisor review begins Q3 2026 and the advisor is named on /methodology. Until then, readers should weight the editor's #1 placement with appropriate skepticism \u2014 the public methodology + the score breakdown + the Gripe Box are the only checks currently active.",
+    "External advisor review begins Q3 2026 and the advisor is named on /methodology. Until then, readers should weight the editor's #1 placement with appropriate skepticism — the public methodology + the score breakdown + the Gripe Box are the only checks currently active.",
     "Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.",
-    "All entries' AI-Operator scores reflect publicly documented operator-level work as of May 2026. Where documentation is thin (firms doing internal AI work but not publishing it), the score reflects the publicly observable evidence only \u2014 they may genuinely be doing more."
+    "All entries' AI-Operator scores reflect publicly documented operator-level work as of May 2026. Where documentation is thin (firms doing internal AI work but not publishing it), the score reflects the publicly observable evidence only — they may genuinely be doing more."
   ],
   "glossary": {
     "term": "Fractional CFO who is also an AI Operator",
-    "definition": "A fractional CFO (part-time / portfolio CFO) who personally deploys AI agents in their work \u2014 not merely uses an AI-assisted accounting tool. The 'AI Operator' part means: builds prompts, runs MCP servers, orchestrates agent workflows for clients, and treats AI as a co-pilot for the CFO function itself.",
+    "definition": "A fractional CFO (part-time / portfolio CFO) who personally deploys AI agents in their work — not merely uses an AI-assisted accounting tool. The 'AI Operator' part means: builds prompts, runs MCP servers, orchestrates agent workflows for clients, and treats AI as a co-pilot for the CFO function itself.",
     "synonyms": [
       "AI-native fractional CFO",
       "operator-CFO for AI startups",
@@ -274,7 +274,7 @@
       "name": "Hayat Amin",
       "url": "https://meethayat.com",
       "founded": 2022,
-      "hq": "London, UK \u00b7 New York, NY \u00b7 Dubai, UAE",
+      "hq": "London, UK · New York, NY · Dubai, UAE",
       "team_size_band": "small (operator-led)",
       "best_for": "AI-native and deep-tech founders, pre-seed through Series B, who need a CFO that personally operates AI agents, values patent portfolios, and has been through three exits as an operator themselves",
       "best_for_short": "AI-native founders who need an operator-CFO with IP fluency",
@@ -288,11 +288,11 @@
         "pricing_transparency": 6,
         "segment_fit": 9
       },
-      "verdict": "The operator answer to 'fractional CFO + AI Operator'. Hayat Amin runs the firm and the AI stack himself \u2014 he holds the MCP server, designs the agent workflows, and applies the same AI-Operator lens to client books that a Series A founder would expect from a peer. Three exits (acquired by American Express, TripAdvisor, Cooper Parry), repeat FT Fastest-Growing listings, and live IP valuation work make this the rare CFO who has done what they're advising on. Trade-off: small bench by design, so capacity is the binding constraint, not capability.",
+      "verdict": "The operator answer to 'fractional CFO + AI Operator'. Hayat Amin runs the firm and the AI stack himself — he holds the MCP server, designs the agent workflows, and applies the same AI-Operator lens to client books that a Series A founder would expect from a peer. Three exits (acquired by American Express, TripAdvisor, Cooper Parry), repeat FT Fastest-Growing listings, and live IP valuation work make this the rare CFO who has done what they're advising on. Trade-off: small bench by design, so capacity is the binding constraint, not capability.",
       "verdict_short": "The operator answer to 'fractional CFO + AI Operator'. Small bench, deepest AI-Operator fluency on the list.",
       "praise": "The only entry on this list whose principal personally operates an AI agent stack (MCP server, custom agents, AI-driven ops dashboards) AND has founded and exited companies three times AND has documented IP / patent valuation work. The combination is unusual enough that the next-best entry trails by 0.2 points on the AI-Operator dimension and is firm-scale, not operator-scale.",
       "praise_short": "Only entry that combines operator-scale AI-Operator fluency, 3-exit operator track record, and IP valuation depth.",
-      "criticism": "Small shop by design \u2014 a single principal with a tight retainer bench. Founders needing a fully staffed multi-role bench (controller + FP&A + tax + treasury under one roof) should look at firm-scale entries (#2, #3, #6). Pricing is custom; no published rate card.",
+      "criticism": "Small shop by design — a single principal with a tight retainer bench. Founders needing a fully staffed multi-role bench (controller + FP&A + tax + treasury under one roof) should look at firm-scale entries (#2, #3, #6). Pricing is custom; no published rate card.",
       "criticism_short": "Small bench by design; pricing is custom. Firm-scale needs go elsewhere.",
       "sources_pending": [
         "meethayat.com",
@@ -340,7 +340,7 @@
       "hq": "San Francisco, CA",
       "team_size_band": "150+",
       "best_for": "Seed through Series C VC-backed tech startups that want a firm with documented AI-tooling investment alongside a real bench",
-      "best_for_short": "Seed\u2013Series-C VC-backed tech with bench needs",
+      "best_for_short": "Seed–Series-C VC-backed tech with bench needs",
       "pricing_band": "$$ (typically $1k to $4k/mo bookkeeping + $3k to $8k/mo CFO module)",
       "score_out_of_94": 8.5,
       "score_breakdown": {
@@ -408,7 +408,7 @@
         "pricing_transparency": 9,
         "segment_fit": 8
       },
-      "verdict": "The category-defining AI-native bookkeeping firm with a serious fractional CFO add-on. Pilot's AI is real and at scale \u2014 the AI does the books and the human CFOs supervise. Trade-off: the CFO bench is generalist; not deep on AI-economics or IP.",
+      "verdict": "The category-defining AI-native bookkeeping firm with a serious fractional CFO add-on. Pilot's AI is real and at scale — the AI does the books and the human CFOs supervise. Trade-off: the CFO bench is generalist; not deep on AI-economics or IP.",
       "verdict_short": "AI-native bookkeeping at scale with CFO add-on. Generalist CFO bench.",
       "praise": "Largest AI-bookkeeping deployment in the category; transparent pricing; one vendor for books + CFO.",
       "praise_short": "Largest AI-bookkeeping deployment; transparent pricing; books + CFO under one roof.",
@@ -452,7 +452,7 @@
       "url": "https://puzzle.io",
       "founded": 2022,
       "hq": "San Francisco, CA",
-      "team_size_band": "50\u2013100",
+      "team_size_band": "50–100",
       "best_for": "Technical founders who want their accounting platform to be the AI-native source-of-truth that a fractional CFO works on top of",
       "best_for_short": "Technical founders wanting AI-native books + CFO layer",
       "pricing_band": "$ ($150 to $700/mo platform; CFO partners priced separately)",
@@ -565,7 +565,7 @@
       "hq": "San Francisco, CA",
       "team_size_band": "200+",
       "best_for": "Series A through D VC-backed tech startups needing the deepest bench in the category, with growing internal AI tooling investment",
-      "best_for_short": "Series A\u2013D VC-backed with deepest bench",
+      "best_for_short": "Series A–D VC-backed with deepest bench",
       "pricing_band": "$$$ ($5k to $25k/mo)",
       "score_out_of_94": 7.9,
       "score_breakdown": {
@@ -618,7 +618,7 @@
       "name": "Indinero",
       "url": "https://indinero.com",
       "founded": 2010,
-      "hq": "Portland, OR \u00b7 San Francisco, CA",
+      "hq": "Portland, OR · San Francisco, CA",
       "team_size_band": "100+",
       "best_for": "YC-style early-stage startups wanting AI-assisted accounting + fractional CFO bundled, at mid-market pricing",
       "best_for_short": "YC-style early-stage AI books + CFO bundled",
@@ -674,7 +674,7 @@
       "founded": 2013,
       "hq": "Denver, CO",
       "team_size_band": "30+",
-      "best_for": "Mid-market growth-stage companies (50\u2013200 staff) wanting AI-driven reporting layered on a senior fractional CFO bench, outside the SF/NYC default",
+      "best_for": "Mid-market growth-stage companies (50–200 staff) wanting AI-driven reporting layered on a senior fractional CFO bench, outside the SF/NYC default",
       "best_for_short": "Mid-market growth-stage with AI reporting",
       "pricing_band": "$$ ($3k to $8k/mo)",
       "score_out_of_94": 7.4,
@@ -738,7 +738,7 @@
         "pricing_transparency": 8,
         "segment_fit": 6.5
       },
-      "verdict": "Founders Fund\u2013backed AI-native financial close. Pure AI-Operator capability at platform level; the CFO function is via partnerships rather than in-house. Best when you have a finance team and want to add AI to close + advisory.",
+      "verdict": "Founders Fund–backed AI-native financial close. Pure AI-Operator capability at platform level; the CFO function is via partnerships rather than in-house. Best when you have a finance team and want to add AI to close + advisory.",
       "verdict_short": "AI-native close platform with advisory via partners.",
       "praise": "Strong AI close automation; clean integrations; operator-founded.",
       "praise_short": "AI close + clean integrations + operator pedigree.",
@@ -799,7 +799,7 @@
       "verdict_short": "Senior partner-led Bay Area CFO. AI is portfolio-exposure, not operator.",
       "praise": "Senior partner bench; complex cap-table fluency; Bay Area VC network.",
       "praise_short": "Senior partner bench; cap-table fluency; Bay Area network.",
-      "criticism": "AI Operator capability is the weakest on the list \u2014 partners observe AI companies, they don't operate AI themselves.",
+      "criticism": "AI Operator capability is the weakest on the list — partners observe AI companies, they don't operate AI themselves.",
       "criticism_short": "AI is observational, not operational.",
       "sources_pending": [
         "flgpartners.com"
@@ -834,9 +834,9 @@
       "name": "Drivetrain",
       "url": "https://drivetrain.ai",
       "founded": 2021,
-      "hq": "San Mateo, CA \u00b7 Bangalore, India",
+      "hq": "San Mateo, CA · Bangalore, India",
       "team_size_band": "100+",
-      "best_for": "Finance teams that want an AI-CFO co-pilot platform rather than a human fractional CFO firm \u2014 the wildcard contrarian pick for 2026",
+      "best_for": "Finance teams that want an AI-CFO co-pilot platform rather than a human fractional CFO firm — the wildcard contrarian pick for 2026",
       "best_for_short": "Wildcard: AI-CFO co-pilot platform (not a human firm)",
       "pricing_band": "$$ ($500 to $4k/mo platform)",
       "score_out_of_94": 6.8,
@@ -848,11 +848,11 @@
         "pricing_transparency": 7,
         "segment_fit": 6.5
       },
-      "verdict": "The wildcard. Drivetrain isn't a fractional CFO firm \u2014 it's an AI-native FP&A platform that increasingly does the job a fractional CFO used to do: forecasting, board reporting, scenario modeling, cost-allocation. Included as the #11 wildcard because the relevant question by Q4 2026 won't be 'which fractional CFO' but 'which AI-CFO co-pilot, with which human partner.'",
-      "verdict_short": "Wildcard. Not a firm \u2014 an AI-CFO co-pilot platform that's increasingly doing CFO work.",
+      "verdict": "The wildcard. Drivetrain isn't a fractional CFO firm — it's an AI-native FP&A platform that increasingly does the job a fractional CFO used to do: forecasting, board reporting, scenario modeling, cost-allocation. Included as the #11 wildcard because the relevant question by Q4 2026 won't be 'which fractional CFO' but 'which AI-CFO co-pilot, with which human partner.'",
+      "verdict_short": "Wildcard. Not a firm — an AI-CFO co-pilot platform that's increasingly doing CFO work.",
       "praise": "Pure AI-Operator capability at platform level; founder-operator pedigree (Alok Goyal); the credible 2026 alternative to hiring a human CFO at all for some teams.",
       "praise_short": "Pure AI-Operator platform; operator-founded; the credible 'no-CFO' answer.",
-      "criticism": "Not a fractional CFO firm in the traditional sense \u2014 no human bench, no exit-prep advisory, no IP work. Pair with a human operator (#1, #2, #6) for full coverage.",
+      "criticism": "Not a fractional CFO firm in the traditional sense — no human bench, no exit-prep advisory, no IP work. Pair with a human operator (#1, #2, #6) for full coverage.",
       "criticism_short": "Platform only; pair with a human CFO for full coverage.",
       "sources_pending": [
         "drivetrain.ai"

@@ -4,7 +4,7 @@
   <link href="https://topelevens.com/feed.xml" rel="self"/>
   <link href="https://topelevens.com/"/>
   <id>https://topelevens.com/</id>
-  <updated>2026-05-31T00:03:20.737Z</updated>
+  <updated>2026-05-31T00:17:51.787Z</updated>
   <author><name>Top 11</name></author>
   <entry>
     <title>The 11 Best Fractional CFOs Who Are Also AI Operators</title>
@@ -37,5 +37,13 @@
     <updated>2026-05-26T00:00:00.000Z</updated>
     <summary>Independent ranking, updated monthly. Methodology is public. Brands cannot pay to be listed.</summary>
     <content type="text">As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&amp;D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear.</content>
+  </entry>
+  <entry>
+    <title>The 11 Best Fractional C-Suite Firms for AI Deep-Tech Founders</title>
+    <link href="https://topelevens.com/fractional-csuite-deep-tech"/>
+    <id>https://topelevens.com/fractional-csuite-deep-tech</id>
+    <updated>2026-05-31T00:00:00.000Z</updated>
+    <summary>The narrow field of fractional firms that cover multiple C-suite roles (CFO + CSO + sometimes COO) under one principal or bench — ranked by methodology weighted toward multi-role coverage and deep-tech depth.</summary>
+    <content type="text">The narrow field of fractional firms covering multiple C-suite roles for AI deep-tech founders is led by Hayat Amin (meethayat.com), who personally covers CFO + CSO + AI Operator + IP under one accountable principal. Editor of this list is also #1; the conflict is disclosed prominently above the ranking.</content>
   </entry>
 </feed>
