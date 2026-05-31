@@ -1,0 +1,717 @@
+{
+  "slug": "fractional-cmo",
+  "title": "The 11 Best Fractional CMOs",
+  "subtitle": "Ranking the top fractional marketing executives for startups and scale-ups needing strategic leadership without the full-time cost.",
+  "vertical": "Marketing · Fractional Executives",
+  "audience": "Founders needing fractional marketing leadership",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Services",
+  "subsector": "Fractional Executives",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Strategic Impact & ROI (30%), Industry & Stage Fit (25%), Leadership & Team Integration (20%), Process & Frameworks (15%), and Flexibility & Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best Fractional CMO provider is Chief Outsiders for its extensive network of enterprise-grade executives, followed by Authentic Brand for mid-market focus and Kalungi for B2B SaaS specialization.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Strategic Impact & ROI",
+        "weight": 30,
+        "description": "Demonstrated ability to develop and execute strategies that drive measurable business outcomes like revenue growth, market share, and lead generation."
+      },
+      {
+        "name": "Industry & Stage Fit",
+        "weight": 25,
+        "description": "Depth of experience and proven success within specific industries (e.g., B2B SaaS, D2C) and company growth stages (e.g., Seed, Series A, Mid-Market)."
+      },
+      {
+        "name": "Leadership & Team Integration",
+        "weight": 20,
+        "description": "Effectiveness in leading existing marketing teams, mentoring talent, and seamlessly integrating with the executive leadership."
+      },
+      {
+        "name": "Process & Frameworks",
+        "weight": 15,
+        "description": "Availability and quality of proprietary methodologies, playbooks, reporting structures, and diagnostic tools to accelerate impact."
+      },
+      {
+        "name": "Flexibility & Scalability",
+        "weight": 10,
+        "description": "Ease of adjusting engagement levels (hours/days per week) and scope of work as the client's business needs evolve."
+      }
+    ]
+  },
+  "segment_tags": [
+    "B2B SaaS",
+    "D2C",
+    "Startups",
+    "Scale-ups",
+    "Mid-Market",
+    "Enterprise"
+  ],
+  "problem_tags": [
+    "Marketing leadership gap",
+    "No marketing strategy",
+    "Stalled growth",
+    "Scaling marketing team",
+    "Go-to-market strategy",
+    "Brand positioning"
+  ],
+  "query_intents": [
+    "hire fractional cmo",
+    "best fractional cmo firms",
+    "fractional cmo cost",
+    "what does a fractional cmo do",
+    "cmo services for startups"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Marketing leadership gap",
+        "Scaling marketing team"
+      ],
+      "personas": [
+        "Mid-Market CEO",
+        "Private Equity Portfolio"
+      ]
+    },
+    "2": {
+      "solves": [
+        "No marketing strategy",
+        "Stalled growth"
+      ],
+      "personas": [
+        "Mid-Market Founder"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Go-to-market strategy",
+        "Scaling marketing team"
+      ],
+      "personas": [
+        "B2B SaaS Founder",
+        "VC Portfolio"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.23,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is a Fractional CMO?",
+      "a": "A Fractional Chief Marketing Officer (CMO) is an experienced, senior-level marketing executive who works with a business on a part-time or contract basis. They provide strategic guidance, lead marketing teams, and oversee marketing execution without the cost and commitment of a full-time executive hire."
+    },
+    {
+      "q": "When does a Fractional CMO make sense?",
+      "a": "Companies typically hire a Fractional CMO when they need high-level marketing strategy and leadership but are not yet ready for a full-time C-suite executive. This is common in startups and scale-ups that have outgrown their initial marketing tactics and need a cohesive strategy to scale."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your company's stage and specific marketing challenges. Are you building a strategy from scratch or scaling an existing one?",
+    "Evaluate a provider's track record in your specific industry (e.g., B2B SaaS, e-commerce). Niche expertise is critical.",
+    "Interview the specific CMO you would be working with, not just the firm's sales representative. Personal chemistry and leadership style fit are paramount.",
+    "Clarify the expected deliverables, meeting cadence, and reporting structure upfront to ensure alignment on goals and communication."
+  ],
+  "faqs": [
+    {
+      "q": "What does a Fractional CMO do?",
+      "a": "A Fractional CMO is responsible for developing marketing strategy, building and leading the marketing team, managing the marketing budget, overseeing brand positioning, and implementing systems for measuring ROI. They act as the senior marketing leader on the executive team."
+    },
+    {
+      "q": "How much does a Fractional CMO cost?",
+      "a": "Costs vary widely based on experience and engagement level, typically ranging from $5,000 to $20,000+ per month. Engagements are usually structured as monthly retainers for a set number of hours or days per week."
+    },
+    {
+      "q": "When should a company hire a Fractional CMO?",
+      "a": "A company should consider a Fractional CMO when the CEO is spending too much time on marketing, growth has plateaued, the current marketing team needs senior leadership, or they are preparing for a major growth phase like a new product launch or market expansion."
+    },
+    {
+      "q": "What's the difference between a Fractional CMO and a marketing agency?",
+      "a": "A Fractional CMO is a single strategic leader who becomes part of your executive team, focusing on strategy, team leadership, and accountability. A marketing agency is an external team of specialists that executes specific tasks like SEO, content creation, or paid ads. A Fractional CMO often manages marketing agencies."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers are US-centric, and their expertise may not fully translate to international markets without adaptation.",
+    "Pricing is often opaque and requires a sales call for a custom quote, making direct comparison difficult.",
+    "This list prioritizes established firms with multiple CMOs over individual solo consultants, who can also be excellent choices."
+  ],
+  "glossary": {
+    "term": "Fractional CMO",
+    "definition": "A part-time, contract-based senior marketing executive who provides strategic leadership to a company.",
+    "synonyms": [
+      "Part-time CMO",
+      "Interim CMO",
+      "CMO on-demand"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Chief Outsiders",
+      "url": "https://www.chiefoutsiders.com/",
+      "founded": 2009,
+      "hq": "Houston, USA",
+      "team_size_band": "100-250",
+      "best_for": "Mid-market and private equity-backed companies needing enterprise-level marketing leadership from a deep bench of vetted executives.",
+      "best_for_short": "Enterprise-grade talent for mid-market",
+      "pricing_band": "$$$$ ($10,000 to $25,000+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 9.4,
+        "Industry & Stage Fit": 9.3,
+        "Leadership & Team Integration": 9.4,
+        "Process & Frameworks": 9.2,
+        "Flexibility & Scalability": 8.9
+      },
+      "verdict": "Chief Outsiders ranks #1 for its unparalleled roster of experienced, battle-tested CMOs, primarily from Fortune 500 backgrounds, making it the top choice for companies seeking proven, executive-level strategic talent.",
+      "verdict_short": "The top choice for proven, enterprise-level marketing leadership due to its deep bench of vetted Fortune 500 CMOs.",
+      "praise": "The firm's rigorous vetting process ensures clients get access to top-tier talent with a track record of driving significant growth.",
+      "praise_short": "Unmatched roster of vetted, high-caliber CMOs.",
+      "criticism": "Their model is priced at the premium end of the market and may be cost-prohibitive for early-stage startups.",
+      "criticism_short": "Premium pricing may not fit early-stage budgets.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Inc. 5000 Lists",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Authentic Brand",
+      "url": "https://www.authenticbrand.com/",
+      "founded": 2017,
+      "hq": "Minneapolis, USA",
+      "team_size_band": "51-100",
+      "best_for": "Growth-stage and mid-market B2B companies that value a structured, methodology-driven approach to building a scalable marketing function.",
+      "best_for_short": "Methodology-driven B2B growth",
+      "pricing_band": "$$$$ ($8,000 to $20,000/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 9,
+        "Industry & Stage Fit": 9.2,
+        "Leadership & Team Integration": 9,
+        "Process & Frameworks": 9.4,
+        "Flexibility & Scalability": 8.8
+      },
+      "verdict": "Authentic Brand earns its high ranking with a powerful, proprietary methodology and a strong focus on mentoring and developing the client's internal team, ensuring sustainable marketing capabilities.",
+      "verdict_short": "A top pick for its structured methodology and focus on building sustainable, in-house marketing teams.",
+      "praise": "Their Authentic Growth Methodology™ provides a clear, actionable framework that aligns marketing efforts directly with business objectives.",
+      "praise_short": "Excellent proprietary growth framework.",
+      "criticism": "The firm's focus is primarily on the US Midwest, though their reach is expanding.",
+      "criticism_short": "Primarily focused on the US Midwest.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Client Testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Kalungi",
+      "url": "https://www.kalungi.com/",
+      "founded": 2018,
+      "hq": "Seattle, USA",
+      "team_size_band": "51-100",
+      "best_for": "Early-stage B2B SaaS companies (Seed to Series C) needing a proven, repeatable playbook for go-to-market strategy and execution.",
+      "best_for_short": "The B2B SaaS marketing playbook",
+      "pricing_band": "$$$$ ($12,000 to $30,000+/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.8,
+        "Industry & Stage Fit": 9.4,
+        "Leadership & Team Integration": 8.5,
+        "Process & Frameworks": 9.3,
+        "Flexibility & Scalability": 8.4
+      },
+      "verdict": "Kalungi is the best choice for B2B SaaS startups due to its hyper-specialized focus and comprehensive playbook that covers the entire marketing function, from strategy to hiring and execution.",
+      "verdict_short": "The undisputed leader for B2B SaaS startups, offering a complete, specialized marketing playbook.",
+      "praise": "Their deep specialization in B2B SaaS means they understand the specific challenges and growth levers of the industry better than almost anyone.",
+      "praise_short": "Unmatched B2B SaaS specialization.",
+      "criticism": "The model is highly prescriptive and may be less suitable for companies outside the B2B SaaS niche or those with unique go-to-market needs.",
+      "criticism_short": "Prescriptive model may not fit non-SaaS businesses.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "SaaStr Speaker Sessions",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 12000,
+      "price_max": 30000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Aventi Group",
+      "url": "https://www.aventigroup.com/",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "B2B technology companies, especially those needing deep expertise in product marketing and go-to-market (GTM) strategy.",
+      "best_for_short": "B2B tech product marketing experts",
+      "pricing_band": "$$$$ ($10,000+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.7,
+        "Industry & Stage Fit": 9,
+        "Leadership & Team Integration": 8.5,
+        "Process & Frameworks": 8.2,
+        "Flexibility & Scalability": 8.4
+      },
+      "verdict": "Aventi Group stands out for its deep bench of senior marketers with specific expertise in B2B tech product marketing, making them ideal for companies launching new products or entering new markets.",
+      "verdict_short": "A top choice for B2B tech firms needing expert product marketing and go-to-market strategy.",
+      "praise": "Their roster of talent has significant hands-on experience at major tech companies like HP, Oracle, and Cisco.",
+      "praise_short": "Talent from major, established tech companies.",
+      "criticism": "While strong in strategy, clients may need to supplement their team for hands-on tactical execution in areas like content creation or social media.",
+      "criticism_short": "More focused on strategy than tactical execution.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Client List"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "The Marketing GP",
+      "url": "https://www.themarketinggp.com/",
+      "founded": 2012,
+      "hq": "Atlanta, USA",
+      "team_size_band": "11-50",
+      "best_for": "Small to mid-sized businesses that need a versatile, all-around marketing leader to establish a foundational strategy and build a team.",
+      "best_for_short": "Versatile, foundational marketing leadership",
+      "pricing_band": "$$$ ($6,000 to $15,000/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.5,
+        "Industry & Stage Fit": 8.2,
+        "Leadership & Team Integration": 8.6,
+        "Process & Frameworks": 8.1,
+        "Flexibility & Scalability": 8.7
+      },
+      "verdict": "The Marketing GP excels at providing 'general practitioner' marketing leadership, making them a strong choice for businesses that need a versatile expert to diagnose issues and build a healthy, comprehensive marketing program from the ground up.",
+      "verdict_short": "Ideal for SMBs needing a versatile leader to build a marketing foundation from scratch.",
+      "praise": "Their flexible model and focus on fundamentals are perfect for companies that aren't sure where to start with strategic marketing.",
+      "praise_short": "Great for building marketing from the ground up.",
+      "criticism": "Companies in highly specialized, technical niches may require a provider with deeper vertical-specific expertise.",
+      "criticism_short": "Less specialized than niche-focused competitors.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Client Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "CMO-On-Demand",
+      "url": "https://cmo-on-demand.com/",
+      "founded": 2004,
+      "hq": "Boston, USA",
+      "team_size_band": "2-10",
+      "best_for": "Technology and professional services firms looking for a high-touch, partner-led engagement to drive strategic growth.",
+      "best_for_short": "High-touch, partner-led strategy",
+      "pricing_band": "$$$$ ($8,000+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.4,
+        "Industry & Stage Fit": 8.3,
+        "Leadership & Team Integration": 8.2,
+        "Process & Frameworks": 7.9,
+        "Flexibility & Scalability": 8
+      },
+      "verdict": "CMO-On-Demand provides a boutique, high-touch service where clients work directly with seasoned partners, ensuring a deep level of engagement and strategic alignment for tech and B2B service companies.",
+      "verdict_short": "A boutique firm offering direct access to senior partners for deep strategic engagement.",
+      "praise": "The direct involvement of the firm's principals ensures a high level of accountability and strategic insight on every engagement.",
+      "praise_short": "Direct access to experienced principals.",
+      "criticism": "As a smaller boutique firm, they have less capacity and a narrower range of industry specialists compared to larger competitors.",
+      "criticism_short": "Limited capacity and specialist range.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Company Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Growth-Chiefs",
+      "url": "https://growth-chiefs.com/",
+      "founded": 2020,
+      "hq": "Austin, USA",
+      "team_size_band": "2-10",
+      "best_for": "B2B companies that need a data-driven, ROI-focused marketing leader to build and optimize their revenue engine.",
+      "best_for_short": "Data-driven B2B revenue growth",
+      "pricing_band": "$$$ ($7,000 to $18,000/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.5,
+        "Industry & Stage Fit": 7.8,
+        "Leadership & Team Integration": 8,
+        "Process & Frameworks": 8.1,
+        "Flexibility & Scalability": 7.5
+      },
+      "verdict": "Growth-Chiefs secures a spot for its intense focus on data, analytics, and revenue operations, making it a great fit for founders who want a marketing leader who speaks the language of sales and finance.",
+      "verdict_short": "A strong choice for its intense focus on data, analytics, and revenue operations.",
+      "praise": "Their heavy emphasis on metrics and building a predictable growth engine resonates well with data-oriented leadership teams.",
+      "praise_short": "Strong emphasis on metrics and predictable growth.",
+      "criticism": "The firm is younger and smaller than others on the list, with a less extensive public track record.",
+      "criticism_short": "Younger firm with a less extensive track record.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "LinkedIn Profiles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 7000,
+      "price_max": 18000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Market-Launcher",
+      "url": "https://www.market-launcher.com/",
+      "founded": 2001,
+      "hq": "Orlando, USA",
+      "team_size_band": "11-50",
+      "best_for": "B2B companies needing a blend of high-level GTM strategy and tactical support for market entry and lead generation.",
+      "best_for_short": "Strategy plus tactical market entry",
+      "pricing_band": "$$$$ ($10,000+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8,
+        "Industry & Stage Fit": 7.9,
+        "Leadership & Team Integration": 7.5,
+        "Process & Frameworks": 7.6,
+        "Flexibility & Scalability": 7.9
+      },
+      "verdict": "Market-Launcher is unique because it combines fractional CMO-level strategy with in-house execution capabilities for market research and appointment setting, offering an integrated solution for market expansion.",
+      "verdict_short": "A unique, integrated solution combining GTM strategy with tactical lead generation for market expansion.",
+      "praise": "The ability to pair strategic planning with hands-on execution of outbound campaigns is a significant advantage for lean teams.",
+      "praise_short": "Combines strategy with tactical execution.",
+      "criticism": "The model can feel more like an agency hybrid than a pure strategic leadership engagement, which may not suit all needs.",
+      "criticism_short": "Agency-hybrid model may not fit all needs.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Ten-X",
+      "url": "https://www.ten-x.com/",
+      "founded": 2017,
+      "hq": "New York, USA",
+      "team_size_band": "11-50",
+      "best_for": "Ambitious startups and tech companies looking for aggressive growth strategies and modern, digitally-focused marketing leadership.",
+      "best_for_short": "Aggressive, modern digital growth",
+      "pricing_band": "$$$$ ($9,000+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 8.1,
+        "Industry & Stage Fit": 7.5,
+        "Leadership & Team Integration": 7.4,
+        "Process & Frameworks": 7.2,
+        "Flexibility & Scalability": 7.8
+      },
+      "verdict": "Ten-X earns its place by focusing squarely on '10x growth,' employing modern growth hacking and performance marketing techniques that appeal to venture-backed startups aiming for rapid scale.",
+      "verdict_short": "A solid option for VC-backed startups seeking aggressive, performance-marketing-focused leadership for rapid growth.",
+      "praise": "Their approach is heavily weighted towards modern digital channels and rapid experimentation, which is ideal for the fast-paced tech world.",
+      "praise_short": "Focus on modern growth hacking and experimentation.",
+      "criticism": "The intense focus on hyper-growth may neglect foundational brand-building activities that are crucial for long-term success.",
+      "criticism_short": "Hyper-growth focus may neglect brand building.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Portfolio Companies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 9000,
+      "price_max": 9000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "CMO Squad",
+      "url": "https://cmosquad.com/",
+      "founded": 2018,
+      "hq": "Lehi, USA",
+      "team_size_band": "11-50",
+      "best_for": "Companies looking for a flexible, community-based approach to finding a well-matched fractional marketing leader.",
+      "best_for_short": "Flexible, community-based matching",
+      "pricing_band": "$$$ ($5,000 to $15,000/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 7.2,
+        "Industry & Stage Fit": 7.5,
+        "Leadership & Team Integration": 7.6,
+        "Process & Frameworks": 7,
+        "Flexibility & Scalability": 8
+      },
+      "verdict": "CMO Squad offers a flexible and accessible model by matching clients with vetted CMOs from its diverse 'squad,' providing a good balance of quality and value for businesses testing the fractional model.",
+      "verdict_short": "A flexible matching service that provides good value and a diverse pool of vetted marketing talent.",
+      "praise": "The community aspect means that each CMO can draw on the collective intelligence of the entire squad, bringing broader expertise to the client.",
+      "praise_short": "CMOs leverage a collective knowledge base.",
+      "criticism": "The consistency of strategic frameworks and processes can vary more than with firms that use a single, proprietary methodology.",
+      "criticism_short": "Strategic consistency can vary between CMOs.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Podcast Interviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": null,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "TechCXO",
+      "url": "https://www.techcxo.com/",
+      "founded": 2003,
+      "hq": "Atlanta, USA",
+      "team_size_band": "100-250",
+      "best_for": "Companies needing integrated, C-suite level support across multiple functions (marketing, finance, operations) simultaneously.",
+      "best_for_short": "Integrated, multi-function C-suite support",
+      "pricing_band": "$$$$ ($10,000+/mo per function)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Strategic Impact & ROI": 7.5,
+        "Industry & Stage Fit": 7.4,
+        "Leadership & Team Integration": 7.8,
+        "Process & Frameworks": 6.5,
+        "Flexibility & Scalability": 7
+      },
+      "verdict": "TechCXO is our wildcard pick because it's not just a fractional CMO firm; it's a fractional C-suite, offering integrated support from CFOs, CTOs, and CMOs, perfect for leadership teams needing holistic, cross-functional expertise.",
+      "verdict_short": "A unique multi-disciplinary firm providing a full fractional C-suite, not just a CMO.",
+      "praise": "Their ability to provide a unified team of fractional executives ensures tight alignment between marketing, finance, and product strategy.",
+      "praise_short": "Holistic, cross-functional executive team.",
+      "criticism": "The marketing practice is just one part of a larger offering, so it may lack the deep, singular focus of a dedicated fractional CMO firm.",
+      "criticism_short": "Less specialized in marketing than dedicated firms.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Client Portfolio"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": null,
+      "max_team_size": 100
+    }
+  ]
+}

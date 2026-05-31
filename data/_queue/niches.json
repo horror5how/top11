@@ -6,62 +6,6 @@
   },
   "pending": [
     {
-      "slug": "ai-meeting-assistants",
-      "title": "The 11 Best AI Meeting Assistants & Note-Takers",
-      "vertical": "Productivity · AI",
-      "audience": "Anyone wanting AI transcription and meeting summaries",
-      "candidate_pool_size": 35,
-      "priority": 2
-    },
-    {
-      "slug": "saas-bookkeeping",
-      "title": "The 11 Best Bookkeeping Services for SaaS Startups",
-      "vertical": "Finance · SaaS",
-      "audience": "SaaS founders outsourcing books",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
-      "slug": "fractional-coo",
-      "title": "The 11 Best Fractional COOs",
-      "vertical": "Operations · Fractional Executives",
-      "audience": "Founders needing fractional ops leadership",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
-      "slug": "fractional-cmo",
-      "title": "The 11 Best Fractional CMOs",
-      "vertical": "Marketing · Fractional Executives",
-      "audience": "Founders needing fractional marketing leadership",
-      "candidate_pool_size": 35,
-      "priority": 2
-    },
-    {
-      "slug": "fractional-cto",
-      "title": "The 11 Best Fractional CTOs",
-      "vertical": "Engineering · Fractional Executives",
-      "audience": "Non-technical founders needing senior engineering leadership",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
-      "slug": "legal-crm",
-      "title": "The 11 Best Legal CRMs & Case Management Software",
-      "vertical": "Legal · Practice Management",
-      "audience": "Law firms and solo attorneys managing matters and clients",
-      "candidate_pool_size": 35,
-      "priority": 2
-    },
-    {
-      "slug": "real-estate-crm",
-      "title": "The 11 Best Real Estate CRMs",
-      "vertical": "Real Estate · CRM",
-      "audience": "Real estate agents and brokerages managing leads and listings",
-      "candidate_pool_size": 40,
-      "priority": 2
-    },
-    {
       "slug": "fitness-studio-software",
       "title": "The 11 Best Fitness Studio Management Software",
       "vertical": "Fitness · Studio Software",
@@ -102,14 +46,6 @@
       "priority": 3
     },
     {
-      "slug": "construction-project-management",
-      "title": "The 11 Best Construction Project Management Software",
-      "vertical": "Construction · Project Management",
-      "audience": "Construction contractors and PMs managing jobsites and budgets",
-      "candidate_pool_size": 35,
-      "priority": 2
-    },
-    {
       "slug": "field-service-management",
       "title": "The 11 Best Field Service Management Software",
       "vertical": "Field Services · Operations",
@@ -140,22 +76,6 @@
       "audience": "Landscaping companies managing routes, crews, and billing",
       "candidate_pool_size": 20,
       "priority": 3
-    },
-    {
-      "slug": "smb-payroll",
-      "title": "The 11 Best Payroll Software for SMBs",
-      "vertical": "HR · Payroll",
-      "audience": "Small business owners running payroll without in-house HR",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
-      "slug": "smb-hris",
-      "title": "The 11 Best HRIS for Small Businesses",
-      "vertical": "HR · HRIS",
-      "audience": "SMBs replacing spreadsheets with a real HRIS",
-      "candidate_pool_size": 30,
-      "priority": 2
     },
     {
       "slug": "expense-management",
@@ -358,7 +278,17 @@
     "ai-agent-builders",
     "ai-observability-platforms",
     "ai-customer-support",
-    "ai-sales-tools"
+    "ai-sales-tools",
+    "ai-meeting-assistants",
+    "saas-bookkeeping",
+    "fractional-coo",
+    "fractional-cmo",
+    "fractional-cto",
+    "legal-crm",
+    "real-estate-crm",
+    "construction-project-management",
+    "smb-payroll",
+    "smb-hris"
   ],
   "skipped": []
 }

@@ -1,0 +1,850 @@
+{
+  "slug": "smb-payroll",
+  "title": "The 11 Best Payroll Software for SMBs",
+  "subtitle": "A ranked list of the top payroll solutions for small businesses managing payroll without a dedicated HR department.",
+  "vertical": "HR · Payroll",
+  "audience": "Small business owners running payroll without in-house HR",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Payroll & HR",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Ease of Use (30%), Core Payroll Features (25%), Pricing & Transparency (20%), Integrations (15%), and Customer Support (10%)."
+    }
+  ],
+  "answer_capsule": "The best payroll software for SMBs is Gusto for its exceptional ease of use, followed by Rippling for its all-in-one HR/IT platform and QuickBooks Payroll for its seamless accounting integration.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Ease of Use & UI/UX",
+        "weight": 30,
+        "description": "Intuitive interface for non-HR professionals to run payroll, add employees, and generate reports without extensive training."
+      },
+      {
+        "name": "Core Payroll Features",
+        "weight": 25,
+        "description": "Reliability of core functions: automated tax calculation and filing (federal, state, local), direct deposit, and year-end W-2/1099 form generation."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 20,
+        "description": "Clarity, affordability, and predictability of pricing. Absence of hidden fees for standard services."
+      },
+      {
+        "name": "Integrations",
+        "weight": 15,
+        "description": "Quality and breadth of integrations with essential SMB software, especially accounting (e.g., QuickBooks, Xero) and time tracking."
+      },
+      {
+        "name": "Customer Support",
+        "weight": 10,
+        "description": "Availability, responsiveness, and expertise of support channels (phone, chat, email) for resolving critical payroll issues."
+      }
+    ]
+  },
+  "segment_tags": [
+    "small business",
+    "payroll processing",
+    "HR software",
+    "tax compliance",
+    "employee payment"
+  ],
+  "problem_tags": [
+    "payroll errors",
+    "tax filing mistakes",
+    "time-consuming admin",
+    "benefits administration",
+    "employee onboarding"
+  ],
+  "query_intents": [
+    "best payroll for small business",
+    "Gusto vs ADP",
+    "cheap payroll service",
+    "how to run payroll",
+    "QuickBooks payroll review"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "overwhelming payroll admin",
+        "benefits management",
+        "employee self-onboarding"
+      ],
+      "personas": [
+        "first-time business owner",
+        "startup founder",
+        "owner-operator"
+      ]
+    },
+    "2": {
+      "solves": [
+        "disconnected HR and IT systems",
+        "complex onboarding workflows",
+        "scaling payroll and HR"
+      ],
+      "personas": [
+        "tech-savvy SMB owner",
+        "fast-growing startup",
+        "business with remote employees"
+      ]
+    },
+    "3": {
+      "solves": [
+        "manual payroll data entry into accounting software",
+        "syncing payroll with books"
+      ],
+      "personas": [
+        "heavy QuickBooks user",
+        "accountant-managed business",
+        "sole proprietor with employees"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.45,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What to Look For in SMB Payroll Software",
+      "a": "Prioritize ease of use, as you likely don't have an HR expert on staff. Ensure it offers full-service tax filing to handle all federal, state, and local requirements automatically. Check for transparent pricing (base fee + per-employee fee) and key integrations with your accounting software."
+    },
+    {
+      "q": "Understanding the Difference: Payroll vs. PEO",
+      "a": "Payroll software automates paying your employees and filing taxes; you remain the employer of record. A Professional Employer Organization (PEO) becomes a co-employer, allowing you to access their larger group for better rates on health insurance and benefits. PEOs are more comprehensive but also more expensive and create a co-employment relationship."
+    }
+  ],
+  "how_to_choose": [
+    "First, assess your core need: Is it just payroll, or do you need integrated benefits, time tracking, and HR tools? This will narrow your choices significantly.",
+    "Second, confirm the provider offers 'full-service' payroll, meaning they calculate, file, and pay your payroll taxes on your behalf. This is non-negotiable for most SMBs.",
+    "Third, check for a seamless integration with your existing accounting software (like QuickBooks or Xero) to avoid manual data entry and ensure your books are always accurate.",
+    "Finally, compare pricing based on your current and near-future employee count. Look for a clear monthly base fee plus a per-employee fee, and watch out for extra charges for year-end filings or multi-state payroll."
+  ],
+  "faqs": [
+    {
+      "q": "How much does payroll software cost for a small business?",
+      "a": "Most SMB payroll software costs between $40 to $60 per month as a base fee, plus an additional $6 to $12 per employee per month. A 10-person company can expect to pay roughly $100 to $180 per month."
+    },
+    {
+      "q": "Can I do payroll myself without software?",
+      "a": "While technically possible using IRS forms and state resources, it's extremely risky and time-consuming. A small mistake in tax calculations or filings can lead to significant penalties. For almost all businesses with employees, using dedicated software is the safer and more efficient choice."
+    },
+    {
+      "q": "What is the difference between payroll software and a PEO?",
+      "a": "Payroll software helps you manage your own payroll and tax obligations. A PEO (Professional Employer Organization) becomes a co-employer of your staff, taking on more HR responsibilities and giving you access to their larger benefits plans. PEOs are more comprehensive and typically more expensive."
+    },
+    {
+      "q": "Do I need payroll software for just one employee?",
+      "a": "Yes. The legal requirements for withholding taxes, paying employer taxes, and filing forms are the same for one employee as for one hundred. Payroll software ensures you stay compliant and automates these complex tasks affordably."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are primarily focused on the United States market; businesses with international employees may need a more specialized solution.",
+    "Quoted prices are often for the base tier; costs can increase for advanced HR features, multi-state payroll, or dedicated support."
+  ],
+  "glossary": {
+    "term": "PEO (Professional Employer Organization)",
+    "definition": "A firm that provides comprehensive HR services, including payroll, benefits, and compliance, by becoming a 'co-employer' of the client's employees. This allows small businesses to access enterprise-level benefits.",
+    "synonyms": [
+      "co-employment",
+      "employee leasing"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Gusto",
+      "url": "https://gusto.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Small businesses prioritizing an intuitive, user-friendly interface for integrated payroll, benefits, and basic HR.",
+      "best_for_short": "Overall ease of use",
+      "pricing_band": "$$ ($46 to $150+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 9.4,
+        "Core Payroll Features": 9.2,
+        "Pricing & Transparency": 9.3,
+        "Integrations": 9,
+        "Customer Support": 9.2
+      },
+      "verdict": "Gusto is the best overall payroll provider for SMBs because its platform is exceptionally easy to navigate, making complex tasks like payroll runs, benefits enrollment, and employee onboarding simple for non-HR experts.",
+      "verdict_short": "The easiest-to-use platform for all-in-one payroll, benefits, and HR, perfect for business owners without HR staff.",
+      "praise": "The 'autopilot' feature for payroll is a significant time-saver, and the employee self-service portal is best-in-class.",
+      "praise_short": "Exceptional 'autopilot' payroll and employee self-service.",
+      "criticism": "Customer support response times can sometimes lag during peak periods like year-end tax season.",
+      "criticism_short": "Support can be slow during peak tax seasons.",
+      "sources_pending": [
+        "gusto.com/pricing",
+        "g2.com/products/gusto/reviews",
+        "capeterra.com/p/144785/Gusto/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 46,
+      "price_max": 150,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "TSheets",
+        "Deputy",
+        "Clover",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "ACA",
+        "Workers' Comp"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Rippling",
+      "url": "https://www.rippling.com",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Tech-savvy SMBs looking for a unified platform to manage payroll, benefits, HR, and IT (app/device management) together.",
+      "best_for_short": "Unified HR, IT, and payroll",
+      "pricing_band": "$$ ($43 to $200+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 9,
+        "Core Payroll Features": 9.3,
+        "Pricing & Transparency": 8.5,
+        "Integrations": 9.8,
+        "Customer Support": 9
+      },
+      "verdict": "Rippling earns its high rank by offering a powerful, integrated 'employee cloud' that connects payroll to hundreds of apps and even IT management, automating workflows far beyond what typical payroll systems can do.",
+      "verdict_short": "A powerful, automation-focused platform that unifies payroll with HR and IT for streamlined operations.",
+      "praise": "Its integration capabilities are unmatched, allowing for powerful automations like creating a Google Workspace account and ordering a laptop upon hiring.",
+      "praise_short": "Unmatched integrations and automation capabilities.",
+      "criticism": "The modular pricing can become expensive as you add more services, and the sheer number of features can be overwhelming for very simple businesses.",
+      "criticism_short": "Modular pricing can get expensive; may be overkill for simple needs.",
+      "sources_pending": [
+        "rippling.com/pricing",
+        "g2.com/products/rippling/reviews",
+        "trustradius.com/products/rippling/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 43,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "NetSuite",
+        "Slack",
+        "Google Workspace",
+        "Microsoft 365",
+        "500+ more"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "ACA",
+        "EEO-1 Reporting"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "QuickBooks Payroll",
+      "url": "https://quickbooks.intuit.com/payroll/",
+      "founded": 1983,
+      "hq": "Mountain View, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Businesses already using QuickBooks Online for their accounting, seeking seamless integration and a single source of truth for financials.",
+      "best_for_short": "Existing QuickBooks users",
+      "pricing_band": "$$ ($75 to $200+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8.8,
+        "Core Payroll Features": 9,
+        "Pricing & Transparency": 8.5,
+        "Integrations": 9.5,
+        "Customer Support": 8
+      },
+      "verdict": "QuickBooks Payroll is the top choice for companies embedded in the Intuit ecosystem because its flawless integration with QuickBooks Online eliminates manual data entry, simplifies reconciliation, and provides real-time financial visibility.",
+      "verdict_short": "The best option for QuickBooks users due to its unbeatable accounting integration and workflow.",
+      "praise": "The automatic syncing of payroll data to the general ledger is a massive time-saver and reduces the chance of accounting errors.",
+      "praise_short": "Flawless, automatic sync with QuickBooks accounting.",
+      "criticism": "Customer support can be difficult to reach and less specialized than dedicated payroll providers, and it's a less compelling option if you don't use QuickBooks for accounting.",
+      "criticism_short": "Customer support is a common complaint.",
+      "sources_pending": [
+        "quickbooks.intuit.com/payroll/pricing/",
+        "g2.com/products/intuit-quickbooks-payroll/reviews",
+        "pcmag.com/reviews/intuit-quickbooks-payroll"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 75,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Time",
+        "Third-party apps via QB App Store"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "Workers' Comp"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "OnPay",
+      "url": "https://onpay.com",
+      "founded": 2007,
+      "hq": "Atlanta, USA",
+      "team_size_band": "51-200",
+      "best_for": "SMBs in niche industries (like agriculture, restaurants, or non-profits) that need specialized features alongside strong core payroll.",
+      "best_for_short": "Niche industry features",
+      "pricing_band": "$ ($46+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8.8,
+        "Core Payroll Features": 8.7,
+        "Pricing & Transparency": 9.2,
+        "Integrations": 8,
+        "Customer Support": 8.5
+      },
+      "verdict": "OnPay stands out for its straightforward, all-inclusive pricing model and its ability to handle the specific payroll needs of industries that larger providers often overlook, such as processing Form 943 for farms.",
+      "verdict_short": "Offers a single, transparently priced plan with great support and features for niche industries.",
+      "praise": "Its single-tier pricing is refreshingly simple, providing all features to every customer without confusing upsells.",
+      "praise_short": "Simple, all-inclusive pricing with no tiers.",
+      "criticism": "The user interface, while functional, feels less modern and polished compared to competitors like Gusto and Rippling.",
+      "criticism_short": "User interface feels slightly dated.",
+      "sources_pending": [
+        "onpay.com/pricing",
+        "g2.com/products/onpay/reviews",
+        "forbes.com/advisor/business/onpay-review/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 46,
+      "price_max": 46,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "QuickBooks Desktop",
+        "When I Work",
+        "Deputy"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "Form 943 (Agriculture)"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "ADP Run",
+      "url": "https://www.adp.com/what-we-offer/by-business-size/small-business.aspx",
+      "founded": 1949,
+      "hq": "Roseland, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Established small businesses that prioritize reliability, compliance, and the ability to scale with a long-standing industry leader.",
+      "best_for_short": "Reliability and scalability",
+      "pricing_band": "$$$ (Varies by quote)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8,
+        "Core Payroll Features": 9.5,
+        "Pricing & Transparency": 7,
+        "Integrations": 8.5,
+        "Customer Support": 9
+      },
+      "verdict": "ADP RUN is a top choice for its unmatched experience and robust infrastructure, offering SMBs peace of mind that payroll and tax compliance are handled by one of the most trusted names in the industry.",
+      "verdict_short": "The SMB solution from an industry giant, offering unmatched reliability, compliance, and scalability.",
+      "praise": "ADP's compliance engine is second to none, providing proactive alerts and expert support to navigate complex labor laws.",
+      "praise_short": "Best-in-class tax and compliance engine.",
+      "criticism": "Pricing is notoriously opaque and often requires a sales call, and the platform can feel more complex and less intuitive than modern, cloud-native competitors.",
+      "criticism_short": "Opaque pricing and a less modern interface.",
+      "sources_pending": [
+        "adp.com",
+        "g2.com/products/run-powered-by-adp/reviews",
+        "softwareadvice.com/payroll/run-powered-by-adp-profile/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Wave",
+        "Oracle NetSuite",
+        "Workday"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "ACA",
+        "New Hire Reporting"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 49
+    },
+    {
+      "rank": 6,
+      "name": "Paychex Flex",
+      "url": "https://www.paychex.com/paychex-flex",
+      "founded": 1971,
+      "hq": "Rochester, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Small businesses that want a wide range of HR services, from payroll to retirement plans and HR consulting, from a single, established provider.",
+      "best_for_short": "All-in-one HR services",
+      "pricing_band": "$$$ (Varies by quote)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 7.8,
+        "Core Payroll Features": 9.2,
+        "Pricing & Transparency": 7.2,
+        "Integrations": 8.2,
+        "Customer Support": 8.8
+      },
+      "verdict": "Paychex Flex secures its spot by offering a highly comprehensive and scalable platform that goes beyond payroll to include services like 401(k) administration and access to HR professionals, making it a true all-in-one HR partner.",
+      "verdict_short": "A comprehensive HR platform from an industry veteran, ideal for businesses needing more than just payroll.",
+      "praise": "The availability of dedicated specialists for payroll and HR provides a high level of expert support that many smaller platforms lack.",
+      "praise_short": "Access to dedicated HR and payroll specialists.",
+      "criticism": "Like ADP, pricing is not transparent, and the user interface can feel dated and less intuitive for simple tasks compared to newer competitors.",
+      "criticism_short": "Pricing isn't public; interface can be clunky.",
+      "sources_pending": [
+        "paychex.com",
+        "g2.com/products/paychex-flex/reviews",
+        "trustradius.com/products/paychex-flex/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "Sage Intacct",
+        "Various time & attendance systems"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation",
+        "SUI Management"
+      ],
+      "regions": [
+        "USA",
+        "Germany"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Patriot Software",
+      "url": "https://www.patriotsoftware.com",
+      "founded": 2002,
+      "hq": "Canton, USA",
+      "team_size_band": "51-200",
+      "best_for": "Budget-conscious small businesses that need reliable, no-frills payroll processing at one of the lowest price points in the market.",
+      "best_for_short": "Best value for money",
+      "pricing_band": "$ ($14+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8.2,
+        "Core Payroll Features": 8,
+        "Pricing & Transparency": 9.5,
+        "Integrations": 7,
+        "Customer Support": 7.5
+      },
+      "verdict": "Patriot Software is a leading choice for affordability, offering a simple and effective payroll solution with transparent, low-cost pricing that appeals to startups and small businesses watching every dollar.",
+      "verdict_short": "A highly affordable and straightforward payroll solution perfect for businesses on a tight budget.",
+      "praise": "The pricing structure is exceptionally clear and among the most competitive available, especially for the full-service payroll tier.",
+      "praise_short": "Extremely competitive and transparent pricing.",
+      "criticism": "The platform lacks the advanced HR features, extensive integrations, and polished user interface of higher-ranked, more expensive competitors.",
+      "criticism_short": "Lacks advanced features and extensive integrations.",
+      "sources_pending": [
+        "patriotsoftware.com/payroll/pricing/",
+        "g2.com/products/patriot-payroll/reviews",
+        "nerdwallet.com/reviews/small-business/patriot-software"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 14,
+      "price_max": 14,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Patriot Accounting",
+        "QuickBooks Desktop",
+        "QuickBooks Online"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "Local Tax Filing",
+        "W-2/1099 Generation"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Square Payroll",
+      "url": "https://squareup.com/us/en/payroll",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Restaurants, retailers, and other businesses that already use the Square POS system for payments and time tracking.",
+      "best_for_short": "Businesses using Square POS",
+      "pricing_band": "$$ ($41+/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8.5,
+        "Core Payroll Features": 7.8,
+        "Pricing & Transparency": 8.2,
+        "Integrations": 7,
+        "Customer Support": 7.8
+      },
+      "verdict": "Square Payroll is the ideal solution for businesses within the Square ecosystem, as it seamlessly integrates with Square POS to automatically sync tips, commissions, and employee hours, drastically simplifying payroll for service-based businesses.",
+      "verdict_short": "Perfect for Square POS users, with seamless integration of hours, tips, and commissions.",
+      "praise": "The ability to pay both W-2 employees and 1099 contractors from the same simple interface is a major convenience.",
+      "praise_short": "Easily pay both employees and contractors.",
+      "criticism": "Its feature set is less comprehensive than dedicated HR platforms, and its value diminishes significantly if you are not using other Square products.",
+      "criticism_short": "Less compelling if not using Square POS.",
+      "sources_pending": [
+        "squareup.com/us/en/payroll/pricing",
+        "g2.com/products/square-payroll/reviews",
+        "business.org/hr/payroll/square-payroll-review/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 41,
+      "price_max": 41,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Square POS",
+        "QuickBooks Online",
+        "Third-party apps via Square App Marketplace"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "W-2/1099 Generation",
+        "Tip Reporting"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Justworks",
+      "url": "https://www.justworks.com",
+      "founded": 2012,
+      "hq": "New York, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Small businesses wanting to offer competitive, large-company benefits (health insurance, 401k) by leveraging a PEO model.",
+      "best_for_short": "Access to enterprise benefits",
+      "pricing_band": "$$$ ($59+/per employee)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8.5,
+        "Core Payroll Features": 8,
+        "Pricing & Transparency": 7,
+        "Integrations": 7.5,
+        "Customer Support": 8.5
+      },
+      "verdict": "Justworks makes the list by offering a PEO solution with a modern, user-friendly platform, giving SMBs the power to attract and retain talent with access to benefits packages typically reserved for large corporations.",
+      "verdict_short": "A modern PEO that simplifies access to high-quality health insurance and other enterprise-level benefits.",
+      "praise": "The platform excels at simplifying the complexities of HR compliance and benefits administration under its co-employment model.",
+      "praise_short": "Simplifies benefits and HR compliance.",
+      "criticism": "As a PEO, it is more expensive than standard payroll software and requires entering a co-employment relationship, which isn't a fit for every business.",
+      "criticism_short": "More expensive and requires a co-employment model.",
+      "sources_pending": [
+        "justworks.com/pricing",
+        "g2.com/products/justworks/reviews",
+        "forbes.com/advisor/business/justworks-review/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Greenhouse",
+        "JazzHR"
+      ],
+      "compliance": [
+        "PEO Co-employment",
+        "Federal/State Tax Filing",
+        "W-2 Generation",
+        "ACA Filing",
+        "EPLI"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "SurePayroll",
+      "url": "https://www.surepayroll.com",
+      "founded": 2000,
+      "hq": "Glenview, USA",
+      "team_size_band": "201-500",
+      "best_for": "Very small businesses or households (e.g., nanny payroll) that need a simple, reliable, and affordable payroll solution backed by a major industry player.",
+      "best_for_short": "Household and micro-business payroll",
+      "pricing_band": "$ ($20+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 7.5,
+        "Core Payroll Features": 8,
+        "Pricing & Transparency": 8,
+        "Integrations": 6.5,
+        "Customer Support": 7.8
+      },
+      "verdict": "SurePayroll, a Paychex company, provides a dependable and cost-effective solution specifically tailored for the simplest payroll needs, such as paying a single household employee, where more complex systems would be overkill.",
+      "verdict_short": "An affordable, simple solution for micro-businesses and household employers, backed by Paychex.",
+      "praise": "It offers specialized handling of 'nanny tax' and other household employment requirements, a niche many competitors don't focus on.",
+      "praise_short": "Excellent for 'nanny tax' and household payroll.",
+      "criticism": "The platform is basic and lacks the robust HR features, integrations, and modern interface found in higher-ranked solutions.",
+      "criticism_short": "Basic features and a dated user interface.",
+      "sources_pending": [
+        "surepayroll.com/pricing",
+        "g2.com/products/surepayroll/reviews",
+        "businessnewsdaily.com/reviews/surepayroll/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "AccountEdge"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "W-2/1099 Generation",
+        "Household Employment Taxes (Schedule H)"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 10
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Deel",
+      "url": "https://www.deel.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Modern SMBs that need to manage a mix of US-based W-2 employees and international contractors or EOR employees on a single platform.",
+      "best_for_short": "Hybrid domestic and global teams",
+      "pricing_band": "$$$ (Varies by product)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Ease of Use & UI/UX": 8,
+        "Core Payroll Features": 7.5,
+        "Pricing & Transparency": 7,
+        "Integrations": 7.5,
+        "Customer Support": 7
+      },
+      "verdict": "Deel is the wildcard because, while famous for global hiring, its rapidly maturing US Payroll product offers a compelling vision for the future: a single system to compliantly pay anyone, anywhere, whether they're a W-2 employee in Ohio or a contractor in Portugal.",
+      "verdict_short": "A global-first platform now offering strong US payroll, unifying domestic and international worker payments.",
+      "praise": "Its ability to consolidate global contractor payments, EOR employees, and US payroll into one dashboard is a unique and powerful proposition for distributed companies.",
+      "praise_short": "Unifies global contractor, EOR, and US payroll.",
+      "criticism": "Its US Payroll product is newer and less feature-rich in domestic HR benefits administration compared to established leaders like Gusto.",
+      "criticism_short": "US payroll and HR features are less mature.",
+      "sources_pending": [
+        "deel.com/pricing",
+        "g2.com/products/deel/reviews",
+        "trustpilot.com/review/www.letsdeel.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "NetSuite",
+        "Greenhouse",
+        "Lever"
+      ],
+      "compliance": [
+        "Federal Tax Filing",
+        "State Tax Filing",
+        "W-2 Generation",
+        "Global Contractor Compliance"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

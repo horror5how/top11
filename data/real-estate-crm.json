@@ -1,0 +1,822 @@
+{
+  "slug": "real-estate-crm",
+  "title": "The 11 Best Real Estate CRMs",
+  "subtitle": "A ranked list of the top CRM platforms for real estate agents and brokerages to manage leads, automate follow-ups, and close more deals.",
+  "vertical": "Real Estate · CRM",
+  "audience": "Real estate agents and brokerages managing leads and listings",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "CRM",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Lead Management (30%), Automation (25%), Ease of Use (20%), Integrations (15%), and Pricing (10%)."
+    }
+  ],
+  "answer_capsule": "The best real estate CRM is Follow Up Boss for its powerful lead aggregation and team features, followed by LionDesk for its value and communication tools, and kvCORE for its all-in-one platform capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 40,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Lead Management & Nurturing",
+        "weight": 30,
+        "description": "Effectiveness in capturing, routing, scoring, and organizing leads from various sources (e.g., Zillow, Realtor.com, website forms)."
+      },
+      {
+        "name": "Automation & Workflow",
+        "weight": 25,
+        "description": "Quality and flexibility of automated features like drip campaigns, task reminders, transaction management checklists, and smart lists."
+      },
+      {
+        "name": "Ease of Use & Mobile Access",
+        "weight": 20,
+        "description": "Intuitive user interface, minimal learning curve for agents, and the quality of the mobile application for on-the-go work."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 15,
+        "description": "Breadth and depth of integrations with essential real estate tools, including MLS, IDX providers, marketing platforms, and general business software via APIs or Zapier."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "Overall return on investment, transparent pricing structures, and the value provided at different price points for solo agents and teams."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Real Estate Software",
+    "CRM for Agents",
+    "Brokerage Software",
+    "Lead Management",
+    "Sales Automation"
+  ],
+  "problem_tags": [
+    "Lead Follow-up",
+    "Client Relationship Management",
+    "Sales Pipeline Tracking",
+    "Transaction Coordination",
+    "Marketing Automation"
+  ],
+  "query_intents": [
+    "best crm for realtors",
+    "real estate crm comparison",
+    "follow up boss alternatives",
+    "crm with mls integration",
+    "real estate lead nurturing software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Lead aggregation",
+        "Team accountability",
+        "Fast lead response"
+      ],
+      "personas": [
+        "High-producing teams",
+        "Brokerages",
+        "Individual agents focused on growth"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Affordable lead management",
+        "Video marketing",
+        "Bulk communication"
+      ],
+      "personas": [
+        "Solo agents",
+        "Small teams",
+        "Budget-conscious realtors"
+      ]
+    },
+    "3": {
+      "solves": [
+        "All-in-one platform need",
+        "Lead generation",
+        "Website and CRM integration"
+      ],
+      "personas": [
+        "Brokerages providing tech",
+        "Teams wanting a single system"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 40,
+    "ranked": 11,
+    "average_score": 8.45,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is the core function of a Real Estate CRM?",
+      "a": "A real estate CRM's primary function is to centralize lead and client information, automate communication and follow-up tasks, and manage the sales pipeline from initial contact to closing. This helps agents stay organized and convert more leads into clients."
+    },
+    {
+      "q": "How is a Real Estate CRM different from a general CRM like Salesforce?",
+      "a": "Real estate CRMs are purpose-built for the industry. They include specific features like MLS/IDX integration for property data, transaction management checklists, and pre-built marketing campaigns tailored to buyers and sellers, which general CRMs lack out-of-the-box."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your lead sources: Ensure the CRM integrates seamlessly with your primary lead generation channels (e.g., Zillow, your website, social media).",
+    "Consider your team structure: Solo agents have different needs than large teams or brokerages. Look for features like lead routing, team dashboards, and agent accountability tools if you're not working alone.",
+    "Evaluate the mobile app: As an agent, you're constantly on the move. A robust, user-friendly mobile app is non-negotiable for managing clients and tasks from the field.",
+    "Look beyond the CRM: Many top providers offer an all-in-one platform that includes an IDX website, marketing tools, and lead generation services. Decide if you want a standalone CRM or a bundled solution."
+  ],
+  "faqs": [
+    {
+      "q": "What is a real estate CRM?",
+      "a": "A real estate CRM (Customer Relationship Management) is a software system designed specifically for real estate professionals to manage all interactions with leads, clients, and past customers. It helps track communications, manage deals, automate marketing, and organize the entire sales pipeline."
+    },
+    {
+      "q": "Why do real estate agents need a CRM?",
+      "a": "Agents need a CRM to avoid letting leads fall through the cracks. It automates follow-up, provides reminders for key dates, organizes client data, and ultimately helps agents provide better service and close more deals by staying organized and efficient."
+    },
+    {
+      "q": "What is the best CRM for a new real estate agent?",
+      "a": "For new agents, a CRM that is easy to use and affordable is often best. LionDesk and Wise Agent are excellent starting points due to their user-friendly interfaces, strong core features, and budget-friendly pricing."
+    },
+    {
+      "q": "How much does a real estate CRM typically cost?",
+      "a": "Costs vary widely. Expect to pay between $40 to $150 per agent per month for a standalone CRM. All-in-one platforms that include websites and lead generation can range from $200 to over $1,000 per month, often for a small team."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based and focus heavily on integrations with North American MLS systems; international coverage and features may be limited.",
+    "Pricing for many platforms, especially those aimed at teams and brokerages, is often not transparent and may require a sales demo to obtain."
+  ],
+  "glossary": {
+    "term": "IDX",
+    "definition": "Internet Data Exchange; a system that allows real estate professionals to display the most up-to-date MLS property listings on their own websites.",
+    "synonyms": [
+      "MLS Feed",
+      "Property Search"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Follow Up Boss",
+      "url": "https://www.followupboss.com",
+      "founded": 2011,
+      "hq": "Remote, USA",
+      "team_size_band": "51-200",
+      "best_for": "High-producing teams and brokerages who need a central hub to manage leads from any source with best-in-class speed and automation.",
+      "best_for_short": "Teams needing speed-to-lead",
+      "pricing_band": "$$ ($57 to $833/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 9.4,
+        "Automation & Workflow": 9.2,
+        "Ease of Use & Mobile Access": 9.3,
+        "Integrations & Ecosystem": 9.4,
+        "Pricing & Value": 8.9
+      },
+      "verdict": "Follow Up Boss earns the top spot for its singular focus on being the best pure-play CRM and lead management hub in real estate, with unparalleled integration capabilities and team-focused features.",
+      "verdict_short": "The best central hub for lead management and team collaboration, with unmatched integrations.",
+      "praise": "Its Action Plans and Smart Lists are incredibly powerful for automating follow-up and segmenting contacts for targeted communication.",
+      "praise_short": "Powerful automation and contact segmentation.",
+      "criticism": "It's not an all-in-one solution; users must bring their own website and lead generation tools, which adds to the overall cost.",
+      "criticism_short": "Not an all-in-one; requires other tools.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "inman reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 57,
+      "price_max": 833,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zillow",
+        "Realtor.com",
+        "Zapier",
+        "Mailchimp",
+        "Slybroadcast",
+        "CallAction"
+      ],
+      "compliance": [
+        "TCPA",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "North America",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "LionDesk",
+      "url": "https://www.liondesk.com",
+      "founded": 2014,
+      "hq": "Carlsbad, USA",
+      "team_size_band": "51-200",
+      "best_for": "Solo agents and small teams looking for a feature-rich CRM with excellent communication tools like video email and texting at an affordable price point.",
+      "best_for_short": "Affordable, feature-rich CRM for small teams",
+      "pricing_band": "$ ($39 to $139/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 9,
+        "Automation & Workflow": 9.1,
+        "Ease of Use & Mobile Access": 8.9,
+        "Integrations & Ecosystem": 8.8,
+        "Pricing & Value": 9.4
+      },
+      "verdict": "LionDesk secures the second rank by offering an unbeatable combination of price and features, particularly its native video messaging and robust drip campaign builder that empower agents to build relationships at scale.",
+      "verdict_short": "Unbeatable value with powerful, native video messaging and robust automation features.",
+      "praise": "The platform's AI-powered lead follow-up assistant, 'Gabby,' is highly effective at engaging new leads automatically.",
+      "praise_short": "Excellent AI lead follow-up assistant.",
+      "criticism": "While feature-rich, the user interface can feel slightly dated and less intuitive compared to more modern competitors.",
+      "criticism_short": "User interface feels somewhat dated.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "the close reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 139,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zillow",
+        "Realtor.com",
+        "Zapier",
+        "Facebook Lead Ads",
+        "Dotloop",
+        "Cloud CMA"
+      ],
+      "compliance": [
+        "TCPA",
+        "GDPR"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "kvCORE",
+      "url": "https://insiderealestate.com/kvcore/",
+      "founded": 2017,
+      "hq": "Draper, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Brokerages and large teams seeking a comprehensive, all-in-one platform that combines a CRM with a lead-generating IDX website, marketing automation, and business analytics.",
+      "best_for_short": "All-in-one brokerage platform",
+      "pricing_band": "$$$ ($499 to $1500+/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 9,
+        "Automation & Workflow": 9.2,
+        "Ease of Use & Mobile Access": 8.5,
+        "Integrations & Ecosystem": 8.8,
+        "Pricing & Value": 8.6
+      },
+      "verdict": "kvCORE ranks third as the most powerful all-in-one solution, providing brokerages with a complete ecosystem of tools from lead generation to closing, eliminating the need for multiple disparate systems.",
+      "verdict_short": "A powerful, fully integrated platform for brokerages needing CRM, website, and marketing.",
+      "praise": "The platform's behavioral automation is top-notch, triggering alerts and campaigns based on how leads interact with the website and listings.",
+      "praise_short": "Excellent behavioral automation triggers.",
+      "criticism": "The sheer number of features can be overwhelming for individual agents or small teams, and it comes with a significant learning curve and higher price tag.",
+      "criticism_short": "Overwhelming feature set with a steep learning curve.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "inman reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 499,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 999,
+      "integrations": [
+        "Dotloop",
+        "SkySlope",
+        "Zapier",
+        "BombBomb",
+        "Google Workspace",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "RESO Data Dictionary",
+        "WCAG"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Top Producer",
+      "url": "https://www.topproducer.com",
+      "founded": 1982,
+      "hq": "Richmond, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Established agents and teams who value a long-standing, reliable CRM with deep MLS integration and robust transaction management capabilities.",
+      "best_for_short": "Established agents needing reliable CRM",
+      "pricing_band": "$$ ($60 to $120/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 8.8,
+        "Automation & Workflow": 8.6,
+        "Ease of Use & Mobile Access": 8.5,
+        "Integrations & Ecosystem": 9,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "As one of the original real estate CRMs, Top Producer earns its high ranking through decades of refinement, offering a mature, stable platform with some of the best MLS connectivity and follow-up plans in the industry.",
+      "verdict_short": "A veteran CRM with deep MLS integration and time-tested follow-up workflows.",
+      "praise": "Its 'Follow-up Coach' and extensive library of pre-built marketing templates provide excellent guidance for agents on who to contact and what to say.",
+      "praise_short": "Great guided follow-up and template library.",
+      "criticism": "The user interface, while recently updated ('X' version), can still feel less modern and slower than newer, cloud-native competitors.",
+      "criticism_short": "Interface can feel less modern than competitors.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "software advice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 60,
+      "price_max": 120,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "MLS (various)",
+        "Realtor.com",
+        "Gmail",
+        "Outlook",
+        "Dotloop"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 5
+    },
+    {
+      "rank": 5,
+      "name": "Wise Agent",
+      "url": "https://wiseagent.com",
+      "founded": 2002,
+      "hq": "Fountain Hills, USA",
+      "team_size_band": "11-50",
+      "best_for": "Individual agents and small teams who prioritize exceptional customer support and an all-in-one feature set at a very competitive, straightforward price.",
+      "best_for_short": "Agents wanting great support and value",
+      "pricing_band": "$ ($32 to $49/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 8.4,
+        "Automation & Workflow": 8.5,
+        "Ease of Use & Mobile Access": 8.3,
+        "Integrations & Ecosystem": 8.2,
+        "Pricing & Value": 9.3
+      },
+      "verdict": "Wise Agent stands out at rank five for its customer-centric approach, offering 24/7 support and a surprisingly comprehensive suite of tools—including transaction management and marketing—all for a single, low monthly price.",
+      "verdict_short": "Great value and comprehensive features, backed by industry-leading 24/7 customer support.",
+      "praise": "The platform includes a wealth of features often sold as add-ons elsewhere, such as landing pages and a transaction management system.",
+      "praise_short": "Includes many features for one low price.",
+      "criticism": "The user interface is highly functional but lacks the polished, modern design of top-tier competitors, which can affect user experience.",
+      "criticism_short": "Functional but dated user interface design.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "fit small business review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 32,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Google Workspace",
+        "Mailchimp",
+        "Skyslope",
+        "Zillow"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "BoomTown",
+      "url": "https://boomtownroi.com",
+      "founded": 2006,
+      "hq": "Charleston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Top-producing teams and brokerages that need a predictive CRM tightly integrated with lead generation services and success management coaching.",
+      "best_for_short": "Teams needing integrated lead generation",
+      "pricing_band": "$$$$ ($1000 to $1700+/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 8.8,
+        "Automation & Workflow": 8.5,
+        "Ease of Use & Mobile Access": 8.2,
+        "Integrations & Ecosystem": 7.8,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "BoomTown is ranked here for its excellence as a complete lead-generation and conversion platform, offering a powerful predictive CRM that tells agents who to call next, though at a premium price point.",
+      "verdict_short": "A premium, predictive CRM combined with powerful lead generation and coaching services.",
+      "praise": "The 'Now Wall' and opportunity prediction features are game-changers for teams, surfacing the hottest leads in real-time.",
+      "praise_short": "Excellent predictive lead-surfacing features.",
+      "criticism": "It is one of the most expensive options on the market, and its closed ecosystem has fewer third-party integrations than competitors like Follow Up Boss.",
+      "criticism_short": "Very expensive with a relatively closed ecosystem.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "inman reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 1700,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1500,
+      "integrations": [
+        "Zapier",
+        "Sisu",
+        "API Nation",
+        "Dotloop",
+        "SkySlope"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "CINC",
+      "url": "https://www.cincpro.com",
+      "founded": 2011,
+      "hq": "Marietta, USA",
+      "team_size_band": "201-500",
+      "best_for": "Elite teams and agents focused on converting online leads, who need a platform with a highly optimized consumer-facing website and robust lead nurturing tools.",
+      "best_for_short": "Teams focused on online lead conversion",
+      "pricing_band": "$$$$ ($800 to $1500+/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 8.5,
+        "Automation & Workflow": 8.2,
+        "Ease of Use & Mobile Access": 8,
+        "Integrations & Ecosystem": 7.6,
+        "Pricing & Value": 7.4
+      },
+      "verdict": "CINC (Commissions Inc) earns its spot by providing a high-performance, conversion-focused platform that excels at turning paid leads into appointments through its sophisticated CRM and branded IDX sites.",
+      "verdict_short": "A high-performance platform excelling at converting paid leads via its integrated CRM.",
+      "praise": "The mobile app is exceptionally well-designed, allowing agents to manage their entire pipeline, including calling and texting, from anywhere.",
+      "praise_short": "Exceptional, full-featured mobile application.",
+      "criticism": "Similar to BoomTown, CINC is a significant financial investment and is best suited for teams with a substantial marketing budget to feed the system with leads.",
+      "criticism_short": "Requires a significant financial and marketing budget.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "inman reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 800,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "Google Workspace",
+        "Zapier",
+        "BombBomb",
+        "Dotloop",
+        "Realtor.com"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Real Geeks",
+      "url": "https://www.realgeeks.com",
+      "founded": 2007,
+      "hq": "Dallas, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growth-oriented agents and teams who want a powerful combination of a lead-capture website, CRM, and marketing tools without the enterprise-level price tag.",
+      "best_for_short": "Growth agents wanting website/CRM combo",
+      "pricing_band": "$$$ ($299 to $799/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 8,
+        "Automation & Workflow": 7.9,
+        "Ease of Use & Mobile Access": 8.2,
+        "Integrations & Ecosystem": 7.8,
+        "Pricing & Value": 8.1
+      },
+      "verdict": "Real Geeks provides one of the best values for an integrated website-and-CRM platform, offering robust lead management and marketing automation that helps agents effectively work their database.",
+      "verdict_short": "Excellent value for an integrated platform with a great CRM and lead-capture website.",
+      "praise": "The platform's Facebook marketing tool and property valuation tool are highly effective for generating new seller and buyer leads.",
+      "praise_short": "Effective built-in lead generation tools.",
+      "criticism": "The CRM's user interface and feature set are solid but not as advanced or intuitive as standalone competitors like Follow Up Boss.",
+      "criticism_short": "CRM is solid but less advanced than leaders.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "the close reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 299,
+      "price_max": 799,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "Zillow",
+        "Zapier",
+        "Mailchimp",
+        "Constant Contact",
+        "Google Contacts"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "IXACT Contact",
+      "url": "https://www.ixactcontact.com",
+      "founded": 2007,
+      "hq": "Toronto, Canada",
+      "team_size_band": "11-50",
+      "best_for": "Solo agents looking for an extremely easy-to-use CRM that simplifies contact management, marketing, and helps them stay top-of-mind with their sphere of influence.",
+      "best_for_short": "Solo agents needing simplicity",
+      "pricing_band": "$ ($38 to $55/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 7.5,
+        "Automation & Workflow": 7.8,
+        "Ease of Use & Mobile Access": 8.5,
+        "Integrations & Ecosystem": 7.2,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "IXACT Contact makes the list because of its unwavering focus on simplicity and ease of use, making it an ideal choice for agents who feel overwhelmed by more complex systems and want a straightforward tool to manage their business.",
+      "verdict_short": "An ideal, straightforward CRM for agents who prioritize simplicity and ease of use.",
+      "praise": "The automated monthly e-Newsletter is a standout feature that provides real value to clients and keeps agents top-of-mind with minimal effort.",
+      "praise_short": "Excellent, automated monthly e-Newsletter.",
+      "criticism": "It lacks the advanced lead routing and team management features required by growing teams and brokerages.",
+      "criticism_short": "Not suitable for teams or brokerages.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "software advice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 38,
+      "price_max": 55,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Sync",
+        "Outlook Sync",
+        "Mailchimp",
+        "Zillow",
+        "Constant Contact"
+      ],
+      "compliance": [
+        "CASL"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 5
+    },
+    {
+      "rank": 10,
+      "name": "Sierra Interactive",
+      "url": "https://www.sierrainteractive.com",
+      "founded": 2007,
+      "hq": "Louisville, USA",
+      "team_size_band": "51-200",
+      "best_for": "High-performing teams and brokerages that demand a highly customizable front-end website and a CRM built for rigorous, process-driven lead follow-up.",
+      "best_for_short": "Teams wanting customizable platforms",
+      "pricing_band": "$$$ ($400 to $1000/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 7.9,
+        "Automation & Workflow": 8,
+        "Ease of Use & Mobile Access": 7.2,
+        "Integrations & Ecosystem": 7.5,
+        "Pricing & Value": 7.3
+      },
+      "verdict": "Sierra Interactive is recognized for offering one of the most flexible and SEO-friendly website platforms tied to a robust CRM, allowing teams to build a unique brand presence while enforcing disciplined lead management.",
+      "verdict_short": "A flexible website/CRM platform for process-driven teams wanting a custom brand presence.",
+      "praise": "The level of customization available on the front-end websites is far beyond what most template-based competitors offer.",
+      "praise_short": "Unmatched website customization options.",
+      "criticism": "The backend CRM, while powerful, has a steeper learning curve and a less modern user interface than many other systems on this list.",
+      "criticism_short": "CRM backend is powerful but less intuitive.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "geeky estate"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 400,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "Follow Up Boss",
+        "Zapier",
+        "Slybroadcast",
+        "Callingly",
+        "Zillow"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Propertybase",
+      "url": "https://www.propertybase.com",
+      "founded": 2010,
+      "hq": "Boulder, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large, enterprise-level brokerages that require a highly customizable, scalable real estate platform built on the power and flexibility of Salesforce.",
+      "best_for_short": "Enterprise brokerages needing Salesforce",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Lead Management & Nurturing": 7.8,
+        "Automation & Workflow": 8,
+        "Ease of Use & Mobile Access": 6.5,
+        "Integrations & Ecosystem": 9,
+        "Pricing & Value": 5.5
+      },
+      "verdict": "Our wildcard, Propertybase, is the go-to choice for large brokerages that want to move beyond off-the-shelf solutions. By leveraging the Salesforce platform, it offers near-limitless customization for workflows, reporting, and integrations at an enterprise scale.",
+      "verdict_short": "A highly customizable, Salesforce-based platform for large, enterprise-level brokerages.",
+      "praise": "Access to the Salesforce AppExchange opens up a world of potential integrations and add-ons that no other competitor can match.",
+      "praise_short": "Unmatched integration via Salesforce AppExchange.",
+      "criticism": "This power comes with significant complexity and cost, requiring dedicated admin resources and a substantial budget, making it unsuitable for most agents and teams.",
+      "criticism_short": "Extremely complex and expensive; requires admin staff.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page",
+        "salesforce appexchange"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce AppExchange (thousands)",
+        "DocuSign",
+        "Dotloop",
+        "MLS (various)",
+        "Zillow"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 20,
+      "max_team_size": null
+    }
+  ]
+}

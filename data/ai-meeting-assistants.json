@@ -1,0 +1,845 @@
+{
+  "slug": "ai-meeting-assistants",
+  "title": "The 11 Best AI Meeting Assistants & Note-Takers",
+  "subtitle": "Ranking the top AI tools for automated transcription, summarization, and action item tracking from your meetings.",
+  "vertical": "Productivity · AI",
+  "audience": "Anyone wanting AI transcription and meeting summaries",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "AI Productivity Tools",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Transcription Accuracy (30%), Summarization Quality (25%), Integration Ecosystem (20%), User Experience (15%), and Enterprise Readiness (10%)."
+    }
+  ],
+  "answer_capsule": "The best AI meeting assistant is Fireflies.ai for its deep integrations and customization, followed closely by Otter.ai for real-time transcription and Fathom for its free, high-quality offering.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Transcription Accuracy & Speed",
+        "weight": 30,
+        "description": "Accuracy of speech-to-text conversion across various accents and technical jargon, and speed of transcript delivery."
+      },
+      {
+        "name": "Summarization & Insight Quality",
+        "weight": 25,
+        "description": "Quality and relevance of AI-generated summaries, action items, decisions, and other key insights."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of integrations with video conferencing, calendars, CRMs, and project management tools."
+      },
+      {
+        "name": "User Experience & Ease of Use",
+        "weight": 15,
+        "description": "Intuitive interface, ease of setup, and unobtrusiveness of the meeting bot."
+      },
+      {
+        "name": "Enterprise Readiness & Security",
+        "weight": 10,
+        "description": "Availability of team management features, admin controls, security compliance (SOC 2, GDPR), and scalability."
+      }
+    ]
+  },
+  "segment_tags": [
+    "AI note-taker",
+    "meeting transcription",
+    "automated summaries",
+    "conversation intelligence",
+    "productivity software"
+  ],
+  "problem_tags": [
+    "meeting overload",
+    "poor note-taking",
+    "missed action items",
+    "information recall",
+    "sales coaching"
+  ],
+  "query_intents": [
+    "best ai meeting assistant",
+    "free meeting transcription service",
+    "otter.ai alternative",
+    "automate meeting notes",
+    "ai for zoom meetings"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "workflow automation",
+        "crm integration"
+      ],
+      "personas": [
+        "Project Manager",
+        "Sales Operations"
+      ]
+    },
+    "2": {
+      "solves": [
+        "live transcription",
+        "collaborative notes"
+      ],
+      "personas": [
+        "Journalist",
+        "Student",
+        "UX Researcher"
+      ]
+    },
+    "3": {
+      "solves": [
+        "cost-effective note-taking",
+        "quick setup"
+      ],
+      "personas": [
+        "Solopreneur",
+        "Startup Team",
+        "Freelancer"
+      ]
+    },
+    "5": {
+      "solves": [
+        "sales performance analysis",
+        "deal intelligence"
+      ],
+      "personas": [
+        "Sales Leader",
+        "Account Executive"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.22,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is the core function of an AI meeting assistant?",
+      "a": "To eliminate the need for manual note-taking by automatically transcribing conversations, identifying key moments, and generating concise summaries with action items."
+    },
+    {
+      "q": "How do these tools integrate with my workflow?",
+      "a": "Most connect directly to your calendar (Google, Outlook) and automatically join your scheduled video calls (Zoom, Google Meet, MS Teams). Post-meeting, they can push notes and tasks to your CRM, project management tool, or communication platform like Slack."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your primary use case: Are you a sales team needing conversation intelligence (Gong, Chorus), a project manager needing action items synced to Asana (Fireflies), or an individual needing simple, free transcription (Fathom)?",
+    "Evaluate the integration ecosystem: Ensure the tool connects seamlessly with your core software stack (CRM, calendar, communication tools).",
+    "Consider security and compliance needs: If you handle sensitive data, prioritize providers with robust security credentials like SOC 2 Type II certification.",
+    "Test transcription accuracy: Use free trials to test the tool's accuracy with your team's specific accents, terminology, and meeting environment."
+  ],
+  "faqs": [
+    {
+      "q": "What is an AI meeting assistant?",
+      "a": "An AI meeting assistant is a software tool that joins your online or in-person meetings to automatically record, transcribe, summarize, and identify key information like action items and decisions."
+    },
+    {
+      "q": "How do AI note-takers work?",
+      "a": "They use automatic speech recognition (ASR) to convert audio into text in real-time or from a recording. Then, they apply natural language processing (NLP) to analyze the transcript, generate summaries, and extract insights."
+    },
+    {
+      "q": "Are AI meeting assistants secure?",
+      "a": "Reputable providers use end-to-end encryption and comply with standards like SOC 2 and GDPR. However, it's crucial to review a provider's security policies, especially when discussing sensitive information."
+    },
+    {
+      "q": "Can AI assistants join meetings without me?",
+      "a": "Yes, most assistants can be configured to automatically join meetings on your calendar, even if you are not present, ensuring no information is missed."
+    },
+    {
+      "q": "Which AI meeting assistant has the best free plan?",
+      "a": "Fathom is widely regarded as having the best free offering, providing unlimited meeting recordings, transcriptions, and summaries at no cost, which is rare in this market."
+    }
+  ],
+  "honest_disclosures": [
+    "Most tools are optimized for American English and may have lower accuracy for other languages or strong accents.",
+    "Enterprise-grade features like advanced security, analytics, and CRM integration are often locked behind expensive custom plans.",
+    "The market is rapidly evolving, with features and pricing models changing frequently."
+  ],
+  "glossary": {
+    "term": "Conversation Intelligence",
+    "definition": "A technology that uses AI to capture, transcribe, and analyze sales calls and meetings to derive data-driven insights for coaching, performance management, and forecasting.",
+    "synonyms": [
+      "CI",
+      "Deal Intelligence"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Fireflies.ai",
+      "url": "https://fireflies.ai",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Teams seeking the most extensive integration ecosystem and customizable AI to automate workflows across their entire tech stack.",
+      "best_for_short": "Deepest integrations & customization",
+      "pricing_band": "$$ ($18 to $39/user/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 9.4,
+        "Summarization & Insight Quality": 9.2,
+        "Integration Ecosystem": 9.8,
+        "User Experience & Ease of Use": 8.9,
+        "Enterprise Readiness & Security": 9
+      },
+      "verdict": "Fireflies.ai earns the top rank for its unparalleled ability to connect and push meeting intelligence into a vast array of other applications, from CRMs to project management tools, making it a true automation hub.",
+      "verdict_short": "The best for its unmatched integration ecosystem, turning meeting notes into automated workflows across your tech stack.",
+      "praise": "Its 'Soundbites' and 'Topic Tracker' features allow for powerful, custom analysis of conversations at scale.",
+      "praise_short": "Powerful custom analysis features",
+      "criticism": "The sheer number of features and settings can be overwhelming for new users or those with simple needs.",
+      "criticism_short": "Can be overwhelming for new users",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Asana",
+        "Notion",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Otter.ai",
+      "url": "https://otter.ai",
+      "founded": 2016,
+      "hq": "Mountain View, USA",
+      "team_size_band": "51-200",
+      "best_for": "Individuals and teams who prioritize best-in-class real-time transcription and a collaborative, live note-taking experience.",
+      "best_for_short": "Best real-time transcription",
+      "pricing_band": "$$ ($17 to $30/user/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 9.8,
+        "Summarization & Insight Quality": 9,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Ease of Use": 9.5,
+        "Enterprise Readiness & Security": 8.4
+      },
+      "verdict": "Otter.ai is the leader in live transcription, providing a fast, accurate, and collaborative text feed during meetings that allows participants to highlight, comment, and assign actions in the moment.",
+      "verdict_short": "The leader for fast, accurate, and collaborative live transcription during meetings.",
+      "praise": "Its user interface is exceptionally clean and intuitive, making it the easiest tool to adopt for live note-taking.",
+      "praise_short": "Clean, intuitive user interface",
+      "criticism": "The integration capabilities are less extensive than competitors like Fireflies.ai, limiting its utility as a workflow automation tool.",
+      "criticism_short": "Less extensive integration options",
+      "sources_pending": [
+        "Vendor Documentation",
+        "PCMag Review",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Dropbox",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Fathom",
+      "url": "https://fathom.video",
+      "founded": 2020,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "11-50",
+      "best_for": "Individuals and teams looking for the most powerful and feature-rich free AI meeting assistant on the market.",
+      "best_for_short": "Best free offering",
+      "pricing_band": "$ ($0 to $24/user/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 9,
+        "Summarization & Insight Quality": 9.2,
+        "Integration Ecosystem": 8.8,
+        "User Experience & Ease of Use": 9.6,
+        "Enterprise Readiness & Security": 7.5
+      },
+      "verdict": "Fathom stands out by offering core features like unlimited recording, transcription, and summarization completely free, making it the undisputed value leader for users who don't need advanced enterprise controls.",
+      "verdict_short": "The undisputed value leader, offering unlimited core features completely free.",
+      "praise": "The in-meeting user interface for highlighting key moments and generating summaries on the fly is exceptionally well-designed.",
+      "praise_short": "Excellent in-meeting UI",
+      "criticism": "While the free tier is generous, the enterprise and team features are less mature compared to more established competitors.",
+      "criticism_short": "Less mature enterprise features",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 24,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Notion"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Sembly AI",
+      "url": "https://sembly.ai",
+      "founded": 2019,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Professionals and teams who need highly structured, professional-looking meeting minutes and robust follow-up tracking.",
+      "best_for_short": "Professional meeting minutes",
+      "pricing_band": "$$ ($10 to $20/user/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 8.5,
+        "Summarization & Insight Quality": 9.3,
+        "Integration Ecosystem": 8.2,
+        "User Experience & Ease of Use": 8.8,
+        "Enterprise Readiness & Security": 8
+      },
+      "verdict": "Sembly AI excels at transforming messy conversations into clean, structured 'GlanceView' summaries that resemble professionally prepared minutes, complete with key items, risks, and decisions clearly laid out.",
+      "verdict_short": "Excels at creating structured, professional meeting minutes from raw transcripts.",
+      "praise": "Its semantic analysis for identifying key topics and sentiment is a significant differentiator.",
+      "praise_short": "Strong semantic and sentiment analysis",
+      "criticism": "The core transcription accuracy, while good, can sometimes lag behind top-tier competitors like Otter.ai.",
+      "criticism_short": "Transcription accuracy can lag leaders",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Slack",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Gong.io",
+      "url": "https://gong.io",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Sales teams needing an enterprise-grade conversation intelligence platform to analyze deals, coach reps, and forecast revenue.",
+      "best_for_short": "Enterprise sales intelligence",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 9.2,
+        "Summarization & Insight Quality": 9.5,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Ease of Use": 7,
+        "Enterprise Readiness & Security": 9.4
+      },
+      "verdict": "Gong is the market leader in conversation intelligence for sales, going far beyond simple note-taking to provide deep analytics on deal health, competitor mentions, and rep performance, making it an essential tool for data-driven revenue teams.",
+      "verdict_short": "The market leader for analyzing sales calls to improve coaching and forecasting.",
+      "praise": "Its ability to surface strategic insights, such as what separates top performers from the rest, is unmatched.",
+      "praise_short": "Unmatched strategic sales insights",
+      "criticism": "It is significantly more expensive and complex than general-purpose meeting assistants, making it overkill for non-sales use cases.",
+      "criticism_short": "Expensive and overkill for non-sales teams",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Gartner Magic Quadrant",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zoom",
+        "Microsoft Teams",
+        "Google Meet",
+        "Outreach",
+        "SalesLoft"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Avoma",
+      "url": "https://www.avoma.com",
+      "founded": 2017,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "51-200",
+      "best_for": "Revenue and customer success teams wanting an all-in-one platform for meeting intelligence, scheduling, and collaboration.",
+      "best_for_short": "All-in-one revenue intelligence",
+      "pricing_band": "$$$ ($24 to $79/user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 8.6,
+        "Summarization & Insight Quality": 8.5,
+        "Integration Ecosystem": 8,
+        "User Experience & Ease of Use": 8.2,
+        "Enterprise Readiness & Security": 7.8
+      },
+      "verdict": "Avoma positions itself as a comprehensive meeting lifecycle assistant, uniquely combining AI note-taking with pre-meeting scheduling and agenda templates, making it a strong choice for teams wanting to manage the entire meeting process in one place.",
+      "verdict_short": "Manages the entire meeting lifecycle, from scheduling and agendas to notes and insights.",
+      "praise": "The built-in scheduling and agenda collaboration tools are a significant workflow advantage over pure note-takers.",
+      "praise_short": "Includes scheduling and agenda tools",
+      "criticism": "It tries to do many things, and as a result, some individual features may not be as deep as those from specialized competitors.",
+      "criticism_short": "Jack of all trades, master of none",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "TrustRadius"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 79,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Pipedrive"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Chorus.ai (by ZoomInfo)",
+      "url": "https://www.chorus.ai",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large sales organizations already using the ZoomInfo data platform who want to enrich conversation intelligence with market data.",
+      "best_for_short": "Sales intelligence with ZoomInfo data",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 9,
+        "Summarization & Insight Quality": 9.2,
+        "Integration Ecosystem": 8,
+        "User Experience & Ease of Use": 6.8,
+        "Enterprise Readiness & Security": 9.2
+      },
+      "verdict": "As Gong's primary competitor, Chorus.ai offers a powerful conversation intelligence platform whose key advantage is its native integration with ZoomInfo's B2B data, allowing for deeper context on prospects and accounts discussed in meetings.",
+      "verdict_short": "A top Gong competitor, differentiated by its native integration with ZoomInfo's B2B data.",
+      "praise": "The ability to automatically pull in ZoomInfo data on meeting participants provides invaluable context for sales reps.",
+      "praise_short": "Enriches calls with ZoomInfo data",
+      "criticism": "The platform is complex and, like Gong, is priced for the enterprise, making it inaccessible for smaller teams or non-sales functions.",
+      "criticism_short": "Complex and priced for enterprise sales",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Gartner Magic Quadrant",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ZoomInfo",
+        "Salesforce",
+        "HubSpot",
+        "Zoom",
+        "Microsoft Teams",
+        "Google Meet"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "tl;dv",
+      "url": "https://tldv.io",
+      "founded": 2020,
+      "hq": "Berlin, Germany",
+      "team_size_band": "11-50",
+      "best_for": "Teams that rely heavily on asynchronous communication, using timestamped video clips and highlights to replace status update meetings.",
+      "best_for_short": "Video clips & async collaboration",
+      "pricing_band": "$$ ($20 to $49/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 8.2,
+        "Summarization & Insight Quality": 7.5,
+        "Integration Ecosystem": 7.8,
+        "User Experience & Ease of Use": 9,
+        "Enterprise Readiness & Security": 7
+      },
+      "verdict": "tl;dv excels at making meeting content shareable and digestible, with best-in-class features for creating, editing, and sharing video clips and timestamped notes, making it ideal for reducing meeting attendance.",
+      "verdict_short": "Best-in-class for creating and sharing video clips to enable asynchronous work.",
+      "praise": "Its browser extension for Google Meet is particularly slick and easy to use for capturing moments live.",
+      "praise_short": "Excellent Google Meet extension",
+      "criticism": "The AI summarization and analytics are less advanced than many competitors, as the primary focus is on manual, user-driven highlighting.",
+      "criticism_short": "AI summaries are less advanced",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Meet",
+        "Zoom",
+        "Slack",
+        "Notion",
+        "Salesforce",
+        "HubSpot",
+        "Linear"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "MeetGeek",
+      "url": "https://meetgeek.ai",
+      "founded": 2020,
+      "hq": "Bucharest, Romania",
+      "team_size_band": "11-50",
+      "best_for": "Small and medium-sized businesses looking for a straightforward, cost-effective, and easy-to-use note-taker with solid core features.",
+      "best_for_short": "Cost-effective for SMBs",
+      "pricing_band": "$$ ($19 to $39/user/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 7.8,
+        "Summarization & Insight Quality": 8,
+        "Integration Ecosystem": 7.5,
+        "User Experience & Ease of Use": 8.5,
+        "Enterprise Readiness & Security": 6.5
+      },
+      "verdict": "MeetGeek provides a solid, no-frills AI meeting assistant experience that is easy to set up and use, offering strong value with features like customizable summary templates and team performance metrics at an accessible price point.",
+      "verdict_short": "A solid, easy-to-use note-taker offering great value for small businesses.",
+      "praise": "The ability to create custom summary templates to fit specific meeting types (e.g., 1-on-1s, sprint planning) is a powerful feature.",
+      "praise_short": "Customizable summary templates",
+      "criticism": "Lacks the deep CRM integrations and advanced analytics of enterprise-focused platforms like Gong or Avoma.",
+      "criticism_short": "Lacks deep CRM integrations",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "AppSumo"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "HubSpot",
+        "Trello",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Fellow",
+      "url": "https://fellow.app",
+      "founded": 2017,
+      "hq": "Ottawa, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Managers and teams who want to embed meeting notes and action items within a broader platform for 1-on-1s, team meetings, and performance feedback.",
+      "best_for_short": "Integrated meeting & management OS",
+      "pricing_band": "$ ($7 to $10/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 7,
+        "Summarization & Insight Quality": 7.2,
+        "Integration Ecosystem": 8,
+        "User Experience & Ease of Use": 8.5,
+        "Enterprise Readiness & Security": 7
+      },
+      "verdict": "Fellow is fundamentally a meeting productivity and management platform that has added an AI assistant, making it the best choice for those who want a holistic system for agendas, notes, and action items that lives beyond a single meeting.",
+      "verdict_short": "A management platform with an AI assistant, not just a note-taker.",
+      "praise": "Its strength lies in creating a single source of truth for all meeting-related activities, including recurring agendas and feedback.",
+      "praise_short": "Single source of truth for meetings",
+      "criticism": "The AI transcription and summarization features are more basic and less of a core focus compared to dedicated AI note-taker platforms.",
+      "criticism_short": "AI features are more basic",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 10,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "Zoom",
+        "Google Meet",
+        "Slack",
+        "Jira",
+        "Asana"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Read AI",
+      "url": "https://www.read.ai",
+      "founded": 2021,
+      "hq": "Seattle, USA",
+      "team_size_band": "11-50",
+      "best_for": "Leaders and individuals focused on improving meeting quality and effectiveness through real-time analytics on engagement and sentiment.",
+      "best_for_short": "Real-time meeting analytics",
+      "pricing_band": "$$ ($12 to $20/user/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Transcription Accuracy & Speed": 7.5,
+        "Summarization & Insight Quality": 8,
+        "Integration Ecosystem": 6.5,
+        "User Experience & Ease of Use": 7.5,
+        "Enterprise Readiness & Security": 6
+      },
+      "verdict": "Read AI is the wildcard because it's less a note-taker and more a real-time meeting coach, providing data-driven feedback on meeting health, talk time, and participant engagement rather than just a summary of what was said.",
+      "verdict_short": "A real-time meeting coach that analyzes engagement and sentiment, not just content.",
+      "praise": "The post-meeting reports with scores for engagement, sentiment, and talk-time distribution are unique and insightful for improving meeting culture.",
+      "praise_short": "Unique meeting engagement reports",
+      "criticism": "Its core transcription and summarization features are not as robust as the top-ranked tools, as its focus lies elsewhere.",
+      "criticism_short": "Core transcription is less robust",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "TechCrunch"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

@@ -1,0 +1,846 @@
+{
+  "slug": "legal-crm",
+  "title": "The 11 Best Legal CRMs & Case Management Software",
+  "subtitle": "A comprehensive ranking of the top platforms for law firms to manage client relationships, matters, billing, and documents.",
+  "vertical": "Legal · Practice Management",
+  "audience": "Law firms and solo attorneys managing matters and clients",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Legal Tech",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Case Management (25%), CRM/Intake (20%), Billing/Accounting (20%), Integrations (15%), Security (10%), and Usability (10%)."
+    }
+  ],
+  "answer_capsule": "The best legal CRM is Clio for its comprehensive features and extensive integrations, followed closely by MyCase and PracticePanther.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Case & Matter Management",
+        "weight": 25,
+        "description": "Core functionality for managing legal cases, including document management, calendaring, deadline tracking, and conflict checking."
+      },
+      {
+        "name": "CRM & Client Intake",
+        "weight": 20,
+        "description": "Effectiveness of tools for lead management, client communication automation, and streamlining the new client intake process."
+      },
+      {
+        "name": "Billing & Trust Accounting",
+        "weight": 20,
+        "description": "Capabilities for time tracking, invoicing, expense management, and compliance with IOLTA/trust accounting regulations."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 15,
+        "description": "Availability and quality of integrations with essential third-party tools like email, calendars, e-signature, and accounting software."
+      },
+      {
+        "name": "Security & Compliance",
+        "weight": 10,
+        "description": "Strength of data security measures, access controls, and adherence to legal ethics rules and data privacy regulations."
+      },
+      {
+        "name": "Usability & Support",
+        "weight": 10,
+        "description": "Overall ease of use of the platform, quality of user interface, and responsiveness and helpfulness of customer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Legal Practice Management",
+    "Case Management Software",
+    "Law Firm CRM",
+    "Client Intake Software",
+    "Legal Billing Software"
+  ],
+  "problem_tags": [
+    "Client Management",
+    "Case Tracking",
+    "Deadline Management",
+    "Document Organization",
+    "Time Tracking",
+    "Invoicing",
+    "Trust Accounting"
+  ],
+  "query_intents": [
+    "best crm for lawyers",
+    "clio vs mycase",
+    "law firm software",
+    "legal case management system",
+    "solo attorney software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "centralized case management",
+        "extensive integration needs"
+      ],
+      "personas": [
+        "Small to large firms",
+        "Firms prioritizing a large app ecosystem"
+      ]
+    },
+    "2": {
+      "solves": [
+        "all-in-one practice management",
+        "streamlined client communication"
+      ],
+      "personas": [
+        "Solo to mid-sized firms",
+        "Firms wanting integrated payments and messaging"
+      ]
+    },
+    "3": {
+      "solves": [
+        "user-friendly interface",
+        "efficient client intake"
+      ],
+      "personas": [
+        "Small to mid-sized firms",
+        "Firms focused on ease of use"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.16,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What to Look For in Legal CRM Software",
+      "a": "Key features include robust case and matter management, client intake and CRM capabilities, integrated time and billing, trust accounting compliance, document management, and a strong integration ecosystem with tools you already use like email and accounting software."
+    },
+    {
+      "q": "Understanding Pricing Models",
+      "a": "Most legal CRMs are priced on a per-user, per-month basis. Tiers often vary by feature set, with higher tiers offering more advanced automation, reporting, and integration capabilities. Be sure to ask about implementation fees and data migration costs."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your firm's primary bottleneck: Is it client intake, billing, or document management? Prioritize solutions that excel in that area.",
+    "Consider your firm's size and growth trajectory. A solo practitioner has different needs than a 50-person firm, so choose a platform that can scale with you.",
+    "Request live demos from your top 2-3 choices to see the software in action and ask specific questions related to your practice area's workflow.",
+    "Check for integrations with your existing critical software, such as Microsoft 365, Google Workspace, QuickBooks, and LawPay, to ensure a smooth workflow."
+  ],
+  "faqs": [
+    {
+      "q": "What is legal CRM & case management software?",
+      "a": "It's a specialized software solution designed for law firms to manage their entire practice. It combines a Customer Relationship Manager (CRM) for tracking leads and clients with case management tools for handling matters, documents, deadlines, calendars, time tracking, and billing, all in one centralized system."
+    },
+    {
+      "q": "How much does legal case management software cost?",
+      "a": "Costs typically range from $39 to over $150 per user per month. Pricing depends on the provider, feature set, and the number of users. Most providers offer tiered plans, with more expensive tiers including advanced features like marketing automation or built-in accounting."
+    },
+    {
+      "q": "What is the difference between a legal CRM and case management software?",
+      "a": "A legal CRM focuses on the pre-client relationship: lead tracking, marketing, and the intake process. Case management software focuses on the post-client relationship: managing the actual legal matter, documents, deadlines, and billing. Most modern solutions, like those on this list, combine both functions into a single platform known as Legal Practice Management Software."
+    },
+    {
+      "q": "Is trust accounting (IOLTA) compliance included?",
+      "a": "Yes, most top-tier legal practice management software includes features specifically designed for trust accounting. This includes three-way reconciliation, safeguards against commingling funds, and reporting to ensure compliance with state bar regulations."
+    }
+  ],
+  "honest_disclosures": [
+    "This list heavily favors cloud-based (SaaS) solutions, which represent the bulk of the modern market. On-premise solutions are not a primary focus of this ranking.",
+    "Most ranked providers are based in and primarily target the North American (US & Canada) legal market. Firms in the UK, EU, or APAC may find some features less tailored to their specific compliance or regulatory needs."
+  ],
+  "glossary": {
+    "term": "Trust Accounting",
+    "definition": "The process of managing funds held by a law firm on behalf of a client or third party, such as retainers or settlement funds. It is subject to strict ethical rules and regulations by state bar associations.",
+    "synonyms": [
+      "IOLTA Management",
+      "Client Trust Account"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Clio",
+      "url": "https://www.clio.com",
+      "founded": 2008,
+      "hq": "Burnaby, Canada",
+      "team_size_band": "1000+",
+      "best_for": "Firms of all sizes seeking the most comprehensive, all-in-one platform with the largest integration marketplace in legal tech.",
+      "best_for_short": "Most comprehensive feature set",
+      "pricing_band": "$$ ($59 to $149/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Case & Matter Management": 9.3,
+        "CRM & Client Intake": 9.2,
+        "Billing & Trust Accounting": 9,
+        "Integrations & Ecosystem": 9.8,
+        "Security & Compliance": 9,
+        "Usability & Support": 8.8
+      },
+      "verdict": "Clio is the best overall legal CRM and case management software due to its unmatched combination of robust features, an extensive app marketplace with over 250 integrations, and scalability for firms from solo practitioners to large enterprises.",
+      "verdict_short": "The market leader with a vast feature set and the best integration ecosystem for any law firm.",
+      "praise": "Its dual-product approach (Clio Grow for intake and Clio Manage for practice management) creates a seamless client lifecycle management tool.",
+      "praise_short": "Excellent end-to-end client lifecycle management.",
+      "criticism": "The cost can be higher than competitors, especially when combining both Grow and Manage suites and adding users.",
+      "criticism_short": "Can become expensive, especially with add-ons.",
+      "sources_pending": [
+        "Clio Pricing Page",
+        "G2 Clio Reviews",
+        "Capterra Legal Software Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 149,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Google Workspace",
+        "QuickBooks Online",
+        "LawPay",
+        "Dropbox",
+        "Zoom",
+        "NetDocuments"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "EMEA",
+        "Australia"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "MyCase",
+      "url": "https://www.mycase.com",
+      "founded": 2010,
+      "hq": "San Diego, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Small to mid-sized firms looking for a powerful, user-friendly, all-in-one solution with excellent client communication tools.",
+      "best_for_short": "Best for client communication",
+      "pricing_band": "$$ ($49 to $109/user/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Case & Matter Management": 9,
+        "CRM & Client Intake": 9.2,
+        "Billing & Trust Accounting": 9.1,
+        "Integrations & Ecosystem": 8.5,
+        "Security & Compliance": 9,
+        "Usability & Support": 9.3
+      },
+      "verdict": "MyCase earns its high ranking by offering a tightly integrated, all-in-one platform that excels at client communication through its secure portal and built-in text messaging, making it ideal for firms prioritizing client experience.",
+      "verdict_short": "A user-friendly, all-in-one platform with standout client communication and payment features.",
+      "praise": "The built-in client portal and integrated payments (MyCase Payments) create a seamless and professional client experience from intake to final invoice.",
+      "praise_short": "Seamless client portal and integrated payments.",
+      "criticism": "While its integration library is growing, it's not as extensive as Clio's, which might be a limitation for firms reliant on specific third-party apps.",
+      "criticism_short": "Fewer third-party integrations than Clio.",
+      "sources_pending": [
+        "MyCase Pricing Page",
+        "Software Advice MyCase Reviews",
+        "ABA TechReport"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 109,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "Google Workspace",
+        "Microsoft 365",
+        "Dropbox",
+        "LawPay",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA",
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "PracticePanther",
+      "url": "https://www.practicepanther.com",
+      "founded": 2012,
+      "hq": "Miami, USA",
+      "team_size_band": "51-200",
+      "best_for": "Firms that prioritize ease of use, workflow automation, and a highly efficient client intake process.",
+      "best_for_short": "Most intuitive user experience",
+      "pricing_band": "$$ ($59 to $119/user/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Case & Matter Management": 8.6,
+        "CRM & Client Intake": 9.4,
+        "Billing & Trust Accounting": 8.7,
+        "Integrations & Ecosystem": 8.2,
+        "Security & Compliance": 8.8,
+        "Usability & Support": 9.5
+      },
+      "verdict": "PracticePanther stands out for its exceptionally intuitive interface and powerful intake automation, making it the top choice for firms wanting to minimize training time and streamline how they onboard new clients.",
+      "verdict_short": "The easiest-to-use platform with powerful workflow and intake automation features.",
+      "praise": "Its custom intake forms and workflow automation are best-in-class, saving firms significant administrative time.",
+      "praise_short": "Best-in-class intake forms and automation.",
+      "criticism": "The platform lacks a built-in email client, requiring users to rely on integrations like the Gmail or Outlook plugins.",
+      "criticism_short": "No built-in email client.",
+      "sources_pending": [
+        "PracticePanther Website",
+        "Capterra Reviews",
+        "Lawyerist Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "LawPay",
+        "Box",
+        "Dropbox",
+        "Google Workspace",
+        "Microsoft 365",
+        "Zapier"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA",
+        "International"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Smokeball",
+      "url": "https://www.smokeball.com",
+      "founded": 2010,
+      "hq": "Chicago, USA",
+      "team_size_band": "201-500",
+      "best_for": "Litigation and transaction-heavy firms that need best-in-class document automation and automatic time tracking.",
+      "best_for_short": "Best for document automation",
+      "pricing_band": "$$$ ($100 to $200/user/mo est.)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Case & Matter Management": 9.4,
+        "CRM & Client Intake": 8,
+        "Billing & Trust Accounting": 9,
+        "Integrations & Ecosystem": 8.5,
+        "Security & Compliance": 8.8,
+        "Usability & Support": 8
+      },
+      "verdict": "Smokeball secures a top spot with its unique automatic time and activity tracking, which captures billable hours that might otherwise be missed, combined with powerful document automation that deeply integrates with Microsoft Word and Outlook.",
+      "verdict_short": "Unrivaled automatic time tracking and deep Microsoft Office integration for document-heavy practices.",
+      "praise": "The 'AutoTime' feature is a game-changer for profitability, automatically creating timesheet entries for all work done in Smokeball, Word, and Outlook.",
+      "praise_short": "Automatic time tracking boosts profitability.",
+      "criticism": "It is a desktop-installed application (with cloud sync), which differs from the purely browser-based access of most competitors, and pricing is not publicly listed.",
+      "criticism_short": "Desktop-based and lacks transparent pricing.",
+      "sources_pending": [
+        "Smokeball Website",
+        "G2 Smokeball Reviews",
+        "TechnoLawyer Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 100,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft Word",
+        "Microsoft Outlook",
+        "QuickBooks Online",
+        "LawToolBox",
+        "LawPay",
+        "InfoTrack"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Filevine",
+      "url": "https://www.filevine.com",
+      "founded": 2014,
+      "hq": "Salt Lake City, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Personal injury, litigation, and other process-driven firms that need a highly customizable, enterprise-grade platform.",
+      "best_for_short": "Most customizable platform",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Case & Matter Management": 9.5,
+        "CRM & Client Intake": 8.5,
+        "Billing & Trust Accounting": 7.5,
+        "Integrations & Ecosystem": 8.8,
+        "Security & Compliance": 9,
+        "Usability & Support": 7
+      },
+      "verdict": "Filevine is the leading choice for firms requiring deep customization, offering a powerful core case management system that can be tailored with custom fields, workflows, and robust reporting to fit complex legal processes.",
+      "verdict_short": "A highly customizable, powerful platform ideal for litigation and personal injury firms with complex workflows.",
+      "praise": "Its activity feed, task management, and document generation capabilities allow firms to build and enforce standardized workflows at scale.",
+      "praise_short": "Excellent for building standardized workflows.",
+      "criticism": "The high degree of customization can lead to a steep learning curve and a lengthy implementation process, and its billing features are less robust than all-in-one competitors.",
+      "criticism_short": "Steep learning curve and weaker billing.",
+      "sources_pending": [
+        "Filevine Website",
+        "G2 Filevine Reviews",
+        "Legaltech News"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Microsoft 365",
+        "Google Workspace",
+        "Slack",
+        "DocuSign",
+        "QuickBooks",
+        " Vinesign"
+      ],
+      "compliance": [
+        "HIPAA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Zola Suite",
+      "url": "https://zolasuite.com",
+      "founded": 2015,
+      "hq": "Port Washington, USA",
+      "team_size_band": "51-200",
+      "best_for": "Firms seeking a true all-in-one solution with fully integrated, robust business and trust accounting built-in.",
+      "best_for_short": "Best for built-in accounting",
+      "pricing_band": "$$$ ($79 to $109/user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Case & Matter Management": 8.5,
+        "CRM & Client Intake": 8,
+        "Billing & Trust Accounting": 9.6,
+        "Integrations & Ecosystem": 7,
+        "Security & Compliance": 8.5,
+        "Usability & Support": 8
+      },
+      "verdict": "Zola Suite distinguishes itself by providing a complete, end-to-end practice management system that includes its own robust, built-in accounting package, eliminating the need for a separate QuickBooks subscription.",
+      "verdict_short": "A true all-in-one with a powerful, fully integrated accounting system, removing the need for QuickBooks.",
+      "praise": "Having case management, billing, and full business/trust accounting in one system with one login provides unmatched data consistency and reporting.",
+      "praise_short": "Single system for case management and accounting.",
+      "criticism": "Because it has its own accounting system, it does not integrate with QuickBooks, which can be a difficult transition for firms accustomed to it.",
+      "criticism_short": "No QuickBooks integration by design.",
+      "sources_pending": [
+        "Zola Suite Website",
+        "Capterra Zola Suite Reviews",
+        "Lawyerist Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 79,
+      "price_max": 109,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Google Workspace",
+        "LawPay",
+        "Dropbox",
+        "RPost"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Rocket Matter",
+      "url": "https://www.rocketmatter.com",
+      "founded": 2008,
+      "hq": "Boca Raton, USA",
+      "team_size_band": "51-200",
+      "best_for": "Firms looking for a mature, reliable platform with strong billing capabilities and workflow automation.",
+      "best_for_short": "Reliable with strong billing",
+      "pricing_band": "$$ ($49 to $89/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Case & Matter Management": 8.2,
+        "CRM & Client Intake": 7.8,
+        "Billing & Trust Accounting": 8.8,
+        "Integrations & Ecosystem": 7.5,
+        "Security & Compliance": 8,
+        "Usability & Support": 8.1
+      },
+      "verdict": "As one of the first cloud-based practice management platforms, Rocket Matter offers a proven, feature-rich system with particularly strong time, billing, and payment collection tools, making it a dependable choice for any firm.",
+      "verdict_short": "A pioneering and reliable platform with excellent, time-tested billing and invoicing features.",
+      "praise": "Its Kanban-based task management system provides an excellent visual overview of matter progress and staff workload.",
+      "praise_short": "Great visual Kanban task boards.",
+      "criticism": "While consistently updated, its user interface can feel less modern compared to newer competitors on the market.",
+      "criticism_short": "User interface feels less modern.",
+      "sources_pending": [
+        "Rocket Matter Website",
+        "G2 Rocket Matter Reviews",
+        "ABA Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 89,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "LawPay",
+        "QuickBooks Online",
+        "Microsoft 365",
+        "Google Workspace",
+        "Box",
+        "NetDocuments"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "CosmoLex",
+      "url": "https://www.cosmolex.com",
+      "founded": 2013,
+      "hq": "North Brunswick, USA",
+      "team_size_band": "51-200",
+      "best_for": "Solo and small firms that place the highest priority on compliant, integrated billing, and trust accounting.",
+      "best_for_short": "Best for accounting compliance",
+      "pricing_band": "$$$ ($99/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Case & Matter Management": 7.5,
+        "CRM & Client Intake": 7,
+        "Billing & Trust Accounting": 9.7,
+        "Integrations & Ecosystem": 7,
+        "Security & Compliance": 8.8,
+        "Usability & Support": 7.5
+      },
+      "verdict": "CosmoLex earns its place by being built from the ground up around billing and accounting, offering a single platform where every action is tied to the accounting ledger, ensuring unparalleled accuracy and compliance.",
+      "verdict_short": "An accounting-first platform ensuring bulletproof compliance for billing and trust accounts.",
+      "praise": "Its all-in-one approach, including built-in accounting, prevents data sync errors and simplifies end-of-month reconciliation and compliance reporting.",
+      "praise_short": "Prevents accounting errors with integrated system.",
+      "criticism": "The user interface is more focused on function than form, and the case management features are not as deep as some competitors.",
+      "criticism_short": "Dated UI and less robust case features.",
+      "sources_pending": [
+        "CosmoLex Website",
+        "Capterra CosmoLex Reviews",
+        "Attorney at Work Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Google Calendar",
+        "Dropbox",
+        "LawPay",
+        "Casemaker"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Lawmatics",
+      "url": "https://www.lawmatics.com",
+      "founded": 2017,
+      "hq": "San Diego, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growth-oriented firms that need a sophisticated, dedicated platform for marketing automation, CRM, and client intake.",
+      "best_for_short": "Best for marketing automation",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Case & Matter Management": 6,
+        "CRM & Client Intake": 9.8,
+        "Billing & Trust Accounting": 6,
+        "Integrations & Ecosystem": 8.5,
+        "Security & Compliance": 8,
+        "Usability & Support": 8.5
+      },
+      "verdict": "Lawmatics is the best-in-class solution for the 'top of the funnel' of a law practice, providing powerful marketing automation, email campaigns, and intake workflows that go far beyond the CRM features of most all-in-one platforms.",
+      "verdict_short": "A true marketing and intake automation engine designed specifically to help law firms grow.",
+      "praise": "Its visual automation builder allows firms to create complex, multi-step follow-up sequences for leads and clients without needing to write any code.",
+      "praise_short": "Powerful visual automation builder.",
+      "criticism": "It is not a full practice management system; it lacks billing, trust accounting, and deep case management features, requiring integration with another platform like Clio or PracticePanther.",
+      "criticism_short": "Not an all-in-one; requires integration.",
+      "sources_pending": [
+        "Lawmatics Website",
+        "G2 Lawmatics Reviews",
+        "Lawyerist Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Clio",
+        "PracticePanther",
+        "Filevine",
+        "MyCase",
+        "Smith.ai",
+        "Zapier",
+        "LawPay"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Casepeer",
+      "url": "https://www.casepeer.com",
+      "founded": 2015,
+      "hq": "Irvine, USA",
+      "team_size_band": "51-200",
+      "best_for": "Personal injury law firms seeking a practice management solution built specifically for their unique workflows.",
+      "best_for_short": "Best for personal injury firms",
+      "pricing_band": "$$$ ($89/user/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Case & Matter Management": 8.8,
+        "CRM & Client Intake": 7.5,
+        "Billing & Trust Accounting": 6.5,
+        "Integrations & Ecosystem": 6,
+        "Security & Compliance": 8,
+        "Usability & Support": 8.2
+      },
+      "verdict": "Casepeer makes the list by focusing exclusively on the needs of personal injury attorneys, offering specialized tools for tracking medical records, managing settlement negotiations, and calculating disbursements that general platforms lack.",
+      "verdict_short": "A specialized, highly effective platform designed from the ground up for personal injury law.",
+      "praise": "The platform's case-level accounting and settlement calculator tools are perfectly tailored to the financial complexities of PI cases.",
+      "praise_short": "Excellent settlement calculation tools.",
+      "criticism": "Its narrow focus means it's not suitable for firms with multiple practice areas, and it has a very limited number of third-party integrations.",
+      "criticism_short": "Unsuitable for other practice areas.",
+      "sources_pending": [
+        "Casepeer Website",
+        "Capterra Casepeer Reviews",
+        "PI Firm Tech Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 89,
+      "price_max": 89,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Google Calendar",
+        "Dropbox",
+        "QuickBooks Online"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Lawcus",
+      "url": "https://lawcus.com",
+      "founded": 2014,
+      "hq": "Walnut, USA",
+      "team_size_band": "11-50",
+      "best_for": "Visually-oriented lawyers and firms who prefer a modern, Kanban-style workflow to manage their cases and tasks.",
+      "best_for_short": "Best visual Kanban workflow",
+      "pricing_band": "$ ($49 to $89/user/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Case & Matter Management": 7.8,
+        "CRM & Client Intake": 7.5,
+        "Billing & Trust Accounting": 7,
+        "Integrations & Ecosystem": 6,
+        "Security & Compliance": 7,
+        "Usability & Support": 7.2
+      },
+      "verdict": "Our wildcard pick, Lawcus, offers a fundamentally different approach to case management, using visual Kanban boards that allow attorneys to see the status of all matters at a glance and easily drag-and-drop them through custom workflows.",
+      "verdict_short": "A modern, visually-driven platform using Kanban boards for a unique approach to case management.",
+      "praise": "The intuitive, Trello-like interface is a refreshing alternative to the dense, list-based views of traditional legal software, appealing to a more modern user.",
+      "praise_short": "Intuitive, Trello-like visual interface.",
+      "criticism": "As a smaller player, its feature set is not as deep or mature as the market leaders, and its integration options are more limited.",
+      "criticism_short": "Less mature and fewer integrations.",
+      "sources_pending": [
+        "Lawcus Website",
+        "G2 Lawcus Reviews",
+        "Lawyerist Lab Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 89,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "QuickBooks Online",
+        "LawPay",
+        "Dropbox",
+        "Zapier"
+      ],
+      "compliance": [
+        "Trust Accounting/IOLTA"
+      ],
+      "regions": [
+        "USA",
+        "International"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

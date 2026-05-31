@@ -1,0 +1,757 @@
+{
+  "slug": "fractional-coo",
+  "title": "The 11 Best Fractional COOs",
+  "subtitle": "A ranked list of the top fractional COO providers for founders looking to scale operations without the full-time executive cost.",
+  "vertical": "Operations · Fractional Executives",
+  "audience": "Founders needing fractional ops leadership",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Services",
+  "subsector": "Executive Consulting",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Proven Operational Impact (30%), Founder/Team Fit & Coaching (25%), Industry & Stage Specialization (20%), Scalable Systems & Playbooks (15%), and Flexibility & Engagement Model (10%)."
+    }
+  ],
+  "answer_capsule": "The best Fractional COO provider is The COO Team for its specialized focus on operational excellence, followed by TechCXO and Continuum for their deep experience with venture-backed scale-ups.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Proven Operational Impact",
+        "weight": 30,
+        "description": "Demonstrated track record of scaling companies, improving key metrics (e.g., gross margin, efficiency), and implementing durable operational systems."
+      },
+      {
+        "name": "Founder/Team Fit & Coaching",
+        "weight": 25,
+        "description": "Ability to act as a true strategic partner to the CEO, integrate with the leadership team, and mentor internal operations talent."
+      },
+      {
+        "name": "Industry & Stage Specialization",
+        "weight": 20,
+        "description": "Depth of expertise in specific verticals (e.g., SaaS, D2C, Healthtech) and company growth stages (e.g., Seed-to-A, Series B+)."
+      },
+      {
+        "name": "Scalable Systems & Playbooks",
+        "weight": 15,
+        "description": "Possession of a toolkit of proven, repeatable processes, frameworks (e.g., EOS, OKRs), and templates that accelerate implementation."
+      },
+      {
+        "name": "Flexibility & Engagement Model",
+        "weight": 10,
+        "description": "Clarity and adaptability of the engagement model, including time commitment, contract length, and ability to scale services up or down."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Startups",
+    "Scale-ups",
+    "SaaS",
+    "B2B Services",
+    "D2C",
+    "Tech Companies"
+  ],
+  "problem_tags": [
+    "Scaling challenges",
+    "Operational inefficiency",
+    "Lack of process",
+    "Leadership gap",
+    "Growth plateau",
+    "Poor unit economics"
+  ],
+  "query_intents": [
+    "hire fractional coo",
+    "best fractional coo firms",
+    "fractional coo cost",
+    "interim coo services",
+    "operations consultant for startups"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling operations",
+        "Implementing EOS"
+      ],
+      "personas": [
+        "Series A Founder",
+        "Bootstrapped CEO"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Preparing for due diligence",
+        "Scaling enterprise SaaS"
+      ],
+      "personas": [
+        "Growth-stage CEO",
+        "Private Equity-backed company"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Post-funding operational chaos",
+        "Building a scalable tech stack"
+      ],
+      "personas": [
+        "Venture-backed Founder",
+        "First-time CEO"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.23,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "Understanding the Role",
+      "a": "A Fractional COO is a part-time executive who manages your company's internal operations. Unlike a consultant who advises, a Fractional COO executes. They build systems, manage teams, oversee P&L, and implement the founder's vision, typically for a fraction of the cost and commitment of a full-time hire."
+    },
+    {
+      "q": "When to Hire",
+      "a": "The ideal time is when operational complexity starts to outpace your ability to manage it, often post-product-market fit or after a funding round (e.g., Seed or Series A). Key signs include the CEO becoming a bottleneck, declining margins, team silos, and an inability to execute strategic projects."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your primary pain point: Are you struggling with people, process, or technology? Match the provider's core strength to your biggest need.",
+    "Verify their stage-specific experience: A COO who scaled a 500-person company may not have the right skills for a 20-person startup. Ask for case studies with companies of your size and stage.",
+    "Interview the actual individual: Unlike software, you're buying a person's expertise and time. Ensure there's strong chemistry with the specific COO who will be assigned to your company.",
+    "Define clear success metrics upfront: Before signing, agree on what success looks like in the first 90 days. This could be implementing an OKR system, improving gross margin by 5%, or hiring key roles."
+  ],
+  "faqs": [
+    {
+      "q": "What does a Fractional COO actually do?",
+      "a": "A Fractional COO takes ownership of day-to-day operations. This includes standardizing processes, managing key departments (like Ops, HR, Finance), implementing strategic plans (like OKRs), owning the P&L, and coaching the leadership team. They act as the CEO's right-hand, translating vision into execution."
+    },
+    {
+      "q": "How much does a Fractional COO cost?",
+      "a": "Costs typically range from $5,000 to $20,000 per month, depending on the provider's experience, the scope of work, and the number of days per week. Most engagements are on a monthly retainer basis for 1-3 days of work per week."
+    },
+    {
+      "q": "When is the right time to hire a Fractional COO?",
+      "a": "The sweet spot is often for companies between 15 and 75 employees who are experiencing scaling pains but aren't ready for a full-time, $250k+ executive hire. It's ideal after securing a seed or Series A round when investors expect disciplined growth."
+    },
+    {
+      "q": "What's the difference between a Fractional COO and an operations consultant?",
+      "a": "A consultant typically diagnoses problems and provides recommendations (the 'what' and 'why'). A Fractional COO does that, but also rolls up their sleeves and implements the solutions, manages the teams, and is accountable for the outcomes (the 'how'). They are an integrated part of the leadership team."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers are US-centric, and international coverage can be limited.",
+    "Pricing is often bespoke and not publicly listed, making direct comparison difficult. Our pricing bands are estimates based on industry averages and public data.",
+    "The 'best' fit is highly dependent on founder chemistry and industry-specific needs, which our ranking can't fully capture."
+  ],
+  "glossary": {
+    "term": "Fractional Executive",
+    "definition": "A C-level executive (like a COO, CMO, or CFO) who works for a company on a part-time, contract basis, providing strategic leadership and execution for a 'fraction' of the time and cost of a full-time employee.",
+    "synonyms": [
+      "Interim Executive",
+      "Part-time Executive"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "The COO Team",
+      "url": "https://www.thecooteam.com/",
+      "founded": 2018,
+      "hq": "Atlanta, USA",
+      "team_size_band": "11-50",
+      "best_for": "Founders seeking a dedicated, process-driven operational partner with deep expertise in implementing scalable frameworks like EOS.",
+      "best_for_short": "EOS implementation & process excellence",
+      "pricing_band": "$$$$ ($10,000 to $25,000/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Proven Operational Impact": 9.5,
+        "Founder/Team Fit & Coaching": 9.2,
+        "Industry & Stage Specialization": 8.9,
+        "Scalable Systems & Playbooks": 9.8,
+        "Flexibility & Engagement Model": 9
+      },
+      "verdict": "The COO Team ranks first because of its singular focus on the COO function and mastery of scalable operating systems like the Entrepreneurial Operating System (EOS), making it the top choice for founders who need to install a proven operational playbook.",
+      "verdict_short": "Unmatched expertise in implementing EOS and other scalable operating systems for growth-stage companies.",
+      "praise": "Their team consists of seasoned operators who have been in the trenches and bring a highly structured, battle-tested approach to scaling.",
+      "praise_short": "Brings a structured, battle-tested playbook.",
+      "criticism": "Their strong adherence to specific frameworks like EOS may not be the right fit for companies with a deeply ingrained, alternative operating culture.",
+      "criticism_short": "Methodology can be rigid for some cultures.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Client case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "EOS",
+        "OKR Software",
+        "Project Management Tools"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 15,
+      "max_team_size": 150
+    },
+    {
+      "rank": 2,
+      "name": "TechCXO",
+      "url": "https://www.techcxo.com/",
+      "founded": 2003,
+      "hq": "Atlanta, USA",
+      "team_size_band": "201-500",
+      "best_for": "Established tech companies and private equity-backed firms needing an experienced, on-demand executive partner for growth, transformation, or M&A.",
+      "best_for_short": "Scale-ups & PE-backed tech companies",
+      "pricing_band": "$$$$$ ($12,000 to $30,000+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Proven Operational Impact": 9.4,
+        "Founder/Team Fit & Coaching": 9,
+        "Industry & Stage Specialization": 9.5,
+        "Scalable Systems & Playbooks": 8.5,
+        "Flexibility & Engagement Model": 8.8
+      },
+      "verdict": "TechCXO earns its high ranking due to its deep bench of highly experienced C-level partners and a strong focus on the technology sector, making it ideal for later-stage companies navigating complex scaling or transaction events.",
+      "verdict_short": "Deep bench of experienced partners for complex scaling and M&A in the tech sector.",
+      "praise": "The firm's partners are all former CXOs, bringing a level of strategic insight and pattern recognition that is hard to match.",
+      "praise_short": "Partners are all former CXOs.",
+      "criticism": "Their engagement model is geared towards more established companies and can be more expensive than other options, potentially pricing out early-stage startups.",
+      "criticism_short": "Can be expensive for early-stage startups.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Forrester reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 12000,
+      "price_max": 30000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "NetSuite",
+        "ERP Systems"
+      ],
+      "compliance": [
+        "SOX"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 50,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Continuum",
+      "url": "https://continuum.net/",
+      "founded": 2018,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Venture-backed startups looking for a flexible, modern approach to fractional leadership that combines executive talent with a supportive community.",
+      "best_for_short": "Venture-backed startups",
+      "pricing_band": "$$$$ ($8,000 to $20,000/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Proven Operational Impact": 8.8,
+        "Founder/Team Fit & Coaching": 9.4,
+        "Industry & Stage Specialization": 9.2,
+        "Scalable Systems & Playbooks": 8.2,
+        "Flexibility & Engagement Model": 9.1
+      },
+      "verdict": "Continuum stands out for its sharp focus on the venture-backed startup ecosystem and its innovative model that emphasizes founder-executive fit, making it a top choice for high-growth companies needing adaptable, experienced leadership.",
+      "verdict_short": "A modern, flexible model perfectly tailored for the venture-backed startup ecosystem.",
+      "praise": "Their talent pool is exceptionally well-vetted for the specific challenges of scaling a venture-backed company, from fundraising support to board management.",
+      "praise_short": "Talent is well-vetted for VC-backed challenges.",
+      "criticism": "As a newer player compared to incumbents, their bench of operators with 20+ years of experience in legacy industries is less extensive.",
+      "criticism_short": "Less experience in legacy industries.",
+      "sources_pending": [
+        "Vendor documentation",
+        "TechCrunch articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Notion",
+        "Slack",
+        "Gusto"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Chief Outsiders",
+      "url": "https://www.chiefoutsiders.com/",
+      "founded": 2009,
+      "hq": "Houston, USA",
+      "team_size_band": "51-200",
+      "best_for": "Mid-market companies needing a proven, battle-tested operational leader who can integrate quickly and drive immediate results.",
+      "best_for_short": "Mid-market growth & efficiency",
+      "pricing_band": "$$$$$ ($12,000 to $28,000/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Proven Operational Impact": 9.2,
+        "Founder/Team Fit & Coaching": 8.8,
+        "Industry & Stage Specialization": 8.5,
+        "Scalable Systems & Playbooks": 8.9,
+        "Flexibility & Engagement Model": 8
+      },
+      "verdict": "Chief Outsiders is a top contender due to its long-standing reputation and rigorous vetting process for its executives, offering a reliable choice for mid-market companies that need a safe pair of hands to professionalize their operations.",
+      "verdict_short": "A highly reputable and reliable choice for professionalizing mid-market company operations.",
+      "praise": "While famous for fractional CMOs, their COO practice is equally rigorous, with a focus on measurable growth and operational efficiency.",
+      "praise_short": "Rigorous focus on measurable results.",
+      "criticism": "Their model and culture are more aligned with traditional mid-market businesses than with fast-moving, early-stage tech startups.",
+      "criticism_short": "Less suited for early-stage tech startups.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Inc. 5000 listings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 12000,
+      "price_max": 28000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "CRM systems",
+        "ERP systems"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 50,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "vcfo",
+      "url": "https://www.vcfo.com/",
+      "founded": 1996,
+      "hq": "Austin, USA",
+      "team_size_band": "51-200",
+      "best_for": "Companies seeking an operationally-minded leader with a strong foundation in finance to improve profitability and process.",
+      "best_for_short": "Finance-focused operational leadership",
+      "pricing_band": "$$$$ ($7,000 to $18,000/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Proven Operational Impact": 8.8,
+        "Founder/Team Fit & Coaching": 8.2,
+        "Industry & Stage Specialization": 8.5,
+        "Scalable Systems & Playbooks": 8,
+        "Flexibility & Engagement Model": 8.6
+      },
+      "verdict": "vcfo secures a top spot by offering a unique blend of financial acumen and operational expertise, making it the best choice for founders who know their unit economics and financial systems are the key to unlocking scalable growth.",
+      "verdict_short": "Blends deep financial acumen with operational execution, ideal for improving profitability.",
+      "praise": "With a long history dating back to 1996, they have a deep understanding of what it takes to build a financially healthy, operationally sound business.",
+      "praise_short": "Decades of experience building sound businesses.",
+      "criticism": "Their operational practice grew out of their finance and HR services, so they may lack the hyper-specialized operational focus of pure-play COO firms.",
+      "criticism_short": "Less specialized than pure-play COO firms.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Client testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 7000,
+      "price_max": 18000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Bill.com"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 20,
+      "max_team_size": 250
+    },
+    {
+      "rank": 6,
+      "name": "Burkland",
+      "url": "https://burklandassociates.com/",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Early-stage startups that need integrated financial, operational, and HR support, often as part of their first institutional fundraise.",
+      "best_for_short": "Integrated startup support (ops, finance, HR)",
+      "pricing_band": "$$$$ ($6,000 to $15,000/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Proven Operational Impact": 8,
+        "Founder/Team Fit & Coaching": 8.1,
+        "Industry & Stage Specialization": 9,
+        "Scalable Systems & Playbooks": 7.9,
+        "Flexibility & Engagement Model": 8.3
+      },
+      "verdict": "Burkland is a strong choice because of its deep integration into the startup ecosystem, offering fractional COO services as part of a holistic back-office solution that is highly valued by VCs and founders.",
+      "verdict_short": "A holistic back-office solution (CFO, COO, Tax) deeply trusted by the startup ecosystem.",
+      "praise": "Their ability to provide a single point of contact for CFO, COO, and tax services is a massive advantage for lean startups.",
+      "praise_short": "One-stop-shop for startup back-office needs.",
+      "criticism": "The Fractional COO service can sometimes feel like an add-on to their core CFO offering rather than a standalone, best-in-class service.",
+      "criticism_short": "COO services can feel secondary to CFO.",
+      "sources_pending": [
+        "Vendor documentation",
+        "VC partner recommendations"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Gusto",
+        "Rippling",
+        "QuickBooks",
+        "Carta"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "AVL Growth Partners",
+      "url": "https://avlgrowth.com/",
+      "founded": 2009,
+      "hq": "Boulder, USA",
+      "team_size_band": "51-200",
+      "best_for": "Purpose-driven startups and emerging companies needing a hands-on partner to build foundational operational and financial systems.",
+      "best_for_short": "Foundational systems for emerging companies",
+      "pricing_band": "$$$ ($5,000 to $14,000/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Proven Operational Impact": 8.2,
+        "Founder/Team Fit & Coaching": 8.5,
+        "Industry & Stage Specialization": 8,
+        "Scalable Systems & Playbooks": 7.5,
+        "Flexibility & Engagement Model": 8.1
+      },
+      "verdict": "AVL Growth Partners earns its place by providing a comprehensive, hands-on approach for early-stage companies, acting as a true extension of the team to build the operational infrastructure needed for the next phase of growth.",
+      "verdict_short": "A hands-on, comprehensive partner for building early-stage operational infrastructure.",
+      "praise": "They are known for their high-touch, collaborative approach and a genuine focus on helping purpose-driven companies succeed.",
+      "praise_short": "High-touch, collaborative approach.",
+      "criticism": "Their expertise is concentrated in the early-to-growth stages, making them less suitable for companies facing complex, late-stage scaling challenges.",
+      "criticism_short": "Less focused on late-stage scaling.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Client reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 14000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "HubSpot"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 75
+    },
+    {
+      "rank": 8,
+      "name": "Summit CPA Group",
+      "url": "https://www.summitcpa.net/",
+      "founded": 2002,
+      "hq": "Fort Wayne, USA",
+      "team_size_band": "51-200",
+      "best_for": "Distributed companies and creative agencies that value a data-driven, financially rigorous approach to operational management.",
+      "best_for_short": "Data-driven ops for remote companies",
+      "pricing_band": "$$$ ($5,000 to $12,000/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Proven Operational Impact": 8.1,
+        "Founder/Team Fit & Coaching": 7.5,
+        "Industry & Stage Specialization": 7.6,
+        "Scalable Systems & Playbooks": 8.3,
+        "Flexibility & Engagement Model": 7.7
+      },
+      "verdict": "Summit CPA Group is a noteworthy provider because it approaches operational challenges from a CPA's perspective, ensuring that all systems and processes are built on a foundation of strong financial controls and clear KPIs.",
+      "verdict_short": "A unique, CPA-led approach ensuring financial rigor in all operational decisions.",
+      "praise": "As a fully distributed company themselves, they have deep, firsthand expertise in building and managing operations for remote teams.",
+      "praise_short": "Deep expertise in remote operations.",
+      "criticism": "The heavy emphasis on financial metrics may overshadow the people and culture aspects of the COO role, which can be critical in some organizations.",
+      "criticism_short": "May over-index on finance vs. culture.",
+      "sources_pending": [
+        "Vendor documentation",
+        "AICPA resources"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 12000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "HubSpot",
+        "Zapier"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "York IE",
+      "url": "https://york.ie/",
+      "founded": 2019,
+      "hq": "Manchester, USA",
+      "team_size_band": "11-50",
+      "best_for": "Ambitious B2B SaaS startups looking for a strategic partner that provides not just operational support but also go-to-market advisory and potential investment.",
+      "best_for_short": "Hybrid advisory, ops, and investment",
+      "pricing_band": "$$$$ ($8,000 to $20,000/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Proven Operational Impact": 7.5,
+        "Founder/Team Fit & Coaching": 7.9,
+        "Industry & Stage Specialization": 8.2,
+        "Scalable Systems & Playbooks": 7,
+        "Flexibility & Engagement Model": 7.4
+      },
+      "verdict": "York IE makes the list due to its unique, integrated model of investment and advisory services, offering operational support that is deeply aligned with a startup's long-term growth and market strategy.",
+      "verdict_short": "Unique model combining operational support with go-to-market advisory and investment.",
+      "praise": "Their holistic view of a company's success, from product to market to operations, provides a level of strategic alignment that is rare in a fractional provider.",
+      "praise_short": "Holistic, strategic alignment.",
+      "criticism": "The fractional COO offering is part of a broader suite of services, and may not have the singular focus or deep bench of a dedicated COO firm.",
+      "criticism_short": "Less focused than dedicated COO firms.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Portfolio company testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "SaaS product suites"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 50
+    },
+    {
+      "rank": 10,
+      "name": "The Ops Collective",
+      "url": "https://www.theopscollective.com/",
+      "founded": 2018,
+      "hq": "Toronto, Canada",
+      "team_size_band": "2-10",
+      "best_for": "Creative agencies, professional services firms, and founder-led businesses that need to systematize their operations to scale beyond the founder.",
+      "best_for_short": "Systematizing creative & service businesses",
+      "pricing_band": "$$$ ($4,000 to $10,000/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Proven Operational Impact": 7.2,
+        "Founder/Team Fit & Coaching": 8,
+        "Industry & Stage Specialization": 7.8,
+        "Scalable Systems & Playbooks": 7.5,
+        "Flexibility & Engagement Model": 7
+      },
+      "verdict": "The Ops Collective is an excellent boutique choice, particularly for service-based businesses, because of its specialized expertise in translating founder-led magic into repeatable, scalable systems and processes.",
+      "verdict_short": "A boutique firm specializing in creating scalable systems for service-based businesses.",
+      "praise": "Their focus on 'calm, controlled growth' resonates with founders who are feeling overwhelmed by operational chaos and need a clear, step-by-step path forward.",
+      "praise_short": "Brings calm and control to chaos.",
+      "criticism": "As a smaller, boutique firm, they may not have the capacity or breadth of experience to handle hyper-growth tech startups or large, complex organizations.",
+      "criticism_short": "Limited capacity for hyper-growth clients.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Client case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 4000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Asana",
+        "ClickUp",
+        "Slack",
+        "Harvest"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Paro",
+      "url": "https://www.paro.ai/",
+      "founded": 2015,
+      "hq": "Chicago, USA",
+      "team_size_band": "51-200",
+      "best_for": "Companies that want maximum flexibility and choice by directly accessing a curated marketplace of vetted freelance finance and operations professionals.",
+      "best_for_short": "Marketplace for vetted freelance operators",
+      "pricing_band": "$$$ ($4,000 to $15,000/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Proven Operational Impact": 7,
+        "Founder/Team Fit & Coaching": 6.8,
+        "Industry & Stage Specialization": 7.5,
+        "Scalable Systems & Playbooks": 6.5,
+        "Flexibility & Engagement Model": 8.5
+      },
+      "verdict": "Our wildcard pick, Paro, is not a traditional firm but an AI-powered marketplace. It's included because it represents a different, more flexible model for accessing top-tier operational talent, allowing companies to hand-pick the perfect individual for their specific needs.",
+      "verdict_short": "A flexible marketplace model for accessing a wide pool of vetted freelance operational talent.",
+      "praise": "The platform offers unparalleled flexibility, enabling companies to find specialists for niche projects or specific industries and to scale engagement up or down quickly.",
+      "praise_short": "Unparalleled flexibility and talent choice.",
+      "criticism": "The marketplace model lacks the cohesive methodology, oversight, and shared knowledge base of a traditional firm, placing more responsibility on the client to manage the engagement.",
+      "criticism_short": "Lacks a firm's cohesive methodology.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Freelancer testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 4000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

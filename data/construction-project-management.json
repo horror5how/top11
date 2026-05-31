@@ -1,0 +1,827 @@
+{
+  "slug": "construction-project-management",
+  "title": "The 11 Best Construction Project Management Software",
+  "subtitle": "A ranked analysis of the top platforms for managing construction projects, from bidding and scheduling to financials and closeout.",
+  "vertical": "Construction · Project Management",
+  "audience": "Construction contractors and PMs managing jobsites and budgets",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Project Management",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Field-to-Office Connectivity (25%), Core PM Features (25%), Financial Management (20%), Ease of Use (15%), Integrations (10%), and Reporting (5%)."
+    }
+  ],
+  "answer_capsule": "The best construction project management software is Procore, followed by Autodesk Construction Cloud and Buildertrend for their comprehensive, field-to-office feature sets.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Field-to-Office Connectivity",
+        "weight": 25,
+        "description": "Effectiveness of syncing jobsite data (daily logs, photos, timecards) with back-office operations in real-time via mobile and web apps."
+      },
+      {
+        "name": "Core Project Management Features",
+        "weight": 25,
+        "description": "Depth and quality of core construction management tools like scheduling, document management, RFIs, submittals, and change orders."
+      },
+      {
+        "name": "Financial Management",
+        "weight": 20,
+        "description": "Capabilities for job costing, budgeting, invoicing, and managing project financials, including integration with accounting systems."
+      },
+      {
+        "name": "Ease of Use & Adoption",
+        "weight": 15,
+        "description": "Intuitive design and user experience for both field crews on mobile and project managers in the office, impacting training time and adoption rates."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 10,
+        "description": "Availability and quality of pre-built integrations with other essential software (e.g., accounting, ERP, estimating) and the breadth of its third-party app marketplace."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 5,
+        "description": "Quality of dashboards and customizable reports for tracking project health, profitability, safety, and other key performance indicators."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Enterprise",
+    "SMB",
+    "Residential Construction",
+    "Commercial Construction",
+    "General Contractors",
+    "Subcontractors"
+  ],
+  "problem_tags": [
+    "Project Delays",
+    "Budget Overruns",
+    "Poor Communication",
+    "Document Control",
+    "Jobsite Inefficiency",
+    "Financial Tracking"
+  ],
+  "query_intents": [
+    "best construction management software",
+    "Procore alternatives",
+    "construction software for small builders",
+    "construction project scheduling software",
+    "job costing software construction"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scalability",
+        "Complex project management",
+        "Ecosystem integration"
+      ],
+      "personas": [
+        "Large General Contractors",
+        "Enterprise construction firms"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Residential project management",
+        "Client communication",
+        "Sales and estimating"
+      ],
+      "personas": [
+        "Home Builders",
+        "Remodelers"
+      ]
+    },
+    "6": {
+      "solves": [
+        "Field coordination",
+        "Punch lists",
+        "Blueprint management"
+      ],
+      "personas": [
+        "Subcontractors",
+        "Field Superintendents"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 1.7
+  },
+  "guide": [
+    {
+      "q": "What's the main difference between platforms?",
+      "a": "The biggest differentiator is target market. All-in-one platforms like Procore and Autodesk target large commercial projects with deep financial and BIM features. Solutions like Buildertrend and CoConstruct are tailored for residential builders with strong client communication and sales tools. Others like Fieldwire and Raken focus specifically on simplifying jobsite data capture for field crews."
+    },
+    {
+      "q": "How should I evaluate pricing?",
+      "a": "Pricing is notoriously complex, often based on annual construction volume (ACV) or per-user fees. Request a detailed quote based on your specific needs. Beware of hidden costs for implementation, training, and premium support. A lower per-user fee might be more expensive than a volume-based price if you have many occasional users."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your core business: Are you a residential remodeler, a large commercial GC, or a specialty subcontractor? Your needs will vary dramatically.",
+    "Second, map your biggest pain points. Are you struggling with field data collection, financial tracking, or client communication? Prioritize software that excels in solving your specific problems.",
+    "Third, conduct live demos with your team, including a superintendent from the field and a project manager from the office. A tool is useless if your team won't adopt it.",
+    "Finally, check for critical integrations. The software must connect seamlessly with your accounting system (e.g., QuickBooks, Sage) to avoid manual data entry and ensure accurate job costing."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between construction PM software and general PM software?",
+      "a": "Construction PM software is purpose-built for the industry's unique workflows, including features like RFIs, submittals, change orders, daily logs, and job costing. General PM software like Asana or Trello lacks these critical, construction-specific functionalities."
+    },
+    {
+      "q": "How much does construction project management software cost?",
+      "a": "Costs vary widely. Smaller, niche tools can start at $50-$100 per month per user. All-in-one platforms for SMBs often range from $300 to $1,500 per month. Enterprise solutions like Procore or Autodesk are typically priced based on your company's annual construction volume and can cost tens of thousands of dollars per year."
+    },
+    {
+      "q": "What are the must-have features in construction software?",
+      "a": "Key features include a centralized document management system for plans and specs, a daily reporting tool for field crews, scheduling (Gantt charts), RFI and submittal tracking, change order management, and robust job costing to track budget vs. actuals."
+    },
+    {
+      "q": "Can I manage subcontractors with this software?",
+      "a": "Yes, most modern platforms are designed for collaboration. They allow you to invite subcontractors, architects, and owners to the platform with specific permissions to view documents, respond to RFIs, and submit invoices, streamlining communication for the entire project team."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-ranked platforms are enterprise-grade and priced for large general contractors; smaller firms may find pricing opaque and features overwhelming.",
+    "Coverage is strongest for North American providers and workflows; international firms should verify regional compliance and support.",
+    "The acquisition of CoConstruct by Buildertrend and Fieldwire by Hilti may lead to future product consolidation, which could impact long-term roadmaps."
+  ],
+  "glossary": {
+    "term": "RFI (Request for Information)",
+    "definition": "A formal process in construction projects where a contractor or subcontractor asks the architect or engineer for clarification on plans, specifications, or other contract documents.",
+    "synonyms": [
+      "Clarification request",
+      "Technical query"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Procore",
+      "url": "https://www.procore.com",
+      "founded": 2002,
+      "hq": "Carpinteria, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large to enterprise-scale general contractors seeking a single, unified platform to manage all aspects of the construction lifecycle.",
+      "best_for_short": "All-in-one enterprise platform",
+      "pricing_band": "$$$$ (By Quote)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 9.3,
+        "Core Project Management Features": 9.2,
+        "Financial Management": 9,
+        "Ease of Use & Adoption": 8.8,
+        "Integrations & Ecosystem": 9.5,
+        "Reporting & Analytics": 9.3
+      },
+      "verdict": "Procore is the best overall construction project management software because it offers the most comprehensive, integrated, and scalable platform on the market, connecting all stakeholders from the field to the office.",
+      "verdict_short": "The most comprehensive and scalable all-in-one platform for large-scale construction projects.",
+      "praise": "Its unlimited user model and massive third-party app marketplace make it a true central hub for complex projects.",
+      "praise_short": "Unlimited user model and huge app marketplace.",
+      "criticism": "The platform's high cost, based on Annual Construction Volume (ACV), can be prohibitive for smaller to mid-sized firms.",
+      "criticism_short": "High cost can be prohibitive for smaller firms.",
+      "sources_pending": [
+        "Procore Pricing Docs",
+        "G2 Procore Reviews",
+        "Procore App Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Sage 300 CRE",
+        "Viewpoint Vista",
+        "DocuSign",
+        "Microsoft Project"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Autodesk Construction Cloud",
+      "url": "https://construction.autodesk.com",
+      "founded": 1982,
+      "hq": "San Rafael, USA",
+      "team_size_band": "10001+",
+      "best_for": "Firms heavily invested in BIM and VDC workflows that need deep integration between design, preconstruction, and field execution.",
+      "best_for_short": "Best for BIM-centric workflows",
+      "pricing_band": "$$$$ (By Quote)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 9,
+        "Core Project Management Features": 9.4,
+        "Financial Management": 8.5,
+        "Ease of Use & Adoption": 8.5,
+        "Integrations & Ecosystem": 9.2,
+        "Reporting & Analytics": 9.1
+      },
+      "verdict": "Autodesk Construction Cloud ranks second for its unparalleled integration with design tools like Revit and its powerful suite of specialized products (e.g., Build, Takeoff, BIM Collaborate) that cover the entire project lifecycle.",
+      "verdict_short": "Unmatched integration with BIM and design tools for a complete project lifecycle solution.",
+      "praise": "The platform's ability to connect 2D sheets and 3D models directly to field management tasks is a game-changer for complex projects.",
+      "praise_short": "Deep, native integration with Revit and BIM.",
+      "criticism": "The suite of different products can feel disjointed, and navigating the various modules and licensing schemes can be confusing for new teams.",
+      "criticism_short": "Can feel like a collection of separate products.",
+      "sources_pending": [
+        "Autodesk Construction Cloud Pricing",
+        "G2 Autodesk Construction Cloud Reviews",
+        "Autodesk App Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Revit",
+        "Navisworks",
+        "Microsoft 365",
+        "Sage 300 CRE",
+        "CMiC"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 19650"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Buildertrend",
+      "url": "https://www.buildertrend.com",
+      "founded": 2006,
+      "hq": "Omaha, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Residential home builders and remodelers who need an all-in-one solution that combines project management with sales, estimating, and client communication.",
+      "best_for_short": "Residential builders and remodelers",
+      "pricing_band": "$$$ ($399 to $1,299/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 8.8,
+        "Core Project Management Features": 8.7,
+        "Financial Management": 9,
+        "Ease of Use & Adoption": 9.1,
+        "Integrations & Ecosystem": 8.5,
+        "Reporting & Analytics": 8.6
+      },
+      "verdict": "Buildertrend is the top choice for residential construction because it uniquely combines robust project management with pre-construction tools like a CRM and estimating, plus a best-in-class client portal.",
+      "verdict_short": "Best all-in-one platform for residential builders, combining PM, sales, and client tools.",
+      "praise": "The financial tools, including purchase orders and lien waiver tracking, are exceptionally well-suited for the residential building workflow.",
+      "praise_short": "Excellent financial tools for residential workflows.",
+      "criticism": "While powerful for residential, its feature set may not be deep enough for the complex RFI, submittal, and compliance needs of large commercial projects.",
+      "criticism_short": "Not ideal for large-scale commercial projects.",
+      "sources_pending": [
+        "Buildertrend Pricing Page",
+        "Capterra Buildertrend Reviews",
+        "QuickBooks Integration Docs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 399,
+      "price_max": 1299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 99,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "The Home Depot",
+        "Gusto",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America",
+        "Australia",
+        "UK"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 4,
+      "name": "Viewpoint",
+      "url": "https://www.viewpoint.com",
+      "founded": 1976,
+      "hq": "Portland, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large general contractors and heavy highway contractors who require deep, industry-specific accounting and ERP integration.",
+      "best_for_short": "Best for deep financial/ERP integration",
+      "pricing_band": "$$$$ (By Quote)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 8.2,
+        "Core Project Management Features": 8.5,
+        "Financial Management": 9.4,
+        "Ease of Use & Adoption": 7.9,
+        "Integrations & Ecosystem": 8.8,
+        "Reporting & Analytics": 8.9
+      },
+      "verdict": "Viewpoint by Trimble excels due to its market-leading financial management capabilities, offering a true construction ERP that tightly integrates accounting, job costing, and project management for enterprise-scale operations.",
+      "verdict_short": "A top-tier construction ERP with exceptionally strong, integrated financial management tools.",
+      "praise": "The Vista ERP is one of the most powerful and trusted accounting backbones in the construction industry.",
+      "praise_short": "Industry-leading Vista ERP and accounting.",
+      "criticism": "The user interface for some of its modules can feel dated, and the platform has a steeper learning curve compared to more modern, cloud-native competitors.",
+      "criticism_short": "Dated user interface and a steep learning curve.",
+      "sources_pending": [
+        "Viewpoint Product Docs",
+        "Gartner Peer Insights",
+        "Trimble Construction One"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft Project",
+        "Primavera P6",
+        "ProEst",
+        "Various Trimble hardware"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 20,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "CoConstruct",
+      "url": "https://www.coconstruct.com",
+      "founded": 2005,
+      "hq": "Charlottesville, USA",
+      "team_size_band": "201-500",
+      "best_for": "Custom home builders and remodelers focused on providing a high-touch, transparent experience for their clients.",
+      "best_for_short": "Custom builders focused on client experience",
+      "pricing_band": "$$$ ($399 to $999/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 8.3,
+        "Core Project Management Features": 8.2,
+        "Financial Management": 8.5,
+        "Ease of Use & Adoption": 8.9,
+        "Integrations & Ecosystem": 8,
+        "Reporting & Analytics": 8.1
+      },
+      "verdict": "CoConstruct stands out for its exceptional client communication tools and user-friendly interface, making it ideal for residential builders who prioritize customer satisfaction and managing selections.",
+      "verdict_short": "Top-rated for client communication and ease of use in residential construction.",
+      "praise": "Its single-entry estimating system, which flows data from estimate to specs to selections to budget, is a huge time-saver.",
+      "praise_short": "Excellent single-entry estimating workflow.",
+      "criticism": "Since its acquisition by Buildertrend, the long-term product roadmap is less clear, and it has fewer third-party integrations than its parent company.",
+      "criticism_short": "Uncertain future roadmap post-acquisition.",
+      "sources_pending": [
+        "CoConstruct Pricing",
+        "Software Advice Reviews",
+        "Buildertrend Acquisition News"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-05-31",
+        "summary": "Acquired by competitor Buildertrend; future product development and support model may change.",
+        "signals": [
+          "Acquisition by competitor"
+        ]
+      },
+      "price_min": 399,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 99,
+      "integrations": [
+        "QuickBooks Desktop",
+        "QuickBooks Online",
+        "Xero"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Fieldwire",
+      "url": "https://www.fieldwire.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Field teams, superintendents, and subcontractors who need a simple, fast, and mobile-first tool for plan viewing and task management.",
+      "best_for_short": "Mobile-first field management",
+      "pricing_band": "$$ ($54 to $114/user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 9.2,
+        "Core Project Management Features": 8.5,
+        "Financial Management": 6.5,
+        "Ease of Use & Adoption": 9,
+        "Integrations & Ecosystem": 7.5,
+        "Reporting & Analytics": 7
+      },
+      "verdict": "Fieldwire earns its rank by being the best-in-class solution for jobsite coordination, offering an incredibly intuitive mobile app for blueprint management, punch lists, and task tracking that field crews actually love to use.",
+      "verdict_short": "The best and most intuitive mobile app for jobsite coordination and plan management.",
+      "praise": "The speed and reliability of its plan viewing and markup tools on mobile devices, even offline, are second to none.",
+      "praise_short": "Fast, reliable mobile plan viewing.",
+      "criticism": "It is not an all-in-one solution; it lacks the deep financial management, bidding, and contract management features of its larger competitors.",
+      "criticism_short": "Lacks financial and back-office features.",
+      "sources_pending": [
+        "Fieldwire Pricing Page",
+        "G2 Fieldwire Reviews",
+        "Hilti Acquisition Announcement"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 54,
+      "price_max": 114,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Dropbox",
+        "Box",
+        "OneDrive",
+        "Autodesk BIM 360"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "CMiC",
+      "url": "https://www.cmicglobal.com",
+      "founded": 1974,
+      "hq": "Toronto, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Mid-to-large enterprise contractors looking for a single-database platform that unifies accounting, human capital, and project management.",
+      "best_for_short": "Unified single-database ERP",
+      "pricing_band": "$$$$ (By Quote)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 7.8,
+        "Core Project Management Features": 8,
+        "Financial Management": 8.8,
+        "Ease of Use & Adoption": 7,
+        "Integrations & Ecosystem": 8.2,
+        "Reporting & Analytics": 8.3
+      },
+      "verdict": "CMiC is a strong contender for its unified platform approach, where all data—from financials to field reports—resides in a single database, eliminating integration headaches and providing a true single source of truth.",
+      "verdict_short": "A powerful, unified ERP platform with a single database for all construction data.",
+      "praise": "Its comprehensive suite covers nearly every aspect of a construction business, from payroll and HR to complex multi-project financial reporting.",
+      "praise_short": "Truly comprehensive, all-in-one business suite.",
+      "criticism": "The platform is known for its complexity and long implementation times, and the user interface is not as modern or intuitive as newer competitors.",
+      "criticism_short": "Complex, with long implementation times.",
+      "sources_pending": [
+        "CMiC Platform Overview",
+        "Gartner Peer Insights CMiC",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft Office 365",
+        "Power BI",
+        "DocuSign"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Raken",
+      "url": "https://www.rakenapp.com",
+      "founded": 2014,
+      "hq": "Carlsbad, USA",
+      "team_size_band": "51-200",
+      "best_for": "Contractors of all sizes who want to streamline and standardize field data collection like daily reports, time cards, and safety observations.",
+      "best_for_short": "Best for field reporting and time tracking",
+      "pricing_band": "$$ ($25 to $45/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 9.4,
+        "Core Project Management Features": 7,
+        "Financial Management": 6,
+        "Ease of Use & Adoption": 9.3,
+        "Integrations & Ecosystem": 7.8,
+        "Reporting & Analytics": 7.2
+      },
+      "verdict": "Raken secures its position by being the easiest-to-use and most effective tool for daily field reporting, ensuring high adoption rates among superintendents and foremen and delivering clean, consistent data to the office.",
+      "verdict_short": "The simplest and most effective tool for daily reports and field data capture.",
+      "praise": "The mobile app is exceptionally well-designed, making it fast and simple for field crews to log work, photos, and notes with minimal training.",
+      "praise_short": "Superb, easy-to-use mobile app for field crews.",
+      "criticism": "It's a specialized tool, not a full PM suite, lacking features for bidding, contract management, and comprehensive financial tracking.",
+      "criticism_short": "Specialized tool, not a full PM suite.",
+      "sources_pending": [
+        "Raken Pricing Page",
+        "Capterra Raken Reviews",
+        "Raken Integration Partners"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 45,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Procore",
+        "Autodesk Construction Cloud",
+        "Viewpoint Vista",
+        "QuickBooks",
+        "Sage 100"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Oracle Aconex",
+      "url": "https://www.oracle.com/industries/construction-engineering/aconex/",
+      "founded": 2000,
+      "hq": "Austin, USA",
+      "team_size_band": "10001+",
+      "best_for": "Owners and contractors on large-scale, complex capital projects requiring auditable collaboration and strict document control across hundreds of organizations.",
+      "best_for_short": "Complex mega-projects",
+      "pricing_band": "$$$$$ (By Quote)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 7.5,
+        "Core Project Management Features": 8.8,
+        "Financial Management": 7,
+        "Ease of Use & Adoption": 6.8,
+        "Integrations & Ecosystem": 8,
+        "Reporting & Analytics": 8.1
+      },
+      "verdict": "Oracle Aconex is the undisputed leader for mega-projects because of its powerful, neutral, and highly secure collaboration platform that provides a complete, unalterable project record for risk mitigation and dispute resolution.",
+      "verdict_short": "The industry standard for secure collaboration and document control on mega-projects.",
+      "praise": "Its 'data ownership' model, where each participating organization owns its data, fosters trust and adoption on massive, multi-party projects.",
+      "praise_short": "Unique data ownership model builds trust.",
+      "criticism": "The platform is notoriously complex, expensive, and overkill for anything other than large, enterprise-level infrastructure and industrial projects.",
+      "criticism_short": "Overly complex and expensive for most projects.",
+      "sources_pending": [
+        "Oracle Aconex Product Page",
+        "G2 Aconex Reviews",
+        "Oracle Construction and Engineering"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Oracle Primavera P6",
+        "Microsoft Project",
+        "SAP",
+        "Oracle ERP Cloud"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Houzz Pro",
+      "url": "https://www.houzz.com/pro",
+      "founded": 2009,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Residential remodelers, designers, and specialty contractors who want to manage the entire client lifecycle from marketing and lead generation to project execution.",
+      "best_for_short": "Residential design-build firms",
+      "pricing_band": "$$ ($65 to $499/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 7.5,
+        "Core Project Management Features": 7.8,
+        "Financial Management": 7.9,
+        "Ease of Use & Adoption": 8.5,
+        "Integrations & Ecosystem": 7,
+        "Reporting & Analytics": 7
+      },
+      "verdict": "Houzz Pro carves out a niche by tightly integrating project management with the Houzz marketplace, offering a unique solution for residential pros to win business and manage projects within a single ecosystem.",
+      "verdict_short": "An all-in-one tool for residential pros that combines marketing, sales, and PM.",
+      "praise": "The 3D floor planner and mood board tools are fantastic for client collaboration during the design and selection phases.",
+      "praise_short": "Excellent 3D planning and mood board tools.",
+      "criticism": "Its project management features are less robust than dedicated competitors, and its primary value is tied to being active on the Houzz marketing platform.",
+      "criticism_short": "PM features are less robust than competitors.",
+      "sources_pending": [
+        "Houzz Pro Pricing",
+        "PCMag Houzz Pro Review",
+        "Houzz Pro for Contractors"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 65,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Gmail",
+        "Outlook"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Monday.com",
+      "url": "https://www.monday.com",
+      "founded": 2012,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "1001-5000",
+      "best_for": "Tech-savvy contractors who value flexibility and customization and are willing to build their own workflows using a general project management tool.",
+      "best_for_short": "Flexible, customizable work OS",
+      "pricing_band": "$$ ($24 to $48/user/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Field-to-Office Connectivity": 6.5,
+        "Core Project Management Features": 7.8,
+        "Financial Management": 6.8,
+        "Ease of Use & Adoption": 9.2,
+        "Integrations & Ecosystem": 8.5,
+        "Reporting & Analytics": 8
+      },
+      "verdict": "Monday.com is a wildcard because it's not a construction-specific tool, yet its extreme flexibility, powerful automations, and visual interface allow teams to build highly customized construction management systems from scratch.",
+      "verdict_short": "A highly flexible 'Work OS' that can be customized for construction workflows.",
+      "praise": "Its intuitive, color-coded interface and 'no-code' automation builder make it one of the easiest platforms to adapt for any business process.",
+      "praise_short": "Extremely flexible with powerful automations.",
+      "criticism": "It lacks essential out-of-the-box construction features like RFI and submittal management, requiring significant setup and workarounds to replicate industry-standard workflows.",
+      "criticism_short": "Lacks critical, built-in construction features.",
+      "sources_pending": [
+        "Monday.com Pricing",
+        "Monday.com for Construction Templates",
+        "G2 Monday.com Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 24,
+      "price_max": 48,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Dropbox",
+        "Google Drive",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 3,
+      "max_team_size": 100
+    }
+  ]
+}

@@ -13,6 +13,16 @@ import aiAgentBuilders from "@/data/ai-agent-builders.json";
 import aiObservabilityPlatforms from "@/data/ai-observability-platforms.json";
 import aiCustomerSupport from "@/data/ai-customer-support.json";
 import aiSalesTools from "@/data/ai-sales-tools.json";
+import aiMeetingAssistants from "@/data/ai-meeting-assistants.json";
+import saasBookkeeping from "@/data/saas-bookkeeping.json";
+import fractionalCoo from "@/data/fractional-coo.json";
+import fractionalCmo from "@/data/fractional-cmo.json";
+import fractionalCto from "@/data/fractional-cto.json";
+import legalCrm from "@/data/legal-crm.json";
+import realEstateCrm from "@/data/real-estate-crm.json";
+import constructionProjectManagement from "@/data/construction-project-management.json";
+import smbPayroll from "@/data/smb-payroll.json";
+import smbHris from "@/data/smb-hris.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -53,6 +63,16 @@ const REGISTRY: Record<string, ListData> = {
   [aiObservabilityPlatforms.slug]: aiObservabilityPlatforms as unknown as ListData,
   [aiCustomerSupport.slug]: aiCustomerSupport as unknown as ListData,
   [aiSalesTools.slug]: aiSalesTools as unknown as ListData,
+  [aiMeetingAssistants.slug]: aiMeetingAssistants as unknown as ListData,
+  [saasBookkeeping.slug]: saasBookkeeping as unknown as ListData,
+  [fractionalCoo.slug]: fractionalCoo as unknown as ListData,
+  [fractionalCmo.slug]: fractionalCmo as unknown as ListData,
+  [fractionalCto.slug]: fractionalCto as unknown as ListData,
+  [legalCrm.slug]: legalCrm as unknown as ListData,
+  [realEstateCrm.slug]: realEstateCrm as unknown as ListData,
+  [constructionProjectManagement.slug]: constructionProjectManagement as unknown as ListData,
+  [smbPayroll.slug]: smbPayroll as unknown as ListData,
+  [smbHris.slug]: smbHris as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
