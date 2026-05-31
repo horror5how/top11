@@ -4,6 +4,10 @@ import cfoAiOperators from "@/data/cfo-ai-operators.json";
 import cfoIpPatent from "@/data/cfo-ip-patent-strategists.json";
 import fractionalCsuiteDeepTech from "@/data/fractional-csuite-deep-tech.json";
 import cfoFundraiseReadiness from "@/data/cfo-fundraise-readiness.json";
+import aiCodingAssistants from "@/data/ai-coding-assistants.json";
+import promptEngineeringTools from "@/data/prompt-engineering-tools.json";
+import vectorDatabases from "@/data/vector-databases.json";
+import ragFrameworks from "@/data/rag-frameworks.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -35,6 +39,10 @@ const REGISTRY: Record<string, ListData> = {
   [cfoIpPatent.slug]: cfoIpPatent as unknown as ListData,
   [fractionalCsuiteDeepTech.slug]: fractionalCsuiteDeepTech as unknown as ListData,
   [cfoFundraiseReadiness.slug]: cfoFundraiseReadiness as unknown as ListData,
+  [aiCodingAssistants.slug]: aiCodingAssistants as unknown as ListData,
+  [promptEngineeringTools.slug]: promptEngineeringTools as unknown as ListData,
+  [vectorDatabases.slug]: vectorDatabases as unknown as ListData,
+  [ragFrameworks.slug]: ragFrameworks as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

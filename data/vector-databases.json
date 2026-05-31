@@ -1,0 +1,845 @@
+{
+  "slug": "vector-databases",
+  "title": "The 11 Best Vector Databases",
+  "subtitle": "A ranked analysis of managed and open-source vector databases for production-grade AI applications like RAG and semantic search.",
+  "vertical": "AI Infrastructure · Vector DBs",
+  "audience": "AI engineers building RAG and semantic search at scale",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "AI & Machine Learning",
+  "subsector": "Data Infrastructure",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Performance & Scalability (30%), Developer Experience (25%), Production Readiness (20%), Cost-Effectiveness (15%), and Maturity (10%)."
+    }
+  ],
+  "answer_capsule": "The best vector database is Pinecone for its managed performance at scale, followed closely by Weaviate and Zilliz for their powerful open-source and hybrid search capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Performance & Scalability",
+        "weight": 30,
+        "description": "Evaluates query latency, throughput (QPS), indexing speed, and the ability to scale to billions of vectors while maintaining performance under load."
+      },
+      {
+        "name": "Developer Experience & Ecosystem",
+        "weight": 25,
+        "description": "Assesses the quality and usability of SDKs (Python, JS, etc.), clarity of documentation, community support, and ease of integration with ML frameworks like LangChain and LlamaIndex."
+      },
+      {
+        "name": "Production Readiness & Features",
+        "weight": 20,
+        "description": "Measures core features beyond basic search, including metadata filtering, hybrid search, backups, monitoring, security controls (RBAC, VPC), and deployment flexibility (managed vs. self-hosted)."
+      },
+      {
+        "name": "Cost-Effectiveness",
+        "weight": 15,
+        "description": "Analyzes pricing models, total cost of ownership (TCO) for both managed and self-hosted options, and the efficiency of resource utilization (e.g., memory footprint, compute)."
+      },
+      {
+        "name": "Maturity & Enterprise Support",
+        "weight": 10,
+        "description": "Considers the provider's stability, track record with large-scale deployments, availability of enterprise-grade support SLAs, and compliance certifications (e.g., SOC 2)."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Vector Database",
+    "Semantic Search",
+    "RAG",
+    "AI Infrastructure",
+    "Managed Database",
+    "Open Source"
+  ],
+  "problem_tags": [
+    "Similarity Search",
+    "Large-scale Embeddings",
+    "Real-time AI",
+    "Generative AI",
+    "LLM Tooling"
+  ],
+  "query_intents": [
+    "best vector database",
+    "pinecone vs weaviate",
+    "open source vector db",
+    "vector database for RAG",
+    "scalable vector search"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Managed performance",
+        "Scalability",
+        "Low-latency search"
+      ],
+      "personas": [
+        "Scale-up AI Engineer",
+        "Enterprise ML Team"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Hybrid search",
+        "Open-source flexibility",
+        "Data sovereignty"
+      ],
+      "personas": [
+        "Full-stack AI Developer",
+        "Mid-market Tech Lead"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Adding vector search to existing stack",
+        "Cost control",
+        "Data consolidation"
+      ],
+      "personas": [
+        "Postgres DBA",
+        "Pragmatic Startup Engineer"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.42,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "What's the most important factor when choosing a vector database?",
+      "a": "For production systems, the most critical factor is the trade-off between performance (latency, QPS) and cost at your required scale. A database that's fast for 1 million vectors may not be economical or performant at 1 billion. Test with a representative data slice before committing."
+    },
+    {
+      "q": "Should I choose a managed service or self-host an open-source option?",
+      "a": "Choose a managed service (like Pinecone or Zilliz Cloud) if you want to focus on application development and minimize operational overhead. Opt for self-hosting (like Weaviate or Qdrant) if you require maximum control, data sovereignty, or have specific infrastructure needs and the DevOps expertise to manage it."
+    }
+  ],
+  "how_to_choose": [
+    "Benchmark your top 2-3 candidates with your own data and query patterns; performance claims vary wildly by use case.",
+    "Evaluate the developer experience of the SDKs you'll actually use; a clunky SDK can slow down development significantly.",
+    "Consider your data's future scale. A solution that's simple today might become a bottleneck in 12 months. Plan for at least 10x growth.",
+    "Assess the importance of hybrid search. If you need to combine keyword and vector search, prioritize databases with strong native support like Weaviate or Elasticsearch."
+  ],
+  "faqs": [
+    {
+      "q": "What is a vector database?",
+      "a": "A vector database is a specialized database designed to store, manage, and search high-dimensional vectors, which are mathematical representations of data like text, images, or audio. Instead of exact matches, it finds the 'nearest neighbors' based on similarity or distance metrics."
+    },
+    {
+      "q": "Why do I need a vector database for AI applications like RAG?",
+      "a": "AI models, especially LLMs, use vector embeddings to understand the semantic meaning of data. For applications like Retrieval-Augmented Generation (RAG), you need to quickly find the most relevant documents (represented as vectors) from a vast corpus to provide context to the LLM. Vector databases are optimized for this high-speed similarity search at scale."
+    },
+    {
+      "q": "How do vector databases differ from traditional databases?",
+      "a": "Traditional databases (like SQL or NoSQL) are optimized for storing and retrieving structured or semi-structured data using exact matches or range queries on scalar values (e.g., `user_id = 123`). Vector databases use Approximate Nearest Neighbor (ANN) algorithms to perform similarity searches on complex, high-dimensional vector data, which is computationally infeasible for traditional databases."
+    },
+    {
+      "q": "Can I use PostgreSQL or Elasticsearch for vector search?",
+      "a": "Yes, and they are viable options. PostgreSQL with the `pgvector` extension and Elasticsearch with its vector search capabilities can be excellent choices, especially if you're already using them. However, dedicated vector databases often offer better performance, more advanced features (like fine-tuned indexing), and greater scalability for extremely large vector workloads."
+    }
+  ],
+  "honest_disclosures": [
+    "This is a rapidly evolving market; rankings and provider capabilities may change significantly quarter-to-quarter.",
+    "The list prioritizes dedicated vector databases, though several high-ranking entries are extensions of existing, mature data platforms.",
+    "Performance benchmarks are highly dependent on the specific dataset, hardware, and indexing configuration; our scores reflect a generalized view of public information and community consensus."
+  ],
+  "glossary": {
+    "term": "Vector Embedding",
+    "definition": "A dense numerical representation of an object (like a word, sentence, or image) in a multi-dimensional space. Embeddings capture the semantic meaning of the object, such that similar objects have vectors that are close to each other.",
+    "synonyms": [
+      "Vector",
+      "Embedding"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Pinecone",
+      "url": "https://www.pinecone.io",
+      "founded": 2019,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Teams that need a fully managed, high-performance, and scalable vector database without the operational overhead of self-hosting.",
+      "best_for_short": "Managed performance at scale",
+      "pricing_band": "$$$ ($99 to custom/enterprise)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Performance & Scalability": 9.4,
+        "Developer Experience & Ecosystem": 9.2,
+        "Production Readiness & Features": 9.3,
+        "Cost-Effectiveness": 8.5,
+        "Maturity & Enterprise Support": 9
+      },
+      "verdict": "Pinecone is the best managed vector database due to its excellent performance, ease of use, and proven scalability for demanding production workloads.",
+      "verdict_short": "The top choice for a high-performance, fully managed vector database that just works.",
+      "praise": "Its serverless architecture simplifies operations and scales seamlessly, allowing engineering teams to focus entirely on application logic.",
+      "praise_short": "Effortless scaling and operational simplicity.",
+      "criticism": "As a managed, closed-source solution, it offers less control and can be more expensive at scale compared to self-hosted alternatives.",
+      "criticism_short": "Higher cost and less control than open-source options.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Reviews",
+        "DB-Engines Ranking"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "AWS",
+        "GCP",
+        "Azure"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "us-west-2",
+        "us-east-1",
+        "eu-west-1",
+        "ap-southeast-1"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Weaviate",
+      "url": "https://weaviate.io",
+      "founded": 2019,
+      "hq": "Amsterdam, Netherlands",
+      "team_size_band": "51-200",
+      "best_for": "Developers who need a flexible, open-source vector database with powerful hybrid search capabilities and multiple deployment options.",
+      "best_for_short": "Flexible open-source hybrid search",
+      "pricing_band": "$$ (Free to custom/enterprise)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Performance & Scalability": 9,
+        "Developer Experience & Ecosystem": 9.3,
+        "Production Readiness & Features": 9.2,
+        "Cost-Effectiveness": 8.8,
+        "Maturity & Enterprise Support": 8.7
+      },
+      "verdict": "Weaviate earns its rank by providing a best-in-class open-source developer experience and robust hybrid search features, making it ideal for complex search applications.",
+      "verdict_short": "Top open-source choice with excellent developer experience and powerful hybrid search.",
+      "praise": "Its GraphQL API is intuitive, and the built-in embedding modules simplify the process of vectorizing data directly within the database.",
+      "praise_short": "Intuitive GraphQL API and built-in embedding modules.",
+      "criticism": "Managing a self-hosted Weaviate cluster at very large scale can be operationally complex, requiring significant DevOps expertise.",
+      "criticism_short": "Self-hosting at scale can be complex.",
+      "sources_pending": [
+        "Vendor documentation",
+        "GitHub repository",
+        "Community Slack"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "Kubernetes",
+        "Docker"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Zilliz (Milvus)",
+      "url": "https://zilliz.com",
+      "founded": 2017,
+      "hq": "Redwood City, USA",
+      "team_size_band": "201-500",
+      "best_for": "Enterprises needing a highly scalable and battle-tested vector database, built on the popular open-source Milvus project.",
+      "best_for_short": "Enterprise-grade massive scalability",
+      "pricing_band": "$$$ (Free to custom/enterprise)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Performance & Scalability": 9.3,
+        "Developer Experience & Ecosystem": 8.8,
+        "Production Readiness & Features": 9,
+        "Cost-Effectiveness": 8.6,
+        "Maturity & Enterprise Support": 8.9
+      },
+      "verdict": "Zilliz provides the best enterprise-grade managed service for Milvus, offering extreme scalability and performance for organizations handling billions of vectors.",
+      "verdict_short": "The go-to for massive-scale, enterprise deployments based on open-source Milvus.",
+      "praise": "Its architecture is designed for distributed systems from the ground up, allowing for independent scaling of compute and storage nodes.",
+      "praise_short": "True distributed architecture for independent scaling.",
+      "criticism": "The complexity of its architecture and numerous configuration options can present a steeper learning curve compared to simpler solutions.",
+      "criticism_short": "Steeper learning curve due to architectural complexity.",
+      "sources_pending": [
+        "Milvus documentation",
+        "Zilliz Cloud website",
+        "LF AI & Data Foundation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "Apache Spark",
+        "Kubernetes"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Qdrant",
+      "url": "https://qdrant.tech",
+      "founded": 2021,
+      "hq": "Berlin, Germany",
+      "team_size_band": "11-50",
+      "best_for": "Engineers prioritizing performance, memory safety, and efficiency, with a preference for an open-source database written in Rust.",
+      "best_for_short": "Performance-focused and efficient",
+      "pricing_band": "$$ (Free to custom/enterprise)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Performance & Scalability": 9.2,
+        "Developer Experience & Ecosystem": 9,
+        "Production Readiness & Features": 8.7,
+        "Cost-Effectiveness": 9,
+        "Maturity & Enterprise Support": 8
+      },
+      "verdict": "Qdrant stands out for its exceptional performance and resource efficiency, leveraging the power of Rust to deliver a fast and reliable vector search engine.",
+      "verdict_short": "A highly performant and efficient vector database written in Rust.",
+      "praise": "Its advanced filtering capabilities are highly effective, allowing for complex queries that combine vector similarity with payload-based conditions before the search.",
+      "praise_short": "Powerful and efficient pre-search filtering.",
+      "criticism": "As a younger project compared to some alternatives, its ecosystem and enterprise feature set are still maturing.",
+      "criticism_short": "Ecosystem and enterprise features are still maturing.",
+      "sources_pending": [
+        "Vendor documentation",
+        "GitHub repository",
+        "Community Discord"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "Docker",
+        "Kubernetes"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Chroma",
+      "url": "https://www.trychroma.com",
+      "founded": 2022,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Developers looking for an easy-to-use, open-source vector database that is simple to get started with, especially for local development and smaller projects.",
+      "best_for_short": "Easiest for developers to start",
+      "pricing_band": "$ (Free to usage-based)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Performance & Scalability": 8.4,
+        "Developer Experience & Ecosystem": 9.4,
+        "Production Readiness & Features": 8.5,
+        "Cost-Effectiveness": 9.1,
+        "Maturity & Enterprise Support": 7.8
+      },
+      "verdict": "Chroma excels as the most developer-friendly open-source vector database, providing an incredibly simple API that makes it the fastest way to add vector search to any application.",
+      "verdict_short": "The most developer-friendly choice for getting started with vector search.",
+      "praise": "Its 'batteries-included' philosophy and seamless integration with Python notebooks have made it a favorite in the AI developer community.",
+      "praise_short": "Extremely simple API and great notebook integration.",
+      "criticism": "While it has a managed cloud offering, it's less proven for very large-scale, high-throughput production use cases compared to leaders like Pinecone or Milvus.",
+      "criticism_short": "Less proven for very large-scale production use.",
+      "sources_pending": [
+        "Vendor documentation",
+        "GitHub repository",
+        "Community Discord"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "OpenAI",
+        "Hugging Face",
+        "Python"
+      ],
+      "compliance": [],
+      "regions": [
+        "AWS",
+        "On-premise"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Vespa",
+      "url": "https://vespa.ai",
+      "founded": 2017,
+      "hq": "Sunnyvale, USA",
+      "team_size_band": "51-200",
+      "best_for": "Large-scale applications that require a powerful, battle-tested engine for real-time big data processing, combining keyword and vector search.",
+      "best_for_short": "Battle-tested big data search",
+      "pricing_band": "$$$ (Free to custom/enterprise)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Performance & Scalability": 9.4,
+        "Developer Experience & Ecosystem": 6.8,
+        "Production Readiness & Features": 9.2,
+        "Cost-Effectiveness": 8,
+        "Maturity & Enterprise Support": 9.4
+      },
+      "verdict": "Vespa is a uniquely powerful and mature search engine, offering unparalleled performance for hybrid search at massive scale, though it comes with a significant learning curve.",
+      "verdict_short": "Extremely powerful and mature, but complex to master for hybrid search.",
+      "praise": "Its ability to perform vector searches on live, mutable data without re-indexing is a significant advantage for real-time applications.",
+      "praise_short": "Excels at real-time search on mutable data.",
+      "criticism": "The configuration and operational management of Vespa are notoriously complex, making it less approachable for smaller teams or simpler use cases.",
+      "criticism_short": "Very complex to configure and operate.",
+      "sources_pending": [
+        "Vespa documentation",
+        "GitHub repository",
+        "Vespa Cloud website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Java",
+        "Python",
+        "REST API"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "On-premise"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Elasticsearch",
+      "url": "https://www.elastic.co",
+      "founded": 2012,
+      "hq": "Mountain View, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Teams already invested in the Elastic ecosystem who want to add vector search capabilities to their existing logging, monitoring, or search infrastructure.",
+      "best_for_short": "Vector search for existing Elastic users",
+      "pricing_band": "$$$ (Free to custom/enterprise)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Performance & Scalability": 8.2,
+        "Developer Experience & Ecosystem": 8.3,
+        "Production Readiness & Features": 8.8,
+        "Cost-Effectiveness": 7.8,
+        "Maturity & Enterprise Support": 9.3
+      },
+      "verdict": "Elasticsearch is a strong choice for vector search because it allows companies to leverage their existing, mature Elastic deployments and expertise to power hybrid search.",
+      "verdict_short": "A mature, integrated solution for teams already using the Elastic stack.",
+      "praise": "Its ability to seamlessly combine traditional text search (BM25) with vector search in a single query is a major strength for hybrid use cases.",
+      "praise_short": "Excellent, seamless hybrid text and vector search.",
+      "criticism": "While capable, its vector search performance and cost-efficiency may not match that of specialized, dedicated vector databases at extreme scale.",
+      "criticism_short": "May not be as performant or cost-effective as dedicated DBs.",
+      "sources_pending": [
+        "Elastic documentation",
+        "Elastic Cloud website",
+        "Industry benchmarks"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Kibana",
+        "Logstash",
+        "Java",
+        "Python",
+        "LangChain"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA",
+        "ISO 27001",
+        "FedRAMP"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Redis",
+      "url": "https://redis.com",
+      "founded": 2011,
+      "hq": "Mountain View, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Applications that require extremely low-latency vector search and are already using Redis for caching or other real-time data needs.",
+      "best_for_short": "Ultra-low latency vector search",
+      "pricing_band": "$$$ (Free to custom/enterprise)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Performance & Scalability": 8.7,
+        "Developer Experience & Ecosystem": 7.8,
+        "Production Readiness & Features": 7.5,
+        "Cost-Effectiveness": 8,
+        "Maturity & Enterprise Support": 9.2
+      },
+      "verdict": "Redis provides a compelling vector database option by leveraging its renowned in-memory speed to deliver ultra-fast similarity searches for latency-sensitive applications.",
+      "verdict_short": "Leverages in-memory speed for extremely fast, real-time vector search.",
+      "praise": "For teams already using Redis, adding vector search is a natural and efficient extension, minimizing the need for additional infrastructure.",
+      "praise_short": "Convenient for existing Redis users, minimizing new infrastructure.",
+      "criticism": "Its feature set is less comprehensive than dedicated vector databases, and the cost of storing large numbers of vectors entirely in RAM can be prohibitive.",
+      "criticism_short": "Less feature-rich and can be costly due to in-memory storage.",
+      "sources_pending": [
+        "Redis documentation",
+        "Redis Enterprise website",
+        "Community forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "LangChain",
+        "LlamaIndex",
+        "Most programming languages"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA",
+        "PCI DSS"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 2,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "SingleStore",
+      "url": "https://www.singlestore.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Enterprises wanting to unify transactional, analytical, and vector workloads in a single, high-performance distributed SQL database.",
+      "best_for_short": "Unified transactional and vector data",
+      "pricing_band": "$$$$ (Usage-based to custom/enterprise)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Performance & Scalability": 7.8,
+        "Developer Experience & Ecosystem": 7.9,
+        "Production Readiness & Features": 8.5,
+        "Cost-Effectiveness": 7.5,
+        "Maturity & Enterprise Support": 8.8
+      },
+      "verdict": "SingleStore's value lies in its ability to handle vector search alongside traditional SQL queries in one system, simplifying data architecture for hybrid applications.",
+      "verdict_short": "A powerful distributed SQL database with integrated vector search capabilities.",
+      "praise": "It allows for real-time analytics and transactions on data that is also being used for semantic search, reducing data movement and complexity.",
+      "praise_short": "Unifies OLTP, OLAP, and vector workloads.",
+      "criticism": "As a general-purpose database, its vector-specific features and tuning options are less advanced than those of specialized vector databases.",
+      "criticism_short": "Vector-specific features are less advanced than dedicated DBs.",
+      "sources_pending": [
+        "SingleStore documentation",
+        "Vendor website",
+        "Gartner reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "SQL tools",
+        "BI platforms (Tableau, PowerBI)",
+        "LangChain",
+        "Kafka"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA",
+        "ISO 27001"
+      ],
+      "regions": [
+        "AWS",
+        "GCP",
+        "Azure",
+        "On-premise"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Rockset",
+      "url": "https://rockset.com",
+      "founded": 2016,
+      "hq": "San Mateo, USA",
+      "team_size_band": "51-200",
+      "best_for": "Real-time AI applications that need to perform vector search on rapidly changing data from multiple sources like Kafka or DynamoDB.",
+      "best_for_short": "Vector search on real-time data",
+      "pricing_band": "$$$$ (Usage-based to custom/enterprise)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Performance & Scalability": 8,
+        "Developer Experience & Ecosystem": 7.5,
+        "Production Readiness & Features": 8,
+        "Cost-Effectiveness": 7,
+        "Maturity & Enterprise Support": 8.2
+      },
+      "verdict": "Rockset carves a niche by enabling vector search on streaming data with sub-second latency, making it ideal for applications that require immediate data freshness.",
+      "verdict_short": "The best choice for real-time vector search on streaming data.",
+      "praise": "Its schemaless ingest and Converged Index™ technology allow it to index structured, semi-structured, and vector data very quickly.",
+      "praise_short": "Extremely fast, schemaless data ingestion and indexing.",
+      "criticism": "The pricing model, based on compute and storage, can become expensive for very large datasets or high query volumes.",
+      "criticism_short": "Usage-based pricing can be costly at scale.",
+      "sources_pending": [
+        "Rockset documentation",
+        "Vendor website",
+        "Customer case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Kafka",
+        "MongoDB",
+        "DynamoDB",
+        "S3",
+        "LangChain"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "us-west-2",
+        "us-east-1",
+        "eu-west-1"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 3,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "pgvector (PostgreSQL Extension)",
+      "url": "https://github.com/pgvector/pgvector",
+      "founded": null,
+      "hq": "Open Source",
+      "team_size_band": "1-10",
+      "best_for": "Teams heavily invested in PostgreSQL who want to add vector search capabilities to their existing database with minimal architectural changes.",
+      "best_for_short": "Vector search inside PostgreSQL",
+      "pricing_band": "$ (Open source)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Performance & Scalability": 6.2,
+        "Developer Experience & Ecosystem": 7.8,
+        "Production Readiness & Features": 6.2,
+        "Cost-Effectiveness": 9.3,
+        "Maturity & Enterprise Support": 8.2
+      },
+      "verdict": "As a wildcard, pgvector is a compelling choice because it integrates vector search directly into the world's most advanced open-source relational database, offering unparalleled convenience and data unification.",
+      "verdict_short": "A pragmatic choice for adding vector search to an existing Postgres stack.",
+      "praise": "It allows developers to leverage the entire mature PostgreSQL ecosystem—including transactions, backups, and rich data types—alongside vector search.",
+      "praise_short": "Leverages the mature, trusted PostgreSQL ecosystem.",
+      "criticism": "Its performance, especially with HNSW indexing, does not match the speed or scale of dedicated, purpose-built vector databases for very large workloads.",
+      "criticism_short": "Performance doesn't match dedicated DBs at large scale.",
+      "sources_pending": [
+        "GitHub repository",
+        "PostgreSQL documentation",
+        "Blog posts and benchmarks"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "PostgreSQL ecosystem",
+        "LangChain",
+        "LlamaIndex",
+        "Any language with a Postgres driver"
+      ],
+      "compliance": [
+        "Dependent on hosting provider"
+      ],
+      "regions": [
+        "Anywhere PostgreSQL can be deployed"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

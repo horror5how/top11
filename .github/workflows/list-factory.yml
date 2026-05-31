@@ -1,0 +1,75 @@
+name: List factory (autonomous)
+
+# Runs every 4 hours. Pops the head of data/_queue/niches.json, generates the
+# Top 11 list for that niche via Claude API, builds, deploys to Vercel, pings
+# IndexNow. With 50 niches in the queue, this completes in ~8 days at one
+# niche per run, OR ~2 days at 3 niches per run.
+
+on:
+  schedule:
+    - cron: "17 */4 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many niches to process this run (1-4)"
+        required: false
+        default: "1"
+
+permissions:
+  contents: write
+
+env:
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+  VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+
+jobs:
+  produce:
+    if: ${{ env.GEMINI_API_KEY != '' || env.ANTHROPIC_API_KEY != '' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with: { node-version: "20" }
+
+      - name: Install deps
+        run: |
+          npm install --silent --no-audit --no-fund
+          npm install --silent --no-save @anthropic-ai/sdk
+
+      - name: Generate list(s)
+        id: gen
+        run: |
+          set -e
+          COUNT="${{ github.event.inputs.count }}"
+          COUNT="${COUNT:-1}"
+          for i in $(seq 1 "$COUNT"); do
+            echo "=== Iteration $i / $COUNT ==="
+            node scripts/generate-list.mjs || true
+          done
+
+      - name: Configure git
+        run: |
+          git config user.email "list-factory@topelevens.com"
+          git config user.name "Top 11 List Factory"
+
+      - name: Commit + push (if anything changed)
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "list-factory: produce $(date -u +%Y-%m-%d) batch"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
+      - name: Wait for Vercel auto-deploy
+        run: sleep 90
+
+      - name: Ping IndexNow
+        if: ${{ hashFiles('scripts/indexnow-push.mjs') != '' }}
+        run: node scripts/indexnow-push.mjs || true

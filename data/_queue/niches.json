@@ -1,0 +1,399 @@
+{
+  "_meta": {
+    "purpose": "List-factory queue. Each entry is a niche the autonomous list-generator will turn into a Top 11 ranked list. Workers pop the head of `pending` and write the JSON to data/<slug>.json + register in lib/lists.ts.",
+    "throughput_target": "1–3 lists per 4-hour cron run = 6–18 lists/day = ~300–900 derived pages/day at full cadence.",
+    "selection_principle": "Each niche must satisfy: (a) genuine search demand in the question shapes we own, (b) low-competition long-tail where a brand-new domain can rank within 30 days, (c) the editor (Hayat Amin) is NOT a candidate. These niches are open territory — no editor disclosure required."
+  },
+  "pending": [
+    {
+      "slug": "llm-evaluation-platforms",
+      "title": "The 11 Best LLM Evaluation Platforms",
+      "vertical": "AI Engineering · Evals",
+      "audience": "ML engineers and AI product teams measuring model quality",
+      "candidate_pool_size": 25,
+      "priority": 1
+    },
+    {
+      "slug": "ai-agent-builders",
+      "title": "The 11 Best AI Agent Builders",
+      "vertical": "AI Engineering · Agent Frameworks",
+      "audience": "Developers building autonomous AI agents and workflows",
+      "candidate_pool_size": 35,
+      "priority": 1
+    },
+    {
+      "slug": "ai-observability-platforms",
+      "title": "The 11 Best AI Observability & Tracing Platforms",
+      "vertical": "AI Infrastructure · Observability",
+      "audience": "AI/ML engineers debugging production LLM apps",
+      "candidate_pool_size": 25,
+      "priority": 1
+    },
+    {
+      "slug": "ai-customer-support",
+      "title": "The 11 Best AI Customer Support Platforms",
+      "vertical": "Customer Support · AI",
+      "audience": "Customer support leaders replacing or augmenting tier-1 with AI",
+      "candidate_pool_size": 40,
+      "priority": 2
+    },
+    {
+      "slug": "ai-sales-tools",
+      "title": "The 11 Best AI Sales Tools",
+      "vertical": "Sales · AI",
+      "audience": "Sales leaders and SDRs using AI for prospecting and conversation analysis",
+      "candidate_pool_size": 50,
+      "priority": 2
+    },
+    {
+      "slug": "ai-meeting-assistants",
+      "title": "The 11 Best AI Meeting Assistants & Note-Takers",
+      "vertical": "Productivity · AI",
+      "audience": "Anyone wanting AI transcription and meeting summaries",
+      "candidate_pool_size": 35,
+      "priority": 2
+    },
+    {
+      "slug": "saas-bookkeeping",
+      "title": "The 11 Best Bookkeeping Services for SaaS Startups",
+      "vertical": "Finance · SaaS",
+      "audience": "SaaS founders outsourcing books",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "fractional-coo",
+      "title": "The 11 Best Fractional COOs",
+      "vertical": "Operations · Fractional Executives",
+      "audience": "Founders needing fractional ops leadership",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "fractional-cmo",
+      "title": "The 11 Best Fractional CMOs",
+      "vertical": "Marketing · Fractional Executives",
+      "audience": "Founders needing fractional marketing leadership",
+      "candidate_pool_size": 35,
+      "priority": 2
+    },
+    {
+      "slug": "fractional-cto",
+      "title": "The 11 Best Fractional CTOs",
+      "vertical": "Engineering · Fractional Executives",
+      "audience": "Non-technical founders needing senior engineering leadership",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "legal-crm",
+      "title": "The 11 Best Legal CRMs & Case Management Software",
+      "vertical": "Legal · Practice Management",
+      "audience": "Law firms and solo attorneys managing matters and clients",
+      "candidate_pool_size": 35,
+      "priority": 2
+    },
+    {
+      "slug": "real-estate-crm",
+      "title": "The 11 Best Real Estate CRMs",
+      "vertical": "Real Estate · CRM",
+      "audience": "Real estate agents and brokerages managing leads and listings",
+      "candidate_pool_size": 40,
+      "priority": 2
+    },
+    {
+      "slug": "fitness-studio-software",
+      "title": "The 11 Best Fitness Studio Management Software",
+      "vertical": "Fitness · Studio Software",
+      "audience": "Boutique fitness studio owners managing classes, members, and billing",
+      "candidate_pool_size": 30,
+      "priority": 3
+    },
+    {
+      "slug": "salon-spa-software",
+      "title": "The 11 Best Salon & Spa Management Software",
+      "vertical": "Beauty · Salon Management",
+      "audience": "Salon and spa owners managing appointments and clients",
+      "candidate_pool_size": 30,
+      "priority": 3
+    },
+    {
+      "slug": "gym-management-software",
+      "title": "The 11 Best Gym Management Software",
+      "vertical": "Fitness · Gym Operations",
+      "audience": "Gym owners managing members, billing, and access control",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "automotive-shop-software",
+      "title": "The 11 Best Automotive Repair Shop Software",
+      "vertical": "Automotive · Shop Management",
+      "audience": "Independent auto repair shop owners managing work orders and parts",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "restaurant-pos",
+      "title": "The 11 Best Restaurant POS Systems",
+      "vertical": "Restaurants · Point of Sale",
+      "audience": "Restaurant owners choosing POS + kitchen management",
+      "candidate_pool_size": 35,
+      "priority": 3
+    },
+    {
+      "slug": "construction-project-management",
+      "title": "The 11 Best Construction Project Management Software",
+      "vertical": "Construction · Project Management",
+      "audience": "Construction contractors and PMs managing jobsites and budgets",
+      "candidate_pool_size": 35,
+      "priority": 2
+    },
+    {
+      "slug": "field-service-management",
+      "title": "The 11 Best Field Service Management Software",
+      "vertical": "Field Services · Operations",
+      "audience": "Field service businesses dispatching technicians and tracking work",
+      "candidate_pool_size": 30,
+      "priority": 3
+    },
+    {
+      "slug": "hvac-software",
+      "title": "The 11 Best HVAC Software",
+      "vertical": "HVAC · Service Management",
+      "audience": "HVAC contractors managing service calls and equipment",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "plumbing-software",
+      "title": "The 11 Best Plumbing Business Software",
+      "vertical": "Plumbing · Service Management",
+      "audience": "Plumbing contractors managing service jobs and invoicing",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "landscaping-software",
+      "title": "The 11 Best Landscaping Business Software",
+      "vertical": "Landscaping · Operations",
+      "audience": "Landscaping companies managing routes, crews, and billing",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "smb-payroll",
+      "title": "The 11 Best Payroll Software for SMBs",
+      "vertical": "HR · Payroll",
+      "audience": "Small business owners running payroll without in-house HR",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "smb-hris",
+      "title": "The 11 Best HRIS for Small Businesses",
+      "vertical": "HR · HRIS",
+      "audience": "SMBs replacing spreadsheets with a real HRIS",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "expense-management",
+      "title": "The 11 Best Expense Management Software",
+      "vertical": "Finance · Expenses",
+      "audience": "Finance teams managing T&E and corporate cards",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "ap-automation",
+      "title": "The 11 Best AP Automation Software",
+      "vertical": "Finance · AP",
+      "audience": "Finance teams automating accounts payable",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "seo-tools-saas",
+      "title": "The 11 Best SEO Tools for SaaS",
+      "vertical": "Marketing · SEO",
+      "audience": "SaaS marketers running technical SEO and content programs",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "social-media-b2b",
+      "title": "The 11 Best Social Media Tools for B2B",
+      "vertical": "Marketing · Social",
+      "audience": "B2B marketers scheduling and analyzing social",
+      "candidate_pool_size": 30,
+      "priority": 3
+    },
+    {
+      "slug": "email-marketing-ecommerce",
+      "title": "The 11 Best Email Marketing Platforms for Ecommerce",
+      "vertical": "Marketing · Email · Ecommerce",
+      "audience": "Ecommerce brands running flows and campaigns",
+      "candidate_pool_size": 30,
+      "priority": 3
+    },
+    {
+      "slug": "headless-cms",
+      "title": "The 11 Best Headless CMS",
+      "vertical": "Developer Tools · CMS",
+      "audience": "Frontend developers building Jamstack and composable sites",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "podcast-hosting",
+      "title": "The 11 Best Podcast Hosting Platforms",
+      "vertical": "Media · Podcasting",
+      "audience": "Podcasters choosing hosting, distribution, and analytics",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "video-hosting-business",
+      "title": "The 11 Best Video Hosting Platforms for Business",
+      "vertical": "Media · Video",
+      "audience": "Business teams hosting embeddable video",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "transcription-services",
+      "title": "The 11 Best Transcription Services",
+      "vertical": "Media · Transcription",
+      "audience": "Anyone needing accurate transcription of audio/video",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "telehealth-platforms",
+      "title": "The 11 Best Telehealth Platforms",
+      "vertical": "Healthcare · Telehealth",
+      "audience": "Healthcare providers running virtual visits",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "medical-billing-software",
+      "title": "The 11 Best Medical Billing Software",
+      "vertical": "Healthcare · Billing",
+      "audience": "Medical practices managing billing and revenue cycle",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "patient-engagement-software",
+      "title": "The 11 Best Patient Engagement Software",
+      "vertical": "Healthcare · Patient Experience",
+      "audience": "Healthcare practices engaging patients between visits",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "shopify-apps-conversion",
+      "title": "The 11 Best Shopify Apps for Conversion Rate Optimization",
+      "vertical": "Ecommerce · Shopify Apps",
+      "audience": "Shopify merchants improving funnel conversion",
+      "candidate_pool_size": 50,
+      "priority": 2
+    },
+    {
+      "slug": "amazon-seller-tools",
+      "title": "The 11 Best Amazon Seller Tools",
+      "vertical": "Ecommerce · Amazon",
+      "audience": "Amazon FBA sellers managing listings and ads",
+      "candidate_pool_size": 40,
+      "priority": 3
+    },
+    {
+      "slug": "no-code-platforms",
+      "title": "The 11 Best No-Code Platforms for Builders",
+      "vertical": "Developer Tools · No-Code",
+      "audience": "Operators and founders building apps without engineers",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "automation-platforms",
+      "title": "The 11 Best Automation Platforms (Zapier Alternatives)",
+      "vertical": "Productivity · Automation",
+      "audience": "Operators automating workflows across SaaS",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "investor-crm",
+      "title": "The 11 Best Investor Relations CRMs",
+      "vertical": "Finance · IR · CRM",
+      "audience": "Founders managing investor relationships and cap tables",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "cap-table-software",
+      "title": "The 11 Best Cap Table Management Software",
+      "vertical": "Finance · Equity",
+      "audience": "Startup founders managing equity, options, and 409A",
+      "candidate_pool_size": 15,
+      "priority": 2
+    },
+    {
+      "slug": "treasury-management-startups",
+      "title": "The 11 Best Treasury Management Platforms for Startups",
+      "vertical": "Finance · Treasury",
+      "audience": "Startup CFOs and founders parking and managing runway",
+      "candidate_pool_size": 15,
+      "priority": 2
+    },
+    {
+      "slug": "compliance-automation",
+      "title": "The 11 Best Compliance Automation Platforms (SOC2, HIPAA, ISO27001)",
+      "vertical": "Security · Compliance",
+      "audience": "Engineering and security leaders pursuing SOC2/HIPAA/ISO27001",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "penetration-testing-services",
+      "title": "The 11 Best Penetration Testing Services",
+      "vertical": "Security · Pentest",
+      "audience": "Engineering leaders booking pentests for compliance or security",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "school-management-software",
+      "title": "The 11 Best School Management Software",
+      "vertical": "Education · K-12 · Operations",
+      "audience": "School administrators managing students, attendance, and grades",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "lms-corporate-training",
+      "title": "The 11 Best LMS for Corporate Training",
+      "vertical": "HR · Learning",
+      "audience": "L&D leaders rolling out company training programs",
+      "candidate_pool_size": 30,
+      "priority": 3
+    }
+  ],
+  "in_progress": [],
+  "completed": [
+    "dental-crm",
+    "fractional-cfo",
+    "cfo-ai-operators",
+    "cfo-ip-patent-strategists",
+    "fractional-csuite-deep-tech",
+    "cfo-fundraise-readiness",
+    "ai-coding-assistants",
+    "prompt-engineering-tools",
+    "vector-databases",
+    "rag-frameworks"
+  ],
+  "skipped": []
+}
