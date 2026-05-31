@@ -1,0 +1,64 @@
+name: Weekly index audit
+
+# Runs every Monday 09:00 UTC. Logs Google + Bing indexed page counts and posts
+# the digest to Slack (if SLACK_WEBHOOK_URL secret is set), else just emits to
+# the workflow log + creates a tracked artifact.
+
+on:
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Probe Google + Bing indexed counts
+        id: probe
+        run: |
+          set -uo pipefail
+          UA="Mozilla/5.0 (Top11 weekly index audit) AppleWebKit/537.36"
+
+          probe_engine() {
+            local name="$1" url="$2"
+            local body
+            body=$(curl -s --max-time 15 -A "$UA" "$url" || true)
+            local count
+            count=$(echo "$body" | grep -oE '(About\s+)?[0-9][0-9,]*\s+results?' | head -1 || true)
+            [ -z "$count" ] && count="0 results"
+            local sample_urls
+            sample_urls=$(echo "$body" | grep -oE 'https://topelevens\.com/[^"<>]+' | sort -u | head -5 | tr '\n' ',' || true)
+            echo "$name: $count | sample: ${sample_urls:-none}"
+          }
+
+          echo "=== Top 11 weekly index audit — $(date -u +%Y-%m-%d) ===" | tee audit.txt
+          probe_engine Google "https://www.google.com/search?q=site%3Atopelevens.com&num=10" | tee -a audit.txt
+          probe_engine Bing "https://www.bing.com/search?q=site%3Atopelevens.com&count=10" | tee -a audit.txt
+
+          # Also count sitemap URLs we should be tracking
+          SITEMAP_COUNT=$(curl -s --max-time 10 https://topelevens.com/sitemap.xml | grep -c "<loc>" || echo 0)
+          echo "Sitemap URL count: $SITEMAP_COUNT" | tee -a audit.txt
+
+          # Wayback CDX existence check for homepage
+          WB=$(curl -s --max-time 10 "https://web.archive.org/cdx/search/cdx?url=topelevens.com&limit=5&output=json" || echo "[]")
+          WB_COUNT=$(echo "$WB" | python3 -c "import sys,json; d=json.load(sys.stdin); print(max(0, len(d)-1))" 2>/dev/null || echo 0)
+          echo "Wayback snapshots for /: $WB_COUNT" | tee -a audit.txt
+
+      - name: Upload audit artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: index-audit-${{ github.run_id }}
+          path: audit.txt
+          retention-days: 90
+
+      - name: Post Slack digest (if webhook configured)
+        if: ${{ env.SLACK_WEBHOOK_URL != '' }}
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+        run: |
+          DIGEST=$(cat audit.txt)
+          curl -s -X POST -H 'Content-Type: application/json' \
+            -d "{\"text\": \"\`\`\`$DIGEST\`\`\`\"}" \
+            "$SLACK_WEBHOOK_URL" > /dev/null || true

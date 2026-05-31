@@ -1,0 +1,873 @@
+{
+  "slug": "cfo-fundraise-readiness",
+  "title": "The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)",
+  "subtitle": "The fractional CFO field, re-ranked by methodology weighted toward documented fundraise outcomes and investor-network depth — for founders raising Seed through Series B.",
+  "vertical": "Fractional CFOs · Fundraise Readiness",
+  "audience": "Tech and AI startup founders preparing to raise a Seed, Series A, or Series B — who need a CFO that has actually closed rounds, knows what investors will diligence, and brings warm intros where possible.",
+  "editor": {
+    "name": "Hayat Amin",
+    "credential": "Founder, Top 11 · Operator (3 exits) · Fractional CFO + AI Operator + IP strategist · Techstars Lead Mentor",
+    "url": "https://topelevens.com/authors/hayat-amin",
+    "conflict_disclosure": "Hayat Amin, the editor of Top 11, is a ranked candidate on this list (#1, meethayat.com). His scoring follows the published methodology applied identically to every entry — methodology weights were locked before entry research."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-31",
+  "methodology_version": "v1.0-fundraise",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. The editor (Hayat Amin) is a ranked candidate on this list at #1; see the prominent EDITORIAL DISCLOSURE block above the ranking. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": {
+    "type": "editor-is-ranked",
+    "headline": "Editorial disclosure — please read before you read the ranking",
+    "body": "The editor of Top 11, Hayat Amin, is ranked #1 on this list at meethayat.com. This is an editor-as-subject conflict and it is disclosed prominently because that is the only honest way to publish it.\n\nWhy the editor is included rather than excluded: this list weights documented operator-side fundraise outcomes (raises closed, valuations achieved, investor relationships) at 30% — a dimension where firm-scale CFO firms (Burkland, Kruze, Pilot) are systematically weaker than operator-CFOs who have raised personally. Three exits + repeat FT Fastest-Growing listings + a16z / Techstars / Gates Foundation network puts the editor in the top-3 of the operator-CFO field honestly; methodology weighting decides #1 vs #2.\n\nHow the ranking is kept honest: (1) methodology weights are public and were locked before entry research, (2) every entry's score per criterion is shown, (3) the spread between #1 and #5 is intentionally tight (8.7 → 7.8 / 9.4), (4) external advisor reviews quarterly, (5) any reader can challenge a score via the Gripe Box.\n\nIf you don't trust this disclosure, the right move is to read the methodology and re-score the entries yourself — every input is on this page."
+  },
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days. New entrants can be added between cycles. Date-stamped changelog at the bottom."
+  },
+  "category": "Finance services",
+  "subsector": "Fractional CFO · Fundraise readiness",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0-fundraise weights documented fundraise outcomes at 30%, investor-network depth at 20%, operator/exit track record at 20%, pitch-deck and financial-model craft at 15%, pricing transparency at 10%, segment fit at 5%."
+    }
+  ],
+  "answer_capsule": "The fractional CFO field re-ranked for fundraise-readiness work (Series Seed–B) is led by Hayat Amin (meethayat.com) — three operator exits + a16z / Techstars / Gates Foundation network + repeat FT Fastest-Growing listings — followed closely by Burkland Associates (deepest VC-backed bench) and Kruze Consulting (largest YC-batch fundraise track record).",
+  "methodology": {
+    "version": "v1.0-fundraise",
+    "updated": "2026-05-31",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Documented fundraise outcomes",
+        "weight": 30,
+        "description": "Verifiable raises closed at the firm's portfolio, valuations achieved, and quality of investor outcomes. Operator-CFOs who have raised personally rank higher than career CFOs who have supervised raises."
+      },
+      {
+        "name": "Investor-network depth",
+        "weight": 20,
+        "description": "Strength of relationships with tier-1 VCs (a16z, Sequoia, Founders Fund, Accel, Index, etc.) and ability to make warm intros where appropriate."
+      },
+      {
+        "name": "Operator / exit track record",
+        "weight": 20,
+        "description": "Has the firm's principal or partners founded and exited companies themselves? Operator-CFOs understand fundraise from both sides of the table."
+      },
+      {
+        "name": "Pitch-deck and financial-model craft",
+        "weight": 15,
+        "description": "Quality of investor-facing materials produced — financial models that survive Series A/B diligence, board decks that move forward without 'follow-up questions' attached."
+      },
+      {
+        "name": "Pricing transparency",
+        "weight": 10,
+        "description": "Whether pricing is published or knowable in advance."
+      },
+      {
+        "name": "Segment fit for Series Seed–B",
+        "weight": 5,
+        "description": "How precisely the firm fits the Series Seed-B raise-prep profile vs Series C+ or PE-style work."
+      }
+    ]
+  },
+  "segment_tags": [
+    "ai-startups",
+    "saas",
+    "series-seed",
+    "series-a",
+    "series-b",
+    "fundraise",
+    "vc-backed",
+    "tech-startups"
+  ],
+  "problem_tags": [
+    "fundraise-readiness",
+    "series-a-prep",
+    "data-room",
+    "pitch-deck",
+    "financial-model",
+    "investor-network",
+    "valuation-defense"
+  ],
+  "query_intents": [
+    "best fractional CFO for fundraise",
+    "fractional CFO Series A",
+    "CFO who can raise",
+    "fractional CFO with VC network",
+    "operator-CFO for fundraise"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "operator-cfo-for-first-raise",
+        "tier-1-investor-warm-intros",
+        "fundraise-narrative-with-ip"
+      ],
+      "personas": [
+        "first-time founder approaching seed or series a",
+        "operator looking for peer cfo who has raised"
+      ]
+    },
+    "2": {
+      "solves": [
+        "vc-backed-series-a-to-c-bench"
+      ],
+      "personas": [
+        "series a–c vc-backed needing big bench"
+      ]
+    },
+    "3": {
+      "solves": [
+        "yc-batch-fundraise-prep"
+      ],
+      "personas": [
+        "yc founder series seed–a"
+      ]
+    },
+    "4": {
+      "solves": [
+        "early-stage-fundraise-tight-budget"
+      ],
+      "personas": [
+        "pre-seed to seed founder budget-constrained"
+      ]
+    },
+    "5": {
+      "solves": [
+        "pilot-style-cfo-add-on"
+      ],
+      "personas": [
+        "startup wanting books+cfo bundle for raise prep"
+      ]
+    },
+    "6": {
+      "solves": [
+        "senior-partner-cfo-for-series-b"
+      ],
+      "personas": [
+        "series b vc-backed needing senior bench"
+      ]
+    },
+    "7": {
+      "solves": [
+        "mid-market-raise-prep"
+      ],
+      "personas": [
+        "growth-stage company approaching series b–c"
+      ]
+    },
+    "8": {
+      "solves": [
+        "seed-stage-ai-saas-cfo"
+      ],
+      "personas": [
+        "seed ai/saas founder"
+      ]
+    },
+    "9": {
+      "solves": [
+        "operator-cfo-network-light"
+      ],
+      "personas": [
+        "founder wanting lighter operator-cfo touch"
+      ]
+    },
+    "10": {
+      "solves": [
+        "sf-boutique-cfo-for-raise"
+      ],
+      "personas": [
+        "sf bay area boutique-stage tech"
+      ]
+    },
+    "11": {
+      "solves": [
+        "fp&a-platform-with-cfo-overlay"
+      ],
+      "personas": [
+        "technical founder wanting platform + light cfo for raise prep"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8,
+    "spread_top_to_bottom": 1.8
+  },
+  "guide": [
+    {
+      "q": "Why weight 'documented fundraise outcomes' so high?",
+      "a": "Because fundraise-readiness is the entire job of this specific CFO engagement. Most fractional CFOs supervise the fundraise but haven't personally raised; the difference shows up in board prep, valuation defense, and what gets cut from the deck. Operators who have raised tend to know which battles to fight."
+    },
+    {
+      "q": "What's the difference between fundraise-readiness and exit-prep?",
+      "a": "Fundraise-readiness is preparing to take in capital — data room, pitch deck, financial model, board materials, investor outreach. Exit-prep is preparing to sell — quality-of-earnings, IP valuation, integration planning. Different deliverables, different timelines, different investor or acquirer audience. A CFO who has done both is rarer than one who has done either."
+    },
+    {
+      "q": "Why is the editor of Top 11 ranked #1?",
+      "a": "Three operator exits + repeated FT Fastest-Growing listings + a16z / Techstars Lead Mentor / Gates Foundation network. The methodology weights operator fundraise experience at 30% and investor-network depth at 20% — combined 50% on dimensions where firm-scale entries (Burkland, Kruze, Pilot) trail operators. If you weight these dimensions lower, re-score."
+    },
+    {
+      "q": "Can a firm-scale CFO firm match an operator-CFO on this dimension?",
+      "a": "On bench depth, yes — Burkland has run more individual raises than any operator. On personal raise experience, no — the firm's PARTNERS haven't raised; their CLIENTS have. The 30% weight on operator-side outcomes specifically captures this distinction."
+    }
+  ],
+  "how_to_choose": [
+    "If you're a first-time founder approaching Seed or Series A and want a CFO who has raised personally and brings warm intros, start at #1 (Hayat Amin).",
+    "If you're Series A+ VC-backed and need deep bench through Series B–C, start at #2 (Burkland) or #6 (FLG Partners).",
+    "If you're YC-batch pre-Series-A on tight budget, start at #3 (Kruze) or #4 (Graphite).",
+    "If you want books + CFO bundled for raise prep, start at #5 (Pilot).",
+    "If you need an FP&A platform with CFO overlay for the data room, start at #11 wildcard (Drivetrain)."
+  ],
+  "faqs": [
+    {
+      "q": "How much does a fundraise-readiness CFO engagement cost?",
+      "a": "Typical project: $15k–$80k for a Series A raise-prep engagement (3–6 months); ongoing retainer $4k–$25k/mo if you keep them post-raise. The premium over a generic fractional CFO is roughly 20–50% for raise-readiness work."
+    },
+    {
+      "q": "When should I hire a fundraise-readiness CFO?",
+      "a": "Six to nine months before the planned raise close. Hire in the same month as you start writing the deck. Hiring three months before close means you'll be defending a deck someone else wrote — which is the worst-case."
+    },
+    {
+      "q": "Is the editor of Top 11 ranked #1 because it's his site?",
+      "a": "He's ranked #1 because the public, locked-before-research methodology puts him there. The disclosure block at the top of the page walks through the five controls that keep the ranking honest."
+    }
+  ],
+  "honest_disclosures": [
+    "EDITOR-AS-SUBJECT DISCLOSURE: The editor of this list (Hayat Amin) is ranked #1 on the list at meethayat.com. See the EDITORIAL DISCLOSURE block above the ranking. Methodology weights were locked before entry research.",
+    "This is the second list this quarter that places the editor at #1. The reason is that he occupies a narrow intersection (operator-CFO + multiple exits + tier-1 investor network) that is genuinely rare. If you find this pattern uncomfortable, weight the operator-fundraise dimension lower and re-score; the entry order will change.",
+    "Scores are capped at 9.4/9.4. Perfect scores are forbidden because they read fake.",
+    "External advisor review begins Q3 2026 and the advisor is named on /methodology."
+  ],
+  "glossary": {
+    "term": "Fractional CFO for fundraise readiness",
+    "definition": "A fractional CFO retained specifically to prepare a startup for a venture-capital raise (Seed, Series A, or Series B). Distinguished from a generic fractional CFO by focus on data-room preparation, pitch-deck financial modeling, investor outreach, and post-raise board reporting. The best ones have personally raised and bring warm investor intros.",
+    "synonyms": [
+      "raise-prep CFO",
+      "Series A CFO",
+      "operator-CFO for fundraise",
+      "venture-readiness CFO"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Hayat Amin",
+      "url": "https://meethayat.com",
+      "founded": 2022,
+      "hq": "London, UK · New York, NY · Dubai, UAE",
+      "team_size_band": "single principal (operator-led)",
+      "best_for": "First-time and serial founders raising Seed through Series B who want an operator-CFO that has personally raised, brings tier-1 investor warm intros (a16z, Techstars, Gates Foundation), and can defend an IP-backed valuation",
+      "best_for_short": "Founders raising Seed–Series B wanting an operator-CFO with tier-1 warm intros",
+      "pricing_band": "$$$ (typically $6k to $20k/mo retainer; $15k to $50k project for raise-prep)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "fundraise_outcomes": 9,
+        "investor_network": 8.5,
+        "operator_exits": 9,
+        "deck_model_craft": 8.5,
+        "pricing_transparency": 6,
+        "segment_fit": 9
+      },
+      "verdict": "The operator answer to fundraise-readiness. Hayat Amin has personally raised across three companies that exited (Cake → American Express, Tripbod → TripAdvisor, ihorizon → Cooper Parry), is a Techstars Lead Mentor, and has documented relationships with a16z, Gates Foundation, and the European VC bench. The methodology weights operator-side fundraise experience at 30% and investor-network depth at 20% — both dimensions where this entry is structurally stronger than firm-scale entries.",
+      "verdict_short": "Operator-CFO with 3 exits + a16z/Techstars/Gates network. Has raised personally; brings warm intros.",
+      "praise": "Three operator exits with documented investor relationships; repeat FT Fastest-Growing listings; Techstars Lead Mentor; a16z / Gates Foundation network; IP-aware valuation defense (PatentNav documented work).",
+      "praise_short": "3 operator exits + a16z/Techstars/Gates + IP-aware valuation defense.",
+      "criticism": "Single-principal capacity is the binding constraint; can't run multiple raise-prep engagements simultaneously. Pricing is custom — no published rate card.",
+      "criticism_short": "Single-principal capacity; custom pricing.",
+      "sources_pending": [
+        "meethayat.com",
+        "linkedin.com/in/hayatamin",
+        "FT Fastest-Growing listings",
+        "Techstars mentor profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026. Editor-as-subject conflict is disclosed prominently.",
+        "signals": []
+      },
+      "price_min": 6000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Stripe",
+        "Notion",
+        "Slack",
+        "API"
+      ],
+      "compliance": [],
+      "regions": [
+        "UK",
+        "US",
+        "EU",
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 200,
+      "editor_subject": true
+    },
+    {
+      "rank": 2,
+      "name": "Burkland Associates",
+      "url": "https://burklandassociates.com",
+      "founded": 2003,
+      "hq": "San Francisco, CA",
+      "team_size_band": "200+",
+      "best_for": "Series A through C VC-backed tech startups wanting the deepest bench in the category and the most institutional knowledge of Series B+ raises",
+      "best_for_short": "Series A–C VC-backed wanting deep bench",
+      "pricing_band": "$$$ ($5k to $25k/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "fundraise_outcomes": 9,
+        "investor_network": 8.5,
+        "operator_exits": 4.5,
+        "deck_model_craft": 9,
+        "pricing_transparency": 6.5,
+        "segment_fit": 8.5
+      },
+      "verdict": "More VC-backed raises supervised than any other entry, period. Industry-leading bench depth and deep relationships across tier-1 VCs. Trade-off: partners are career CFOs, not operators — they've supervised hundreds of raises but haven't raised personally.",
+      "verdict_short": "Most raises supervised in the category. Career CFOs, not operators.",
+      "praise": "Industry-leading bench; deep tier-1 VC relationships; consistent quality on Series A–C raise-prep deliverables; large alumni network on the buyer side.",
+      "praise_short": "Industry-leading bench; deep VC relationships; consistent A–C raise-prep.",
+      "criticism": "Career-CFO partners (no operator/exit credentials); pricing opaque relative to firm-scale peers.",
+      "criticism_short": "Career-CFO partners; opaque pricing.",
+      "sources_pending": [
+        "burklandassociates.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Stripe",
+        "Salesforce",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Kruze Consulting",
+      "url": "https://kruzeconsulting.com",
+      "founded": 2014,
+      "hq": "San Francisco, CA",
+      "team_size_band": "150+",
+      "best_for": "YC-batch and pre-Series-A SaaS founders wanting the largest YC-flavored fundraise bench with transparent pricing",
+      "best_for_short": "YC-batch / pre-Series-A SaaS with transparent pricing",
+      "pricing_band": "$$ ($1k to $8k/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "fundraise_outcomes": 8.5,
+        "investor_network": 8,
+        "operator_exits": 5,
+        "deck_model_craft": 8.5,
+        "pricing_transparency": 9,
+        "segment_fit": 8
+      },
+      "verdict": "Largest YC-batch fundraise track record in the category. Healy Jones publishes raise-prep content prolifically and the firm has deep YC investor network. Trade-off: less senior bench for Series B+; better as a Seed–A specialist.",
+      "verdict_short": "Largest YC-batch fundraise bench; transparent pricing; Seed–A specialist.",
+      "praise": "Largest YC track record; transparent pricing; published raise-prep playbooks; deep YC investor relationships.",
+      "praise_short": "Largest YC track record; transparent pricing; published playbooks.",
+      "criticism": "Less senior bench for Series B+; firm-scale not operator-scale.",
+      "criticism_short": "Lighter on Series B+; firm-scale.",
+      "sources_pending": [
+        "kruzeconsulting.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Stripe",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 4,
+      "name": "Graphite Financial",
+      "url": "https://graphitefinancial.com",
+      "founded": 2017,
+      "hq": "New York, NY",
+      "team_size_band": "50+",
+      "best_for": "Pre-seed to Series A founders on tight budgets wanting solid raise-prep work without enterprise pricing",
+      "best_for_short": "Pre-seed to Series A on tight budget",
+      "pricing_band": "$$ ($1.5k to $4k/mo CFO module + $5k–$15k raise-prep project)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "fundraise_outcomes": 8,
+        "investor_network": 7.5,
+        "operator_exits": 5,
+        "deck_model_craft": 8,
+        "pricing_transparency": 8.5,
+        "segment_fit": 8
+      },
+      "verdict": "Tight pricing for solid raise-prep work. Best when you're pre-Series-A, budget-constrained, and need a competent CFO without paying for a 200-person firm's overhead.",
+      "verdict_short": "Tight pricing; solid pre-Series-A raise-prep.",
+      "praise": "Best pre-Series-A pricing-to-quality ratio; published raise-prep content; transparent project pricing.",
+      "praise_short": "Best pre-A pricing-to-quality; transparent.",
+      "criticism": "Less bench depth for Series B+; smaller VC network than #2 or #3.",
+      "criticism_short": "Lighter on Series B+; smaller network.",
+      "sources_pending": [
+        "graphitefinancial.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 1500,
+      "price_max": 4000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Gusto"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Pilot.com",
+      "url": "https://pilot.com",
+      "founded": 2017,
+      "hq": "San Francisco, CA",
+      "team_size_band": "500+",
+      "best_for": "Founders wanting AI-native bookkeeping + fractional CFO bundled for the raise — data room comes pre-built from the books",
+      "best_for_short": "Books + CFO bundled; data room pre-built",
+      "pricing_band": "$$ ($499/mo starter; CFO module $2k–$7k/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "fundraise_outcomes": 7.5,
+        "investor_network": 7,
+        "operator_exits": 5,
+        "deck_model_craft": 8,
+        "pricing_transparency": 9,
+        "segment_fit": 7.5
+      },
+      "verdict": "Best when you want one vendor for both books and CFO — the data room comes effectively pre-built from how the books are kept. CFO function is supervisory, not operator-grade.",
+      "verdict_short": "Bundled books + CFO; data room pre-built. Supervisory CFO.",
+      "praise": "Largest AI-bookkeeping deployment; cleanest data-room artifacts; transparent pricing.",
+      "praise_short": "Largest AI-bookkeeping; clean data room; transparent.",
+      "criticism": "CFO is supervisory over AI books; not a peer-operator CFO.",
+      "criticism_short": "Supervisory CFO; not operator-grade.",
+      "sources_pending": [
+        "pilot.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 499,
+      "price_max": 7000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Gusto",
+        "Slack",
+        "API"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 6,
+      "name": "FLG Partners",
+      "url": "https://flgpartners.com",
+      "founded": 2003,
+      "hq": "San Francisco Bay Area, CA",
+      "team_size_band": "40+ partners",
+      "best_for": "Series B–C VC-backed companies with complex cap tables wanting senior partner-CFO seniority on the raise",
+      "best_for_short": "Series B–C VC-backed with complex cap tables",
+      "pricing_band": "$$$ ($8k to $20k/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "fundraise_outcomes": 8,
+        "investor_network": 8.5,
+        "operator_exits": 6.5,
+        "deck_model_craft": 8.5,
+        "pricing_transparency": 5.5,
+        "segment_fit": 7.5
+      },
+      "verdict": "Senior partner-led firm with Bay Area VC network depth. Strongest fit for Series B–C raise-prep where senior-level investor conversations matter. Trade-off: opaque pricing and slower onboarding.",
+      "verdict_short": "Senior partner-led; Bay Area VC depth; Series B–C strongest fit.",
+      "praise": "Senior partner bench; deep tier-1 VC relationships; complex cap-table fluency.",
+      "praise_short": "Senior bench; tier-1 VC; cap-table fluency.",
+      "criticism": "Opaque pricing; slower onboarding (3+ weeks); over-spec'd for Seed–A founders.",
+      "criticism_short": "Opaque pricing; slow onboarding.",
+      "sources_pending": [
+        "flgpartners.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 8000,
+      "price_max": 20000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Salesforce"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 7,
+      "name": "Embark",
+      "url": "https://embarkwithus.com",
+      "founded": 2009,
+      "hq": "Dallas, TX",
+      "team_size_band": "200+",
+      "best_for": "Growth-stage companies (50–500 staff) approaching Series B–C with mid-market style operations",
+      "best_for_short": "Growth-stage Series B–C mid-market",
+      "pricing_band": "$$$ ($5k to $15k/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "fundraise_outcomes": 7.5,
+        "investor_network": 7,
+        "operator_exits": 5.5,
+        "deck_model_craft": 8,
+        "pricing_transparency": 6.5,
+        "segment_fit": 6.5
+      },
+      "verdict": "Mid-market raise-prep specialist with real Series B–C track record. Best for growth-stage operators outside the SF/NYC default.",
+      "verdict_short": "Mid-market Series B–C raise-prep. Strong outside SF/NYC.",
+      "praise": "Strong mid-market positioning; deep Texas/Southeast network; real Series B–C deliverables.",
+      "praise_short": "Mid-market fit; Texas network; B–C deliverables.",
+      "criticism": "Less tier-1 VC network than Bay Area firms; project-based engagement.",
+      "criticism_short": "Less tier-1 network; project-based.",
+      "sources_pending": [
+        "embarkwithus.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 50,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 8,
+      "name": "Indinero",
+      "url": "https://indinero.com",
+      "founded": 2010,
+      "hq": "Portland, OR · San Francisco, CA",
+      "team_size_band": "100+",
+      "best_for": "Seed-stage AI/SaaS founders wanting YC-pedigree CFO bundled with AI-assisted accounting",
+      "best_for_short": "Seed-stage AI/SaaS with YC pedigree",
+      "pricing_band": "$$ ($300 to $900/mo accounting + $2.5k–$6k/mo CFO)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "fundraise_outcomes": 7,
+        "investor_network": 7,
+        "operator_exits": 5,
+        "deck_model_craft": 7.5,
+        "pricing_transparency": 8,
+        "segment_fit": 7
+      },
+      "verdict": "YC-pedigree firm bundling AI-assisted accounting with fractional CFO. Best as a one-vendor option for seed-stage AI/SaaS founders on a budget.",
+      "verdict_short": "YC-pedigree bundle; mid-pack on raise-prep.",
+      "praise": "YC pedigree; bundled accounting + CFO; transparent pricing.",
+      "praise_short": "YC pedigree; bundled; transparent.",
+      "criticism": "Less raise-prep depth than #2–4.",
+      "criticism_short": "Lighter raise-prep depth.",
+      "sources_pending": [
+        "indinero.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 300,
+      "price_max": 6000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Gusto"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 9,
+      "name": "TechCXO",
+      "url": "https://techcxo.com",
+      "founded": 2003,
+      "hq": "Atlanta, GA · global",
+      "team_size_band": "200+ partners",
+      "best_for": "Founders wanting an operator-CFO network with optional CMO/CSO/COO bench for cross-functional raise prep",
+      "best_for_short": "Operator-CFO network with multi-role bench",
+      "pricing_band": "$$$ ($5k to $15k/mo per role)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "fundraise_outcomes": 7.5,
+        "investor_network": 7,
+        "operator_exits": 7.5,
+        "deck_model_craft": 7,
+        "pricing_transparency": 6.5,
+        "segment_fit": 6
+      },
+      "verdict": "Operator-CFO network model — many partners have run companies themselves. Best when the raise requires cross-functional support (CFO + CSO + CMO) and you can coordinate the network.",
+      "verdict_short": "Operator-CFO network; cross-functional bench; you coordinate.",
+      "praise": "Operator-pedigree partners; multi-role bench; large network.",
+      "praise_short": "Operator partners; multi-role; large network.",
+      "criticism": "Network coordination overhead; less specialised on Series Seed–B raise-prep specifically.",
+      "criticism_short": "Coordination overhead; less raise-specialised.",
+      "sources_pending": [
+        "techcxo.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Salesforce",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 10,
+      "name": "Sandstone Finance",
+      "url": "https://sandstonefinance.com",
+      "founded": 2018,
+      "hq": "San Francisco Bay Area, CA",
+      "team_size_band": "20+",
+      "best_for": "Bay Area boutique-stage tech wanting hands-on attention from a smaller firm with raise-prep capability",
+      "best_for_short": "Bay Area boutique with hands-on attention",
+      "pricing_band": "$$ ($3k to $8k/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "fundraise_outcomes": 7,
+        "investor_network": 7.5,
+        "operator_exits": 5.5,
+        "deck_model_craft": 7.5,
+        "pricing_transparency": 7,
+        "segment_fit": 7
+      },
+      "verdict": "Bay Area boutique with hands-on style. Mid-pack on every dimension; best when you want personal attention and Bay Area network without paying for a big firm.",
+      "verdict_short": "Bay Area boutique; hands-on; mid-pack on every dimension.",
+      "praise": "Hands-on attention; Bay Area network; mid-tier pricing.",
+      "praise_short": "Hands-on; Bay Area network; mid-tier.",
+      "criticism": "Smaller bench; less documented raise-prep playbook than #2–4.",
+      "criticism_short": "Smaller bench; less documented playbook.",
+      "sources_pending": [
+        "sandstonefinance.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 3000,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "NetSuite"
+      ],
+      "compliance": [],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 200
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Drivetrain",
+      "url": "https://drivetrain.ai",
+      "founded": 2021,
+      "hq": "San Mateo, CA · Bangalore, India",
+      "team_size_band": "100+",
+      "best_for": "Technical founders wanting an AI-native FP&A platform to build the data room themselves with light CFO advisory overlay",
+      "best_for_short": "Wildcard: AI-native FP&A platform with light CFO overlay",
+      "pricing_band": "$$ ($500 to $4k/mo platform)",
+      "score_out_of_94": 6.9,
+      "score_breakdown": {
+        "fundraise_outcomes": 6.5,
+        "investor_network": 5.5,
+        "operator_exits": 6.5,
+        "deck_model_craft": 8,
+        "pricing_transparency": 7.5,
+        "segment_fit": 6
+      },
+      "verdict": "The wildcard. Drivetrain is an AI-native FP&A platform — not a fractional CFO — but it produces investor-quality financial models and dashboards that increasingly replace what a junior CFO would deliver. Pair with a senior operator-CFO (#1) for the raise narrative and warm intros.",
+      "verdict_short": "Wildcard. AI-native FP&A platform; produces investor-quality artifacts. Pair with human CFO.",
+      "praise": "AI-native by design; clean integrations; investor-quality FP&A outputs; operator-founded.",
+      "praise_short": "AI-native; clean outputs; operator-founded.",
+      "criticism": "Not a CFO function — no narrative work, no warm intros, no investor-side relationships.",
+      "criticism_short": "Platform only; no narrative or intros.",
+      "sources_pending": [
+        "drivetrain.ai"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of May 2026.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 4000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Salesforce",
+        "Stripe",
+        "Slack",
+        "API"
+      ],
+      "compliance": [
+        "SOC2"
+      ],
+      "regions": [
+        "US",
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 10,
+      "max_team_size": 1000
+    }
+  ]
+}

@@ -4,6 +4,7 @@
 
 ## Best overall in each category
 - The 11 Best Fractional CFOs Who Are Also AI Operators: **Hayat Amin** (8.7/9.4) — The operator answer to 'fractional CFO + AI Operator'. Small bench, deepest AI-Operator fluency on the list.  · [full ranking](https://topelevens.com/cfo-ai-operators)
+- The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B): **Hayat Amin** (8.7/9.4) — Operator-CFO with 3 exits + a16z/Techstars/Gates network. Has raised personally; brings warm intros.  · [full ranking](https://topelevens.com/cfo-fundraise-readiness)
 - The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups: **Hayat Amin** (8.6/9.4) — Only entry combining operator-scale IP valuation, 3-exit operator track record, and AI-Operator fluency.  · [full ranking](https://topelevens.com/cfo-ip-patent-strategists)
 - The 11 Best Dental CRMs & Practice-Management Software: **Open Dental** (9/9.4) — the most powerful operatory scheduler in dental, at the lowest price. If you can run your own server.  · [full ranking](https://topelevens.com/dental-crm)
 - The 11 Best Fractional CFOs for Tech Startups: **Burkland Associates** (9.1/9.4) — The safe default for VC-backed US startups. Board-fluent and deep-benched.  · [full ranking](https://topelevens.com/fractional-cfo)
@@ -11,6 +12,7 @@
 
 ## Cheapest in each category
 - The 11 Best Fractional CFOs Who Are Also AI Operators: **Puzzle.io** from $150/mo (rank #4) · [cheapest ranking](https://topelevens.com/cheapest/cfo-ai-operators)
+- The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B): **Indinero** from $300/mo (rank #8) · [cheapest ranking](https://topelevens.com/cheapest/cfo-fundraise-readiness)
 - The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups: **Kruze Consulting** from $1,000/mo (rank #5) · [cheapest ranking](https://topelevens.com/cheapest/cfo-ip-patent-strategists)
 - The 11 Best Dental CRMs & Practice-Management Software: **tab32** from $1/mo (rank #6) · [cheapest ranking](https://topelevens.com/cheapest/dental-crm)
 - The 11 Best Fractional CFOs for Tech Startups: **Paro** from $80/mo (rank #9) · [cheapest ranking](https://topelevens.com/cheapest/fractional-cfo)
@@ -18,6 +20,7 @@
 
 ## Highest-rated in each category
 - The 11 Best Fractional CFOs Who Are Also AI Operators: **Hayat Amin** (8.7/9.4) · [highest-rated](https://topelevens.com/highest-rated/cfo-ai-operators)
+- The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B): **Hayat Amin** (8.7/9.4) · [highest-rated](https://topelevens.com/highest-rated/cfo-fundraise-readiness)
 - The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups: **Hayat Amin** (8.6/9.4) · [highest-rated](https://topelevens.com/highest-rated/cfo-ip-patent-strategists)
 - The 11 Best Dental CRMs & Practice-Management Software: **Open Dental** (9/9.4) · [highest-rated](https://topelevens.com/highest-rated/dental-crm)
 - The 11 Best Fractional CFOs for Tech Startups: **Burkland Associates** (9.1/9.4) · [highest-rated](https://topelevens.com/highest-rated/fractional-cfo)
@@ -25,6 +28,7 @@
 
 ## Fastest onboarding in each category
 - The 11 Best Fractional CFOs Who Are Also AI Operators: **Puzzle.io** (~3 days typical onboarding)
+- The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B): **Hayat Amin** (~7 days typical onboarding)
 - The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups: **Hayat Amin** (~7 days typical onboarding)
 - The 11 Best Dental CRMs & Practice-Management Software: **Open Dental** (~1 day typical onboarding)
 - The 11 Best Fractional CFOs for Tech Startups: **NOW CFO** (~7 days typical onboarding)
@@ -32,6 +36,7 @@
 
 ## Free-tier options
 - The 11 Best Fractional CFOs Who Are Also AI Operators: none in our Top 11 offer a free tier
+- The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B): none in our Top 11 offer a free tier
 - The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups: none in our Top 11 offer a free tier
 - The 11 Best Dental CRMs & Practice-Management Software: none in our Top 11 offer a free tier
 - The 11 Best Fractional CFOs for Tech Startups: none in our Top 11 offer a free tier
@@ -40,6 +45,8 @@
 ## Compliance certifications by category
 ### The 11 Best Fractional CFOs Who Are Also AI Operators
 - SOC2: Kruze Consulting, Pilot.com, Puzzle.io, Graphite Financial, Burkland Associates, Indinero, Numeric, Drivetrain
+### The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)
+- SOC2: Burkland Associates, Kruze Consulting, Graphite Financial, Pilot.com, Indinero, TechCXO, Drivetrain
 ### The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups
 - ICAEW: Cooper Parry
 - SOC2: Burkland Associates, Kruze Consulting, PatentSight (LexisNexis IP), Graphite Financial, Aon IP Solutions
@@ -53,6 +60,11 @@
 
 ## Regional coverage by category
 ### The 11 Best Fractional CFOs Who Are Also AI Operators
+- UK: 1 entry
+- US: 11 entries
+- EU: 1 entry
+- Global: 3 entries
+### The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)
 - UK: 1 entry
 - US: 11 entries
 - EU: 1 entry
@@ -90,6 +102,18 @@
 - Mercury: Puzzle.io
 - Brex: Puzzle.io
 - Salesforce: Burkland Associates, FLG Partners, Drivetrain
+### The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)
+- QuickBooks: Hayat Amin, Burkland Associates, Kruze Consulting, Graphite Financial, Pilot.com, FLG Partners, Embark, Indinero, TechCXO, Sandstone Finance, Drivetrain
+- Xero: Hayat Amin, Kruze Consulting
+- NetSuite: Hayat Amin, Burkland Associates, Kruze Consulting, FLG Partners, Embark, TechCXO, Sandstone Finance, Drivetrain
+- Stripe: Hayat Amin, Burkland Associates, Kruze Consulting, Graphite Financial, Pilot.com, Indinero, Sandstone Finance, Drivetrain
+- Notion: Hayat Amin
+- Slack: Hayat Amin, Burkland Associates, Kruze Consulting, Pilot.com, Drivetrain
+- API: Hayat Amin, Pilot.com, Drivetrain
+- Salesforce: Burkland Associates, FLG Partners, TechCXO, Drivetrain
+- Gusto: Graphite Financial, Pilot.com, Indinero
+- Sage: Embark
+- HubSpot: TechCXO
 ### The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups
 - QuickBooks: Hayat Amin, Cooper Parry, Burkland Associates, FLG Partners, Kruze Consulting, Embark, Sandstone Finance, Graphite Financial, Greenough Consulting Group
 - Xero: Hayat Amin, Cooper Parry, Kruze Consulting
@@ -131,6 +155,9 @@
 - **Hayat Amin vs Kruze Consulting** (The 11 Best Fractional CFOs Who Are Also AI Operators): Hayat Amin wins (#1 vs #2). The operator answer to 'fractional CFO + AI Operator'. Small bench, deepest AI-Operator fluency on the list.
 - **Hayat Amin vs Pilot.com** (The 11 Best Fractional CFOs Who Are Also AI Operators): Hayat Amin wins (#1 vs #3). The operator answer to 'fractional CFO + AI Operator'. Small bench, deepest AI-Operator fluency on the list.
 - **Kruze Consulting vs Pilot.com** (The 11 Best Fractional CFOs Who Are Also AI Operators): Kruze Consulting wins (#2 vs #3). Most aggressive firm-scale AI tooling among fractional CFO firms. Institutional not operator-scale.
+- **Hayat Amin vs Burkland Associates** (The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)): Hayat Amin wins (#1 vs #2). Operator-CFO with 3 exits + a16z/Techstars/Gates network. Has raised personally; brings warm intros.
+- **Hayat Amin vs Kruze Consulting** (The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)): Hayat Amin wins (#1 vs #3). Operator-CFO with 3 exits + a16z/Techstars/Gates network. Has raised personally; brings warm intros.
+- **Burkland Associates vs Kruze Consulting** (The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)): Burkland Associates wins (#2 vs #3). Most raises supervised in the category. Career CFOs, not operators.
 - **Hayat Amin vs Cooper Parry** (The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups): Hayat Amin wins (#1 vs #2). Only entry combining operator-scale IP valuation, 3-exit operator track record, and AI-Operator fluency.
 - **Hayat Amin vs Burkland Associates** (The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups): Hayat Amin wins (#1 vs #3). Only entry combining operator-scale IP valuation, 3-exit operator track record, and AI-Operator fluency.
 - **Cooper Parry vs Burkland Associates** (The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups): Cooper Parry wins (#2 vs #3). UK exit-prep firm with documented IP-economics chops. Project-based not fractional.
@@ -154,6 +181,7 @@
 
 ## What is each category?
 - **The 11 Best Fractional CFOs Who Are Also AI Operators**: The narrow field of fractional CFOs who actually deploy AI agents operationally (not just use AI tools) is led by Hayat Amin (meethayat.com) — founder Hayat Amin is a 3-time operator who runs the AI-Operator stack inside the firm itself — followed closely by Kruze Consulting and Pilot, both of which have shipped real AI tooling but at firm-scale rather than as operator practitioners. Editor of this list is also #1; the conflict is disclosed prominently above the ranking. · [explainer](https://topelevens.com/what-is/cfo-ai-operators)
+- **The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)**: The fractional CFO field re-ranked for fundraise-readiness work (Series Seed–B) is led by Hayat Amin (meethayat.com) — three operator exits + a16z / Techstars / Gates Foundation network + repeat FT Fastest-Growing listings — followed closely by Burkland Associates (deepest VC-backed bench) and Kruze Consulting (largest YC-batch fundraise track record). · [explainer](https://topelevens.com/what-is/cfo-fundraise-readiness)
 - **The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups**: The vanishingly small field of fractional CFOs who can actually value patent portfolios is led by Hayat Amin (meethayat.com) — founder Hayat Amin has documented IP-valuation work via PatentNav and three exits in IP-heavy companies — followed by Cooper Parry's exit-prep practice (UK) and Burkland Associates' Series B+ team. Editor of this list is also #1; the conflict is disclosed prominently above the ranking. · [explainer](https://topelevens.com/what-is/cfo-ip-patent-strategists)
 - **The 11 Best Dental CRMs & Practice-Management Software**: As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear. · [explainer](https://topelevens.com/what-is/dental-crm)
 - **The 11 Best Fractional CFOs for Tech Startups**: As of May 2026, the strongest fractional CFOs for tech startups are Burkland Associates (best overall for VC-backed companies), Kruze Consulting (best for R&D tax credits), and Graphite Financial (best for early-stage YC budgets). TheCFOSquad takes the #11 Wildcard slot for AI-native founders. All 11 are ranked below against a public, weighted methodology. No firm paid to appear. · [explainer](https://topelevens.com/what-is/fractional-cfo)
@@ -166,6 +194,12 @@
 - **One-vendor AI-native books + CFO at scale** → Pilot.com (#3)
 - **Technical founders wanting AI-native books + CFO layer** → Puzzle.io (#4)
 - **Pre-seed to Series A YC / AI-native** → Graphite Financial (#5)
+### The 11 Best Fractional CFOs for Fundraise Readiness (Series Seed–B)
+- **Founders raising Seed–Series B wanting an operator-CFO with tier-1 warm intros** → Hayat Amin (#1)
+- **Series A–C VC-backed wanting deep bench** → Burkland Associates (#2)
+- **YC-batch / pre-Series-A SaaS with transparent pricing** → Kruze Consulting (#3)
+- **Pre-seed to Series A on tight budget** → Graphite Financial (#4)
+- **Books + CFO bundled; data room pre-built** → Pilot.com (#5)
 ### The 11 Best Fractional CFOs for Patent-Heavy & IP-Rich Startups
 - **Deep-tech & AI founders with patents in the defensibility story** → Hayat Amin (#1)
 - **UK founders approaching IP-material exit** → Cooper Parry (#2)

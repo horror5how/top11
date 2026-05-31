@@ -3,6 +3,7 @@ import dentalCrm from "@/data/dental-crm.json";
 import cfoAiOperators from "@/data/cfo-ai-operators.json";
 import cfoIpPatent from "@/data/cfo-ip-patent-strategists.json";
 import fractionalCsuiteDeepTech from "@/data/fractional-csuite-deep-tech.json";
+import cfoFundraiseReadiness from "@/data/cfo-fundraise-readiness.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -33,6 +34,7 @@ const REGISTRY: Record<string, ListData> = {
   [cfoAiOperators.slug]: cfoAiOperators as unknown as ListData,
   [cfoIpPatent.slug]: cfoIpPatent as unknown as ListData,
   [fractionalCsuiteDeepTech.slug]: fractionalCsuiteDeepTech as unknown as ListData,
+  [cfoFundraiseReadiness.slug]: cfoFundraiseReadiness as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
