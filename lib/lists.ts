@@ -26,6 +26,8 @@ import smbHris from "@/data/smb-hris.json";
 import noCodePlatforms from "@/data/no-code-platforms.json";
 import automationPlatforms from "@/data/automation-platforms.json";
 import capTableSoftware from "@/data/cap-table-software.json";
+import treasuryManagementStartups from "@/data/treasury-management-startups.json";
+import complianceAutomation from "@/data/compliance-automation.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -79,6 +81,8 @@ const REGISTRY: Record<string, ListData> = {
   [noCodePlatforms.slug]: noCodePlatforms as unknown as ListData,
   [automationPlatforms.slug]: automationPlatforms as unknown as ListData,
   [capTableSoftware.slug]: capTableSoftware as unknown as ListData,
+  [treasuryManagementStartups.slug]: treasuryManagementStartups as unknown as ListData,
+  [complianceAutomation.slug]: complianceAutomation as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

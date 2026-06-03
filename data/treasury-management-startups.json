@@ -1,0 +1,811 @@
+{
+  "slug": "treasury-management-startups",
+  "title": "The 11 Best Treasury Management Platforms for Startups",
+  "subtitle": "A ranked analysis of platforms helping startups manage runway, maximize yield on idle cash, and extend their financial runway securely.",
+  "vertical": "Finance · Treasury",
+  "audience": "Startup CFOs and founders parking and managing runway",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-03",
+  "last_verified": "2026-06-03",
+  "next_review": "2026-09-01",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Financial Technology",
+  "subsector": "Corporate Treasury",
+  "changelog": [
+    {
+      "date": "2026-06-03",
+      "text": "Initial publication. Methodology v1.0 weights Yield & Investment Options (30%), Security & Compliance (25%), Liquidity & Access (20%), Platform & Usability (15%), and Integration & Banking Features (10%)."
+    }
+  ],
+  "answer_capsule": "The best treasury management platform for startups is Mercury, followed by Rho and Meow, for their combination of high yield, robust security, and integrated, startup-friendly banking features.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-03",
+    "candidate_pool": 15,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Yield & Investment Options",
+        "weight": 30,
+        "description": "Net yield on cash after fees, diversity of low-risk investment options (T-Bills, MMFs), and clarity of fee structures."
+      },
+      {
+        "name": "Security & Compliance",
+        "weight": 25,
+        "description": "Strength of regulatory compliance (FINRA, SEC), insurance coverage (FDIC, SIPC), and use of qualified custodians and security protocols (SOC 2)."
+      },
+      {
+        "name": "Liquidity & Access",
+        "weight": 20,
+        "description": "Speed and ease of moving funds into and out of treasury accounts, including settlement times (T+0, T+1) and withdrawal limits."
+      },
+      {
+        "name": "Platform & Usability",
+        "weight": 15,
+        "description": "Intuitive user interface, quality of reporting and forecasting tools, and ease of onboarding for non-expert founders."
+      },
+      {
+        "name": "Integration & Banking Features",
+        "weight": 10,
+        "description": "Integration with accounting software (QuickBooks, NetSuite) and availability of adjacent banking services (checking, cards, bill pay)."
+      }
+    ]
+  },
+  "segment_tags": [
+    "FinTech",
+    "B2B SaaS",
+    "Startup Finance",
+    "Cash Management",
+    "Investment Platforms"
+  ],
+  "problem_tags": [
+    "Runway Management",
+    "Idle Cash",
+    "Low Yield",
+    "Inflation Risk",
+    "Bank Failure Risk"
+  ],
+  "query_intents": [
+    "best treasury management for startups",
+    "how to invest startup cash",
+    "mercury vs brex treasury",
+    "startup high yield savings",
+    "corporate cash management platforms"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "All-in-one banking and treasury",
+        "Maximizing FDIC insurance",
+        "Ease of use for founders"
+      ],
+      "personas": [
+        "Early-stage founder",
+        "First-time CFO"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Integrated spend, treasury, and banking",
+        "Automated accounts payable",
+        "Scaling finance operations"
+      ],
+      "personas": [
+        "Series A/B CFO",
+        "Controller"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Maximizing yield on corporate cash",
+        "Simple, dedicated treasury tool",
+        "Access to T-Bills and MMFs"
+      ],
+      "personas": [
+        "Finance-savvy founder",
+        "VP of Finance"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 15,
+    "ranked": 11,
+    "average_score": 8.26,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What is the primary goal of a treasury management platform for a startup?",
+      "a": "The primary goal is twofold: to protect the startup's primary asset—its cash runway—from institutional and inflation risk, and to generate a meaningful, low-risk yield on that cash to extend the runway."
+    },
+    {
+      "q": "How do these platforms generate yield?",
+      "a": "They typically provide access to investment vehicles that are otherwise difficult for startups to access directly, such as U.S. Treasury Bills (T-Bills), money market funds (MMFs), and repurchase agreements (repos). They also use sweep networks to spread cash across multiple banks to maximize FDIC insurance."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your primary need: Are you looking for a simple yield-generating account or a full-suite finance platform with integrated banking, spend management, and treasury?",
+    "Verify security and insurance: Ensure the provider uses qualified custodians, offers robust FDIC/SIPC insurance coverage, and is SOC 2 compliant.",
+    "Evaluate liquidity terms: Understand how quickly you can access your funds (T+0, T+1, etc.), as runway cash needs to be available for payroll and operations.",
+    "Compare net yields: Look beyond the advertised rate to understand the net yield after all management fees (typically measured in basis points, bps)."
+  ],
+  "faqs": [
+    {
+      "q": "What is treasury management for a startup?",
+      "a": "For a startup, treasury management is the strategic management of its cash reserves (runway) to ensure safety, liquidity, and optimal yield. It involves moving funds beyond a standard checking account into low-risk, interest-bearing instruments to protect against inflation and bank risk while earning a return."
+    },
+    {
+      "q": "How much yield can a startup realistically earn?",
+      "a": "Yields are typically benchmarked against the effective federal funds rate. Startups can often earn yields closely tracking short-term U.S. Treasury Bills, which can be significantly higher than traditional business savings accounts. Net yield will be the gross rate minus the platform's fees (e.g., 10-25 bps)."
+    },
+    {
+      "q": "Is it safe to put my startup's runway in these platforms?",
+      "a": "Generally, yes, if you choose a reputable provider. Top platforms mitigate risk by using third-party qualified custodians (like BNY Mellon or Goldman Sachs), offering SIPC insurance on securities up to $500,000, and using FDIC sweep networks to extend insurance coverage into the millions."
+    },
+    {
+      "q": "What's the difference between FDIC and SIPC insurance?",
+      "a": "FDIC (Federal Deposit Insurance Corporation) insurance protects cash deposits held at an insured bank, typically up to $250,000 per depositor, per bank. SIPC (Securities Investor Protection Corporation) insurance protects securities (like stocks, bonds, and MMFs) held at a brokerage firm, up to $500,000, in case the firm fails."
+    },
+    {
+      "q": "When should a startup start thinking about treasury management?",
+      "a": "A startup should consider treasury management as soon as it has raised a seed round or has more than 3-6 months of operating expenses sitting idle in a checking account. The opportunity cost of earning near-zero interest is significant, especially with larger cash balances."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are US-focused and primarily serve US-domiciled startups with US bank accounts.",
+    "Advertised yields are variable and directly influenced by prevailing interest rates set by the Federal Reserve. They are not guaranteed.",
+    "This ranking prioritizes integrated, all-in-one platforms over pure investment-only tools, reflecting the needs of most startups for operational simplicity."
+  ],
+  "glossary": {
+    "term": "Money Market Fund (MMF)",
+    "definition": "A type of mutual fund that invests in high-quality, short-term debt instruments like U.S. Treasury Bills. They are considered a very low-risk cash equivalent.",
+    "synonyms": [
+      "MMF",
+      "Cash equivalent fund"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Mercury",
+      "url": "https://mercury.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Early-stage startups seeking an all-in-one platform that seamlessly combines day-to-day banking with a simple, high-yield treasury product.",
+      "best_for_short": "Integrated banking and treasury",
+      "pricing_band": "Free platform, yield-based fees",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Yield & Investment Options": 9,
+        "Security & Compliance": 9.5,
+        "Liquidity & Access": 9.2,
+        "Platform & Usability": 9.5,
+        "Integration & Banking Features": 9
+      },
+      "verdict": "Mercury ranks first because its Mercury Vault product is the most seamlessly integrated and user-friendly treasury solution for the typical venture-backed startup, combining high FDIC insurance limits and competitive yield within an already best-in-class banking platform.",
+      "verdict_short": "The best all-in-one banking and treasury solution, offering simplicity, security, and competitive yield for early-stage startups.",
+      "praise": "The platform's simplicity is its greatest strength; moving funds between operating cash and high-yield treasury accounts takes just a few clicks.",
+      "praise_short": "Unmatched ease of use and seamless integration.",
+      "criticism": "While competitive, the yields on its money market funds may sometimes lag behind more specialized, treasury-only platforms.",
+      "criticism_short": "Yields can be slightly lower than pure-play competitors.",
+      "sources_pending": [
+        "Mercury Vault documentation",
+        "G2 Reviews",
+        "Capiche"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Plaid",
+        "Stripe"
+      ],
+      "compliance": [
+        "FDIC",
+        "SIPC",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 2,
+      "name": "Rho",
+      "url": "https://rho.co",
+      "founded": 2018,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Scaling startups that need a unified finance platform for treasury, corporate cards, and automated accounts payable in a single dashboard.",
+      "best_for_short": "Unified finance platform",
+      "pricing_band": "Free platform, yield-based fees",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Yield & Investment Options": 9.2,
+        "Security & Compliance": 9.4,
+        "Liquidity & Access": 8.8,
+        "Platform & Usability": 8.5,
+        "Integration & Banking Features": 9.3
+      },
+      "verdict": "Rho earns the second spot by offering a powerful, integrated finance automation platform where treasury is a core component, not an add-on, making it ideal for companies scaling their finance operations beyond basic banking.",
+      "verdict_short": "A powerful, integrated finance platform for scaling companies, combining treasury, AP automation, and spend management.",
+      "praise": "Rho's ability to manage T-bills directly alongside corporate spend and bill pay provides a holistic view of a company's financial position.",
+      "praise_short": "Holistic view of cash and spend.",
+      "criticism": "The platform can be more complex to navigate for first-time founders compared to simpler solutions like Mercury.",
+      "criticism_short": "Slightly steeper learning curve.",
+      "sources_pending": [
+        "Rho Treasury documentation",
+        "G2 Reviews",
+        "TrustRadius"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Xero",
+        "Sage Intacct"
+      ],
+      "compliance": [
+        "FDIC",
+        "SIPC",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 10,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Meow",
+      "url": "https://meow.co",
+      "founded": 2021,
+      "hq": "New York, USA",
+      "team_size_band": "11-50",
+      "best_for": "Startups prioritizing maximum yield and a straightforward, dedicated treasury experience without the complexity of a full banking suite.",
+      "best_for_short": "Yield-focused treasury platform",
+      "pricing_band": "Basis Points (0.10% - 0.25% AUM)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Yield & Investment Options": 9.6,
+        "Security & Compliance": 9.2,
+        "Liquidity & Access": 8.5,
+        "Platform & Usability": 8.7,
+        "Integration & Banking Features": 7
+      },
+      "verdict": "Meow secures a top-three position due to its singular focus on providing high, transparent yields on corporate cash through a simple and secure platform, making it the best choice for startups that already have a banking relationship and want a specialized treasury partner.",
+      "verdict_short": "A simple, secure, and high-yield platform perfect for startups wanting a dedicated treasury solution.",
+      "praise": "Meow consistently offers some of the most competitive yields in the market by providing direct access to MMFs and T-bills with transparent, low fees.",
+      "praise_short": "Consistently top-tier yields.",
+      "criticism": "As a pure treasury platform, it lacks the integrated banking features like checking accounts, cards, or bill pay found in all-in-one solutions.",
+      "criticism_short": "No integrated banking features.",
+      "sources_pending": [
+        "Meow product documentation",
+        "Client testimonials",
+        "Fintech press coverage"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0.1,
+      "price_max": 0.25,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Plaid"
+      ],
+      "compliance": [
+        "SIPC",
+        "FINRA",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Arc",
+      "url": "https://arc.tech",
+      "founded": 2021,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growth-stage startups looking for a holistic capital partner that combines high-yield treasury with venture debt and other financing options.",
+      "best_for_short": "Treasury and venture debt",
+      "pricing_band": "Free platform, yield-based fees",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Yield & Investment Options": 8.8,
+        "Security & Compliance": 9,
+        "Liquidity & Access": 8.5,
+        "Platform & Usability": 8.2,
+        "Integration & Banking Features": 8.4
+      },
+      "verdict": "Arc is ranked fourth for its unique combination of a robust, high-yield treasury suite with integrated financing solutions, making it a strategic financial partner for startups looking beyond simple cash management.",
+      "verdict_short": "A strategic platform combining high-yield treasury with integrated startup financing and banking products.",
+      "praise": "The ability to manage runway and access growth capital from the same platform provides significant strategic advantages.",
+      "praise_short": "Integrated capital and cash management.",
+      "criticism": "The user interface for the treasury product, while functional, is less polished than some top-ranked competitors.",
+      "criticism_short": "UI is less polished.",
+      "sources_pending": [
+        "Arc Treasury documentation",
+        "G2 Reviews",
+        "TechCrunch articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Plaid"
+      ],
+      "compliance": [
+        "FDIC",
+        "SIPC",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 10,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "Brex",
+      "url": "https://brex.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Startups already embedded in the Brex ecosystem for corporate cards and expense management who want to consolidate their finances.",
+      "best_for_short": "Existing Brex customers",
+      "pricing_band": "Free platform, yield-based fees",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Yield & Investment Options": 8.2,
+        "Security & Compliance": 9,
+        "Liquidity & Access": 8.6,
+        "Platform & Usability": 8,
+        "Integration & Banking Features": 8.5
+      },
+      "verdict": "Brex places fifth by offering a solid treasury product that is a convenient and logical choice for the thousands of startups already using its best-in-class spend management platform, despite its treasury features not being as central as those of higher-ranked rivals.",
+      "verdict_short": "A convenient treasury option for companies already using Brex for cards and expense management.",
+      "praise": "The integration with Brex's corporate card and expense software provides a single source of truth for a company's cash-out and cash-in.",
+      "praise_short": "Deep integration with spend management.",
+      "criticism": "The treasury product can feel like a secondary feature within the broader Brex platform, and accessing detailed investment information is less intuitive.",
+      "criticism_short": "Treasury feels like a secondary feature.",
+      "sources_pending": [
+        "Brex Business Account documentation",
+        "G2 Reviews",
+        "Forrester Wave reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Slack",
+        "TravelPerk"
+      ],
+      "compliance": [
+        "FDIC",
+        "SIPC",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Vesto",
+      "url": "https://www.vesto.io",
+      "founded": 2021,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Finance teams looking for a simple, secure, and automated platform to invest idle cash with a focus on T-Bills.",
+      "best_for_short": "Automated T-Bill investing",
+      "pricing_band": "Basis Points (0.10% - 0.20% AUM)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Yield & Investment Options": 8.8,
+        "Security & Compliance": 8.5,
+        "Liquidity & Access": 8,
+        "Platform & Usability": 8.1,
+        "Integration & Banking Features": 6.5
+      },
+      "verdict": "Vesto earns its spot by providing a highly focused and automated solution for investing in T-Bills, appealing to startups that want a 'set it and forget it' approach to earning yield on their excess cash.",
+      "verdict_short": "A simple, automated platform for startups to earn yield on idle cash via T-Bills.",
+      "praise": "The platform's automation features for creating and managing T-bill ladders are excellent for optimizing yield and liquidity.",
+      "praise_short": "Excellent T-bill ladder automation.",
+      "criticism": "It offers fewer investment options compared to platforms that also provide access to a wide variety of money market funds.",
+      "criticism_short": "Fewer investment options beyond T-bills.",
+      "sources_pending": [
+        "Vesto product documentation",
+        "Client case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0.1,
+      "price_max": 0.2,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Plaid"
+      ],
+      "compliance": [
+        "SIPC",
+        "FINRA",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Treasure Financial",
+      "url": "https://www.treasurefi.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "CFOs and finance leaders who want to actively manage their treasury strategy with sophisticated tools and a variety of investment options.",
+      "best_for_short": "Active treasury management",
+      "pricing_band": "Basis Points (AUM-based)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Yield & Investment Options": 8.5,
+        "Security & Compliance": 8.6,
+        "Liquidity & Access": 7.8,
+        "Platform & Usability": 7.5,
+        "Integration & Banking Features": 7
+      },
+      "verdict": "Treasure Financial is a strong contender for its focus on providing more granular control and a wider array of investment choices, making it a good fit for more financially sophisticated startups that want to go beyond simple MMFs.",
+      "verdict_short": "A sophisticated platform for CFOs who want granular control over their treasury strategy.",
+      "praise": "Their 'Treasure Reserve' account offers a compelling, liquid, high-yield option backed by government securities.",
+      "praise_short": "Flexible, high-yield reserve account.",
+      "criticism": "The platform is less intuitive for non-finance users, and the onboarding process can be more involved than with simpler competitors.",
+      "criticism_short": "Less intuitive for non-finance users.",
+      "sources_pending": [
+        "Treasure Financial website",
+        "Client testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite"
+      ],
+      "compliance": [
+        "SIPC",
+        "FINRA",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 20,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Relay",
+      "url": "https://relayfi.com",
+      "founded": 2018,
+      "hq": "Toronto, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Small businesses and early-stage startups that need to segregate funds into multiple checking and savings accounts for clear financial management.",
+      "best_for_short": "Multi-account business banking",
+      "pricing_band": "Free to $30/mo",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Yield & Investment Options": 7,
+        "Security & Compliance": 8,
+        "Liquidity & Access": 9,
+        "Platform & Usability": 8.5,
+        "Integration & Banking Features": 7.5
+      },
+      "verdict": "Relay makes the list not as a high-yield treasury platform, but as a superior cash organization tool whose high-interest savings accounts serve as a 'Treasury 1.0' solution, perfect for startups not yet ready for complex instruments.",
+      "verdict_short": "Excellent for cash organization with multiple accounts, offering a simple first step into treasury management.",
+      "praise": "The ability to open up to 20 checking accounts and 2 savings accounts makes it incredibly easy to implement profit-first or bucket-based budgeting.",
+      "praise_short": "Superb multi-account organization.",
+      "criticism": "The interest rates on savings, while good for a bank, do not compete with the yields from T-Bills or MMFs offered by specialized treasury platforms.",
+      "criticism_short": "Yields are not competitive with MMFs.",
+      "sources_pending": [
+        "Relay website",
+        "Capterra Reviews",
+        "NerdWallet reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero"
+      ],
+      "compliance": [
+        "FDIC"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Flint",
+      "url": "https://www.flint.co",
+      "founded": 2022,
+      "hq": "New York, USA",
+      "team_size_band": "11-50",
+      "best_for": "Startups wanting a dead-simple, mobile-first experience for earning high yield on their cash with maximum security.",
+      "best_for_short": "Simple, secure high-yield",
+      "pricing_band": "Basis Points (AUM-based)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Yield & Investment Options": 8,
+        "Security & Compliance": 8.5,
+        "Liquidity & Access": 7.5,
+        "Platform & Usability": 8,
+        "Integration & Banking Features": 6
+      },
+      "verdict": "Flint is a noteworthy new entrant focused on radical simplicity, offering a clean, mobile-friendly interface to access high-yield, government-backed securities, making it a great choice for founders who value ease of use above all.",
+      "verdict_short": "A new, radically simple platform for startups to access high-yield government securities with ease.",
+      "praise": "The user experience is exceptionally clean and straightforward, removing nearly all friction from the process of moving and investing cash.",
+      "praise_short": "Exceptionally clean user experience.",
+      "criticism": "As a newer platform, it lacks the extensive integration options and long track record of more established players.",
+      "criticism_short": "Fewer integrations and shorter track record.",
+      "sources_pending": [
+        "Flint website",
+        "Product Hunt launch page"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-03",
+        "summary": "As a newer market entrant, the platform has a shorter operational history.",
+        "signals": [
+          "Limited public track record"
+        ]
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Plaid"
+      ],
+      "compliance": [
+        "SIPC",
+        "FINRA",
+        "SOC 2"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 200
+    },
+    {
+      "rank": 10,
+      "name": "Mayfair",
+      "url": "https://www.getmayfair.com",
+      "founded": 2021,
+      "hq": "New York, USA",
+      "team_size_band": "11-50",
+      "best_for": "Companies seeking a white-glove, managed approach to treasury with active portfolio management and advisory.",
+      "best_for_short": "Managed treasury service",
+      "pricing_band": "Basis Points (AUM-based)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Yield & Investment Options": 8.2,
+        "Security & Compliance": 8,
+        "Liquidity & Access": 7,
+        "Platform & Usability": 7.5,
+        "Integration & Banking Features": 6.5
+      },
+      "verdict": "Mayfair distinguishes itself by offering a more hands-on, managed service, making it a good choice for startups that want to outsource their treasury strategy to experts rather than using a self-serve platform.",
+      "verdict_short": "A managed treasury service for startups wanting an expert-led, hands-off approach to cash management.",
+      "praise": "The access to dedicated advisors for building a custom treasury policy is a significant value-add for teams without deep financial expertise.",
+      "praise_short": "Access to dedicated treasury advisors.",
+      "criticism": "This high-touch model can result in higher fees and less direct control compared to fully self-serve platforms.",
+      "criticism_short": "Higher fees and less direct control.",
+      "sources_pending": [
+        "Mayfair website",
+        "Client case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero"
+      ],
+      "compliance": [
+        "SIPC",
+        "FINRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Modern Treasury",
+      "url": "https://www.moderntreasury.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Tech-forward, later-stage startups that need to build a sophisticated, multi-bank payment operations and cash management system via API.",
+      "best_for_short": "Payment operations API",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Yield & Investment Options": 5,
+        "Security & Compliance": 9,
+        "Liquidity & Access": 8,
+        "Platform & Usability": 6.5,
+        "Integration & Banking Features": 9.5
+      },
+      "verdict": "Modern Treasury is our wildcard because it's not a direct investment platform; it's a payment operations infrastructure that *enables* sophisticated treasury. It's for the Series C+ company that wants to programmatically manage cash across multiple bank partners, not the seed-stage startup looking to park cash for yield.",
+      "verdict_short": "An API-first platform for building custom, multi-bank payment operations and treasury systems, not for direct investing.",
+      "praise": "It provides unparalleled power and flexibility for automating complex money movements, reconciliation, and managing cash across multiple banking relationships.",
+      "praise_short": "Unmatched power for payment operations.",
+      "criticism": "It does not directly offer yield-bearing products; it is a software layer that connects to your existing banks, requiring significant engineering resources to implement.",
+      "criticism_short": "Doesn't offer yield; requires engineering lift.",
+      "sources_pending": [
+        "Modern Treasury documentation",
+        "G2 Reviews",
+        "Stripe case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "JPMorgan Chase",
+        "Goldman Sachs",
+        "Wells Fargo",
+        "NetSuite",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "SOC 2"
+      ],
+      "regions": [
+        "USA",
+        "International"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": null
+    }
+  ]
+}

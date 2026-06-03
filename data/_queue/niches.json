@@ -150,22 +150,6 @@
       "priority": 3
     },
     {
-      "slug": "treasury-management-startups",
-      "title": "The 11 Best Treasury Management Platforms for Startups",
-      "vertical": "Finance · Treasury",
-      "audience": "Startup CFOs and founders parking and managing runway",
-      "candidate_pool_size": 15,
-      "priority": 2
-    },
-    {
-      "slug": "compliance-automation",
-      "title": "The 11 Best Compliance Automation Platforms (SOC2, HIPAA, ISO27001)",
-      "vertical": "Security · Compliance",
-      "audience": "Engineering and security leaders pursuing SOC2/HIPAA/ISO27001",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "penetration-testing-services",
       "title": "The 11 Best Penetration Testing Services",
       "vertical": "Security · Pentest",
@@ -473,7 +457,9 @@
     "shopify-apps-conversion",
     "no-code-platforms",
     "automation-platforms",
-    "cap-table-software"
+    "cap-table-software",
+    "treasury-management-startups",
+    "compliance-automation"
   ],
   "skipped": []
 }
