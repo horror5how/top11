@@ -1,0 +1,36 @@
+name: Deploy to Vercel (production)
+
+# Deterministic production deploy (GitHub->Vercel auto-deploy is unreliable on
+# this project). Fires on human/agent pushes to content paths, or on demand.
+# Note: pushes made by other workflows' GITHUB_TOKEN do NOT trigger this (by
+# design) — those workflows (list-factory, pulse) deploy themselves.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "data/**"
+      - "lib/**"
+      - "public/**"
+      - "scripts/**"
+
+permissions:
+  contents: read
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: team_oEv2jNzUwbHWI1N6lMhsOh86
+      VERCEL_PROJECT_ID: prj_aNAcywzzJZK5QYucfPeTulZyqGMe
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - name: Deploy to production
+        run: npx -y vercel@latest --prod --yes --token "$VERCEL_TOKEN"
+      - name: Ping IndexNow
+        run: node scripts/indexnow-push.mjs || true
