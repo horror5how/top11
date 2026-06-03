@@ -1,0 +1,20 @@
+name: CEO daily — Top Eleven growth loop
+
+on:
+  schedule:
+    - cron: "0 8 * * *"   # 08:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  ceo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Run CEO daily growth loop
+        env:
+          GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+        run: node scripts/ceo-daily.mjs

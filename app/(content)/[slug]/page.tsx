@@ -16,6 +16,7 @@ import {
 import VoteWidget from "@/app/components/VoteWidget";
 import ComplaintForm from "@/app/components/ComplaintForm";
 import CiteWidget from "@/app/components/CiteWidget";
+import RelatedLinks from "@/app/components/RelatedLinks";
 
 export function generateStaticParams() {
   return listSlugs().map((slug) => ({ slug }));
@@ -447,6 +448,8 @@ export default async function ListPage({ params }: { params: Promise<{ slug: str
           }} />
         </section>
       ) : null}
+
+      <RelatedLinks slug={list.slug} />
 
       <section className="mb-8 border-t border-ink/10 pt-8 text-sm space-y-2 text-ink/60">
         <h2 className="text-base font-bold text-ink mb-3">Honest disclosures</h2>
