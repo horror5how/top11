@@ -6,6 +6,33 @@
 
 import { getList } from "@/lib/lists";
 import { brandSlug } from "@/lib/matchups";
+
+// Vertical clusters — used to cross-link sibling lists so orphaned pages get
+// a crawl path from every indexed peer page (not just the home page).
+const VERTICAL_CLUSTERS: string[][] = [
+  [
+    "fractional-cfo", "cfo-ai-operators", "cfo-fundraise-readiness",
+    "cfo-ip-patent-strategists", "fractional-csuite-deep-tech", "saas-bookkeeping",
+    "fractional-cmo", "fractional-coo", "fractional-cto",
+  ],
+  [
+    "ai-coding-assistants", "ai-agent-builders", "ai-observability-platforms",
+    "llm-evaluation-platforms", "prompt-engineering-tools", "rag-frameworks",
+    "vector-databases",
+  ],
+  ["ai-meeting-assistants", "ai-sales-tools", "ai-customer-support"],
+  ["dental-crm", "legal-crm", "real-estate-crm"],
+  [
+    "smb-payroll", "smb-hris", "no-code-platforms",
+    "construction-project-management",
+  ],
+];
+
+function peerSlugs(slug: string): string[] {
+  const cluster = VERTICAL_CLUSTERS.find((g) => g.includes(slug));
+  if (!cluster) return [];
+  return cluster.filter((s) => s !== slug).slice(0, 5);
+}
 import {
   segmentsFor,
   integrationsFor,
@@ -29,6 +56,18 @@ export function relatedLinksFor(slug: string): LinkGroup[] {
 
   const groups: LinkGroup[] = [];
   const entries = list.entries.slice().sort((a, b) => a.rank - b.rank);
+
+  // Cross-list peer links — creates crawl paths from indexed pages to sibling lists
+  const peers = peerSlugs(slug);
+  if (peers.length) {
+    const peerLinks = peers
+      .map((s) => getList(s))
+      .filter((l): l is NonNullable<ReturnType<typeof getList>> => l != null)
+      .map((l) => ({ href: `/${l.slug}`, label: l.title }));
+    if (peerLinks.length) {
+      groups.push({ title: "More rankings in this category", links: peerLinks });
+    }
+  }
 
   // Ranking views (always present, one per list)
   groups.push({
