@@ -51,13 +51,24 @@ jobs:
         run: node scripts/pulse/run.mjs ${{ github.event.inputs.list || 'fractional-cfo' }}
 
       - name: Commit refreshed pulse
+        id: commit
         run: |
           git config user.email "pulse-bot@top11.co"
           git config user.name "Top 11 Pulse Bot"
           git add data/pulse/
           if git diff --staged --quiet; then
             echo "No pulse changes."
-            exit 0
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "chore(pulse): nightly refresh $(date -u +%Y-%m-%d)"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
-          git commit -m "chore(pulse): nightly refresh $(date -u +%Y-%m-%d)"
-          git push
+
+      - name: Deploy to Vercel (production)
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: team_oEv2jNzUwbHWI1N6lMhsOh86
+          VERCEL_PROJECT_ID: prj_aNAcywzzJZK5QYucfPeTulZyqGMe
+        run: npx -y vercel@latest --prod --yes --token "$VERCEL_TOKEN"

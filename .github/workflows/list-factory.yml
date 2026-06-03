@@ -1,9 +1,10 @@
 name: List factory (autonomous)
 
 # Runs every 4 hours. Pops the head of data/_queue/niches.json, generates the
-# Top 11 list for that niche via Claude API, builds, deploys to Vercel, pings
-# IndexNow. With 50 niches in the queue, this completes in ~8 days at one
-# niche per run, OR ~2 days at 3 niches per run.
+# Top 11 list for that niche via Gemini/Claude, commits, DEPLOYS to Vercel
+# (deterministic — GitHub→Vercel auto-deploy is unreliable on this project),
+# then pings IndexNow so new pages get crawled fast.
+# Default 2 niches/run × 6 runs/day = up to 12 new lists/day.
 
 on:
   schedule:
@@ -13,20 +14,20 @@ on:
       count:
         description: "How many niches to process this run (1-4)"
         required: false
-        default: "1"
+        default: "2"
 
 permissions:
   contents: write
 
-env:
-  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-  ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-  VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
-
 jobs:
   produce:
-    if: ${{ env.GEMINI_API_KEY != '' || env.ANTHROPIC_API_KEY != '' }}
     runs-on: ubuntu-latest
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+      VERCEL_ORG_ID: team_oEv2jNzUwbHWI1N6lMhsOh86
+      VERCEL_PROJECT_ID: prj_aNAcywzzJZK5QYucfPeTulZyqGMe
     steps:
       - uses: actions/checkout@v4
         with:
@@ -42,34 +43,34 @@ jobs:
           npm install --silent --no-save @anthropic-ai/sdk
 
       - name: Generate list(s)
-        id: gen
         run: |
           set -e
           COUNT="${{ github.event.inputs.count }}"
-          COUNT="${COUNT:-1}"
+          COUNT="${COUNT:-2}"
           for i in $(seq 1 "$COUNT"); do
             echo "=== Iteration $i / $COUNT ==="
             node scripts/generate-list.mjs || true
           done
 
-      - name: Configure git
+      - name: Commit + push (if anything changed)
+        id: commit
         run: |
           git config user.email "list-factory@topelevens.com"
           git config user.name "Top 11 List Factory"
-
-      - name: Commit + push (if anything changed)
-        run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "list-factory: produce $(date -u +%Y-%m-%d) batch"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Wait for Vercel auto-deploy
-        run: sleep 90
+      - name: Deploy to Vercel (production)
+        if: steps.commit.outputs.changed == 'true'
+        run: npx -y vercel@latest --prod --yes --token "$VERCEL_TOKEN"
 
-      - name: Ping IndexNow
-        if: ${{ hashFiles('scripts/indexnow-push.mjs') != '' }}
+      - name: Ping IndexNow (new pages)
+        if: steps.commit.outputs.changed == 'true'
         run: node scripts/indexnow-push.mjs || true
