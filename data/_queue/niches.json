@@ -142,14 +142,6 @@
       "priority": 3
     },
     {
-      "slug": "no-code-platforms",
-      "title": "The 11 Best No-Code Platforms for Builders",
-      "vertical": "Developer Tools · No-Code",
-      "audience": "Operators and founders building apps without engineers",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "automation-platforms",
       "title": "The 11 Best Automation Platforms (Zapier Alternatives)",
       "vertical": "Productivity · Automation",
@@ -213,37 +205,254 @@
       "candidate_pool_size": 30,
       "priority": 3
     },
-    { "slug": "project-management-software", "title": "The 11 Best Project Management Software", "vertical": "Productivity · PM", "audience": "Teams planning work, tasks, and timelines", "candidate_pool_size": 40, "priority": 2 },
-    { "slug": "time-tracking-software", "title": "The 11 Best Time Tracking Software", "vertical": "Productivity · Time", "audience": "Agencies and teams billing and tracking hours", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "help-desk-software", "title": "The 11 Best Help Desk Software", "vertical": "Support · Ticketing", "audience": "Support teams managing customer tickets", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "live-chat-software", "title": "The 11 Best Live Chat Software", "vertical": "Support · Chat", "audience": "Teams adding live chat and chatbots to their site", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "esignature-software", "title": "The 11 Best E-Signature Software", "vertical": "Operations · Documents", "audience": "Teams signing contracts and agreements online", "candidate_pool_size": 25, "priority": 2 },
-    { "slug": "applicant-tracking-systems", "title": "The 11 Best Applicant Tracking Systems", "vertical": "HR · Recruiting", "audience": "Recruiters and HR managing hiring pipelines", "candidate_pool_size": 35, "priority": 2 },
-    { "slug": "esign-proposal-software", "title": "The 11 Best Proposal Software", "vertical": "Sales · Proposals", "audience": "Sales teams sending quotes and proposals", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "contract-management-software", "title": "The 11 Best Contract Management Software", "vertical": "Legal · CLM", "audience": "Legal and ops teams managing contracts", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "appointment-scheduling-software", "title": "The 11 Best Appointment Scheduling Software", "vertical": "Operations · Scheduling", "audience": "Service businesses booking client appointments", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "inventory-management-software", "title": "The 11 Best Inventory Management Software", "vertical": "Operations · Inventory", "audience": "Product businesses tracking stock and orders", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "shipping-software-ecommerce", "title": "The 11 Best Shipping Software for Ecommerce", "vertical": "Ecommerce · Fulfillment", "audience": "Online stores managing shipping and labels", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "subscription-billing-software", "title": "The 11 Best Subscription Billing Software", "vertical": "Finance · Billing", "audience": "SaaS and subscription businesses billing customers", "candidate_pool_size": 25, "priority": 2 },
-    { "slug": "payment-gateways", "title": "The 11 Best Payment Gateways", "vertical": "Finance · Payments", "audience": "Businesses accepting online payments", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "product-analytics-tools", "title": "The 11 Best Product Analytics Tools", "vertical": "Analytics · Product", "audience": "Product teams measuring usage and funnels", "candidate_pool_size": 25, "priority": 2 },
-    { "slug": "session-replay-tools", "title": "The 11 Best Session Replay Tools", "vertical": "Analytics · UX", "audience": "Teams watching real user sessions and heatmaps", "candidate_pool_size": 20, "priority": 3 },
-    { "slug": "ab-testing-tools", "title": "The 11 Best A/B Testing Tools", "vertical": "Growth · Experimentation", "audience": "Growth teams running experiments", "candidate_pool_size": 20, "priority": 3 },
-    { "slug": "seo-rank-trackers", "title": "The 11 Best SEO Rank Tracking Tools", "vertical": "Marketing · SEO", "audience": "SEOs tracking keyword positions", "candidate_pool_size": 25, "priority": 2 },
-    { "slug": "webinar-platforms", "title": "The 11 Best Webinar Platforms", "vertical": "Marketing · Webinars", "audience": "Teams running webinars and virtual events", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "online-course-platforms", "title": "The 11 Best Online Course Platforms", "vertical": "Education · Creators", "audience": "Creators selling online courses", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "membership-software", "title": "The 11 Best Membership Site Software", "vertical": "Creators · Membership", "audience": "Creators running paid membership communities", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "property-management-software", "title": "The 11 Best Property Management Software", "vertical": "Real Estate · PM", "audience": "Landlords and managers handling rentals", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "nonprofit-crm", "title": "The 11 Best Nonprofit CRMs", "vertical": "Nonprofit · CRM", "audience": "Nonprofits managing donors and fundraising", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "donor-management-software", "title": "The 11 Best Donor Management Software", "vertical": "Nonprofit · Fundraising", "audience": "Development teams tracking donations", "candidate_pool_size": 20, "priority": 3 },
-    { "slug": "church-management-software", "title": "The 11 Best Church Management Software", "vertical": "Nonprofit · Faith", "audience": "Churches managing members and giving", "candidate_pool_size": 20, "priority": 3 },
-    { "slug": "vpn-for-business", "title": "The 11 Best Business VPNs", "vertical": "Security · Networking", "audience": "IT teams securing remote access", "candidate_pool_size": 25, "priority": 2 },
-    { "slug": "password-managers-business", "title": "The 11 Best Business Password Managers", "vertical": "Security · IAM", "audience": "Teams managing shared credentials", "candidate_pool_size": 20, "priority": 2 },
-    { "slug": "managed-wordpress-hosting", "title": "The 11 Best Managed WordPress Hosting", "vertical": "Web · Hosting", "audience": "Businesses running WordPress sites", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "ecommerce-platforms", "title": "The 11 Best Ecommerce Platforms", "vertical": "Ecommerce · Platforms", "audience": "Brands building online stores", "candidate_pool_size": 30, "priority": 2 },
-    { "slug": "employee-engagement-software", "title": "The 11 Best Employee Engagement Software", "vertical": "HR · Engagement", "audience": "HR teams measuring and improving engagement", "candidate_pool_size": 25, "priority": 3 },
-    { "slug": "background-check-services", "title": "The 11 Best Background Check Services", "vertical": "HR · Screening", "audience": "Employers screening candidates", "candidate_pool_size": 20, "priority": 3 },
-    { "slug": "customer-feedback-tools", "title": "The 11 Best Customer Feedback Tools", "vertical": "Product · Feedback", "audience": "Teams collecting and acting on feedback", "candidate_pool_size": 25, "priority": 3 }
+    {
+      "slug": "project-management-software",
+      "title": "The 11 Best Project Management Software",
+      "vertical": "Productivity · PM",
+      "audience": "Teams planning work, tasks, and timelines",
+      "candidate_pool_size": 40,
+      "priority": 2
+    },
+    {
+      "slug": "time-tracking-software",
+      "title": "The 11 Best Time Tracking Software",
+      "vertical": "Productivity · Time",
+      "audience": "Agencies and teams billing and tracking hours",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "help-desk-software",
+      "title": "The 11 Best Help Desk Software",
+      "vertical": "Support · Ticketing",
+      "audience": "Support teams managing customer tickets",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "live-chat-software",
+      "title": "The 11 Best Live Chat Software",
+      "vertical": "Support · Chat",
+      "audience": "Teams adding live chat and chatbots to their site",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "esignature-software",
+      "title": "The 11 Best E-Signature Software",
+      "vertical": "Operations · Documents",
+      "audience": "Teams signing contracts and agreements online",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "applicant-tracking-systems",
+      "title": "The 11 Best Applicant Tracking Systems",
+      "vertical": "HR · Recruiting",
+      "audience": "Recruiters and HR managing hiring pipelines",
+      "candidate_pool_size": 35,
+      "priority": 2
+    },
+    {
+      "slug": "esign-proposal-software",
+      "title": "The 11 Best Proposal Software",
+      "vertical": "Sales · Proposals",
+      "audience": "Sales teams sending quotes and proposals",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "contract-management-software",
+      "title": "The 11 Best Contract Management Software",
+      "vertical": "Legal · CLM",
+      "audience": "Legal and ops teams managing contracts",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "appointment-scheduling-software",
+      "title": "The 11 Best Appointment Scheduling Software",
+      "vertical": "Operations · Scheduling",
+      "audience": "Service businesses booking client appointments",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "inventory-management-software",
+      "title": "The 11 Best Inventory Management Software",
+      "vertical": "Operations · Inventory",
+      "audience": "Product businesses tracking stock and orders",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "shipping-software-ecommerce",
+      "title": "The 11 Best Shipping Software for Ecommerce",
+      "vertical": "Ecommerce · Fulfillment",
+      "audience": "Online stores managing shipping and labels",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "subscription-billing-software",
+      "title": "The 11 Best Subscription Billing Software",
+      "vertical": "Finance · Billing",
+      "audience": "SaaS and subscription businesses billing customers",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "payment-gateways",
+      "title": "The 11 Best Payment Gateways",
+      "vertical": "Finance · Payments",
+      "audience": "Businesses accepting online payments",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "product-analytics-tools",
+      "title": "The 11 Best Product Analytics Tools",
+      "vertical": "Analytics · Product",
+      "audience": "Product teams measuring usage and funnels",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "session-replay-tools",
+      "title": "The 11 Best Session Replay Tools",
+      "vertical": "Analytics · UX",
+      "audience": "Teams watching real user sessions and heatmaps",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "ab-testing-tools",
+      "title": "The 11 Best A/B Testing Tools",
+      "vertical": "Growth · Experimentation",
+      "audience": "Growth teams running experiments",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "seo-rank-trackers",
+      "title": "The 11 Best SEO Rank Tracking Tools",
+      "vertical": "Marketing · SEO",
+      "audience": "SEOs tracking keyword positions",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "webinar-platforms",
+      "title": "The 11 Best Webinar Platforms",
+      "vertical": "Marketing · Webinars",
+      "audience": "Teams running webinars and virtual events",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "online-course-platforms",
+      "title": "The 11 Best Online Course Platforms",
+      "vertical": "Education · Creators",
+      "audience": "Creators selling online courses",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "membership-software",
+      "title": "The 11 Best Membership Site Software",
+      "vertical": "Creators · Membership",
+      "audience": "Creators running paid membership communities",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "property-management-software",
+      "title": "The 11 Best Property Management Software",
+      "vertical": "Real Estate · PM",
+      "audience": "Landlords and managers handling rentals",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "nonprofit-crm",
+      "title": "The 11 Best Nonprofit CRMs",
+      "vertical": "Nonprofit · CRM",
+      "audience": "Nonprofits managing donors and fundraising",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "donor-management-software",
+      "title": "The 11 Best Donor Management Software",
+      "vertical": "Nonprofit · Fundraising",
+      "audience": "Development teams tracking donations",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "church-management-software",
+      "title": "The 11 Best Church Management Software",
+      "vertical": "Nonprofit · Faith",
+      "audience": "Churches managing members and giving",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "vpn-for-business",
+      "title": "The 11 Best Business VPNs",
+      "vertical": "Security · Networking",
+      "audience": "IT teams securing remote access",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "password-managers-business",
+      "title": "The 11 Best Business Password Managers",
+      "vertical": "Security · IAM",
+      "audience": "Teams managing shared credentials",
+      "candidate_pool_size": 20,
+      "priority": 2
+    },
+    {
+      "slug": "managed-wordpress-hosting",
+      "title": "The 11 Best Managed WordPress Hosting",
+      "vertical": "Web · Hosting",
+      "audience": "Businesses running WordPress sites",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "ecommerce-platforms",
+      "title": "The 11 Best Ecommerce Platforms",
+      "vertical": "Ecommerce · Platforms",
+      "audience": "Brands building online stores",
+      "candidate_pool_size": 30,
+      "priority": 2
+    },
+    {
+      "slug": "employee-engagement-software",
+      "title": "The 11 Best Employee Engagement Software",
+      "vertical": "HR · Engagement",
+      "audience": "HR teams measuring and improving engagement",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "background-check-services",
+      "title": "The 11 Best Background Check Services",
+      "vertical": "HR · Screening",
+      "audience": "Employers screening candidates",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "customer-feedback-tools",
+      "title": "The 11 Best Customer Feedback Tools",
+      "vertical": "Product · Feedback",
+      "audience": "Teams collecting and acting on feedback",
+      "candidate_pool_size": 25,
+      "priority": 3
+    }
   ],
   "in_progress": [],
   "completed": [
@@ -277,7 +486,8 @@
     "seo-tools-saas",
     "headless-cms",
     "telehealth-platforms",
-    "shopify-apps-conversion"
+    "shopify-apps-conversion",
+    "no-code-platforms"
   ],
   "skipped": []
 }

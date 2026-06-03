@@ -23,6 +23,7 @@ import realEstateCrm from "@/data/real-estate-crm.json";
 import constructionProjectManagement from "@/data/construction-project-management.json";
 import smbPayroll from "@/data/smb-payroll.json";
 import smbHris from "@/data/smb-hris.json";
+import noCodePlatforms from "@/data/no-code-platforms.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -73,6 +74,7 @@ const REGISTRY: Record<string, ListData> = {
   [constructionProjectManagement.slug]: constructionProjectManagement as unknown as ListData,
   [smbPayroll.slug]: smbPayroll as unknown as ListData,
   [smbHris.slug]: smbHris as unknown as ListData,
+  [noCodePlatforms.slug]: noCodePlatforms as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

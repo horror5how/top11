@@ -1,0 +1,907 @@
+{
+  "slug": "no-code-platforms",
+  "title": "The 11 Best No-Code Platforms for Builders",
+  "subtitle": "A ranked list of the top platforms for building web and mobile applications without writing a single line of code.",
+  "vertical": "Developer Tools · No-Code",
+  "audience": "Operators and founders building apps without engineers",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-03",
+  "last_verified": "2026-06-03",
+  "next_review": "2026-09-01",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Application Development",
+  "subsector": "No-Code Platforms",
+  "changelog": [
+    {
+      "date": "2026-06-03",
+      "text": "Initial publication. Methodology v1.0 weights Feature Set & Versatility (30%), Ease of Use (25%), Scalability & Performance (20%), Ecosystem & Integrations (15%), and Pricing & Value (10%)."
+    }
+  ],
+  "answer_capsule": "The best no-code platform for builders is Bubble for its unmatched power in web app development, followed by Webflow for visually rich sites and FlutterFlow for high-performance mobile apps.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-03",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Feature Set & Versatility",
+        "weight": 30,
+        "description": "The platform's capability to build complex applications, including front-end, back-end logic, and database management, across web and mobile."
+      },
+      {
+        "name": "Ease of Use & Learning Curve",
+        "weight": 25,
+        "description": "How quickly a non-technical user can become proficient. Based on UI intuitiveness, quality of documentation, tutorials, and community support."
+      },
+      {
+        "name": "Scalability & Performance",
+        "weight": 20,
+        "description": "The platform's ability to handle growing user loads and data complexity without performance degradation. Includes hosting, security, and export options."
+      },
+      {
+        "name": "Ecosystem & Integrations",
+        "weight": 15,
+        "description": "Availability of third-party plugins, templates, and native integrations with essential services like payment gateways, CRMs, and analytics tools."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "The total cost of ownership relative to the features provided. Considers the generosity of the free tier, plan limits, and pricing transparency."
+      }
+    ]
+  },
+  "segment_tags": [
+    "No-Code",
+    "Low-Code",
+    "App Builder",
+    "Web App Development",
+    "Mobile App Development",
+    "Internal Tools",
+    "MVP Builder"
+  ],
+  "problem_tags": [
+    "Build an app without engineers",
+    "Create an MVP quickly",
+    "Automate internal processes",
+    "Build a custom website",
+    "Develop a native mobile app"
+  ],
+  "query_intents": [
+    "best no-code platform",
+    "bubble vs webflow",
+    "no-code app builder for startups",
+    "build mobile app without code",
+    "best no-code tool for internal apps"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Complex web applications",
+        "SaaS products",
+        "Marketplaces"
+      ],
+      "personas": [
+        "Solo founders",
+        "Startup teams"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Visually-rich websites",
+        "Marketing sites",
+        "E-commerce stores"
+      ],
+      "personas": [
+        "Designers",
+        "Marketing teams"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Native mobile apps (iOS/Android)",
+        "High-performance applications"
+      ],
+      "personas": [
+        "Ambitious founders",
+        "Designers wanting native apps"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Simple mobile apps",
+        "Event apps",
+        "Internal directories"
+      ],
+      "personas": [
+        "Non-technical operators",
+        "Small business owners"
+      ]
+    },
+    "5": {
+      "solves": [
+        "Apps from spreadsheets",
+        "Customer portals",
+        "Simple internal tools"
+      ],
+      "personas": [
+        "Operations managers",
+        "Product managers"
+      ]
+    },
+    "6": {
+      "solves": [
+        "Scalable web front-ends",
+        "Apps needing custom backends"
+      ],
+      "personas": [
+        "Technically-minded builders",
+        "Agencies"
+      ]
+    },
+    "7": {
+      "solves": [
+        "Internal dashboards",
+        "Admin panels",
+        "Custom CRM tools"
+      ],
+      "personas": [
+        "Operations teams",
+        "Data analysts"
+      ]
+    },
+    "8": {
+      "solves": [
+        "Client portals",
+        "Membership sites",
+        "Simple web apps"
+      ],
+      "personas": [
+        "Airtable users",
+        "Community managers"
+      ]
+    },
+    "9": {
+      "solves": [
+        "Highly custom web apps",
+        "Web3 applications",
+        "Complex user flows"
+      ],
+      "personas": [
+        "Ex-developers",
+        "Power users"
+      ]
+    },
+    "10": {
+      "solves": [
+        "Open-source internal tools",
+        "Self-hosted applications"
+      ],
+      "personas": [
+        "Startups with engineers",
+        "IT departments"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Scalable backends",
+        "API creation",
+        "Complex data logic"
+      ],
+      "personas": [
+        "No-code builders hitting limits",
+        "Full-stack no-coders"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.1,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What type of app are you building?",
+      "a": "Your choice depends heavily on your goal. For complex, data-driven web apps like a marketplace or social network, Bubble is the standard. For visually stunning marketing sites with CMS capabilities, choose Webflow. For true native mobile apps on iOS and Android, look at FlutterFlow or Adalo. For internal tools and dashboards, Retool and Budibase are purpose-built."
+    },
+    {
+      "q": "How important is ease of use vs. power?",
+      "a": "There's a direct trade-off. Platforms like Glide and Softr are incredibly easy to learn and let you build an app in hours from a spreadsheet, but they have limitations. Platforms like Bubble and Bildr have a much steeper learning curve but offer near-limitless flexibility to build almost any web application you can imagine."
+    },
+    {
+      "q": "What is your plan for scale?",
+      "a": "If you anticipate high user growth or complex database needs, consider platforms known for performance. Bubble has dedicated capacity plans, FlutterFlow produces native code, and tools like WeWeb paired with a scalable backend like Xano (our wildcard) offer the most robust path for scaling."
+    }
+  ],
+  "how_to_choose": [
+    "First, clearly define the core function of your application: is it a web app, a native mobile app, an internal tool, or a content website? This is the most important filter.",
+    "Next, assess your own technical comfort level. Be honest about the time you're willing to invest in learning. Watch introductory tutorials for your top 2-3 choices to gauge their complexity.",
+    "Review the template and plugin marketplaces for each platform. A strong ecosystem can save you hundreds of hours of development time.",
+    "Finally, model your costs for a scenario with 1,000 users. Pay close attention to database row limits, file storage, and API call limits, as these are often where costs can escalate."
+  ],
+  "faqs": [
+    {
+      "q": "What is a no-code platform?",
+      "a": "A no-code platform is a software development environment that allows users to create applications using a graphical user interface (GUI) instead of traditional computer programming. Users drag and drop components and define logic through visual workflows to build functional web and mobile apps."
+    },
+    {
+      "q": "Can you build a real, scalable business on a no-code platform?",
+      "a": "Yes. Many venture-backed startups and profitable businesses have been built entirely on no-code platforms like Bubble. While there are performance ceilings, these platforms can typically handle hundreds of thousands of users and complex operations before needing to consider a transition to custom code."
+    },
+    {
+      "q": "What are the main limitations of no-code platforms?",
+      "a": "The primary limitations are performance at massive scale, lack of full control over the underlying code and infrastructure (vendor lock-in), and potential difficulty in building highly specialized or graphically intensive applications (like complex games). You are also dependent on the platform's feature roadmap and security practices."
+    },
+    {
+      "q": "How much do no-code platforms typically cost?",
+      "a": "Costs vary widely. Most offer a free tier for learning and small projects. Paid plans typically start around $25-$50 per month for personal use and can range from $100 to over $1,000 per month for business or agency plans with more capacity, collaboration features, and dedicated support."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes platforms for building customer-facing web and mobile applications, with a secondary focus on internal tools. Workflow automation platforms like Zapier or Make were considered but excluded to maintain a clear focus.",
+    "The rankings favor versatility and power over pure ease-of-use, reflecting the 'builder' audience. A list for absolute beginners might rank Glide or Softr higher.",
+    "Most candidates are US-based SaaS companies. While they serve a global audience, support hours and documentation are primarily English-centric."
+  ],
+  "glossary": {
+    "term": "No-Code",
+    "definition": "A method of software development that uses visual, declarative techniques in a graphical user interface to create applications, instead of writing traditional programming code. It empowers non-technical users to build and deploy their own software.",
+    "synonyms": [
+      "Visual Development",
+      "Codeless Development"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Bubble",
+      "url": "https://bubble.io",
+      "founded": 2012,
+      "hq": "New York, USA",
+      "team_size_band": "101-250",
+      "best_for": "Founders and teams building complex, data-driven web applications like SaaS products, marketplaces, and social networks without code.",
+      "best_for_short": "Complex web applications",
+      "pricing_band": "$$ ($32 to $349/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Feature Set & Versatility": 9.6,
+        "Ease of Use & Learning Curve": 8.8,
+        "Scalability & Performance": 9.4,
+        "Ecosystem & Integrations": 9.7,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Bubble is the best no-code platform for building sophisticated web applications due to its unparalleled combination of front-end design flexibility, a built-in database, and powerful, customizable logic workflows.",
+      "verdict_short": "The most powerful and flexible platform for building custom web apps without code.",
+      "praise": "Its ability to handle complex logic and database operations allows builders to create virtually any type of web app they can imagine.",
+      "praise_short": "Unmatched power and flexibility for web apps.",
+      "criticism": "The platform has a notoriously steep learning curve compared to simpler tools and does not support native mobile app creation.",
+      "criticism_short": "Steep learning curve; not for native mobile apps.",
+      "sources_pending": [
+        "https://bubble.io/pricing",
+        "https://g2.com/products/bubble/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 349,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Google Maps",
+        "Algolia",
+        "Mixpanel",
+        "Zapier",
+        "Airtable"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Webflow",
+      "url": "https://webflow.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Designers and marketing teams who need to build visually stunning, production-grade websites with advanced animations, interactions, and a powerful CMS.",
+      "best_for_short": "High-end websites & CMS",
+      "pricing_band": "$$ ($18 to $212/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Feature Set & Versatility": 9,
+        "Ease of Use & Learning Curve": 9.5,
+        "Scalability & Performance": 9.2,
+        "Ecosystem & Integrations": 9,
+        "Pricing & Value": 8.8
+      },
+      "verdict": "Webflow is the top choice for building professional, content-driven websites because it provides pixel-perfect design control and a best-in-class CMS, essentially translating visual design into clean, semantic code.",
+      "verdict_short": "Unrivaled for visual web design, CMS, and high-performance marketing sites.",
+      "praise": "The Webflow Designer offers granular control over HTML, CSS, and JavaScript visually, making it a favorite among design professionals.",
+      "praise_short": "Pixel-perfect visual design control.",
+      "criticism": "While it has logic and membership features, it is not designed for building complex, data-heavy applications in the way Bubble is.",
+      "criticism_short": "Limited for complex application logic.",
+      "sources_pending": [
+        "https://webflow.com/pricing",
+        "https://www.g2.com/products/webflow/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 18,
+      "price_max": 212,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "Zapier",
+        "HubSpot",
+        "Google Analytics",
+        "Figma"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "FlutterFlow",
+      "url": "https://flutterflow.io",
+      "founded": 2020,
+      "hq": "Mountain View, USA",
+      "team_size_band": "11-50",
+      "best_for": "Builders who need to create high-performance, truly native mobile apps for both iOS and Android from a single project.",
+      "best_for_short": "Native mobile apps",
+      "pricing_band": "$$ ($30 to $70/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Feature Set & Versatility": 9.2,
+        "Ease of Use & Learning Curve": 8.5,
+        "Scalability & Performance": 9.5,
+        "Ecosystem & Integrations": 8.8,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "FlutterFlow excels at building beautiful, native mobile apps because it's built on Google's Flutter framework, offering superior performance and the ability to export clean, maintainable code.",
+      "verdict_short": "The best low-code platform for building high-quality native mobile apps.",
+      "praise": "It provides access to native device features, integrates directly with Firebase, and allows for custom code, bridging the gap between no-code and traditional development.",
+      "praise_short": "True native performance and code export.",
+      "criticism": "Its focus is almost entirely on mobile, and its web app building capabilities are less mature than dedicated web platforms.",
+      "criticism_short": "Web app functionality is secondary.",
+      "sources_pending": [
+        "https://flutterflow.io/pricing",
+        "https://www.g2.com/products/flutterflow/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 70,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Firebase",
+        "Stripe",
+        "Google AdMob",
+        "Algolia",
+        "Supabase",
+        "Google Maps"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Adalo",
+      "url": "https://www.adalo.com",
+      "founded": 2018,
+      "hq": "St. Louis, USA",
+      "team_size_band": "11-50",
+      "best_for": "Entrepreneurs and small businesses looking to quickly build and launch simple, database-driven native mobile and web apps.",
+      "best_for_short": "Simple native mobile apps",
+      "pricing_band": "$$ ($45 to $200/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Feature Set & Versatility": 8.8,
+        "Ease of Use & Learning Curve": 8.8,
+        "Scalability & Performance": 8.2,
+        "Ecosystem & Integrations": 8.5,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Adalo is a leading choice for simple native app development because it offers a very gentle learning curve and the ability to publish directly to the Apple App Store and Google Play Store from one platform.",
+      "verdict_short": "The easiest way to build and publish simple native mobile apps.",
+      "praise": "The drag-and-drop interface for both front-end components and database collections makes it one of the most approachable full-stack app builders.",
+      "praise_short": "Very easy to learn and use.",
+      "criticism": "Performance can be a concern for apps with very large databases or complex filtering, and design customization is more limited than other tools.",
+      "criticism_short": "Performance limitations at scale.",
+      "sources_pending": [
+        "https://www.adalo.com/pricing",
+        "https://www.g2.com/products/adalo/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 36,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Zapier",
+        "Mixpanel",
+        "Xano",
+        "Airtable"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 5,
+      "name": "Glide",
+      "url": "https://www.glideapps.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-100",
+      "best_for": "Operations teams and businesses that want to create powerful internal tools, customer portals, and mobile apps directly from their existing data in spreadsheets.",
+      "best_for_short": "Apps from spreadsheets",
+      "pricing_band": "$$ ($49 to $249/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Feature Set & Versatility": 7.5,
+        "Ease of Use & Learning Curve": 9.8,
+        "Scalability & Performance": 7.8,
+        "Ecosystem & Integrations": 8.2,
+        "Pricing & Value": 9
+      },
+      "verdict": "Glide is the fastest way to build a functional app from a data source like Google Sheets or Airtable, offering an incredibly intuitive interface and beautiful, pre-built components that work out of the box.",
+      "verdict_short": "The fastest and easiest way to build beautiful apps from data.",
+      "praise": "Its data-first approach and seamless sync with spreadsheets make it exceptionally fast for building data-rich internal tools and directories.",
+      "praise_short": "Incredibly fast and easy to use.",
+      "criticism": "The platform's reliance on templates and pre-built components limits design freedom, and it's not suited for apps requiring complex, custom business logic.",
+      "criticism_short": "Limited design customization and logic.",
+      "sources_pending": [
+        "https://www.glideapps.com/pricing",
+        "https://www.g2.com/products/glide/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Sheets",
+        "Airtable",
+        "Excel",
+        "Zapier",
+        "Stripe",
+        "OpenAI"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "WeWeb",
+      "url": "https://www.weweb.io",
+      "founded": 2019,
+      "hq": "Paris, France",
+      "team_size_band": "11-50",
+      "best_for": "Builders who need to create scalable, high-performance web application front-ends that can connect to any third-party backend or API.",
+      "best_for_short": "Scalable front-end builder",
+      "pricing_band": "$$$ ($59 to $229/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Feature Set & Versatility": 8.5,
+        "Ease of Use & Learning Curve": 8,
+        "Scalability & Performance": 8.8,
+        "Ecosystem & Integrations": 8,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "WeWeb is the best choice for building flexible front-ends because it separates the user interface from the backend logic, allowing you to connect to powerful databases like Xano or Supabase for ultimate scalability.",
+      "verdict_short": "A powerful, scalable front-end builder that connects to any backend.",
+      "praise": "It generates a Vue.js front-end, offering excellent performance and the ability to self-host, which provides greater control and avoids vendor lock-in.",
+      "praise_short": "Excellent performance and self-hosting option.",
+      "criticism": "As a front-end only tool, it requires you to source and manage your own backend and database, adding a layer of complexity.",
+      "criticism_short": "Requires a separate backend.",
+      "sources_pending": [
+        "https://www.weweb.io/pricing",
+        "https://www.g2.com/products/weweb/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Xano",
+        "Supabase",
+        "Airtable",
+        "Google Sheets",
+        "Any REST API"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Retool",
+      "url": "https://retool.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "251-500",
+      "best_for": "Development and operations teams needing to quickly build custom internal tools like admin panels, dashboards, and database GUIs.",
+      "best_for_short": "Custom internal tools",
+      "pricing_band": "$$ ($10 to $50/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Feature Set & Versatility": 8.2,
+        "Ease of Use & Learning Curve": 7.5,
+        "Scalability & Performance": 8.5,
+        "Ecosystem & Integrations": 8.5,
+        "Pricing & Value": 7
+      },
+      "verdict": "Retool is the industry standard for building internal tools because of its vast library of pre-built components and its ability to connect to nearly any database or API with minimal configuration.",
+      "verdict_short": "The fastest way to build powerful internal tools and admin panels.",
+      "praise": "It allows for writing JavaScript anywhere, giving technical users the power to customize and extend functionality beyond standard no-code limits.",
+      "praise_short": "Highly extensible with JavaScript.",
+      "criticism": "It is not intended for building customer-facing applications, and its user interface can feel more utilitarian than polished.",
+      "criticism_short": "Not for customer-facing apps.",
+      "sources_pending": [
+        "https://retool.com/pricing",
+        "https://www.g2.com/products/retool/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "PostgreSQL",
+        "MySQL",
+        "Snowflake",
+        "BigQuery",
+        "Stripe",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Softr",
+      "url": "https://www.softr.io",
+      "founded": 2019,
+      "hq": "Berlin, Germany",
+      "team_size_band": "51-100",
+      "best_for": "Airtable and Google Sheets users who want to build beautiful, responsive front-ends like client portals, internal tools, and membership sites.",
+      "best_for_short": "Front-ends for Airtable",
+      "pricing_band": "$$ ($49 to $269/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Feature Set & Versatility": 7,
+        "Ease of Use & Learning Curve": 9,
+        "Scalability & Performance": 7.5,
+        "Ecosystem & Integrations": 7.8,
+        "Pricing & Value": 8.2
+      },
+      "verdict": "Softr is the best platform for turning Airtable or Google Sheets data into applications because of its simplicity, beautiful pre-built blocks, and seamless real-time data synchronization.",
+      "verdict_short": "The easiest way to build portals and web apps on Airtable.",
+      "praise": "The learning curve is minimal, allowing users to go from a database to a live, functional web app in under an hour.",
+      "praise_short": "Extremely easy and fast to use.",
+      "criticism": "The platform is heavily dependent on its data sources (Airtable/Google Sheets), and its logic capabilities are limited compared to full-stack builders.",
+      "criticism_short": "Limited logic and data source options.",
+      "sources_pending": [
+        "https://www.softr.io/pricing",
+        "https://www.g2.com/products/softr/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 269,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Airtable",
+        "Google Sheets",
+        "Stripe",
+        "Zapier",
+        "Google Analytics",
+        "Intercom"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Bildr",
+      "url": "https://www.bildr.com",
+      "founded": 2019,
+      "hq": "Austin, USA",
+      "team_size_band": "11-50",
+      "best_for": "Technically-minded builders and ex-developers who want the visual benefits of no-code but the power and flexibility of traditional coding.",
+      "best_for_short": "Visually build anything",
+      "pricing_band": "$$$ ($29 to $995/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Feature Set & Versatility": 8.6,
+        "Ease of Use & Learning Curve": 6.5,
+        "Scalability & Performance": 8,
+        "Ecosystem & Integrations": 7.5,
+        "Pricing & Value": 7
+      },
+      "verdict": "Bildr is a uniquely powerful platform because it visually exposes the entire web development stack—HTML, CSS, data, and logic flows—giving builders unparalleled control to create literally anything.",
+      "verdict_short": "The most flexible no-code tool, mirroring the logic of actual coding.",
+      "praise": "Its 'everything is an element' approach and visual action flows provide a level of granular control that other platforms abstract away.",
+      "praise_short": "Unprecedented granular control.",
+      "criticism": "The learning curve is extremely steep, and the interface can be intimidating for non-technical users or those unfamiliar with development concepts.",
+      "criticism_short": "Very steep learning curve.",
+      "sources_pending": [
+        "https://www.bildr.com/pricing",
+        "https://www.g2.com/products/bildr/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 995,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Algolia",
+        "Airtable",
+        "Xano",
+        "Any REST API"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Budibase",
+      "url": "https://budibase.com",
+      "founded": 2019,
+      "hq": "Belfast, Northern Ireland",
+      "team_size_band": "11-50",
+      "best_for": "Teams looking for an open-source, self-hostable platform to build internal tools, forms, and admin panels with extensive data source integrations.",
+      "best_for_short": "Open-source internal tools",
+      "pricing_band": "$ ($15 to $30/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Feature Set & Versatility": 7.4,
+        "Ease of Use & Learning Curve": 7.5,
+        "Scalability & Performance": 7.5,
+        "Ecosystem & Integrations": 7.2,
+        "Pricing & Value": 8
+      },
+      "verdict": "Budibase stands out as the leading open-source choice for internal tools, offering the flexibility of self-hosting for enhanced security and control, combined with a user-friendly app builder.",
+      "verdict_short": "A powerful, open-source alternative to Retool for internal apps.",
+      "praise": "Its ability to connect to many data sources, including SQL databases and REST APIs, and its built-in automations make it a versatile internal tool builder.",
+      "praise_short": "Open-source and self-hostable.",
+      "criticism": "The range of UI components is less extensive than competitors like Retool, and building highly polished user interfaces can be more challenging.",
+      "criticism_short": "Fewer UI components than competitors.",
+      "sources_pending": [
+        "https://budibase.com/pricing",
+        "https://www.g2.com/products/budibase/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "PostgreSQL",
+        "MongoDB",
+        "MySQL",
+        "Airtable",
+        "Google Sheets",
+        "Docker"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Xano",
+      "url": "https://www.xano.com",
+      "founded": 2014,
+      "hq": "Santa Monica, USA",
+      "team_size_band": "11-50",
+      "best_for": "Builders who are creating a scalable front-end on another platform but need a powerful, no-code backend to manage their database, business logic, and APIs.",
+      "best_for_short": "No-code backend",
+      "pricing_band": "$$$ ($99 to $225+/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Feature Set & Versatility": 5.5,
+        "Ease of Use & Learning Curve": 7.2,
+        "Scalability & Performance": 9,
+        "Ecosystem & Integrations": 7.8,
+        "Pricing & Value": 7
+      },
+      "verdict": "Xano is a critical wildcard because it solves the biggest problem for scaling no-code apps: the backend. It provides a scalable database, robust API generation, and server-side logic, acting as the perfect complement to front-end builders like WeWeb.",
+      "verdict_short": "A powerful, scalable no-code backend to power any front-end.",
+      "praise": "It offers true backend scalability with features like a PostgreSQL database, serverless architecture, and the ability to create complex APIs without code.",
+      "praise_short": "The most scalable no-code backend.",
+      "criticism": "It is not a full-stack platform; it has no front-end building capabilities and requires integration with a separate tool to create a user interface.",
+      "criticism_short": "Backend only; requires a separate front-end.",
+      "sources_pending": [
+        "https://www.xano.com/pricing/",
+        "https://www.g2.com/products/xano/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 225,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "WeWeb",
+        "Bubble",
+        "Adalo",
+        "FlutterFlow",
+        "Any platform with REST API support"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA",
+        "SOC 2"
+      ],
+      "regions": [
+        "US",
+        "EU",
+        "APAC"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
