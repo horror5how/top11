@@ -1,0 +1,823 @@
+{
+  "slug": "cap-table-software",
+  "title": "The 11 Best Cap Table Management Software",
+  "subtitle": "A ranked analysis of platforms for managing startup equity, from seed-stage SAFE issuance to pre-IPO 409A compliance.",
+  "vertical": "Finance · Equity",
+  "audience": "Startup founders managing equity, options, and 409A",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-03",
+  "last_verified": "2026-06-03",
+  "next_review": "2026-09-01",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Financial Technology",
+  "subsector": "Equity Management",
+  "changelog": [
+    {
+      "date": "2026-06-03",
+      "text": "Initial publication. Methodology v1.0 weights Core Features (30%), Founder/Employee Experience (25%), Compliance & 409A (20%), Integrations & Scalability (15%), and Pricing (10%)."
+    }
+  ],
+  "answer_capsule": "The best cap table management software is Carta for its comprehensive compliance features, followed by the founder-friendly challenger Pulley and European leader Ledgy.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-03",
+    "candidate_pool": 15,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Cap Table Features",
+        "weight": 30,
+        "description": "Accuracy and depth of features for issuing securities (stock, options, SAFEs), modeling financing rounds, and managing vesting schedules."
+      },
+      {
+        "name": "Founder/Employee Experience",
+        "weight": 25,
+        "description": "Intuitive interface for founders to manage equity and for employees to view and accept grants. Quality of the employee portal and offer letter integrations."
+      },
+      {
+        "name": "Compliance & 409A",
+        "weight": 20,
+        "description": "Robustness of 409A valuation services, ASC 718 reporting, tax compliance, and other regulatory requirements."
+      },
+      {
+        "name": "Integrations & Scalability",
+        "weight": 15,
+        "description": "Ability to connect with HRIS, payroll, and legal systems, and to scale from seed stage through to IPO."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 10,
+        "description": "Clarity, fairness, and predictability of pricing. Availability of free tiers and cost-effectiveness of essential services like 409A valuations."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "FinTech",
+    "Equity Management",
+    "Startup Operations",
+    "Venture Capital"
+  ],
+  "problem_tags": [
+    "equity dilution",
+    "stock option management",
+    "409A valuation",
+    "shareholder reporting",
+    "fundraising modeling"
+  ],
+  "query_intents": [
+    "best cap table software",
+    "carta vs pulley",
+    "free cap table tool",
+    "startup equity management platform",
+    "409A valuation providers"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "complex compliance",
+        "late-stage equity management",
+        "investor relations"
+      ],
+      "personas": [
+        "VC-backed startups",
+        "CFOs",
+        "Paralegals"
+      ]
+    },
+    "2": {
+      "solves": [
+        "fundraising modeling",
+        "founder-friendly UI",
+        "cost-effective scaling"
+      ],
+      "personas": [
+        "Early-stage founders",
+        "Seed to Series B startups"
+      ]
+    },
+    "3": {
+      "solves": [
+        "European compliance",
+        "employee engagement",
+        "stakeholder communication"
+      ],
+      "personas": [
+        "European startups",
+        "Global teams"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 15,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2.3
+  },
+  "guide": [
+    {
+      "q": "What's the key difference between Carta and Pulley?",
+      "a": "Carta is the established market leader, known for its comprehensive compliance and investor services, making it a default for later-stage companies. Pulley is the fast-growing challenger, focusing on a more intuitive founder experience, better scenario modeling, and more transparent pricing, which appeals to early-stage startups."
+    },
+    {
+      "q": "Can I just use a spreadsheet?",
+      "a": "You can for the first few founders, but it quickly becomes a major source of error and risk. Spreadsheets can't handle complex vesting, option expiries, compliance reporting (like ASC 718), or provide a secure portal for employees. Moving to dedicated software early prevents costly legal clean-up later."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your current stage: Early-stage startups with simple caps might prioritize free tiers and ease of use (e.g., LTSE, Pulley), while later-stage companies need robust compliance and reporting (e.g., Carta, Shareworks).",
+    "Consider your geographical footprint: If you have a significant presence in Europe, platforms like Ledgy or Capdesk with deep expertise in local regulations (e.g., EMI schemes in the UK) are crucial.",
+    "Evaluate 409A valuation needs: Check if 409A valuations are included in your plan or are a costly add-on. The quality and defensibility of these valuations are critical for compliance.",
+    "Check HRIS/Payroll integrations: Seamless integration with your existing HR stack (like Gusto, Rippling, or BambooHR) saves significant administrative overhead when onboarding new employees and processing option grants."
+  ],
+  "faqs": [
+    {
+      "q": "What is cap table management software?",
+      "a": "It's a specialized platform that helps private companies issue, track, and manage their ownership (equity), including stock, options, SAFEs, and convertible notes. It replaces error-prone spreadsheets with a single source of truth for founders, employees, investors, and lawyers."
+    },
+    {
+      "q": "Why do I need cap table software instead of a spreadsheet?",
+      "a": "Spreadsheets become unmanageable and risky as you hire employees, issue options, and raise funding. Software automates complex calculations, ensures compliance (e.g., 409A, ASC 718), provides a secure portal for stakeholders, and prevents costly errors that can jeopardize future financing rounds or an acquisition."
+    },
+    {
+      "q": "How much does cap table software cost?",
+      "a": "Pricing varies widely. Some offer free tiers for very small companies (under 25 stakeholders). Paid plans typically start around $1,000 to $3,000 per year for early-stage startups and can scale to tens of thousands for larger, pre-IPO companies."
+    },
+    {
+      "q": "What is a 409A valuation and why is it important?",
+      "a": "A 409A valuation is an independent appraisal of a private company's fair market value (FMV). It's required by the IRS to set the strike price for stock options. Using a reputable provider for your 409A protects your company and employees from significant tax penalties."
+    },
+    {
+      "q": "When should a startup start using cap table software?",
+      "a": "The ideal time is before you issue your first stock options to employees or advisors. Many startups adopt a platform right after their first priced funding round (like a Seed or Series A) to ensure all equity is tracked accurately from the start."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-ranked providers are US-centric in their compliance features, though some like Ledgy and Capdesk offer strong European support. Pricing can become complex and expensive as companies scale, with many essential features gated in higher-tier plans.",
+    "409A valuation quality can vary. While most platforms offer this service, its defensibility often depends on the underlying valuation firm they partner with."
+  ],
+  "glossary": {
+    "term": "Capitalization Table (Cap Table)",
+    "definition": "A table, typically in a spreadsheet or software, that details the equity ownership of a company. It lists all the company's securities (common stock, preferred stock, options, warrants, SAFEs) and who owns them.",
+    "synonyms": [
+      "cap table",
+      "equity ledger"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Carta",
+      "url": "https://carta.com",
+      "founded": 2012,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "VC-backed startups and pre-IPO companies needing an all-in-one, compliance-first platform for equity, valuations, and investor relations.",
+      "best_for_short": "Compliance & late-stage scale",
+      "pricing_band": "$$$ ($2,800 to $15,000+/yr)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Cap Table Features": 9.4,
+        "Founder/Employee Experience": 8.8,
+        "Compliance & 409A": 9.8,
+        "Integrations & Scalability": 9.5,
+        "Pricing & Transparency": 8
+      },
+      "verdict": "Carta is the top-ranked provider because it sets the industry standard for compliance, audit-ready reporting, and end-to-end equity management, making it the default choice for companies with institutional investors.",
+      "verdict_short": "The industry standard for compliance-focused, end-to-end equity management.",
+      "praise": "Its comprehensive feature set, including robust 409A valuations, fund administration, and liquidity services, provides a single source of truth that scales from Series A to IPO.",
+      "praise_short": "Unmatched compliance features and scalability.",
+      "criticism": "The platform can be more expensive than competitors, and some early-stage founders find its interface less intuitive and its sales process aggressive.",
+      "criticism_short": "Expensive and can be complex for beginners.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 reviews",
+        "Capterra user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 2800,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Gusto",
+        "Rippling",
+        "BambooHR",
+        "Workday",
+        "NetSuite",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "409A",
+        "ASC 718",
+        "ISO 27001",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global",
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Pulley",
+      "url": "https://pulley.com",
+      "founded": 2019,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Early to mid-stage startups seeking a founder-friendly platform with powerful modeling tools and more transparent pricing.",
+      "best_for_short": "Founder-friendly modeling & pricing",
+      "pricing_band": "$$ ($1,200 to $6,000/yr)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Cap Table Features": 9.2,
+        "Founder/Employee Experience": 9.5,
+        "Compliance & 409A": 8.8,
+        "Integrations & Scalability": 8.5,
+        "Pricing & Transparency": 9.4
+      },
+      "verdict": "Pulley earns the second spot by directly addressing founder pain points with a more intuitive interface, superior fundraising scenario modeling, and competitive, transparent pricing.",
+      "verdict_short": "The best founder-focused platform with powerful modeling tools.",
+      "praise": "Users consistently praise its clean UI, responsive customer support, and robust modeling features that help founders understand dilution across multiple funding rounds.",
+      "praise_short": "Excellent UI and scenario modeling.",
+      "criticism": "While rapidly improving, its compliance and reporting features are not yet as comprehensive as Carta's for complex, later-stage companies.",
+      "criticism_short": "Less mature on late-stage compliance.",
+      "sources_pending": [
+        "vendor documentation",
+        "Y Combinator user feedback",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 1200,
+      "price_max": 6000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Gusto",
+        "Rippling",
+        "BambooHR",
+        "QuickBooks",
+        "Xero"
+      ],
+      "compliance": [
+        "409A",
+        "ASC 718",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global",
+        "North America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "Ledgy",
+      "url": "https://ledgy.com",
+      "founded": 2017,
+      "hq": "Zurich, Switzerland",
+      "team_size_band": "51-200",
+      "best_for": "European and global startups that need to manage complex international equity plans and prioritize stakeholder communication.",
+      "best_for_short": "European & global teams",
+      "pricing_band": "$$ (€1,000 to €7,000+/yr)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core Cap Table Features": 9,
+        "Founder/Employee Experience": 9.2,
+        "Compliance & 409A": 8.5,
+        "Integrations & Scalability": 8.6,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "Ledgy stands out as the best option for European startups due to its deep understanding of country-specific regulations, multi-currency support, and excellent tools for employee and investor engagement.",
+      "verdict_short": "The leading platform for European and globally distributed teams.",
+      "praise": "Its beautiful interface, powerful scenario modeling, and focus on clear communication help demystify equity for a global workforce.",
+      "praise_short": "Great UI and European compliance.",
+      "criticism": "While strong globally, its 409A valuation services and US-specific compliance features are less established than US-based market leaders.",
+      "criticism_short": "US compliance features are less mature.",
+      "sources_pending": [
+        "vendor documentation",
+        "Sifted articles",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 7000,
+      "currency": "EUR",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Personio",
+        "BambooHR",
+        "HiBob",
+        "Workday",
+        "Xero"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "ASC 718"
+      ],
+      "regions": [
+        "Europe",
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Shareworks by Morgan Stanley",
+      "url": "https://www.morganstanley.com/atwork/shareworks",
+      "founded": 1999,
+      "hq": "Calgary, Canada",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Late-stage private and public companies requiring enterprise-grade solutions backed by the stability and services of a major financial institution.",
+      "best_for_short": "Enterprise & late-stage",
+      "pricing_band": "$$$$ (Quote-based)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core Cap Table Features": 9,
+        "Founder/Employee Experience": 7.8,
+        "Compliance & 409A": 9.4,
+        "Integrations & Scalability": 9.2,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Shareworks is a top choice for mature companies because it offers institutional-grade security, global compliance expertise, and a direct path to public market services through Morgan Stanley.",
+      "verdict_short": "Institutional-grade platform for mature private and public companies.",
+      "praise": "Its ability to handle highly complex equity scenarios, global entities, and public company administration is second to none.",
+      "praise_short": "Handles immense complexity and scale.",
+      "criticism": "The platform is often considered overly complex and expensive for early-stage startups, with an interface that feels less modern than newer competitors.",
+      "criticism_short": "Complex and expensive for startups.",
+      "sources_pending": [
+        "vendor documentation",
+        "Forrester Wave reports",
+        "Gartner reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Workday",
+        "SAP",
+        "Oracle",
+        "Major brokerage platforms"
+      ],
+      "compliance": [
+        "409A",
+        "ASC 718",
+        "ESMA",
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global",
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "AngelList Equity",
+      "url": "https://www.angellist.com/equity",
+      "founded": 2010,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Startups already fundraising, hiring, or banking within the AngelList ecosystem, benefiting from seamless integration.",
+      "best_for_short": "AngelList ecosystem integration",
+      "pricing_band": "$$ (Varies, often bundled)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core Cap Table Features": 8.5,
+        "Founder/Employee Experience": 8.8,
+        "Compliance & 409A": 8.2,
+        "Integrations & Scalability": 8.7,
+        "Pricing & Transparency": 8
+      },
+      "verdict": "AngelList Equity secures its rank through its unparalleled integration with the wider AngelList platform, offering a unified experience for founders managing fundraising, banking, and equity in one place.",
+      "verdict_short": "Best for startups embedded in the AngelList ecosystem.",
+      "praise": "The automatic syncing of fundraising data from roll-up vehicles (RUVs) and syndicates into the cap table is a massive time-saver for early-stage founders.",
+      "praise_short": "Seamless fundraising data integration.",
+      "criticism": "As a standalone product, its feature set is less comprehensive than dedicated leaders, and it best serves companies that are already committed to the AngelList suite of tools.",
+      "criticism_short": "Less powerful as a standalone tool.",
+      "sources_pending": [
+        "vendor documentation",
+        "TechCrunch articles",
+        "Product Hunt reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 1500,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "AngelList Recruiting",
+        "AngelList Banking",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "409A",
+        "ASC 718"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 6,
+      "name": "Capdesk by Carta",
+      "url": "https://www.capdesk.com",
+      "founded": 2015,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Fast-growing European companies needing specialized support for local equity schemes like EMIs and cross-border compliance.",
+      "best_for_short": "UK & European compliance",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core Cap Table Features": 8.2,
+        "Founder/Employee Experience": 8.5,
+        "Compliance & 409A": 8.4,
+        "Integrations & Scalability": 7.8,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "Capdesk is a strong choice for its deep specialization in European equity regulations, particularly UK EMI schemes, providing localized expertise that US-centric platforms often lack.",
+      "verdict_short": "Specialized platform for UK and European equity compliance.",
+      "praise": "Its automation of filings with authorities like the UK's HMRC saves European companies significant administrative time and compliance risk.",
+      "praise_short": "Automates European regulatory filings.",
+      "criticism": "Since its acquisition by Carta, its future product roadmap and positioning are less clear, and it may be duplicative for companies already considering the main Carta platform.",
+      "criticism_short": "Uncertain roadmap post-Carta acquisition.",
+      "sources_pending": [
+        "vendor documentation",
+        "UK tech news outlets",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-03",
+        "summary": "Acquired by market leader Carta in 2022; product may be merged or deprecated over the long term.",
+        "signals": [
+          "Acquisition by competitor"
+        ]
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "GBP",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "Personio",
+        "HiBob",
+        "BambooHR"
+      ],
+      "compliance": [
+        "EMI",
+        "CSOP",
+        "GDPR",
+        "HMRC filings"
+      ],
+      "regions": [
+        "Europe",
+        "UK"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "LTSE Equity",
+      "url": "https://equity.ltse.com",
+      "founded": 2019,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Very early-stage startups looking for a simple, free, and reliable way to get off spreadsheets before their first major funding round.",
+      "best_for_short": "Free for early-stage",
+      "pricing_band": "$ (Free to $3,000/yr)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Core Cap Table Features": 7.5,
+        "Founder/Employee Experience": 8,
+        "Compliance & 409A": 7,
+        "Integrations & Scalability": 7.5,
+        "Pricing & Transparency": 9.8
+      },
+      "verdict": "LTSE Equity (formerly Captable.io) is the best free entry point into cap table software, offering core functionality that is more than sufficient for bootstrapping and seed-stage companies.",
+      "verdict_short": "The best free, simple starting point for seed-stage companies.",
+      "praise": "Its 'Quickstart' feature and simple interface make it incredibly easy for first-time founders to set up their cap table correctly in minutes.",
+      "praise_short": "Extremely easy setup for beginners.",
+      "criticism": "The platform lacks the advanced modeling, compliance features, and 409A services required by companies as they begin to scale and raise institutional capital.",
+      "criticism_short": "Lacks advanced features for scaling.",
+      "sources_pending": [
+        "vendor documentation",
+        "Startup forums",
+        "Product Hunt reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 3000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Gusto"
+      ],
+      "compliance": [
+        "Basic 409A support"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 8,
+      "name": "Astrella",
+      "url": "https://www.astrella.com",
+      "founded": 2019,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Private companies with global ownership structures that value the security and blockchain-based technology offered by a JP Morgan-backed platform.",
+      "best_for_short": "Global & blockchain-based",
+      "pricing_band": "$$$$ (Quote-based)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Core Cap Table Features": 8,
+        "Founder/Employee Experience": 7.5,
+        "Compliance & 409A": 8.2,
+        "Integrations & Scalability": 8,
+        "Pricing & Transparency": 6.5
+      },
+      "verdict": "Astrella provides a compelling option for internationally diverse companies by leveraging distributed ledger technology for enhanced accuracy and providing the institutional credibility of JP Morgan.",
+      "verdict_short": "A secure, blockchain-powered platform with institutional backing.",
+      "praise": "Its use of a private blockchain provides a verifiable, real-time audit trail of all equity transactions, appealing to companies with complex ownership or high security needs.",
+      "praise_short": "High security via blockchain tech.",
+      "criticism": "The platform is enterprise-focused with opaque pricing, making it less accessible for smaller startups, and the benefits of its blockchain technology may not be necessary for most.",
+      "criticism_short": "Enterprise focus and opaque pricing.",
+      "sources_pending": [
+        "vendor documentation",
+        "Press releases",
+        "Fintech publications"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [],
+      "compliance": [
+        "409A",
+        "ASC 718",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "Shoobx",
+      "url": "https://www.shoobx.com",
+      "founded": 2013,
+      "hq": "Boston, USA",
+      "team_size_band": "11-50",
+      "best_for": "Startups looking for an integrated platform that combines cap table management with corporate governance, legal workflows, and data room hosting.",
+      "best_for_short": "Integrated legal & governance",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core Cap Table Features": 7.5,
+        "Founder/Employee Experience": 7.2,
+        "Compliance & 409A": 7.8,
+        "Integrations & Scalability": 7.9,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Shoobx earns its place by offering a unique, all-in-one 'corporate operating system' that centralizes cap table, board management, and legal document automation, streamlining workflows for lean teams.",
+      "verdict_short": "A unified platform for equity, legal, and board management.",
+      "praise": "Automating workflows like board consents for option grants directly within the platform reduces friction between legal, finance, and HR.",
+      "praise_short": "Automates legal and governance workflows.",
+      "criticism": "The platform tries to do many things, and as a result, its dedicated cap table features are not as deep or intuitive as those of specialized leaders.",
+      "criticism_short": "Jack of all trades, master of none.",
+      "sources_pending": [
+        "vendor documentation",
+        "Law firm partner pages",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "DocuSign"
+      ],
+      "compliance": [
+        "409A",
+        "Delaware corporate law"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Vestd",
+      "url": "https://www.vestd.com",
+      "founded": 2013,
+      "hq": "London, UK",
+      "team_size_band": "11-50",
+      "best_for": "UK-based small and medium-sized enterprises (SMEs) focused on setting up and managing government-approved EMI option schemes.",
+      "best_for_short": "UK EMI scheme specialist",
+      "pricing_band": "$$ (£1,500 to £5,000/yr)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Core Cap Table Features": 7,
+        "Founder/Employee Experience": 7.8,
+        "Compliance & 409A": 7.9,
+        "Integrations & Scalability": 6.5,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "Vestd is the leading specialist for UK businesses navigating the complexities of Enterprise Management Incentive (EMI) schemes, offering guided setup and automated compliance with HMRC.",
+      "verdict_short": "The go-to platform for managing UK EMI option schemes.",
+      "praise": "Its singular focus on UK equity schemes makes it an invaluable resource for British companies, providing tailored legal documents and support.",
+      "praise_short": "Deep expertise in UK equity law.",
+      "criticism": "The platform has a very narrow geographical and functional focus, making it unsuitable for companies with global teams or more complex, non-EMI equity needs.",
+      "criticism_short": "Highly limited outside of UK EMI schemes.",
+      "sources_pending": [
+        "vendor documentation",
+        "UK government supplier lists",
+        "Trustpilot reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": 1500,
+      "price_max": 5000,
+      "currency": "GBP",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "Companies House"
+      ],
+      "compliance": [
+        "EMI",
+        "HMRC",
+        "Companies House filings"
+      ],
+      "regions": [
+        "UK"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Gusto",
+      "url": "https://gusto.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Early-stage startups already using Gusto for payroll who need very basic cap table functionality without adding another specialized tool.",
+      "best_for_short": "Basic equity in an HRIS",
+      "pricing_band": "$ (Bundled with HR/Payroll)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Core Cap Table Features": 6,
+        "Founder/Employee Experience": 8,
+        "Compliance & 409A": 6,
+        "Integrations & Scalability": 8.5,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Gusto is our wildcard pick because it's not a dedicated cap table platform, but rather an HRIS that offers basic equity management, representing a compelling 'good enough' solution for founders who prioritize an all-in-one system.",
+      "verdict_short": "A 'good enough' equity tool bundled within a leading HRIS.",
+      "praise": "Managing equity alongside payroll and benefits in a single system that employees already know creates an incredibly streamlined experience for basic grants.",
+      "praise_short": "Seamlessly integrated with payroll/HR.",
+      "criticism": "It completely lacks advanced features like scenario modeling, 409A valuations, or support for complex securities, requiring an inevitable migration to a dedicated platform as the company scales.",
+      "criticism_short": "Lacks all advanced cap table features.",
+      "sources_pending": [
+        "vendor documentation",
+        "PCMag reviews",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-03",
+        "summary": "No material public risk signals as of 2026-06-03.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "itself (HR/Payroll)"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

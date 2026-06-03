@@ -142,28 +142,12 @@
       "priority": 3
     },
     {
-      "slug": "automation-platforms",
-      "title": "The 11 Best Automation Platforms (Zapier Alternatives)",
-      "vertical": "Productivity · Automation",
-      "audience": "Operators automating workflows across SaaS",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "investor-crm",
       "title": "The 11 Best Investor Relations CRMs",
       "vertical": "Finance · IR · CRM",
       "audience": "Founders managing investor relationships and cap tables",
       "candidate_pool_size": 20,
       "priority": 3
-    },
-    {
-      "slug": "cap-table-software",
-      "title": "The 11 Best Cap Table Management Software",
-      "vertical": "Finance · Equity",
-      "audience": "Startup founders managing equity, options, and 409A",
-      "candidate_pool_size": 15,
-      "priority": 2
     },
     {
       "slug": "treasury-management-startups",
@@ -487,7 +471,9 @@
     "headless-cms",
     "telehealth-platforms",
     "shopify-apps-conversion",
-    "no-code-platforms"
+    "no-code-platforms",
+    "automation-platforms",
+    "cap-table-software"
   ],
   "skipped": []
 }
