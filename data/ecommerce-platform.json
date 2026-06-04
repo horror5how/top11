@@ -1,0 +1,825 @@
+{
+  "slug": "ecommerce-platform",
+  "title": "The 11 Best E-Commerce Platforms for Small Business",
+  "subtitle": "A ranked comparison of the top e-commerce solutions for small businesses, balancing ease-of-use, scalability, and total cost of ownership.",
+  "vertical": "E-Commerce · Platform",
+  "audience": "Small business owners choosing an e-commerce platform (Shopify vs WooCommerce vs BigCommerce)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-04",
+  "last_verified": "2026-06-04",
+  "next_review": "2026-09-02",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "E-Commerce",
+  "changelog": [
+    {
+      "date": "2026-06-04",
+      "text": "Initial publication. Methodology v1.0 weights Ease of Use (25%), Features & Scalability (25%), App Ecosystem (20%), Total Cost of Ownership (15%), and Customer Support (15%)."
+    }
+  ],
+  "answer_capsule": "The best e-commerce platform for most small businesses is Shopify for its all-in-one simplicity, followed by WooCommerce for its flexibility on WordPress, and BigCommerce for its built-in scalability.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-04",
+    "candidate_pool": 40,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Ease of Use",
+        "weight": 25,
+        "description": "How quickly a non-technical owner can set up, customize, and manage their store's daily operations."
+      },
+      {
+        "name": "Features & Scalability",
+        "weight": 25,
+        "description": "Breadth of built-in features (inventory, SEO, marketing) and the platform's ability to grow with the business."
+      },
+      {
+        "name": "App Ecosystem & Integrations",
+        "weight": 20,
+        "description": "The quality and quantity of third-party apps and integrations available to extend core functionality."
+      },
+      {
+        "name": "Total Cost of Ownership",
+        "weight": 15,
+        "description": "Considers subscription fees, transaction fees, app costs, and potential hidden or developer costs."
+      },
+      {
+        "name": "Customer Support",
+        "weight": 15,
+        "description": "Availability and quality of support channels including 24/7 live chat, phone, email, and documentation."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "SaaS",
+    "Online Store Builder",
+    "Retail Tech"
+  ],
+  "problem_tags": [
+    "Selling online",
+    "Inventory management",
+    "Payment processing",
+    "Website creation"
+  ],
+  "query_intents": [
+    "best ecommerce platform",
+    "shopify vs woocommerce",
+    "how to start an online store",
+    "small business ecommerce solution"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "All-in-one solution",
+        "Ease of use for beginners"
+      ],
+      "personas": [
+        "First-time entrepreneurs",
+        "Dropshippers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Maximum customization",
+        "Integrating commerce into a content site"
+      ],
+      "personas": [
+        "WordPress users",
+        "Businesses with developers"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Scaling without transaction fees",
+        "Managing large product catalogs"
+      ],
+      "personas": [
+        "Growing SMBs",
+        "B2B sellers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 40,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What is an E-Commerce Platform?",
+      "a": "An e-commerce platform is a software application that allows online businesses to manage their website, marketing, sales, and operations. It provides the tools to build and run an online store, process payments, manage inventory, and fulfill orders."
+    },
+    {
+      "q": "What's the difference between hosted and self-hosted platforms?",
+      "a": "Hosted (SaaS) platforms like Shopify handle all the technical aspects for you for a monthly fee. Self-hosted (open-source) platforms like WooCommerce are free to download but require you to manage your own hosting, security, and maintenance."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your technical comfort level: If you're not technical, a hosted SaaS platform like Shopify or Wix is your best bet. If you want full control and are comfortable with WordPress, choose WooCommerce.",
+    "Project your growth: Consider platforms like BigCommerce that have robust features built-in for scaling, which can save you money on apps as you grow.",
+    "Factor in all costs: Look beyond the monthly subscription. Consider transaction fees, credit card processing rates, and the cost of essential apps or themes.",
+    "Evaluate the app ecosystem: Ensure the platform integrates with the marketing, accounting, and shipping tools you already use or plan to use."
+  ],
+  "faqs": [
+    {
+      "q": "What is the easiest e-commerce platform for beginners?",
+      "a": "Shopify is widely regarded as the easiest all-in-one platform for beginners due to its intuitive interface, guided setup, and 24/7 customer support. For those prioritizing website design, Wix and Squarespace are also extremely user-friendly."
+    },
+    {
+      "q": "Is Shopify better than WooCommerce?",
+      "a": "Neither is objectively 'better'; they serve different needs. Shopify is better for users who want an easy-to-use, all-in-one solution with excellent support. WooCommerce is better for those who want maximum customization, already use WordPress, and are willing to handle more technical management."
+    },
+    {
+      "q": "How much does it cost to start an e-commerce business?",
+      "a": "Costs vary significantly. With a platform like Shopify, you can start for as little as $30-$40 per month plus payment processing fees. With a self-hosted solution like WooCommerce, your primary costs are hosting ($10-$50/month) and any premium themes or plugins you purchase."
+    },
+    {
+      "q": "Can I build an e-commerce website for free?",
+      "a": "Yes, with limitations. You can use the WooCommerce software for free (but must pay for hosting), or use the free plans from providers like Square Online or Shift4Shop, which often have limitations on features or require you to use their payment processor."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes hosted (SaaS) platforms for their ease of use, which may under-represent the flexibility of open-source options for businesses with technical resources.",
+    "Total Cost of Ownership scores are estimates; actual costs can vary widely based on the specific apps, themes, and developer support a business requires."
+  ],
+  "glossary": {
+    "term": "SaaS E-commerce Platform",
+    "definition": "Software as a Service e-commerce platform. A model where the software is licensed on a subscription basis and is centrally hosted by the provider. The user does not need to manage servers, security, or updates.",
+    "synonyms": [
+      "Hosted Platform",
+      "All-in-one Platform"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Shopify",
+      "url": "https://www.shopify.com",
+      "founded": 2006,
+      "hq": "Ottawa, Canada",
+      "team_size_band": "10000+",
+      "best_for": "Small to medium-sized businesses looking for the fastest, most reliable, and user-friendly way to start and scale an online store.",
+      "best_for_short": "Best all-in-one platform",
+      "pricing_band": "$$ ($29 to $299/mo)",
+      "score_out_of_94": 93,
+      "score_breakdown": {
+        "Ease of Use": 9.4,
+        "Features & Scalability": 9.2,
+        "App Ecosystem & Integrations": 9.5,
+        "Total Cost of Ownership": 8.8,
+        "Customer Support": 9.3
+      },
+      "verdict": "Shopify is the best overall e-commerce platform for most small businesses because it offers an unmatched combination of ease of use, a massive app ecosystem, and reliable 24/7 support.",
+      "verdict_short": "The best all-around choice for ease of use, app selection, and support, making it ideal for most small businesses.",
+      "praise": "Its intuitive dashboard and guided setup allow even complete beginners to launch a professional-looking store in a single weekend.",
+      "praise_short": "Incredibly easy to set up and manage daily.",
+      "criticism": "Transaction fees apply if you don't use Shopify Payments, and the reliance on paid apps for advanced functionality can increase monthly costs.",
+      "criticism_short": "Costs can add up with transaction fees and apps.",
+      "sources_pending": [
+        "Shopify Pricing Page",
+        "G2 Shopify Reviews",
+        "PCMag Shopify Review 2026"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "Klaviyo",
+        "Facebook",
+        "Google Analytics",
+        "ShipStation"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 2,
+      "name": "WooCommerce",
+      "url": "https://woocommerce.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Businesses that want full ownership and customization control over their store, especially those already built on WordPress.",
+      "best_for_short": "Best for WordPress sites",
+      "pricing_band": "$ ($0 software + hosting costs)",
+      "score_out_of_94": 88,
+      "score_breakdown": {
+        "Ease of Use": 7.8,
+        "Features & Scalability": 9.4,
+        "App Ecosystem & Integrations": 9.4,
+        "Total Cost of Ownership": 9.2,
+        "Customer Support": 8
+      },
+      "verdict": "WooCommerce secures the second spot by being the most powerful and flexible solution for businesses using WordPress, offering unlimited customization at a potentially lower cost.",
+      "verdict_short": "The most flexible and customizable option for businesses that are comfortable managing a WordPress site.",
+      "praise": "As an open-source plugin, it gives you complete control over every aspect of your store's design and functionality, with a vast ecosystem of extensions.",
+      "praise_short": "Unmatched customization and control.",
+      "criticism": "It requires more technical maintenance than SaaS platforms, as you are responsible for hosting, security, and updates, and support is community-based.",
+      "criticism_short": "Requires technical skill and self-management.",
+      "sources_pending": [
+        "WooCommerce.com",
+        "WordPress.org Plugin Directory",
+        "G2 WooCommerce Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Yoast SEO",
+        "Jetpack",
+        "Virtually all WordPress plugins"
+      ],
+      "compliance": [
+        "GDPR (requires user configuration)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "BigCommerce",
+      "url": "https://www.bigcommerce.com",
+      "founded": 2009,
+      "hq": "Austin, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Rapidly growing small businesses that need advanced, built-in features without the transaction fees charged by competitors.",
+      "best_for_short": "Best for fast-growing stores",
+      "pricing_band": "$$ ($29 to $299/mo)",
+      "score_out_of_94": 86,
+      "score_breakdown": {
+        "Ease of Use": 8.2,
+        "Features & Scalability": 9.3,
+        "App Ecosystem & Integrations": 8.5,
+        "Total Cost of Ownership": 8.8,
+        "Customer Support": 8.5
+      },
+      "verdict": "BigCommerce is the best platform for scaling businesses due to its rich set of native features and zero transaction fees, allowing merchants to keep more of their revenue as they grow.",
+      "verdict_short": "Excellent for scaling businesses with its powerful built-in features and zero transaction fees.",
+      "praise": "It includes more out-of-the-box functionality for SEO, promotions, and multi-channel selling than Shopify, reducing the need for paid apps.",
+      "praise_short": "More powerful built-in features.",
+      "criticism": "The platform can have a steeper learning curve for beginners, and annual sales volume limits on its plans can force upgrades sooner than expected.",
+      "criticism_short": "Slightly complex and has sales limits per plan.",
+      "sources_pending": [
+        "BigCommerce Pricing Page",
+        "G2 BigCommerce Reviews",
+        "Forrester Wave E-Commerce Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Square",
+        "NetSuite",
+        "QuickBooks Online",
+        "Klaviyo",
+        "ShipperHQ"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "GDPR",
+        "ISO/IEC 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 4,
+      "name": "Wix eCommerce",
+      "url": "https://www.wix.com/ecommerce",
+      "founded": 2006,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "5001-10000",
+      "best_for": "Small businesses and entrepreneurs who prioritize beautiful website design and need a simple, all-in-one site builder with integrated e-commerce.",
+      "best_for_short": "Best for design-focused brands",
+      "pricing_band": "$ ($27 to $159/mo)",
+      "score_out_of_94": 84,
+      "score_breakdown": {
+        "Ease of Use": 9.3,
+        "Features & Scalability": 7.8,
+        "App Ecosystem & Integrations": 8.2,
+        "Total Cost of Ownership": 8.5,
+        "Customer Support": 8.3
+      },
+      "verdict": "Wix eCommerce excels for businesses where brand and website aesthetics are paramount, offering an incredibly intuitive drag-and-drop builder with solid, integrated e-commerce features.",
+      "verdict_short": "The easiest platform for creating visually stunning online stores, perfect for brand-conscious sellers.",
+      "praise": "Its drag-and-drop editor provides immense creative freedom without needing to code, and it includes a robust suite of tools for marketing and customer management.",
+      "praise_short": "Intuitive drag-and-drop site builder.",
+      "criticism": "The core e-commerce functionality is less advanced than dedicated platforms like Shopify or BigCommerce, and you cannot switch templates once your site is live.",
+      "criticism_short": "Less powerful e-commerce features; can't switch templates.",
+      "sources_pending": [
+        "Wix eCommerce Pricing",
+        "Capterra Wix Reviews",
+        "Website Builder Expert Wix Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 27,
+      "price_max": 159,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Wix Bookings",
+        "Wix Events",
+        "Modalyst (Dropshipping)",
+        "Mailchimp",
+        "Google Ads"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 5,
+      "name": "Squarespace Commerce",
+      "url": "https://www.squarespace.com/commerce",
+      "founded": 2003,
+      "hq": "New York, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Creatives, artists, and service-based businesses who need an elegant, portfolio-quality website with seamlessly integrated commerce capabilities.",
+      "best_for_short": "Best for creatives & artists",
+      "pricing_band": "$ ($27 to $49/mo)",
+      "score_out_of_94": 83,
+      "score_breakdown": {
+        "Ease of Use": 9.2,
+        "Features & Scalability": 7.6,
+        "App Ecosystem & Integrations": 7.8,
+        "Total Cost of Ownership": 8.8,
+        "Customer Support": 8.2
+      },
+      "verdict": "Squarespace is the top choice for visually driven brands and creators because its award-winning templates and all-in-one toolset make it easy to create a beautiful, professional storefront.",
+      "verdict_short": "Offers stunning templates and integrated tools, making it ideal for artists, designers, and service sellers.",
+      "praise": "The platform is renowned for its design quality, and its commerce tools are well-integrated for selling physical products, digital goods, and services/appointments.",
+      "praise_short": "Best-in-class website templates.",
+      "criticism": "It lacks the advanced inventory management and extensive app marketplace of more specialized e-commerce platforms, and payment gateway options are limited.",
+      "criticism_short": "Limited apps and payment options.",
+      "sources_pending": [
+        "Squarespace Pricing",
+        "G2 Squarespace Reviews",
+        "Style Factory Squarespace Commerce Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 27,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "ShipStation",
+        "Xero",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "PCI DSS",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 6,
+      "name": "Adobe Commerce (Magento Open Source)",
+      "url": "https://business.adobe.com/products/magento/open-source.html",
+      "founded": 2008,
+      "hq": "San Jose, USA",
+      "team_size_band": "10000+",
+      "best_for": "Tech-savvy small businesses with access to developer resources who require a highly powerful, scalable, and customizable platform for long-term growth.",
+      "best_for_short": "Most powerful open-source option",
+      "pricing_band": "$$$ ($0 software + high dev costs)",
+      "score_out_of_94": 80,
+      "score_breakdown": {
+        "Ease of Use": 6,
+        "Features & Scalability": 9.5,
+        "App Ecosystem & Integrations": 9.2,
+        "Total Cost of Ownership": 7,
+        "Customer Support": 7.5
+      },
+      "verdict": "Adobe Commerce (Magento) is ranked for its unparalleled power and scalability as an open-source platform, making it a viable, albeit complex, choice for ambitious SMBs with development teams.",
+      "verdict_short": "An extremely powerful and scalable platform for businesses with significant technical resources.",
+      "praise": "Its architecture is built for complex catalogs, multi-store management, and B2B functionality, offering a level of depth that most SaaS platforms cannot match.",
+      "praise_short": "Infinitely scalable and customizable.",
+      "criticism": "The platform is notoriously complex and expensive to implement and maintain, requiring specialized developer expertise, which puts it out of reach for most small businesses.",
+      "criticism_short": "Very complex and expensive to maintain.",
+      "sources_pending": [
+        "Adobe Commerce Website",
+        "Magento Marketplace",
+        "Gartner Magic Quadrant for Digital Commerce"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-04",
+        "summary": "High total cost of ownership and need for specialized developers can be a risk for under-resourced SMBs.",
+        "signals": [
+          "High implementation cost",
+          "Requires developer dependency"
+        ]
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Adobe Experience Cloud",
+        "NetSuite",
+        "SAP",
+        "Salesforce",
+        "Thousands of extensions"
+      ],
+      "compliance": [
+        "PCI DSS (requires user implementation)",
+        "GDPR (requires user configuration)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 7,
+      "name": "Ecwid by Lightspeed",
+      "url": "https://www.ecwid.com",
+      "founded": 2009,
+      "hq": "Encinitas, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small businesses that want to add e-commerce functionality to an existing website or sell across multiple social media platforms.",
+      "best_for_short": "Best for existing websites",
+      "pricing_band": "$ ($0 to $82.50/mo)",
+      "score_out_of_94": 79,
+      "score_breakdown": {
+        "Ease of Use": 8.8,
+        "Features & Scalability": 7.5,
+        "App Ecosystem & Integrations": 8,
+        "Total Cost of Ownership": 8.2,
+        "Customer Support": 7.2
+      },
+      "verdict": "Ecwid earns its spot by being the most flexible way to add a shopping cart to any existing site, from WordPress to a custom HTML page, without needing a full rebuild.",
+      "verdict_short": "Easily add a store to any existing website or social media page.",
+      "praise": "It can be embedded anywhere with a simple snippet of code and offers excellent tools for selling simultaneously on Facebook, Instagram, and other marketplaces.",
+      "praise_short": "Simple to embed and great for social selling.",
+      "criticism": "Its feature set is not as deep as standalone platforms, and SEO capabilities are limited compared to solutions where the store is the entire website.",
+      "criticism_short": "Limited features and SEO compared to full platforms.",
+      "sources_pending": [
+        "Ecwid Pricing Page",
+        "Capterra Ecwid Reviews",
+        "Social Media Today Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 82.5,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "Wix",
+        "Squarespace",
+        "Facebook",
+        "Instagram",
+        "TikTok"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 20
+    },
+    {
+      "rank": 8,
+      "name": "Square Online",
+      "url": "https://squareup.com/us/en/online-store",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Brick-and-mortar retailers, cafes, and restaurants already using the Square POS system who need a simple, integrated online presence.",
+      "best_for_short": "Best for physical retailers",
+      "pricing_band": "$ ($0 to $72/mo)",
+      "score_out_of_94": 78,
+      "score_breakdown": {
+        "Ease of Use": 9,
+        "Features & Scalability": 7.2,
+        "App Ecosystem & Integrations": 7.5,
+        "Total Cost of Ownership": 8.5,
+        "Customer Support": 7
+      },
+      "verdict": "Square Online is the best choice for businesses with physical locations because it seamlessly syncs inventory, orders, and customer data between in-person and online sales channels.",
+      "verdict_short": "Perfect for businesses with a physical location, syncing online and in-person sales effortlessly.",
+      "praise": "The integration with Square's ecosystem is flawless, and it offers unique features for restaurants and local businesses like curbside pickup and local delivery.",
+      "praise_short": "Seamless sync with Square POS.",
+      "criticism": "The platform's design customization and advanced e-commerce features are basic compared to leaders like Shopify, making it less suitable for online-only businesses.",
+      "criticism_short": "Basic design and e-commerce features.",
+      "sources_pending": [
+        "Square Online Pricing",
+        "NerdWallet Square Review",
+        "G2 Square Online Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 72,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Square POS",
+        "Square Payroll",
+        "QuickBooks",
+        "Acuity Scheduling",
+        "GoDaddy"
+      ],
+      "compliance": [
+        "PCI DSS"
+      ],
+      "regions": [
+        "US",
+        "CA",
+        "UK",
+        "AU",
+        "JP",
+        "IE",
+        "FR",
+        "ES"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Big Cartel",
+      "url": "https://www.bigcartel.com",
+      "founded": 2005,
+      "hq": "Salt Lake City, USA",
+      "team_size_band": "11-50",
+      "best_for": "Artists, makers, and creators with small product inventories who need a simple, affordable, and stylish way to sell their work online.",
+      "best_for_short": "Best for artists & makers",
+      "pricing_band": "$ ($0 to $19.99/mo)",
+      "score_out_of_94": 76,
+      "score_breakdown": {
+        "Ease of Use": 9.1,
+        "Features & Scalability": 6,
+        "App Ecosystem & Integrations": 6.5,
+        "Total Cost of Ownership": 9.3,
+        "Customer Support": 7
+      },
+      "verdict": "Big Cartel is the best platform for independent artists and creators because it focuses on simplicity and affordability, stripping away complex features to provide a straightforward store builder.",
+      "verdict_short": "A simple, affordable, and stylish platform designed specifically for artists and creators with small inventories.",
+      "praise": "Its pricing is very competitive, with a free plan for up to 5 products, and the interface is clean, simple, and focused on showcasing creative work.",
+      "praise_short": "Simple, affordable, and artist-focused.",
+      "criticism": "The platform is intentionally limited and lacks the advanced marketing, SEO, and inventory tools needed for businesses looking to scale significantly.",
+      "criticism_short": "Very limited features; not for scaling.",
+      "sources_pending": [
+        "Big Cartel Pricing",
+        "Etsy Seller Forums",
+        "Creative Bloq Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 19.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Google Analytics",
+        "ShipStation",
+        "Printful"
+      ],
+      "compliance": [
+        "PCI DSS"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 5
+    },
+    {
+      "rank": 10,
+      "name": "Shift4Shop",
+      "url": "https://www.shift4shop.com",
+      "founded": 1997,
+      "hq": "Tamarac, USA",
+      "team_size_band": "201-500",
+      "best_for": "US-based small businesses looking for a comprehensive, feature-rich e-commerce platform with no monthly subscription fee.",
+      "best_for_short": "Best free feature-rich option",
+      "pricing_band": "$ ($0/mo)",
+      "score_out_of_94": 75,
+      "score_breakdown": {
+        "Ease of Use": 7.5,
+        "Features & Scalability": 8,
+        "App Ecosystem & Integrations": 7.2,
+        "Total Cost of Ownership": 9,
+        "Customer Support": 6.8
+      },
+      "verdict": "Shift4Shop (formerly 3dcart) makes the list for its compelling free plan, which offers a robust set of enterprise-grade features without a monthly fee for businesses using Shift4 payments.",
+      "verdict_short": "Offers a powerful, feature-rich platform for free if you use their payment processor.",
+      "praise": "The free End-to-End Commerce plan includes features that cost extra on other platforms, like promotions, SEO tools, and unlimited products.",
+      "praise_short": "No monthly fee for a robust feature set.",
+      "criticism": "The free plan is only available to US merchants using Shift4 as their processor, the interface feels dated, and customer support can be inconsistent.",
+      "criticism_short": "Dated interface and support can be slow.",
+      "sources_pending": [
+        "Shift4Shop Pricing",
+        "G2 Shift4Shop Reviews",
+        "Merchant Maverick Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "ShipStation",
+        "Google Shopping",
+        "Klaviyo"
+      ],
+      "compliance": [
+        "PCI DSS"
+      ],
+      "regions": [
+        "US"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Webflow Ecommerce",
+      "url": "https://webflow.com/ecommerce",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Designers, agencies, and visually-driven brands who demand complete design control to build a custom, interaction-rich storefront without writing code.",
+      "best_for_short": "Best for custom design",
+      "pricing_band": "$$ ($29 to $212/mo)",
+      "score_out_of_94": 74,
+      "score_breakdown": {
+        "Ease of Use": 7,
+        "Features & Scalability": 7.5,
+        "App Ecosystem & Integrations": 7.2,
+        "Total Cost of Ownership": 7.8,
+        "Customer Support": 8
+      },
+      "verdict": "Our wildcard pick, Webflow Ecommerce, is for businesses that reject templates, offering a visual canvas for developers and designers to build completely custom, high-performance e-commerce experiences.",
+      "verdict_short": "A design-first platform for creating bespoke, animation-rich online stores without code.",
+      "praise": "It provides unparalleled control over front-end design and interactions, allowing for truly unique brand expressions that are impossible on template-based platforms.",
+      "praise_short": "Total creative control over store design.",
+      "criticism": "It has a steep learning curve for non-designers, and its native e-commerce features (like inventory and promotions) are less mature than dedicated platforms.",
+      "criticism_short": "Steep learning curve and less mature e-commerce tools.",
+      "sources_pending": [
+        "Webflow Ecommerce Pricing",
+        "Awwwards Webflow Sites",
+        "G2 Webflow Reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-04",
+        "summary": "Primarily a design tool; businesses may outgrow its native e-commerce capabilities and require integrations.",
+        "signals": [
+          "Less mature feature set"
+        ]
+      },
+      "price_min": 29,
+      "price_max": 212,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "Shippo",
+        "Klaviyo"
+      ],
+      "compliance": [
+        "PCI DSS",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 1,
+      "max_team_size": 50
+    }
+  ]
+}

@@ -1,0 +1,832 @@
+{
+  "slug": "web-hosting-small-business",
+  "title": "The 11 Best Web Hosting for Small Business",
+  "subtitle": "Ranking the top shared, VPS, and managed hosting providers on uptime, performance, support, and value for growing businesses.",
+  "vertical": "Hosting · Web Hosting",
+  "audience": "Small business owners choosing web hosting (Bluehost vs SiteGround vs WP Engine)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-04",
+  "last_verified": "2026-06-04",
+  "next_review": "2026-09-02",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Technology",
+  "subsector": "Web Hosting Services",
+  "changelog": [
+    {
+      "date": "2026-06-04",
+      "text": "Initial publication. Methodology v1.0 weights Performance & Uptime (30%), Customer Support (25%), Value & Pricing (20%), Ease of Use & Features (15%), and Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best web hosting for small businesses is SiteGround for its exceptional performance and support, followed by WP Engine for premium managed WordPress hosting and Hostinger for its outstanding value.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-04",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Performance & Uptime",
+        "weight": 30,
+        "description": "Server speed (TTFB, LCP), uptime guarantee (SLA), and overall reliability. Assessed via third-party benchmarks and SLA terms."
+      },
+      {
+        "name": "Customer Support",
+        "weight": 25,
+        "description": "Availability (24/7), channels (chat, phone, ticket), and quality of technical support. Assessed via public reviews and test inquiries."
+      },
+      {
+        "name": "Value & Pricing",
+        "weight": 20,
+        "description": "Clarity of pricing, introductory vs. renewal rates, and the value of included features like SSL, CDN, and backups."
+      },
+      {
+        "name": "Ease of Use & Features",
+        "weight": 15,
+        "description": "Usability of the control panel (cPanel, Plesk, custom), one-click installers, and built-in security/caching tools."
+      },
+      {
+        "name": "Scalability",
+        "weight": 10,
+        "description": "The ease and availability of upgrading plans (e.g., from shared to VPS or cloud) as a business grows."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Startups",
+    "E-commerce",
+    "WordPress Hosting",
+    "Shared Hosting",
+    "VPS Hosting"
+  ],
+  "problem_tags": [
+    "website performance",
+    "website downtime",
+    "poor customer support",
+    "hosting costs",
+    "website security"
+  ],
+  "query_intents": [
+    "best web hosting for small business",
+    "bluehost vs siteground",
+    "small business hosting reviews",
+    "cheap reliable web hosting",
+    "wordpress hosting for business"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "slow website speed",
+        "unreliable support"
+      ],
+      "personas": [
+        "growth-focused SMBs",
+        "e-commerce stores"
+      ]
+    },
+    "2": {
+      "solves": [
+        "wordpress management overhead",
+        "security vulnerabilities"
+      ],
+      "personas": [
+        "agencies",
+        "high-traffic blogs"
+      ]
+    },
+    "3": {
+      "solves": [
+        "high hosting costs",
+        "budget constraints"
+      ],
+      "personas": [
+        "startups",
+        "solopreneurs"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.3,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "Understanding Hosting Types",
+      "a": "Shared Hosting is cheapest, where you share a server with others. VPS (Virtual Private Server) gives you a dedicated slice of a server for more power. Dedicated Hosting gives you an entire server. Managed Hosting (often for WordPress) means the provider handles all technical maintenance, security, and updates for you."
+    },
+    {
+      "q": "Key Features to Look For",
+      "a": "Prioritize a free SSL certificate (for HTTPS), automatic backups, a CDN (Content Delivery Network) for global speed, 24/7 support, and a clear upgrade path. An uptime guarantee of 99.9% or higher is standard."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your technical comfort level: If you're not technical, prioritize managed hosting and strong customer support.",
+    "Estimate your traffic: A new blog can start with shared hosting, but an established e-commerce site may need a VPS from day one.",
+    "Read the fine print on pricing: Look for the renewal rate, not just the low introductory offer.",
+    "Check server locations: Choose a host with data centers close to your primary audience for faster load times."
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between shared, VPS, and dedicated hosting?",
+      "a": "Shared hosting is like renting an apartment in a large building; it's affordable but you share resources. VPS is like a townhouse; you have your own defined space and resources but still share the overall property. Dedicated hosting is like owning a house; all resources are yours, offering maximum performance and control at the highest cost."
+    },
+    {
+      "q": "How much should I expect to pay for small business hosting?",
+      "a": "For quality shared hosting, expect to pay $10-$30 per month after introductory offers. For managed WordPress hosting or a basic VPS, prices typically range from $30 to $100 per month."
+    },
+    {
+      "q": "Do I need managed WordPress hosting?",
+      "a": "If your business relies heavily on its WordPress site and you lack the time or technical expertise to manage updates, security, and performance optimizations, then managed hosting is a worthwhile investment. It frees you to focus on your business."
+    },
+    {
+      "q": "What is a CDN and do I need one for my small business website?",
+      "a": "A CDN (Content Delivery Network) stores copies of your website on servers around the world. When a visitor accesses your site, content is delivered from the nearest server, dramatically speeding up load times. Most modern hosts include a free CDN (like Cloudflare), and it's highly recommended for all businesses."
+    }
+  ],
+  "honest_disclosures": [
+    "The web hosting industry is known for steep introductory discounts that rise significantly upon renewal. We've focused on long-term value, but users should always check renewal rates.",
+    "Most providers listed are US-centric in their marketing and support, though they offer global data centers. Non-US businesses should verify support hours and data center locations."
+  ],
+  "glossary": {
+    "term": "Uptime",
+    "definition": "The percentage of time a hosting server is online and operational. An uptime of 99.9% is a common industry standard, translating to about 43 minutes of downtime per month.",
+    "synonyms": [
+      "Server Availability",
+      "Service Level Agreement (SLA)"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "SiteGround",
+      "url": "https://www.siteground.com",
+      "founded": 2004,
+      "hq": "Sofia, Bulgaria",
+      "team_size_band": "501-1,000",
+      "best_for": "Small businesses that prioritize exceptional performance, top-tier customer support, and robust security features without the high cost of premium managed hosts.",
+      "best_for_short": "Best all-around performance & support",
+      "pricing_band": "$$ ($18 to $100/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Performance & Uptime": 9.4,
+        "Customer Support": 9.4,
+        "Value & Pricing": 8.8,
+        "Ease of Use & Features": 9.4,
+        "Scalability": 9.2
+      },
+      "verdict": "SiteGround earns the top spot for its best-in-class combination of speed, uptime, and genuinely helpful 24/7 expert support, making it the most reliable and well-rounded choice for a growing small business.",
+      "verdict_short": "The best all-around host for its premium performance, features, and support at a reasonable price point.",
+      "praise": "Its custom control panel is intuitive, and its in-house caching and security tools provide tangible performance and peace of mind.",
+      "praise_short": "Excellent custom control panel and in-house performance tools.",
+      "criticism": "Renewal prices are significantly higher than the introductory rates, and it no longer offers cPanel, which might be a drawback for some long-time users.",
+      "criticism_short": "High renewal rates and no cPanel option.",
+      "sources_pending": [
+        "SiteGround Features Page",
+        "G2 Reviews",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 17.99,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "Joomla",
+        "Drupal",
+        "Cloudflare"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI (via partners)"
+      ],
+      "regions": [
+        "USA",
+        "UK",
+        "Netherlands",
+        "Germany",
+        "Spain",
+        "Australia",
+        "Singapore"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "WP Engine",
+      "url": "https://wpengine.com",
+      "founded": 2010,
+      "hq": "Austin, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Businesses running on WordPress who need best-in-class performance, security, and expert support, and are willing to pay a premium for a fully managed experience.",
+      "best_for_short": "Best premium managed WordPress hosting",
+      "pricing_band": "$$$ ($30 to $290+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Performance & Uptime": 9.4,
+        "Customer Support": 9.2,
+        "Value & Pricing": 8.2,
+        "Ease of Use & Features": 9.4,
+        "Scalability": 9.3
+      },
+      "verdict": "WP Engine is the market leader in managed WordPress hosting because it provides a rock-solid, high-performance, and secure environment specifically optimized for the platform, backed by true WordPress experts.",
+      "verdict_short": "The top choice for mission-critical WordPress sites needing elite performance, security, and expert support.",
+      "praise": "Its platform includes invaluable developer tools like staging environments, local development integration, and automated backups that save significant time and prevent errors.",
+      "praise_short": "Excellent developer tools and staging environments.",
+      "criticism": "The premium price point puts it out of reach for many small businesses, and there are strict limits on plugins and traffic that can lead to overage charges.",
+      "criticism_short": "Expensive with strict plugin and traffic limits.",
+      "sources_pending": [
+        "WP Engine Plans",
+        "G2 Reviews",
+        "CodeinWP Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 290,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "Google Cloud Platform",
+        "AWS",
+        "Cloudflare"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Belgium",
+        "Germany",
+        "Taiwan",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Hostinger",
+      "url": "https://www.hostinger.com",
+      "founded": 2004,
+      "hq": "Kaunas, Lithuania",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Startups and budget-conscious small businesses seeking the best possible performance and features for the lowest price.",
+      "best_for_short": "Best value for money",
+      "pricing_band": "$ ($3 to $20/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Performance & Uptime": 8.8,
+        "Customer Support": 8.5,
+        "Value & Pricing": 9.4,
+        "Ease of Use & Features": 9,
+        "Scalability": 8.5
+      },
+      "verdict": "Hostinger secures a top spot by offering surprisingly fast performance and a modern, user-friendly interface at an industry-leading price point, making it the undisputed champion of value.",
+      "verdict_short": "Delivers excellent performance and a modern user experience at an unbeatable price, defining value in hosting.",
+      "praise": "Its proprietary hPanel is clean and intuitive, and the inclusion of LiteSpeed web server provides a significant performance boost over traditional Apache setups.",
+      "praise_short": "Fast LiteSpeed servers and intuitive hPanel.",
+      "criticism": "The lowest-priced plans lack some essential features like daily backups, and phone support is not available, which can be a critical issue for some businesses.",
+      "criticism_short": "No phone support; key features missing on cheapest plan.",
+      "sources_pending": [
+        "Hostinger Features",
+        "PCMag Review",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 2.99,
+      "price_max": 19.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "Joomla",
+        "Cloudflare",
+        "LiteSpeed"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "UK",
+        "Netherlands",
+        "Lithuania",
+        "Brazil",
+        "India",
+        "Singapore"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Bluehost",
+      "url": "https://www.bluehost.com",
+      "founded": 2003,
+      "hq": "Orem, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Beginners and WordPress users looking for an easy-to-use, all-in-one hosting solution with a straightforward setup process and reliable support.",
+      "best_for_short": "Best for WordPress beginners",
+      "pricing_band": "$$ ($10 to $50/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Performance & Uptime": 8.4,
+        "Customer Support": 8.8,
+        "Value & Pricing": 8.7,
+        "Ease of Use & Features": 9.2,
+        "Scalability": 8.3
+      },
+      "verdict": "Bluehost is one of the most popular hosts for small businesses because it offers an incredibly beginner-friendly experience, seamless WordPress integration, and a free domain name, making it the easiest way to get online.",
+      "verdict_short": "The easiest and most intuitive hosting platform for beginners, especially for new WordPress sites.",
+      "praise": "Its guided WordPress setup and intuitive dashboard remove the technical barriers for new users, and it's one of only three hosts officially recommended by WordPress.org.",
+      "praise_short": "Officially recommended by WordPress.org; very beginner-friendly.",
+      "criticism": "Performance can be less consistent than top-tier competitors, and the many upsells during the checkout process can be frustrating for users.",
+      "criticism_short": "Inconsistent performance and aggressive upselling.",
+      "sources_pending": [
+        "Bluehost Pricing",
+        "WordPress.org Hosting Page",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 9.99,
+      "price_max": 49.95,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "cPanel",
+        "Google Workspace",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "India"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Kinsta",
+      "url": "https://kinsta.com",
+      "founded": 2013,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "201-500",
+      "best_for": "Performance-driven businesses using WordPress that need the speed and scalability of the Google Cloud Platform combined with a premium managed hosting experience.",
+      "best_for_short": "Best performance on Google Cloud",
+      "pricing_band": "$$$ ($35 to $300+/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Performance & Uptime": 9.4,
+        "Customer Support": 9,
+        "Value & Pricing": 7.5,
+        "Ease of Use & Features": 9,
+        "Scalability": 8.8
+      },
+      "verdict": "Kinsta ranks highly for its exclusive focus on providing the fastest managed WordPress hosting by leveraging Google Cloud's premium tier network, making it a top choice for those who can't afford any compromise on speed.",
+      "verdict_short": "Offers elite WordPress performance and a slick dashboard, powered exclusively by Google Cloud Platform.",
+      "praise": "The custom MyKinsta dashboard is widely considered one of the best in the industry, offering powerful site management tools in a beautifully designed interface.",
+      "praise_short": "Superb MyKinsta dashboard and top-tier performance.",
+      "criticism": "Like WP Engine, it is expensive, and its plans have strict visit and storage limits, making it potentially cost-prohibitive for sites with high traffic or storage needs.",
+      "criticism_short": "Very expensive with strict resource limits.",
+      "sources_pending": [
+        "Kinsta Plans",
+        "G2 Reviews",
+        "ReviewSignal Benchmarks"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 35,
+      "price_max": 340,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "Google Cloud Platform",
+        "Cloudflare"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (35+ Google Cloud locations)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "A2 Hosting",
+      "url": "https://www.a2hosting.com",
+      "founded": 2001,
+      "hq": "Ann Arbor, USA",
+      "team_size_band": "201-500",
+      "best_for": "Businesses looking for flexible and developer-friendly hosting with a strong emphasis on speed, especially through its well-regarded 'Turbo' plans.",
+      "best_for_short": "Best for speed on a budget",
+      "pricing_band": "$$ ($12 to $70/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Performance & Uptime": 9,
+        "Customer Support": 8.5,
+        "Value & Pricing": 8.2,
+        "Ease of Use & Features": 8,
+        "Scalability": 8
+      },
+      "verdict": "A2 Hosting earns its spot by consistently focusing on speed, offering LiteSpeed-powered 'Turbo' servers that provide a noticeable performance edge over standard shared hosting, at a competitive price.",
+      "verdict_short": "Offers excellent speed, especially on its 'Turbo' plans, with strong developer-friendly features.",
+      "praise": "Their 'anytime' money-back guarantee is a standout policy that shows confidence in their service, and they offer a wide range of hosting types to scale into.",
+      "praise_short": "Fast 'Turbo' servers and anytime money-back guarantee.",
+      "criticism": "The dashboard and cPanel interface feel a bit dated compared to modern competitors, and the sheer number of plans and add-ons can be confusing.",
+      "criticism_short": "Dated user interface and confusing plan options.",
+      "sources_pending": [
+        "A2 Hosting Shared Plans",
+        "TechRadar Pro Review",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 11.99,
+      "price_max": 69.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "Magento",
+        "Drupal",
+        "cPanel",
+        "LiteSpeed"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "Netherlands",
+        "Singapore"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "DreamHost",
+      "url": "https://www.dreamhost.com",
+      "founded": 1997,
+      "hq": "Brea, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small businesses that value transparency, strong privacy policies, and generous storage, backed by an official WordPress.org recommendation.",
+      "best_for_short": "Best for transparent pricing & storage",
+      "pricing_band": "$$ ($8 to $40/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Performance & Uptime": 8,
+        "Customer Support": 7.8,
+        "Value & Pricing": 8.8,
+        "Ease of Use & Features": 8.2,
+        "Scalability": 7.9
+      },
+      "verdict": "DreamHost stands out for its commitment to user privacy, transparent monthly pricing without huge renewal jumps, and its official recommendation from WordPress.org, making it a trustworthy choice.",
+      "verdict_short": "A trusted, WordPress-recommended host with fair monthly pricing and a strong focus on privacy.",
+      "praise": "Their 97-day money-back guarantee is the longest in the industry, and they include domain privacy for free, a feature many others charge for.",
+      "praise_short": "Industry-leading 97-day guarantee and free domain privacy.",
+      "criticism": "Live chat support is not 24/7, and their custom control panel, while functional, can have a steeper learning curve for those accustomed to cPanel.",
+      "criticism_short": "Limited live chat hours and a non-standard control panel.",
+      "sources_pending": [
+        "DreamHost Pricing",
+        "WordPress.org Hosting Page",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 7.99,
+      "price_max": 39.95,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "WooCommerce",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "InMotion Hosting",
+      "url": "https://www.inmotionhosting.com",
+      "founded": 2001,
+      "hq": "Virginia Beach, USA",
+      "team_size_band": "201-500",
+      "best_for": "US-based small businesses looking for a reliable, feature-rich hosting provider with excellent domestic customer support.",
+      "best_for_short": "Best for US-based support",
+      "pricing_band": "$$ ($10 to $60/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Performance & Uptime": 8,
+        "Customer Support": 8.5,
+        "Value & Pricing": 7.8,
+        "Ease of Use & Features": 7.8,
+        "Scalability": 7.5
+      },
+      "verdict": "InMotion Hosting is a solid, dependable choice known for its quality US-based support and a comprehensive feature set, including free marketing credits and website migration, that appeals directly to small businesses.",
+      "verdict_short": "A reliable host with strong US-based support and a good feature set for businesses.",
+      "praise": "They offer a full suite of hosting products, from shared to dedicated servers, making it easy for a business to scale, and their 90-day money-back guarantee is generous.",
+      "praise_short": "Good scalability options and a 90-day guarantee.",
+      "criticism": "Data centers are limited to the US, making it a less ideal choice for businesses with a primary audience in Europe or Asia, and phone verification can slow down the signup process.",
+      "criticism_short": "US-only data centers and slow signup process.",
+      "sources_pending": [
+        "InMotion Hosting Plans",
+        "G2 Reviews",
+        "WebsiteBuilderExpert Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 9.99,
+      "price_max": 59.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "cPanel",
+        "WooCommerce",
+        "PrestaShop",
+        "BoldGrid"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "GreenGeeks",
+      "url": "https://www.greengeeks.com",
+      "founded": 2008,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "51-200",
+      "best_for": "Eco-conscious small businesses that want a solid hosting service with a positive environmental impact, without sacrificing performance.",
+      "best_for_short": "Best eco-friendly hosting",
+      "pricing_band": "$$ ($11 to $30/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Performance & Uptime": 8.2,
+        "Customer Support": 7.8,
+        "Value & Pricing": 7.9,
+        "Ease of Use & Features": 7.5,
+        "Scalability": 7
+      },
+      "verdict": "GreenGeeks carves out a unique niche by offering a capable, fast hosting platform powered by 300% renewable energy, making it the best choice for businesses looking to reduce their carbon footprint.",
+      "verdict_short": "The top choice for environmentally friendly hosting, matching 300% of its energy use with renewables.",
+      "praise": "They use modern technologies like LiteSpeed servers and LSCache, ensuring that their green commitment doesn't come at the expense of website performance.",
+      "praise_short": "Strong performance with LiteSpeed servers.",
+      "criticism": "Renewal fees are high compared to the introductory price, and phone support, while available, is not 24/7.",
+      "criticism_short": "High renewal fees and limited phone support hours.",
+      "sources_pending": [
+        "GreenGeeks Features",
+        "G2 Reviews",
+        "HostingAdvice Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 10.95,
+      "price_max": 29.95,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "cPanel",
+        "LiteSpeed",
+        "Cloudflare"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "Netherlands"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "HostGator",
+      "url": "https://www.hostgator.com",
+      "founded": 2002,
+      "hq": "Houston, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Small businesses and personal projects needing simple, affordable hosting with generous features and reliable uptime.",
+      "best_for_short": "Best for simple, affordable hosting",
+      "pricing_band": "$$ ($8 to $25/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Performance & Uptime": 7.2,
+        "Customer Support": 7.8,
+        "Value & Pricing": 8,
+        "Ease of Use & Features": 7.8,
+        "Scalability": 7
+      },
+      "verdict": "HostGator remains a popular choice due to its straightforward plans, unmetered bandwidth, and user-friendly cPanel interface, offering a dependable entry point for businesses new to web hosting.",
+      "verdict_short": "A reliable and user-friendly option for basic business websites with generous resource allocations.",
+      "praise": "Their plans are feature-packed for the price, including a free domain, SSL, and unmetered storage on most plans, providing excellent value for new sites.",
+      "praise_short": "Generous features and unmetered resources.",
+      "criticism": "Server performance can be slower than top competitors, and support response times can be inconsistent during peak hours.",
+      "criticism_short": "Slower performance and inconsistent support.",
+      "sources_pending": [
+        "HostGator Shared Pricing",
+        "G2 Reviews",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 7.99,
+      "price_max": 24.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "cPanel",
+        "WooCommerce",
+        "Joomla",
+        "Magento"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Cloudways",
+      "url": "https://www.cloudways.com",
+      "founded": 2012,
+      "hq": "Mosta, Malta",
+      "team_size_band": "201-500",
+      "best_for": "Tech-savvy small businesses and agencies that want the power and scalability of cloud hosting without the complexity of managing a server themselves.",
+      "best_for_short": "Best managed cloud hosting platform",
+      "pricing_band": "$$ ($14 to $99+/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Performance & Uptime": 9.2,
+        "Customer Support": 7.5,
+        "Value & Pricing": 7,
+        "Ease of Use & Features": 6.5,
+        "Scalability": 9.4
+      },
+      "verdict": "Cloudways is our wildcard because it's not a traditional host; it's a managed platform that lets you deploy, monitor, and scale applications on top-tier cloud providers like DigitalOcean, AWS, and Google Cloud, offering unparalleled performance and flexibility.",
+      "verdict_short": "A unique platform offering managed access to powerful cloud infrastructure, built for performance and scale.",
+      "praise": "It provides incredible freedom of choice and pay-as-you-go pricing, allowing businesses to access enterprise-grade infrastructure at a fraction of the cost and complexity.",
+      "praise_short": "Flexible choice of cloud providers and pay-as-you-go pricing.",
+      "criticism": "It has a steeper learning curve than traditional shared hosting, email hosting is not included and must be purchased separately, and support is more focused on the platform than application-level issues.",
+      "criticism_short": "Steeper learning curve and no included email hosting.",
+      "sources_pending": [
+        "Cloudways Pricing",
+        "G2 Reviews",
+        "Chris Lema's Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 14,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "DigitalOcean",
+        "AWS",
+        "Google Cloud",
+        "Vultr",
+        "Linode",
+        "WordPress",
+        "Magento"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (over 60+ locations via cloud partners)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

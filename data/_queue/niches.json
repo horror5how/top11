@@ -6,22 +6,6 @@
   },
   "pending": [
     {
-      "slug": "ecommerce-platform",
-      "title": "The 11 Best E-Commerce Platforms for Small Business",
-      "vertical": "E-Commerce · Platform",
-      "audience": "Small business owners choosing an e-commerce platform (Shopify vs WooCommerce vs BigCommerce)",
-      "candidate_pool_size": 40,
-      "priority": 1
-    },
-    {
-      "slug": "web-hosting-small-business",
-      "title": "The 11 Best Web Hosting for Small Business",
-      "vertical": "Hosting · Web Hosting",
-      "audience": "Small business owners choosing web hosting (Bluehost vs SiteGround vs WP Engine)",
-      "candidate_pool_size": 30,
-      "priority": 1
-    },
-    {
       "slug": "seo-tools",
       "title": "The 11 Best SEO Tools for Small Business",
       "vertical": "Marketing · SEO Tools",
@@ -521,7 +505,9 @@
     "accounting-software-small-business",
     "small-business-crm",
     "email-marketing-software",
-    "customer-support-software"
+    "customer-support-software",
+    "ecommerce-platform",
+    "web-hosting-small-business"
   ],
   "skipped": []
 }
