@@ -6,22 +6,6 @@
   },
   "pending": [
     {
-      "slug": "email-marketing-software",
-      "title": "The 11 Best Email Marketing Software",
-      "vertical": "Marketing · Email Marketing",
-      "audience": "Small business owners and marketers choosing email marketing tools (Mailchimp alternatives)",
-      "candidate_pool_size": 35,
-      "priority": 1
-    },
-    {
-      "slug": "customer-support-software",
-      "title": "The 11 Best Customer Support Software",
-      "vertical": "Customer Success · Support Software",
-      "audience": "Small and mid-size businesses choosing help desk and support software (Zendesk alternatives)",
-      "candidate_pool_size": 35,
-      "priority": 1
-    },
-    {
       "slug": "ecommerce-platform",
       "title": "The 11 Best E-Commerce Platforms for Small Business",
       "vertical": "E-Commerce · Platform",
@@ -535,7 +519,9 @@
     "project-management-software",
     "time-tracking-software",
     "accounting-software-small-business",
-    "small-business-crm"
+    "small-business-crm",
+    "email-marketing-software",
+    "customer-support-software"
   ],
   "skipped": []
 }
