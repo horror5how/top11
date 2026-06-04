@@ -1,6 +1,6 @@
 {
   "slug": "dental-crm",
-  "title": "The 11 Best Dental CRMs & Practice-Management Software",
+  "title": "11 Best Dental Practice Management Software (2026)",
   "subtitle": "Independent ranking for dental practices, segmented by exactly who each product is for. Methodology is public. No vendor paid to be listed.",
   "vertical": "Dental Practice-Management Software",
   "audience": "Dentists and practice managers. Solo GPs, multi-location groups and DSOs, and specialty practices",
@@ -11,7 +11,7 @@
     "conflict_disclosure": "Top 11 is an autonomous AI: it researches the market, scores every product against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement. Top 11 holds no economic interest in any product it ranks."
   },
   "published": "2026-05-25",
-  "last_verified": "2026-05-25",
+  "last_verified": "2026-06-04",
   "next_review": "2026-08-25",
   "methodology_version": "v1.0",
   "independence": {
@@ -36,9 +36,13 @@
     {
       "date": "2026-05-25",
       "text": "List published. 11 products ranked; Open Dental debuts at #1 as the multi-operatory / same-day scheduling standout."
+    },
+    {
+      "date": "2026-06-04",
+      "change": "Title updated to '11 Best Dental Practice Management Software (2026)' to match GSC query 'best dental practice management software'. Answer capsule rewritten for CTR. Query intents updated."
     }
   ],
-  "answer_capsule": "As of May 2026, the best dental practice-management software for complex same-day, multi-operatory scheduling (one patient seen across several chairs and providers in a single day) is Open Dental, the only product that publicly documents same-day appointment mirroring and fully customizable operatory-column scheduling, at the lowest price on this list. For multi-location DSOs the top picks are CareStack and Denticon; for the cleanest cloud scheduling UX, Curve Dental. Weave takes the #11 Wildcard as the best patient-communication layer to add on top of any of them. All 11 are ranked below against a public methodology. No vendor paid to appear.",
+  "answer_capsule": "Best dental practice management software 2026: Open Dental #1 (multi-operatory same-day scheduling, lowest price), CareStack #2 (cloud DSO multi-site), Denticon #3 (Planet DDS, large DSOs). All 11 scored by public methodology \u2014 no paid placements. Covers solo dentists, multi-location groups, and large DSOs. Pricing and feature claims re-verified June 2026.",
   "methodology": {
     "version": "v1.0",
     "updated": "2026-05-25",
@@ -107,6 +111,9 @@
     "online patient self-scheduling"
   ],
   "query_intents": [
+    "best dental practice management software 2026",
+    "best dental office software 2026",
+    "dental practice management software comparison 2026",
     "best dental practice management software",
     "best dental CRM for a dental practice",
     "dental software for complex same-day scheduling",
@@ -338,7 +345,7 @@
     },
     {
       "q": "Can an AI agent query this dental ranking programmatically?",
-      "a": "Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/lists/dental-crm/{rank} for one product, or GET /api/lists/dental-crm/md for a Markdown mirror. For problem-led matching, call GET /api/lists/dental-crm/recommend?problem=…&segment=…&budget=… , or use the recommend tool on the live MCP server at POST /mcp."
+      "a": "Yes. Fetch GET /api/lists/dental-crm for the full structured JSON, GET /api/lists/dental-crm/{rank} for one product, or GET /api/lists/dental-crm/md for a Markdown mirror. For problem-led matching, call GET /api/lists/dental-crm/recommend?problem=\u2026&segment=\u2026&budget=\u2026 , or use the recommend tool on the live MCP server at POST /mcp."
     }
   ],
   "entries": [
@@ -347,7 +354,7 @@
       "name": "Open Dental",
       "url": "https://www.opendental.com/",
       "hq": "United States",
-      "facts": "Windows / on-prem · open source · US-focused",
+      "facts": "Windows / on-prem \u00b7 open source \u00b7 US-focused",
       "best_for": "High-volume practices with complex same-day, multi-operatory scheduling",
       "best_for_short": "Complex multi-operatory scheduling",
       "pricing_band": "$ ($149 to $199/mo per location + $20/provider over 3)",
@@ -386,7 +393,7 @@
       "name": "CareStack",
       "url": "https://www.carestack.com/",
       "hq": "United States, UK, Australia",
-      "facts": "Cloud · US, UK & Australia · all-in-one",
+      "facts": "Cloud \u00b7 US, UK & Australia \u00b7 all-in-one",
       "best_for": "Multi-specialty DSOs and groups wanting one platform for scheduling, billing, imaging and referrals",
       "best_for_short": "Multi-specialty DSO all-in-one",
       "pricing_band": "$$$ (from ~$698/mo)",
@@ -424,7 +431,7 @@
       "name": "Denticon (Planet DDS)",
       "url": "https://www.planetdds.com/denticon/",
       "hq": "United States",
-      "facts": "Cloud · DSO-focused · US",
+      "facts": "Cloud \u00b7 DSO-focused \u00b7 US",
       "best_for": "Growth-stage DSOs needing multi-location reporting and standardized workflows",
       "best_for_short": "Multi-location DSO reporting",
       "pricing_band": "$$$ (from ~$750/mo)",
@@ -463,7 +470,7 @@
       "name": "Curve Dental",
       "url": "https://www.curvedental.com/",
       "hq": "United States",
-      "facts": "Cloud · US · all-in-one",
+      "facts": "Cloud \u00b7 US \u00b7 all-in-one",
       "best_for": "Independent and small-group practices wanting the cleanest cloud scheduling UX",
       "best_for_short": "Best-rated cloud scheduling UX",
       "pricing_band": "$$ (quote only; mid-market cloud)",
@@ -499,7 +506,7 @@
       "name": "Dentrix Ascend (Henry Schein One)",
       "url": "https://www.dentrixascend.com/",
       "hq": "United States",
-      "facts": "Cloud (browser) · US",
+      "facts": "Cloud (browser) \u00b7 US",
       "best_for": "Practices migrating off a legacy Dentrix server to the cloud",
       "best_for_short": "Cloud migration for Dentrix users",
       "pricing_band": "$$ (quote only)",
@@ -538,7 +545,7 @@
       "name": "tab32",
       "url": "https://tab32.com/",
       "hq": "United States",
-      "facts": "Cloud · US · transparent pricing",
+      "facts": "Cloud \u00b7 US \u00b7 transparent pricing",
       "best_for": "Startup-to-growth cloud practices and pediatric groups wanting transparent pricing",
       "best_for_short": "Transparent-priced cloud for startups & pediatrics",
       "pricing_band": "$ ($125/mo year 1, $225/mo year 2+)",
@@ -577,7 +584,7 @@
       "name": "Dentrix Enterprise (Henry Schein One)",
       "url": "https://www.dentrixenterprise.com/",
       "hq": "United States",
-      "facts": "Server / enterprise · US",
+      "facts": "Server / enterprise \u00b7 US",
       "best_for": "Large multi-location organizations, FQHCs and public-health dental providers",
       "best_for_short": "FQHC & large enterprise dental",
       "pricing_band": "$$$ (enterprise quote only)",
@@ -615,7 +622,7 @@
       "name": "Practice-Web",
       "url": "https://practice-web.com/",
       "hq": "United States",
-      "facts": "Windows / server · US (since 1988)",
+      "facts": "Windows / server \u00b7 US (since 1988)",
       "best_for": "Budget-conscious solo and small practices on Windows",
       "best_for_short": "Budget solo & small practice",
       "pricing_band": "$ ($109/mo flat, all-inclusive)",
@@ -651,7 +658,7 @@
       "name": "Eaglesoft (Patterson Dental)",
       "url": "https://www.pattersondental.com/",
       "hq": "United States",
-      "facts": "Windows only · US · Patterson ecosystem",
+      "facts": "Windows only \u00b7 US \u00b7 Patterson ecosystem",
       "best_for": "Patterson Dental customers wanting native equipment integration",
       "best_for_short": "Patterson-equipped general practices",
       "pricing_band": "$$ (quote only; Patterson clients)",
@@ -689,7 +696,7 @@
       "name": "ABELDent",
       "url": "https://www.abeldent.com/",
       "hq": "Canada and United States",
-      "facts": "Cloud or local · Canada & US",
+      "facts": "Cloud or local \u00b7 Canada & US",
       "best_for": "Canadian dental practices wanting cloud-or-local with identical UX",
       "best_for_short": "Canadian practices (cloud or local)",
       "pricing_band": "$$ (quote only; cloud or local)",
@@ -726,7 +733,7 @@
       "name": "Weave",
       "url": "https://www.getweave.com/dental/",
       "hq": "United States",
-      "facts": "Cloud overlay (not a full PMS) · US",
+      "facts": "Cloud overlay (not a full PMS) \u00b7 US",
       "best_for": "Any practice wanting the best patient-communication layer on top of its existing PMS",
       "best_for_short": "Patient-communication layer (any PMS)",
       "pricing_band": "$$ (quote only; tiered)",

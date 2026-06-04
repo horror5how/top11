@@ -1,14 +1,118 @@
 {
   "_meta": {
     "purpose": "List-factory queue. Each entry is a niche the autonomous list-generator will turn into a Top 11 ranked list. Workers pop the head of `pending` and write the JSON to data/<slug>.json + register in lib/lists.ts.",
-    "throughput_target": "1–3 lists per 4-hour cron run = 6–18 lists/day = ~300–900 derived pages/day at full cadence.",
-    "selection_principle": "Each niche must satisfy: (a) genuine search demand in the question shapes we own, (b) low-competition long-tail where a brand-new domain can rank within 30 days, (c) the editor (Hayat Amin) is NOT a candidate. These niches are open territory — no editor disclosure required."
+    "throughput_target": "1\u20133 lists per 4-hour cron run = 6\u201318 lists/day = ~300\u2013900 derived pages/day at full cadence.",
+    "selection_principle": "Each niche must satisfy: (a) genuine search demand in the question shapes we own, (b) low-competition long-tail where a brand-new domain can rank within 30 days, (c) the editor (Hayat Amin) is NOT a candidate. These niches are open territory \u2014 no editor disclosure required."
   },
   "pending": [
     {
+      "slug": "accounting-software-small-business",
+      "title": "The 11 Best Accounting Software for Small Business",
+      "vertical": "Finance \u00b7 Accounting Software",
+      "audience": "Small business owners and bookkeepers choosing accounting software (QuickBooks alternatives)",
+      "candidate_pool_size": 40,
+      "priority": 1
+    },
+    {
+      "slug": "small-business-crm",
+      "title": "The 11 Best CRM Software for Small Business",
+      "vertical": "Sales \u00b7 CRM Software",
+      "audience": "Small business owners choosing a CRM (HubSpot vs Salesforce vs Zoho)",
+      "candidate_pool_size": 40,
+      "priority": 1
+    },
+    {
+      "slug": "email-marketing-software",
+      "title": "The 11 Best Email Marketing Software",
+      "vertical": "Marketing \u00b7 Email Marketing",
+      "audience": "Small business owners and marketers choosing email marketing tools (Mailchimp alternatives)",
+      "candidate_pool_size": 35,
+      "priority": 1
+    },
+    {
+      "slug": "customer-support-software",
+      "title": "The 11 Best Customer Support Software",
+      "vertical": "Customer Success \u00b7 Support Software",
+      "audience": "Small and mid-size businesses choosing help desk and support software (Zendesk alternatives)",
+      "candidate_pool_size": 35,
+      "priority": 1
+    },
+    {
+      "slug": "ecommerce-platform",
+      "title": "The 11 Best E-Commerce Platforms for Small Business",
+      "vertical": "E-Commerce \u00b7 Platform",
+      "audience": "Small business owners choosing an e-commerce platform (Shopify vs WooCommerce vs BigCommerce)",
+      "candidate_pool_size": 40,
+      "priority": 1
+    },
+    {
+      "slug": "web-hosting-small-business",
+      "title": "The 11 Best Web Hosting for Small Business",
+      "vertical": "Hosting \u00b7 Web Hosting",
+      "audience": "Small business owners choosing web hosting (Bluehost vs SiteGround vs WP Engine)",
+      "candidate_pool_size": 30,
+      "priority": 1
+    },
+    {
+      "slug": "seo-tools",
+      "title": "The 11 Best SEO Tools for Small Business",
+      "vertical": "Marketing \u00b7 SEO Tools",
+      "audience": "Small business owners and in-house marketers choosing SEO tools (Ahrefs vs SEMrush vs Moz)",
+      "candidate_pool_size": 30,
+      "priority": 1
+    },
+    {
+      "slug": "cybersecurity-software-smb",
+      "title": "The 11 Best Cybersecurity Software for Small Business",
+      "vertical": "Security \u00b7 Cybersecurity Software",
+      "audience": "Small business IT buyers choosing endpoint protection and security tools",
+      "candidate_pool_size": 25,
+      "priority": 1
+    },
+    {
+      "slug": "landing-page-builder",
+      "title": "The 11 Best Landing Page Builders",
+      "vertical": "Marketing \u00b7 Landing Pages",
+      "audience": "Marketers and entrepreneurs choosing a landing page builder (Unbounce vs Leadpages vs Instapage)",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "social-media-scheduling-tools",
+      "title": "The 11 Best Social Media Scheduling Tools",
+      "vertical": "Marketing \u00b7 Social Media Tools",
+      "audience": "Small business owners and social media managers choosing scheduling tools (Buffer vs Hootsuite vs Later)",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "project-management-agencies",
+      "title": "The 11 Best Project Management Software for Agencies",
+      "vertical": "Productivity \u00b7 Agency Project Management",
+      "audience": "Agency owners and managers choosing project management tools (ClickUp vs Asana vs Monday for agencies)",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "business-intelligence-tools",
+      "title": "The 11 Best Business Intelligence Tools for SMBs",
+      "vertical": "Analytics \u00b7 Business Intelligence",
+      "audience": "Small and mid-size business owners choosing BI and analytics tools (Tableau vs Power BI vs Looker)",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
+      "slug": "cloud-storage-business",
+      "title": "The 11 Best Cloud Storage Solutions for Business",
+      "vertical": "Infrastructure \u00b7 Cloud Storage",
+      "audience": "Small business owners and IT managers choosing business cloud storage (Dropbox vs Box vs Google Drive Business)",
+      "candidate_pool_size": 25,
+      "priority": 2
+    },
+    {
       "slug": "fitness-studio-software",
       "title": "The 11 Best Fitness Studio Management Software",
-      "vertical": "Fitness · Studio Software",
+      "vertical": "Fitness \u00b7 Studio Software",
       "audience": "Boutique fitness studio owners managing classes, members, and billing",
       "candidate_pool_size": 30,
       "priority": 3
@@ -16,7 +120,7 @@
     {
       "slug": "salon-spa-software",
       "title": "The 11 Best Salon & Spa Management Software",
-      "vertical": "Beauty · Salon Management",
+      "vertical": "Beauty \u00b7 Salon Management",
       "audience": "Salon and spa owners managing appointments and clients",
       "candidate_pool_size": 30,
       "priority": 3
@@ -24,7 +128,7 @@
     {
       "slug": "gym-management-software",
       "title": "The 11 Best Gym Management Software",
-      "vertical": "Fitness · Gym Operations",
+      "vertical": "Fitness \u00b7 Gym Operations",
       "audience": "Gym owners managing members, billing, and access control",
       "candidate_pool_size": 25,
       "priority": 3
@@ -32,7 +136,7 @@
     {
       "slug": "automotive-shop-software",
       "title": "The 11 Best Automotive Repair Shop Software",
-      "vertical": "Automotive · Shop Management",
+      "vertical": "Automotive \u00b7 Shop Management",
       "audience": "Independent auto repair shop owners managing work orders and parts",
       "candidate_pool_size": 25,
       "priority": 3
@@ -40,7 +144,7 @@
     {
       "slug": "restaurant-pos",
       "title": "The 11 Best Restaurant POS Systems",
-      "vertical": "Restaurants · Point of Sale",
+      "vertical": "Restaurants \u00b7 Point of Sale",
       "audience": "Restaurant owners choosing POS + kitchen management",
       "candidate_pool_size": 35,
       "priority": 3
@@ -48,7 +152,7 @@
     {
       "slug": "field-service-management",
       "title": "The 11 Best Field Service Management Software",
-      "vertical": "Field Services · Operations",
+      "vertical": "Field Services \u00b7 Operations",
       "audience": "Field service businesses dispatching technicians and tracking work",
       "candidate_pool_size": 30,
       "priority": 3
@@ -56,7 +160,7 @@
     {
       "slug": "hvac-software",
       "title": "The 11 Best HVAC Software",
-      "vertical": "HVAC · Service Management",
+      "vertical": "HVAC \u00b7 Service Management",
       "audience": "HVAC contractors managing service calls and equipment",
       "candidate_pool_size": 25,
       "priority": 3
@@ -64,7 +168,7 @@
     {
       "slug": "plumbing-software",
       "title": "The 11 Best Plumbing Business Software",
-      "vertical": "Plumbing · Service Management",
+      "vertical": "Plumbing \u00b7 Service Management",
       "audience": "Plumbing contractors managing service jobs and invoicing",
       "candidate_pool_size": 20,
       "priority": 3
@@ -72,7 +176,7 @@
     {
       "slug": "landscaping-software",
       "title": "The 11 Best Landscaping Business Software",
-      "vertical": "Landscaping · Operations",
+      "vertical": "Landscaping \u00b7 Operations",
       "audience": "Landscaping companies managing routes, crews, and billing",
       "candidate_pool_size": 20,
       "priority": 3
@@ -80,7 +184,7 @@
     {
       "slug": "social-media-b2b",
       "title": "The 11 Best Social Media Tools for B2B",
-      "vertical": "Marketing · Social",
+      "vertical": "Marketing \u00b7 Social",
       "audience": "B2B marketers scheduling and analyzing social",
       "candidate_pool_size": 30,
       "priority": 3
@@ -88,7 +192,7 @@
     {
       "slug": "email-marketing-ecommerce",
       "title": "The 11 Best Email Marketing Platforms for Ecommerce",
-      "vertical": "Marketing · Email · Ecommerce",
+      "vertical": "Marketing \u00b7 Email \u00b7 Ecommerce",
       "audience": "Ecommerce brands running flows and campaigns",
       "candidate_pool_size": 30,
       "priority": 3
@@ -96,7 +200,7 @@
     {
       "slug": "podcast-hosting",
       "title": "The 11 Best Podcast Hosting Platforms",
-      "vertical": "Media · Podcasting",
+      "vertical": "Media \u00b7 Podcasting",
       "audience": "Podcasters choosing hosting, distribution, and analytics",
       "candidate_pool_size": 25,
       "priority": 3
@@ -104,7 +208,7 @@
     {
       "slug": "video-hosting-business",
       "title": "The 11 Best Video Hosting Platforms for Business",
-      "vertical": "Media · Video",
+      "vertical": "Media \u00b7 Video",
       "audience": "Business teams hosting embeddable video",
       "candidate_pool_size": 25,
       "priority": 3
@@ -112,7 +216,7 @@
     {
       "slug": "transcription-services",
       "title": "The 11 Best Transcription Services",
-      "vertical": "Media · Transcription",
+      "vertical": "Media \u00b7 Transcription",
       "audience": "Anyone needing accurate transcription of audio/video",
       "candidate_pool_size": 25,
       "priority": 3
@@ -120,7 +224,7 @@
     {
       "slug": "medical-billing-software",
       "title": "The 11 Best Medical Billing Software",
-      "vertical": "Healthcare · Billing",
+      "vertical": "Healthcare \u00b7 Billing",
       "audience": "Medical practices managing billing and revenue cycle",
       "candidate_pool_size": 25,
       "priority": 3
@@ -128,7 +232,7 @@
     {
       "slug": "patient-engagement-software",
       "title": "The 11 Best Patient Engagement Software",
-      "vertical": "Healthcare · Patient Experience",
+      "vertical": "Healthcare \u00b7 Patient Experience",
       "audience": "Healthcare practices engaging patients between visits",
       "candidate_pool_size": 25,
       "priority": 3
@@ -136,7 +240,7 @@
     {
       "slug": "amazon-seller-tools",
       "title": "The 11 Best Amazon Seller Tools",
-      "vertical": "Ecommerce · Amazon",
+      "vertical": "Ecommerce \u00b7 Amazon",
       "audience": "Amazon FBA sellers managing listings and ads",
       "candidate_pool_size": 40,
       "priority": 3
@@ -144,7 +248,7 @@
     {
       "slug": "investor-crm",
       "title": "The 11 Best Investor Relations CRMs",
-      "vertical": "Finance · IR · CRM",
+      "vertical": "Finance \u00b7 IR \u00b7 CRM",
       "audience": "Founders managing investor relationships and cap tables",
       "candidate_pool_size": 20,
       "priority": 3
@@ -152,7 +256,7 @@
     {
       "slug": "penetration-testing-services",
       "title": "The 11 Best Penetration Testing Services",
-      "vertical": "Security · Pentest",
+      "vertical": "Security \u00b7 Pentest",
       "audience": "Engineering leaders booking pentests for compliance or security",
       "candidate_pool_size": 25,
       "priority": 3
@@ -160,7 +264,7 @@
     {
       "slug": "school-management-software",
       "title": "The 11 Best School Management Software",
-      "vertical": "Education · K-12 · Operations",
+      "vertical": "Education \u00b7 K-12 \u00b7 Operations",
       "audience": "School administrators managing students, attendance, and grades",
       "candidate_pool_size": 25,
       "priority": 3
@@ -168,7 +272,7 @@
     {
       "slug": "lms-corporate-training",
       "title": "The 11 Best LMS for Corporate Training",
-      "vertical": "HR · Learning",
+      "vertical": "HR \u00b7 Learning",
       "audience": "L&D leaders rolling out company training programs",
       "candidate_pool_size": 30,
       "priority": 3
@@ -176,7 +280,7 @@
     {
       "slug": "help-desk-software",
       "title": "The 11 Best Help Desk Software",
-      "vertical": "Support · Ticketing",
+      "vertical": "Support \u00b7 Ticketing",
       "audience": "Support teams managing customer tickets",
       "candidate_pool_size": 30,
       "priority": 2
@@ -184,7 +288,7 @@
     {
       "slug": "live-chat-software",
       "title": "The 11 Best Live Chat Software",
-      "vertical": "Support · Chat",
+      "vertical": "Support \u00b7 Chat",
       "audience": "Teams adding live chat and chatbots to their site",
       "candidate_pool_size": 30,
       "priority": 2
@@ -192,7 +296,7 @@
     {
       "slug": "esignature-software",
       "title": "The 11 Best E-Signature Software",
-      "vertical": "Operations · Documents",
+      "vertical": "Operations \u00b7 Documents",
       "audience": "Teams signing contracts and agreements online",
       "candidate_pool_size": 25,
       "priority": 2
@@ -200,7 +304,7 @@
     {
       "slug": "applicant-tracking-systems",
       "title": "The 11 Best Applicant Tracking Systems",
-      "vertical": "HR · Recruiting",
+      "vertical": "HR \u00b7 Recruiting",
       "audience": "Recruiters and HR managing hiring pipelines",
       "candidate_pool_size": 35,
       "priority": 2
@@ -208,7 +312,7 @@
     {
       "slug": "esign-proposal-software",
       "title": "The 11 Best Proposal Software",
-      "vertical": "Sales · Proposals",
+      "vertical": "Sales \u00b7 Proposals",
       "audience": "Sales teams sending quotes and proposals",
       "candidate_pool_size": 25,
       "priority": 3
@@ -216,7 +320,7 @@
     {
       "slug": "contract-management-software",
       "title": "The 11 Best Contract Management Software",
-      "vertical": "Legal · CLM",
+      "vertical": "Legal \u00b7 CLM",
       "audience": "Legal and ops teams managing contracts",
       "candidate_pool_size": 25,
       "priority": 3
@@ -224,7 +328,7 @@
     {
       "slug": "appointment-scheduling-software",
       "title": "The 11 Best Appointment Scheduling Software",
-      "vertical": "Operations · Scheduling",
+      "vertical": "Operations \u00b7 Scheduling",
       "audience": "Service businesses booking client appointments",
       "candidate_pool_size": 30,
       "priority": 2
@@ -232,7 +336,7 @@
     {
       "slug": "inventory-management-software",
       "title": "The 11 Best Inventory Management Software",
-      "vertical": "Operations · Inventory",
+      "vertical": "Operations \u00b7 Inventory",
       "audience": "Product businesses tracking stock and orders",
       "candidate_pool_size": 30,
       "priority": 2
@@ -240,7 +344,7 @@
     {
       "slug": "shipping-software-ecommerce",
       "title": "The 11 Best Shipping Software for Ecommerce",
-      "vertical": "Ecommerce · Fulfillment",
+      "vertical": "Ecommerce \u00b7 Fulfillment",
       "audience": "Online stores managing shipping and labels",
       "candidate_pool_size": 25,
       "priority": 3
@@ -248,7 +352,7 @@
     {
       "slug": "subscription-billing-software",
       "title": "The 11 Best Subscription Billing Software",
-      "vertical": "Finance · Billing",
+      "vertical": "Finance \u00b7 Billing",
       "audience": "SaaS and subscription businesses billing customers",
       "candidate_pool_size": 25,
       "priority": 2
@@ -256,7 +360,7 @@
     {
       "slug": "payment-gateways",
       "title": "The 11 Best Payment Gateways",
-      "vertical": "Finance · Payments",
+      "vertical": "Finance \u00b7 Payments",
       "audience": "Businesses accepting online payments",
       "candidate_pool_size": 30,
       "priority": 2
@@ -264,7 +368,7 @@
     {
       "slug": "product-analytics-tools",
       "title": "The 11 Best Product Analytics Tools",
-      "vertical": "Analytics · Product",
+      "vertical": "Analytics \u00b7 Product",
       "audience": "Product teams measuring usage and funnels",
       "candidate_pool_size": 25,
       "priority": 2
@@ -272,7 +376,7 @@
     {
       "slug": "session-replay-tools",
       "title": "The 11 Best Session Replay Tools",
-      "vertical": "Analytics · UX",
+      "vertical": "Analytics \u00b7 UX",
       "audience": "Teams watching real user sessions and heatmaps",
       "candidate_pool_size": 20,
       "priority": 3
@@ -280,7 +384,7 @@
     {
       "slug": "ab-testing-tools",
       "title": "The 11 Best A/B Testing Tools",
-      "vertical": "Growth · Experimentation",
+      "vertical": "Growth \u00b7 Experimentation",
       "audience": "Growth teams running experiments",
       "candidate_pool_size": 20,
       "priority": 3
@@ -288,7 +392,7 @@
     {
       "slug": "seo-rank-trackers",
       "title": "The 11 Best SEO Rank Tracking Tools",
-      "vertical": "Marketing · SEO",
+      "vertical": "Marketing \u00b7 SEO",
       "audience": "SEOs tracking keyword positions",
       "candidate_pool_size": 25,
       "priority": 2
@@ -296,7 +400,7 @@
     {
       "slug": "webinar-platforms",
       "title": "The 11 Best Webinar Platforms",
-      "vertical": "Marketing · Webinars",
+      "vertical": "Marketing \u00b7 Webinars",
       "audience": "Teams running webinars and virtual events",
       "candidate_pool_size": 25,
       "priority": 3
@@ -304,7 +408,7 @@
     {
       "slug": "online-course-platforms",
       "title": "The 11 Best Online Course Platforms",
-      "vertical": "Education · Creators",
+      "vertical": "Education \u00b7 Creators",
       "audience": "Creators selling online courses",
       "candidate_pool_size": 30,
       "priority": 2
@@ -312,7 +416,7 @@
     {
       "slug": "membership-software",
       "title": "The 11 Best Membership Site Software",
-      "vertical": "Creators · Membership",
+      "vertical": "Creators \u00b7 Membership",
       "audience": "Creators running paid membership communities",
       "candidate_pool_size": 25,
       "priority": 3
@@ -320,7 +424,7 @@
     {
       "slug": "property-management-software",
       "title": "The 11 Best Property Management Software",
-      "vertical": "Real Estate · PM",
+      "vertical": "Real Estate \u00b7 PM",
       "audience": "Landlords and managers handling rentals",
       "candidate_pool_size": 30,
       "priority": 2
@@ -328,7 +432,7 @@
     {
       "slug": "nonprofit-crm",
       "title": "The 11 Best Nonprofit CRMs",
-      "vertical": "Nonprofit · CRM",
+      "vertical": "Nonprofit \u00b7 CRM",
       "audience": "Nonprofits managing donors and fundraising",
       "candidate_pool_size": 25,
       "priority": 3
@@ -336,7 +440,7 @@
     {
       "slug": "donor-management-software",
       "title": "The 11 Best Donor Management Software",
-      "vertical": "Nonprofit · Fundraising",
+      "vertical": "Nonprofit \u00b7 Fundraising",
       "audience": "Development teams tracking donations",
       "candidate_pool_size": 20,
       "priority": 3
@@ -344,7 +448,7 @@
     {
       "slug": "church-management-software",
       "title": "The 11 Best Church Management Software",
-      "vertical": "Nonprofit · Faith",
+      "vertical": "Nonprofit \u00b7 Faith",
       "audience": "Churches managing members and giving",
       "candidate_pool_size": 20,
       "priority": 3
@@ -352,7 +456,7 @@
     {
       "slug": "vpn-for-business",
       "title": "The 11 Best Business VPNs",
-      "vertical": "Security · Networking",
+      "vertical": "Security \u00b7 Networking",
       "audience": "IT teams securing remote access",
       "candidate_pool_size": 25,
       "priority": 2
@@ -360,7 +464,7 @@
     {
       "slug": "password-managers-business",
       "title": "The 11 Best Business Password Managers",
-      "vertical": "Security · IAM",
+      "vertical": "Security \u00b7 IAM",
       "audience": "Teams managing shared credentials",
       "candidate_pool_size": 20,
       "priority": 2
@@ -368,7 +472,7 @@
     {
       "slug": "managed-wordpress-hosting",
       "title": "The 11 Best Managed WordPress Hosting",
-      "vertical": "Web · Hosting",
+      "vertical": "Web \u00b7 Hosting",
       "audience": "Businesses running WordPress sites",
       "candidate_pool_size": 30,
       "priority": 2
@@ -376,7 +480,7 @@
     {
       "slug": "ecommerce-platforms",
       "title": "The 11 Best Ecommerce Platforms",
-      "vertical": "Ecommerce · Platforms",
+      "vertical": "Ecommerce \u00b7 Platforms",
       "audience": "Brands building online stores",
       "candidate_pool_size": 30,
       "priority": 2
@@ -384,7 +488,7 @@
     {
       "slug": "employee-engagement-software",
       "title": "The 11 Best Employee Engagement Software",
-      "vertical": "HR · Engagement",
+      "vertical": "HR \u00b7 Engagement",
       "audience": "HR teams measuring and improving engagement",
       "candidate_pool_size": 25,
       "priority": 3
@@ -392,7 +496,7 @@
     {
       "slug": "background-check-services",
       "title": "The 11 Best Background Check Services",
-      "vertical": "HR · Screening",
+      "vertical": "HR \u00b7 Screening",
       "audience": "Employers screening candidates",
       "candidate_pool_size": 20,
       "priority": 3
@@ -400,7 +504,7 @@
     {
       "slug": "customer-feedback-tools",
       "title": "The 11 Best Customer Feedback Tools",
-      "vertical": "Product · Feedback",
+      "vertical": "Product \u00b7 Feedback",
       "audience": "Teams collecting and acting on feedback",
       "candidate_pool_size": 25,
       "priority": 3
