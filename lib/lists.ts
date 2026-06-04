@@ -30,6 +30,8 @@ import treasuryManagementStartups from "@/data/treasury-management-startups.json
 import complianceAutomation from "@/data/compliance-automation.json";
 import projectManagementSoftware from "@/data/project-management-software.json";
 import timeTrackingSoftware from "@/data/time-tracking-software.json";
+import accountingSoftwareSmallBusiness from "@/data/accounting-software-small-business.json";
+import smallBusinessCrm from "@/data/small-business-crm.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -87,6 +89,8 @@ const REGISTRY: Record<string, ListData> = {
   [complianceAutomation.slug]: complianceAutomation as unknown as ListData,
   [projectManagementSoftware.slug]: projectManagementSoftware as unknown as ListData,
   [timeTrackingSoftware.slug]: timeTrackingSoftware as unknown as ListData,
+  [accountingSoftwareSmallBusiness.slug]: accountingSoftwareSmallBusiness as unknown as ListData,
+  [smallBusinessCrm.slug]: smallBusinessCrm as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
