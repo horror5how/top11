@@ -174,22 +174,6 @@
       "priority": 3
     },
     {
-      "slug": "project-management-software",
-      "title": "The 11 Best Project Management Software",
-      "vertical": "Productivity · PM",
-      "audience": "Teams planning work, tasks, and timelines",
-      "candidate_pool_size": 40,
-      "priority": 2
-    },
-    {
-      "slug": "time-tracking-software",
-      "title": "The 11 Best Time Tracking Software",
-      "vertical": "Productivity · Time",
-      "audience": "Agencies and teams billing and tracking hours",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "help-desk-software",
       "title": "The 11 Best Help Desk Software",
       "vertical": "Support · Ticketing",
@@ -459,7 +443,9 @@
     "automation-platforms",
     "cap-table-software",
     "treasury-management-startups",
-    "compliance-automation"
+    "compliance-automation",
+    "project-management-software",
+    "time-tracking-software"
   ],
   "skipped": []
 }

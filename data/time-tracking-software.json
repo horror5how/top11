@@ -1,0 +1,820 @@
+{
+  "slug": "time-tracking-software",
+  "title": "The 11 Best Time Tracking Software",
+  "subtitle": "A ranked list of the best time tracking tools for agencies, freelancers, and teams focused on billable hours, project profitability, and team productivity.",
+  "vertical": "Productivity · Time",
+  "audience": "Agencies and teams billing and tracking hours",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-04",
+  "last_verified": "2026-06-04",
+  "next_review": "2026-09-02",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Time & Attendance",
+  "changelog": [
+    {
+      "date": "2026-06-04",
+      "text": "Initial publication. Methodology v1.0 weights Billing & Invoicing (25%), Integration Ecosystem (20%), Reporting & Analytics (20%), Ease of Use & Adoption (20%), and Team Management (15%)."
+    }
+  ],
+  "answer_capsule": "The best time tracking software is Harvest for its superb invoicing and project budgeting features, followed closely by Toggl Track for its simplicity and Clockify for its unmatched free tier.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-04",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Billing & Invoicing Features",
+        "weight": 25,
+        "description": "Effectiveness of features for creating invoices from tracked time, managing billable rates, expense tracking, and payment integrations."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 20,
+        "description": "Quality and breadth of native integrations with project management (e.g., Asana, Jira), accounting (e.g., QuickBooks, Xero), and other business software."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 20,
+        "description": "Depth, clarity, and actionability of reports on project profitability, team utilization, budget tracking, and forecasting."
+      },
+      {
+        "name": "Ease of Use & Adoption",
+        "weight": 20,
+        "description": "Intuitive design of the user interface across platforms (web, desktop, mobile), minimizing friction for daily time entry and team onboarding."
+      },
+      {
+        "name": "Team Management & Permissions",
+        "weight": 15,
+        "description": "Robustness of features for managing user roles, approval workflows, team scheduling, and visibility controls."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Time Tracking",
+    "Project Management",
+    "Invoicing Software",
+    "Productivity Tools",
+    "Agency Software"
+  ],
+  "problem_tags": [
+    "Inaccurate Billing",
+    "Project Overruns",
+    "Low Team Productivity",
+    "Poor Resource Allocation",
+    "Profitability Tracking"
+  ],
+  "query_intents": [
+    "best time tracking app for agencies",
+    "free time tracking software",
+    "time tracking with invoicing",
+    "toggl vs harvest",
+    "clockify alternative"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Streamlining agency billing",
+        "Tracking project profitability"
+      ],
+      "personas": [
+        "Creative Agencies",
+        "Consulting Firms"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Simple time tracking for teams",
+        "Integrating time data into workflows"
+      ],
+      "personas": [
+        "Freelancers",
+        "Software Teams"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Cost-effective time tracking",
+        "Tracking time for unlimited users for free"
+      ],
+      "personas": [
+        "Startups",
+        "Small Businesses"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.13,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is the primary goal of time tracking software?",
+      "a": "The primary goal is to create an accurate record of time spent on various tasks, projects, and clients. For agencies and teams, this data is crucial for accurate client billing, measuring project profitability, managing team capacity, and improving operational efficiency."
+    },
+    {
+      "q": "How does time tracking connect to invoicing?",
+      "a": "Most top-tier time tracking tools allow you to mark time entries as 'billable' or 'non-billable' and assign specific hourly rates. The software then automatically generates detailed invoices based on this tracked time, which can be sent directly to clients, drastically reducing administrative overhead and billing errors."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your core need: Is it for simple time logging, detailed project billing, or employee productivity monitoring? Your primary use case should guide your choice.",
+    "Check for critical integrations: Ensure the software connects seamlessly with your existing project management (e.g., Asana, Trello) and accounting (e.g., QuickBooks, Xero) tools to avoid manual data entry.",
+    "Evaluate the user experience: A time tracker is used daily by your entire team. A clunky or confusing interface will lead to poor adoption and inaccurate data. Prioritize simplicity and ease of use.",
+    "Consider reporting needs: Look for a tool that provides actionable insights. Can you easily see which projects are most profitable, how your team's time is allocated, and if you're staying on budget?"
+  ],
+  "faqs": [
+    {
+      "q": "What is the best free time tracking software?",
+      "a": "Clockify is widely regarded as the best free time tracking software due to its incredibly generous free plan, which includes unlimited users, unlimited projects, and core time tracking features that are often paid on other platforms."
+    },
+    {
+      "q": "How do I track employee hours for payroll?",
+      "a": "For payroll, it's best to use a tool with strong timesheet, approval, and overtime features. QuickBooks Time (formerly TSheets) is a top choice as it's designed for this purpose and integrates directly with QuickBooks Payroll. Hubstaff is another strong option with detailed activity monitoring."
+    },
+    {
+      "q": "Can time tracking software improve productivity?",
+      "a": "Yes, by making teams more aware of how they spend their time, it can highlight inefficiencies and distractions. Tools like TimeCamp and RescueTime provide specific productivity analytics, but even simple trackers help maintain focus and provide data for better project planning."
+    },
+    {
+      "q": "Does time tracking software take screenshots?",
+      "a": "Some time tracking tools, often called 'employee monitoring software,' offer optional screenshot and activity tracking features. Hubstaff is a prominent example. However, many of the top tools focused on agency billing, like Harvest and Toggl Track, do not include these features, prioritizing trust and simplicity."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes tools best suited for agencies and teams billing clients, meaning features like invoicing and project budgeting are weighted heavily.",
+    "Most candidates are US-based SaaS companies, though their services are available globally. Regional compliance needs beyond GDPR may require further vetting.",
+    "The distinction between 'time tracking' and 'employee monitoring' is important; this list leans away from tools whose primary feature is activity surveillance."
+  ],
+  "glossary": {
+    "term": "Billable Hours",
+    "definition": "The amount of time spent working on a project that can be directly charged to a client according to an agreed-upon hourly rate.",
+    "synonyms": [
+      "Chargeable Time",
+      "Client Hours"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Harvest",
+      "url": "https://www.getharvest.com",
+      "founded": 2006,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Agencies and consulting firms that need seamless time tracking, project budgeting, and invoicing in one platform.",
+      "best_for_short": "Best for agency billing & profitability",
+      "pricing_band": "$$ ($12/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 9.4,
+        "Integration Ecosystem": 9,
+        "Reporting & Analytics": 9.2,
+        "Ease of Use & Adoption": 9.3,
+        "Team Management & Permissions": 8.8
+      },
+      "verdict": "Harvest is the best time tracking software for agencies because it masterfully combines intuitive time tracking with robust project budgeting, expense management, and invoicing, providing a clear view of project profitability.",
+      "verdict_short": "The top choice for agencies, seamlessly blending time tracking with invoicing and project budget management.",
+      "praise": "Its invoicing and expense tracking capabilities are best-in-class, turning billable hours into professional invoices with just a few clicks.",
+      "praise_short": "Exceptional invoicing and expense features.",
+      "criticism": "The free tier is quite limited, covering only one user and two projects, pushing teams to upgrade quickly.",
+      "criticism_short": "Limited free tier forces upgrades.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 12,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Trello",
+        "Jira",
+        "QuickBooks Online",
+        "Xero",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Toggl Track",
+      "url": "https://toggl.com/track",
+      "founded": 2006,
+      "hq": "Tallinn, Estonia",
+      "team_size_band": "51-200",
+      "best_for": "Teams and freelancers who prioritize simplicity, ease of use, and a wide range of integrations to fit into existing workflows.",
+      "best_for_short": "Best for simplicity and integrations",
+      "pricing_band": "$$ ($9 to $18/user/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8.5,
+        "Integration Ecosystem": 9.4,
+        "Reporting & Analytics": 8.8,
+        "Ease of Use & Adoption": 9.5,
+        "Team Management & Permissions": 8.7
+      },
+      "verdict": "Toggl Track earns its high rank for its unparalleled ease of use and extensive integration library, making it the easiest tool for teams to adopt without disrupting their existing project management or communication workflows.",
+      "verdict_short": "The easiest-to-use tracker with over 100 integrations, perfect for frictionless team adoption.",
+      "praise": "The one-click timer and browser extensions are beautifully designed, making time tracking an effortless background task rather than a chore.",
+      "praise_short": "Beautifully simple one-click timer.",
+      "criticism": "While it has basic invoicing, its billing and expense tracking features are less comprehensive than dedicated agency tools like Harvest.",
+      "criticism_short": "Billing features are less robust.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 9,
+      "price_max": 18,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Jira",
+        "Todoist",
+        "Trello",
+        "Google Calendar",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Clockify",
+      "url": "https://clockify.me",
+      "founded": 2017,
+      "hq": "Novi Sad, Serbia",
+      "team_size_band": "51-200",
+      "best_for": "Startups, small businesses, and large teams looking for a powerful, full-featured time tracker with an unbeatable free plan.",
+      "best_for_short": "Best free time tracking software",
+      "pricing_band": "$ ($5 to $15/user/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8.8,
+        "Integration Ecosystem": 8.5,
+        "Reporting & Analytics": 8.7,
+        "Ease of Use & Adoption": 9,
+        "Team Management & Permissions": 8.9
+      },
+      "verdict": "Clockify stands out as the best value proposition in the market, offering a free tier with unlimited users and projects that provides more functionality than many competitors' paid plans.",
+      "verdict_short": "The market leader for value, offering an incredibly generous free plan for unlimited users.",
+      "praise": "Its free plan is astonishingly robust, making it the default choice for any team starting out with time tracking.",
+      "praise_short": "Unbeatable free plan for teams.",
+      "criticism": "The user interface, while functional, can feel slightly less polished and more cluttered than premium competitors like Harvest or Toggl.",
+      "criticism_short": "Interface is less polished.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 4.99,
+      "price_max": 14.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Trello",
+        "Asana",
+        "GitHub",
+        "QuickBooks",
+        "Xero"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Everhour",
+      "url": "https://everhour.com",
+      "founded": 2015,
+      "hq": "Minsk, Belarus",
+      "team_size_band": "11-50",
+      "best_for": "Teams that live inside project management tools like Asana, Trello, or Jira and want time tracking embedded directly into their workflow.",
+      "best_for_short": "Best for PM tool integration",
+      "pricing_band": "$ ($5 to $10/user/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8.2,
+        "Integration Ecosystem": 9.5,
+        "Reporting & Analytics": 8.6,
+        "Ease of Use & Adoption": 8.5,
+        "Team Management & Permissions": 8
+      },
+      "verdict": "Everhour excels by embedding its time tracking controls directly into the interface of popular project management tools, making it the best choice for teams who want to track time without ever leaving their primary workspace.",
+      "verdict_short": "Tracks time natively inside Asana, Trello, and Jira, eliminating the need to switch apps.",
+      "praise": "Its native integration with tools like Asana is seamless, displaying time estimates and logged hours right on the tasks you're already working on.",
+      "praise_short": "Seamless native PM tool integration.",
+      "criticism": "As a standalone product, its interface and project management features are less developed, making it heavily reliant on the tools it integrates with.",
+      "criticism_short": "Weak as a standalone app.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "SaaS-Mag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 10,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Trello",
+        "Jira",
+        "ClickUp",
+        "Basecamp",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "TimeCamp",
+      "url": "https://www.timecamp.com",
+      "founded": 2009,
+      "hq": "Wrocław, Poland",
+      "team_size_band": "51-200",
+      "best_for": "Businesses focused on measuring project profitability and team productivity through detailed analytics and reports.",
+      "best_for_short": "Best for profitability reporting",
+      "pricing_band": "$ ($3 to $11/user/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8.4,
+        "Integration Ecosystem": 8.2,
+        "Reporting & Analytics": 9,
+        "Ease of Use & Adoption": 8,
+        "Team Management & Permissions": 8.1
+      },
+      "verdict": "TimeCamp secures its position with its powerful reporting engine, offering deep insights into project margins, team performance, and billable hours that help businesses make data-driven decisions.",
+      "verdict_short": "Offers powerful, detailed reports on project profitability, team productivity, and budget usage.",
+      "praise": "The profitability analysis reports are exceptionally detailed, allowing managers to see exactly which projects and clients are most valuable.",
+      "praise_short": "Excellent profitability analysis reports.",
+      "criticism": "The user interface can feel dated and less intuitive compared to more modern competitors, potentially steepening the learning curve for new users.",
+      "criticism_short": "Dated and less intuitive UI.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 2.99,
+      "price_max": 10.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Trello",
+        "Jira",
+        "QuickBooks",
+        "Zendesk",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Hubstaff",
+      "url": "https://hubstaff.com",
+      "founded": 2012,
+      "hq": "Indianapolis, USA",
+      "team_size_band": "51-200",
+      "best_for": "Remote or field-based teams that require proof of work, GPS tracking, and detailed productivity monitoring alongside time tracking.",
+      "best_for_short": "Best for remote team monitoring",
+      "pricing_band": "$$ ($7 to $25/user/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8,
+        "Integration Ecosystem": 8,
+        "Reporting & Analytics": 8.5,
+        "Ease of Use & Adoption": 7.8,
+        "Team Management & Permissions": 8.4
+      },
+      "verdict": "Hubstaff is the leading choice for teams that need more than just time tracking, offering a comprehensive suite of workforce management tools including optional screenshots, activity levels, and GPS tracking.",
+      "verdict_short": "A powerful tool for remote teams, with optional screenshots, activity monitoring, and GPS.",
+      "praise": "Its suite of monitoring tools provides unparalleled visibility into the activity and productivity of remote and field service teams.",
+      "praise_short": "Unmatched remote team visibility tools.",
+      "criticism": "The employee monitoring features, such as screenshots and activity tracking, can be controversial and may negatively impact team morale if not implemented transparently.",
+      "criticism_short": "Monitoring features can harm morale.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Forbes Advisor Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 7,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Asana",
+        "Jira",
+        "Trello",
+        "PayPal",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "QuickBooks Time",
+      "url": "https://quickbooks.intuit.com/time-tracking/",
+      "founded": 2006,
+      "hq": "Eagle, USA",
+      "team_size_band": "201-500",
+      "best_for": "Businesses already using the QuickBooks ecosystem for accounting and payroll who need integrated time tracking for their employees.",
+      "best_for_short": "Best for QuickBooks payroll users",
+      "pricing_band": "$$$ ($20 base + $8-10/user/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 8.5,
+        "Integration Ecosystem": 7,
+        "Reporting & Analytics": 7.8,
+        "Ease of Use & Adoption": 8,
+        "Team Management & Permissions": 8.5
+      },
+      "verdict": "QuickBooks Time (formerly TSheets) is the definitive choice for businesses embedded in the Intuit ecosystem, offering flawless integration for payroll and invoicing that saves significant administrative time.",
+      "verdict_short": "The best option for payroll, with seamless, native integration into the QuickBooks ecosystem.",
+      "praise": "The deep integration with QuickBooks for running payroll based on tracked hours is seamless and a massive time-saver for administrators.",
+      "praise_short": "Flawless QuickBooks payroll integration.",
+      "criticism": "It is more expensive than many competitors and offers less value if you are not a QuickBooks user, as its primary strength is its ecosystem lock-in.",
+      "criticism_short": "Expensive and less valuable outside QuickBooks.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Gusto",
+        "ADP"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "US",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "ClickTime",
+      "url": "https://www.clicktime.com",
+      "founded": 1999,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Mid-sized to large businesses, particularly government contractors and professional services firms, that require robust compliance and expense reporting.",
+      "best_for_short": "Best for enterprise & compliance",
+      "pricing_band": "$$ ($10 to $18/user/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 7.8,
+        "Integration Ecosystem": 7.5,
+        "Reporting & Analytics": 8.2,
+        "Ease of Use & Adoption": 7,
+        "Team Management & Permissions": 8.3
+      },
+      "verdict": "ClickTime carves out a niche by focusing on the needs of larger organizations, offering powerful expense tracking, resource planning, and compliance features like DCAA that are critical for specific industries.",
+      "verdict_short": "An enterprise-grade solution with strong expense reporting and DCAA compliance features for contractors.",
+      "praise": "Its support for DCAA (Defense Contract Audit Agency) compliance is a critical feature for any firm doing business with the U.S. government.",
+      "praise_short": "Excellent for DCAA compliance.",
+      "criticism": "The user interface feels less modern and can be more complex to navigate than newer, more agile competitors, making it less suitable for small, fast-moving teams.",
+      "criticism_short": "Complex interface, less agile.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 18,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Salesforce",
+        "Jira",
+        "Slack",
+        "ADP"
+      ],
+      "compliance": [
+        "DCAA",
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "RescueTime",
+      "url": "https://www.rescuetime.com",
+      "founded": 2008,
+      "hq": "Seattle, USA",
+      "team_size_band": "11-50",
+      "best_for": "Teams and individuals aiming to improve focus and understand their digital habits, rather than just tracking hours for billing.",
+      "best_for_short": "Best for personal productivity",
+      "pricing_band": "$$ ($6 to $12/user/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 6,
+        "Integration Ecosystem": 7.5,
+        "Reporting & Analytics": 8.5,
+        "Ease of Use & Adoption": 8.3,
+        "Team Management & Permissions": 7
+      },
+      "verdict": "RescueTime is the best tool for understanding and improving personal and team productivity, as it automatically tracks time spent on apps and websites and provides insights to help build better work habits.",
+      "verdict_short": "Automatically tracks app and website usage to help teams improve focus and productivity.",
+      "praise": "Its 'Focus Session' feature actively blocks distracting websites, providing a powerful tool to encourage deep work.",
+      "praise_short": "Excellent 'Focus Session' feature.",
+      "criticism": "It is not designed for client billing or project-based time tracking, lacking essential features like billable rates, invoicing, and manual time entries.",
+      "criticism_short": "Not suitable for client billing.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "TechCrunch Article"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 6,
+      "price_max": 12,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Zapier",
+        "Google Calendar",
+        "IFTTT"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "actiTIME",
+      "url": "https://www.actitime.com",
+      "founded": 2004,
+      "hq": "Toronto, Canada",
+      "team_size_band": "11-50",
+      "best_for": "Teams that need a straightforward, no-frills timesheet and project scope management tool, available both in the cloud and on-premise.",
+      "best_for_short": "Best for simple timesheets",
+      "pricing_band": "$ ($6 to $7/user/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 7,
+        "Integration Ecosystem": 7,
+        "Reporting & Analytics": 7.5,
+        "Ease of Use & Adoption": 7.8,
+        "Team Management & Permissions": 7.4
+      },
+      "verdict": "actiTIME provides a solid, traditional timesheet-based approach to time tracking that is highly effective for internal project management, work scope definition, and tracking cost of work.",
+      "verdict_short": "A straightforward, classic timesheet tool for managing projects and employee work hours.",
+      "praise": "Its focus on task estimation and scope management is a key differentiator, helping teams plan projects more accurately from the start.",
+      "praise_short": "Strong task estimation features.",
+      "criticism": "The interface and feature set feel less modern than the leading cloud-native solutions, and it lacks the extensive integration ecosystem of its competitors.",
+      "criticism_short": "Dated interface, fewer integrations.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 6,
+      "price_max": 7,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Zapier",
+        "Jira",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Timely by Memory.ai",
+      "url": "https://timelyapp.com",
+      "founded": 2013,
+      "hq": "Oslo, Norway",
+      "team_size_band": "51-200",
+      "best_for": "Teams and individuals who hate manual time tracking and want an AI-powered tool to automatically capture and categorize their work.",
+      "best_for_short": "Best for AI-powered automatic tracking",
+      "pricing_band": "$$ ($9 to $22/user/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Billing & Invoicing Features": 7,
+        "Integration Ecosystem": 7.5,
+        "Reporting & Analytics": 7.5,
+        "Ease of Use & Adoption": 6.5,
+        "Team Management & Permissions": 7.2
+      },
+      "verdict": "Timely is a contrarian pick because it completely reimagines time tracking; instead of manual timers, its AI automatically captures all computer activity into a private timeline, allowing users to log hours accurately after the fact.",
+      "verdict_short": "A wildcard using AI to automatically capture work activity, eliminating manual start/stop timers.",
+      "praise": "The automatic activity tracking is magical, creating a perfect memory of your workday and ensuring no billable minute is lost.",
+      "praise_short": "Magical automatic activity capture.",
+      "criticism": "The AI-driven approach requires a learning curve and a level of trust that can be a hurdle for some teams, and the privacy implications of the underlying app need careful consideration.",
+      "criticism_short": "AI approach has a learning curve.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "The Verge Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-04",
+        "summary": "No material public risk signals as of 2026-06-04.",
+        "signals": []
+      },
+      "price_min": 9,
+      "price_max": 22,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Asana",
+        "Jira",
+        "Trello",
+        "Google Calendar",
+        "QuickBooks",
+        "Zoom"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 4,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
