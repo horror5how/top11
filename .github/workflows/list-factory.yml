@@ -60,6 +60,7 @@ jobs:
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "list-factory: produce $(date -u +%Y-%m-%d) batch"
+            git pull --rebase origin main
             git push
             echo "changed=true" >> "$GITHUB_OUTPUT"
           else
@@ -69,6 +70,7 @@ jobs:
 
       - name: Deploy to Vercel (production)
         if: steps.commit.outputs.changed == 'true'
+        timeout-minutes: 8
         run: npx -y vercel@latest --prod --yes --token "$VERCEL_TOKEN"
 
       - name: Ping IndexNow (new pages)
