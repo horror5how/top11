@@ -1,0 +1,825 @@
+{
+  "slug": "video-conferencing-software",
+  "title": "The 11 Best Video Conferencing Software for Business (2026)",
+  "subtitle": "An analysis of the top video communication platforms, focusing on reliability, security, and integration for hybrid and remote teams.",
+  "vertical": "Productivity · Video Conferencing",
+  "audience": "Business buyers choosing video conferencing tools (Zoom vs Teams vs Google Meet vs Webex)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-05",
+  "last_verified": "2026-06-05",
+  "next_review": "2026-09-03",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Communication & Collaboration",
+  "changelog": [
+    {
+      "date": "2026-06-05",
+      "text": "Initial publication. Methodology v1.0 weights Reliability & Performance (30%), Features & Functionality (25%), Security & Compliance (20%), Integration Ecosystem (15%), and Pricing & Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best video conferencing software for most businesses is Zoom, followed closely by Microsoft Teams for its deep Office 365 integration and Google Meet for users within the Google Workspace ecosystem.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-05",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Reliability & Performance",
+        "weight": 30,
+        "description": "Assesses uptime, audio/video quality, latency, and performance under varying network conditions. The core ability to hold a stable meeting."
+      },
+      {
+        "name": "Features & Functionality",
+        "weight": 25,
+        "description": "Evaluates the breadth and depth of features like screen sharing, recording, virtual backgrounds, whiteboarding, breakout rooms, transcription, and AI-powered summaries."
+      },
+      {
+        "name": "Security & Compliance",
+        "weight": 20,
+        "description": "Measures security posture, including end-to-end encryption, access controls, and support for compliance standards like GDPR, HIPAA, and SOC 2."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 15,
+        "description": "Scores the ability to integrate with other business tools, such as calendars (Google, Outlook), CRMs (Salesforce), project management software, and SSO providers."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Considers the overall value, transparency of pricing tiers, and the platform's ability to scale from small teams to large enterprise deployments."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Enterprise",
+    "Remote Work",
+    "Hybrid Teams",
+    "Webinars",
+    "UCaaS"
+  ],
+  "problem_tags": [
+    "Meeting scheduling",
+    "Team collaboration",
+    "Client communication",
+    "Virtual events",
+    "Employee training"
+  ],
+  "query_intents": [
+    "best video conferencing",
+    "Zoom alternatives",
+    "Microsoft Teams vs Google Meet",
+    "secure video conferencing",
+    "free video conferencing for business"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Reliable large-scale meetings",
+        "High-quality video webinars"
+      ],
+      "personas": [
+        "Enterprise",
+        "Sales teams",
+        "Educators"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Integrated team collaboration",
+        "Unified communication"
+      ],
+      "personas": [
+        "Companies using Microsoft 365",
+        "IT departments"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Simple, browser-based meetings",
+        "Collaboration for Google Workspace users"
+      ],
+      "personas": [
+        "Startups",
+        "SMBs on Google Workspace",
+        "Consultants"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.24,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "How We Chose the Top 11",
+      "a": "Our ranking is based on a weighted scoring system that prioritizes what businesses value most: unwavering reliability and performance. We then layer in scores for essential features, enterprise-grade security, seamless integrations with your existing tech stack, and overall value. We analyzed 30 platforms to arrive at this list."
+    },
+    {
+      "q": "What's the Difference Between Free and Paid Plans?",
+      "a": "Free plans are excellent for short, small, or infrequent meetings but typically have strict time limits (e.g., 40-60 minutes) and participant caps. Paid business plans unlock longer meetings, larger capacities, cloud recording, advanced security controls, administrative dashboards, and crucial integrations with tools like Salesforce and Slack."
+    }
+  ],
+  "how_to_choose": [
+    "First, assess your primary ecosystem. If your company runs on Microsoft 365 or Google Workspace, Teams or Meet will offer the most seamless experience for scheduling and file sharing.",
+    "Second, define your core use case. Are you hosting large webinars, confidential client meetings, or highly collaborative internal workshops? This will determine whether you need features like advanced polling, breakout rooms, or end-to-end encryption.",
+    "Third, evaluate your security and compliance needs. If you operate in regulated industries like healthcare or finance, prioritize platforms with HIPAA or SOC 2 compliance and robust security controls.",
+    "Finally, consider your budget and scale. Test the free tiers where available, but model the cost of a paid plan that accommodates your typical meeting size and feature requirements."
+  ],
+  "faqs": [
+    {
+      "q": "Which is better: Zoom, Microsoft Teams, or Google Meet?",
+      "a": "Zoom is generally best for pure-play video performance and ease of use. Microsoft Teams is superior for businesses already invested in the Microsoft 365 ecosystem due to its deep integration with Outlook, SharePoint, and Office apps. Google Meet is the most convenient and cost-effective choice for organizations using Google Workspace."
+    },
+    {
+      "q": "Is free video conferencing software good enough for a business?",
+      "a": "For very small businesses or occasional internal calls, free tiers can suffice. However, they lack the professionalism, security, and features required for regular business operations, such as longer meeting durations, cloud recording for record-keeping, and administrative controls."
+    },
+    {
+      "q": "What are the most important features in video conferencing software?",
+      "a": "Beyond stable HD video and audio, key features for business include screen sharing, meeting recording, chat, virtual backgrounds, and calendar integrations. For more collaborative work, look for whiteboarding, breakout rooms, polling, and AI-powered transcription and summaries."
+    },
+    {
+      "q": "How important is security for video conferencing?",
+      "a": "Security is critical. Look for platforms that offer end-to-end encryption (E2EE) to protect the content of your conversations. Other important features include waiting rooms, password protection for meetings, and role-based access controls to prevent unauthorized access."
+    }
+  ],
+  "honest_disclosures": [
+    "The top of this list is dominated by major US-based technology companies (Microsoft, Google, Zoom, Cisco) whose platforms are bundled with larger software suites, creating a high barrier to entry for independent competitors.",
+    "Our scoring reflects a bias towards features needed by medium-to-large businesses; startups or solo entrepreneurs might find simpler, less feature-rich tools more suitable."
+  ],
+  "glossary": {
+    "term": "End-to-End Encryption (E2EE)",
+    "definition": "A method of secure communication that prevents third-parties from accessing data while it's transferred from one end system or device to another. In video conferencing, it means only the participants can decrypt and view the meeting content.",
+    "synonyms": [
+      "E2EE",
+      "Zero-knowledge encryption"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Zoom",
+      "url": "https://zoom.us",
+      "founded": 2011,
+      "hq": "San Jose, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Businesses seeking the most reliable, user-friendly, and feature-rich platform for video meetings and webinars.",
+      "best_for_short": "Overall reliability and ease of use",
+      "pricing_band": "$$ ($15 to $25/user/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Reliability & Performance": 9.4,
+        "Features & Functionality": 9.3,
+        "Security & Compliance": 9,
+        "Integration Ecosystem": 9.5,
+        "Pricing & Scalability": 8.8
+      },
+      "verdict": "Zoom remains the market leader because it consistently delivers the highest-quality, most stable video experience across devices, coupled with an intuitive interface that requires minimal training.",
+      "verdict_short": "The most reliable and user-friendly platform for high-quality video meetings and webinars.",
+      "praise": "Its performance is best-in-class, maintaining crisp audio and video even on suboptimal networks, and its feature set for webinars and large meetings is unparalleled.",
+      "praise_short": "Unmatched reliability and performance, even on poor connections.",
+      "criticism": "While security has improved dramatically, its history requires ongoing vigilance, and costs can escalate quickly for larger teams needing webinar or phone features.",
+      "criticism_short": "Can become expensive with add-ons; historical security concerns.",
+      "sources_pending": [
+        "zoom.us/pricing",
+        "g2.com/products/zoom-video-webinar/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 15.99,
+      "price_max": 26.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "Slack",
+        "Salesforce",
+        "Marketo"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA",
+        "GDPR",
+        "FERPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Microsoft Teams",
+      "url": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+      "founded": 2017,
+      "hq": "Redmond, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Organizations deeply integrated with the Microsoft 365 ecosystem that need a unified hub for chat, meetings, and file collaboration.",
+      "best_for_short": "Microsoft 365 integrated collaboration",
+      "pricing_band": "$ ($4 to $12.50/user/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Reliability & Performance": 9,
+        "Features & Functionality": 9.2,
+        "Security & Compliance": 9.4,
+        "Integration Ecosystem": 9.3,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Microsoft Teams excels as the central collaboration hub for companies running on Microsoft 365, offering unbeatable integration with Outlook, SharePoint, and Office applications that streamlines workflows.",
+      "verdict_short": "Best for businesses in the Microsoft ecosystem, combining chat, meetings, and file sharing.",
+      "praise": "Its key strength is the seamless connection to the Microsoft stack, allowing users to schedule meetings, co-author documents, and manage projects within a single interface.",
+      "praise_short": "Unbeatable integration with Office 365 and Outlook.",
+      "criticism": "The interface can feel cluttered and less intuitive than competitors, and performance can be resource-intensive on some machines.",
+      "criticism_short": "Complex interface and can be resource-heavy.",
+      "sources_pending": [
+        "microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options",
+        "trustradius.com/products/microsoft-teams/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 4,
+      "price_max": 12.5,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Microsoft 365 Suite",
+        "Salesforce",
+        "Adobe Creative Cloud",
+        "Trello",
+        "Asana"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "HIPAA",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Google Meet",
+      "url": "https://meet.google.com",
+      "founded": 2017,
+      "hq": "Mountain View, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Businesses operating within the Google Workspace ecosystem who prioritize simplicity, browser-based access, and value.",
+      "best_for_short": "Simple meetings for Google Workspace users",
+      "pricing_band": "$ ($6 to $18/user/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Reliability & Performance": 9.1,
+        "Features & Functionality": 8.5,
+        "Security & Compliance": 9,
+        "Integration Ecosystem": 8.7,
+        "Pricing & Scalability": 9.3
+      },
+      "verdict": "Google Meet is the top choice for simplicity and deep integration within Google Workspace, offering a fast, reliable, and secure meeting experience directly from the browser or Gmail.",
+      "verdict_short": "The easiest, most integrated option for teams using Google Workspace.",
+      "praise": "Its greatest advantage is its frictionless experience for Google users; scheduling in Calendar and joining from an invite is seamless, backed by Google's robust infrastructure.",
+      "praise_short": "Frictionless experience within the Google ecosystem.",
+      "criticism": "Its feature set, particularly for advanced meeting controls and webinar functionality, is less comprehensive than dedicated competitors like Zoom.",
+      "criticism_short": "Lacks advanced features of competitors.",
+      "sources_pending": [
+        "workspace.google.com/pricing.html",
+        "capterra.com/p/175782/Google-Meet/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 6,
+      "price_max": 18,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Workspace Suite",
+        "Slack",
+        "Salesforce",
+        "Miro",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 1/2/3",
+        "HIPAA",
+        "GDPR",
+        "ISO 27001",
+        "FERPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Cisco Webex",
+      "url": "https://www.webex.com",
+      "founded": 1995,
+      "hq": "San Jose, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Enterprises with a strong focus on security, compliance, and integration with physical hardware conferencing systems.",
+      "best_for_short": "Enterprise security and hardware integration",
+      "pricing_band": "$$ ($15 to $25/user/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Reliability & Performance": 8.8,
+        "Features & Functionality": 8.6,
+        "Security & Compliance": 9.5,
+        "Integration Ecosystem": 8.5,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Webex stands out for its enterprise-grade security and deep integration with Cisco's hardware ecosystem, making it the preferred platform for large organizations with complex security requirements and physical meeting rooms.",
+      "verdict_short": "The leader in security and hardware integration for large enterprises.",
+      "praise": "Its security architecture is second to none, with features like end-to-end encryption by default and robust administrative controls that appeal to regulated industries.",
+      "praise_short": "Industry-leading security and compliance features.",
+      "criticism": "The user interface is often perceived as less modern and intuitive than its main competitors, and the pricing can be on the higher end for smaller teams.",
+      "criticism_short": "User interface feels dated; can be expensive.",
+      "sources_pending": [
+        "webex.com/pricing",
+        "gartner.com/reviews/market/meeting-solutions/vendor/cisco/product/webex-meetings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Microsoft 365",
+        "Google Workspace",
+        "Salesforce",
+        "ServiceNow",
+        "Cisco Hardware"
+      ],
+      "compliance": [
+        "SOC 2/3",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "GoTo Meeting",
+      "url": "https://www.goto.com/meeting",
+      "founded": 2004,
+      "hq": "Boston, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Professional services firms and businesses looking for a straightforward, reliable meeting solution with strong mobile support and admin features.",
+      "best_for_short": "Reliable professional meetings",
+      "pricing_band": "$$ ($12 to $16/organizer/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Reliability & Performance": 8.9,
+        "Features & Functionality": 8.2,
+        "Security & Compliance": 8.5,
+        "Integration Ecosystem": 8,
+        "Pricing & Scalability": 8.3
+      },
+      "verdict": "GoTo Meeting provides a highly reliable and professional platform that is easy for administrators to manage and for attendees to join, making it a solid choice for formal business and client-facing interactions.",
+      "verdict_short": "A solid, no-frills platform focused on professional and reliable business meetings.",
+      "praise": "The platform is known for its stability and excellent audio quality, along with a clean, professional interface that focuses on core meeting functionality without unnecessary clutter.",
+      "praise_short": "Very stable with high-quality audio.",
+      "criticism": "It lacks some of the more innovative collaboration features like advanced whiteboarding and AI summaries found in top-tier competitors.",
+      "criticism_short": "Fewer innovative collaboration features.",
+      "sources_pending": [
+        "goto.com/pricing/meeting",
+        "g2.com/products/gotomeeting/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 16,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Outlook",
+        "Google Calendar",
+        "Salesforce",
+        "Slack",
+        "Zendesk"
+      ],
+      "compliance": [
+        "SOC 2",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "BlueJeans by Verizon",
+      "url": "https://www.bluejeans.com",
+      "founded": 2009,
+      "hq": "San Jose, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Organizations that prioritize crystal-clear audio quality for their meetings, especially those with hybrid setups involving meeting room hardware.",
+      "best_for_short": "Superior audio quality",
+      "pricing_band": "$$ ($10 to $17/host/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Reliability & Performance": 9,
+        "Features & Functionality": 8,
+        "Security & Compliance": 8.3,
+        "Integration Ecosystem": 7.8,
+        "Pricing & Scalability": 7.7
+      },
+      "verdict": "BlueJeans distinguishes itself with superb audio fidelity powered by Dolby Voice, providing an exceptionally clear and noise-free meeting experience that is ideal for important conversations.",
+      "verdict_short": "The best choice for businesses prioritizing crystal-clear Dolby-powered audio.",
+      "praise": "The spatial audio and advanced noise cancellation create a meeting environment where participants can hear and be heard with remarkable clarity, reducing meeting fatigue.",
+      "praise_short": "Exceptional audio clarity with Dolby Voice.",
+      "criticism": "The platform's overall feature set and integration marketplace are less extensive than the market leaders, and its pricing is less competitive for basic plans.",
+      "criticism_short": "Less extensive feature set and integrations.",
+      "sources_pending": [
+        "bluejeans.com/pricing",
+        "trustradius.com/products/bluejeans-meetings/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 9.99,
+      "price_max": 16.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Microsoft Teams",
+        "Slack",
+        "Outlook",
+        "Google Calendar",
+        "Salesforce"
+      ],
+      "compliance": [
+        "SOC 2/3",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "RingCentral Video",
+      "url": "https://www.ringcentral.com/video.html",
+      "founded": 1999,
+      "hq": "Belmont, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Companies looking for an all-in-one Unified Communications (UCaaS) platform that combines video, messaging, and a robust cloud phone system.",
+      "best_for_short": "All-in-one UCaaS platform",
+      "pricing_band": "$$$ ($20 to $35/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Reliability & Performance": 8.2,
+        "Features & Functionality": 8.3,
+        "Security & Compliance": 8,
+        "Integration Ecosystem": 8.1,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "RingCentral Video is a strong contender for businesses that want to consolidate their communications stack, offering a tightly integrated solution for video meetings, team chat, and a market-leading VoIP phone service.",
+      "verdict_short": "A great option for combining video, messaging, and a cloud phone system.",
+      "praise": "The convenience of having a single provider and application for all major communication channels simplifies administration and user experience.",
+      "praise_short": "Single platform for video, message, and phone.",
+      "criticism": "As a standalone video conferencing tool, it's less feature-rich than the leaders, and the true value is only unlocked when purchasing the full, more expensive UCaaS suite.",
+      "criticism_short": "Best value is in the full, pricier suite.",
+      "sources_pending": [
+        "ringcentral.com/office/plansandpricing.html",
+        "capterra.com/p/214300/RingCentral-Video/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 35,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Google Workspace",
+        "Microsoft 365",
+        "Zendesk",
+        "Canvas"
+      ],
+      "compliance": [
+        "SOC 2/3",
+        "HIPAA",
+        "GDPR",
+        "FINRA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Zoho Meeting",
+      "url": "https://www.zoho.com/meeting/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10,001+",
+      "best_for": "Small to medium-sized businesses, especially those already using the Zoho software suite, who need a secure and highly affordable solution.",
+      "best_for_short": "Best value for SMBs",
+      "pricing_band": "$ ($3 to $10/host/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Reliability & Performance": 7.8,
+        "Features & Functionality": 7.5,
+        "Security & Compliance": 8,
+        "Integration Ecosystem": 7.2,
+        "Pricing & Scalability": 9.2
+      },
+      "verdict": "Zoho Meeting offers exceptional value, providing a secure and capable video conferencing and webinar platform at a fraction of the cost of its competitors, making it ideal for budget-conscious SMBs.",
+      "verdict_short": "An incredibly affordable and secure option, especially for users of the Zoho ecosystem.",
+      "praise": "Its pricing is extremely competitive, and it integrates seamlessly with other Zoho products like Zoho CRM and Zoho Projects, creating a powerful, low-cost business suite.",
+      "praise_short": "Extremely competitive pricing and Zoho suite integration.",
+      "criticism": "The user interface and overall performance, while solid, don't feel as polished as the top-tier providers, and its third-party integration options are limited.",
+      "criticism_short": "Less polished UI; limited third-party integrations.",
+      "sources_pending": [
+        "zoho.com/meeting/pricing.html",
+        "g2.com/products/zoho-meeting/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 3,
+      "price_max": 10,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoho CRM",
+        "Zoho Projects",
+        "Zoho Bookings",
+        "Google Calendar",
+        "Outlook"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Dialpad Meetings",
+      "url": "https://www.dialpad.com/meetings/",
+      "founded": 2011,
+      "hq": "San Ramon, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Teams that want to leverage AI for automated meeting summaries and action items, eliminating the need for manual note-taking.",
+      "best_for_short": "AI-powered meeting summaries",
+      "pricing_band": "$$ ($15 to $25/user/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Reliability & Performance": 7.5,
+        "Features & Functionality": 8.5,
+        "Security & Compliance": 7.4,
+        "Integration Ecosystem": 7.2,
+        "Pricing & Scalability": 7.3
+      },
+      "verdict": "Dialpad Meetings (formerly UberConference) carves out a niche with its powerful, real-time AI transcription and post-meeting summaries, which automatically capture action items and key moments.",
+      "verdict_short": "Best-in-class for AI transcription and automated post-meeting summaries.",
+      "praise": "The built-in Dialpad Ai is its killer feature, providing searchable transcripts and shareable summaries that significantly boost post-meeting productivity.",
+      "praise_short": "Excellent AI for automated notes and action items.",
+      "criticism": "The core video and audio performance is not as robust as the market leaders, and the platform works best when bundled with Dialpad's broader business communications offerings.",
+      "criticism_short": "Core AV performance trails market leaders.",
+      "sources_pending": [
+        "dialpad.com/pricing/meetings/",
+        "trustradius.com/products/dialpad-meetings/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "Salesforce",
+        "Slack",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Whereby",
+      "url": "https://whereby.com",
+      "founded": 2013,
+      "hq": "Oslo, Norway",
+      "team_size_band": "51-200",
+      "best_for": "Businesses needing an extremely simple, browser-based solution for client calls or for embedding video chat directly into their own website or app.",
+      "best_for_short": "Simple, embeddable video calls",
+      "pricing_band": "$ ($7 to $10/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Reliability & Performance": 7.2,
+        "Features & Functionality": 7,
+        "Security & Compliance": 7.5,
+        "Integration Ecosystem": 7.8,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Whereby's strength is its radical simplicity and focus on browser-based meetings with no required downloads, making it incredibly easy for external guests to join calls.",
+      "verdict_short": "The easiest no-download, browser-based tool, perfect for embedding into websites.",
+      "praise": "Its standout feature is the ability to create custom, branded meeting rooms with permanent links, and its API for embedding video into other products is powerful.",
+      "praise_short": "No downloads required; great for embedding.",
+      "criticism": "It is not designed for large meetings and lacks the advanced administrative, security, and collaboration features required by most enterprise customers.",
+      "criticism_short": "Not suitable for large meetings; lacks enterprise features.",
+      "sources_pending": [
+        "whereby.com/pricing",
+        "capterra.com/p/147135/Whereby/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 6.99,
+      "price_max": 9.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Outlook Calendar",
+        "Miro",
+        "Trello",
+        "YouTube"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 200
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Butter",
+      "url": "https://butter.us",
+      "founded": 2020,
+      "hq": "Copenhagen, Denmark",
+      "team_size_band": "11-50",
+      "best_for": "Facilitators, trainers, and teams running highly interactive workshops and collaborative sessions who need more than just a presentation tool.",
+      "best_for_short": "Interactive workshops and training",
+      "pricing_band": "$$ ($19 to $39/facilitator/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Reliability & Performance": 7.5,
+        "Features & Functionality": 8.5,
+        "Security & Compliance": 7,
+        "Integration Ecosystem": 6.5,
+        "Pricing & Scalability": 6.8
+      },
+      "verdict": "Butter is a wildcard because it reimagines video conferencing as a dedicated space for facilitation, packing the tool with features like agendas, polls, breakout rooms, and timers that are designed to keep participants engaged.",
+      "verdict_short": "A unique platform built specifically for running engaging, interactive workshops.",
+      "praise": "Its suite of built-in facilitation tools is superb, allowing hosts to plan and execute complex, multi-part workshops smoothly without juggling multiple apps.",
+      "praise_short": "Excellent built-in tools for workshop facilitation.",
+      "criticism": "It is not intended as a general-purpose meeting tool for large corporations, and its focus on workshops makes it overkill and less intuitive for simple team check-ins.",
+      "criticism_short": "Overkill for simple meetings; niche focus.",
+      "sources_pending": [
+        "butter.us/pricing",
+        "g2.com/products/butter/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Miro",
+        "Google Drive",
+        "YouTube",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 200
+    }
+  ]
+}

@@ -40,6 +40,8 @@ import seoTools from "@/data/seo-tools.json";
 import cybersecuritySoftwareSmb from "@/data/cybersecurity-software-smb.json";
 import landingPageBuilder from "@/data/landing-page-builder.json";
 import socialMediaSchedulingTools from "@/data/social-media-scheduling-tools.json";
+import videoConferencingSoftware from "@/data/video-conferencing-software.json";
+import salesCrmSoftware from "@/data/sales-crm-software.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -107,6 +109,8 @@ const REGISTRY: Record<string, ListData> = {
   [cybersecuritySoftwareSmb.slug]: cybersecuritySoftwareSmb as unknown as ListData,
   [landingPageBuilder.slug]: landingPageBuilder as unknown as ListData,
   [socialMediaSchedulingTools.slug]: socialMediaSchedulingTools as unknown as ListData,
+  [videoConferencingSoftware.slug]: videoConferencingSoftware as unknown as ListData,
+  [salesCrmSoftware.slug]: salesCrmSoftware as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
