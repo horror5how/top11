@@ -20,12 +20,36 @@ const VERTICAL_CLUSTERS: string[][] = [
     "llm-evaluation-platforms", "prompt-engineering-tools", "rag-frameworks",
     "vector-databases",
   ],
-  ["ai-meeting-assistants", "ai-sales-tools", "ai-customer-support"],
-  ["dental-crm", "legal-crm", "real-estate-crm"],
+  ["ai-meeting-assistants", "ai-sales-tools", "ai-customer-support", "video-conferencing-software"],
+  [
+    "dental-crm", "legal-crm", "real-estate-crm",
+    "sales-crm-software", "customer-success-software",
+  ],
   [
     "smb-payroll", "smb-hris", "no-code-platforms",
-    "construction-project-management",
+    "construction-project-management", "hr-software-small-business",
   ],
+  // Marketing & growth cluster
+  [
+    "email-marketing-software", "social-media-scheduling-tools",
+    "seo-tools", "landing-page-builder", "automation-platforms",
+    "marketing-automation-software", "webinar-software", "proposal-software",
+  ],
+  // SMB core software cluster
+  [
+    "accounting-software-small-business", "small-business-crm",
+    "customer-support-software", "cybersecurity-software-smb",
+    "project-management-software", "task-management-software",
+    "knowledge-base-software", "document-management-software",
+  ],
+  // Finance & compliance cluster
+  [
+    "cap-table-software", "treasury-management-startups",
+    "compliance-automation", "time-tracking-software",
+    "expense-management-software", "contract-management-software",
+  ],
+  // Commerce & infrastructure cluster
+  ["ecommerce-platform", "web-hosting-small-business"],
 ];
 
 function peerSlugs(slug: string): string[] {
