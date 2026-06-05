@@ -70,7 +70,7 @@ jobs:
 
       - name: Deploy to Vercel (production)
         if: steps.commit.outputs.changed == 'true'
-        timeout-minutes: 8
+        timeout-minutes: 25
         run: npx -y vercel@latest --prod --yes --token "$VERCEL_TOKEN"
 
       - name: Ping IndexNow (new pages)
