@@ -38,6 +38,8 @@ import ecommercePlatform from "@/data/ecommerce-platform.json";
 import webHostingSmallBusiness from "@/data/web-hosting-small-business.json";
 import seoTools from "@/data/seo-tools.json";
 import cybersecuritySoftwareSmb from "@/data/cybersecurity-software-smb.json";
+import landingPageBuilder from "@/data/landing-page-builder.json";
+import socialMediaSchedulingTools from "@/data/social-media-scheduling-tools.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -103,6 +105,8 @@ const REGISTRY: Record<string, ListData> = {
   [webHostingSmallBusiness.slug]: webHostingSmallBusiness as unknown as ListData,
   [seoTools.slug]: seoTools as unknown as ListData,
   [cybersecuritySoftwareSmb.slug]: cybersecuritySoftwareSmb as unknown as ListData,
+  [landingPageBuilder.slug]: landingPageBuilder as unknown as ListData,
+  [socialMediaSchedulingTools.slug]: socialMediaSchedulingTools as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

@@ -1,0 +1,827 @@
+{
+  "slug": "landing-page-builder",
+  "title": "The 11 Best Landing Page Builders",
+  "subtitle": "A ranked analysis of the top platforms for creating high-converting landing pages, from simple drag-and-drop tools to AI-powered optimization engines.",
+  "vertical": "Marketing · Landing Pages",
+  "audience": "Marketers and entrepreneurs choosing a landing page builder (Unbounce vs Leadpages vs Instapage)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-05",
+  "last_verified": "2026-06-05",
+  "next_review": "2026-09-03",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Conversion Rate Optimization",
+  "changelog": [
+    {
+      "date": "2026-06-05",
+      "text": "Initial publication. Methodology v1.0 weights Conversion Tools & A/B Testing (30%), Ease of Use (25%), Integrations (20%), Design Flexibility (15%), and Performance (10%)."
+    }
+  ],
+  "answer_capsule": "The best landing page builder is Unbounce for its powerful A/B testing and AI features, followed closely by Instapage for enterprise-scale personalization and Leadpages for small business value.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-05",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Conversion Tools & A/B Testing",
+        "weight": 30,
+        "description": "Effectiveness of features designed to maximize conversions, such as A/B testing, AI optimization (e.g., Smart Traffic), dynamic text replacement, pop-ups, and sticky bars."
+      },
+      {
+        "name": "Ease of Use & Editor Experience",
+        "weight": 25,
+        "description": "Intuitive nature of the drag-and-drop editor, learning curve for new users, and overall workflow efficiency from template selection to publication."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of native integrations with CRMs, email marketing platforms, analytics tools, and ad networks, plus Zapier support."
+      },
+      {
+        "name": "Templates & Design Flexibility",
+        "weight": 15,
+        "description": "Quality, quantity, and mobile-responsiveness of pre-built templates, and the degree of customization possible without custom code."
+      },
+      {
+        "name": "Performance & Speed",
+        "weight": 10,
+        "description": "Core page load speed, hosting reliability, uptime, and features like AMP (Accelerated Mobile Pages) and image optimization that impact performance."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "Marketing Automation",
+    "Lead Generation",
+    "CRO Tools",
+    "SMB",
+    "Enterprise"
+  ],
+  "problem_tags": [
+    "Low Conversion Rates",
+    "High Bounce Rates",
+    "PPC Campaign ROI",
+    "Lead Capture",
+    "Website A/B Testing"
+  ],
+  "query_intents": [
+    "best landing page builder",
+    "unbounce vs leadpages",
+    "instapage alternative",
+    "free landing page creator",
+    "landing page software for agencies"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "PPC campaign optimization",
+        "A/B testing complexity"
+      ],
+      "personas": [
+        "Performance Marketer",
+        "Growth Hacker"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Personalization at scale",
+        "Ad-to-page relevance"
+      ],
+      "personas": [
+        "Enterprise Marketing Team",
+        "PPC Agency"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Affordable lead generation",
+        "Quick page building"
+      ],
+      "personas": [
+        "Small Business Owner",
+        "Solopreneur"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is a Landing Page Builder?",
+      "a": "A landing page builder is a software tool that allows marketers to create standalone web pages designed for a specific campaign or conversion goal. Unlike a full website builder, it focuses on simplicity, speed, and conversion-centric features like A/B testing, lead capture forms, and integrations with marketing tools, often without needing a developer."
+    },
+    {
+      "q": "Why Use a Dedicated Landing Page Builder?",
+      "a": "While many website platforms (like WordPress) can create landing pages, dedicated builders are optimized for conversion. They offer faster build times with drag-and-drop editors, a library of high-converting templates, built-in A/B testing, and AI-powered traffic routing. This specialized toolset typically results in higher conversion rates for marketing campaigns compared to general-purpose pages."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary goal. Are you running complex PPC campaigns needing deep analytics (choose Unbounce/Instapage) or simply collecting email leads for a newsletter (choose Leadpages/ConvertKit)?",
+    "Assess your technical skill. If you value ease of use above all, prioritize platforms like Leadpages. If you have design or development resources and need maximum flexibility, a tool like Webflow might be a better fit.",
+    "Evaluate the integration ecosystem. Ensure the builder connects seamlessly with your existing CRM, email marketing software, and analytics platforms to avoid data silos.",
+    "Consider your budget and scale. Prices range from free to thousands per month. Match the pricing tier to your traffic volume and the number of pages you need to publish and test."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a landing page and a website homepage?",
+      "a": "A homepage has many goals and links (navigation, footer, blog links) to encourage exploration. A landing page has one single goal (a 'conversion'), such as signing up for a webinar or downloading an ebook, and typically has no navigation to distract the user from that single call-to-action."
+    },
+    {
+      "q": "Which is better: Unbounce or Leadpages?",
+      "a": "Unbounce is generally better for performance marketers and agencies who need advanced A/B testing, AI optimization, and granular control to maximize PPC ROI. Leadpages is better for small businesses, solopreneurs, and those who prioritize speed, ease of use, and affordability for lead generation."
+    },
+    {
+      "q": "Do I need a landing page builder if my website platform (e.g., WordPress) can create pages?",
+      "a": "While you can create landing pages on WordPress, dedicated builders are purpose-built for conversion. They offer faster deployment, superior A/B testing capabilities, and conversion-focused templates that often outperform pages built with general-purpose themes and plugins."
+    },
+    {
+      "q": "How much do landing page builders typically cost?",
+      "a": "Prices vary widely. Simple tools can be free or start around $20/month. Mid-tier, professional-grade builders like Leadpages and Unbounce range from $50 to $300/month. Enterprise-level solutions with advanced personalization can cost $400/month or more."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-tier providers are SaaS platforms with recurring monthly fees; few offer a perpetual license or one-time purchase option.",
+    "We focused on dedicated or best-in-class builders. Many all-in-one marketing suites (e.g., HubSpot, GetResponse) include a landing page feature, which is best for users already embedded in their ecosystem.",
+    "Pricing tiers are often based on traffic volume, conversions, or number of published pages. The 'price_min' reflects entry-level plans which may have significant limitations."
+  ],
+  "glossary": {
+    "term": "A/B Testing",
+    "definition": "Also known as split testing, this is a method of comparing two versions of a web page (Version A and Version B) against each other to determine which one performs better. Traffic is split between the two versions, and statistical analysis is used to determine which variation provides a better conversion rate.",
+    "synonyms": [
+      "Split Testing",
+      "Multivariate Testing"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Unbounce",
+      "url": "https://unbounce.com",
+      "founded": 2009,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Performance marketers and agencies who need the most powerful AI-driven optimization and A/B testing tools to maximize campaign ROI.",
+      "best_for_short": "AI-powered conversion optimization",
+      "pricing_band": "$$ ($99 to $625/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 9.4,
+        "Ease of Use & Editor Experience": 9,
+        "Integrations & Ecosystem": 9.3,
+        "Templates & Design Flexibility": 9.2,
+        "Performance & Speed": 9.4
+      },
+      "verdict": "Unbounce is the best landing page builder due to its sophisticated suite of conversion tools, including the AI-powered Smart Traffic feature that automatically directs visitors to the page variant most likely to convert for them.",
+      "verdict_short": "The best for AI-powered A/B testing and conversion intelligence for serious marketers.",
+      "praise": "Its Classic Builder is robust and flexible, while the new Smart Builder leverages AI to speed up creation and improve outcomes.",
+      "praise_short": "Industry-leading AI and A/B testing features.",
+      "criticism": "The platform is one of the more expensive options, and its advanced features can present a steeper learning curve for beginners.",
+      "criticism_short": "Expensive and can be complex for novices.",
+      "sources_pending": [
+        "Unbounce Pricing Page",
+        "G2 Unbounce Reviews",
+        "Unbounce Product Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 625,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Zapier",
+        "Google Analytics",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "CASL"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Instapage",
+      "url": "https://instapage.com",
+      "founded": 2012,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Enterprise teams and agencies that require scalable personalization, robust collaboration features, and seamless ad-to-page experiences.",
+      "best_for_short": "Enterprise-grade personalization & speed",
+      "pricing_band": "$$$ ($199 to $399+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 9.2,
+        "Ease of Use & Editor Experience": 8.9,
+        "Integrations & Ecosystem": 9.2,
+        "Templates & Design Flexibility": 9,
+        "Performance & Speed": 9.4
+      },
+      "verdict": "Instapage earns its high rank with its unmatched focus on post-click optimization and personalization at scale, featuring AdMap for connecting ads to relevant landing pages and blazing-fast page load speeds.",
+      "verdict_short": "Best for scalable personalization, ad mapping, and enterprise collaboration features.",
+      "praise": "The platform's server-side A/B testing, heatmaps, and Thor Render Engine for speed are best-in-class for serious advertising campaigns.",
+      "praise_short": "Exceptional page speed and personalization features.",
+      "criticism": "Instapage's premium positioning comes with a high price tag, placing it out of reach for many small businesses and solopreneurs.",
+      "criticism_short": "Very expensive compared to competitors.",
+      "sources_pending": [
+        "Instapage Pricing Page",
+        "Capterra Instapage Reviews",
+        "Instapage Features Overview"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "HubSpot",
+        "Zapier",
+        "Google Ads",
+        "Facebook Ads"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Leadpages",
+      "url": "https://www.leadpages.net",
+      "founded": 2012,
+      "hq": "Minneapolis, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small businesses, entrepreneurs, and consultants looking for an affordable, easy-to-use platform to quickly build high-converting pages and websites.",
+      "best_for_short": "Best value for small businesses",
+      "pricing_band": "$ ($49 to $99/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 8.4,
+        "Ease of Use & Editor Experience": 9.4,
+        "Integrations & Ecosystem": 8.8,
+        "Templates & Design Flexibility": 8.5,
+        "Performance & Speed": 8.9
+      },
+      "verdict": "Leadpages is the top choice for value and simplicity, offering an incredibly user-friendly builder, a wide array of templates, and built-in conversion tools at a highly competitive price point.",
+      "verdict_short": "The most user-friendly and affordable option for quick and effective lead generation.",
+      "praise": "Its standout features include unlimited traffic and leads on all plans, a simple website builder, and integrated checkouts for selling products directly.",
+      "praise_short": "Excellent value, very easy to use.",
+      "criticism": "While excellent for most use cases, it lacks the advanced AI optimization and deep personalization features found in Unbounce and Instapage.",
+      "criticism_short": "Lacks advanced A/B testing and AI features.",
+      "sources_pending": [
+        "Leadpages Pricing Page",
+        "PCMag Leadpages Review",
+        "Leadpages Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "ConvertKit",
+        "Stripe",
+        "Zapier",
+        "Google Analytics",
+        "AWeber"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 4,
+      "name": "HubSpot Landing Page Builder",
+      "url": "https://www.hubspot.com/products/marketing/landing-page-builder",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Businesses of all sizes that are already invested in the HubSpot ecosystem for their CRM, sales, and marketing automation.",
+      "best_for_short": "Best for HubSpot CRM users",
+      "pricing_band": "$$ (Free to $800+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 8.5,
+        "Ease of Use & Editor Experience": 8.8,
+        "Integrations & Ecosystem": 9.4,
+        "Templates & Design Flexibility": 8,
+        "Performance & Speed": 8.2
+      },
+      "verdict": "HubSpot's landing page builder is the clear winner for companies using HubSpot CRM because of its seamless integration, allowing for deep personalization and powerful analytics based on customer data.",
+      "verdict_short": "Unbeatable integration for users already inside the HubSpot ecosystem.",
+      "praise": "The direct connection to the HubSpot CRM enables dynamic content and smart forms that adapt to individual visitor data, creating a highly personalized experience.",
+      "praise_short": "Deep integration with HubSpot's powerful CRM.",
+      "criticism": "As a standalone tool, it's less flexible and powerful than dedicated builders like Unbounce, and unlocking its best features requires a costly subscription to Marketing Hub Professional.",
+      "criticism_short": "Less powerful standalone; expensive to unlock features.",
+      "sources_pending": [
+        "HubSpot Marketing Hub Pricing",
+        "G2 HubSpot Marketing Hub Reviews",
+        "HubSpot Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 800,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "HubSpot CRM (Native)",
+        "Salesforce",
+        "Zapier",
+        "Stripe",
+        "Google Search Console",
+        "NetSuite"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "GetResponse",
+      "url": "https://www.getresponse.com",
+      "founded": 1998,
+      "hq": "Gdańsk, Poland",
+      "team_size_band": "201-500",
+      "best_for": "Marketers seeking an all-in-one platform that combines landing pages with email marketing, conversion funnels, and marketing automation.",
+      "best_for_short": "Best all-in-one marketing platform",
+      "pricing_band": "$ ($19 to $119+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 8.3,
+        "Ease of Use & Editor Experience": 8.5,
+        "Integrations & Ecosystem": 8.2,
+        "Templates & Design Flexibility": 8.6,
+        "Performance & Speed": 8.3
+      },
+      "verdict": "GetResponse stands out by offering a powerful, AI-driven landing page builder as a core component of its comprehensive marketing automation suite, making it an excellent value proposition.",
+      "verdict_short": "A strong landing page builder within a complete marketing automation suite.",
+      "praise": "The AI builder can generate personalized pages in minutes, and its integration with GetResponse's email and webinar tools creates a seamless customer journey.",
+      "praise_short": "Great value within an all-in-one suite.",
+      "criticism": "While the builder is very capable, it lacks some of the highly specialized, granular testing and optimization features of top-tier dedicated platforms.",
+      "criticism_short": "Not as specialized as dedicated builders.",
+      "sources_pending": [
+        "GetResponse Pricing",
+        "TechRadar GetResponse Review",
+        "GetResponse Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "WooCommerce",
+        "PayPal",
+        "Stripe",
+        "Zapier",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Landingi",
+      "url": "https://landingi.com",
+      "founded": 2013,
+      "hq": "Gliwice, Poland",
+      "team_size_band": "51-200",
+      "best_for": "Marketing agencies and businesses that need a flexible, reliable, and easy-to-use builder with strong support for managing multiple client accounts.",
+      "best_for_short": "Great for agencies and multi-account use",
+      "pricing_band": "$ ($29 to $109/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 8,
+        "Ease of Use & Editor Experience": 8.5,
+        "Integrations & Ecosystem": 7.9,
+        "Templates & Design Flexibility": 8.3,
+        "Performance & Speed": 7.8
+      },
+      "verdict": "Landingi provides a solid, user-friendly landing page solution with over 400 templates and features specifically designed for agencies, such as sub-accounts and easy campaign duplication.",
+      "verdict_short": "A flexible, agency-focused builder with a vast template library.",
+      "praise": "The platform is praised for its intuitive editor, helpful customer support, and the 'PageInsider' feature which uses AI to analyze and suggest improvements to your page design.",
+      "praise_short": "Intuitive editor and strong agency features.",
+      "criticism": "While it has a good range of integrations, it may lack the depth of native connections to enterprise-level software that competitors offer.",
+      "criticism_short": "Fewer deep enterprise-level integrations.",
+      "sources_pending": [
+        "Landingi Pricing Page",
+        "Capterra Landingi Reviews",
+        "Landingi Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 109,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Mailchimp",
+        "Zapier",
+        "Salesforce",
+        "GetResponse",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Swipe Pages",
+      "url": "https://swipepages.com",
+      "founded": 2020,
+      "hq": "Wilmington, USA",
+      "team_size_band": "11-50",
+      "best_for": "Marketers who prioritize mobile conversion rates and page load speed, especially those running campaigns targeting mobile-first audiences.",
+      "best_for_short": "Best for mobile speed (AMP)",
+      "pricing_band": "$ ($39 to $99/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 7.8,
+        "Ease of Use & Editor Experience": 8.2,
+        "Integrations & Ecosystem": 7.5,
+        "Templates & Design Flexibility": 8,
+        "Performance & Speed": 9.2
+      },
+      "verdict": "Swipe Pages carves out its niche by focusing intensely on mobile performance, offering robust support for AMP (Accelerated Mobile Pages) to deliver near-instant load times on mobile devices.",
+      "verdict_short": "The top choice for creating lightning-fast AMP landing pages for mobile campaigns.",
+      "praise": "Beyond AMP, it offers a clean interface, solid A/B testing, and unique features like multi-step forms and e-commerce integrations.",
+      "praise_short": "Unmatched mobile page load speeds.",
+      "criticism": "As a newer player, its library of integrations and templates is not as extensive as more established competitors like Unbounce or Leadpages.",
+      "criticism_short": "Smaller integration and template library.",
+      "sources_pending": [
+        "Swipe Pages Pricing",
+        "G2 Swipe Pages Reviews",
+        "Swipe Pages Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Mailchimp",
+        "HubSpot",
+        "ConvertKit",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Mailchimp Landing Pages",
+      "url": "https://mailchimp.com/features/landing-pages/",
+      "founded": 2001,
+      "hq": "Atlanta, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Existing Mailchimp users who need to create simple, functional landing pages for lead capture that feed directly into their email lists.",
+      "best_for_short": "Simple pages for Mailchimp users",
+      "pricing_band": "$ (Free to $350+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 7,
+        "Ease of Use & Editor Experience": 8.9,
+        "Integrations & Ecosystem": 8.5,
+        "Templates & Design Flexibility": 7.5,
+        "Performance & Speed": 7.4
+      },
+      "verdict": "Mailchimp's landing page builder is the most convenient option for its massive user base, offering a simple, familiar interface to create pages that are perfectly integrated with Mailchimp's email and CRM tools.",
+      "verdict_short": "The easiest choice for users already managing their email lists with Mailchimp.",
+      "praise": "The builder is incredibly easy to use and included in all Mailchimp plans, even the free one, making it highly accessible.",
+      "praise_short": "Seamless integration with Mailchimp email lists.",
+      "criticism": "It is a basic tool that lacks advanced features like serious A/B testing, dynamic text replacement, or the design flexibility of dedicated builders.",
+      "criticism_short": "Very limited features and design options.",
+      "sources_pending": [
+        "Mailchimp Pricing",
+        "PCMag Mailchimp Review",
+        "Mailchimp Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 350,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp (Native)",
+        "Shopify",
+        "WooCommerce",
+        "Zapier",
+        "Google Analytics",
+        "Canva"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "ConvertKit",
+      "url": "https://convertkit.com",
+      "founded": 2013,
+      "hq": "Boise, USA",
+      "team_size_band": "51-200",
+      "best_for": "Content creators—such as bloggers, podcasters, and authors—whose primary goal is to grow their email list and sell digital products.",
+      "best_for_short": "Best for content creators",
+      "pricing_band": "$ (Free to $59+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 7.2,
+        "Ease of Use & Editor Experience": 8.6,
+        "Integrations & Ecosystem": 7.8,
+        "Templates & Design Flexibility": 7,
+        "Performance & Speed": 7.5
+      },
+      "verdict": "ConvertKit excels by designing its landing page and form builder specifically for the creator economy, making it incredibly simple to offer lead magnets, sell digital products, and grow a newsletter.",
+      "verdict_short": "The ideal landing page tool for creators focused on building an audience.",
+      "praise": "The deep integration with its powerful email marketing and automation platform makes it seamless to segment and nurture new subscribers.",
+      "praise_short": "Perfect for email list building and creators.",
+      "criticism": "The design customization options are intentionally limited to keep things simple, which may frustrate users seeking pixel-perfect control over their page layout.",
+      "criticism_short": "Limited design and customization options.",
+      "sources_pending": [
+        "ConvertKit Pricing",
+        "G2 ConvertKit Reviews",
+        "ConvertKit Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 59,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "Teachable",
+        "Zapier",
+        "Stripe",
+        "WordPress",
+        "Podia"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Carrd",
+      "url": "https://carrd.co",
+      "founded": 2016,
+      "hq": "Nashville, USA",
+      "team_size_band": "1-10",
+      "best_for": "Individuals and small projects that need a simple, beautiful, and extremely affordable one-page website or landing page.",
+      "best_for_short": "Simplest one-page site builder",
+      "pricing_band": "$ (Free to $19/year)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 6,
+        "Ease of Use & Editor Experience": 9.2,
+        "Integrations & Ecosystem": 6.8,
+        "Templates & Design Flexibility": 7.5,
+        "Performance & Speed": 8
+      },
+      "verdict": "Carrd dominates the niche of single-page sites by offering a dead-simple, elegant builder at an unbeatable price, making it perfect for personal profiles, project showcases, or basic lead capture.",
+      "verdict_short": "The best tool for building simple, elegant, and affordable one-page sites.",
+      "praise": "Its simplicity is its greatest strength, allowing anyone to create and publish a professional-looking, responsive page in minutes.",
+      "praise_short": "Incredibly easy to use and extremely cheap.",
+      "criticism": "It is not a true conversion optimization tool; it lacks A/B testing and the advanced marketing features required for serious campaigns.",
+      "criticism_short": "Lacks any real marketing or testing tools.",
+      "sources_pending": [
+        "Carrd Pricing",
+        "Product Hunt Carrd Page",
+        "Carrd Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 1.58,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Mailchimp",
+        "ConvertKit",
+        "Zapier",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 1
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Webflow",
+      "url": "https://webflow.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Designers, developers, and agencies who demand complete creative control and want to build highly custom, production-grade websites and landing pages without writing code.",
+      "best_for_short": "Ultimate design control (steep curve)",
+      "pricing_band": "$$ (Free to $39+/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Conversion Tools & A/B Testing": 6.5,
+        "Ease of Use & Editor Experience": 6,
+        "Integrations & Ecosystem": 8,
+        "Templates & Design Flexibility": 9.4,
+        "Performance & Speed": 8.5
+      },
+      "verdict": "Webflow is our wildcard because it's a full-fledged professional website builder, not just a landing page tool, offering unparalleled design flexibility that allows for creating truly bespoke landing experiences, albeit with a significant learning curve.",
+      "verdict_short": "A pro-level site builder for custom landing pages, not for beginners.",
+      "praise": "It provides the power of front-end coding in a visual interface, enabling complex animations, interactions, and pixel-perfect designs that are impossible in template-based builders.",
+      "praise_short": "Unmatched design freedom and customization.",
+      "criticism": "It is far more complex than a dedicated landing page builder and lacks built-in A/B testing and conversion optimization tools, requiring third-party integrations for these functions.",
+      "criticism_short": "Very steep learning curve; no built-in A/B testing.",
+      "sources_pending": [
+        "Webflow Pricing",
+        "G2 Webflow Reviews",
+        "Webflow University"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-05",
+        "summary": "No material public risk signals as of 2026-06-05.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Mailchimp",
+        "HubSpot",
+        "Google Analytics",
+        "Shopify",
+        "Airtable"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

@@ -6,22 +6,6 @@
   },
   "pending": [
     {
-      "slug": "landing-page-builder",
-      "title": "The 11 Best Landing Page Builders",
-      "vertical": "Marketing · Landing Pages",
-      "audience": "Marketers and entrepreneurs choosing a landing page builder (Unbounce vs Leadpages vs Instapage)",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
-      "slug": "social-media-scheduling-tools",
-      "title": "The 11 Best Social Media Scheduling Tools",
-      "vertical": "Marketing · Social Media Tools",
-      "audience": "Small business owners and social media managers choosing scheduling tools (Buffer vs Hootsuite vs Later)",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "project-management-agencies",
       "title": "The 11 Best Project Management Software for Agencies",
       "vertical": "Productivity · Agency Project Management",
@@ -493,7 +477,9 @@
     "ecommerce-platform",
     "web-hosting-small-business",
     "seo-tools",
-    "cybersecurity-software-smb"
+    "cybersecurity-software-smb",
+    "landing-page-builder",
+    "social-media-scheduling-tools"
   ],
   "skipped": []
 }
