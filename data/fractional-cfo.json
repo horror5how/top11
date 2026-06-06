@@ -12,7 +12,7 @@
   },
   "published": "2026-05-22",
   "last_verified": "2026-06-06",
-  "next_review": "2026-06-22",
+  "next_review": "2026-07-06",
   "methodology_version": "v1.0",
   "independence": {
     "paid_placement": false,
@@ -36,7 +36,7 @@
   "changelog": [
     {
       "date": "2026-06-06",
-      "text": "Meta description rewritten to lead with concrete pricing anchors (Graphite from $1,500/mo, Kruze $2.5–15k/mo, Burkland from $5k/mo) and surface the risk-signal and pricing-comparison coverage. No ranking changes."
+      "text": "Meta description rewritten to lead with concrete pricing anchors (Graphite from $1,500/mo, Kruze $2.5\u201315k/mo, Burkland from $5k/mo) and surface the risk-signal and pricing-comparison coverage. No ranking changes."
     },
     {
       "date": "2026-06-03",
@@ -51,7 +51,7 @@
       "text": "List published. 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1."
     }
   ],
-  "answer_capsule": "The 11 best fractional CFO companies for tech startups (2026), ranked by outcome — not who paid. Burkland #1 for VC-backed SaaS (from $5k/mo), Kruze #2 for R&D credits ($2.5–15k/mo), Graphite Financial #3 for early-stage on a YC budget (from $1,500/mo). Includes pricing, risk signals, and who to avoid. Updated June 2026.",
+  "answer_capsule": "The 11 best fractional CFO companies for tech startups (2026), ranked by outcome \u2014 not who paid. Burkland #1 for VC-backed SaaS (from $5k/mo), Kruze #2 for R&D credits ($2.5\u201315k/mo), Graphite Financial #3 for early-stage on a YC budget (from $1,500/mo). Includes pricing, risk signals, and who to avoid. Updated June 2026.",
   "methodology": {
     "version": "v1.0",
     "updated": "2026-05-22",
@@ -427,7 +427,7 @@
       "hq": "San Francisco, CA",
       "team_size_band": "150+",
       "best_for": "Seed to Series B SaaS, R&D tax credit heavy",
-      "best_for_short": "Seed. Series B · R&D-credit heavy",
+      "best_for_short": "Seed. Series B \u00b7 R&D-credit heavy",
       "pricing_band": "$$$ (typically $2.5k to $15k/mo)",
       "score_out_of_94": 8.9,
       "verdict": "Strongest reputation for R&D tax credit work in the US. They routinely return more than their fee in credits. Tight SaaS focus and an unusually content-heavy blog that doubles as a startup CFO education library.",
@@ -835,7 +835,7 @@
       "team_size_band": "750+ CFOs across 20+ countries",
       "best_for": "International tech businesses, UK / EU / APAC operating entities",
       "best_for_short": "International / multi-entity",
-      "pricing_band": "$$$ (typically £4k to £15k/mo per market)",
+      "pricing_band": "$$$ (typically \u00a34k to \u00a315k/mo per market)",
       "score_out_of_94": 7.4,
       "verdict": "The CFO Centre is the most genuinely international option here. If you've raised in the US but built the team in London or Singapore, they're set up for that geography. The network's senior CFOs are experienced, the franchise structure means local relationship quality varies.",
       "verdict_short": "The most global option. Built for cross-border teams.",
