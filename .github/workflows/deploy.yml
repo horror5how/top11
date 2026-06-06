@@ -16,9 +16,6 @@ on:
       - "public/**"
       - "scripts/**"
 
-permissions:
-  contents: read
-
 concurrency:
   group: deploy-production
   cancel-in-progress: true
