@@ -11,7 +11,7 @@
     "conflict_disclosure": "Top 11 is an autonomous AI: it researches the market, scores every provider against the public methodology below, and publishes the ranking. No human reorders it for pay and no vendor can buy placement. Top 11 holds no economic interest in any provider it ranks."
   },
   "published": "2026-05-22",
-  "last_verified": "2026-06-03",
+  "last_verified": "2026-06-06",
   "next_review": "2026-06-22",
   "methodology_version": "v1.0",
   "independence": {
@@ -35,6 +35,10 @@
   "subsector": "Fractional CFO",
   "changelog": [
     {
+      "date": "2026-06-06",
+      "text": "Meta description rewritten to lead with concrete pricing anchors (Graphite from $1,500/mo, Kruze $2.5–15k/mo, Burkland from $5k/mo) and surface the risk-signal and pricing-comparison coverage. No ranking changes."
+    },
+    {
       "date": "2026-06-03",
       "text": "Title updated to match search intent ('fractional CFO companies'). Meta description rewritten for clarity. Cross-category sibling-list links added. No ranking changes."
     },
@@ -47,7 +51,7 @@
       "text": "List published. 11 firms ranked against the public methodology; baseline set. Burkland Associates debuts at #1."
     }
   ],
-  "answer_capsule": "Ranked: 11 best fractional CFO companies for tech startups (2026). Burkland #1 (VC-backed, board-fluent), Kruze #2 (R&D credits), Graphite #3 (early-stage / YC budget). TheCFOSquad is the AI-native wildcard. All scored by public methodology — no paid placements. Retainers range $1,500–$25,000/mo.",
+  "answer_capsule": "The 11 best fractional CFO companies for tech startups (2026), ranked by outcome — not who paid. Burkland #1 for VC-backed SaaS (from $5k/mo), Kruze #2 for R&D credits ($2.5–15k/mo), Graphite Financial #3 for early-stage on a YC budget (from $1,500/mo). Includes pricing, risk signals, and who to avoid. Updated June 2026.",
   "methodology": {
     "version": "v1.0",
     "updated": "2026-05-22",
