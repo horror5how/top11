@@ -1,0 +1,824 @@
+{
+  "slug": "hr-software-small-business",
+  "title": "The 11 Best HR Software for Small Business (2026)",
+  "subtitle": "A comprehensive ranking of all-in-one HR platforms designed for teams of 2 to 250 employees.",
+  "vertical": "HR · Human Resources",
+  "audience": "Small business owners choosing HR software (Rippling vs Gusto vs BambooHR vs Zenefits)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-07",
+  "last_verified": "2026-06-07",
+  "next_review": "2026-09-05",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Human Resources Information System (HRIS)",
+  "changelog": [
+    {
+      "date": "2026-06-07",
+      "text": "Initial publication. Methodology v1.0 weights Core HR & Payroll (30%), Ease of Use (25%), Pricing (20%), Integrations & Scalability (15%), and Compliance & Support (10%)."
+    }
+  ],
+  "answer_capsule": "The best HR software for small businesses is Rippling, due to its comprehensive HR, IT, and Finance integration, followed by Gusto for its unmatched ease of use and BambooHR for its focus on employee experience.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-07",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core HR & Payroll",
+        "weight": 30,
+        "description": "Effectiveness of core functions: payroll processing, benefits administration, employee records, time tracking, and reporting."
+      },
+      {
+        "name": "Ease of Use & Onboarding",
+        "weight": 25,
+        "description": "Intuitive interface for both admins and employees, simplicity of initial setup, and quality of the self-service portal."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 20,
+        "description": "Clarity of pricing tiers, value for money, and absence of hidden fees. Overall affordability for small business budgets."
+      },
+      {
+        "name": "Integrations & Scalability",
+        "weight": 15,
+        "description": "Ability to connect with third-party apps (accounting, productivity) and scale features as the company grows."
+      },
+      {
+        "name": "Compliance & Support",
+        "weight": 10,
+        "description": "Support for tax filings, labor law compliance (ACA, FLSA), and the responsiveness and quality of customer service."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "HRIS",
+    "Payroll Software",
+    "Benefits Administration",
+    "PEO"
+  ],
+  "problem_tags": [
+    "payroll processing",
+    "employee onboarding",
+    "benefits management",
+    "hr compliance",
+    "time tracking"
+  ],
+  "query_intents": [
+    "best hr software for small business",
+    "gusto vs rippling",
+    "bamboohr pricing",
+    "all-in-one hr platform",
+    "smb payroll solutions"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "unified employee data",
+        "automating payroll",
+        "managing IT and HR together"
+      ],
+      "personas": [
+        "tech-savvy startups",
+        "fast-growing SMBs"
+      ]
+    },
+    "2": {
+      "solves": [
+        "simple payroll",
+        "employee self-onboarding",
+        "benefits for small teams"
+      ],
+      "personas": [
+        "first-time business owners",
+        "companies under 50 employees"
+      ]
+    },
+    "3": {
+      "solves": [
+        "employee engagement",
+        "performance reviews",
+        "centralized employee records"
+      ],
+      "personas": [
+        "culture-focused companies",
+        "businesses graduating from basic payroll"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "What is HR Software?",
+      "a": "HR software is a digital solution that helps businesses manage and automate core human resources tasks. This includes payroll, benefits administration, employee data management, onboarding, time tracking, and compliance. For small businesses, it consolidates disparate processes into a single, efficient platform."
+    },
+    {
+      "q": "When Does a Small Business Need HR Software?",
+      "a": "A small business typically needs HR software when manual processes (like spreadsheets for payroll) become time-consuming or error-prone, usually around 5-10 employees. It becomes essential for managing compliance, administering benefits, and ensuring scalable, consistent HR practices as the team grows."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your core needs: Are you primarily solving for payroll, or do you need a full suite with performance management and onboarding?",
+    "Consider your team size and growth trajectory. Choose a platform that can scale with you from 10 to 100+ employees without a painful migration.",
+    "Request demos from your top 2-3 choices to experience the user interface for both administrators and employees.",
+    "Ask for a detailed quote and scrutinize the pricing model. Understand the difference between per-employee-per-month fees, base fees, and potential setup costs."
+  ],
+  "faqs": [
+    {
+      "q": "How much does HR software cost for a small business?",
+      "a": "Costs typically range from $6 to $15 per employee per month, often with a monthly base fee of $40 to $200. An all-in-one platform for a 20-person company might cost between $200 and $500 per month."
+    },
+    {
+      "q": "What's the difference between HR software and a PEO?",
+      "a": "HR software (like Gusto or BambooHR) is a tool you use to manage your own HR. A Professional Employer Organization (PEO) (like Justworks or TriNet) becomes a co-employer, taking on legal responsibility for payroll and compliance and allowing you to access their large-group benefits plans."
+    },
+    {
+      "q": "Is Rippling or Gusto better for a small business?",
+      "a": "Gusto is often better for very small businesses (under 25 employees) who prioritize simplicity and best-in-class payroll. Rippling is better for fast-growing businesses that want a single platform to manage HR, IT, and Finance, offering more power and customization."
+    },
+    {
+      "q": "Can I switch HR software providers later?",
+      "a": "Yes, but it can be a complex process involving data migration of sensitive employee and payroll information. It's best to choose a provider that you anticipate can meet your needs for at least the next 3-5 years."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-ranked providers are all-in-one platforms; businesses needing only a single function (like payroll) may find simpler, cheaper solutions.",
+    "Pricing is often opaque and requires a custom quote, making direct 'apples-to-apples' comparison difficult without engaging sales teams.",
+    "This list has a strong US-centric bias, as most providers are built primarily for US payroll and compliance. Companies with international employees should prioritize platforms like Deel or Papaya Global."
+  ],
+  "glossary": {
+    "term": "HRIS (Human Resources Information System)",
+    "definition": "A type of HR software that acts as a central repository for employee information. It's the system of record for all basic HR data like names, addresses, roles, and compensation.",
+    "synonyms": [
+      "HRMS",
+      "HCM"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Rippling",
+      "url": "https://www.rippling.com",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Tech-forward small businesses that want a single, powerful platform to manage HR, IT, and Finance from day one.",
+      "best_for_short": "Unified HR, IT & Finance",
+      "pricing_band": "$$ ($8 to $20 PEPM)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core HR & Payroll": 9.2,
+        "Ease of Use & Onboarding": 9,
+        "Pricing & Transparency": 8.8,
+        "Integrations & Scalability": 9.8,
+        "Compliance & Support": 9
+      },
+      "verdict": "Rippling ranks first because it uniquely combines HRIS with IT and finance automation, creating a single source of truth for all employee operations that scales effortlessly.",
+      "verdict_short": "The best all-in-one platform for HR, IT, and finance, offering unmatched integration and automation.",
+      "praise": "Its workflow automation engine is exceptionally powerful, allowing businesses to automate everything from onboarding app provisioning to payroll adjustments.",
+      "praise_short": "Powerful, best-in-class workflow automation.",
+      "criticism": "The sheer number of features can be overwhelming for very small teams, and the pricing can become higher than competitors as you add more modules.",
+      "criticism_short": "Can be complex and costly.",
+      "sources_pending": [
+        "rippling.com/pricing",
+        "g2.com/products/rippling/reviews",
+        "capteerra.com/software/160161/rippling"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Slack",
+        "Google Workspace",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "ACA",
+        "COBRA",
+        "EEO-1",
+        "FLSA"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Global (EOR)"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 2000
+    },
+    {
+      "rank": 2,
+      "name": "Gusto",
+      "url": "https://www.gusto.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Startups and small businesses (under 50 employees) who prioritize an exceptionally user-friendly interface for payroll and core HR.",
+      "best_for_short": "Easiest payroll & core HR",
+      "pricing_band": "$$ ($46 to $90/mo + PEPM)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core HR & Payroll": 9.3,
+        "Ease of Use & Onboarding": 9.5,
+        "Pricing & Transparency": 9,
+        "Integrations & Scalability": 7.8,
+        "Compliance & Support": 8.9
+      },
+      "verdict": "Gusto earns the second spot for its laser focus on making payroll and benefits delightfully simple for small business owners who aren't HR experts.",
+      "verdict_short": "The most intuitive and user-friendly platform for payroll-first small businesses.",
+      "praise": "The employee onboarding and self-service portals are best-in-class, making it easy for new hires to get set up with minimal admin involvement.",
+      "praise_short": "Exceptional employee self-service experience.",
+      "criticism": "It lacks the advanced HR features (like complex performance management) and deep integrations of competitors, making it less suitable for rapidly scaling companies.",
+      "criticism_short": "Limited scalability for complex HR needs.",
+      "sources_pending": [
+        "gusto.com/pricing",
+        "g2.com/products/gusto/reviews",
+        "pcmag.com/reviews/gusto"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 46,
+      "price_max": 90,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "TSheets",
+        "Clover"
+      ],
+      "compliance": [
+        "ACA",
+        "COBRA",
+        "Workers' Comp"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 3,
+      "name": "BambooHR",
+      "url": "https://www.bamboohr.com",
+      "founded": 2008,
+      "hq": "Lindon, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Growing small businesses (25-150 employees) that want to move beyond basic payroll to focus on employee experience, performance, and culture.",
+      "best_for_short": "Best for employee experience",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core HR & Payroll": 8.5,
+        "Ease of Use & Onboarding": 9.2,
+        "Pricing & Transparency": 8,
+        "Integrations & Scalability": 8.9,
+        "Compliance & Support": 9.1
+      },
+      "verdict": "BambooHR is ranked third as the best choice for culture-focused SMBs, offering robust tools for performance management and employee satisfaction that competitors often lack.",
+      "verdict_short": "Excellent for managing the entire employee lifecycle with a focus on culture and performance.",
+      "praise": "Its data collection and reporting on employee-centric metrics like satisfaction and turnover are fantastic for making informed people-decisions.",
+      "praise_short": "Strong people-analytics and reporting.",
+      "criticism": "Payroll is an add-on and not as seamlessly integrated as payroll-native platforms like Gusto, and the lack of transparent pricing is a drawback.",
+      "criticism_short": "Opaque pricing and payroll is an add-on.",
+      "sources_pending": [
+        "bamboohr.com",
+        "g2.com/products/bamboohr/reviews",
+        "trustradius.com/products/bamboohr/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Greenhouse",
+        "Lever",
+        "Slack",
+        "Okta"
+      ],
+      "compliance": [
+        "EEO-1",
+        "OSHA",
+        "ACA"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 2500
+    },
+    {
+      "rank": 4,
+      "name": "Justworks",
+      "url": "https://www.justworks.com",
+      "founded": 2012,
+      "hq": "New York, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Small businesses wanting to offer enterprise-level benefits and offload compliance risk through a user-friendly PEO model.",
+      "best_for_short": "Best PEO for benefits",
+      "pricing_band": "$$$ ($59 to $99 PEPM)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core HR & Payroll": 8.8,
+        "Ease of Use & Onboarding": 9,
+        "Pricing & Transparency": 8.2,
+        "Integrations & Scalability": 7.5,
+        "Compliance & Support": 9.3
+      },
+      "verdict": "Justworks stands out as the top PEO option due to its transparent pricing, modern software interface, and excellent access to high-quality health insurance plans.",
+      "verdict_short": "A modern, easy-to-use PEO that provides access to excellent large-group benefits.",
+      "praise": "Its 24/7 customer support via phone, chat, and email is a significant advantage for small teams without dedicated HR staff.",
+      "praise_short": "Outstanding 24/7 customer support.",
+      "criticism": "As a PEO, it's more expensive than standalone HR software, and it has fewer third-party software integrations compared to non-PEO competitors.",
+      "criticism_short": "More expensive and fewer integrations.",
+      "sources_pending": [
+        "justworks.com/pricing",
+        "g2.com/products/justworks/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Greenhouse"
+      ],
+      "compliance": [
+        "PEO Co-employment",
+        "Workers' Comp",
+        "ACA",
+        "EPLI"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "Deel",
+      "url": "https://www.deel.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Small businesses with a distributed or global workforce, simplifying the complexity of hiring and paying international employees and contractors.",
+      "best_for_short": "Best for global teams",
+      "pricing_band": "$$$ ($49 to $599/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core HR & Payroll": 8.5,
+        "Ease of Use & Onboarding": 8.6,
+        "Pricing & Transparency": 8,
+        "Integrations & Scalability": 8.2,
+        "Compliance & Support": 8.4
+      },
+      "verdict": "Deel secures its rank by being the best-in-class solution for managing a global workforce, expertly handling international payroll, contracts, and compliance in one platform.",
+      "verdict_short": "The leader in global payroll and contractor management for distributed small businesses.",
+      "praise": "The platform makes it incredibly simple to hire in a new country, generating compliant contracts and managing payments in local currencies.",
+      "praise_short": "Effortless international hiring and payments.",
+      "criticism": "Its US-based payroll and benefits administration features are less mature than domestic-focused competitors like Gusto or Rippling.",
+      "criticism_short": "US payroll features are less robust.",
+      "sources_pending": [
+        "deel.com/pricing",
+        "g2.com/products/deel/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Greenhouse"
+      ],
+      "compliance": [
+        "GDPR",
+        "Global Payroll",
+        "Contractor vs Employee classification"
+      ],
+      "regions": [
+        "Global (150+ countries)"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Zenefits",
+      "url": "https://www.zenefits.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Small businesses looking for a mature, all-in-one platform with particularly strong benefits administration tools and a connected broker model.",
+      "best_for_short": "Strong all-in-one with benefits focus",
+      "pricing_band": "$$ ($10 to $27 PEPM)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core HR & Payroll": 8.2,
+        "Ease of Use & Onboarding": 8.5,
+        "Pricing & Transparency": 8.3,
+        "Integrations & Scalability": 7.9,
+        "Compliance & Support": 7.5
+      },
+      "verdict": "Zenefits offers a well-rounded, veteran HR platform whose main strength lies in its integrated benefits shopping and administration, making it a solid choice for benefits-focused companies.",
+      "verdict_short": "A mature all-in-one HR platform with excellent benefits administration capabilities.",
+      "praise": "The mobile app is comprehensive and highly rated, providing employees with easy access to pay stubs, time off requests, and benefits information.",
+      "praise_short": "Excellent, full-featured mobile app.",
+      "criticism": "Customer support has received mixed reviews, and the platform has not innovated at the same pace as newer competitors like Rippling.",
+      "criticism_short": "Inconsistent customer support.",
+      "sources_pending": [
+        "zenefits.com/pricing/",
+        "g2.com/products/zenefits/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 27,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Slack",
+        "Salesforce"
+      ],
+      "compliance": [
+        "ACA",
+        "COBRA",
+        "HIPAA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 500
+    },
+    {
+      "rank": 7,
+      "name": "ADP Run",
+      "url": "https://www.adp.com/what-we-offer/run-powered-by-adp.aspx",
+      "founded": 1949,
+      "hq": "Roseland, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Small businesses that prioritize payroll accuracy, tax compliance, and the stability of a large, established provider above all else.",
+      "best_for_short": "Most reliable for payroll & tax",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core HR & Payroll": 9,
+        "Ease of Use & Onboarding": 7,
+        "Pricing & Transparency": 7.2,
+        "Integrations & Scalability": 8,
+        "Compliance & Support": 9.2
+      },
+      "verdict": "ADP Run is ranked for its unmatched expertise in payroll and tax compliance, offering peace of mind for small business owners who are risk-averse.",
+      "verdict_short": "A legacy leader offering rock-solid payroll and tax compliance for risk-averse businesses.",
+      "praise": "ADP's deep bench of compliance experts and automated tax filing capabilities are second to none, significantly reducing the risk of costly errors.",
+      "praise_short": "Unbeatable tax and compliance engine.",
+      "criticism": "The user interface feels dated compared to modern competitors, and the pricing structure is notoriously opaque and often includes many add-on fees.",
+      "criticism_short": "Clunky interface and opaque pricing.",
+      "sources_pending": [
+        "adp.com",
+        "g2.com/products/run-powered-by-adp/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 200,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Oracle NetSuite",
+        "ZipRecruiter"
+      ],
+      "compliance": [
+        "Federal, State, Local Tax",
+        "ACA",
+        "Workers' Comp"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 49
+    },
+    {
+      "rank": 8,
+      "name": "Paychex Flex",
+      "url": "https://www.paychex.com/paychex-flex",
+      "founded": 1971,
+      "hq": "Rochester, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Businesses looking for a highly reliable, all-in-one HR solution from a long-standing provider with dedicated customer support.",
+      "best_for_short": "Dependable all-in-one HR",
+      "pricing_band": "$$ ($39/mo + PEPM)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core HR & Payroll": 8.5,
+        "Ease of Use & Onboarding": 7.5,
+        "Pricing & Transparency": 7.8,
+        "Integrations & Scalability": 7.4,
+        "Compliance & Support": 8.5
+      },
+      "verdict": "Paychex Flex provides a dependable and comprehensive HR platform, making it a strong contender for businesses that value the service and stability of an industry giant.",
+      "verdict_short": "A stable and comprehensive HR platform from an established industry leader.",
+      "praise": "Customers often receive a dedicated support specialist, providing a consistent point of contact for resolving issues, which is rare in the industry.",
+      "praise_short": "Dedicated customer support specialists.",
+      "criticism": "The platform can feel less intuitive than newer, cloud-native solutions, and the modular pricing means costs can add up quickly.",
+      "criticism_short": "Less intuitive and modular pricing.",
+      "sources_pending": [
+        "paychex.com/pricing",
+        "g2.com/products/paychex-flex/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Indeed",
+        "Glassdoor"
+      ],
+      "compliance": [
+        "Tax Services",
+        "Workers' Comp",
+        "State Unemployment Insurance"
+      ],
+      "regions": [
+        "USA",
+        "Germany"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "TriNet",
+      "url": "https://www.trinet.com",
+      "founded": 1988,
+      "hq": "Dublin, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "More established small businesses, particularly in regulated industries like finance or healthcare, that need the comprehensive risk management of a PEO.",
+      "best_for_short": "Best PEO for regulated industries",
+      "pricing_band": "$$$$ (Custom Quote)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core HR & Payroll": 8,
+        "Ease of Use & Onboarding": 7.2,
+        "Pricing & Transparency": 6.5,
+        "Integrations & Scalability": 7.5,
+        "Compliance & Support": 9.5
+      },
+      "verdict": "TriNet is the premier PEO choice for small businesses with complex compliance needs, offering industry-specific expertise and robust risk mitigation services.",
+      "verdict_short": "A comprehensive PEO with deep industry-specific compliance and risk management expertise.",
+      "praise": "Their HR support extends beyond software to include access to a team of experts for handling complex issues like employee relations and legal compliance.",
+      "praise_short": "Access to dedicated HR experts.",
+      "criticism": "It is one of the most expensive options on the market, and its technology platform is generally considered less modern and user-friendly than competitors.",
+      "criticism_short": "Very expensive with a dated platform.",
+      "sources_pending": [
+        "trinet.com",
+        "g2.com/products/trinet/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Lattice"
+      ],
+      "compliance": [
+        "PEO Co-employment",
+        "EPLI",
+        "Industry-specific (e.g., FINRA)"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 10,
+      "name": "Papaya Global",
+      "url": "https://www.papayaglobal.com",
+      "founded": 2016,
+      "hq": "New York, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Small businesses scaling internationally that need a unified platform to manage payroll, payments, and compliance across multiple countries.",
+      "best_for_short": "Unified global payroll platform",
+      "pricing_band": "$$$ ($20 to $650 PEPM)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core HR & Payroll": 8,
+        "Ease of Use & Onboarding": 7.5,
+        "Pricing & Transparency": 7,
+        "Integrations & Scalability": 7.8,
+        "Compliance & Support": 7.2
+      },
+      "verdict": "Papaya Global earns its place by providing a robust, centralized solution for the significant challenge of multi-country payroll, making it a key enabler for global expansion.",
+      "verdict_short": "A strong choice for consolidating and managing complex payroll across multiple countries.",
+      "praise": "The platform provides a single dashboard to view total workforce costs across all countries, offering valuable insights for global financial planning.",
+      "praise_short": "Centralized global workforce cost visibility.",
+      "criticism": "The platform can be complex to set up, and it's overkill for companies that don't have an immediate or significant international employee presence.",
+      "criticism_short": "Complex setup; not for domestic-only teams.",
+      "sources_pending": [
+        "papayaglobal.com/pricing",
+        "g2.com/products/papaya-global/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 650,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "SAP",
+        "Workday",
+        "BambooHR"
+      ],
+      "compliance": [
+        "GDPR",
+        "Global Payroll Tax",
+        "EOR Services"
+      ],
+      "regions": [
+        "Global (160+ countries)"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Homebase",
+      "url": "https://joinhomebase.com",
+      "founded": 2014,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Businesses with hourly employees (like restaurants, retail, and services) that need best-in-class scheduling and time tracking which can expand into a full HR suite.",
+      "best_for_short": "Best for hourly workforces",
+      "pricing_band": "$ ($25 to $100/mo per location)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Core HR & Payroll": 7,
+        "Ease of Use & Onboarding": 8.5,
+        "Pricing & Transparency": 8.8,
+        "Integrations & Scalability": 6,
+        "Compliance & Support": 6.5
+      },
+      "verdict": "Homebase is our wildcard pick because it inverts the typical HR software model, starting with elite tools for the hourly workforce and layering in HR and payroll, making it a perfect fit for a huge, underserved segment of small business.",
+      "verdict_short": "An exceptional scheduling and time-tracking tool that has evolved into a full HR suite for hourly teams.",
+      "praise": "Its team communication and scheduling features are far superior to the generic tools found in most all-in-one HR platforms, directly addressing the biggest pain point for managers of hourly staff.",
+      "praise_short": "Best-in-class scheduling and team communication.",
+      "criticism": "The core HR and benefits administration features are more basic than dedicated HRIS platforms, making it less suitable for businesses with mostly salaried employees or complex HR needs.",
+      "criticism_short": "Core HR features are less developed.",
+      "sources_pending": [
+        "joinhomebase.com/pricing",
+        "g2.com/products/homebase/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Square",
+        "Clover",
+        "Shopify"
+      ],
+      "compliance": [
+        "FLSA",
+        "Fair Workweek",
+        "Break tracking"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 250
+    }
+  ]
+}
