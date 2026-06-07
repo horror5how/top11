@@ -8,22 +8,6 @@
   },
   "pending": [
     {
-      "slug": "expense-management-software",
-      "title": "The 11 Best Expense Management Software (2026)",
-      "vertical": "Finance · Expense Management",
-      "audience": "CFOs and finance managers choosing expense management tools (Expensify vs Brex vs Ramp vs Concur)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "task-management-software",
-      "title": "The 11 Best Task Management Software (2026)",
-      "vertical": "Productivity · Task Management",
-      "audience": "Team leads and PMs choosing task management software (Asana vs Monday vs ClickUp vs Todoist)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
       "slug": "document-management-software",
       "title": "The 11 Best Document Management Software (2026)",
       "vertical": "Operations · Document Management",
@@ -549,7 +533,9 @@
     "video-conferencing-software",
     "sales-crm-software",
     "marketing-automation-software",
-    "hr-software-small-business"
+    "hr-software-small-business",
+    "expense-management-software",
+    "task-management-software"
   ],
   "skipped": []
 }

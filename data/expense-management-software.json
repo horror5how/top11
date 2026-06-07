@@ -1,0 +1,839 @@
+{
+  "slug": "expense-management-software",
+  "title": "The 11 Best Expense Management Software (2026)",
+  "subtitle": "A comprehensive ranking of platforms that automate expense reporting, control corporate spending, and integrate with your accounting stack.",
+  "vertical": "Finance · Expense Management",
+  "audience": "CFOs and finance managers choosing expense management tools (Expensify vs Brex vs Ramp vs Concur)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-07",
+  "last_verified": "2026-06-07",
+  "next_review": "2026-09-05",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Financial Software",
+  "subsector": "Spend Management",
+  "changelog": [
+    {
+      "date": "2026-06-07",
+      "text": "Initial publication. Methodology v1.0 weights Core Features (25%), Spend Control (25%), Integration/Scalability (20%), User Experience (15%), and Reporting (15%)."
+    }
+  ],
+  "answer_capsule": "The best expense management software is Ramp for its powerful, free platform and integrated corporate cards, followed closely by Brex and Navan.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-07",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Expense Management Features",
+        "weight": 25,
+        "description": "Effectiveness of receipt scanning, approval workflows, policy enforcement, and reimbursement processing."
+      },
+      {
+        "name": "Corporate Card & Spend Control",
+        "weight": 25,
+        "description": "Quality of physical/virtual cards, proactive spend controls, and integration between card transactions and expense reporting."
+      },
+      {
+        "name": "Integration & Scalability",
+        "weight": 20,
+        "description": "Depth and reliability of integrations with major ERP and accounting systems (NetSuite, QuickBooks, Xero), plus API availability."
+      },
+      {
+        "name": "User Experience & Mobile App",
+        "weight": 15,
+        "description": "Ease of use for both employees submitting expenses and administrators managing the system."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 15,
+        "description": "Capability to provide real-time visibility into spending, generate custom reports, and support audit readiness."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Mid-Market",
+    "Enterprise",
+    "Startups",
+    "Travel & Expense"
+  ],
+  "problem_tags": [
+    "manual expense reports",
+    "out-of-policy spending",
+    "slow reimbursement",
+    "lack of spend visibility",
+    "accounting reconciliation"
+  ],
+  "query_intents": [
+    "best expense management software",
+    "Ramp vs Brex",
+    "Expensify alternative",
+    "SAP Concur pricing",
+    "corporate card with expense software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "overspending",
+        "manual reconciliation"
+      ],
+      "personas": [
+        "growth-stage CFO",
+        "tech startup"
+      ]
+    },
+    "2": {
+      "solves": [
+        "venture capital spend tracking",
+        "global team expenses"
+      ],
+      "personas": [
+        "startup founder",
+        "global finance manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "complex travel itineraries",
+        "T&E policy compliance"
+      ],
+      "personas": [
+        "enterprise travel manager",
+        "CFO of a sales-heavy org"
+      ]
+    },
+    "4": {
+      "solves": [
+        "enterprise-grade compliance",
+        "global regulatory needs"
+      ],
+      "personas": [
+        "Fortune 500 CFO",
+        "global controller"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.28,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is expense management software?",
+      "a": "Expense management software automates the process of submitting, approving, and reimbursing employee-initiated expenses. Modern platforms often combine this with corporate cards and proactive spend controls to prevent out-of-policy spending before it happens."
+    },
+    {
+      "q": "How has the market evolved from tools like Expensify and Concur?",
+      "a": "The market has shifted from reactive expense *reporting* (submitting receipts for reimbursement) to proactive *spend management*. Newer players like Ramp and Brex integrate corporate cards directly into the software, giving finance teams real-time control and visibility over spending as it occurs."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary use case: Is it primarily for reimbursing out-of-pocket expenses, controlling corporate card spend, or managing travel and expense (T&E)?",
+    "Evaluate the total cost of ownership. Many modern platforms are 'free' but monetize via card interchange fees, while legacy systems often have per-user, per-month SaaS fees and implementation costs.",
+    "Assess the depth of integration with your existing accounting or ERP system (e.g., NetSuite, QuickBooks, Sage Intacct). A seamless data flow is critical for an efficient month-end close.",
+    "Consider the user experience for employees. A clunky mobile app or difficult submission process will lead to low adoption and late expense reports, defeating the purpose of the tool."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between Ramp, Brex, and Expensify?",
+      "a": "Ramp and Brex are modern 'spend management' platforms that combine corporate cards, expense management, bill pay, and accounting automation into one, often free, system. Expensify is a more traditional 'expense reporting' tool focused on receipt tracking and reimbursements, typically with a per-user monthly fee."
+    },
+    {
+      "q": "Is SAP Concur still relevant for large enterprises?",
+      "a": "Yes. For large, global enterprises with complex compliance, multi-entity, and travel booking needs, SAP Concur remains a dominant player due to its feature depth, scalability, and integration with the broader SAP ecosystem. However, it is often considered more expensive and less user-friendly than modern alternatives."
+    },
+    {
+      "q": "How do 'free' expense management platforms make money?",
+      "a": "Platforms like Ramp and Brex primarily earn revenue from interchange fees. Every time an employee uses their corporate card, the vendor (e.g., a restaurant or airline) pays a small percentage of the transaction to the card network (Visa/Mastercard), which is then shared with the issuing platform (Ramp/Brex)."
+    },
+    {
+      "q": "What should I look for in an expense management mobile app?",
+      "a": "A best-in-class mobile app should offer fast, accurate receipt scanning (OCR), easy expense categorization, real-time notifications for card swipes, and a simple interface for both submitting and approving expenses on the go."
+    }
+  ],
+  "honest_disclosures": [
+    "Many of the highest-ranked providers are US-focused, though most offer international capabilities. Companies with a primary presence in Europe or APAC should conduct extra diligence on regional support.",
+    "The 'all-in-one spend management' model (card + software) may not be a fit for companies with existing, long-term corporate card relationships they do not wish to change.",
+    "Pricing can be complex. 'Free' platforms may have requirements for cash balances or monthly spend, while traditional SaaS models can have hidden implementation and support fees."
+  ],
+  "glossary": {
+    "term": "Spend Management",
+    "definition": "A holistic approach to controlling all company spending, including corporate cards, reimbursements, invoices, and procurement, often through a single, unified software platform.",
+    "synonyms": [
+      "Expense Control",
+      "Corporate Spend Management"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Ramp",
+      "url": "https://www.ramp.com",
+      "founded": 2019,
+      "hq": "New York, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Tech-forward companies of all sizes seeking an automated, all-in-one spend management platform with powerful controls and no software fees.",
+      "best_for_short": "Automated all-in-one spend control",
+      "pricing_band": "$ (Free software)",
+      "score_out_of_94": 9.4,
+      "score_breakdown": {
+        "Core Expense Management Features": 9.2,
+        "Corporate Card & Spend Control": 9.8,
+        "Integration & Scalability": 9.5,
+        "User Experience & Mobile App": 9.5,
+        "Reporting & Analytics": 9
+      },
+      "verdict": "Ramp is the best expense management software because it combines a top-tier corporate card, bill payments, and expense automation into a single, powerful platform that is free to use.",
+      "verdict_short": "The best free, all-in-one platform for automated spend control and accounting.",
+      "praise": "Its automated savings insights and seamless accounting integrations for NetSuite and QuickBooks set a new industry standard.",
+      "praise_short": "Industry-leading automation and accounting sync.",
+      "criticism": "While expanding rapidly, its international capabilities and support for non-US entities still lag behind some global incumbents.",
+      "criticism_short": "International features are still maturing.",
+      "sources_pending": [
+        "Ramp Pricing Docs",
+        "G2 Ramp Reviews",
+        "NetSuite App Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Xero",
+        "Sage Intacct",
+        "Slack",
+        "Okta",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Brex",
+      "url": "https://www.brex.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Venture-backed startups and global companies needing a comprehensive financial operating system, including corporate cards, expense management, and treasury.",
+      "best_for_short": "Startups and global teams",
+      "pricing_band": "$ (Free software)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core Expense Management Features": 9,
+        "Corporate Card & Spend Control": 9.5,
+        "Integration & Scalability": 9.4,
+        "User Experience & Mobile App": 9.3,
+        "Reporting & Analytics": 8.8
+      },
+      "verdict": "Brex ranks as a top contender for its sophisticated global capabilities and integrated financial OS approach, making it ideal for startups and scaling tech companies.",
+      "verdict_short": "The best financial OS for global startups, combining cards, T&E, and banking.",
+      "praise": "Its support for multiple currencies and international subsidiaries is a significant advantage for globally distributed teams.",
+      "praise_short": "Excellent global and multi-currency support.",
+      "criticism": "The platform's broad scope, including business accounts and treasury, can be more complex than necessary for companies seeking a simple expense management solution.",
+      "criticism_short": "Can be overly complex if only needing T&E.",
+      "sources_pending": [
+        "Brex Product Docs",
+        "G2 Brex Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Xero",
+        "Workday",
+        "Slack",
+        "TravelPerk"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Navan",
+      "url": "https://navan.com/",
+      "founded": 2015,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Companies with significant business travel, seeking a unified platform to manage travel booking, corporate cards, and expense reporting.",
+      "best_for_short": "Integrated travel and expense",
+      "pricing_band": "$$ (Custom pricing)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core Expense Management Features": 9.3,
+        "Corporate Card & Spend Control": 9,
+        "Integration & Scalability": 8.8,
+        "User Experience & Mobile App": 9.2,
+        "Reporting & Analytics": 8.7
+      },
+      "verdict": "Navan excels by tightly integrating travel booking with expense management, providing unparalleled visibility and control over T&E, the largest category of discretionary spend.",
+      "verdict_short": "The premier choice for managing travel booking and expenses in one place.",
+      "praise": "The platform's ability to create dynamic policies based on trip details (e.g., per diems based on city) is a key differentiator.",
+      "praise_short": "Powerful, dynamic travel-based policies.",
+      "criticism": "For companies with minimal travel, the integrated travel booking features can be superfluous, and the platform may be more expensive than non-travel-focused competitors.",
+      "criticism_short": "Less cost-effective for non-travel use cases.",
+      "sources_pending": [
+        "Navan Solution Docs",
+        "G2 Navan Reviews",
+        "Forrester Wave T&E Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Sage Intacct",
+        "Workday",
+        "Okta",
+        "ADP"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "SAP Concur",
+      "url": "https://www.concur.com",
+      "founded": 1993,
+      "hq": "Bellevue, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Large, global enterprises requiring extensive customization, deep ERP integration, and robust compliance features for travel and expense.",
+      "best_for_short": "Global enterprise T&E compliance",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core Expense Management Features": 9.5,
+        "Corporate Card & Spend Control": 8,
+        "Integration & Scalability": 9.8,
+        "User Experience & Mobile App": 7.5,
+        "Reporting & Analytics": 9.2
+      },
+      "verdict": "SAP Concur remains the go-to choice for the world's largest companies due to its unmatched scalability, global reach, and deep integration into the enterprise finance and HR ecosystem.",
+      "verdict_short": "The incumbent enterprise solution for scalable, global T&E management.",
+      "praise": "Its ecosystem of app integrations and ability to handle complex, multi-entity, multi-currency tax and regulatory requirements is second to none.",
+      "praise_short": "Unmatched enterprise scalability and compliance.",
+      "criticism": "The user interface is widely considered dated and clunky compared to modern competitors, and its pricing model is opaque and expensive.",
+      "criticism_short": "Dated user interface and high cost.",
+      "sources_pending": [
+        "SAP Concur Product Briefs",
+        "Gartner Magic Quadrant",
+        "G2 SAP Concur Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "SAP S/4HANA",
+        "Oracle",
+        "NetSuite",
+        "QuickBooks",
+        "Most ERPs",
+        "Most HRIS"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "ISO 27001",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Airbase",
+      "url": "https://www.airbase.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-market companies looking for a single platform to manage all non-payroll spend, including cards, reimbursements, bill payments, and purchase orders.",
+      "best_for_short": "Unified non-payroll spend management",
+      "pricing_band": "$$$ (Platform fees apply)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core Expense Management Features": 8.6,
+        "Corporate Card & Spend Control": 8.8,
+        "Integration & Scalability": 8.5,
+        "User Experience & Mobile App": 8.2,
+        "Reporting & Analytics": 8.4
+      },
+      "verdict": "Airbase stands out by offering one of the most comprehensive procure-to-pay solutions on the market, consolidating cards, expenses, and AP automation into a cohesive system.",
+      "verdict_short": "A comprehensive procure-to-pay platform for mid-market companies.",
+      "praise": "Its ability to handle purchase order workflows alongside card spend and reimbursements provides a holistic view of company liabilities.",
+      "praise_short": "Integrates POs with card spend.",
+      "criticism": "The platform's pricing is typically higher than card-first competitors like Ramp and Brex, making it a better fit for companies that will use its full suite of features.",
+      "criticism_short": "Higher cost than card-first platforms.",
+      "sources_pending": [
+        "Airbase Pricing Page",
+        "G2 Airbase Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Xero",
+        "Sage Intacct"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 6,
+      "name": "Expensify",
+      "url": "https://www.expensify.com",
+      "founded": 2008,
+      "hq": "Portland, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "SMBs and individuals who need a simple, reliable tool for receipt scanning, expense reporting, and reimbursements.",
+      "best_for_short": "Simple receipt and expense tracking",
+      "pricing_band": "$$ ($5 to $18 per user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core Expense Management Features": 9,
+        "Corporate Card & Spend Control": 7.5,
+        "Integration & Scalability": 8,
+        "User Experience & Mobile App": 8.8,
+        "Reporting & Analytics": 7.7
+      },
+      "verdict": "Expensify earns its spot for its best-in-class receipt scanning technology and dead-simple user experience, which made it a category-defining product for over a decade.",
+      "verdict_short": "The original and still one of the easiest tools for receipt tracking.",
+      "praise": "The SmartScan OCR technology remains one of the fastest and most accurate ways to capture receipt data from a mobile phone.",
+      "praise_short": "Best-in-class receipt scanning (OCR).",
+      "criticism": "Its corporate card and spend control features are less advanced than modern competitors, and the per-user pricing model can become expensive for larger teams.",
+      "criticism_short": "Less advanced spend controls; per-user pricing.",
+      "sources_pending": [
+        "Expensify Pricing Page",
+        "G2 Expensify Reviews",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 18,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "NetSuite",
+        "Sage Intacct"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Divvy (from Bill)",
+      "url": "https://www.bill.com/divvy",
+      "founded": 2016,
+      "hq": "Draper, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Budget owners and finance teams who want to proactively control spending by tying every corporate card transaction to a pre-approved budget.",
+      "best_for_short": "Proactive budget-based spend control",
+      "pricing_band": "$ (Free software)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Expense Management Features": 7.8,
+        "Corporate Card & Spend Control": 8.9,
+        "Integration & Scalability": 7.5,
+        "User Experience & Mobile App": 8.3,
+        "Reporting & Analytics": 7.5
+      },
+      "verdict": "Divvy's unique strength lies in its budget-to-actual tracking, allowing finance teams to enforce budgets in real-time directly through the corporate card.",
+      "verdict_short": "Excellent real-time budget enforcement and visibility for every swipe.",
+      "praise": "The mobile app makes it incredibly easy for budget owners to see their available funds and for employees to request new funds on the fly.",
+      "praise_short": "Intuitive mobile app for budget tracking.",
+      "criticism": "Since its acquisition by Bill.com, the platform's focus has broadened, and its accounting integrations are not as deep as some direct competitors.",
+      "criticism_short": "Accounting integrations are less robust.",
+      "sources_pending": [
+        "Divvy Product Page",
+        "G2 Divvy Reviews",
+        "Bill.com Investor Relations"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "NetSuite",
+        "Xero",
+        "Sage Intacct"
+      ],
+      "compliance": [
+        "SOC 2"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Zoho Expense",
+      "url": "https://www.zoho.com/expense/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10,001+",
+      "best_for": "Companies already invested in the Zoho ecosystem or SMBs looking for a feature-rich, affordable expense management solution.",
+      "best_for_short": "Best value for Zoho users",
+      "pricing_band": "$ ($0 to $8 per user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Expense Management Features": 8.5,
+        "Corporate Card & Spend Control": 7,
+        "Integration & Scalability": 7.8,
+        "User Experience & Mobile App": 8,
+        "Reporting & Analytics": 7.7
+      },
+      "verdict": "Zoho Expense provides exceptional value, offering a comprehensive suite of expense management tools at a highly competitive price point, with seamless integration into the broader Zoho Finance suite.",
+      "verdict_short": "A feature-rich, high-value solution, especially for those in the Zoho ecosystem.",
+      "praise": "The depth of features, including advanced policies, per diems, and travel management, is impressive for its low price.",
+      "praise_short": "Enterprise-grade features at an SMB price.",
+      "criticism": "The user interface can feel cluttered, and its corporate card program is not as integrated or advanced as modern spend management platforms.",
+      "criticism_short": "Cluttered UI; less-integrated card program.",
+      "sources_pending": [
+        "Zoho Expense Pricing Page",
+        "G2 Zoho Expense Reviews",
+        "Zoho Finance Plus Docs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 8,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoho Books",
+        "QuickBooks",
+        "Xero",
+        "Sage Accounting",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Fyle",
+      "url": "https://www.fylehq.com",
+      "founded": 2016,
+      "hq": "Bangalore, India",
+      "team_size_band": "201-500",
+      "best_for": "Companies that want to automate expense submission directly from employee inboxes and existing corporate cards.",
+      "best_for_short": "Automated expense creation from email",
+      "pricing_band": "$$ ($5 to $12 per user/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Expense Management Features": 8.4,
+        "Corporate Card & Spend Control": 7.2,
+        "Integration & Scalability": 7.8,
+        "User Experience & Mobile App": 7.9,
+        "Reporting & Analytics": 6.7
+      },
+      "verdict": "Fyle differentiates itself with a unique, email-first approach to expense tracking, allowing users to submit receipts by simply forwarding an email, which significantly reduces friction.",
+      "verdict_short": "Unique email-first approach simplifies expense submission for employees.",
+      "praise": "Its ability to work with any existing corporate credit card and automatically match receipts to transactions is a major plus for companies not looking to switch card providers.",
+      "praise_short": "Works with any existing corporate card.",
+      "criticism": "The platform lacks the proactive spend controls and integrated card management of leaders like Ramp and Brex.",
+      "criticism_short": "Lacks proactive spend controls.",
+      "sources_pending": [
+        "Fyle Pricing Page",
+        "G2 Fyle Reviews",
+        "Gmail Marketplace Listing"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 4.99,
+      "price_max": 11.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Xero",
+        "Sage Intacct",
+        "Gmail",
+        "Outlook"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Emburse",
+      "url": "https://www.emburse.com",
+      "founded": 2020,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Organizations with specific industry needs (e.g., legal, higher ed, public sector) that can be served by one of Emburse's specialized product offerings.",
+      "best_for_short": "Specialized solutions for specific industries",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core Expense Management Features": 7.9,
+        "Corporate Card & Spend Control": 7,
+        "Integration & Scalability": 7.8,
+        "User Experience & Mobile App": 7,
+        "Reporting & Analytics": 7.3
+      },
+      "verdict": "Emburse offers a broad portfolio of expense management solutions (including Chrome River, Certify, and Tallie) tailored to different market segments, providing specialized functionality where needed.",
+      "verdict_short": "A portfolio of tailored expense tools for various industries and sizes.",
+      "praise": "The ability to choose a product specifically designed for your industry's unique compliance and workflow needs is a significant benefit.",
+      "praise_short": "Strong vertical-specific solutions.",
+      "criticism": "The user experience can be inconsistent across its different products, and the branding can be confusing for prospective customers.",
+      "criticism_short": "Inconsistent UX across its product portfolio.",
+      "sources_pending": [
+        "Emburse Solutions Page",
+        "G2 Chrome River Reviews",
+        "G2 Certify Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "NetSuite",
+        "QuickBooks",
+        "Oracle",
+        "Workday",
+        "Sage Intacct"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Pleo",
+      "url": "https://www.pleo.io",
+      "founded": 2015,
+      "hq": "Copenhagen, Denmark",
+      "team_size_band": "501-1,000",
+      "best_for": "European businesses looking for a modern, employee-centric spend management solution with strong local compliance and integration features.",
+      "best_for_short": "European-focused spend management",
+      "pricing_band": "$$ (€0 to €15 per user/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Core Expense Management Features": 7.5,
+        "Corporate Card & Spend Control": 7.8,
+        "Integration & Scalability": 6.8,
+        "User Experience & Mobile App": 8,
+        "Reporting & Analytics": 5.9
+      },
+      "verdict": "Pleo is a wildcard for its strong focus on the European market, offering a product that deeply understands local regulations, tax laws (like VAT), and user expectations in the region.",
+      "verdict_short": "The leading employee-centric spend platform built for the European market.",
+      "praise": "Its 'Fetch' feature for automatically finding receipts in a user's email inbox is highly effective and a major time-saver.",
+      "praise_short": "Excellent automated receipt fetching.",
+      "criticism": "As a European-first company, its features and support for US-based businesses are less mature than North American competitors.",
+      "criticism_short": "Limited feature set for US businesses.",
+      "sources_pending": [
+        "Pleo Pricing Page",
+        "G2 Pleo Reviews",
+        "Local European accounting software integrations"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 15,
+      "currency": "EUR",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "Sage",
+        "Exact",
+        "DATEV"
+      ],
+      "compliance": [
+        "GDPR",
+        "PSD2"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
