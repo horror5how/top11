@@ -8,22 +8,6 @@
   },
   "pending": [
     {
-      "slug": "customer-success-software",
-      "title": "The 11 Best Customer Success Software Platforms (2026)",
-      "vertical": "Customer Success · SaaS",
-      "audience": "CS leaders at SaaS companies choosing customer success platforms (Gainsight vs ChurnZero vs Totango vs ClientSuccess)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "contract-management-software",
-      "title": "The 11 Best Contract Management Software (2026)",
-      "vertical": "Legal · Contract Management",
-      "audience": "Legal ops and procurement teams choosing contract lifecycle management software (Ironclad vs DocuSign CLM vs Conga vs ContractPodAi)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
       "slug": "proposal-software",
       "title": "The 11 Best Proposal Software for Agencies & Consultants (2026)",
       "vertical": "Sales · Proposal Management",
@@ -272,14 +256,6 @@
       "priority": 3
     },
     {
-      "slug": "contract-management-software",
-      "title": "The 11 Best Contract Management Software",
-      "vertical": "Legal · CLM",
-      "audience": "Legal and ops teams managing contracts",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "appointment-scheduling-software",
       "title": "The 11 Best Appointment Scheduling Software",
       "vertical": "Operations · Scheduling",
@@ -521,7 +497,9 @@
     "expense-management-software",
     "task-management-software",
     "document-management-software",
-    "webinar-software"
+    "webinar-software",
+    "customer-success-software",
+    "contract-management-software"
   ],
   "skipped": []
 }

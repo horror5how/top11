@@ -1,0 +1,870 @@
+{
+  "slug": "customer-success-software",
+  "title": "The 11 Best Customer Success Software Platforms (2026)",
+  "subtitle": "An in-depth ranking of the top platforms for managing customer health, reducing churn, and driving expansion in B2B SaaS.",
+  "vertical": "Customer Success · SaaS",
+  "audience": "CS leaders at SaaS companies choosing customer success platforms (Gainsight vs ChurnZero vs Totango vs ClientSuccess)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-07",
+  "last_verified": "2026-06-07",
+  "next_review": "2026-09-05",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Customer Relationship Management",
+  "changelog": [
+    {
+      "date": "2026-06-07",
+      "text": "Initial publication. Methodology v1.0 weights Health Scoring & Automation (30%), Integration Ecosystem (25%), User Experience (15%), Reporting & Analytics (15%), Scalability (10%), and Customer Journey Orchestration (5%)."
+    }
+  ],
+  "answer_capsule": "The best customer success software is Gainsight for its enterprise-grade features, closely followed by ChurnZero for its user-friendly automation and Catalyst for its modern, integration-first design.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-07",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Health Scoring & Automation",
+        "weight": 30,
+        "description": "Sophistication of customer health scoring models, and the power and flexibility of automated playbooks, tasks, and alerts."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 25,
+        "description": "Breadth and depth of native integrations with CRMs, data warehouses, support desks, and other critical business systems."
+      },
+      {
+        "name": "User Experience & Adoption",
+        "weight": 15,
+        "description": "Ease of use for frontline CSMs, intuitiveness of the interface, and overall likelihood of team adoption."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 15,
+        "description": "Ability to generate actionable insights for leadership on team performance, renewals, expansion, and churn."
+      },
+      {
+        "name": "Scalability & Enterprise Readiness",
+        "weight": 10,
+        "description": "Capacity to handle large data volumes, complex account hierarchies, and enterprise security/compliance requirements."
+      },
+      {
+        "name": "Customer Journey Orchestration",
+        "weight": 5,
+        "description": "Features for mapping, visualizing, and managing the entire customer lifecycle from onboarding to renewal."
+      }
+    ]
+  },
+  "segment_tags": [
+    "B2B SaaS",
+    "Customer Success",
+    "Account Management",
+    "Churn Reduction",
+    "Net Revenue Retention"
+  ],
+  "problem_tags": [
+    "High customer churn",
+    "Reactive account management",
+    "Lack of customer health visibility",
+    "Inefficient CSM workflow",
+    "Missed expansion opportunities"
+  ],
+  "query_intents": [
+    "best customer success platform",
+    "Gainsight vs ChurnZero",
+    "Totango alternatives",
+    "customer health scoring software",
+    "CSM software tools"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling CS operations in large enterprises",
+        "Complex data integration and health scoring"
+      ],
+      "personas": [
+        "Chief Customer Officer",
+        "VP of Customer Success (Enterprise)"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Driving CSM efficiency with automation",
+        "Improving digital-led customer success"
+      ],
+      "personas": [
+        "Director of Customer Success (Mid-Market)",
+        "CS Ops Manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Centralizing customer data from multiple sources",
+        "Modernizing the CSM tech stack"
+      ],
+      "personas": [
+        "Head of Customer Success (Tech-forward)",
+        "CS Ops"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.27,
+    "spread_top_to_bottom": 2.3
+  },
+  "guide": [
+    {
+      "q": "What is Customer Success Software?",
+      "a": "Customer Success (CS) software is a specialized platform that helps businesses, particularly B2B SaaS companies, manage their customer relationships proactively. It centralizes customer data from various sources (CRM, support, product usage) to create a unified view of customer health, enabling Customer Success Managers (CSMs) to reduce churn, identify expansion opportunities, and improve the overall customer experience through automated workflows and data-driven insights."
+    },
+    {
+      "q": "How does it differ from a CRM?",
+      "a": "While a CRM (like Salesforce) is a system of record for sales and contact data, a CS platform is a system of action for post-sales activities. It ingests data from the CRM and other sources to focus specifically on customer health, adoption, retention, and growth. CRMs track deals; CS platforms track the ongoing customer journey and outcomes."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your customer journey and identify the key touchpoints and health indicators you need to track. Don't buy software to define your process; have a process to inform your software choice.",
+    "Prioritize integrations. A CS platform is only as good as the data it can access. Ensure it has robust, native integrations with your CRM, data warehouse, support desk, and communication tools.",
+    "Consider your team's scale and maturity. Enterprise platforms like Gainsight offer immense power but come with significant implementation complexity. Mid-market options like ChurnZero or Catalyst may offer a faster time-to-value for smaller teams.",
+    "Request a tailored demo with your own data. A generic demo won't reveal how the platform handles your specific account structures, health metrics, and desired workflows."
+  ],
+  "faqs": [
+    {
+      "q": "What is the main difference between Gainsight and ChurnZero?",
+      "a": "Gainsight is generally considered the enterprise leader, offering deep customization, powerful analytics, and a broad feature set ideal for large, complex CS organizations. ChurnZero is often favored by mid-market companies for its user-friendly interface, strong automation capabilities, and faster implementation, focusing on making CSMs more efficient."
+    },
+    {
+      "q": "How much does customer success software cost?",
+      "a": "Pricing is almost always custom and based on factors like the number of CSM users, customer accounts managed, and feature tiers. Expect starting prices for SMB-focused tools around $10,000-$15,000 per year, with mid-market platforms ranging from $30,000 to $80,000+, and enterprise solutions like Gainsight often exceeding $100,000 annually."
+    },
+    {
+      "q": "Can I just use my CRM (like HubSpot or Salesforce) for customer success?",
+      "a": "You can start with a CRM, but you'll quickly hit limitations. CRMs are not built for tracking product usage data, calculating health scores, or running automated CS playbooks. Purpose-built CS platforms integrate with your CRM to provide the specific tools CSMs need to manage the post-sale journey effectively."
+    },
+    {
+      "q": "What are the most important features to look for in a CS platform?",
+      "a": "Key features include: 1) a 360-degree customer view, 2) customizable health scoring, 3) automated playbooks and task management, 4) robust integrations (especially with your CRM and data warehouse), 5) in-app engagement tools (like surveys and guides), and 6) comprehensive reporting on retention, churn, and expansion."
+    }
+  ],
+  "honest_disclosures": [
+    "Most leading platforms are designed for mid-market to enterprise B2B SaaS companies and may be overkill for early-stage startups.",
+    "Pricing is notoriously opaque across the category. Nearly all vendors require a sales call to get a quote, making direct comparison difficult.",
+    "Implementation is a significant undertaking. Expect a multi-week or multi-month process requiring dedicated technical and operational resources."
+  ],
+  "glossary": {
+    "term": "Customer Health Score",
+    "definition": "A metric used by customer success teams to represent the likelihood of a customer to grow, renew, or churn. It's typically a weighted score calculated from multiple dimensions like product usage, support tickets, survey responses, and commercial data.",
+    "synonyms": [
+      "Client Health Score",
+      "Account Health"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Gainsight",
+      "url": "https://www.gainsight.com",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Enterprise B2B SaaS companies needing a powerful, highly customizable platform to manage complex customer success operations at scale.",
+      "best_for_short": "Enterprise-scale CS operations",
+      "pricing_band": "$$$$$ (>$100k/yr)",
+      "score_out_of_94": 9.4,
+      "score_breakdown": {
+        "Health Scoring & Automation": 9.5,
+        "Integration Ecosystem": 9.2,
+        "User Experience & Adoption": 8.8,
+        "Reporting & Analytics": 9.8,
+        "Scalability & Enterprise Readiness": 9.9,
+        "Customer Journey Orchestration": 9
+      },
+      "verdict": "Gainsight is the best customer success platform for enterprises because it offers the most comprehensive and scalable feature set on the market, from advanced analytics to journey orchestration.",
+      "verdict_short": "The undisputed enterprise leader with unmatched power, scalability, and customization for complex CS needs.",
+      "praise": "Its ability to handle immense data complexity and provide deep, C-level reporting is second to none.",
+      "praise_short": "Unparalleled power for complex data and enterprise reporting.",
+      "criticism": "The platform's power comes at the cost of significant complexity and a lengthy, resource-intensive implementation process.",
+      "criticism_short": "Complex, expensive, and requires significant implementation resources.",
+      "sources_pending": [
+        "Gainsight Docs",
+        "G2 Crowd Reviews",
+        "Forrester Wave: Customer Success Management"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 75000,
+      "price_max": 100000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 20000,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Jira",
+        "Snowflake",
+        "Redshift",
+        "Slack",
+        "Marketo"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "North America",
+        "EMEA",
+        "APAC"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "ChurnZero",
+      "url": "https://churnzero.net",
+      "founded": 2015,
+      "hq": "Washington, D.C., USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-market SaaS companies seeking a powerful yet user-friendly platform to drive CSM efficiency through automation and real-time alerts.",
+      "best_for_short": "Mid-market automation & efficiency",
+      "pricing_band": "$$$$ ($40k to $100k/yr)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Health Scoring & Automation": 9.4,
+        "Integration Ecosystem": 9,
+        "User Experience & Adoption": 9.5,
+        "Reporting & Analytics": 8.8,
+        "Scalability & Enterprise Readiness": 8.5,
+        "Customer Journey Orchestration": 9.1
+      },
+      "verdict": "ChurnZero earns its high rank by perfectly balancing robust automation features with an intuitive user experience that empowers CSMs to be more proactive and efficient.",
+      "verdict_short": "A powerful, user-friendly platform balancing strong automation with high CSM adoption for the mid-market.",
+      "praise": "Its real-time alerts and highly configurable 'Plays' are best-in-class for driving proactive CSM engagement.",
+      "praise_short": "Best-in-class for real-time alerts and automated plays.",
+      "criticism": "While improving, its analytics and reporting capabilities are less sophisticated than those of enterprise-focused competitors like Gainsight.",
+      "criticism_short": "Reporting and analytics are less advanced than enterprise rivals.",
+      "sources_pending": [
+        "ChurnZero Help Center",
+        "G2 Crowd Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 40000,
+      "price_max": 100000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 10000,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Stripe",
+        "Chargify",
+        "Slack",
+        "Intercom"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "EMEA"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": 500
+    },
+    {
+      "rank": 3,
+      "name": "Catalyst",
+      "url": "https://catalyst.io",
+      "founded": 2017,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Tech-forward, product-led growth (PLG) and mid-market companies that need to centralize customer data from many sources into a modern, intuitive workspace.",
+      "best_for_short": "Modern, integration-first CS",
+      "pricing_band": "$$$$ ($35k to $90k/yr)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Health Scoring & Automation": 8.8,
+        "Integration Ecosystem": 9.8,
+        "User Experience & Adoption": 9.6,
+        "Reporting & Analytics": 8.5,
+        "Scalability & Enterprise Readiness": 8,
+        "Customer Journey Orchestration": 8.9
+      },
+      "verdict": "Catalyst stands out with its best-in-class integration framework and a beautifully designed, user-centric interface that makes it easy for CSMs to consolidate and act on customer data.",
+      "verdict_short": "A modern, beautiful platform with a powerful integration engine, ideal for data-savvy CS teams.",
+      "praise": "Its 'data-first' approach and seamless integrations with tools like Snowflake and BigQuery are a major differentiator.",
+      "praise_short": "Superb data integration, especially with modern data warehouses.",
+      "criticism": "The platform is less mature in areas like journey orchestration and complex automation compared to more established players.",
+      "criticism_short": "Less mature automation and journey orchestration features.",
+      "sources_pending": [
+        "Catalyst Docs",
+        "G2 Crowd Reviews",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 35000,
+      "price_max": 90000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Salesforce",
+        "Snowflake",
+        "Google BigQuery",
+        "Redshift",
+        "HubSpot",
+        "Zendesk",
+        "Gong"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "EMEA"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 3,
+      "max_team_size": 300
+    },
+    {
+      "rank": 4,
+      "name": "Totango",
+      "url": "https://www.totango.com",
+      "founded": 2010,
+      "hq": "Redwood City, USA",
+      "team_size_band": "201-500",
+      "best_for": "Growing companies that need a flexible, modular platform that can adapt to their evolving customer success processes, from digital-led to high-touch.",
+      "best_for_short": "Flexible & modular for scale-ups",
+      "pricing_band": "$$$ ($15k to $75k/yr)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Health Scoring & Automation": 9,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Adoption": 8.4,
+        "Reporting & Analytics": 8.9,
+        "Scalability & Enterprise Readiness": 9,
+        "Customer Journey Orchestration": 9.2
+      },
+      "verdict": "Totango secures its position with a uniquely composable platform that allows businesses to design and deploy customer journeys and programs with exceptional flexibility.",
+      "verdict_short": "A highly flexible, composable platform that adapts to a company's evolving CS maturity.",
+      "praise": "Its 'SuccessBLOC' marketplace provides pre-built templates for common CS programs, accelerating time-to-value.",
+      "praise_short": "Excellent 'SuccessBLOC' templates accelerate program deployment.",
+      "criticism": "The user interface can feel less modern and intuitive than newer competitors, sometimes requiring a steeper learning curve for CSMs.",
+      "criticism_short": "User interface feels dated compared to newer platforms.",
+      "sources_pending": [
+        "Totango Docs",
+        "G2 Crowd Reviews",
+        "Gartner Peer Insights"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 15000,
+      "price_max": 75000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 5000,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Stripe",
+        "Segment",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "EMEA",
+        "APAC"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Vitally",
+      "url": "https://www.vitally.io",
+      "founded": 2017,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-driven B2B SaaS companies, especially those with a product-led or high-velocity sales motion, needing deep product analytics integration.",
+      "best_for_short": "Product-led & data-driven CS",
+      "pricing_band": "$$$ ($20k to $60k/yr)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Health Scoring & Automation": 8.7,
+        "Integration Ecosystem": 9.2,
+        "User Experience & Adoption": 9,
+        "Reporting & Analytics": 8,
+        "Scalability & Enterprise Readiness": 7.5,
+        "Customer Journey Orchestration": 8.2
+      },
+      "verdict": "Vitally excels by providing a highly automated and integration-centric platform that is particularly well-suited for CS teams at product-led companies.",
+      "verdict_short": "A fast, automated platform with deep integrations, perfect for product-led growth companies.",
+      "praise": "Its native integrations with tools like Segment and Mixpanel allow for incredibly granular, real-time tracking of product usage.",
+      "praise_short": "Exceptional integration with product analytics tools.",
+      "criticism": "The platform can be overwhelming for less data-savvy teams, and its reporting is not as robust as more enterprise-focused solutions.",
+      "criticism_short": "Can be overwhelming; reporting is less robust.",
+      "sources_pending": [
+        "Vitally Docs",
+        "G2 Crowd Reviews",
+        "SaaStr"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 20000,
+      "price_max": 60000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Segment",
+        "Mixpanel",
+        "Salesforce",
+        "HubSpot",
+        "Intercom",
+        "Stripe",
+        "Zendesk"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "EMEA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 2,
+      "max_team_size": 200
+    },
+    {
+      "rank": 6,
+      "name": "ClientSuccess",
+      "url": "https://www.clientsuccess.com",
+      "founded": 2014,
+      "hq": "Lehi, USA",
+      "team_size_band": "51-200",
+      "best_for": "CS teams who prioritize simplicity, ease-of-use, and a streamlined workflow for their Customer Success Managers.",
+      "best_for_short": "Simplicity and CSM workflow",
+      "pricing_band": "$$$ ($25k to $70k/yr)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Health Scoring & Automation": 8,
+        "Integration Ecosystem": 8,
+        "User Experience & Adoption": 9.2,
+        "Reporting & Analytics": 8,
+        "Scalability & Enterprise Readiness": 7.8,
+        "Customer Journey Orchestration": 8.1
+      },
+      "verdict": "ClientSuccess earns its spot by focusing relentlessly on the end-user CSM, delivering a clean, straightforward platform that drives adoption and simplifies daily workflows.",
+      "verdict_short": "A clean, straightforward platform focused on making the individual CSM's job easier.",
+      "praise": "The platform is consistently praised for its intuitive design and fast time-to-value, requiring less training than more complex systems.",
+      "praise_short": "Highly intuitive and quick to implement.",
+      "criticism": "Power users may find its automation and reporting capabilities to be less flexible and powerful than other leading platforms.",
+      "criticism_short": "Lacks the depth of automation and reporting power.",
+      "sources_pending": [
+        "ClientSuccess Knowledge Base",
+        "G2 Crowd Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 25000,
+      "price_max": 70000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Jira",
+        "Slack",
+        "Delighted"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "EMEA"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 3,
+      "max_team_size": 250
+    },
+    {
+      "rank": 7,
+      "name": "Planhat",
+      "url": "https://www.planhat.com",
+      "founded": 2015,
+      "hq": "Stockholm, Sweden",
+      "team_size_band": "201-500",
+      "best_for": "Companies needing a highly flexible data model and a platform that can be customized to fit unique customer success and onboarding workflows.",
+      "best_for_short": "Flexible data model & customization",
+      "pricing_band": "$$$ ($20k to $80k/yr)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Health Scoring & Automation": 8.2,
+        "Integration Ecosystem": 8,
+        "User Experience & Adoption": 8.5,
+        "Reporting & Analytics": 7.8,
+        "Scalability & Enterprise Readiness": 8,
+        "Customer Journey Orchestration": 7.9
+      },
+      "verdict": "Planhat is a strong contender due to its exceptionally flexible and open data model, allowing businesses to build a CS platform that truly mirrors their specific processes.",
+      "verdict_short": "A uniquely flexible and customizable platform, especially strong for complex onboarding and project management.",
+      "praise": "Its customer portal and project management features are standout capabilities for collaborating with customers during onboarding.",
+      "praise_short": "Excellent customer portals and project management features.",
+      "criticism": "The sheer flexibility can be a double-edged sword, sometimes leading to a more complex setup and a steeper learning curve.",
+      "criticism_short": "High flexibility can create setup complexity.",
+      "sources_pending": [
+        "Planhat Help Center",
+        "G2 Crowd Reviews",
+        "Substribe Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 20000,
+      "price_max": 80000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Intercom",
+        "Zendesk",
+        "Snowflake",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "EMEA",
+        "North America"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Custify",
+      "url": "https://www.custify.com",
+      "founded": 2016,
+      "hq": "Satu Mare, Romania",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized B2B SaaS companies looking for a straightforward, easy-to-implement platform with transparent pricing.",
+      "best_for_short": "SMBs needing fast time-to-value",
+      "pricing_band": "$$ ($3k to $15k/yr)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Health Scoring & Automation": 7.9,
+        "Integration Ecosystem": 7.5,
+        "User Experience & Adoption": 8.2,
+        "Reporting & Analytics": 7.5,
+        "Scalability & Enterprise Readiness": 7,
+        "Customer Journey Orchestration": 7.8
+      },
+      "verdict": "Custify makes the list by offering a simple, effective, and accessible customer success solution tailored for the needs and budgets of SMBs.",
+      "verdict_short": "An accessible and easy-to-use platform designed specifically for the needs of SMBs.",
+      "praise": "Its focus on core CS functionalities and quick implementation provides a very fast time-to-value for smaller teams.",
+      "praise_short": "Simple, core features with a quick implementation.",
+      "criticism": "The platform lacks the depth, customization, and enterprise-grade features required by larger, more mature CS organizations.",
+      "criticism_short": "Lacks depth and customization for larger teams.",
+      "sources_pending": [
+        "Custify Help Docs",
+        "G2 Crowd Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 3588,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "Pipedrive",
+        "Zendesk",
+        "Intercom",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "EMEA",
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 9,
+      "name": "CustomerSuccessBox",
+      "url": "https://customersuccessbox.com",
+      "founded": 2016,
+      "hq": "Wilmington, USA",
+      "team_size_band": "51-200",
+      "best_for": "Early-stage to mid-market B2B SaaS companies focused on improving customer onboarding and product adoption.",
+      "best_for_short": "B2B SaaS onboarding & adoption",
+      "pricing_band": "$$ ($6k to $25k/yr)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Health Scoring & Automation": 7.8,
+        "Integration Ecosystem": 7.2,
+        "User Experience & Adoption": 7.9,
+        "Reporting & Analytics": 7.3,
+        "Scalability & Enterprise Readiness": 7,
+        "Customer Journey Orchestration": 7.8
+      },
+      "verdict": "CustomerSuccessBox is a solid choice for its specific focus on mapping outcomes to product adoption, making it particularly effective for SaaS companies with a complex onboarding process.",
+      "verdict_short": "A focused platform for B2B SaaS, excelling at managing customer onboarding and adoption.",
+      "praise": "The platform's strength lies in its structured approach to tracking and managing customer onboarding milestones.",
+      "praise_short": "Strong features for managing customer onboarding.",
+      "criticism": "Its integration library is less extensive than competitors, and the user interface feels less polished than the top-tier platforms.",
+      "criticism_short": "Limited integrations and a less polished UI.",
+      "sources_pending": [
+        "CustomerSuccessBox Website",
+        "G2 Crowd Reviews",
+        "SaaS Mag"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 5988,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Stripe",
+        "Chargebee",
+        "Zendesk"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America",
+        "APAC",
+        "EMEA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Strikedeck",
+      "url": "https://www.strikedeck.com",
+      "founded": 2012,
+      "hq": "San Mateo, USA",
+      "team_size_band": "51-200",
+      "best_for": "Large enterprises already invested in the Medallia ecosystem who need to connect customer experience data with CS workflows.",
+      "best_for_short": "Enterprise CS within Medallia",
+      "pricing_band": "$$$$$ (>$80k/yr)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Health Scoring & Automation": 8,
+        "Integration Ecosystem": 7,
+        "User Experience & Adoption": 7,
+        "Reporting & Analytics": 7.8,
+        "Scalability & Enterprise Readiness": 8.5,
+        "Customer Journey Orchestration": 7.2
+      },
+      "verdict": "Strikedeck, now part of Medallia, offers a robust, enterprise-grade CS platform that is most compelling for its ability to integrate deeply with Medallia's leading customer experience (CX) data.",
+      "verdict_short": "An enterprise platform whose main strength is its integration with Medallia's CX data suite.",
+      "praise": "Its connection to Medallia allows teams to trigger CS plays based on a rich stream of customer feedback and sentiment data.",
+      "praise_short": "Powerful integration with Medallia's CX data.",
+      "criticism": "As a standalone product, its user experience and integration options lag behind the more modern, agile competitors in the space.",
+      "criticism_short": "Dated UI and limited integrations outside Medallia.",
+      "sources_pending": [
+        "Medallia Website",
+        "G2 Crowd Reviews",
+        "Forrester Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-07",
+        "summary": "No material public risk signals as of 2026-06-07.",
+        "signals": []
+      },
+      "price_min": 80000,
+      "price_max": 80000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 15000,
+      "integrations": [
+        "Medallia",
+        "Salesforce",
+        "Adobe Marketo",
+        "Zendesk",
+        "Jira"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "FedRAMP",
+        "ISO 27001"
+      ],
+      "regions": [
+        "North America",
+        "EMEA",
+        "APAC"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Hook",
+      "url": "https://www.hook.co",
+      "founded": 2021,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Product-led growth (PLG) companies that want to use product usage data to drive both customer success and sales expansion motions.",
+      "best_for_short": "PLG sales & success platform",
+      "pricing_band": "$$$ ($15k to $50k/yr)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Health Scoring & Automation": 7.5,
+        "Integration Ecosystem": 8,
+        "User Experience & Adoption": 7.8,
+        "Reporting & Analytics": 6.5,
+        "Scalability & Enterprise Readiness": 6,
+        "Customer Journey Orchestration": 6.5
+      },
+      "verdict": "Our wildcard pick, Hook, isn't a traditional CS platform; it's a newer tool focused on the intersection of product-led sales and success, helping teams identify and act on expansion opportunities from product usage signals.",
+      "verdict_short": "A next-gen platform for turning product usage signals into sales and success opportunities.",
+      "praise": "It excels at surfacing product-qualified leads (PQLs) and expansion signals that are often buried within product analytics data.",
+      "praise_short": "Excellent at surfacing PQLs from product data.",
+      "criticism": "As a young company, it lacks the broad feature set, especially around traditional CSM workflow management and reporting, of mature CS platforms.",
+      "criticism_short": "Lacks mature CSM workflow and reporting features.",
+      "sources_pending": [
+        "Hook Website",
+        "Product Hunt",
+        "VC Funding Announcements"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-07",
+        "summary": "Early-stage company, potential for rapid product changes or business model pivots.",
+        "signals": [
+          "Venture-backed startup"
+        ]
+      },
+      "price_min": 15000,
+      "price_max": 50000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Segment",
+        "Snowflake",
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Gong"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
