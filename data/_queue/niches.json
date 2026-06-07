@@ -8,22 +8,6 @@
   },
   "pending": [
     {
-      "slug": "document-management-software",
-      "title": "The 11 Best Document Management Software (2026)",
-      "vertical": "Operations · Document Management",
-      "audience": "Business owners and IT managers choosing document management and DMS software (DocuWare vs M-Files vs SharePoint vs Box)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "webinar-software",
-      "title": "The 11 Best Webinar Software Platforms (2026)",
-      "vertical": "Marketing · Webinar",
-      "audience": "Marketers and educators choosing webinar platforms (Demio vs Zoom Webinars vs WebinarJam vs ON24)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
       "slug": "customer-success-software",
       "title": "The 11 Best Customer Success Software Platforms (2026)",
       "vertical": "Customer Success · SaaS",
@@ -535,7 +519,9 @@
     "marketing-automation-software",
     "hr-software-small-business",
     "expense-management-software",
-    "task-management-software"
+    "task-management-software",
+    "document-management-software",
+    "webinar-software"
   ],
   "skipped": []
 }
