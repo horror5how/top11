@@ -8,22 +8,6 @@
   },
   "pending": [
     {
-      "slug": "proposal-software",
-      "title": "The 11 Best Proposal Software for Agencies & Consultants (2026)",
-      "vertical": "Sales · Proposal Management",
-      "audience": "Agency owners and consultants choosing proposal tools (PandaDoc vs Proposify vs Better Proposals vs Qwilr)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
-      "slug": "knowledge-base-software",
-      "title": "The 11 Best Knowledge Base Software (2026)",
-      "vertical": "Customer Support · Knowledge Management",
-      "audience": "Support managers and ops teams choosing knowledge base tools (Zendesk vs Confluence vs Notion vs Document360)",
-      "candidate_pool_size": 25,
-      "priority": 1
-    },
-    {
       "slug": "project-management-agencies",
       "title": "The 11 Best Project Management Software for Agencies",
       "vertical": "Productivity · Agency Project Management",
@@ -499,7 +483,9 @@
     "document-management-software",
     "webinar-software",
     "customer-success-software",
-    "contract-management-software"
+    "contract-management-software",
+    "proposal-software",
+    "knowledge-base-software"
   ],
   "skipped": []
 }

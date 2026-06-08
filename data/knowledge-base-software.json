@@ -1,0 +1,862 @@
+{
+  "slug": "knowledge-base-software",
+  "title": "The 11 Best Knowledge Base Software (2026)",
+  "subtitle": "A ranked list of internal and external knowledge base platforms for support, ops, and product teams.",
+  "vertical": "Customer Support · Knowledge Management",
+  "audience": "Support managers and ops teams choosing knowledge base tools (Zendesk vs Confluence vs Notion vs Document360)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Knowledge Management",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Editor Experience (25%), Search & Discoverability (25%), Integrations (20%), Analytics (15%), Customization (10%), and Security (5%)."
+    }
+  ],
+  "answer_capsule": "The best knowledge base software is Document360 for its dedicated feature set, followed by Zendesk Guide for its seamless help desk integration and Intercom Articles for in-app support.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Editor Experience & Content Management",
+        "weight": 25,
+        "description": "Ease of creating, formatting, versioning, and collaborating on articles. Includes WYSIWYG and Markdown editors, templates, and review workflows."
+      },
+      {
+        "name": "Search & Discoverability",
+        "weight": 25,
+        "description": "Effectiveness of internal and external search functionality, including AI-powered search, filtering, tagging, and content categorization."
+      },
+      {
+        "name": "Integrations & Workflow",
+        "weight": 20,
+        "description": "Ability to connect with help desks (Zendesk, Intercom), CRMs (Salesforce), and team chat (Slack, Teams) to surface knowledge where it's needed."
+      },
+      {
+        "name": "Analytics & Reporting",
+        "weight": 15,
+        "description": "Quality of data on article performance, search queries, content gaps, and user feedback to enable continuous improvement."
+      },
+      {
+        "name": "Customization & Branding",
+        "weight": 10,
+        "description": "Flexibility to customize the look, feel, and domain of the public-facing knowledge base to match company branding."
+      },
+      {
+        "name": "Security & Administration",
+        "weight": 5,
+        "description": "Granularity of user roles, permissions, access controls, and availability of compliance features like SSO and audit logs."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Internal Knowledge Base",
+    "External Knowledge Base",
+    "Customer Self-Service",
+    "Help Center Software",
+    "Documentation Software"
+  ],
+  "problem_tags": [
+    "High support ticket volume",
+    "Inconsistent answers from agents",
+    "Difficult employee onboarding",
+    "Poor product documentation",
+    "Scaling customer support"
+  ],
+  "query_intents": [
+    "best knowledge base software",
+    "zendesk vs confluence",
+    "document360 review",
+    "notion as knowledge base",
+    "internal knowledge base tools"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling self-service support",
+        "Managing complex product documentation"
+      ],
+      "personas": [
+        "Enterprise Support Manager",
+        "Technical Writer"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Reducing ticket volume for Zendesk users",
+        "Integrating help center with ticketing"
+      ],
+      "personas": [
+        "Customer Support Manager",
+        "Help Desk Admin"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Providing in-context help inside an app",
+        "Proactive customer support"
+      ],
+      "personas": [
+        "SaaS Support Lead",
+        "Product Manager"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Surfacing knowledge in agent workflows",
+        "Combating institutional knowledge loss"
+      ],
+      "personas": [
+        "Sales Enablement Manager",
+        "Internal Ops Lead"
+      ]
+    },
+    "5": {
+      "solves": [
+        "Centralizing internal engineering and team docs",
+        "Creating a company wiki"
+      ],
+      "personas": [
+        "Engineering Manager",
+        "Project Manager"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 1.8
+  },
+  "guide": [
+    {
+      "q": "What's the difference between an internal and external knowledge base?",
+      "a": "An external knowledge base is customer-facing, designed for self-service support to answer common questions about a product or service. An internal knowledge base is for employees, housing company processes, training materials, and technical documentation to improve efficiency and consistency."
+    },
+    {
+      "q": "How does a knowledge base integrate with a help desk?",
+      "a": "Most knowledge base tools integrate with help desks like Zendesk or Help Scout. This allows support agents to easily search for and insert articles into ticket replies. It also enables AI-powered bots to suggest articles to customers before they submit a ticket, deflecting common queries."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary audience: Is it for external customers (self-service) or internal teams (employee reference)? Some tools excel at one over the other.",
+    "Evaluate the editor and content management workflow. Your team will spend hours creating content, so ensure the editor is intuitive and supports collaboration features like versioning and approval workflows.",
+    "Test the search functionality from an end-user's perspective. A great knowledge base is useless if users can't find what they need quickly.",
+    "Check for critical integrations with your existing tech stack, especially your help desk, CRM, and team chat applications.",
+    "Analyze the reporting capabilities. To improve your knowledge base over time, you need analytics on what users are searching for, which articles are helpful, and where content gaps exist."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a knowledge base and a wiki?",
+      "a": "A knowledge base is typically more structured, with curated articles managed by specific teams (like support or product) and focused on providing official answers. A wiki, like Confluence, is often more collaborative and open, allowing any user to contribute and edit pages, making it ideal for internal team knowledge and project documentation."
+    },
+    {
+      "q": "Can I use Notion or Confluence as a customer-facing knowledge base?",
+      "a": "Yes, both can be used, but they have limitations. Notion is highly flexible but lacks dedicated KB features like advanced analytics, ticket deflection workflows, and granular user feedback. Confluence can be adapted for external use but is primarily designed for internal, technical documentation and can feel less user-friendly for customers than dedicated tools like Zendesk or Document360."
+    },
+    {
+      "q": "How much does knowledge base software cost?",
+      "a": "Pricing varies widely. Simple tools can start from $5-$10 per user/month. More comprehensive platforms bundled with help desks often range from $50-$100 per agent/month. Enterprise-grade standalone solutions like Document360 can start at $150-$500 per month for a project."
+    },
+    {
+      "q": "What are the key features to look for in knowledge base software?",
+      "a": "Look for a powerful WYSIWYG or Markdown editor, robust search capabilities (ideally with AI), version control, content categorization, user feedback mechanisms, detailed analytics, customization options, and seamless integrations with your help desk and other key business tools."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes dedicated knowledge base tools and suites with strong KB components; all-in-one workspace tools are included but scored on their specific KB functionality.",
+    "Most providers are US-based or have a primary focus on the North American market, which may influence support and feature localization for other regions."
+  ],
+  "glossary": {
+    "term": "Knowledge Base",
+    "definition": "A centralized, organized repository of information about a product, service, department, or topic. It's used for self-service by customers (external) or as a reference for employees (internal).",
+    "synonyms": [
+      "Help Center",
+      "Help Docs",
+      "FAQ Center",
+      "Support Portal"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Document360",
+      "url": "https://document360.com",
+      "founded": 2017,
+      "hq": "London, UK",
+      "team_size_band": "201-500",
+      "best_for": "Teams seeking a powerful, dedicated, and highly customizable platform for both internal and external knowledge bases.",
+      "best_for_short": "Best dedicated KB platform",
+      "pricing_band": "$$$ ($149 to $599+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 9.4,
+        "Search & Discoverability": 9.2,
+        "Integrations & Workflow": 8.8,
+        "Analytics & Reporting": 9.5,
+        "Customization & Branding": 9.3,
+        "Security & Administration": 9
+      },
+      "verdict": "Document360 earns the top rank because it is a purpose-built knowledge base platform that excels in every core area, from its best-in-class editor and version control to its enterprise-grade analytics and security.",
+      "verdict_short": "A purpose-built KB platform that excels in content management, analytics, and customization for serious documentation needs.",
+      "praise": "Its Markdown editor is a dream for technical writers, and the platform offers unmatched control over content structure, versioning, and branding.",
+      "praise_short": "Superb Markdown editor and granular control over content.",
+      "criticism": "As a standalone product, it lacks the native, out-of-the-box integration depth with a specific help desk that you'd find in Zendesk or Intercom.",
+      "criticism_short": "Integrations are good but not as native as suite-based tools.",
+      "sources_pending": [
+        "document360.com/customers",
+        "g2.com/products/document360/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Zendesk",
+        "Intercom",
+        "Slack",
+        "Microsoft Teams",
+        "Salesforce",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Zendesk Guide",
+      "url": "https://www.zendesk.com/guide",
+      "founded": 2007,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Support teams already using the Zendesk ecosystem who want a seamlessly integrated help center to deflect tickets.",
+      "best_for_short": "Best for Zendesk suite users",
+      "pricing_band": "$$ ($55 to $115/agent/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 8.5,
+        "Search & Discoverability": 9,
+        "Integrations & Workflow": 9.8,
+        "Analytics & Reporting": 9.2,
+        "Customization & Branding": 8.5,
+        "Security & Administration": 9
+      },
+      "verdict": "Zendesk Guide is the best choice for teams embedded in the Zendesk ecosystem due to its unparalleled integration with Zendesk Support, enabling powerful ticket deflection workflows and AI-powered agent assistance.",
+      "verdict_short": "Unbeatable integration with Zendesk Support for ticket deflection and AI-powered agent suggestions.",
+      "praise": "The AI features, like content cues that identify knowledge gaps from support tickets, are a game-changer for busy support managers.",
+      "praise_short": "Excellent AI features for identifying content gaps.",
+      "criticism": "The content editor and organizational features are less powerful and flexible than dedicated tools like Document360 or Confluence.",
+      "criticism_short": "Content editor is less flexible than dedicated tools.",
+      "sources_pending": [
+        "zendesk.com/customers",
+        "g2.com/products/zendesk/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 55,
+      "price_max": 115,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Zendesk Suite",
+        "Salesforce",
+        "Jira",
+        "Slack",
+        "Shopify"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "ISO 27018",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Intercom Articles",
+      "url": "https://www.intercom.com/help-center-software",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "SaaS companies that want to deliver proactive, in-context support directly within their product or app.",
+      "best_for_short": "Best for in-app support",
+      "pricing_band": "$$ ($39 to $99+/seat/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 8.6,
+        "Search & Discoverability": 8.8,
+        "Integrations & Workflow": 9.5,
+        "Analytics & Reporting": 8.7,
+        "Customization & Branding": 8.2,
+        "Security & Administration": 8.9
+      },
+      "verdict": "Intercom Articles secures a top spot for its mastery of contextual, in-app help, allowing businesses to surface relevant articles within their product messenger and proactively resolve user issues before they become support tickets.",
+      "verdict_short": "Delivers proactive, contextual help inside your app through its best-in-class messenger.",
+      "praise": "The ability to integrate articles directly into chatbot flows and product tours is incredibly powerful for onboarding and feature adoption.",
+      "praise_short": "Powerful integration with chatbots and product tours.",
+      "criticism": "It functions best as part of the wider Intercom ecosystem; as a standalone, traditional knowledge base, it's less robust and customizable than others.",
+      "criticism_short": "Less robust as a standalone, traditional KB.",
+      "sources_pending": [
+        "intercom.com/customers",
+        "g2.com/products/intercom/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Intercom Suite",
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Jira",
+        "Github"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Guru",
+      "url": "https://www.getguru.com",
+      "founded": 2013,
+      "hq": "Philadelphia, USA",
+      "team_size_band": "201-500",
+      "best_for": "Revenue and support teams that need to capture and surface internal knowledge directly within their daily workflows.",
+      "best_for_short": "Best for internal workflow knowledge",
+      "pricing_band": "$ ($5 to $20/user/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 8.8,
+        "Search & Discoverability": 9,
+        "Integrations & Workflow": 9.4,
+        "Analytics & Reporting": 8,
+        "Customization & Branding": 7,
+        "Security & Administration": 8.5
+      },
+      "verdict": "Guru excels by treating knowledge not as a destination but as a utility, pushing trusted information directly into the tools your team already uses—like Slack, email, and your CRM—making it the best choice for internal knowledge management.",
+      "verdict_short": "Pushes trusted internal knowledge directly into your team's existing workflows and tools.",
+      "praise": "Its browser extension is a standout feature, allowing users to find, capture, and share knowledge without ever switching tabs.",
+      "praise_short": "Fantastic browser extension for seamless knowledge access.",
+      "criticism": "While it can be used for external-facing content, its core strengths and feature set are heavily optimized for internal use cases, not customer self-service.",
+      "criticism_short": "Primarily optimized for internal, not external, use.",
+      "sources_pending": [
+        "getguru.com/customers",
+        "g2.com/products/guru/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Zendesk",
+        "Salesforce",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Confluence",
+      "url": "https://www.atlassian.com/software/confluence",
+      "founded": 2004,
+      "hq": "Sydney, Australia",
+      "team_size_band": "10,001+",
+      "best_for": "Engineering, product, and IT teams looking for a powerful internal wiki for technical documentation and project collaboration.",
+      "best_for_short": "Best for internal technical docs",
+      "pricing_band": "$ ($5.75 to $11/user/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 9,
+        "Search & Discoverability": 8.2,
+        "Integrations & Workflow": 9.2,
+        "Analytics & Reporting": 7,
+        "Customization & Branding": 7.5,
+        "Security & Administration": 9
+      },
+      "verdict": "Confluence is the undisputed leader for internal technical documentation and team wikis, offering a highly structured environment, powerful templates, and unbeatable integration with Jira and the broader Atlassian suite.",
+      "verdict_short": "The industry standard for internal technical documentation, with deep Jira integration.",
+      "praise": "The vast marketplace of apps and macros allows teams to extend Confluence's functionality to fit almost any internal documentation need.",
+      "praise_short": "Huge marketplace of apps extends its functionality.",
+      "criticism": "Its interface can feel complex and dated, and it's poorly suited for public-facing customer support knowledge bases without significant customization and add-ons.",
+      "criticism_short": "Clunky for public-facing KBs; interface feels complex.",
+      "sources_pending": [
+        "atlassian.com/customers",
+        "g2.com/products/confluence/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 5.75,
+      "price_max": 11,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Jira",
+        "Trello",
+        "Slack",
+        "Microsoft Teams",
+        "Google Drive"
+      ],
+      "compliance": [
+        "SOC 2",
+        "SOC 3",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Notion",
+      "url": "https://www.notion.so",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Startups and SMBs that want a single, highly flexible workspace for their internal wiki, project management, and docs.",
+      "best_for_short": "Best all-in-one workspace",
+      "pricing_band": "$ ($8 to $15/user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 9.5,
+        "Search & Discoverability": 8.5,
+        "Integrations & Workflow": 7.5,
+        "Analytics & Reporting": 6,
+        "Customization & Branding": 8.5,
+        "Security & Administration": 8
+      },
+      "verdict": "Notion makes the list for its unparalleled flexibility and beautiful editor, making it the best option for teams who want to build a custom internal knowledge base that lives alongside their projects, notes, and databases.",
+      "verdict_short": "An incredibly flexible all-in-one tool with a best-in-class editor for building custom internal wikis.",
+      "praise": "The block-based editor and database functionality allow for the creation of dynamic, interconnected documents that are impossible in most other tools.",
+      "praise_short": "Supremely flexible editor and powerful database features.",
+      "criticism": "It lacks the core features of a dedicated knowledge base, such as advanced analytics, version history for public pages, and ticket-deflection workflows.",
+      "criticism_short": "Lacks dedicated KB features like analytics and workflows.",
+      "sources_pending": [
+        "notion.so/customers",
+        "g2.com/products/notion/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Jira",
+        "GitHub",
+        "Figma",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Slab",
+      "url": "https://slab.com",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Modern teams looking for a beautifully designed, intuitive, and focused internal knowledge base or company wiki.",
+      "best_for_short": "Best for modern internal wikis",
+      "pricing_band": "$ ($8 to $15/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 8.8,
+        "Search & Discoverability": 8.5,
+        "Integrations & Workflow": 8,
+        "Analytics & Reporting": 7,
+        "Customization & Branding": 7.5,
+        "Security & Administration": 8
+      },
+      "verdict": "Slab stands out as the best option for teams who prioritize a clean, fast, and focused writing and reading experience, offering a modern alternative to the complexity of Confluence for internal documentation.",
+      "verdict_short": "A clean, fast, and focused alternative to Confluence for modern internal knowledge bases.",
+      "praise": "Its unified search can pull in results from all connected apps (like Google Drive, Slack, and Asana), making it a true single source of truth.",
+      "praise_short": "Excellent unified search across all connected apps.",
+      "criticism": "It is strictly for internal use and lacks the features required for a public-facing customer support help center, such as custom branding and user feedback tools.",
+      "criticism_short": "Strictly for internal use, not for customer-facing KBs.",
+      "sources_pending": [
+        "slab.com/customers",
+        "g2.com/products/slab/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Google Workspace",
+        "GitHub",
+        "Asana",
+        "Trello",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Help Scout Docs",
+      "url": "https://www.helpscout.com/docs",
+      "founded": 2011,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to medium-sized businesses that value simplicity and want an easy-to-use knowledge base integrated with a customer-centric help desk.",
+      "best_for_short": "Best for simple, integrated support",
+      "pricing_band": "$$ ($20 to $65/user/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 7.8,
+        "Search & Discoverability": 8,
+        "Integrations & Workflow": 8.5,
+        "Analytics & Reporting": 7.5,
+        "Customization & Branding": 7.8,
+        "Security & Administration": 7.5
+      },
+      "verdict": "Help Scout Docs is the best choice for teams that prioritize simplicity and ease of use over a sprawling feature set, offering a clean, effective knowledge base that works seamlessly with its beloved help desk.",
+      "verdict_short": "A simple, clean, and effective KB that's perfectly integrated with its user-friendly help desk.",
+      "praise": "The setup is incredibly straightforward, allowing a team to launch a professional-looking help center in hours, not weeks.",
+      "praise_short": "Incredibly easy and fast to set up.",
+      "criticism": "It lacks the advanced features of top-tier competitors, such as sophisticated content workflows, multi-language support, and deep analytics.",
+      "criticism_short": "Lacks advanced features like content workflows and deep analytics.",
+      "sources_pending": [
+        "helpscout.com/customers",
+        "g2.com/products/help-scout/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 65,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Help Scout",
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Jira"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Freshdesk",
+      "url": "https://www.freshworks.com/freshdesk/knowledge-base-software",
+      "founded": 2010,
+      "hq": "San Mateo, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Businesses looking for an affordable, all-in-one customer support suite with a capable, integrated knowledge base.",
+      "best_for_short": "Best value all-in-one suite",
+      "pricing_band": "$$ ($15 to $79/agent/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 7.5,
+        "Search & Discoverability": 7.8,
+        "Integrations & Workflow": 8.2,
+        "Analytics & Reporting": 7.5,
+        "Customization & Branding": 7.5,
+        "Security & Administration": 7.8
+      },
+      "verdict": "Freshdesk provides the best value for teams needing a comprehensive support platform on a budget, offering a solid knowledge base as a core part of its wider, feature-rich help desk suite.",
+      "verdict_short": "A capable KB within a feature-rich, affordable, all-in-one customer support suite.",
+      "praise": "The platform's automation features can automatically convert ticket resolutions into knowledge base articles, saving significant time for support teams.",
+      "praise_short": "Can automatically convert tickets into KB articles.",
+      "criticism": "While functional, the knowledge base module itself is less powerful and has a more dated UI compared to leaders like Zendesk and Document360.",
+      "criticism_short": "KB module is less powerful and has a dated UI.",
+      "sources_pending": [
+        "freshworks.com/customers",
+        "g2.com/products/freshdesk/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 79,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Freshworks Suite",
+        "Salesforce",
+        "Slack",
+        "Shopify",
+        "Jira"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Helpjuice",
+      "url": "https://helpjuice.com",
+      "founded": 2011,
+      "hq": "Miami, USA",
+      "team_size_band": "11-50",
+      "best_for": "Teams that prioritize powerful, intelligent search and detailed analytics in a standalone knowledge base platform.",
+      "best_for_short": "Best for powerful search",
+      "pricing_band": "$$$ ($120 to $499/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 7,
+        "Search & Discoverability": 8.8,
+        "Integrations & Workflow": 7,
+        "Analytics & Reporting": 8.5,
+        "Customization & Branding": 7.5,
+        "Security & Administration": 7
+      },
+      "verdict": "Helpjuice earns its spot by focusing obsessively on search, delivering a Google-like search experience and deep analytics that help teams understand exactly what users are looking for and how to improve content discoverability.",
+      "verdict_short": "A standalone KB with a hyper-focus on delivering a powerful search experience and deep analytics.",
+      "praise": "The analytics dashboard is excellent, providing actionable insights on what to write, what to improve, and which articles are performing well.",
+      "praise_short": "Excellent, actionable analytics dashboard.",
+      "criticism": "The user interface for the editor and admin panel feels less modern and intuitive compared to newer competitors on the market.",
+      "criticism_short": "Admin and editor UI feels dated.",
+      "sources_pending": [
+        "helpjuice.com/customers",
+        "g2.com/products/helpjuice/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 120,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Zendesk",
+        "Salesforce",
+        "Intercom",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 4,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "GitBook",
+      "url": "https://www.gitbook.com",
+      "founded": 2014,
+      "hq": "Lyon, France",
+      "team_size_band": "51-200",
+      "best_for": "Development teams that need to create beautiful, easy-to-navigate technical documentation, API references, or developer portals.",
+      "best_for_short": "Best for developer documentation",
+      "pricing_band": "$ ($8 to $20/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Editor Experience & Content Management": 8.5,
+        "Search & Discoverability": 7.5,
+        "Integrations & Workflow": 8,
+        "Analytics & Reporting": 6,
+        "Customization & Branding": 7,
+        "Security & Administration": 7
+      },
+      "verdict": "Our wildcard pick, GitBook, is the best platform for a specific but critical niche: technical documentation. It blends a clean, collaborative editor with Git-based workflows, making it the ideal knowledge base for developers to document their products and APIs.",
+      "verdict_short": "A specialized KB for creating beautiful, developer-friendly technical documentation and API references.",
+      "praise": "The native integration with GitHub allows documentation to live alongside code, enabling seamless, version-controlled updates from engineering teams.",
+      "praise_short": "Excellent Git and GitHub integration for version control.",
+      "criticism": "It is highly specialized for technical and product documentation and lacks the features needed for a general-purpose customer support or internal company wiki.",
+      "criticism_short": "Too specialized for general customer support or internal wikis.",
+      "sources_pending": [
+        "gitbook.com/customers",
+        "g2.com/products/gitbook/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "GitHub",
+        "GitLab",
+        "Slack",
+        "Figma",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

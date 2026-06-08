@@ -1,0 +1,839 @@
+{
+  "slug": "proposal-software",
+  "title": "The 11 Best Proposal Software for Agencies & Consultants (2026)",
+  "subtitle": "A ranked analysis of the top platforms for creating, sending, and tracking high-impact business proposals, focusing on design, automation, and CRM integration.",
+  "vertical": "Sales · Proposal Management",
+  "audience": "Agency owners and consultants choosing proposal tools (PandaDoc vs Proposify vs Better Proposals vs Qwilr)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Sales Software",
+  "subsector": "Proposal Management",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Template & Design (30%), Workflow & CRM Integration (25%), Analytics & Tracking (15%), Pricing & e-Signature (15%), and Ease of Use (15%)."
+    }
+  ],
+  "answer_capsule": "The best proposal software for most agencies and consultants is PandaDoc for its all-around feature set, followed by Proposify for design control and Qwilr for web-native, interactive proposals.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Template Library & Design Customization",
+        "weight": 30,
+        "description": "Quality, quantity, and flexibility of proposal templates and the power of the document editor to create on-brand, visually appealing proposals."
+      },
+      {
+        "name": "Workflow Automation & CRM Integration",
+        "weight": 25,
+        "description": "Depth and breadth of integrations with key CRM and sales stack tools (e.g., Salesforce, HubSpot), and ability to automate proposal creation and follow-up."
+      },
+      {
+        "name": "Analytics & Tracking",
+        "weight": 15,
+        "description": "Effectiveness of real-time notifications and analytics, including open/view tracking, time spent on sections, and recipient engagement metrics."
+      },
+      {
+        "name": "Pricing & e-Signature",
+        "weight": 15,
+        "description": "Functionality for interactive pricing tables, payment collection (e.g., Stripe integration), and legally binding electronic signatures."
+      },
+      {
+        "name": "Ease of Use & Collaboration",
+        "weight": 15,
+        "description": "Intuitive user interface, learning curve for new users, and features supporting team collaboration, such as content libraries, roles, and approval workflows."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Proposal Management Software",
+    "Sales Enablement",
+    "Document Automation",
+    "eSignature",
+    "CPQ (Configure, Price, Quote)",
+    "Agency Software"
+  ],
+  "problem_tags": [
+    "Slow proposal creation",
+    "Inconsistent branding",
+    "Lack of proposal tracking",
+    "Low proposal close rates",
+    "Manual sales workflows"
+  ],
+  "query_intents": [
+    "best proposal software",
+    "PandaDoc vs Proposify",
+    "Proposify alternative",
+    "Qwilr reviews",
+    "proposal software for agencies"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "All-in-one document workflow",
+        "Integrating proposals with CRM",
+        "Scaling proposal creation"
+      ],
+      "personas": [
+        "Mid-size agencies",
+        "Sales teams",
+        "Consultants needing robust features"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Maintaining brand consistency",
+        "Team collaboration on proposals",
+        "Design-heavy proposals"
+      ],
+      "personas": [
+        "Creative agencies",
+        "Marketing teams",
+        "Design-conscious consultants"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Creating proposals quickly",
+        "Improving proposal conversion rates",
+        "Simplifying payment collection"
+      ],
+      "personas": [
+        "Small agencies",
+        "Freelancers",
+        "Consultants focused on speed"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Creating visually stunning, interactive proposals",
+        "Standing out from competitors",
+        "Embedding rich media"
+      ],
+      "personas": [
+        "High-end consultancies",
+        "Tech companies",
+        "Agencies selling premium services"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.1,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is Proposal Software?",
+      "a": "Proposal software helps businesses create, send, track, and manage sales proposals and other documents like quotes and contracts. It automates manual processes, ensures brand consistency, provides analytics on client engagement, and facilitates e-signatures to close deals faster."
+    },
+    {
+      "q": "Why do agencies need dedicated proposal software?",
+      "a": "Agencies rely on professional, visually appealing proposals to win clients. Dedicated software offers templates, design control, content libraries, and tracking features that are far superior to using Word or Google Docs. This leads to faster creation, better branding, and higher win rates."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your primary CRM: Ensure the software has a deep, native integration with your existing CRM (e.g., HubSpot, Salesforce) to automate data flow and reduce manual entry.",
+    "Evaluate design needs: If your proposals are highly visual and brand-centric, prioritize platforms with powerful editors and customization (like Qwilr or Proposify). If speed is key, look for simple, effective templates (like Better Proposals).",
+    "Consider the entire deal cycle: Do you just need proposal creation, or do you also need contract management, payment processing, and sales analytics? Platforms like PandaDoc and GetAccept cover a broader range of the sales workflow.",
+    "Test the user experience: Sign up for free trials with your top 2-3 contenders. Have the actual team members who will use the software create a test proposal to gauge ease of use and fit for your workflow."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between PandaDoc and Proposify?",
+      "a": "PandaDoc is an all-in-one document workflow platform, strong in CRM integration and managing the entire document lifecycle (proposals, quotes, contracts). Proposify focuses more specifically on the proposal creation stage, excelling in design customization, brand consistency controls, and content libraries for creative and marketing agencies."
+    },
+    {
+      "q": "Can I use proposal software for legally binding contracts?",
+      "a": "Yes, all major proposal software providers on this list include legally binding e-signature capabilities that comply with regulations like the ESIGN Act and UETA in the United States."
+    },
+    {
+      "q": "How much does proposal software typically cost?",
+      "a": "Pricing generally ranges from $20 to $60 per user per month for standard plans. Enterprise-level plans with advanced features like Salesforce integration, content management, and approval workflows can cost significantly more."
+    },
+    {
+      "q": "Is proposal software better than using Word or Google Docs?",
+      "a": "For any serious agency or consultant, yes. Proposal software offers critical advantages like open/view tracking, interactive pricing tables, CRM integration, content libraries for re-using sections, and integrated e-signatures, all of which save time and increase win rates."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers are priced per-user, which can become expensive for larger teams.",
+    "While many tools integrate with CRMs, the depth and reliability of these integrations can vary significantly between pricing tiers.",
+    "The market is heavily dominated by North American and European providers; support for non-English languages and regional compliance can be inconsistent."
+  ],
+  "glossary": {
+    "term": "Content Library",
+    "definition": "A centralized repository within proposal software where users can store, manage, and reuse pre-approved content blocks, such as case studies, team bios, pricing tables, and legal clauses, to assemble new proposals quickly and ensure brand consistency.",
+    "synonyms": [
+      "Asset Library",
+      "Content Repository"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "PandaDoc",
+      "url": "https://www.pandadoc.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Agencies and sales teams seeking a powerful, all-in-one platform for creating, managing, and signing proposals, quotes, and contracts with deep CRM integration.",
+      "best_for_short": "All-in-one document automation",
+      "pricing_band": "$$ ($19 to $59/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Template Library & Design Customization": 9,
+        "Workflow Automation & CRM Integration": 9.5,
+        "Analytics & Tracking": 9.3,
+        "Pricing & e-Signature": 9.2,
+        "Ease of Use & Collaboration": 9
+      },
+      "verdict": "PandaDoc ranks #1 for its comprehensive feature set that covers the entire document workflow, from proposal creation to e-signature and payment, backed by best-in-class CRM integrations.",
+      "verdict_short": "The best all-around platform for proposal and document workflow automation, with powerful integrations.",
+      "praise": "Its robust integration with CRMs like HubSpot and Salesforce allows for seamless data flow and automation, saving significant administrative time.",
+      "praise_short": "Exceptional CRM integration and workflow automation.",
+      "criticism": "The sheer number of features can present a steeper learning curve for solo users or small teams who may not need its full capabilities.",
+      "criticism_short": "Can be overly complex for simple needs.",
+      "sources_pending": [
+        "pandadoc.com/pricing",
+        "G2 PandaDoc Reviews",
+        "Capterra PandaDoc Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 59,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Zoho CRM",
+        "Stripe",
+        "QuickBooks",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA",
+        "ESIGN",
+        "UETA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Proposify",
+      "url": "https://www.proposify.com",
+      "founded": 2013,
+      "hq": "Halifax, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Creative agencies and marketing teams that need strong brand control, design flexibility, and collaborative tools to create visually compelling proposals.",
+      "best_for_short": "Design control & brand consistency",
+      "pricing_band": "$$$ ($49 to $590+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Template Library & Design Customization": 9.5,
+        "Workflow Automation & CRM Integration": 8.8,
+        "Analytics & Tracking": 9,
+        "Pricing & e-Signature": 8.9,
+        "Ease of Use & Collaboration": 9
+      },
+      "verdict": "Proposify earns its rank by being the best-in-class solution for agencies prioritizing design and brand consistency, offering a powerful editor and robust content library features.",
+      "verdict_short": "Excellent for design-focused agencies needing strong brand control and team collaboration features.",
+      "praise": "The platform's design editor and content management features are top-notch, making it easy for teams to maintain brand standards across all proposals.",
+      "praise_short": "Superior design editor and brand management.",
+      "criticism": "Its entry-level pricing is higher than many competitors, and some of the most valuable integrations are reserved for the more expensive plans.",
+      "criticism_short": "Higher starting price point than competitors.",
+      "sources_pending": [
+        "proposify.com/pricing",
+        "G2 Proposify Reviews",
+        "Forrester Wave: Document Platforms"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 590,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Stripe",
+        "QuickBooks",
+        "Slack",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "ESIGN",
+        "UETA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Better Proposals",
+      "url": "https://betterproposals.io",
+      "founded": 2015,
+      "hq": "Chichester, UK",
+      "team_size_band": "11-50",
+      "best_for": "Small agencies, freelancers, and consultants who want to create and send professional proposals as quickly as possible, with a focus on simplicity and conversion.",
+      "best_for_short": "Speed and simplicity",
+      "pricing_band": "$$ ($19 to $49/user/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Template Library & Design Customization": 8.5,
+        "Workflow Automation & CRM Integration": 8.5,
+        "Analytics & Tracking": 9,
+        "Pricing & e-Signature": 9.2,
+        "Ease of Use & Collaboration": 9.1
+      },
+      "verdict": "Better Proposals is the ideal choice for users who prioritize speed and ease of use, offering an intuitive interface and smart templates designed to get proposals out the door and signed fast.",
+      "verdict_short": "The fastest way to create, send, and get proposals signed, perfect for small businesses.",
+      "praise": "Its simplicity is its greatest strength; users can go from signup to sending a beautiful, tracked proposal in minutes.",
+      "praise_short": "Incredibly easy and fast to use.",
+      "criticism": "The design customization options are less flexible than those of Proposify or Qwilr, which may be a limitation for highly brand-conscious agencies.",
+      "criticism_short": "Less design flexibility than top competitors.",
+      "sources_pending": [
+        "betterproposals.io/pricing",
+        "G2 Better Proposals Reviews",
+        "SaaSworthy Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Pipedrive",
+        "HubSpot",
+        "Stripe",
+        "PayPal",
+        "GoCardless",
+        "Zapier",
+        "Live Chat Inc"
+      ],
+      "compliance": [
+        "GDPR",
+        "ESIGN"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Qwilr",
+      "url": "https://qwilr.com",
+      "founded": 2014,
+      "hq": "Sydney, Australia",
+      "team_size_band": "51-200",
+      "best_for": "Consultants and agencies wanting to create visually stunning, web-based proposals that feel like interactive microsites and stand out from traditional PDF documents.",
+      "best_for_short": "Web-native, interactive proposals",
+      "pricing_band": "$$$ ($35 to $59/user/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Template Library & Design Customization": 9.6,
+        "Workflow Automation & CRM Integration": 8.2,
+        "Analytics & Tracking": 8.5,
+        "Pricing & e-Signature": 8.4,
+        "Ease of Use & Collaboration": 8.5
+      },
+      "verdict": "Qwilr secures a top spot by enabling users to create beautiful, responsive, web-based proposals that incorporate rich media and interactive elements, offering a superior client experience.",
+      "verdict_short": "Best for creating beautiful, interactive web-based proposals that impress clients.",
+      "praise": "The final output is unparalleled in its design quality and interactivity, allowing for embedded videos, interactive pricing, and a polished, modern feel.",
+      "praise_short": "Produces stunning, web-native documents.",
+      "criticism": "While visually impressive, it lacks some of the deep workflow automation and native CRM integration features found in platforms like PandaDoc.",
+      "criticism_short": "Lighter on workflow automation features.",
+      "sources_pending": [
+        "qwilr.com/pricing",
+        "G2 Qwilr Reviews",
+        "Capterra Qwilr Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 35,
+      "price_max": 59,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Slack",
+        "Stripe",
+        "QuickBooks",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "GetAccept",
+      "url": "https://www.getaccept.com",
+      "founded": 2015,
+      "hq": "Malmö, Sweden",
+      "team_size_band": "201-500",
+      "best_for": "Sales teams looking for a comprehensive 'digital sales room' platform that goes beyond proposals to include contract management, video messaging, and deal tracking.",
+      "best_for_short": "Complete digital sales room",
+      "pricing_band": "$$$ ($49 to Custom/Enterprise)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Template Library & Design Customization": 8,
+        "Workflow Automation & CRM Integration": 8.8,
+        "Analytics & Tracking": 8.9,
+        "Pricing & e-Signature": 8.2,
+        "Ease of Use & Collaboration": 7.9
+      },
+      "verdict": "GetAccept stands out by positioning itself as a full digital sales room, combining proposals with contract lifecycle management and unique engagement tools like video messaging.",
+      "verdict_short": "A sales-focused platform for managing the entire deal, not just the proposal.",
+      "praise": "Its focus on the entire sales engagement, including features like video introductions and live chat within the document, helps personalize the closing process.",
+      "praise_short": "Excellent sales engagement and tracking features.",
+      "criticism": "The platform can be less intuitive for users who only need simple proposal creation, and its core proposal editor is less flexible than dedicated design tools.",
+      "criticism_short": "Less intuitive for simple proposal creation.",
+      "sources_pending": [
+        "getaccept.com/pricing",
+        "G2 GetAccept Reviews",
+        "Gartner Peer Insights"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Microsoft Dynamics 365",
+        "HubSpot",
+        "Pipedrive",
+        "Google Workspace",
+        "Stripe"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "eIDAS"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Ignition",
+      "url": "https://www.ignitionapp.com",
+      "founded": 2013,
+      "hq": "Sydney, Australia",
+      "team_size_band": "201-500",
+      "best_for": "Professional services firms, especially in accounting and finance, that need to combine proposals, client onboarding, and recurring payment collection in one platform.",
+      "best_for_short": "Proposals & payments for services",
+      "pricing_band": "$$$ ($75 to $375/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Template Library & Design Customization": 7.5,
+        "Workflow Automation & CRM Integration": 8.2,
+        "Analytics & Tracking": 7.8,
+        "Pricing & e-Signature": 9.5,
+        "Ease of Use & Collaboration": 8
+      },
+      "verdict": "Ignition (formerly Practice Ignition) excels by tightly integrating smart proposals with client agreements and automated payment collection, making it a powerhouse for professional services firms.",
+      "verdict_short": "Best for service businesses needing integrated proposals, contracts, and automated payments.",
+      "praise": "Its ability to automatically create invoices in Xero or QuickBooks and collect payments upon proposal acceptance is a game-changer for service-based businesses.",
+      "praise_short": "Seamless proposal-to-payment automation.",
+      "criticism": "The platform is highly specialized for professional services and may lack the broad design flexibility and general CRM integrations needed by creative or marketing agencies.",
+      "criticism_short": "Niche focus on professional services firms.",
+      "sources_pending": [
+        "ignitionapp.com/pricing",
+        "Capterra Ignition Reviews",
+        "G2 Ignition Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 75,
+      "price_max": 375,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Xero",
+        "QuickBooks Online",
+        "Zapier",
+        "Karbon",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Nusii",
+      "url": "https://nusii.com",
+      "founded": 2014,
+      "hq": "Remote",
+      "team_size_band": "2-10",
+      "best_for": "Freelancers and small creative agencies who value simplicity and a clean, straightforward approach to proposal creation without overwhelming features.",
+      "best_for_short": "Simple proposals for freelancers",
+      "pricing_band": "$$ ($29 to $129/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Template Library & Design Customization": 8,
+        "Workflow Automation & CRM Integration": 7.5,
+        "Analytics & Tracking": 8.2,
+        "Pricing & e-Signature": 7.8,
+        "Ease of Use & Collaboration": 8.5
+      },
+      "verdict": "Nusii is an excellent choice for solo consultants and small teams due to its beautifully simple interface and focus on core proposal features, avoiding the complexity of larger platforms.",
+      "verdict_short": "A clean, simple, and elegant proposal tool designed specifically for small creative businesses.",
+      "praise": "The user experience is highly intuitive, allowing users to create and manage professional proposals with minimal learning curve.",
+      "praise_short": "Beautifully simple and intuitive interface.",
+      "criticism": "It lacks the advanced automation, extensive integration library, and team management features required by larger, scaling agencies.",
+      "criticism_short": "Limited features for larger teams.",
+      "sources_pending": [
+        "nusii.com/pricing",
+        "G2 Nusii Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 129,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Intercom",
+        "Slack",
+        "Pipedrive",
+        "Highrise"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 15
+    },
+    {
+      "rank": 8,
+      "name": "Proposable",
+      "url": "https://www.proposable.com",
+      "founded": 2009,
+      "hq": "Aliso Viejo, USA",
+      "team_size_band": "2-10",
+      "best_for": "Sales teams that need a straightforward, effective tool for creating proposals and tracking them within their existing CRM workflow.",
+      "best_for_short": "Solid, CRM-friendly proposals",
+      "pricing_band": "$$ ($19 to $39/user/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Template Library & Design Customization": 7.5,
+        "Workflow Automation & CRM Integration": 8,
+        "Analytics & Tracking": 7.9,
+        "Pricing & e-Signature": 7.8,
+        "Ease of Use & Collaboration": 7.5
+      },
+      "verdict": "Proposable offers a solid, no-frills proposal management solution with a strong sales framework and good integrations, making it a reliable choice for teams focused on efficiency.",
+      "verdict_short": "A reliable and straightforward proposal tool with a focus on sales efficiency.",
+      "praise": "Its 'Sales-Framework' approach helps structure proposals effectively, and it provides dependable tracking and CRM integration.",
+      "praise_short": "Effective sales-focused proposal structure.",
+      "criticism": "The user interface and template designs feel somewhat dated compared to more modern competitors like Qwilr and Proposify.",
+      "criticism_short": "Dated user interface and design.",
+      "sources_pending": [
+        "proposable.com/pricing",
+        "G2 Proposable Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Zoho CRM",
+        "Stripe",
+        "Zapier"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "ClientPoint",
+      "url": "https://clientpoint.net",
+      "founded": 2008,
+      "hq": "Temecula, USA",
+      "team_size_band": "11-50",
+      "best_for": "Enterprise sales teams managing complex, high-value deals that require a centralized hub for all proposal-related assets and communications.",
+      "best_for_short": "Enterprise deal management",
+      "pricing_band": "$$$$ (Custom/Enterprise)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Template Library & Design Customization": 7,
+        "Workflow Automation & CRM Integration": 8,
+        "Analytics & Tracking": 8.5,
+        "Pricing & e-Signature": 7.2,
+        "Ease of Use & Collaboration": 7
+      },
+      "verdict": "ClientPoint functions as a comprehensive 'digital deal room,' allowing teams to consolidate proposals, videos, case studies, and other assets into a single client-facing portal.",
+      "verdict_short": "A powerful 'deal room' for managing complex, high-value sales proposals and assets.",
+      "praise": "Its ability to package multiple assets into a single trackable link provides deep insight into how prospects engage with the entirety of your sales collateral.",
+      "praise_short": "Centralizes all sales assets effectively.",
+      "criticism": "The platform is more complex and expensive than most alternatives, making it overkill for standard proposal needs of small to mid-sized agencies.",
+      "criticism_short": "Complex and expensive for typical agencies.",
+      "sources_pending": [
+        "clientpoint.net/pricing",
+        "G2 ClientPoint Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Microsoft Dynamics 365",
+        "NetSuite",
+        "DocuSign"
+      ],
+      "compliance": [
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "QuoteWerks",
+      "url": "https://www.quotewerks.com",
+      "founded": 1993,
+      "hq": "Orlando, USA",
+      "team_size_band": "51-200",
+      "best_for": "IT service providers and value-added resellers (VARs) who need to create complex quotes and proposals integrated with distributor and accounting systems.",
+      "best_for_short": "Complex quoting for IT/VARs",
+      "pricing_band": "$$ ($15 to $29/user/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Template Library & Design Customization": 6.5,
+        "Workflow Automation & CRM Integration": 8.5,
+        "Analytics & Tracking": 7,
+        "Pricing & e-Signature": 8,
+        "Ease of Use & Collaboration": 6.5
+      },
+      "verdict": "QuoteWerks is a veteran in the CPQ (Configure, Price, Quote) space, offering unparalleled depth for creating detailed quotes with complex product configurations, ideal for the IT channel.",
+      "verdict_short": "A powerful, specialized quoting and proposal tool for IT service providers and resellers.",
+      "praise": "Its deep integrations with IT distributors (like Ingram Micro, Tech Data) and accounting/CRM platforms make it an indispensable tool for its target niche.",
+      "praise_short": "Unmatched integrations for the IT channel.",
+      "criticism": "The user interface is significantly dated and less intuitive than modern, cloud-native proposal tools, and it's not a natural fit for creative or consulting agencies.",
+      "criticism_short": "Outdated interface; highly niche focus.",
+      "sources_pending": [
+        "quotewerks.com/pricing.asp",
+        "G2 QuoteWerks Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 29,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "QuickBooks",
+        "ConnectWise",
+        "Autotask",
+        "Ingram Micro",
+        "Tech Data"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Canva Docs",
+      "url": "https://www.canva.com/docs",
+      "founded": 2012,
+      "hq": "Sydney, Australia",
+      "team_size_band": "1001-5000",
+      "best_for": "Highly creative agencies and consultants already embedded in the Canva ecosystem who prioritize visual design above all else and can forgo advanced tracking.",
+      "best_for_short": "Design-first, simple proposals",
+      "pricing_band": "$ ($0 to $15/user/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Template Library & Design Customization": 9.8,
+        "Workflow Automation & CRM Integration": 5,
+        "Analytics & Tracking": 5.5,
+        "Pricing & e-Signature": 6,
+        "Ease of Use & Collaboration": 9.5
+      },
+      "verdict": "Canva Docs is the wildcard because it's not a dedicated proposal tool, but its world-class design interface and vast template library allow creative teams to produce stunning proposals, albeit without the core sales automation and tracking features.",
+      "verdict_short": "A design tool that can create beautiful proposals, but lacks dedicated sales features.",
+      "praise": "The ease of use and the sheer power of its design tools and asset library are unmatched, enabling the creation of visually spectacular documents.",
+      "praise_short": "Unbeatable for visual design and ease of use.",
+      "criticism": "It lacks essential proposal software features like per-page analytics, CRM integration, interactive pricing tables, and built-in, legally binding e-signatures.",
+      "criticism_short": "Missing critical sales and tracking features.",
+      "sources_pending": [
+        "canva.com/pricing",
+        "PCMag Canva Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Drive",
+        "Dropbox",
+        "Various social media platforms"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100,
+      "is_wildcard": true
+    }
+  ]
+}
