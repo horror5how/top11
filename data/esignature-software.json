@@ -1,0 +1,881 @@
+{
+  "slug": "esignature-software",
+  "title": "The 11 Best E-Signature Software",
+  "subtitle": "A ranked list of the top electronic signature platforms for security, integrations, and ease of use for signing business documents.",
+  "vertical": "Operations · Documents",
+  "audience": "Teams signing contracts and agreements online",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Document Management",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Security & Compliance (30%), Ease of Use (25%), Integration Ecosystem (20%), Workflow & Automation (15%), and Pricing & Value (10%)."
+    }
+  ],
+  "answer_capsule": "The best e-signature software is Adobe Acrobat Sign for its enterprise-grade security and deep integrations, followed closely by DocuSign for its market-leading ease of use and Dropbox Sign for its powerful API.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Security & Compliance",
+        "weight": 30,
+        "description": "Strength of security protocols, encryption standards, audit trail completeness, and support for key regulations like ESIGN, UETA, eIDAS, HIPAA, and GDPR."
+      },
+      {
+        "name": "Ease of Use",
+        "weight": 25,
+        "description": "Intuitive user interface for both document senders and signers, simplicity of the signing process, and overall user experience."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of pre-built integrations with popular CRM, cloud storage, and productivity tools (e.g., Salesforce, Google Drive, Microsoft 365)."
+      },
+      {
+        "name": "Workflow & Automation",
+        "weight": 15,
+        "description": "Features for streamlining processes, such as templates, bulk sending, automated reminders, conditional logic, and advanced routing options."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "Transparency of pricing, scalability of plans, availability of a free tier, and overall feature set relative to cost."
+      }
+    ]
+  },
+  "segment_tags": [
+    "e-signature",
+    "digital signature",
+    "contract management",
+    "document workflow",
+    "SMB",
+    "enterprise"
+  ],
+  "problem_tags": [
+    "slow contract signing",
+    "document security",
+    "manual paperwork",
+    "remote agreements",
+    "compliance tracking"
+  ],
+  "query_intents": [
+    "best e-signature software",
+    "docusign alternative",
+    "free electronic signature",
+    "legally binding e-signature",
+    "adobe sign vs docusign"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "enterprise compliance",
+        "complex workflows",
+        "adobe creative cloud integration"
+      ],
+      "personas": [
+        "Legal Teams",
+        "Enterprise IT",
+        "Fortune 500 companies"
+      ]
+    },
+    "2": {
+      "solves": [
+        "ease of use",
+        "broad third-party integration",
+        "industry standard adoption"
+      ],
+      "personas": [
+        "Sales Teams",
+        "Real Estate Agents",
+        "Small to Medium Businesses"
+      ]
+    },
+    "3": {
+      "solves": [
+        "embedded signing experiences",
+        "api-first workflows",
+        "dropbox user integration"
+      ],
+      "personas": [
+        "Developers",
+        "Product Managers",
+        "Tech Startups"
+      ]
+    },
+    "11": {
+      "solves": [
+        "data collection and signing in one step",
+        "simple signing for forms",
+        "cost-effective bundled solution"
+      ],
+      "personas": [
+        "Small Business Owners",
+        "HR Departments",
+        "Event Organizers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.3,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "What is E-Signature Software?",
+      "a": "E-signature software allows users to electronically sign documents, creating a legally binding agreement without paper. It manages the entire workflow, from sending the document to collecting signatures, creating an audit trail, and storing the executed copy securely."
+    },
+    {
+      "q": "How does it ensure legal validity?",
+      "a": "Top providers comply with regulations like the U.S. ESIGN Act, UETA, and Europe's eIDAS. They create a comprehensive audit trail that records every action taken on the document, including IP addresses, timestamps, and signer identity verification, which can be used as evidence in court."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your primary use case: Are you sending simple NDAs or complex multi-party sales contracts with conditional logic? Your workflow complexity will determine the features you need.",
+    "Check for key integrations: Ensure the software connects seamlessly with your existing CRM, cloud storage, and other core business applications to avoid manual data entry.",
+    "Evaluate security and compliance needs: If you operate in regulated industries like healthcare or finance, verify that the provider offers compliance with standards like HIPAA or 21 CFR Part 11.",
+    "Consider the signer's experience: The best software makes it incredibly simple for your clients or partners to sign on any device without needing to create an account or download software."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between an electronic signature and a digital signature?",
+      "a": "An electronic signature is a broad term for any electronic process that indicates acceptance of an agreement (e.g., a typed name, a scanned image of a signature). A digital signature is a specific, more secure type of electronic signature that uses certificate-based digital IDs to encrypt and authenticate the document's integrity."
+    },
+    {
+      "q": "Is e-signature software legally binding?",
+      "a": "Yes, in most developed countries. In the United States, the ESIGN Act of 2000 grants electronic signatures the same legal status as handwritten ones. Reputable providers ensure their processes comply with these laws and provide a detailed audit trail for verification."
+    },
+    {
+      "q": "Is DocuSign better than Adobe Acrobat Sign?",
+      "a": "Neither is definitively 'better'; they excel in different areas. DocuSign is often praised for its user-friendliness and vast integration marketplace. Adobe Acrobat Sign shines in enterprise environments, especially for companies already invested in the Adobe ecosystem, offering robust security and PDF workflow features."
+    },
+    {
+      "q": "Can I get an e-signature for free?",
+      "a": "Yes, many top providers, including Dropbox Sign, PandaDoc, and eversign, offer free tiers. These are typically limited to a small number of signature requests per month and may lack advanced features like templates or bulk sending."
+    }
+  ],
+  "honest_disclosures": [
+    "This list focuses on globally recognized SaaS providers, with a slight bias towards those with a strong presence in North America and Europe.",
+    "Scores for 'Integration Ecosystem' favor platforms with broad, pre-built connections to major CRM and cloud platforms, which may not be a priority for all users.",
+    "Pricing can be complex and vary based on user count, envelope volume, and feature sets; the listed prices are for entry-level business plans."
+  ],
+  "glossary": {
+    "term": "Audit Trail",
+    "definition": "A detailed, time-stamped record of all events and actions related to a signed document. It includes who viewed, signed, and modified the document, along with their IP address and timestamps, serving as legal proof of the signing process.",
+    "synonyms": [
+      "Certificate of Completion",
+      "Audit Log",
+      "Transaction History"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Adobe Acrobat Sign",
+      "url": "https://www.adobe.com/sign.html",
+      "founded": 2006,
+      "hq": "San Jose, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Enterprises requiring robust security, deep PDF integration, and compliance with stringent global regulations.",
+      "best_for_short": "Enterprise security & compliance",
+      "pricing_band": "$$ ($15 to $50/mo/user)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Security & Compliance": 9.4,
+        "Ease of Use": 8.9,
+        "Integration Ecosystem": 9.3,
+        "Workflow & Automation": 9.2,
+        "Pricing & Value": 8.1
+      },
+      "verdict": "Adobe Acrobat Sign is the best e-signature software for enterprises due to its unparalleled security features, extensive compliance certifications, and native integration within the Adobe Document Cloud.",
+      "verdict_short": "The enterprise choice for its top-tier security, compliance, and deep Adobe ecosystem integration.",
+      "praise": "Its ability to handle highly complex, regulated workflows and its powerful PDF editing and form creation capabilities are unmatched.",
+      "praise_short": "Unmatched security and complex workflow management.",
+      "criticism": "The user interface can feel more complex than competitors, and its pricing is at the higher end of the market, making it less accessible for smaller businesses.",
+      "criticism_short": "Complex UI and premium pricing.",
+      "sources_pending": [
+        "Adobe Sign Documentation",
+        "G2 Reviews",
+        "Forrester Wave: E-Signatures"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Salesforce",
+        "Workday",
+        "ServiceNow",
+        "Adobe Creative Cloud",
+        "Google Drive"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "HIPAA",
+        "21 CFR Part 11",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "DocuSign",
+      "url": "https://www.docusign.com",
+      "founded": 2003,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Businesses of all sizes seeking the most widely recognized platform with an extensive integration marketplace and an exceptionally user-friendly interface.",
+      "best_for_short": "Ease of use & integrations",
+      "pricing_band": "$$ ($10 to $40/mo/user)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Security & Compliance": 9.2,
+        "Ease of Use": 9.3,
+        "Integration Ecosystem": 9.4,
+        "Workflow & Automation": 9,
+        "Pricing & Value": 8.2
+      },
+      "verdict": "DocuSign ranks as the top choice for overall usability and connectivity, offering the industry's most recognized brand and the largest ecosystem of over 400 pre-built integrations.",
+      "verdict_short": "The market leader for its intuitive interface, brand recognition, and massive integration library.",
+      "praise": "The platform is incredibly easy for signers to use on any device, which significantly speeds up agreement turnaround times.",
+      "praise_short": "Supremely easy for signers, speeding up deals.",
+      "criticism": "Advanced features and API access are gated behind more expensive enterprise plans, and the per-envelope pricing model can become costly for high-volume users.",
+      "criticism_short": "Advanced features require expensive plans.",
+      "sources_pending": [
+        "DocuSign API Documentation",
+        "Capterra User Reviews",
+        "DocuSign CLM Datasheet"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 40,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Google Suite",
+        "Microsoft Suite",
+        "Oracle",
+        "SAP",
+        "Zoom"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "HIPAA",
+        "GDPR",
+        "21 CFR Part 11"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Dropbox Sign",
+      "url": "https://www.hellosign.com",
+      "founded": 2010,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Tech-savvy teams and developers looking to embed e-signature functionality directly into their own websites or applications via a powerful and well-documented API.",
+      "best_for_short": "Best API & embedded signing",
+      "pricing_band": "$$ ($15 to $30/mo/user)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Security & Compliance": 8.8,
+        "Ease of Use": 9.2,
+        "Integration Ecosystem": 9,
+        "Workflow & Automation": 8.8,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Dropbox Sign (formerly HelloSign) excels with its developer-friendly API, making it the best option for companies wanting to build seamless, white-labeled signing experiences into their own products.",
+      "verdict_short": "The top choice for developers due to its powerful, easy-to-implement API for embedded signing.",
+      "praise": "Its API is famously robust and easy to work with, and the user interface for both senders and signers is clean, modern, and intuitive.",
+      "praise_short": "Excellent API and clean, modern user interface.",
+      "criticism": "While strong, its out-of-the-box workflow and automation features are not as advanced as those offered by Adobe Sign or DocuSign's enterprise tiers.",
+      "criticism_short": "Less advanced native workflow automation.",
+      "sources_pending": [
+        "Dropbox Sign API Docs",
+        "G2 Crowd Reviews",
+        "Dropbox Q1 Earnings Call"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Dropbox",
+        "Salesforce",
+        "HubSpot",
+        "Google Workspace",
+        "Oracle CPQ",
+        "Zapier"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "HIPAA",
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "PandaDoc",
+      "url": "https://www.pandadoc.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Sales and marketing teams that need an all-in-one tool for creating, sending, tracking, and signing proposals, quotes, and contracts.",
+      "best_for_short": "All-in-one sales documents",
+      "pricing_band": "$$$ ($19 to $59/mo/user)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Security & Compliance": 8.5,
+        "Ease of Use": 8.8,
+        "Integration Ecosystem": 8.6,
+        "Workflow & Automation": 9.1,
+        "Pricing & Value": 8.6
+      },
+      "verdict": "PandaDoc stands out by combining e-signatures with powerful document creation, proposal generation, and analytics, making it the best comprehensive solution for sales teams.",
+      "verdict_short": "Best for sales teams, combining document creation, tracking, and e-signatures in one platform.",
+      "praise": "The built-in document editor and extensive template library are fantastic for quickly creating beautiful, interactive proposals that stand out.",
+      "praise_short": "Excellent document editor and template library.",
+      "criticism": "For users who only need a simple e-signature function, the additional document generation features can be overkill and make the platform feel more complex.",
+      "criticism_short": "Can be overly complex for simple e-signature needs.",
+      "sources_pending": [
+        "PandaDoc Customer Stories",
+        "PCMag Review",
+        "G2 Grid for E-Signature"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 59,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot CRM",
+        "Pipedrive",
+        "Zoho CRM",
+        "Stripe",
+        "Zapier"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "HIPAA",
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "SignNow",
+      "url": "https://www.signnow.com",
+      "founded": 2011,
+      "hq": "Brookline, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized businesses looking for a feature-rich, affordable, and mobile-friendly e-signature solution.",
+      "best_for_short": "Affordable for SMBs",
+      "pricing_band": "$ ($8 to $30/mo/user)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Security & Compliance": 8.6,
+        "Ease of Use": 8.5,
+        "Integration Ecosystem": 8.2,
+        "Workflow & Automation": 8.4,
+        "Pricing & Value": 9
+      },
+      "verdict": "SignNow, part of the airSlate Business Cloud, offers the best combination of robust features and affordability for small and mid-sized businesses that need more than a basic free tool.",
+      "verdict_short": "A top value proposition, offering rich features at a highly competitive price point for SMBs.",
+      "praise": "It provides an impressive number of features, including team collaboration and advanced form fields, in its lower-priced tiers, offering excellent value for money.",
+      "praise_short": "Great features-to-price ratio in base plans.",
+      "criticism": "The user interface, while functional, feels less modern than top competitors, and the integration library is not as extensive.",
+      "criticism_short": "Dated user interface and fewer integrations.",
+      "sources_pending": [
+        "airSlate Business Cloud website",
+        "Gartner Peer Insights",
+        "SignNow Help Center"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Microsoft 365",
+        "Google Workspace",
+        "Salesforce",
+        "Dropbox",
+        "NetSuite",
+        "airSlate"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "GDPR",
+        "HIPAA",
+        "21 CFR Part 11",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Zoho Sign",
+      "url": "https://www.zoho.com/sign/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10,001+",
+      "best_for": "Companies already using the Zoho One suite of business applications who want a seamlessly integrated and cost-effective e-signature solution.",
+      "best_for_short": "Best for Zoho ecosystem users",
+      "pricing_band": "$ ($10 to $25/mo/user)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Security & Compliance": 8.4,
+        "Ease of Use": 8.5,
+        "Integration Ecosystem": 7.8,
+        "Workflow & Automation": 8.2,
+        "Pricing & Value": 9.1
+      },
+      "verdict": "Zoho Sign is the clear winner for businesses embedded in the Zoho ecosystem, offering deep, native integrations with Zoho CRM, Books, and People at an unbeatable price.",
+      "verdict_short": "The ideal, cost-effective choice for teams already using the Zoho One software suite.",
+      "praise": "The integration with other Zoho products is flawless, creating a unified workflow for sales, HR, and finance processes.",
+      "praise_short": "Flawless integration with other Zoho apps.",
+      "criticism": "While it integrates well with third-party apps, its primary strength is within its own ecosystem; businesses not using Zoho may find other options more compelling.",
+      "criticism_short": "Best value is locked within the Zoho ecosystem.",
+      "sources_pending": [
+        "Zoho Sign Documentation",
+        "TrustRadius Reviews",
+        "Zoho One Product Page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Zoho CRM",
+        "Zoho Books",
+        "Zoho People",
+        "Google Workspace",
+        "Microsoft 365",
+        "Dropbox"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Box Sign",
+      "url": "https://www.box.com/esignature",
+      "founded": 2014,
+      "hq": "Redwood City, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Organizations that use Box as their central content cloud for storing, managing, and collaborating on documents.",
+      "best_for_short": "Best for existing Box users",
+      "pricing_band": "$$ (Included with Box plans)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Security & Compliance": 8.8,
+        "Ease of Use": 8.2,
+        "Integration Ecosystem": 7.5,
+        "Workflow & Automation": 7.9,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "Box Sign is the best choice for companies heavily invested in the Box platform, as it provides unlimited e-signatures natively within the secure Box Content Cloud at no extra cost.",
+      "verdict_short": "The go-to solution for Box customers, offering unlimited native e-signatures.",
+      "praise": "Having unlimited signatures integrated directly into your secure content management system simplifies workflows and enhances security by keeping documents in one place.",
+      "praise_short": "Unlimited signatures integrated within Box's secure cloud.",
+      "criticism": "As a feature of Box, it lacks the standalone power and extensive third-party integrations of dedicated e-signature platforms.",
+      "criticism_short": "Lacks standalone power and broad integrations.",
+      "sources_pending": [
+        "Box Sign Product Page",
+        "Box Community Forums",
+        "InfoWorld Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 35,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Box",
+        "Salesforce",
+        "Microsoft 365",
+        "Google Workspace",
+        "Slack"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "HIPAA",
+        "FedRAMP",
+        "FINRA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Signeasy",
+      "url": "https://www.signeasy.com",
+      "founded": 2010,
+      "hq": "Dallas, USA",
+      "team_size_band": "51-200",
+      "best_for": "Individuals and small teams who prioritize a simple, mobile-first experience for signing documents on the go.",
+      "best_for_short": "Simple mobile-first signing",
+      "pricing_band": "$ ($8 to $25/mo/user)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Security & Compliance": 7.8,
+        "Ease of Use": 9,
+        "Integration Ecosystem": 7.5,
+        "Workflow & Automation": 7.2,
+        "Pricing & Value": 8.3
+      },
+      "verdict": "Signeasy provides the best mobile experience in the market, with highly-rated apps that make it incredibly straightforward to sign, send, and track documents from a phone or tablet.",
+      "verdict_short": "The top choice for a simple, intuitive, and highly-rated mobile signing experience.",
+      "praise": "Its focus on simplicity and mobile usability is a major strength, removing friction for users who are often away from their desks.",
+      "praise_short": "Excellent, easy-to-use mobile apps.",
+      "criticism": "It lacks the advanced workflow automation, deep enterprise integrations, and extensive compliance certifications of the market leaders.",
+      "criticism_short": "Lacks advanced automation and enterprise features.",
+      "sources_pending": [
+        "Apple App Store Reviews",
+        "Google Play Store Reviews",
+        "Signeasy Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft Teams",
+        "Outlook",
+        "Dropbox",
+        "Box",
+        "Salesforce"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "GetAccept",
+      "url": "https://www.getaccept.com",
+      "founded": 2015,
+      "hq": "Malmö, Sweden",
+      "team_size_band": "201-500",
+      "best_for": "Sales teams looking to personalize the closing process with features like video messaging, live chat, and engagement tracking.",
+      "best_for_short": "Personalized sales closing",
+      "pricing_band": "$$ ($15 to $49/mo/user)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Security & Compliance": 7.6,
+        "Ease of Use": 8,
+        "Integration Ecosystem": 7.9,
+        "Workflow & Automation": 8.1,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "GetAccept is the best e-signature tool for sales enablement, as it wraps the signature process in a suite of tools designed to build relationships and accelerate deals.",
+      "verdict_short": "Best for sales teams, with video messaging and engagement tracking to personalize deals.",
+      "praise": "Features like personalized video introductions and real-time notifications on document views give sales reps powerful insights to close deals faster.",
+      "praise_short": "Unique sales tools like video intros.",
+      "criticism": "Its focus is heavily on the sales use case, so it may not be the best fit for legal, HR, or other departments with different workflow needs.",
+      "criticism_short": "Hyper-focused on sales use cases.",
+      "sources_pending": [
+        "GetAccept Blog",
+        "G2 Reviews for Sales Engagement",
+        "HubSpot App Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Pipedrive",
+        "Microsoft Dynamics",
+        "Google Chrome"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "eversign",
+      "url": "https://eversign.com/",
+      "founded": 2017,
+      "hq": "Vienna, Austria",
+      "team_size_band": "11-50",
+      "best_for": "Startups and small businesses needing a solid, budget-friendly e-signature tool with a generous free tier.",
+      "best_for_short": "Generous free & basic plans",
+      "pricing_band": "$ ($10 to $80/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Security & Compliance": 7.5,
+        "Ease of Use": 7.8,
+        "Integration Ecosystem": 7.2,
+        "Workflow & Automation": 7.4,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "eversign provides a surprisingly robust feature set for its price point, including a capable free tier, making it a great starting point for small businesses.",
+      "verdict_short": "A strong budget option with a solid free tier, perfect for startups and small teams.",
+      "praise": "The platform offers core features like templates, an audit trail, and some integrations even on its free and low-cost plans.",
+      "praise_short": "Core features available on low-cost plans.",
+      "criticism": "The user interface is not as polished as premium competitors, and it lacks the advanced security and compliance options required by larger enterprises.",
+      "criticism_short": "Less polished UI and lacks enterprise compliance.",
+      "sources_pending": [
+        "eversign Features Page",
+        "Capterra Reviews",
+        "apilayer GmbH Company Profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 80,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Google Drive",
+        "Dropbox",
+        "Box",
+        "OneDrive",
+        "Zapier"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "eIDAS",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Jotform Sign",
+      "url": "https://www.jotform.com/products/sign/",
+      "founded": 2006,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Users who need to collect data and signatures within the same workflow, such as for applications, registrations, or consent forms.",
+      "best_for_short": "Integrated form & signature tool",
+      "pricing_band": "$$ (Included with Jotform plans)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Security & Compliance": 7,
+        "Ease of Use": 8,
+        "Integration Ecosystem": 7.5,
+        "Workflow & Automation": 7.5,
+        "Pricing & Value": 6.8
+      },
+      "verdict": "Jotform Sign is a compelling wildcard because it's not a standalone product but an integrated feature of a leading form builder, allowing for the creation of seamless workflows that capture data and legally binding signatures in a single step.",
+      "verdict_short": "A unique hybrid that combines a powerful form builder with e-signature capabilities.",
+      "praise": "The ability to build complex forms with conditional logic that flow directly into a signable document is a powerful and efficient combination for many use cases.",
+      "praise_short": "Seamlessly combines data collection with signing.",
+      "criticism": "It is not designed for complex, multi-party contract negotiations and lacks the advanced document management and security features of dedicated, enterprise-grade e-signature platforms.",
+      "criticism_short": "Not built for complex contract negotiation.",
+      "sources_pending": [
+        "Jotform Product Hunt Launch",
+        "Jotform Blog",
+        "TechCrunch articles on Jotform"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 34,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Google Drive",
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "PayPal",
+        "Stripe"
+      ],
+      "compliance": [
+        "ESIGN",
+        "UETA",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

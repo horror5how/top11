@@ -176,22 +176,6 @@
       "priority": 3
     },
     {
-      "slug": "live-chat-software",
-      "title": "The 11 Best Live Chat Software",
-      "vertical": "Support · Chat",
-      "audience": "Teams adding live chat and chatbots to their site",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
-      "slug": "esignature-software",
-      "title": "The 11 Best E-Signature Software",
-      "vertical": "Operations · Documents",
-      "audience": "Teams signing contracts and agreements online",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "applicant-tracking-systems",
       "title": "The 11 Best Applicant Tracking Systems",
       "vertical": "HR · Recruiting",
@@ -457,7 +441,9 @@
     "project-management-agencies",
     "business-intelligence-tools",
     "cloud-storage-business",
-    "help-desk-software"
+    "help-desk-software",
+    "live-chat-software",
+    "esignature-software"
   ],
   "skipped": []
 }
