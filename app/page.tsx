@@ -178,6 +178,23 @@ export default function Home() {
         </Reveal>
       </section>
 
+      {/* BROWSE ALL TOPICS — plain server-rendered nav, no JS required */}
+      <nav aria-label="Browse all rankings" className="relative max-w-6xl mx-auto px-6 pb-16">
+        <p className="font-mono text-[10px] uppercase tracking-widest text-white/20 mb-4">Browse all rankings</p>
+        <ul className="flex flex-wrap gap-x-5 gap-y-1.5">
+          {slugs.map((slug) => {
+            const l = getList(slug)!;
+            return (
+              <li key={slug}>
+                <Link href={`/${slug}`} className="text-xs text-white/40 hover:text-white/70 transition leading-relaxed">
+                  {l.title}
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
+      </nav>
+
       <footer className="relative border-t border-white/8">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row justify-between gap-3 text-sm text-white/40">
           <p>Top 11 · AI made for AI · No paid placement, ever</p>
