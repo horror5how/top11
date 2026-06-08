@@ -1,0 +1,832 @@
+{
+  "slug": "project-management-agencies",
+  "title": "The 11 Best Project Management Software for Agencies",
+  "subtitle": "A ranked analysis of the top platforms for managing client work, from all-in-one powerhouses like ClickUp to specialized agency operations tools like Teamwork.",
+  "vertical": "Productivity · Agency Project Management",
+  "audience": "Agency owners and managers choosing project management tools (ClickUp vs Asana vs Monday for agencies)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Project Management",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Agency-Specific Features (30%), Customization & Flexibility (25%), and Integrations (20%) as the most critical factors for agency success."
+    }
+  ],
+  "answer_capsule": "The best project management software for agencies is ClickUp for its deep customization, followed by Monday.com for its visual workflows and Teamwork for its client-centric features.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Agency-Specific Features",
+        "weight": 30,
+        "description": "Availability and quality of features crucial for agencies, such as client portals, time tracking, resource management, profitability reporting, and guest access."
+      },
+      {
+        "name": "Customization & Flexibility",
+        "weight": 25,
+        "description": "Ability to adapt the platform to unique agency workflows, including custom fields, statuses, views (Kanban, Gantt, Calendar), and dashboards."
+      },
+      {
+        "name": "Integrations",
+        "weight": 20,
+        "description": "Robustness of the integration ecosystem, especially with tools common in agency stacks like Slack, Google Workspace, HubSpot, Salesforce, and accounting software."
+      },
+      {
+        "name": "User Experience & Onboarding",
+        "weight": 15,
+        "description": "Overall ease of use, clarity of the interface, and the quality of onboarding resources for new team members. A steep learning curve is penalized."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Fairness of the pricing model, value for money, and the ability of the platform to scale from a small team to a large, multi-department agency."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Agency Management",
+    "Client Work Management",
+    "Creative Agencies",
+    "Marketing Agencies",
+    "Digital Agencies"
+  ],
+  "problem_tags": [
+    "Project Tracking",
+    "Resource Allocation",
+    "Client Collaboration",
+    "Team Productivity",
+    "Profitability Analysis"
+  ],
+  "query_intents": [
+    "best project management tool for agencies",
+    "clickup vs asana for agencies",
+    "monday.com for marketing agency",
+    "agency project management software with client portal",
+    "teamwork alternative"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "workflow customization",
+        "consolidating tools"
+      ],
+      "personas": [
+        "ops managers",
+        "agencies with diverse service offerings"
+      ]
+    },
+    "2": {
+      "solves": [
+        "visual project tracking",
+        "client reporting dashboards"
+      ],
+      "personas": [
+        "account managers",
+        "creative directors"
+      ]
+    },
+    "3": {
+      "solves": [
+        "client profitability tracking",
+        "managing client work"
+      ],
+      "personas": [
+        "agency owners",
+        "project managers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "Prioritize Client-Facing Features",
+      "a": "The key differentiator for agency PM software is how it handles client work. Look for robust guest access, client portals for approvals, and shareable dashboards that don't require a paid seat for every client."
+    },
+    {
+      "q": "Connect Profitability to Projects",
+      "a": "The best tools go beyond task management. They integrate time tracking, billable rates, and project budgets to give you a real-time view of profitability per client and per project."
+    },
+    {
+      "q": "Evaluate Resource Management",
+      "a": "Avoid overbooking your team. A good system provides a high-level view of team capacity, allowing you to allocate resources effectively across multiple client projects and forecast future hiring needs."
+    }
+  ],
+  "how_to_choose": [
+    "Map your current agency workflow and identify key bottlenecks you need the software to solve.",
+    "Run a trial with a real client project, involving at least two team members and one client guest.",
+    "Check for native integrations with your critical tools (e.g., accounting, CRM, file storage) to avoid manual data entry.",
+    "Compare the total cost of ownership, including per-seat pricing, guest access fees, and any paid add-ons required for full functionality."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best project management software for a small agency?",
+      "a": "For small agencies, Teamwork or Asana are excellent starting points. Teamwork is purpose-built for client work with great billing features, while Asana is incredibly user-friendly and great for getting a team organized quickly. Monday.com is also a strong, scalable choice."
+    },
+    {
+      "q": "Is ClickUp, Asana, or Monday better for agencies?",
+      "a": "It depends on your priority. ClickUp is best for agencies that need ultimate customization to build bespoke workflows. Monday.com is superior for visual dashboards and client reporting. Asana is the easiest to adopt and excels at pure task and workflow management."
+    },
+    {
+      "q": "What key features should agencies look for in project management software?",
+      "a": "Agencies should prioritize: 1) Time tracking against tasks and projects, 2) Resource management to see team capacity, 3) Client portals or robust guest access for collaboration and approvals, 4) Budgeting and profitability reporting, and 5) Strong integrations with CRM and accounting software."
+    },
+    {
+      "q": "How much should an agency budget for project management software?",
+      "a": "Most agencies should budget between $15 to $40 per user per month for a powerful project management tool. All-in-one agency management platforms like Scoro or Kantata can cost more, from $30 to $60+ per user per month, as they include CRM and advanced financial features."
+    }
+  ],
+  "honest_disclosures": [
+    "Our ranking favors all-in-one platforms with high customization, which may not suit agencies seeking extreme simplicity or a single-function tool.",
+    "Most candidates are US-based SaaS companies, and while they serve a global audience, support and documentation are primarily in English.",
+    "Pricing tiers can be complex; features like time tracking or advanced reporting are often locked behind more expensive plans."
+  ],
+  "glossary": {
+    "term": "Resource Management",
+    "definition": "The process of planning, scheduling, and allocating team members' time and skills to projects to ensure optimal utilization and prevent burnout.",
+    "synonyms": [
+      "Capacity Planning",
+      "Workforce Allocation"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "ClickUp",
+      "url": "https://clickup.com",
+      "founded": 2017,
+      "hq": "San Diego, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Agencies that need a single, hyper-customizable platform to manage everything from sales pipelines and client projects to internal documentation.",
+      "best_for_short": "Ultimate all-in-one customization",
+      "pricing_band": "$$ ($7 to $19/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Agency-Specific Features": 9,
+        "Customization & Flexibility": 9.8,
+        "Integrations": 9.2,
+        "User Experience & Onboarding": 8.5,
+        "Pricing & Scalability": 9.1
+      },
+      "verdict": "ClickUp is the best project management software for agencies because it offers unparalleled customization, allowing teams to build any workflow imaginable within a single platform.",
+      "verdict_short": "The most customizable all-in-one platform for agencies that want to build their own perfect system.",
+      "praise": "Its ability to consolidate tasks, docs, goals, and whiteboards into one tool is a game-changer for reducing app sprawl.",
+      "praise_short": "Consolidates nearly every productivity tool into one.",
+      "criticism": "The sheer number of features can be overwhelming for new users, leading to a steeper learning curve than its competitors.",
+      "criticism_short": "Can be overwhelming and has a steep learning curve.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 Grid for Project Management",
+        "Capterra for Agencies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 7,
+      "price_max": 19,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Google Workspace",
+        "HubSpot",
+        "Salesforce",
+        "GitHub",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Monday.com",
+      "url": "https://monday.com",
+      "founded": 2012,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "1001-5000",
+      "best_for": "Agencies that prioritize visual workflows, client-facing dashboards, and powerful automations to streamline repetitive tasks.",
+      "best_for_short": "Visual workflows and client dashboards",
+      "pricing_band": "$$ ($10 to $20/user/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Agency-Specific Features": 8.9,
+        "Customization & Flexibility": 9.2,
+        "Integrations": 9,
+        "User Experience & Onboarding": 9.5,
+        "Pricing & Scalability": 8.8
+      },
+      "verdict": "Monday.com earns its high rank for its exceptionally intuitive and visual interface, making it easy for agencies to build complex workflows and share progress with clients.",
+      "verdict_short": "The best for visual project tracking, automation, and creating beautiful client-facing reports.",
+      "praise": "The platform's automation capabilities are both powerful and easy to set up, saving significant administrative time.",
+      "praise_short": "Powerful and user-friendly workflow automation.",
+      "criticism": "Per-user pricing and minimum seat requirements can make it expensive for smaller agencies or those with many freelance collaborators.",
+      "criticism_short": "Pricing model can be costly for smaller teams.",
+      "sources_pending": [
+        "vendor documentation",
+        "Forrester Wave: Collaborative Work Management",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Adobe Creative Cloud",
+        "Mailchimp",
+        "HubSpot",
+        "Jira",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Teamwork",
+      "url": "https://www.teamwork.com",
+      "founded": 2007,
+      "hq": "Cork, Ireland",
+      "team_size_band": "201-500",
+      "best_for": "Service-based businesses and agencies that need to manage the entire client lifecycle, from project planning to invoicing and profitability tracking.",
+      "best_for_short": "Client work and profitability tracking",
+      "pricing_band": "$$ ($10 to $18/user/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Agency-Specific Features": 9.8,
+        "Customization & Flexibility": 8.5,
+        "Integrations": 8.6,
+        "User Experience & Onboarding": 9,
+        "Pricing & Scalability": 8.4
+      },
+      "verdict": "Teamwork is the best choice for agencies focused on profitability, as its entire feature set is built around managing client work, tracking billable hours, and reporting on project financial health.",
+      "verdict_short": "Purpose-built for agencies to manage client projects, time, and budgets effectively.",
+      "praise": "Its granular time tracking and budget management features provide unparalleled insight into the profitability of each client and project.",
+      "praise_short": "Excellent for tracking project profitability.",
+      "criticism": "The user interface, while powerful, can feel slightly dated and less intuitive compared to more modern competitors like Monday.com.",
+      "criticism_short": "Interface feels less modern than competitors.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 Grid for Client Services",
+        "Digital.com reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 9.99,
+      "price_max": 17.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "HubSpot",
+        "Slack",
+        "Google Drive",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Asana",
+      "url": "https://asana.com",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Creative and marketing agencies that need a highly user-friendly platform for managing team tasks, campaign workflows, and collaborative projects.",
+      "best_for_short": "User-friendly task and workflow management",
+      "pricing_band": "$$ ($11 to $25/user/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Agency-Specific Features": 8,
+        "Customization & Flexibility": 8.8,
+        "Integrations": 9.1,
+        "User Experience & Onboarding": 9.6,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Asana excels due to its best-in-class user experience and focus on clear task ownership, making it the easiest platform for agency teams to adopt and use consistently.",
+      "verdict_short": "The most intuitive and easy-to-adopt platform for managing team tasks and workflows.",
+      "praise": "Its clean interface and features like Portfolios and Goals make it simple to track progress across multiple projects and align them with business objectives.",
+      "praise_short": "Superb user interface and goal tracking.",
+      "criticism": "Native time tracking and budgeting features are less robust than agency-specific tools like Teamwork, often requiring third-party integrations.",
+      "criticism_short": "Lacks robust native time and budget tracking.",
+      "sources_pending": [
+        "vendor documentation",
+        "Gartner Magic Quadrant",
+        "PCMag review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 10.99,
+      "price_max": 24.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Adobe Creative Cloud",
+        "Slack",
+        "Microsoft 365",
+        "Salesforce",
+        "Figma",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Wrike",
+      "url": "https://www.wrike.com",
+      "founded": 2006,
+      "hq": "San Jose, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Larger agencies or in-house marketing teams managing complex, multi-stage projects that require granular control and powerful reporting.",
+      "best_for_short": "Complex projects and enterprise needs",
+      "pricing_band": "$$$ ($10 to $25/user/mo, enterprise custom)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Agency-Specific Features": 8.5,
+        "Customization & Flexibility": 9,
+        "Integrations": 8.8,
+        "User Experience & Onboarding": 7.5,
+        "Pricing & Scalability": 8.3
+      },
+      "verdict": "Wrike is a top choice for its powerful project management capabilities tailored for marketing and creative teams, including specialized templates and an excellent proofing tool.",
+      "verdict_short": "A robust platform for large agencies managing complex projects with specific creative approval workflows.",
+      "praise": "The Wrike for Marketers solution includes excellent creative proofing and approval tools built directly into the workflow.",
+      "praise_short": "Excellent built-in creative proofing tools.",
+      "criticism": "The interface can feel cluttered and less intuitive than competitors, and the best features are often reserved for higher-priced tiers.",
+      "criticism_short": "Cluttered interface and expensive top tiers.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 reviews for Enterprise",
+        "Citrix company reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 9.8,
+      "price_max": 24.8,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Adobe Creative Cloud",
+        "Microsoft Teams",
+        "Jira",
+        "Tableau",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Scoro",
+      "url": "https://www.scoro.com",
+      "founded": 2013,
+      "hq": "London, UK",
+      "team_size_band": "201-500",
+      "best_for": "Agencies looking for a true end-to-end business management solution that combines project management with CRM, quoting, and billing.",
+      "best_for_short": "End-to-end agency management",
+      "pricing_band": "$$$$ ($26 to $63+/user/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Agency-Specific Features": 9.5,
+        "Customization & Flexibility": 8,
+        "Integrations": 7.8,
+        "User Experience & Onboarding": 7.5,
+        "Pricing & Scalability": 7.9
+      },
+      "verdict": "Scoro stands out by offering a complete agency operations platform, centralizing everything from the first client contact to the final invoice, eliminating the need for multiple disparate tools.",
+      "verdict_short": "A comprehensive platform that combines PM, CRM, billing, and reporting for full business oversight.",
+      "praise": "Its real-time financial dashboards provide a holistic view of business health, linking project progress directly to revenue and profitability.",
+      "praise_short": "Connects project data with financial performance.",
+      "criticism": "It is one of the more expensive options on the market, and its all-in-one nature can be overkill for agencies that already have an established CRM or accounting system.",
+      "criticism_short": "Expensive and can be too complex if you don't need all its features.",
+      "sources_pending": [
+        "vendor documentation",
+        "Capterra reviews",
+        "SoftwareAdvice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 26,
+      "price_max": 63,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "Google Calendar",
+        "Microsoft 365",
+        "Mailchimp",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Kantata",
+      "url": "https://www.kantata.com",
+      "founded": 2021,
+      "hq": "Irvine, USA & London, UK",
+      "team_size_band": "501-1000",
+      "best_for": "Professional services organizations and large agencies that require sophisticated resource management and financial forecasting.",
+      "best_for_short": "Advanced resource management",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Agency-Specific Features": 9.2,
+        "Customization & Flexibility": 8.2,
+        "Integrations": 8,
+        "User Experience & Onboarding": 7,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Kantata (formed by the merger of Mavenlink and Kimble) is a leader in professional services automation, making it ideal for agencies where resource planning and utilization are paramount.",
+      "verdict_short": "A powerhouse for agencies focused on optimizing resource allocation and financial forecasting.",
+      "praise": "Its resource management capabilities are among the best in the industry, allowing for detailed capacity planning and skills matching.",
+      "praise_short": "Industry-leading resource planning tools.",
+      "criticism": "The platform is complex and expensive, geared towards larger organizations, and may be overwhelming for smaller, fast-moving creative agencies.",
+      "criticism_short": "Complex, expensive, and geared towards large firms.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 Grid for Professional Services Automation",
+        "Merger press releases"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "NetSuite",
+        "QuickBooks",
+        "Jira",
+        "Slack",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 20,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Accelo",
+      "url": "https://www.accelo.com",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Agencies that manage ongoing client retainers and need to connect sales, projects, and billing in a single automated system.",
+      "best_for_short": "Automating client work and retainers",
+      "pricing_band": "$$$$ ($50 to $99/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Agency-Specific Features": 9,
+        "Customization & Flexibility": 7.5,
+        "Integrations": 7.8,
+        "User Experience & Onboarding": 7.2,
+        "Pricing & Scalability": 7.4
+      },
+      "verdict": "Accelo's strength lies in its automation of the entire client work lifecycle, from quote to cash, making it particularly effective for agencies with retainer-based business models.",
+      "verdict_short": "Excellent for automating retainer management, from sales and projects to billing.",
+      "praise": "The retainer management module is best-in-class, automatically generating tasks and tracking budgets for recurring client work.",
+      "praise_short": "Top-tier retainer management features.",
+      "criticism": "The user interface is dense and can have a significant learning curve. It is also a premium-priced product.",
+      "criticism_short": "Dense UI with a steep learning curve and high price.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 reviews",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "Salesforce",
+        "Google Workspace",
+        "Microsoft 365",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Basecamp",
+      "url": "https://basecamp.com",
+      "founded": 1999,
+      "hq": "Chicago, USA",
+      "team_size_band": "51-200",
+      "best_for": "Agencies that prioritize simplicity, clear communication, and a flat-fee pricing model over granular features like Gantt charts or time tracking.",
+      "best_for_short": "Simple, communication-focused collaboration",
+      "pricing_band": "$$$ (Flat fee)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Agency-Specific Features": 6.5,
+        "Customization & Flexibility": 6,
+        "Integrations": 7,
+        "User Experience & Onboarding": 9.2,
+        "Pricing & Scalability": 9.5
+      },
+      "verdict": "Basecamp earns a spot for its opinionated, simplicity-first approach to project management, which can be a refreshing antidote to feature bloat for some agencies.",
+      "verdict_short": "The best choice for simple, communication-centric project management with predictable flat-fee pricing.",
+      "praise": "Its flat-rate pricing is incredibly compelling for growing agencies, as you can add unlimited users and clients without increasing your bill.",
+      "praise_short": "Simple, predictable flat-fee pricing model.",
+      "criticism": "It lacks the advanced project management features that many agencies rely on, such as detailed reporting, time tracking, and resource management.",
+      "criticism_short": "Lacks advanced PM features like time tracking.",
+      "sources_pending": [
+        "vendor documentation",
+        "37signals blog",
+        "TrustRadius reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 299,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Automate.io",
+        "a few dozen native integrations"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Trello",
+      "url": "https://trello.com",
+      "founded": 2011,
+      "hq": "New York, USA",
+      "team_size_band": "part of Atlassian (10001+)",
+      "best_for": "Small agencies or teams within larger agencies that need a simple, visual, and highly intuitive way to manage tasks using Kanban boards.",
+      "best_for_short": "Simple and visual Kanban boards",
+      "pricing_band": "$ ($5 to $18/user/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Agency-Specific Features": 6,
+        "Customization & Flexibility": 7.5,
+        "Integrations": 8,
+        "User Experience & Onboarding": 9.8,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Trello remains a top contender for its sheer simplicity and visual appeal; its Kanban board interface is the most intuitive way to get a project organized quickly.",
+      "verdict_short": "The gold standard for simple, visual task management using Kanban boards.",
+      "praise": "It is incredibly easy to learn and use, allowing teams to get up and running in minutes with minimal training.",
+      "praise_short": "Extremely easy to learn and use.",
+      "criticism": "It struggles to manage complex projects with dependencies and lacks built-in reporting, time tracking, and other key agency features without relying heavily on 'Power-Ups' (add-ons).",
+      "criticism_short": "Not suitable for complex projects without many add-ons.",
+      "sources_pending": [
+        "vendor documentation",
+        "Atlassian company reports",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 17.5,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Jira",
+        "Google Drive",
+        "Evernote",
+        "GitHub",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Notion",
+      "url": "https://www.notion.so",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Tech-savvy agencies that want to build a completely custom, centralized 'operating system' for their business, combining project management with wikis and databases.",
+      "best_for_short": "Custom-built agency operating system",
+      "pricing_band": "$$ ($8 to $15/user/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Agency-Specific Features": 5,
+        "Customization & Flexibility": 9.9,
+        "Integrations": 7.5,
+        "User Experience & Onboarding": 6.5,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Notion is the wildcard pick because it's not a project management tool out of the box; it's a set of building blocks that allows an agency to construct its own perfect system, if willing to invest the time.",
+      "verdict_short": "A flexible workspace to build a bespoke agency OS, but requires significant setup.",
+      "praise": "Its unparalleled flexibility allows for the creation of interconnected databases for projects, clients, tasks, and notes in a way no other tool can match.",
+      "praise_short": "Infinitely flexible and interconnected.",
+      "criticism": "It lacks core agency-specific features like native time tracking, profitability reporting, and advanced permissions, requiring workarounds or integrations.",
+      "criticism_short": "Lacks native agency features like time tracking.",
+      "sources_pending": [
+        "vendor documentation",
+        "Product Hunt launch page",
+        "YouTube tutorials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Figma",
+        "GitHub",
+        "Jira",
+        "Asana",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

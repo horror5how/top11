@@ -8,22 +8,6 @@
   },
   "pending": [
     {
-      "slug": "project-management-agencies",
-      "title": "The 11 Best Project Management Software for Agencies",
-      "vertical": "Productivity · Agency Project Management",
-      "audience": "Agency owners and managers choosing project management tools (ClickUp vs Asana vs Monday for agencies)",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
-      "slug": "business-intelligence-tools",
-      "title": "The 11 Best Business Intelligence Tools for SMBs",
-      "vertical": "Analytics · Business Intelligence",
-      "audience": "Small and mid-size business owners choosing BI and analytics tools (Tableau vs Power BI vs Looker)",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "cloud-storage-business",
       "title": "The 11 Best Cloud Storage Solutions for Business",
       "vertical": "Infrastructure · Cloud Storage",
@@ -485,7 +469,9 @@
     "customer-success-software",
     "contract-management-software",
     "proposal-software",
-    "knowledge-base-software"
+    "knowledge-base-software",
+    "project-management-agencies",
+    "business-intelligence-tools"
   ],
   "skipped": []
 }

@@ -1,0 +1,863 @@
+{
+  "slug": "business-intelligence-tools",
+  "title": "The 11 Best Business Intelligence Tools for SMBs",
+  "subtitle": "A ranked analysis of the top BI platforms for small and mid-size businesses, focusing on ease of use, affordability, and integration capabilities.",
+  "vertical": "Analytics · Business Intelligence",
+  "audience": "Small and mid-size business owners choosing BI and analytics tools (Tableau vs Power BI vs Looker)",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Data Analytics",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Ease of Use & Learning Curve (25%), Pricing & Affordability (25%), Integration & Data Connectivity (20%), Visualization & Reporting Quality (15%), Scalability & Performance (10%), and Support & Community (5%)."
+    }
+  ],
+  "answer_capsule": "The best business intelligence tool for SMBs is Microsoft Power BI for its unbeatable value and deep integration with the Microsoft ecosystem, followed closely by Tableau and Looker Studio.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Ease of Use & Learning Curve",
+        "weight": 25,
+        "description": "Evaluates the intuitiveness of the user interface, the availability of no-code/low-code features, and the time required for a non-technical user to become proficient."
+      },
+      {
+        "name": "Pricing & Affordability",
+        "weight": 25,
+        "description": "Assesses the total cost of ownership, including per-user fees, data processing costs, and the value offered by free or entry-level tiers. Transparent, predictable pricing is favored."
+      },
+      {
+        "name": "Integration & Data Connectivity",
+        "weight": 20,
+        "description": "Measures the breadth and depth of built-in connectors to common SMB data sources (e.g., SaaS apps, databases, spreadsheets) and the ease of data preparation (ETL)."
+      },
+      {
+        "name": "Visualization & Reporting Quality",
+        "weight": 15,
+        "description": "Scores the flexibility, aesthetic quality, and interactivity of charts, graphs, and dashboards. Includes capabilities for scheduled reports and sharing."
+      },
+      {
+        "name": "Scalability & Performance",
+        "weight": 10,
+        "description": "Gauges the tool's ability to handle growing data volumes and user loads without significant performance degradation. Considers cloud architecture and data handling efficiency."
+      },
+      {
+        "name": "Support & Community",
+        "weight": 5,
+        "description": "Rates the quality of official documentation, customer support channels (email, phone, chat), and the vibrancy of the user community for peer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Data Visualization",
+    "Dashboarding",
+    "Reporting Tools",
+    "SaaS Analytics"
+  ],
+  "problem_tags": [
+    "data silos",
+    "manual reporting",
+    "lack of business insights",
+    "tracking kpis",
+    "data-driven decisions"
+  ],
+  "query_intents": [
+    "best bi tools for small business",
+    "tableau vs power bi for smb",
+    "affordable business intelligence",
+    "easy data visualization tool",
+    "looker studio alternative"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "affordable analytics",
+        "excel replacement",
+        "microsoft ecosystem integration"
+      ],
+      "personas": [
+        "CFO",
+        "Operations Manager",
+        "Data-savvy Business Owner"
+      ]
+    },
+    "2": {
+      "solves": [
+        "advanced data visualization",
+        "interactive dashboards",
+        "salesforce data analysis"
+      ],
+      "personas": [
+        "Marketing Analyst",
+        "Sales Manager",
+        "BI Consultant"
+      ]
+    },
+    "3": {
+      "solves": [
+        "free dashboarding tool",
+        "google marketing analytics",
+        "quick report generation"
+      ],
+      "personas": [
+        "Digital Marketer",
+        "Startup Founder",
+        "Content Creator"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.16,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is Business Intelligence (BI)?",
+      "a": "Business Intelligence (BI) combines business analytics, data mining, data visualization, and data tools to help organizations make more data-driven decisions. For an SMB, this means turning raw data from sales, marketing, and operations into understandable reports and dashboards that reveal trends and insights."
+    },
+    {
+      "q": "Why do SMBs need BI tools?",
+      "a": "SMBs need BI tools to move beyond spreadsheets. They automate reporting, consolidate data from different sources (like QuickBooks and Google Analytics), and provide a single source of truth for key performance indicators (KPIs). This saves time, reduces errors, and helps identify growth opportunities or potential problems faster."
+    }
+  ],
+  "how_to_choose": [
+    "Start with your existing data sources. Choose a tool with strong, pre-built connectors for the software you already use (e.g., Salesforce, Shopify, Google Ads).",
+    "Evaluate the learning curve. If you don't have a dedicated analyst, prioritize tools known for their user-friendly, drag-and-drop interfaces like Power BI or Looker Studio.",
+    "Calculate the Total Cost of Ownership (TCO). Look beyond the per-user monthly fee. Consider data refresh costs, support packages, and whether the 'free' tier is sufficient for your initial needs.",
+    "Test with a real project. Use the free trial to connect to one of your actual datasets and build a dashboard you genuinely need. This is the best way to assess if the tool fits your workflow and skill level."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between Tableau and Power BI for a small business?",
+      "a": "Power BI is generally more affordable and integrates seamlessly with the Microsoft ecosystem (Excel, Azure), making it a natural choice for many SMBs. Tableau is often considered more powerful and flexible for pure data visualization and can be more intuitive for complex visual analysis, but typically comes at a higher price point."
+    },
+    {
+      "q": "Is there a completely free business intelligence tool?",
+      "a": "Yes. Looker Studio (formerly Google Data Studio) is a powerful and popular free BI tool, especially for visualizing data from Google products like Analytics, Ads, and Sheets. Microsoft Power BI also offers a very capable free desktop version for individual use."
+    },
+    {
+      "q": "How much should an SMB expect to spend on a BI tool?",
+      "a": "An SMB can start for free with tools like Looker Studio or Power BI Desktop. Paid plans typically start around $10-$25 per user per month for basic cloud sharing and collaboration. A small team of 5 might spend $50-$200 per month, depending on the platform and features required."
+    },
+    {
+      "q": "Do I need a data analyst to use these BI tools?",
+      "a": "Not necessarily. Modern BI tools are designed to be more user-friendly for business users. While a data analyst can unlock more advanced capabilities, a tech-savvy manager or business owner can create meaningful dashboards and reports in tools like Power BI, Looker Studio, or Metabase with minimal training."
+    }
+  ],
+  "honest_disclosures": [
+    "This list is dominated by major US-based technology companies (Microsoft, Salesforce/Tableau, Google), reflecting their significant market share and resources. Emerging international providers may be underrepresented.",
+    "Pricing for BI tools can be complex, with costs varying based on user roles (creator vs. viewer), data refresh frequency, and hosting options (cloud vs. on-premise). The prices listed are estimates for typical SMB cloud deployments."
+  ],
+  "glossary": {
+    "term": "Dashboard",
+    "definition": "A type of graphical user interface which often provides at-a-glance views of key performance indicators (KPIs) relevant to a particular objective or business process.",
+    "synonyms": [
+      "Report",
+      "Control Panel",
+      "Scorecard"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Microsoft Power BI",
+      "url": "https://powerbi.microsoft.com/",
+      "founded": 2011,
+      "hq": "Redmond, USA",
+      "team_size_band": "10001+",
+      "best_for": "SMBs already invested in the Microsoft 365 or Azure ecosystem seeking the best overall value.",
+      "best_for_short": "Best value for Microsoft users",
+      "pricing_band": "$ ($0 to $20/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 8.8,
+        "Pricing & Affordability": 9.4,
+        "Integration & Data Connectivity": 9.3,
+        "Visualization & Reporting Quality": 9,
+        "Scalability & Performance": 9,
+        "Support & Community": 9.2
+      },
+      "verdict": "Microsoft Power BI earns the top rank for its unbeatable combination of affordability, powerful features, and seamless integration with the tools most SMBs already use, like Excel and Office 365.",
+      "verdict_short": "Unbeatable value and deep Microsoft integration make it the top choice for most SMBs.",
+      "praise": "The free Power BI Desktop is incredibly full-featured, allowing users to build complex reports without an initial investment, while the Pro plan is one of the most affordable on the market.",
+      "praise_short": "Generous free tier and low-cost Pro plan offer incredible value.",
+      "criticism": "The user interface can feel cluttered and less intuitive than competitors like Tableau, and sharing/collaboration is primarily locked into its cloud service.",
+      "criticism_short": "UI can be cluttered; sharing requires a paid cloud account.",
+      "sources_pending": [
+        "Microsoft Power BI Documentation",
+        "G2 Power BI Reviews",
+        "Forrester Wave: Augmented BI Platforms"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Microsoft Excel",
+        "Azure SQL Database",
+        "Salesforce",
+        "Google Analytics",
+        "SharePoint",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Tableau",
+      "url": "https://www.tableau.com/",
+      "founded": 2003,
+      "hq": "Seattle, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Businesses that prioritize best-in-class, interactive data visualization and have a dedicated analyst or data-savvy team.",
+      "best_for_short": "Best for data visualization",
+      "pricing_band": "$$$ ($75 to $150/user/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 9,
+        "Pricing & Affordability": 7.8,
+        "Integration & Data Connectivity": 9.2,
+        "Visualization & Reporting Quality": 9.4,
+        "Scalability & Performance": 9.3,
+        "Support & Community": 9.1
+      },
+      "verdict": "Tableau (a Salesforce company) is the undisputed leader in data visualization, offering unparalleled flexibility and aesthetic quality that empowers users to explore data in a highly intuitive, visual way.",
+      "verdict_short": "The gold standard for interactive and beautiful data visualization, albeit at a premium price.",
+      "praise": "Its drag-and-drop interface makes complex analysis accessible, and the vibrant user community is a massive resource for learning and problem-solving.",
+      "praise_short": "Intuitive interface and a massive, supportive user community.",
+      "criticism": "The per-user pricing, particularly for 'Creator' licenses, is significantly higher than Power BI, which can be a barrier for cost-sensitive SMBs.",
+      "criticism_short": "High per-user cost can be prohibitive for smaller teams.",
+      "sources_pending": [
+        "Tableau (Salesforce) Documentation",
+        "Gartner Magic Quadrant for Analytics and BI",
+        "G2 Tableau Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 75,
+      "price_max": 150,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "AWS Redshift",
+        "Snowflake",
+        "Google BigQuery",
+        "Microsoft SQL Server",
+        "Excel"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Looker Studio",
+      "url": "https://lookerstudio.google.com/",
+      "founded": 2016,
+      "hq": "Mountain View, USA",
+      "team_size_band": "10001+",
+      "best_for": "SMBs, especially marketing agencies and startups, that need a powerful, free tool for visualizing data from the Google ecosystem.",
+      "best_for_short": "Best free BI tool",
+      "pricing_band": "$ ($0 to $9/user/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 9.4,
+        "Pricing & Affordability": 9.4,
+        "Integration & Data Connectivity": 8.5,
+        "Visualization & Reporting Quality": 8.6,
+        "Scalability & Performance": 8,
+        "Support & Community": 8.2
+      },
+      "verdict": "Looker Studio (formerly Google Data Studio) offers incredible value as a free, web-based BI tool that is exceptionally easy to use and integrates perfectly with Google services like Analytics, Ads, and BigQuery.",
+      "verdict_short": "A powerful and easy-to-use free tool, perfect for the Google marketing stack.",
+      "praise": "For a free product, the range of visualizations and data connectors is extensive, allowing small businesses to create professional-grade dashboards with zero budget.",
+      "praise_short": "Extremely capable and feature-rich for a free tool.",
+      "criticism": "Performance can lag with very large or complex datasets, and advanced data modeling capabilities are less robust compared to Power BI or Tableau.",
+      "criticism_short": "Can be slow with large datasets; lacks advanced modeling.",
+      "sources_pending": [
+        "Google Cloud Documentation",
+        "Capterra Looker Studio Reviews",
+        "Google Marketing Platform Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 9,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Ads",
+        "Google Sheets",
+        "BigQuery",
+        "YouTube Analytics",
+        "MySQL"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Zoho Analytics",
+      "url": "https://www.zoho.com/analytics/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10001+",
+      "best_for": "Businesses heavily invested in the Zoho suite of products (CRM, Books, etc.) seeking a tightly integrated, all-in-one analytics solution.",
+      "best_for_short": "Best for Zoho ecosystem users",
+      "pricing_band": "$$ ($24 to $455/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 8.7,
+        "Pricing & Affordability": 8.8,
+        "Integration & Data Connectivity": 8.9,
+        "Visualization & Reporting Quality": 8,
+        "Scalability & Performance": 7.9,
+        "Support & Community": 8.3
+      },
+      "verdict": "Zoho Analytics excels for its seamless, out-of-the-box integration with the broader Zoho ecosystem, providing instant, pre-built dashboards for users of Zoho CRM, Books, and other Zoho apps.",
+      "verdict_short": "Deep, seamless integration with the Zoho software suite.",
+      "praise": "Its AI assistant, Zia, allows users to ask questions in natural language, making data exploration accessible to non-technical team members.",
+      "praise_short": "Natural language querying makes data exploration easy.",
+      "criticism": "While it connects to external sources, its primary strength and value are realized within the Zoho walled garden; visualizations are less customizable than Tableau.",
+      "criticism_short": "Best value is for Zoho users; less flexible visualizations.",
+      "sources_pending": [
+        "Zoho Analytics Documentation",
+        "PCMag Review",
+        "G2 Zoho Analytics Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 24,
+      "price_max": 455,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoho CRM",
+        "Zoho Books",
+        "Salesforce",
+        "Google Analytics",
+        "Shopify",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Qlik Sense",
+      "url": "https://www.qlik.com/",
+      "founded": 1993,
+      "hq": "King of Prussia, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Data-curious teams that need to explore relationships across different data sources freely without being confined to predefined queries.",
+      "best_for_short": "Best for data exploration",
+      "pricing_band": "$$ ($30 to $70/user/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 7.8,
+        "Pricing & Affordability": 8.2,
+        "Integration & Data Connectivity": 8.5,
+        "Visualization & Reporting Quality": 8.4,
+        "Scalability & Performance": 9.2,
+        "Support & Community": 8
+      },
+      "verdict": "Qlik Sense stands out with its unique Associative Engine, which allows users to explore data in any direction, uncovering hidden insights that might be missed in query-based tools.",
+      "verdict_short": "Powerful associative engine for free-form data exploration and discovery.",
+      "praise": "The engine is extremely fast and powerful, handling large datasets and complex associations with ease, making it highly scalable for growing businesses.",
+      "praise_short": "Fast, powerful, and highly scalable for growing data.",
+      "criticism": "The learning curve is steeper than drag-and-drop tools like Tableau or Power BI, and mastering its data modeling can require more technical expertise.",
+      "criticism_short": "Steeper learning curve requires more technical skill.",
+      "sources_pending": [
+        "Qlik Sense Documentation",
+        "Gartner Peer Insights",
+        "Dresner Advisory Services BI Market Study"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 70,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "SAP",
+        "Oracle",
+        "Salesforce",
+        "Snowflake",
+        "AWS",
+        "Google Cloud"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Domo",
+      "url": "https://www.domo.com/",
+      "founded": 2010,
+      "hq": "American Fork, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Fast-moving businesses that need a cloud-native platform with strong data integration and real-time dashboarding capabilities.",
+      "best_for_short": "Best for real-time dashboards",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 8.5,
+        "Pricing & Affordability": 7,
+        "Integration & Data Connectivity": 9,
+        "Visualization & Reporting Quality": 8.2,
+        "Scalability & Performance": 8.5,
+        "Support & Community": 7.9
+      },
+      "verdict": "Domo excels at connecting a vast number of data sources and making real-time data accessible to everyone in the organization through its user-friendly, mobile-first platform.",
+      "verdict_short": "Cloud-native platform with excellent data integration and mobile access.",
+      "praise": "With over 1,000 pre-built connectors, Domo makes it incredibly easy to pull in data from almost any cloud service without extensive engineering work.",
+      "praise_short": "Massive library of over 1,000 data connectors.",
+      "criticism": "Pricing is not transparent and is generally geared towards larger mid-market companies, which can make it expensive for smaller SMBs.",
+      "criticism_short": "Opaque, custom pricing can be expensive for small businesses.",
+      "sources_pending": [
+        "Domo University",
+        "G2 Domo Reviews",
+        "TrustRadius Domo Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Adobe Analytics",
+        "Facebook Ads",
+        "Shopify",
+        "Oracle NetSuite",
+        "Marketo"
+      ],
+      "compliance": [
+        "HIPAA",
+        "GDPR",
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Sisense",
+      "url": "https://www.sisense.com/",
+      "founded": 2004,
+      "hq": "New York, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Tech-forward SMBs and software companies that want to embed analytics directly into their own products or internal workflows.",
+      "best_for_short": "Best for embedded analytics",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 7.5,
+        "Pricing & Affordability": 7.2,
+        "Integration & Data Connectivity": 8.4,
+        "Visualization & Reporting Quality": 8.3,
+        "Scalability & Performance": 9.1,
+        "Support & Community": 7.8
+      },
+      "verdict": "Sisense provides a highly customizable and extensible platform that is ideal for embedding analytics into other applications, offering a seamless, white-labeled experience for end-users.",
+      "verdict_short": "A powerful, developer-friendly platform for embedding analytics into applications.",
+      "praise": "Its proprietary ElastiCube technology allows for fast performance on large, disparate datasets without requiring a traditional data warehouse.",
+      "praise_short": "Fast performance on complex data with ElastiCube tech.",
+      "criticism": "The platform's power comes with complexity; it generally requires more technical resources to implement and manage compared to self-service tools.",
+      "criticism_short": "Requires more technical resources to implement and manage.",
+      "sources_pending": [
+        "Sisense Documentation",
+        "Gartner Magic Quadrant",
+        "G2 Sisense Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Snowflake",
+        "AWS Redshift",
+        "Google BigQuery",
+        "Zendesk",
+        "Salesforce",
+        "Google Ads"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Metabase",
+      "url": "https://www.metabase.com/",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Startups and teams that want a simple, open-source way for everyone to ask questions of their data without writing SQL.",
+      "best_for_short": "Best open-source option",
+      "pricing_band": "$$ ($85 to $500+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 9.2,
+        "Pricing & Affordability": 8.5,
+        "Integration & Data Connectivity": 7.5,
+        "Visualization & Reporting Quality": 7,
+        "Scalability & Performance": 7.2,
+        "Support & Community": 7.5
+      },
+      "verdict": "Metabase democratizes data access with its incredibly intuitive question-builder, making it the easiest way for non-analysts to explore and visualize company data.",
+      "verdict_short": "The easiest way for non-technical users to ask questions of data.",
+      "praise": "The open-source version is free to self-host, offering immense value for technically-inclined teams, while the cloud version provides a hassle-free, affordable entry point.",
+      "praise_short": "Free open-source option and affordable cloud plans.",
+      "criticism": "It lacks the advanced visualization and data preparation capabilities of enterprise-grade tools, making it better for straightforward querying than complex analysis.",
+      "criticism_short": "Less suitable for complex analysis and advanced visualizations.",
+      "sources_pending": [
+        "Metabase Documentation",
+        "GitHub Repository",
+        "Capterra Metabase Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 85,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "PostgreSQL",
+        "MySQL",
+        "AWS Redshift",
+        "Google BigQuery",
+        "Snowflake",
+        "MongoDB"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "ThoughtSpot",
+      "url": "https://www.thoughtspot.com/",
+      "founded": 2012,
+      "hq": "Sunnyvale, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Forward-thinking SMBs aiming to empower their entire business team with search-based, AI-driven analytics.",
+      "best_for_short": "Best for search-based analytics",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 9,
+        "Pricing & Affordability": 6.5,
+        "Integration & Data Connectivity": 7.8,
+        "Visualization & Reporting Quality": 7.5,
+        "Scalability & Performance": 8,
+        "Support & Community": 7
+      },
+      "verdict": "ThoughtSpot revolutionizes data interaction by allowing users to simply search their data in plain English, instantly generating charts and insights without needing to build reports manually.",
+      "verdict_short": "Google-like search for your company data, powered by AI.",
+      "praise": "The search-first interface is a game-changer for user adoption, dramatically lowering the barrier for non-technical users to get answers from data.",
+      "praise_short": "Search interface makes data accessible to everyone.",
+      "criticism": "It is an expensive solution that requires significant upfront data modeling and setup to work effectively, placing it out of reach for many smaller businesses.",
+      "criticism_short": "High cost and requires significant initial data setup.",
+      "sources_pending": [
+        "ThoughtSpot Documentation",
+        "Gartner Peer Insights",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Snowflake",
+        "Databricks",
+        "AWS Redshift",
+        "Google BigQuery",
+        "SAP",
+        "Teradata"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 20,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Klipfolio",
+      "url": "https://www.klipfolio.com/",
+      "founded": 2001,
+      "hq": "Ottawa, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Teams that need to build and display real-time business dashboards on TVs and monitors around the office.",
+      "best_for_short": "Best for KPI dashboards",
+      "pricing_band": "$$ ($100 to $500/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 7.5,
+        "Pricing & Affordability": 8,
+        "Integration & Data Connectivity": 8.2,
+        "Visualization & Reporting Quality": 7.2,
+        "Scalability & Performance": 6.8,
+        "Support & Community": 7.1
+      },
+      "verdict": "Klipfolio specializes in creating clean, easy-to-understand KPI dashboards that pull data from a huge variety of cloud services, making it perfect for monitoring business health in real-time.",
+      "verdict_short": "Specializes in building and displaying real-time KPI dashboards.",
+      "praise": "Its library of pre-built visualizations and connectors to hundreds of services allows teams to get dashboards up and running very quickly.",
+      "praise_short": "Quick setup with pre-built connectors and visualizations.",
+      "criticism": "The data modeling and formula language can be complex and less intuitive than modern drag-and-drop interfaces, requiring a steeper learning curve for custom metrics.",
+      "criticism_short": "Custom metrics require learning a complex formula language.",
+      "sources_pending": [
+        "Klipfolio Knowledge Base",
+        "G2 Klipfolio Reviews",
+        "Capterra Klipfolio Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 100,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "HubSpot",
+        "Salesforce",
+        "Xero",
+        "Facebook Ads",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Preset",
+      "url": "https://preset.io/",
+      "founded": 2019,
+      "hq": "San Mateo, USA",
+      "team_size_band": "51-200",
+      "best_for": "Tech-savvy SMBs and startups looking for a powerful, open-source-based, and cost-effective BI tool who are comfortable with a more technical setup.",
+      "best_for_short": "Managed open-source BI",
+      "pricing_band": "$$ ($0 to $20/user/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Ease of Use & Learning Curve": 6.5,
+        "Pricing & Affordability": 9,
+        "Integration & Data Connectivity": 7.5,
+        "Visualization & Reporting Quality": 7.8,
+        "Scalability & Performance": 7,
+        "Support & Community": 6
+      },
+      "verdict": "Preset is a managed cloud service for Apache Superset, a powerful open-source BI platform, offering the flexibility and power of open-source without the headache of self-hosting.",
+      "verdict_short": "A cost-effective, managed cloud version of the powerful open-source Apache Superset.",
+      "praise": "It provides a modern, feature-rich BI experience, including a no-code chart builder and a SQL editor, at a fraction of the cost of proprietary enterprise tools.",
+      "praise_short": "Enterprise-grade features at an open-source price point.",
+      "criticism": "As a younger platform based on an open-source project, it can have rough edges, a steeper learning curve, and less polished support compared to established market leaders.",
+      "criticism_short": "Steeper learning curve and less polished than market leaders.",
+      "sources_pending": [
+        "Preset Documentation",
+        "Apache Superset Project",
+        "G2 Preset Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Snowflake",
+        "Google BigQuery",
+        "PostgreSQL",
+        "MySQL",
+        "Databricks",
+        "ClickHouse"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

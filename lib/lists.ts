@@ -52,6 +52,8 @@ import customerSuccessSoftware from "@/data/customer-success-software.json";
 import contractManagementSoftware from "@/data/contract-management-software.json";
 import proposalSoftware from "@/data/proposal-software.json";
 import knowledgeBaseSoftware from "@/data/knowledge-base-software.json";
+import projectManagementAgencies from "@/data/project-management-agencies.json";
+import businessIntelligenceTools from "@/data/business-intelligence-tools.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -131,6 +133,8 @@ const REGISTRY: Record<string, ListData> = {
   [contractManagementSoftware.slug]: contractManagementSoftware as unknown as ListData,
   [proposalSoftware.slug]: proposalSoftware as unknown as ListData,
   [knowledgeBaseSoftware.slug]: knowledgeBaseSoftware as unknown as ListData,
+  [projectManagementAgencies.slug]: projectManagementAgencies as unknown as ListData,
+  [businessIntelligenceTools.slug]: businessIntelligenceTools as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
