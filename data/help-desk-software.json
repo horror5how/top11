@@ -1,0 +1,877 @@
+{
+  "slug": "help-desk-software",
+  "title": "The 11 Best Help Desk Software",
+  "subtitle": "A ranked list of the top platforms for managing customer inquiries, tracking tickets, and improving support team efficiency.",
+  "vertical": "Support · Ticketing",
+  "audience": "Support teams managing customer tickets",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-08",
+  "last_verified": "2026-06-08",
+  "next_review": "2026-09-06",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Customer Support",
+  "changelog": [
+    {
+      "date": "2026-06-08",
+      "text": "Initial publication. Methodology v1.0 weights Ticketing & Workflow (25%), Multi-channel Support (20%), Integrations (20%), Reporting (15%), UX (10%), and Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best help desk software is Zendesk for its unmatched scalability and feature depth, followed by Freshdesk for its balance of power and value, and HubSpot Service Hub for its seamless CRM integration.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-08",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Ticketing & Workflow Automation",
+        "weight": 25,
+        "description": "Effectiveness of core ticket management, routing rules, SLAs, macros, and automation capabilities."
+      },
+      {
+        "name": "Multi-channel Support",
+        "weight": 20,
+        "description": "Ability to consolidate and manage customer conversations from various channels like email, chat, phone, social media, and web forms."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of the app marketplace and native integrations with other business tools (CRM, e-commerce, etc.)."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 15,
+        "description": "Quality of dashboards and reports for tracking agent performance, customer satisfaction, and support KPIs."
+      },
+      {
+        "name": "User Experience & Ease of Use",
+        "weight": 10,
+        "description": "Intuiveness of the agent interface, ease of setup, and overall user-friendliness for both admins and agents."
+      },
+      {
+        "name": "Scalability & Enterprise Features",
+        "weight": 10,
+        "description": "Ability to support growing teams and large enterprises with features like advanced security, custom roles, and sandboxing."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Enterprise",
+    "SaaS",
+    "E-commerce",
+    "ITSM",
+    "Customer Support"
+  ],
+  "problem_tags": [
+    "ticket management",
+    "customer communication",
+    "support automation",
+    "team collaboration",
+    "SLA tracking"
+  ],
+  "query_intents": [
+    "best help desk software",
+    "Zendesk alternatives",
+    "customer support ticketing system",
+    "free help desk software",
+    "help desk software for small business"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "scaling support operations",
+        "omnichannel support complexity"
+      ],
+      "personas": [
+        "Enterprise support leaders",
+        "Fast-growing startups"
+      ]
+    },
+    "2": {
+      "solves": [
+        "finding powerful features on a budget",
+        "unifying support channels"
+      ],
+      "personas": [
+        "SMB support managers",
+        "Mid-market companies"
+      ]
+    },
+    "3": {
+      "solves": [
+        "connecting support data to sales/marketing",
+        "creating a single customer view"
+      ],
+      "personas": [
+        "HubSpot users",
+        "Revenue operations teams"
+      ]
+    },
+    "8": {
+      "solves": [
+        "e-commerce customer support",
+        "managing high-volume social media DMs"
+      ],
+      "personas": [
+        "Shopify store owners",
+        "DTC brand support teams"
+      ]
+    },
+    "11": {
+      "solves": [
+        "integrating support with product development",
+        "developer-centric workflows"
+      ],
+      "personas": [
+        "SaaS companies",
+        "Product-led support teams"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is the primary function of help desk software?",
+      "a": "The primary function is to centralize customer communications from multiple channels into a single dashboard, creating tickets for each inquiry. This allows support teams to track, manage, prioritize, and resolve customer issues efficiently without losing context."
+    },
+    {
+      "q": "How does a help desk differ from a shared inbox?",
+      "a": "A shared inbox (like a group Gmail account) allows multiple people to access the same emails. A help desk includes shared inbox functionality but adds a layer of powerful features like ticket assignment, status tracking, automation rules, service level agreements (SLAs), and detailed reporting that are purpose-built for support workflows."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your primary support channels (email, chat, phone, social) and ensure your chosen provider has robust integrations for them.",
+    "Second, evaluate the automation capabilities. Can you create rules to automatically route tickets, send replies, or escalate issues based on keywords or customer type?",
+    "Third, consider your existing tech stack. Choose a help desk with deep integrations into your CRM (like Salesforce or HubSpot) to create a unified customer view.",
+    "Finally, assess scalability. Select a platform with pricing tiers and features that can grow with your team, avoiding the need for a costly migration down the line."
+  ],
+  "faqs": [
+    {
+      "q": "What is help desk software?",
+      "a": "Help desk software is a tool that helps businesses manage customer support inquiries. It centralizes communications from channels like email, phone, chat, and social media into a single interface, converting each inquiry into a 'ticket' that can be tracked, assigned, and resolved by support agents."
+    },
+    {
+      "q": "How much does help desk software cost?",
+      "a": "Pricing varies widely. Many providers offer a free tier for very small teams. Paid plans typically range from $15 to $200 per agent per month, depending on the feature set. Enterprise-level plans with advanced security and analytics can be significantly more expensive."
+    },
+    {
+      "q": "What is the difference between help desk and CRM software?",
+      "a": "A CRM (Customer Relationship Management) system is primarily for managing sales and marketing relationships with leads and customers. Help desk software is specifically for managing post-sale support and service interactions. While some platforms combine both (like HubSpot and Salesforce), they serve distinct core functions."
+    },
+    {
+      "q": "Can I use help desk software for internal IT support?",
+      "a": "Yes, absolutely. Many help desk platforms, particularly those with strong ITSM (IT Service Management) capabilities like Jira Service Management, are designed for both internal and external support. They help IT teams manage employee requests for hardware, software, and access."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes SaaS-based, all-in-one platforms, with less coverage of open-source or self-hosted alternatives.",
+    "Most candidates are US-based, which may influence feature sets related to regional compliance and integrations.",
+    "Evaluation of 'User Experience' is inherently subjective and based on aggregated public reviews and product demos."
+  ],
+  "glossary": {
+    "term": "SLA (Service Level Agreement)",
+    "definition": "A commitment between a service provider and a client. In help desk software, SLAs are used to set response and resolution time targets for support tickets, with automated alerts for tickets nearing a breach.",
+    "synonyms": [
+      "Service Level Target",
+      "SLT"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Zendesk",
+      "url": "https://www.zendesk.com",
+      "founded": 2007,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Enterprises and scaling companies needing a powerful, feature-rich, and highly customizable omnichannel support platform.",
+      "best_for_short": "Scalable omnichannel support",
+      "pricing_band": "$$$ ($49 to $215+/agent/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 9.4,
+        "Multi-channel Support": 9.3,
+        "Integrations & Ecosystem": 9.4,
+        "Reporting & Analytics": 9.2,
+        "User Experience & Ease of Use": 8.8,
+        "Scalability & Enterprise Features": 9.5
+      },
+      "verdict": "Zendesk ranks first because it offers the most comprehensive and scalable solution on the market, with an unparalleled ecosystem of apps and enterprise-grade features that can support any team size.",
+      "verdict_short": "The most powerful and scalable enterprise-grade help desk with an unmatched app ecosystem.",
+      "praise": "Its workflow automation engine, 'Triggers' and 'Automations', is exceptionally powerful for creating complex, multi-step support processes.",
+      "praise_short": "Extremely powerful and flexible workflow automation.",
+      "criticism": "The platform can be complex to configure and its pricing structure, especially for advanced features and add-ons, is among the highest in the industry.",
+      "criticism_short": "Complex setup and high cost of ownership.",
+      "sources_pending": [
+        "Zendesk Suite Pricing Page",
+        "G2 Crowd Reviews for Zendesk",
+        "Forrester Wave: Customer Service Solutions"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 215,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Jira",
+        "Slack",
+        "Shopify",
+        "Microsoft Teams",
+        "HubSpot"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Freshdesk",
+      "url": "https://www.freshworks.com/freshdesk/",
+      "founded": 2010,
+      "hq": "San Mateo, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Small to mid-market businesses seeking a feature-rich alternative to Zendesk with more transparent pricing and a generous free tier.",
+      "best_for_short": "Best overall value",
+      "pricing_band": "$$ ($0 to $79/agent/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 9.2,
+        "Multi-channel Support": 9.1,
+        "Integrations & Ecosystem": 8.9,
+        "Reporting & Analytics": 9,
+        "User Experience & Ease of Use": 9.3,
+        "Scalability & Enterprise Features": 8.8
+      },
+      "verdict": "Freshdesk secures the second spot by offering a powerful, user-friendly feature set that rivals top competitors at a more accessible price point, making it the best value proposition in the market.",
+      "verdict_short": "A powerful, user-friendly platform offering the best balance of features and affordability.",
+      "praise": "Its intuitive user interface and straightforward setup process allow teams to get up and running much faster than more complex enterprise systems.",
+      "praise_short": "Very intuitive and easy to set up.",
+      "criticism": "While its app marketplace is extensive, the depth and quality of some third-party integrations can lag behind Zendesk's ecosystem.",
+      "criticism_short": "Integrations can be less robust than competitors.",
+      "sources_pending": [
+        "Freshdesk Pricing Page",
+        "Gartner Peer Insights for Freshdesk",
+        "Capterra User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 79,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Jira",
+        "Salesforce",
+        "Shopify",
+        "Mailchimp",
+        "Stripe"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "HubSpot Service Hub",
+      "url": "https://www.hubspot.com/products/service",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Businesses already using the HubSpot ecosystem who want to create a unified customer view across marketing, sales, and support.",
+      "best_for_short": "Best for HubSpot users",
+      "pricing_band": "$$ ($0 to $130/user/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8.7,
+        "Multi-channel Support": 8.8,
+        "Integrations & Ecosystem": 9.4,
+        "Reporting & Analytics": 9,
+        "User Experience & Ease of Use": 9.5,
+        "Scalability & Enterprise Features": 8.2
+      },
+      "verdict": "HubSpot Service Hub is ranked third for its unbeatable integration with its own market-leading CRM, providing a seamless flow of information between support, sales, and marketing teams.",
+      "verdict_short": "Unbeatable integration with HubSpot's CRM for a unified view of the customer journey.",
+      "praise": "The platform's user experience is exceptionally clean and intuitive, making it one of the easiest help desks for new agents to learn.",
+      "praise_short": "Superb user experience and ease of use.",
+      "criticism": "As a standalone help desk, its ticketing and advanced automation features are less mature than dedicated rivals like Zendesk or Freshdesk.",
+      "criticism_short": "Less mature ticketing features than specialists.",
+      "sources_pending": [
+        "HubSpot Service Hub Pricing",
+        "PCMag Review of Service Hub",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 130,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "HubSpot CRM (Native)",
+        "Salesforce",
+        "Slack",
+        "Jira",
+        "Shopify",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Intercom",
+      "url": "https://www.intercom.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Companies focused on proactive, conversational support and engagement, particularly those with a strong web or in-app presence.",
+      "best_for_short": "Proactive conversational support",
+      "pricing_band": "$$$ ($39 to $150+/seat/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8.5,
+        "Multi-channel Support": 9.2,
+        "Integrations & Ecosystem": 8.6,
+        "Reporting & Analytics": 8.4,
+        "User Experience & Ease of Use": 9.1,
+        "Scalability & Enterprise Features": 8.3
+      },
+      "verdict": "Intercom earns its position by being the leader in proactive and conversational support, enabling businesses to engage customers with targeted messages, chatbots, and product tours directly within their app or website.",
+      "verdict_short": "The leader in proactive, in-app messaging and AI-powered conversational support.",
+      "praise": "Its AI chatbot, Fin, is one of the most advanced in the market, capable of resolving a significant portion of queries without human intervention.",
+      "praise_short": "Market-leading AI chatbot capabilities.",
+      "criticism": "The pricing model can be complex and expensive, often based on contacts or interactions, which can be difficult to predict and budget for.",
+      "criticism_short": "Complex and potentially expensive pricing model.",
+      "sources_pending": [
+        "Intercom Pricing Page",
+        "G2 Reviews for Intercom",
+        "SaaS Mag Intercom Profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 150,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Jira",
+        "Stripe",
+        "Shopify"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Salesforce Service Cloud",
+      "url": "https://www.salesforce.com/products/service-cloud/overview/",
+      "founded": 1999,
+      "hq": "San Francisco, USA",
+      "team_size_band": "10001+",
+      "best_for": "Large enterprises that are heavily invested in the Salesforce ecosystem and require deep CRM integration and extensive customization.",
+      "best_for_short": "Deep Salesforce CRM integration",
+      "pricing_band": "$$$$ ($25 to $300/user/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8.8,
+        "Multi-channel Support": 8.5,
+        "Integrations & Ecosystem": 9.5,
+        "Reporting & Analytics": 9.2,
+        "User Experience & Ease of Use": 7,
+        "Scalability & Enterprise Features": 9.4
+      },
+      "verdict": "Salesforce Service Cloud makes the top five due to its unparalleled native integration with the world's leading CRM, offering a 360-degree customer view that is critical for large, complex enterprise operations.",
+      "verdict_short": "The enterprise standard for support when deeply embedded in the Salesforce ecosystem.",
+      "praise": "The platform's customization capabilities are virtually limitless, allowing enterprises to tailor every aspect of the service workflow to their specific needs.",
+      "praise_short": "Extremely powerful customization and reporting.",
+      "criticism": "Service Cloud is notoriously complex and expensive, requiring significant investment in implementation, customization, and ongoing administration.",
+      "criticism_short": "Very complex, expensive, and requires specialists.",
+      "sources_pending": [
+        "Salesforce Service Cloud Pricing",
+        "Gartner Magic Quadrant for CRM Customer Engagement",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Salesforce (Native)",
+        "AppExchange Marketplace",
+        "Slack",
+        "AWS",
+        "DocuSign"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Zoho Desk",
+      "url": "https://www.zoho.com/desk/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10001+",
+      "best_for": "Businesses of all sizes, especially those using other Zoho products, looking for a powerful, context-aware help desk at an unbeatable price.",
+      "best_for_short": "Best for Zoho Suite users",
+      "pricing_band": "$ ($0 to $40/agent/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8.3,
+        "Multi-channel Support": 8.1,
+        "Integrations & Ecosystem": 8.5,
+        "Reporting & Analytics": 8,
+        "User Experience & Ease of Use": 8.4,
+        "Scalability & Enterprise Features": 7.9
+      },
+      "verdict": "Zoho Desk stands out for providing an impressive depth of features, including AI and context-aware support, at a price point that is significantly lower than its direct competitors.",
+      "verdict_short": "An exceptionally feature-rich help desk at a highly competitive price point.",
+      "praise": "Its tight integration with the broader Zoho ecosystem (CRM, Analytics, Books) creates a powerful, unified business operating system.",
+      "praise_short": "Deep integration with the Zoho software suite.",
+      "criticism": "The user interface, while functional, can feel dated and less polished compared to more modern platforms like HubSpot or Intercom.",
+      "criticism_short": "User interface feels less modern.",
+      "sources_pending": [
+        "Zoho Desk Pricing",
+        "G2 Reviews for Zoho Desk",
+        "Nucleus Research Value Matrix"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 40,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Zoho CRM (Native)",
+        "Slack",
+        "Jira",
+        "Salesforce",
+        "Microsoft Teams"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Help Scout",
+      "url": "https://www.helpscout.com",
+      "founded": 2011,
+      "hq": "Boston, USA",
+      "team_size_band": "101-250",
+      "best_for": "Small to medium-sized businesses that prioritize a human touch in their customer service and want a simple, clutter-free interface.",
+      "best_for_short": "Simple, human-centric support",
+      "pricing_band": "$$ ($20 to $65/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 7.8,
+        "Multi-channel Support": 7.9,
+        "Integrations & Ecosystem": 7.7,
+        "Reporting & Analytics": 7.8,
+        "User Experience & Ease of Use": 9.2,
+        "Scalability & Enterprise Features": 7.5
+      },
+      "verdict": "Help Scout is ranked for its deliberate focus on simplicity and human-centric support, offering a shared inbox that feels like a regular email client but is backed by powerful help desk features.",
+      "verdict_short": "A simple, elegant help desk focused on personal, human-to-human customer conversations.",
+      "praise": "Its 'Docs' knowledge base feature is beautifully designed and seamlessly integrated, making it easy to create and maintain self-service content.",
+      "praise_short": "Excellent integrated knowledge base tool.",
+      "criticism": "It intentionally lacks some of the complex automation and enterprise-level features found in Zendesk or Freshdesk, making it less suitable for very large or complex support operations.",
+      "criticism_short": "Lacks advanced enterprise features and automation.",
+      "sources_pending": [
+        "Help Scout Pricing",
+        "Capterra Reviews for Help Scout",
+        "Help Scout Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 65,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "Slack",
+        "Jira",
+        "Shopify",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 8,
+      "name": "Gorgias",
+      "url": "https://www.gorgias.com",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "251-500",
+      "best_for": "E-commerce businesses, particularly those on Shopify, Shopify Plus, and BigCommerce, that need deep platform integration.",
+      "best_for_short": "Best for e-commerce",
+      "pricing_band": "$$$ ($50 to $750+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8,
+        "Multi-channel Support": 8.5,
+        "Integrations & Ecosystem": 8.2,
+        "Reporting & Analytics": 7.5,
+        "User Experience & Ease of Use": 8,
+        "Scalability & Enterprise Features": 6.8
+      },
+      "verdict": "Gorgias earns its high rank by being the undisputed leader for e-commerce support, offering unparalleled, deep integrations with platforms like Shopify that allow agents to view order data and take actions directly within the help desk.",
+      "verdict_short": "The definitive help desk for e-commerce, with deep Shopify and Magento integration.",
+      "praise": "The ability to modify orders, issue refunds, and see customer LTV from within the ticket view is a game-changer for e-commerce support efficiency.",
+      "praise_short": "Modify e-commerce orders inside the help desk.",
+      "criticism": "Its ticket-based pricing model can become expensive for businesses with high support volume, and its feature set is less generalized for non-e-commerce use cases.",
+      "criticism_short": "Ticket-based pricing can be costly; niche focus.",
+      "sources_pending": [
+        "Gorgias Pricing",
+        "Shopify App Store Reviews",
+        "G2 Reviews for Gorgias"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 750,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify (Native)",
+        "BigCommerce (Native)",
+        "Magento (Native)",
+        "Klaviyo",
+        "Yotpo",
+        "Recharge"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Jira Service Management",
+      "url": "https://www.atlassian.com/software/jira/service-management",
+      "founded": 2002,
+      "hq": "Sydney, Australia",
+      "team_size_band": "5001-10000",
+      "best_for": "IT and engineering teams that need a help desk with strong ITSM capabilities and native integration with Jira Software.",
+      "best_for_short": "Best for IT & engineering teams",
+      "pricing_band": "$$ ($0 to $49/agent/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 8.2,
+        "Multi-channel Support": 6.8,
+        "Integrations & Ecosystem": 8,
+        "Reporting & Analytics": 7.7,
+        "User Experience & Ease of Use": 7.2,
+        "Scalability & Enterprise Features": 8.1
+      },
+      "verdict": "Jira Service Management is the best choice for technical teams because it seamlessly connects IT support and development workflows, allowing for easy escalation of tickets to the engineering backlog within the same Atlassian ecosystem.",
+      "verdict_short": "The top choice for ITSM and teams needing tight integration with developer workflows.",
+      "praise": "It offers robust, ITIL-certified processes for incident, problem, and change management out of the box.",
+      "praise_short": "Strong, out-of-the-box ITSM capabilities.",
+      "criticism": "The platform is overly complex and less intuitive for non-technical, external customer support use cases compared to customer-centric tools like Help Scout or Freshdesk.",
+      "criticism_short": "Overly complex for non-IT use cases.",
+      "sources_pending": [
+        "Jira Service Management Pricing",
+        "Forrester Wave: Enterprise Service Management",
+        "Atlassian Community Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Jira Software (Native)",
+        "Confluence (Native)",
+        "Slack",
+        "Microsoft Teams",
+        "AWS"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Front",
+      "url": "https://www.front.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Teams that need to manage high-volume shared inboxes (e.g., support@, sales@) with the context of a help desk and CRM.",
+      "best_for_short": "Collaborative shared inbox",
+      "pricing_band": "$$$ ($59 to $229/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 7.5,
+        "Multi-channel Support": 7.8,
+        "Integrations & Ecosystem": 7.6,
+        "Reporting & Analytics": 7,
+        "User Experience & Ease of Use": 8.5,
+        "Scalability & Enterprise Features": 6.5
+      },
+      "verdict": "Front carves out its niche by reimagining the shared inbox as a collaborative customer communication hub, blending email with internal comments and CRM data for unparalleled context.",
+      "verdict_short": "A powerful, collaborative shared inbox that brings CRM context directly into email.",
+      "praise": "Its ability to have internal conversations on the same thread as the customer email, without the customer seeing them, is exceptional for team collaboration.",
+      "praise_short": "Excellent internal collaboration on email threads.",
+      "criticism": "It is significantly more expensive than other shared inbox tools and lacks the advanced, dedicated ticketing features of a full-fledged help desk.",
+      "criticism_short": "Expensive and lacks deep ticketing features.",
+      "sources_pending": [
+        "Front Pricing Page",
+        "G2 Reviews for Front",
+        "TechCrunch articles on Front"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 229,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Jira",
+        "Asana",
+        "Shopify",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 2,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Linear",
+      "url": "https://linear.app",
+      "founded": 2019,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Modern software companies that want to manage customer feedback and bug reports in the same system their developers use for project tracking.",
+      "best_for_short": "Developer-centric issue tracking",
+      "pricing_band": "$ ($0 to $14/user/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Ticketing & Workflow Automation": 7.5,
+        "Multi-channel Support": 6,
+        "Integrations & Ecosystem": 7.8,
+        "Reporting & Analytics": 6.5,
+        "User Experience & Ease of Use": 8.8,
+        "Scalability & Enterprise Features": 6.2
+      },
+      "verdict": "Our wildcard pick, Linear, represents a new breed of help desk where customer support is deeply integrated into product development; it's an issue tracker co-opted for support, perfect for product-led companies.",
+      "verdict_short": "A developer-first issue tracker used as a hybrid tool for product-aligned support.",
+      "praise": "The speed and keyboard-driven interface of the application are second to none, making it incredibly efficient for technically-savvy users.",
+      "praise_short": "Blazingly fast, keyboard-driven interface.",
+      "criticism": "It is not a traditional help desk and lacks fundamental features like SLAs, robust multi-channel support (e.g., phone, chat), and reporting tailored for support managers.",
+      "criticism_short": "Lacks core help desk features like SLAs.",
+      "sources_pending": [
+        "Linear Pricing Page",
+        "Linear Blog",
+        "Twitter/X user testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-08",
+        "summary": "No material public risk signals as of 2026-06-08.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 14,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "GitHub",
+        "GitLab",
+        "Slack",
+        "Figma",
+        "Sentry",
+        "Zendesk"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

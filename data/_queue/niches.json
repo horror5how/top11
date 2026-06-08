@@ -8,14 +8,6 @@
   },
   "pending": [
     {
-      "slug": "cloud-storage-business",
-      "title": "The 11 Best Cloud Storage Solutions for Business",
-      "vertical": "Infrastructure · Cloud Storage",
-      "audience": "Small business owners and IT managers choosing business cloud storage (Dropbox vs Box vs Google Drive Business)",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "fitness-studio-software",
       "title": "The 11 Best Fitness Studio Management Software",
       "vertical": "Fitness · Studio Software",
@@ -182,14 +174,6 @@
       "audience": "L&D leaders rolling out company training programs",
       "candidate_pool_size": 30,
       "priority": 3
-    },
-    {
-      "slug": "help-desk-software",
-      "title": "The 11 Best Help Desk Software",
-      "vertical": "Support · Ticketing",
-      "audience": "Support teams managing customer tickets",
-      "candidate_pool_size": 30,
-      "priority": 2
     },
     {
       "slug": "live-chat-software",
@@ -471,7 +455,9 @@
     "proposal-software",
     "knowledge-base-software",
     "project-management-agencies",
-    "business-intelligence-tools"
+    "business-intelligence-tools",
+    "cloud-storage-business",
+    "help-desk-software"
   ],
   "skipped": []
 }
