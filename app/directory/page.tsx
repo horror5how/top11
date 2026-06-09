@@ -4,6 +4,7 @@ import { getList, listSlugs } from "@/lib/lists";
 import { SITE_URL } from "@/lib/schema";
 import DirectorySearch from "@/app/components/landing/DirectorySearch";
 import Reveal from "@/app/components/landing/Reveal";
+import BrowseEverything from "@/app/components/BrowseEverything";
 
 export const metadata: Metadata = {
   title: "Directory · Mission Control",
@@ -188,6 +189,8 @@ export default function Directory() {
           </div>
         </Reveal>
       </section>
+
+      <BrowseEverything />
 
       <footer className="relative z-10 border-t border-white/8 mt-8">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row justify-between gap-3 text-sm text-white/40">
