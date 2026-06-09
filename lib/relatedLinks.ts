@@ -20,7 +20,10 @@ const VERTICAL_CLUSTERS: string[][] = [
     "llm-evaluation-platforms", "prompt-engineering-tools", "rag-frameworks",
     "vector-databases",
   ],
-  ["ai-meeting-assistants", "ai-sales-tools", "ai-customer-support", "video-conferencing-software"],
+  [
+    "ai-meeting-assistants", "ai-sales-tools", "ai-customer-support",
+    "video-conferencing-software", "webinar-software",
+  ],
   [
     "dental-crm", "legal-crm", "real-estate-crm",
     "sales-crm-software", "customer-success-software",
@@ -28,6 +31,7 @@ const VERTICAL_CLUSTERS: string[][] = [
   [
     "smb-payroll", "smb-hris", "no-code-platforms",
     "construction-project-management", "hr-software-small-business",
+    "applicant-tracking-systems",
   ],
   // Marketing & growth cluster
   [
@@ -41,15 +45,21 @@ const VERTICAL_CLUSTERS: string[][] = [
     "customer-support-software", "cybersecurity-software-smb",
     "project-management-software", "task-management-software",
     "knowledge-base-software", "document-management-software",
+    "help-desk-software", "live-chat-software",
+    "project-management-agencies", "business-intelligence-tools",
   ],
   // Finance & compliance cluster
   [
     "cap-table-software", "treasury-management-startups",
     "compliance-automation", "time-tracking-software",
     "expense-management-software", "contract-management-software",
+    "esignature-software",
   ],
   // Commerce & infrastructure cluster
-  ["ecommerce-platform", "web-hosting-small-business"],
+  [
+    "ecommerce-platform", "web-hosting-small-business",
+    "cloud-storage-business", "appointment-scheduling-software",
+  ],
 ];
 
 function peerSlugs(slug: string): string[] {
