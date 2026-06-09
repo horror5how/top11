@@ -256,28 +256,12 @@
       "priority": 3
     },
     {
-      "slug": "seo-rank-trackers",
-      "title": "The 11 Best SEO Rank Tracking Tools",
-      "vertical": "Marketing · SEO",
-      "audience": "SEOs tracking keyword positions",
-      "candidate_pool_size": 25,
-      "priority": 2
-    },
-    {
       "slug": "webinar-platforms",
       "title": "The 11 Best Webinar Platforms",
       "vertical": "Marketing · Webinars",
       "audience": "Teams running webinars and virtual events",
       "candidate_pool_size": 25,
       "priority": 3
-    },
-    {
-      "slug": "online-course-platforms",
-      "title": "The 11 Best Online Course Platforms",
-      "vertical": "Education · Creators",
-      "audience": "Creators selling online courses",
-      "candidate_pool_size": 30,
-      "priority": 2
     },
     {
       "slug": "membership-software",
@@ -449,7 +433,9 @@
     "inventory-management-software",
     "subscription-billing-software",
     "payment-gateways",
-    "product-analytics-tools"
+    "product-analytics-tools",
+    "seo-rank-trackers",
+    "online-course-platforms"
   ],
   "skipped": []
 }

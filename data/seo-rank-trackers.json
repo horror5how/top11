@@ -1,0 +1,799 @@
+{
+  "slug": "seo-rank-trackers",
+  "title": "The 11 Best SEO Rank Tracking Tools",
+  "subtitle": "A definitive ranking of tools that provide accurate, timely, and actionable keyword position data for SEO professionals.",
+  "vertical": "Marketing · SEO",
+  "audience": "SEOs tracking keyword positions",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "SEO Software",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Accuracy & Freshness (30%), Feature Set & Scalability (25%), UI/UX & Reporting (20%), Integrations & API (15%), and Value for Money (10%)."
+    }
+  ],
+  "answer_capsule": "The best SEO rank tracking tool is Semrush for its all-in-one suite integration, followed by Ahrefs for data accuracy and SE Ranking for overall value.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Accuracy & Freshness",
+        "weight": 30,
+        "description": "Precision of SERP data across devices and locations, and the frequency of updates (e.g., daily, on-demand)."
+      },
+      {
+        "name": "Feature Set & Scalability",
+        "weight": 25,
+        "description": "Breadth of features including competitor tracking, SERP feature analysis (e.g., featured snippets), local/mobile tracking, and ability to handle large keyword volumes."
+      },
+      {
+        "name": "UI/UX & Reporting",
+        "weight": 20,
+        "description": "Ease of use, clarity of data visualization, and the quality and customizability of automated and client-facing reports."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 15,
+        "description": "Availability and quality of an API, and native integrations with tools like Google Analytics, Search Console, and Looker Studio."
+      },
+      {
+        "name": "Value for Money",
+        "weight": 10,
+        "description": "The ratio of cost (per keyword/update) to the quality and breadth of features provided."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Rank Tracking",
+    "Keyword Monitoring",
+    "SERP Analysis",
+    "SEO Analytics",
+    "Competitor Tracking"
+  ],
+  "problem_tags": [
+    "Inaccurate Ranking Data",
+    "Manual SERP Checking",
+    "Competitor Blind Spots",
+    "Reporting Inefficiency",
+    "Measuring SEO ROI"
+  ],
+  "query_intents": [
+    "best rank tracker",
+    "semrush vs ahrefs rank tracking",
+    "accurate keyword rank checker",
+    "local seo tracking tool",
+    "serp tracking software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Unified SEO workflow",
+        "Comprehensive competitor analysis"
+      ],
+      "personas": [
+        "In-house SEO Manager",
+        "Marketing Generalist"
+      ]
+    },
+    "2": {
+      "solves": [
+        "High-accuracy data needs",
+        "Historical performance analysis"
+      ],
+      "personas": [
+        "Data-driven SEO Specialist",
+        "Content Strategist"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Budget constraints",
+        "Agency client reporting"
+      ],
+      "personas": [
+        "SEO Agency",
+        "Small Business Owner"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Need for on-demand updates",
+        "Pure-play rank tracking"
+      ],
+      "personas": [
+        "Agency SEO",
+        "Performance Marketer"
+      ]
+    },
+    "11": {
+      "solves": [
+        "API-first data needs",
+        "Low-cost bulk checking"
+      ],
+      "personas": [
+        "SEO Developer",
+        "Startup Founder"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.26,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What to look for in a rank tracker?",
+      "a": "Prioritize accuracy, update frequency (daily is standard), and the ability to track keywords across different locations and devices (desktop vs. mobile). Also consider its reporting features and integration with tools like Google Search Console."
+    },
+    {
+      "q": "How much should I pay?",
+      "a": "Pricing is typically based on the number of keywords tracked and the frequency of updates. Expect to pay between $50-$150/month for a robust plan suitable for a small to medium-sized business. Agency plans can be significantly more."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your keyword volume: Choose a plan that comfortably fits the number of keywords you need to track without forcing expensive upgrades.",
+    "Define your geography: If you're a local business, ensure the tool has strong support for city or postal-code level tracking.",
+    "Evaluate reporting needs: If you need to send reports to clients or stakeholders, look for tools with white-labeling and automated scheduling.",
+    "Consider the ecosystem: If you already use an SEO suite like Semrush or Ahrefs, using their built-in tracker can streamline your workflow."
+  ],
+  "faqs": [
+    {
+      "q": "What is an SEO rank tracking tool?",
+      "a": "An SEO rank tracking tool (or SERP tracker) is a software application that automatically monitors a website's search engine ranking for a specific set of keywords over time. It eliminates the need for manual, biased searching and provides historical data on performance."
+    },
+    {
+      "q": "How often should I check my keyword rankings?",
+      "a": "For most businesses, daily tracking is the industry standard and sufficient to catch significant fluctuations. For highly competitive terms or during major algorithm updates, on-demand checking can be useful, a feature offered by specialized tools like AccuRanker."
+    },
+    {
+      "q": "Are free rank trackers accurate?",
+      "a": "Free tools can be useful for spot-checking a small number of keywords, but they often lack the accuracy, historical data, and features of paid tools. They may not properly account for localization and personalization, leading to unreliable results for professional use."
+    },
+    {
+      "q": "What's the difference between local and national rank tracking?",
+      "a": "National rank tracking shows your average position across a country, while local rank tracking monitors your position from a specific geographic location (like a city, state, or ZIP code). This is critical for businesses that serve specific geographic areas, like plumbers or restaurants."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-tier tools reviewed are part of larger, more expensive SEO suites; standalone 'pure-play' rank trackers are less common but often offer better value for that specific task.",
+    "Pricing can vary dramatically based on the number of keywords tracked and the frequency of ranking updates. The listed prices are for entry-level business plans.",
+    "Accuracy can be affected by SERP volatility and personalization. All scores are based on performance for standard organic results, not specialized SERP features unless noted."
+  ],
+  "glossary": {
+    "term": "SERP",
+    "definition": "Search Engine Results Page. The page displayed by a search engine in response to a query by a searcher.",
+    "synonyms": [
+      "Search Results",
+      "Google Results"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Semrush",
+      "url": "https://www.semrush.com",
+      "founded": 2008,
+      "hq": "Boston, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Teams seeking an all-in-one SEO platform where rank tracking is deeply integrated with keyword research, site audits, and competitor analysis.",
+      "best_for_short": "Integrated all-in-one SEO suite",
+      "pricing_band": "$$$ ($129 to $499/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Accuracy & Freshness": 9.2,
+        "Feature Set & Scalability": 9.5,
+        "UI/UX & Reporting": 9,
+        "Integrations & API": 9.8,
+        "Value for Money": 8.5
+      },
+      "verdict": "Semrush's Position Tracking tool is the best overall because it seamlessly integrates best-in-class rank tracking into a comprehensive SEO and marketing suite, providing unparalleled context for ranking data.",
+      "verdict_short": "Best for its deep integration within a complete, powerful SEO and marketing suite.",
+      "praise": "The tool's ability to overlay SERP feature data and connect ranking changes to other SEO activities within one platform is unmatched.",
+      "praise_short": "Unmatched integration with other SEO tools.",
+      "criticism": "The sheer volume of features can be overwhelming for beginners, and it's one of the more expensive options if you only need rank tracking.",
+      "criticism_short": "Overwhelming for beginners and expensive.",
+      "sources_pending": [
+        "Semrush Position Tracking documentation",
+        "G2 Crowd Reviews",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 129.95,
+      "price_max": 499.95,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console",
+        "Looker Studio",
+        "Google Business Profile",
+        "Majestic"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Ahrefs",
+      "url": "https://ahrefs.com",
+      "founded": 2011,
+      "hq": "Singapore",
+      "team_size_band": "51-200",
+      "best_for": "Data-driven SEOs who prioritize ranking accuracy, historical data, and a clean, fast user interface for analysis.",
+      "best_for_short": "Data accuracy and historical analysis",
+      "pricing_band": "$$$ ($99 to $999/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Accuracy & Freshness": 9.5,
+        "Feature Set & Scalability": 9.4,
+        "UI/UX & Reporting": 9.2,
+        "Integrations & API": 8.5,
+        "Value for Money": 8.8
+      },
+      "verdict": "Ahrefs' Rank Tracker earns its high rank for its exceptional data accuracy and comprehensive SERP feature analysis, making it a favorite among technical SEOs.",
+      "verdict_short": "Top choice for data accuracy and detailed SERP feature tracking.",
+      "praise": "The user interface is incredibly fast and intuitive, and its historical ranking charts are among the best for visualizing performance over time.",
+      "praise_short": "Fast, intuitive UI with excellent historical charts.",
+      "criticism": "It lacks some of the broader marketing integrations of Semrush and its credit-based system can be confusing and lead to unexpected costs.",
+      "criticism_short": "Confusing credit system can be costly.",
+      "sources_pending": [
+        "Ahrefs Rank Tracker documentation",
+        "Capterra Reviews",
+        "Search Engine Journal Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "SE Ranking",
+      "url": "https://seranking.com",
+      "founded": 2013,
+      "hq": "London, UK",
+      "team_size_band": "201-500",
+      "best_for": "Agencies and SMBs looking for a powerful, feature-rich rank tracker that offers exceptional value for money compared to the top-tier suites.",
+      "best_for_short": "Best value for agencies & SMBs",
+      "pricing_band": "$$ ($55 to $239/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Accuracy & Freshness": 9,
+        "Feature Set & Scalability": 9,
+        "UI/UX & Reporting": 9.2,
+        "Integrations & API": 8.5,
+        "Value for Money": 9.5
+      },
+      "verdict": "SE Ranking secures a top spot by offering a near-complete feature set that rivals premium competitors at a significantly more accessible price point, making it the best value on the market.",
+      "verdict_short": "The best value, offering premium features at an accessible price.",
+      "praise": "Its reporting capabilities are highly customizable and agency-friendly, including robust white-label options.",
+      "praise_short": "Excellent customizable, white-label reporting.",
+      "criticism": "While highly accurate, the daily update speed can feel slightly slower than some specialized competitors.",
+      "criticism_short": "Data updates can feel slightly sluggish.",
+      "sources_pending": [
+        "SE Ranking website",
+        "G2 Crowd Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 55,
+      "price_max": 239,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console",
+        "Looker Studio",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "AccuRanker",
+      "url": "https://www.accuranker.com",
+      "founded": 2013,
+      "hq": "Aarhus, Denmark",
+      "team_size_band": "51-200",
+      "best_for": "Users who need the absolute fastest and most accurate on-demand ranking data, particularly agencies managing time-sensitive client campaigns.",
+      "best_for_short": "Fastest on-demand updates",
+      "pricing_band": "$$$ ($129 to $839/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Accuracy & Freshness": 9.9,
+        "Feature Set & Scalability": 8.5,
+        "UI/UX & Reporting": 9,
+        "Integrations & API": 9,
+        "Value for Money": 7.8
+      },
+      "verdict": "AccuRanker is the best choice for speed and on-demand accuracy, positioning itself as a specialist 'pure-play' rank tracker that outperforms all-in-one suites in its core function.",
+      "verdict_short": "The fastest, most accurate on-demand rank tracker available.",
+      "praise": "The ability to refresh any keyword's ranking instantly is a game-changer for tracking high-stakes terms or algorithm updates.",
+      "praise_short": "Instant on-demand keyword refresh is invaluable.",
+      "criticism": "It's a specialized tool and lacks the broader keyword research and site audit features found in platforms like Semrush or Ahrefs.",
+      "criticism_short": "Lacks broader SEO suite features.",
+      "sources_pending": [
+        "AccuRanker website",
+        "Capterra Reviews",
+        "SaaSGenius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 839,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console",
+        "Looker Studio",
+        "Adobe Analytics",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "SERPWatcher by Mangools",
+      "url": "https://mangools.com/serpwatcher",
+      "founded": 2014,
+      "hq": "Bratislava, Slovakia",
+      "team_size_band": "11-50",
+      "best_for": "Beginners, bloggers, and small businesses who value a clean, intuitive, and visually appealing user interface above all else.",
+      "best_for_short": "Best user interface for beginners",
+      "pricing_band": "$ ($29 to $79/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Accuracy & Freshness": 8.5,
+        "Feature Set & Scalability": 7.8,
+        "UI/UX & Reporting": 9.8,
+        "Integrations & API": 7.5,
+        "Value for Money": 9.2
+      },
+      "verdict": "SERPWatcher by Mangools is the best option for usability, offering an exceptionally clean and intuitive interface that makes rank tracking accessible without sacrificing core data points.",
+      "verdict_short": "The most user-friendly interface, perfect for beginners and visual analysis.",
+      "praise": "Its 'Dominance Index' provides a single, clear metric to understand your overall keyword performance at a glance.",
+      "praise_short": "Excellent 'Dominance Index' for at-a-glance performance.",
+      "criticism": "It lacks some of the advanced features and scalability required by large agencies or enterprise users, such as deep API access.",
+      "criticism_short": "Lacks advanced features for enterprise scale.",
+      "sources_pending": [
+        "Mangools website",
+        "G2 Crowd Reviews",
+        "WebsitePlanet Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 29.9,
+      "price_max": 79.9,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 10
+    },
+    {
+      "rank": 6,
+      "name": "Nightwatch",
+      "url": "https://nightwatch.io",
+      "founded": 2015,
+      "hq": "Ljubljana, Slovenia",
+      "team_size_band": "11-50",
+      "best_for": "SEOs who need powerful data visualization and segmentation, especially for tracking local and maps-based rankings.",
+      "best_for_short": "Advanced local tracking & visualization",
+      "pricing_band": "$$ ($39 to $299/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Accuracy & Freshness": 8.8,
+        "Feature Set & Scalability": 8.5,
+        "UI/UX & Reporting": 8.2,
+        "Integrations & API": 8,
+        "Value for Money": 7.9
+      },
+      "verdict": "Nightwatch excels in local rank tracking and data visualization, providing granular control over how you view and segment your keyword performance data.",
+      "verdict_short": "Best for granular local tracking and powerful data visualization options.",
+      "praise": "The ability to track rankings in specific Google Maps grid locations is a standout feature for local SEO professionals.",
+      "praise_short": "Excellent Google Maps grid tracking.",
+      "criticism": "The interface, while powerful, has a steeper learning curve than more streamlined tools like SERPWatcher.",
+      "criticism_short": "Steeper learning curve than competitors.",
+      "sources_pending": [
+        "Nightwatch website",
+        "Capterra Reviews",
+        "SourceForge Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console",
+        "Looker Studio",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Advanced Web Ranking (AWR)",
+      "url": "https://www.awrcloud.com",
+      "founded": 2002,
+      "hq": "Craiova, Romania",
+      "team_size_band": "51-200",
+      "best_for": "Large agencies and enterprises that require reliable, high-volume keyword tracking and extensive white-label reporting capabilities.",
+      "best_for_short": "High-volume agency tracking",
+      "pricing_band": "$$ ($49 to $499/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Accuracy & Freshness": 8.5,
+        "Feature Set & Scalability": 8.8,
+        "UI/UX & Reporting": 7,
+        "Integrations & API": 8,
+        "Value for Money": 8.2
+      },
+      "verdict": "AWR is a workhorse for agencies, built to handle massive amounts of keyword data across numerous projects with a focus on reliability and white-label reporting.",
+      "verdict_short": "A reliable workhorse for high-volume agency and enterprise needs.",
+      "praise": "It uses human-emulated search requests, ensuring high data accuracy and avoiding CAPTCHAs, even at scale.",
+      "praise_short": "Highly accurate data via human-emulated search.",
+      "criticism": "The user interface feels dated compared to more modern competitors, which can slow down analysis.",
+      "criticism_short": "User interface feels dated and clunky.",
+      "sources_pending": [
+        "AWR website",
+        "G2 Crowd Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console",
+        "Looker Studio"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "ProRankTracker",
+      "url": "https://proranktracker.com",
+      "founded": 2011,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "11-50",
+      "best_for": "Freelancers and agencies looking for a reliable, no-frills tracker with excellent reporting options and multi-lingual support.",
+      "best_for_short": "Reliable with great reporting options",
+      "pricing_band": "$ ($25 to $550/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Accuracy & Freshness": 8.2,
+        "Feature Set & Scalability": 7.5,
+        "UI/UX & Reporting": 8,
+        "Integrations & API": 7,
+        "Value for Money": 8.5
+      },
+      "verdict": "ProRankTracker is a solid and dependable choice, particularly strong for its comprehensive white-label reporting features and dedicated mobile app for on-the-go checks.",
+      "verdict_short": "A dependable tool with strong white-label reporting and a mobile app.",
+      "praise": "The MyRanks mobile app is a unique and useful feature for quick checks away from your desk.",
+      "praise_short": "Useful dedicated mobile app for rank checks.",
+      "criticism": "The core feature set hasn't evolved as quickly as some competitors, and the UI can feel less modern.",
+      "criticism_short": "Slower feature development than rivals.",
+      "sources_pending": [
+        "ProRankTracker website",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 550,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Dropbox",
+        "Google Drive"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Wincher",
+      "url": "https://www.wincher.com",
+      "founded": 2013,
+      "hq": "Stockholm, Sweden",
+      "team_size_band": "11-50",
+      "best_for": "Startups and small businesses that need a simple, affordable, and effective tool for basic rank tracking and keyword discovery.",
+      "best_for_short": "Affordable and simple for SMBs",
+      "pricing_band": "$ ($39 to $249/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Accuracy & Freshness": 7.5,
+        "Feature Set & Scalability": 7,
+        "UI/UX & Reporting": 8,
+        "Integrations & API": 7,
+        "Value for Money": 8.8
+      },
+      "verdict": "Wincher stands out for its simplicity and affordability, making it an excellent entry-point for businesses new to SEO or those with limited budgets.",
+      "verdict_short": "A simple, affordable entry-point for businesses new to SEO.",
+      "praise": "The integration with Google Search Console to find 'not-yet-ranking' keywords is a clever and useful feature.",
+      "praise_short": "Clever integration to find new keyword opportunities.",
+      "criticism": "It lacks the depth of analysis, especially for local and SERP feature tracking, that more advanced tools provide.",
+      "criticism_short": "Lacks depth in local and SERP analysis.",
+      "sources_pending": [
+        "Wincher website",
+        "G2 Crowd Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Search Console",
+        "WordPress"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Serpstat",
+      "url": "https://serpstat.com",
+      "founded": 2013,
+      "hq": "Odesa, Ukraine",
+      "team_size_band": "51-200",
+      "best_for": "Marketers looking for a budget-friendly, all-in-one SEO platform where rank tracking is one of many included tools.",
+      "best_for_short": "Budget-friendly all-in-one suite",
+      "pricing_band": "$$ ($50 to $360/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Accuracy & Freshness": 7.5,
+        "Feature Set & Scalability": 8,
+        "UI/UX & Reporting": 7,
+        "Integrations & API": 7,
+        "Value for Money": 7.8
+      },
+      "verdict": "Serpstat provides a functional rank tracker as part of a very broad SEO toolkit, making it a good choice for users who need a wide range of features on a tight budget.",
+      "verdict_short": "A functional tracker within a very broad, budget-friendly SEO toolkit.",
+      "praise": "The platform offers an impressive number of tools for its price point, including PPC and content marketing features.",
+      "praise_short": "Impressive number of features for the price.",
+      "criticism": "The rank tracker itself is less powerful and the UI less polished than specialized tools or the top-tier suites.",
+      "criticism_short": "Tracker is less powerful than specialized tools.",
+      "sources_pending": [
+        "Serpstat website",
+        "G2 Crowd Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 360,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Google Search Console"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "SERP Robot",
+      "url": "https://www.serprobot.com",
+      "founded": 2018,
+      "hq": "London, UK",
+      "team_size_band": "2-10",
+      "best_for": "Developers, startups, and SEOs who need a simple, no-frills, API-first way to get raw ranking data at a very low cost.",
+      "best_for_short": "Low-cost, API-first raw data",
+      "pricing_band": "$ ($5 to $50/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Accuracy & Freshness": 7.5,
+        "Feature Set & Scalability": 6,
+        "UI/UX & Reporting": 6.5,
+        "Integrations & API": 8,
+        "Value for Money": 9.9
+      },
+      "verdict": "SERP Robot is a wildcard pick because it forgoes the polished interface and broad features of others to deliver one thing exceptionally well: cheap, reliable, API-accessible ranking data.",
+      "verdict_short": "A no-frills, API-first tool for cheap and reliable raw ranking data.",
+      "praise": "The free tier is generous, and the paid plans offer an incredible amount of keyword checks for the money, making it perfect for bulk, low-cost projects.",
+      "praise_short": "Extremely cost-effective for bulk checks.",
+      "criticism": "The user interface and reporting are very basic, and it's not designed for deep analysis or client-facing presentations directly within the tool.",
+      "criticism_short": "Very basic UI and reporting features.",
+      "sources_pending": [
+        "SERP Robot website",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 4.99,
+      "price_max": 49.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "API"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "slug": "online-course-platforms",
+  "title": "The 11 Best Online Course Platforms",
+  "subtitle": "A ranked list of the top platforms for creators to build, market, and sell online courses, based on creator tools, sales features, and student experience.",
+  "vertical": "Education · Creators",
+  "audience": "Creators selling online courses",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "LMS/Course Platform",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Creator Tools (25%), Marketing & Sales (25%), Pricing (20%), Student Experience (15%), and Integrations (15%)."
+    }
+  ],
+  "answer_capsule": "The best online course platform for most creators is Kajabi, followed by Thinkific for its robust course building tools and Teachable for its ease of use.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Creator Tools & Customization",
+        "weight": 25,
+        "description": "Quality of the course builder, assessment tools (quizzes, assignments), content delivery options (drip, live), and design flexibility."
+      },
+      {
+        "name": "Marketing & Sales Features",
+        "weight": 25,
+        "description": "Effectiveness of built-in tools for marketing funnels, email campaigns, affiliate programs, coupons, and checkout optimization."
+      },
+      {
+        "name": "Pricing & Transaction Fees",
+        "weight": 20,
+        "description": "Overall value for money, transparency of pricing tiers, and the percentage of sales taken via transaction fees."
+      },
+      {
+        "name": "Student Experience & Engagement",
+        "weight": 15,
+        "description": "Quality of the student-facing interface, community features, mobile access, and progress tracking."
+      },
+      {
+        "name": "Integrations & Scalability",
+        "weight": 15,
+        "description": "Ability to connect with third-party tools (email, analytics, etc.) and the platform's capacity to support a growing business."
+      }
+    ]
+  },
+  "segment_tags": [
+    "solopreneurs",
+    "course creators",
+    "digital products",
+    "membership sites",
+    "coaching platforms"
+  ],
+  "problem_tags": [
+    "monetize knowledge",
+    "sell online courses",
+    "build a community",
+    "create sales funnels",
+    "manage student access"
+  ],
+  "query_intents": [
+    "best online course platform",
+    "teachable vs thinkific",
+    "kajabi alternative",
+    "how to sell courses online",
+    "cheapest course platform"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "all-in-one marketing and course delivery",
+        "building sales funnels",
+        "premium branding"
+      ],
+      "personas": [
+        "established creators",
+        "marketers",
+        "coaches"
+      ]
+    },
+    "2": {
+      "solves": [
+        "advanced course creation",
+        "no transaction fees",
+        "customizable site design"
+      ],
+      "personas": [
+        "educators",
+        "small businesses",
+        "first-time creators"
+      ]
+    },
+    "3": {
+      "solves": [
+        "ease of use",
+        "fast setup",
+        "integrated payment processing"
+      ],
+      "personas": [
+        "beginners",
+        "solopreneurs",
+        "part-time creators"
+      ]
+    },
+    "11": {
+      "solves": [
+        "total platform ownership",
+        "deep WordPress integration",
+        "unlimited customization"
+      ],
+      "personas": [
+        "WordPress developers",
+        "tech-savvy creators",
+        "budget-conscious builders"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.11,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What's the difference between a hosted platform and a WordPress plugin?",
+      "a": "Hosted platforms (like Kajabi, Thinkific) manage all the technology for you for a monthly fee. WordPress plugins (like LearnDash) require you to have your own WordPress site, giving you more control and ownership but also more responsibility for hosting, security, and updates."
+    },
+    {
+      "q": "Should I worry about transaction fees?",
+      "a": "Yes. A 5% transaction fee on top of payment processor fees (like Stripe's ~2.9%) can significantly impact your revenue. Platforms like Thinkific and Kajabi offer 0% transaction fees on their paid plans, which is a major advantage as you scale."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your technical comfort level: If you're not tech-savvy, choose an all-in-one hosted platform over a WordPress plugin.",
+    "Define your business model: Are you only selling courses, or also memberships, coaching, and digital downloads? Platforms like Podia and Kajabi are built for multi-product businesses.",
+    "Calculate your potential revenue vs. fees: A platform with a higher monthly fee but 0% transaction fees may be cheaper in the long run than a 'free' plan that takes 10% of your sales.",
+    "Prioritize marketing tools: If you don't have an existing email list or marketing system, an all-in-one platform with built-in funnels and email marketing like Kajabi or Kartra can save you time and money."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best online course platform for beginners?",
+      "a": "Teachable and Podia are often cited as the best for beginners due to their intuitive interfaces, straightforward setup process, and focus on core features without overwhelming users."
+    },
+    {
+      "q": "Can I use a free platform to sell online courses?",
+      "a": "Yes, platforms like Teachable and Thinkific offer free plans. However, they typically come with limitations, such as a higher transaction fee (e.g., 10%), a limited number of courses, or fewer features. They are a good way to start but you'll likely need to upgrade as you grow."
+    },
+    {
+      "q": "Is Kajabi worth the high price?",
+      "a": "For creators who will use its full suite of tools—including the website builder, email marketing, sales funnels, and podcast hosting—Kajabi can be worth the price by replacing several other subscriptions. If you only need a platform to host course videos, it may be overkill."
+    },
+    {
+      "q": "What's the difference between Thinkific and Teachable?",
+      "a": "Thinkific generally offers more advanced course creation tools, better site customization, and 0% transaction fees on all paid plans. Teachable is often considered slightly easier for absolute beginners to get started with and has robust, natively integrated payment handling and tax compliance features."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes all-in-one hosted platforms, as they are the most common choice for the target audience. Self-hosted WordPress solutions are represented by the wildcard but are a distinct category.",
+    "Pricing models change frequently. While we've captured current pricing, always verify on the provider's site.",
+    "Most candidates are US-based SaaS companies; non-US creators should verify payment gateway and tax compliance features for their specific region."
+  ],
+  "glossary": {
+    "term": "LMS",
+    "definition": "Learning Management System. A software application for the administration, documentation, tracking, reporting, and delivery of educational courses or training programs.",
+    "synonyms": [
+      "Course Platform",
+      "eLearning Platform"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Kajabi",
+      "url": "https://kajabi.com",
+      "founded": 2010,
+      "hq": "Irvine, USA",
+      "team_size_band": "201-500",
+      "best_for": "Established creators and businesses seeking a powerful, all-in-one platform to manage courses, marketing, and community in a single place.",
+      "best_for_short": "All-in-one marketing & course hub",
+      "pricing_band": "$$$ ($149 to $399/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Creator Tools & Customization": 9,
+        "Marketing & Sales Features": 9.8,
+        "Pricing & Transaction Fees": 8,
+        "Student Experience & Engagement": 9.5,
+        "Integrations & Scalability": 9.5
+      },
+      "verdict": "Kajabi is the best all-in-one online course platform because it seamlessly integrates powerful marketing funnels, email automation, and website building with a polished course delivery experience, eliminating the need for multiple third-party tools.",
+      "verdict_short": "The best all-in-one platform, combining powerful marketing automation with a premium course and community experience.",
+      "praise": "Its built-in sales pipeline builder and email marketing automation are best-in-class, allowing creators to manage the entire customer lifecycle without leaving the platform.",
+      "praise_short": "Best-in-class marketing and sales funnel automation.",
+      "criticism": "The premium price point makes it a significant investment for beginners, and the website builder, while capable, can feel less flexible than dedicated solutions like WordPress or Webflow.",
+      "criticism_short": "Expensive for beginners; website builder can be restrictive.",
+      "sources_pending": [
+        "Kajabi Pricing Page",
+        "G2 Kajabi Reviews",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "ConvertKit",
+        "Mailchimp",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 2,
+      "name": "Thinkific",
+      "url": "https://www.thinkific.com",
+      "founded": 2012,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Creators who prioritize a powerful and flexible course builder, extensive customization options, and zero transaction fees on paid plans.",
+      "best_for_short": "Powerful course builder with no fees",
+      "pricing_band": "$$ ($49 to $199/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Creator Tools & Customization": 9.5,
+        "Marketing & Sales Features": 8.2,
+        "Pricing & Transaction Fees": 9.5,
+        "Student Experience & Engagement": 8.8,
+        "Integrations & Scalability": 9
+      },
+      "verdict": "Thinkific earns its high rank with a superb course authoring experience and a commitment to creator-friendly pricing, offering 0% transaction fees on all paid plans, making it highly scalable as your revenue grows.",
+      "verdict_short": "A top choice for its excellent course builder, site customization, and 0% transaction fees on paid plans.",
+      "praise": "The drag-and-drop course builder is exceptionally flexible, supporting a wide range of content types, live lessons, and advanced quizzing.",
+      "praise_short": "Exceptionally flexible and powerful course builder.",
+      "criticism": "While it integrates with external tools, its built-in marketing and sales funnel capabilities are less comprehensive than all-in-one competitors like Kajabi.",
+      "criticism_short": "Lacks built-in advanced marketing/sales funnel tools.",
+      "sources_pending": [
+        "Thinkific Pricing Page",
+        "Capterra Thinkific Reviews",
+        "WebsiteBuilderExpert Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "Mailchimp",
+        "ConvertKit",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "Teachable",
+      "url": "https://teachable.com",
+      "founded": 2013,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Beginners and solopreneurs looking for the fastest and easiest way to create and sell their first online course, with simple tools and built-in payment processing.",
+      "best_for_short": "Easiest platform for beginners",
+      "pricing_band": "$$ ($59 to $299/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Creator Tools & Customization": 8.5,
+        "Marketing & Sales Features": 8.5,
+        "Pricing & Transaction Fees": 8.8,
+        "Student Experience & Engagement": 9,
+        "Integrations & Scalability": 8.7
+      },
+      "verdict": "Teachable is one of the best platforms for new creators because of its unparalleled ease of use; you can build and launch a professional-looking course in hours, not days, thanks to its intuitive interface and streamlined workflow.",
+      "verdict_short": "The fastest and most user-friendly platform for launching your first course, ideal for beginners.",
+      "praise": "Its integrated payment gateway and automatic handling of EU VAT makes the financial side of selling courses incredibly simple for non-technical users.",
+      "praise_short": "Simple, integrated payments and tax handling.",
+      "criticism": "The free and basic plans carry a 10% and 5% transaction fee respectively, and customization options are more limited compared to competitors like Thinkific.",
+      "criticism_short": "Transaction fees on lower tiers; limited customization.",
+      "sources_pending": [
+        "Teachable Pricing Page",
+        "TrustRadius Teachable Reviews",
+        "Forbes Advisor Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Google Analytics",
+        "Mailchimp",
+        "ConvertKit",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Podia",
+      "url": "https://www.podia.com",
+      "founded": 2014,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Creators who sell a variety of digital products—like courses, memberships, and downloads—and want a single, simple platform to house everything.",
+      "best_for_short": "Best for selling multiple digital products",
+      "pricing_band": "$$ ($39 to $199/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Creator Tools & Customization": 8,
+        "Marketing & Sales Features": 8.8,
+        "Pricing & Transaction Fees": 9,
+        "Student Experience & Engagement": 8.5,
+        "Integrations & Scalability": 8
+      },
+      "verdict": "Podia excels by offering a unified and remarkably simple platform for selling not just courses, but also memberships, webinars, and digital downloads, all for a straightforward monthly price with no transaction fees on paid plans.",
+      "verdict_short": "An elegant, all-in-one platform for selling courses, memberships, and digital downloads with simplicity.",
+      "praise": "The user interface is exceptionally clean and intuitive, making it easy to manage multiple product types without feeling overwhelmed.",
+      "praise_short": "Clean, intuitive interface for multiple products.",
+      "criticism": "Its course creation and customization tools are less advanced than specialized platforms like Thinkific, lacking features like graded quizzes or certificates on lower tiers.",
+      "criticism_short": "Course creation tools are less advanced.",
+      "sources_pending": [
+        "Podia Pricing Page",
+        "G2 Podia Reviews",
+        "Style Factory Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Zapier",
+        "Mailchimp",
+        "ConvertKit",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "LearnWorlds",
+      "url": "https://www.learnworlds.com",
+      "founded": 2014,
+      "hq": "Limassol, Cyprus",
+      "team_size_band": "51-200",
+      "best_for": "Educators and businesses focused on creating highly interactive and engaging learning experiences with advanced quizzes, SCORM compliance, and social features.",
+      "best_for_short": "Best for interactive learning experiences",
+      "pricing_band": "$$ ($29 to $299/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Creator Tools & Customization": 9.2,
+        "Marketing & Sales Features": 8,
+        "Pricing & Transaction Fees": 7.5,
+        "Student Experience & Engagement": 9.2,
+        "Integrations & Scalability": 8
+      },
+      "verdict": "LearnWorlds stands out for its focus on the learning experience itself, offering unique tools like interactive video, note-taking, and a social-media-style community to keep students deeply engaged with the course material.",
+      "verdict_short": "A top choice for creating interactive, social, and engaging courses with advanced educational tools.",
+      "praise": "The platform's ability to create interactive videos with questions and pop-ups is a powerful feature for active learning that few competitors offer.",
+      "praise_short": "Unique interactive video and e-book features.",
+      "criticism": "The interface can have a steeper learning curve than simpler platforms, and the starter plan includes a $5 fee per course sale, pushing users toward more expensive tiers.",
+      "criticism_short": "Steeper learning curve; fees on starter plan.",
+      "sources_pending": [
+        "LearnWorlds Pricing Page",
+        "Capterra LearnWorlds Reviews",
+        "eLearning Industry Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "Mailchimp",
+        "Zoom",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR",
+        "SCORM"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Mighty Networks",
+      "url": "https://www.mightynetworks.com",
+      "founded": 2017,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "51-200",
+      "best_for": "Creators who want to build a vibrant, paid community first and offer courses as a component of that community.",
+      "best_for_short": "Best for community-centric courses",
+      "pricing_band": "$$ ($49 to $219/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Creator Tools & Customization": 7.5,
+        "Marketing & Sales Features": 7.8,
+        "Pricing & Transaction Fees": 8,
+        "Student Experience & Engagement": 9.7,
+        "Integrations & Scalability": 7.5
+      },
+      "verdict": "Mighty Networks is the leading platform for creators who prioritize community, offering a sophisticated blend of forums, live events, member profiles, and group chats, with a fully integrated course feature.",
+      "verdict_short": "The best platform for building a powerful paid community, with courses as an integrated feature.",
+      "praise": "Its community engagement tools are far superior to any other platform on this list, creating a true 'social network' feel for your brand.",
+      "praise_short": "Unmatched community and engagement features.",
+      "criticism": "The course builder itself is less robust than dedicated platforms like Thinkific or LearnWorlds, lacking advanced quizzing and assessment options.",
+      "criticism_short": "Course builder is less powerful than competitors.",
+      "sources_pending": [
+        "Mighty Networks Pricing Page",
+        "G2 Mighty Networks Reviews",
+        "The Tilt Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 219,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "Google Analytics",
+        "ConvertKit"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Kartra",
+      "url": "https://home.kartra.com",
+      "founded": 2018,
+      "hq": "La Jolla, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-driven marketers who need an all-in-one platform with a heavy emphasis on sales funnels, lead tracking, and marketing automation.",
+      "best_for_short": "Best for advanced sales funnels",
+      "pricing_band": "$$$ ($119 to $549/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Creator Tools & Customization": 7.5,
+        "Marketing & Sales Features": 9.5,
+        "Pricing & Transaction Fees": 7,
+        "Student Experience & Engagement": 7.5,
+        "Integrations & Scalability": 8
+      },
+      "verdict": "Kartra distinguishes itself with exceptionally deep marketing automation and analytics, making it the top choice for creators who live and breathe sales funnels, split testing, and lead management.",
+      "verdict_short": "An all-in-one platform with a primary focus on powerful, data-driven marketing and sales funnels.",
+      "praise": "The platform's ability to track a lead's entire journey and automate actions based on behavior is incredibly powerful for optimizing conversions.",
+      "praise_short": "Deep marketing automation and lead tracking.",
+      "criticism": "The interface can feel complex and dated, and its course delivery and community features are less refined than platforms that specialize in the student experience.",
+      "criticism_short": "Complex interface; less refined student experience.",
+      "sources_pending": [
+        "Kartra Pricing Page",
+        "Capterra Kartra Reviews",
+        "Funnel Expert Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 119,
+      "price_max": 549,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Braintree",
+        "Zapier",
+        "Various Calendar Apps"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Skool",
+      "url": "https://www.skool.com",
+      "founded": 2019,
+      "hq": "Austin, USA",
+      "team_size_band": "11-50",
+      "best_for": "Creators who value simplicity and gamification to drive high engagement within a combined community and classroom environment.",
+      "best_for_short": "Gamified community and course platform",
+      "pricing_band": "$$ ($99/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Creator Tools & Customization": 6.5,
+        "Marketing & Sales Features": 6.5,
+        "Pricing & Transaction Fees": 8.5,
+        "Student Experience & Engagement": 9.8,
+        "Integrations & Scalability": 7
+      },
+      "verdict": "Skool secures its spot by masterfully blending community, courses, and gamification into one incredibly simple and engaging platform, where students earn points and unlock new content by participating.",
+      "verdict_short": "A simple, gamified platform that excels at driving engagement by combining community and classroom.",
+      "praise": "The gamification system with leaderboards and unlockable levels is highly effective at motivating students and fostering a vibrant community.",
+      "praise_short": "Excellent gamification drives high student engagement.",
+      "criticism": "The platform is intentionally minimalist, lacking the customization, advanced course features, and marketing tools offered by nearly every other competitor.",
+      "criticism_short": "Extremely limited customization and marketing features.",
+      "sources_pending": [
+        "Skool Homepage",
+        "G2 Skool Reviews",
+        "Creator Community Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Ruzuku",
+      "url": "https://www.ruzuku.com",
+      "founded": 2012,
+      "hq": "Durham, USA",
+      "team_size_band": "1-10",
+      "best_for": "Experts and coaches who want a simple, supportive platform for running live, scheduled courses with strong student interaction features.",
+      "best_for_short": "Simple platform for live courses",
+      "pricing_band": "$$ ($99 to $199/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Creator Tools & Customization": 7.5,
+        "Marketing & Sales Features": 7,
+        "Pricing & Transaction Fees": 8,
+        "Student Experience & Engagement": 8,
+        "Integrations & Scalability": 7
+      },
+      "verdict": "Ruzuku's strength lies in its simplicity and focus on facilitating interaction for timed, cohort-based courses, making it incredibly easy for experts to host content, run teleconferences, and engage with students.",
+      "verdict_short": "A straightforward and supportive platform designed for running live, interactive, cohort-based courses.",
+      "praise": "The platform is praised for its 'ridiculously easy' setup and excellent customer support, removing technical barriers for creators.",
+      "praise_short": "Extremely easy to use with great support.",
+      "criticism": "It lacks the sophisticated marketing tools, design customization, and on-demand course features of larger, more modern platforms.",
+      "criticism_short": "Lacks advanced marketing and design features.",
+      "sources_pending": [
+        "Ruzuku Pricing Page",
+        "Capterra Ruzuku Reviews",
+        "Independent Creator Blogs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Pathwright",
+      "url": "https://www.pathwright.com",
+      "founded": 2013,
+      "hq": "Greenville, USA",
+      "team_size_band": "11-50",
+      "best_for": "Design-conscious educators who want to build beautiful, action-oriented learning paths rather than traditional video playlists.",
+      "best_for_short": "Beautiful, action-oriented course design",
+      "pricing_band": "$$ ($99 to $499/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Creator Tools & Customization": 8.5,
+        "Marketing & Sales Features": 6,
+        "Pricing & Transaction Fees": 7,
+        "Student Experience & Engagement": 8.5,
+        "Integrations & Scalability": 6.5
+      },
+      "verdict": "Pathwright makes the list with its unique and elegant approach to course design, focusing on a 'path' of actionable steps that guide learners, resulting in a more engaging and aesthetically pleasing experience.",
+      "verdict_short": "A design-forward platform for creating beautiful, step-by-step learning paths instead of simple courses.",
+      "praise": "The front-end student experience and course design are exceptionally beautiful and intuitive, feeling more like a modern web app than a traditional LMS.",
+      "praise_short": "Beautiful and intuitive course design.",
+      "criticism": "The platform is less focused on the marketing and sales side of the creator business, and its pricing is based on active learners, which can become costly.",
+      "criticism_short": "Weak on marketing tools; pricing can get expensive.",
+      "sources_pending": [
+        "Pathwright Pricing Page",
+        "G2 Pathwright Reviews",
+        "Educational Tech Blogs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Zapier",
+        "Zoom"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "LearnDash",
+      "url": "https://www.learndash.com",
+      "founded": 2013,
+      "hq": "Ann Arbor, USA",
+      "team_size_band": "11-50",
+      "best_for": "Tech-savvy creators and businesses who want to build a fully-owned, deeply customizable course platform on their own WordPress website.",
+      "best_for_short": "Most powerful WordPress LMS plugin",
+      "pricing_band": "$ ($199 to $799/yr)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Creator Tools & Customization": 9.5,
+        "Marketing & Sales Features": 6,
+        "Pricing & Transaction Fees": 9,
+        "Student Experience & Engagement": 7,
+        "Integrations & Scalability": 9
+      },
+      "verdict": "As the wildcard, LearnDash is not a hosted platform but a WordPress plugin; it's the best choice for creators who demand complete control, ownership, and limitless customization by building their course business directly on their self-hosted WordPress site.",
+      "verdict_short": "A powerful WordPress plugin for creators who want total ownership and control over their course platform.",
+      "praise": "It offers unparalleled flexibility to integrate with any WordPress theme or plugin, allowing for a completely custom-branded experience at a lower long-term cost.",
+      "praise_short": "Total control and unlimited customization on WordPress.",
+      "criticism": "It requires you to manage your own hosting, security, and updates, carrying a much higher technical burden and steeper learning curve than all-in-one hosted solutions.",
+      "criticism_short": "Requires technical skill and self-management of hosting.",
+      "sources_pending": [
+        "LearnDash Pricing Page",
+        "WPBeginner Review",
+        "G2 LearnDash Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 799,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WooCommerce",
+        "Stripe",
+        "PayPal",
+        "Zapier",
+        "Mailchimp",
+        "Thousands of WordPress plugins"
+      ],
+      "compliance": [
+        "GDPR (via WordPress)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
