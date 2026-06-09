@@ -1,0 +1,836 @@
+{
+  "slug": "inventory-management-software",
+  "title": "The 11 Best Inventory Management Software",
+  "subtitle": "A ranked guide to the top platforms for tracking stock, managing orders, and optimizing supply chains for product-based businesses.",
+  "vertical": "Operations · Inventory",
+  "audience": "Product businesses tracking stock and orders",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Inventory & Asset Management",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Core Inventory Control (25%), Order Management & Fulfillment (25%), Integrations & Ecosystem (20%), Reporting & Analytics (15%), Scalability & Performance (10%), and Ease of Use & Support (5%)."
+    }
+  ],
+  "answer_capsule": "The best inventory management software is NetSuite for its enterprise-grade scalability, followed by Cin7 for multi-channel retail and Fishbowl for QuickBooks-centric operations.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Inventory Control",
+        "weight": 25,
+        "description": "Effectiveness in tracking stock levels, variants, kits/bundles, serial numbers, and multi-location inventory. Includes costing methods (FIFO, LIFO, etc.)."
+      },
+      {
+        "name": "Order Management & Fulfillment",
+        "weight": 25,
+        "description": "Capability to manage the entire order lifecycle from sales order creation to purchase orders, shipping, and returns."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of native integrations with e-commerce platforms (Shopify, Amazon), accounting software (QuickBooks, Xero), and 3PLs/shipping carriers."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 15,
+        "description": "Quality of reporting tools, including demand forecasting, sales analysis, inventory valuation, and customizable dashboards."
+      },
+      {
+        "name": "Scalability & Performance",
+        "weight": 10,
+        "description": "Ability to handle growth in SKUs, order volume, and warehouse locations without performance degradation. System reliability and uptime."
+      },
+      {
+        "name": "Ease of Use & Support",
+        "weight": 5,
+        "description": "Intuiveness of the user interface, quality of documentation, and responsiveness of customer support channels."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Mid-Market",
+    "Enterprise",
+    "E-commerce",
+    "Manufacturing",
+    "Wholesale",
+    "Retail"
+  ],
+  "problem_tags": [
+    "Stockouts",
+    "Overselling",
+    "Warehouse Inefficiency",
+    "Order Tracking",
+    "Supply Chain Visibility",
+    "Inventory Shrinkage"
+  ],
+  "query_intents": [
+    "best inventory management software",
+    "inventory software for small business",
+    "multi-channel inventory management",
+    "manufacturing inventory software",
+    "free inventory management software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "complex multi-location inventory",
+        "integrating financials with operations"
+      ],
+      "personas": [
+        "Enterprise CFO",
+        "Operations Director"
+      ]
+    },
+    "2": {
+      "solves": [
+        "multi-channel e-commerce complexity",
+        "B2B and B2C order management"
+      ],
+      "personas": [
+        "E-commerce Manager",
+        "Wholesale Distributor"
+      ]
+    },
+    "3": {
+      "solves": [
+        "deep QuickBooks integration needs",
+        "manufacturing and warehouse management"
+      ],
+      "personas": [
+        "Warehouse Manager",
+        "Small Manufacturer"
+      ]
+    },
+    "11": {
+      "solves": [
+        "need for a single, unified business system",
+        "custom workflow requirements"
+      ],
+      "personas": [
+        "Growth-stage CEO",
+        "IT Manager"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.31,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is Inventory Management Software?",
+      "a": "Inventory management software is a tool that automates the tracking of goods and materials through the entire supply chain, from purchasing to production to final sale. It helps businesses maintain optimal stock levels, prevent stockouts and overstocking, manage orders, and provide real-time data for better decision-making."
+    },
+    {
+      "q": "What's the difference between Inventory Management and a WMS?",
+      "a": "Inventory Management Software (IMS) focuses on the 'what' and 'why' of inventory: tracking SKUs, managing purchase orders, and analyzing sales trends. A Warehouse Management System (WMS) focuses on the 'where' and 'how': optimizing the physical movement of goods within a warehouse, like picking, packing, and shipping logistics. Many modern systems blend features of both."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your exact needs: Are you a multi-channel e-commerce seller, a manufacturer with complex bills of materials, or a simple wholesaler? Your business model dictates the features you need.",
+    "Second, audit your existing tech stack. The best software must integrate seamlessly with your e-commerce platform (e.g., Shopify), accounting software (e.g., QuickBooks), and shipping carriers.",
+    "Finally, consider your growth trajectory. Choose a system that can scale with your order volume, SKU count, and number of warehouses to avoid a costly migration in two years."
+  ],
+  "faqs": [
+    {
+      "q": "How much does inventory management software cost?",
+      "a": "Costs range from free plans for very small businesses to over $5,000 per month for enterprise-level systems. A typical small to mid-sized business can expect to pay between $200 and $1,500 per month, often dependent on order volume, number of users, and required integrations."
+    },
+    {
+      "q": "Can I just use Excel for inventory management?",
+      "a": "While possible for very small businesses with a handful of products, Excel is not a scalable solution. It's prone to human error, lacks real-time updates, doesn't integrate with other systems, and cannot handle the complexity of multi-channel sales or manufacturing."
+    },
+    {
+      "q": "What are the key features to look for?",
+      "a": "Look for barcode scanning, real-time stock level tracking across multiple locations, automated purchase order creation, sales order management, kitting/bundling capabilities, and robust reporting for demand forecasting and sales analysis."
+    },
+    {
+      "q": "Do I need cloud-based or on-premise software?",
+      "a": "Cloud-based (SaaS) software is the standard for most businesses today, offering accessibility, automatic updates, and lower upfront costs. On-premise solutions offer more control and customization but require significant IT investment and maintenance. For most users, cloud-based is the superior choice."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes cloud-based (SaaS) solutions, which are the dominant model for modern businesses. On-premise options are less represented.",
+    "Pricing for enterprise-tier software is often not public and requires a custom quote, making direct cost comparisons difficult.",
+    "The candidate pool is primarily composed of North American and European providers; coverage for solutions specific to other regions may be limited."
+  ],
+  "glossary": {
+    "term": "SKU (Stock Keeping Unit)",
+    "definition": "A unique alphanumeric code assigned to a specific product to track it for inventory purposes. A single product can have multiple SKUs if it comes in different sizes, colors, or other variations.",
+    "synonyms": [
+      "Product Code",
+      "Item Number"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "NetSuite ERP",
+      "url": "https://www.netsuite.com/portal/products/erp/inventory-management.shtml",
+      "founded": 1998,
+      "hq": "Austin, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Large or rapidly growing businesses that need a single, unified platform for inventory, financials, CRM, and e-commerce.",
+      "best_for_short": "Enterprise-grade unified commerce",
+      "pricing_band": "$$$$$ (Custom pricing, starts ~$10k/yr)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Inventory Control": 9.4,
+        "Order Management & Fulfillment": 9.3,
+        "Integrations & Ecosystem": 8.8,
+        "Reporting & Analytics": 9.4,
+        "Scalability & Performance": 9.4,
+        "Ease of Use & Support": 8.5
+      },
+      "verdict": "NetSuite is the top choice for its unparalleled scalability and ability to unify inventory management with every other aspect of the business, from finance to CRM, in a single database.",
+      "verdict_short": "Unmatched scalability and a fully unified business platform for complex operations.",
+      "praise": "Its demand planning and forecasting tools are best-in-class, allowing businesses to optimize stock levels with high precision.",
+      "praise_short": "Best-in-class demand planning and forecasting.",
+      "criticism": "The platform's immense power comes with significant complexity and a high price tag, making it overkill for most small businesses.",
+      "criticism_short": "Complex, expensive, and requires significant implementation.",
+      "sources_pending": [
+        "NetSuite Documentation",
+        "G2 Reviews",
+        "Forrester Wave Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 999,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 10000,
+      "integrations": [
+        "Salesforce",
+        "Shopify",
+        "Amazon",
+        "Magento",
+        "Most major ERP components"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 20,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Cin7",
+      "url": "https://www.cin7.com/",
+      "founded": 2012,
+      "hq": "Auckland, New Zealand",
+      "team_size_band": "201-500",
+      "best_for": "Multi-channel retailers and wholesalers who need robust integrations with e-commerce platforms, marketplaces, and 3PLs.",
+      "best_for_short": "Multi-channel commerce automation",
+      "pricing_band": "$$$ ($349 to $1,500+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Inventory Control": 9,
+        "Order Management & Fulfillment": 9.2,
+        "Integrations & Ecosystem": 9.4,
+        "Reporting & Analytics": 8.8,
+        "Scalability & Performance": 8.9,
+        "Ease of Use & Support": 8.7
+      },
+      "verdict": "Cin7 earns its rank with the most comprehensive and well-maintained ecosystem of integrations, making it the central hub for complex multi-channel sales operations.",
+      "verdict_short": "The best-connected platform for managing complex multi-channel retail and wholesale.",
+      "praise": "The platform's built-in EDI and 3PL connections are exceptionally strong, automating B2B and fulfillment workflows effectively.",
+      "praise_short": "Exceptional native EDI and 3PL integrations.",
+      "criticism": "Some users report that the user interface can feel dated and less intuitive compared to more modern competitors.",
+      "criticism_short": "User interface can feel dated.",
+      "sources_pending": [
+        "Cin7 Help Center",
+        "Capterra Reviews",
+        "Shopify App Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 349,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "Shopify",
+        "Amazon",
+        "QuickBooks",
+        "Xero",
+        "ShipStation",
+        "SPS Commerce (EDI)"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 3,
+      "max_team_size": 200
+    },
+    {
+      "rank": 3,
+      "name": "Fishbowl Inventory",
+      "url": "https://www.fishbowlinventory.com/",
+      "founded": 2001,
+      "hq": "Orem, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized manufacturers and warehouse-based businesses that use QuickBooks for accounting.",
+      "best_for_short": "QuickBooks-centric manufacturing/warehousing",
+      "pricing_band": "$$$$ (Custom pricing, starts ~$4k one-time)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core Inventory Control": 9.2,
+        "Order Management & Fulfillment": 8.9,
+        "Integrations & Ecosystem": 8.2,
+        "Reporting & Analytics": 8.8,
+        "Scalability & Performance": 9,
+        "Ease of Use & Support": 8.5
+      },
+      "verdict": "Fishbowl is the leading choice for businesses deeply embedded in the QuickBooks ecosystem, offering the most seamless integration for manufacturing and warehouse management.",
+      "verdict_short": "The best inventory solution for businesses running on QuickBooks.",
+      "praise": "Its manufacturing module is particularly strong, with multi-level bills of materials, work orders, and production tracking.",
+      "praise_short": "Powerful manufacturing and work order features.",
+      "criticism": "The software is a desktop application, which feels less flexible than modern cloud-based competitors, and its integration options outside of QuickBooks are limited.",
+      "criticism_short": "Desktop-based and limited non-QuickBooks integrations.",
+      "sources_pending": [
+        "Fishbowl Wiki",
+        "G2 Reviews",
+        "QuickBooks App Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 4395,
+      "price_max": 4000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks (Desktop & Online)",
+        "Xero",
+        "Shopify",
+        "Amazon",
+        "Salesforce"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 150
+    },
+    {
+      "rank": 4,
+      "name": "Brightpearl",
+      "url": "https://www.brightpearl.com/",
+      "founded": 2007,
+      "hq": "Bristol, UK",
+      "team_size_band": "201-500",
+      "best_for": "High-growth, multi-channel retailers processing over 1,000 orders per month who need a dedicated retail operating system.",
+      "best_for_short": "High-volume retail operations",
+      "pricing_band": "$$$$ (Custom pricing, volume-based)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Core Inventory Control": 8.5,
+        "Order Management & Fulfillment": 9.3,
+        "Integrations & Ecosystem": 8.8,
+        "Reporting & Analytics": 8.5,
+        "Scalability & Performance": 9,
+        "Ease of Use & Support": 8
+      },
+      "verdict": "Brightpearl excels as a complete 'Retail Operating System,' combining inventory management with a powerful order management system and automation engine designed specifically for high-volume merchants.",
+      "verdict_short": "A powerful retail OS for high-volume merchants needing automation.",
+      "praise": "The automation engine is highly configurable, allowing businesses to create complex, rules-based workflows for order routing, fulfillment, and accounting.",
+      "praise_short": "Excellent, highly configurable automation engine.",
+      "criticism": "The platform is squarely aimed at established retailers with high order volumes, making its pricing and complexity prohibitive for smaller businesses.",
+      "criticism_short": "Not suitable for small or low-volume businesses.",
+      "sources_pending": [
+        "Brightpearl Help Center",
+        "Gartner Peer Insights",
+        "Shopify Plus Partners"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Shopify Plus",
+        "BigCommerce",
+        "Magento",
+        "Amazon",
+        "QuickBooks",
+        "Xero"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI DSS"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 10,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "Zoho Inventory",
+      "url": "https://www.zoho.com/inventory/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10,001+",
+      "best_for": "Small to mid-sized businesses already using or considering the broader Zoho ecosystem of business apps.",
+      "best_for_short": "SMBs in the Zoho ecosystem",
+      "pricing_band": "$$ ($0 to $299/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core Inventory Control": 8.6,
+        "Order Management & Fulfillment": 8.5,
+        "Integrations & Ecosystem": 8.8,
+        "Reporting & Analytics": 8,
+        "Scalability & Performance": 8.2,
+        "Ease of Use & Support": 9
+      },
+      "verdict": "Zoho Inventory provides the best value and tightest integration for businesses committed to the Zoho ecosystem, offering a feature-rich solution at an extremely competitive price point.",
+      "verdict_short": "Unbeatable value and integration for users of Zoho's business suite.",
+      "praise": "The free tier is remarkably generous, providing a legitimate, feature-rich starting point for small businesses to manage inventory professionally.",
+      "praise_short": "Extremely generous and capable free plan.",
+      "criticism": "While it integrates perfectly with other Zoho apps, its connections to third-party software outside the Zoho universe can be less robust than competitors.",
+      "criticism_short": "Integrations outside the Zoho ecosystem are weaker.",
+      "sources_pending": [
+        "Zoho Inventory Help Docs",
+        "PCMag Review",
+        "Capterra User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoho Books",
+        "Zoho CRM",
+        "Shopify",
+        "Etsy",
+        "Amazon",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Katana MRP",
+      "url": "https://katanamrp.com/",
+      "founded": 2017,
+      "hq": "Tallinn, Estonia",
+      "team_size_band": "51-200",
+      "best_for": "Direct-to-consumer (DTC) brands and small manufacturers who need to track both raw materials and finished goods.",
+      "best_for_short": "Modern manufacturing & DTC brands",
+      "pricing_band": "$$ ($129 to $799/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core Inventory Control": 9.2,
+        "Order Management & Fulfillment": 8,
+        "Integrations & Ecosystem": 8.1,
+        "Reporting & Analytics": 7.8,
+        "Scalability & Performance": 8.3,
+        "Ease of Use & Support": 9.2
+      },
+      "verdict": "Katana is the best choice for modern makers and small manufacturers due to its visually intuitive interface that masterfully simplifies production planning and raw material tracking.",
+      "verdict_short": "The most intuitive platform for small manufacturers and makers.",
+      "praise": "Its live inventory and production overview provides a clear, real-time picture of what needs to be made, bought, and fulfilled.",
+      "praise_short": "Excellent real-time production and inventory visibility.",
+      "criticism": "The platform's features are heavily focused on manufacturing, lacking some of the advanced warehousing or B2B wholesale features of broader systems.",
+      "criticism_short": "Lacks advanced warehousing and wholesale features.",
+      "sources_pending": [
+        "Katana Knowledge Base",
+        "Shopify App Store Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 799,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "WooCommerce",
+        "QuickBooks Online",
+        "Xero",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 7,
+      "name": "inFlow Inventory",
+      "url": "https://www.inflowinventory.com/",
+      "founded": 2007,
+      "hq": "Toronto, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Small businesses looking for a balanced, easy-to-use system with strong barcoding features and both cloud and on-premise options.",
+      "best_for_short": "Easy-to-use SMB inventory",
+      "pricing_band": "$$ ($99 to $1,899/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core Inventory Control": 8.5,
+        "Order Management & Fulfillment": 8.2,
+        "Integrations & Ecosystem": 7.5,
+        "Reporting & Analytics": 7.9,
+        "Scalability & Performance": 8,
+        "Ease of Use & Support": 9.1
+      },
+      "verdict": "inFlow stands out for its user-friendly design and robust mobile barcoding capabilities, making it incredibly easy for small teams to set up and manage their stockroom or warehouse.",
+      "verdict_short": "A user-friendly system with excellent mobile barcoding for small teams.",
+      "praise": "The mobile app is best-in-class, turning any smartphone into a powerful barcode scanner for receiving, moving, and picking stock.",
+      "praise_short": "Best-in-class mobile app and barcoding.",
+      "criticism": "Its list of native integrations with major e-commerce and accounting platforms is shorter than top-ranked competitors, sometimes requiring workarounds.",
+      "criticism_short": "Fewer native integrations than competitors.",
+      "sources_pending": [
+        "inFlow Knowledge Base",
+        "Capterra Reviews",
+        "Software Advice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 1899,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "WooCommerce",
+        "Amazon",
+        "QuickBooks Online",
+        "Xero"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Skubana (by Extensiv)",
+      "url": "https://www.extensiv.com/extensiv-order-management",
+      "founded": 2013,
+      "hq": "El Segundo, USA",
+      "team_size_band": "51-200",
+      "best_for": "High-volume e-commerce sellers focused on automating complex order routing and profitability analysis on a per-order basis.",
+      "best_for_short": "High-volume e-commerce automation",
+      "pricing_band": "$$$$ ($1,000+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Inventory Control": 7.8,
+        "Order Management & Fulfillment": 9,
+        "Integrations & Ecosystem": 8.2,
+        "Reporting & Analytics": 8.5,
+        "Scalability & Performance": 8.3,
+        "Ease of Use & Support": 7
+      },
+      "verdict": "Skubana (now Extensiv Order Management) is built for sophisticated e-commerce operators, offering powerful, rules-based order automation and unique profitability analytics that other platforms lack.",
+      "verdict_short": "Uniquely powerful order automation and profitability tools for e-commerce.",
+      "praise": "Its 'Orderbots' feature allows for incredibly granular automation rules for routing orders based on stock levels, shipping costs, or customer location.",
+      "praise_short": "Granular 'Orderbots' for advanced automation.",
+      "criticism": "The platform has a steep learning curve and is less focused on deep inventory features like manufacturing or kitting compared to others.",
+      "criticism_short": "Steep learning curve, less focus on manufacturing.",
+      "sources_pending": [
+        "Extensiv Documentation",
+        "G2 Reviews",
+        "eCommerceFuel Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "Amazon",
+        "Walmart",
+        "QuickBooks",
+        "NetSuite"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 5,
+      "max_team_size": 250
+    },
+    {
+      "rank": 9,
+      "name": "DEAR Systems (Cin7 Core)",
+      "url": "https://www.cin7.com/products/cin7-core/",
+      "founded": 2012,
+      "hq": "Sydney, Australia",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized businesses needing a comprehensive, all-in-one solution that includes manufacturing, POS, and B2B portal features.",
+      "best_for_short": "All-in-one for SMB manufacturing/retail",
+      "pricing_band": "$$$ ($325+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Inventory Control": 8.5,
+        "Order Management & Fulfillment": 8,
+        "Integrations & Ecosystem": 7.5,
+        "Reporting & Analytics": 7.6,
+        "Scalability & Performance": 7.8,
+        "Ease of Use & Support": 7.2
+      },
+      "verdict": "DEAR Systems, now Cin7 Core, offers one of the most feature-complete packages for its price, bundling advanced manufacturing, POS, and wholesale capabilities into a single platform.",
+      "verdict_short": "A feature-rich, all-in-one platform with manufacturing and POS.",
+      "praise": "It provides a surprisingly deep feature set, including advanced manufacturing and a B2B e-commerce portal, that is typically found in much more expensive systems.",
+      "praise_short": "Enterprise-level features at an SMB price.",
+      "criticism": "The user interface can be dense and challenging to navigate due to the sheer number of features packed into it.",
+      "criticism_short": "Dense and sometimes confusing user interface.",
+      "sources_pending": [
+        "Cin7 Core Documentation",
+        "Xero App Store",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 325,
+      "price_max": 325,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "Shopify",
+        "WooCommerce",
+        "ShipStation"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Sortly",
+      "url": "https://www.sortly.com/",
+      "founded": 2015,
+      "hq": "Alameda, USA",
+      "team_size_band": "11-50",
+      "best_for": "Small businesses, non-profits, or teams needing a simple, visual way to track assets and inventory without complex order management.",
+      "best_for_short": "Simple visual inventory tracking",
+      "pricing_band": "$ ($49 to $119/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core Inventory Control": 7.8,
+        "Order Management & Fulfillment": 6,
+        "Integrations & Ecosystem": 6.5,
+        "Reporting & Analytics": 7,
+        "Scalability & Performance": 7.5,
+        "Ease of Use & Support": 9.5
+      },
+      "verdict": "Sortly is the best option for teams who need extreme simplicity, offering a highly intuitive, visual, folder-based system that's perfect for tracking assets or simple inventory.",
+      "verdict_short": "The simplest, most intuitive visual platform for basic inventory.",
+      "praise": "Its user experience is incredibly simple and clean, allowing anyone to start tracking items with photos and QR codes in minutes.",
+      "praise_short": "Exceptionally easy to set up and use.",
+      "criticism": "It is not a true order management system and lacks features like purchase orders, sales channels, and advanced reporting needed by most product-selling businesses.",
+      "criticism_short": "Lacks order management and e-commerce features.",
+      "sources_pending": [
+        "Sortly Website",
+        "Apple App Store Reviews",
+        "GetApp Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Odoo",
+      "url": "https://www.odoo.com/app/inventory",
+      "founded": 2005,
+      "hq": "Grand-Rosière, Belgium",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Tech-savvy businesses that want a fully customizable, open-source ERP system and are willing to invest in its configuration.",
+      "best_for_short": "Customizable open-source ERP",
+      "pricing_band": "$$ ($0 to $200+/user/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Core Inventory Control": 8,
+        "Order Management & Fulfillment": 7.5,
+        "Integrations & Ecosystem": 7.8,
+        "Reporting & Analytics": 7,
+        "Scalability & Performance": 7.5,
+        "Ease of Use & Support": 5
+      },
+      "verdict": "Odoo is a wildcard because it's not just an inventory app but a full suite of open-source business apps, offering unparalleled customizability for businesses that want to build a system perfectly tailored to their unique workflows.",
+      "verdict_short": "A powerful, open-source ERP suite for ultimate customization.",
+      "praise": "The modular, all-in-one nature means you can start with inventory and seamlessly add CRM, accounting, manufacturing, and more as you grow, all from one vendor.",
+      "praise_short": "Modular, all-in-one system that grows with you.",
+      "criticism": "Its flexibility is also its greatest weakness; it requires significant technical expertise or partner support to implement and maintain effectively, and support can be inconsistent.",
+      "criticism_short": "Requires significant technical expertise to implement.",
+      "sources_pending": [
+        "Odoo Documentation",
+        "G2 Reviews",
+        "GitHub"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Itself (all Odoo apps)",
+        "Major shipping carriers",
+        "Stripe",
+        "PayPal",
+        "Extensive third-party apps"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

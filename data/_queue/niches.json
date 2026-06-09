@@ -232,28 +232,12 @@
       "priority": 3
     },
     {
-      "slug": "inventory-management-software",
-      "title": "The 11 Best Inventory Management Software",
-      "vertical": "Operations · Inventory",
-      "audience": "Product businesses tracking stock and orders",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "shipping-software-ecommerce",
       "title": "The 11 Best Shipping Software for Ecommerce",
       "vertical": "Ecommerce · Fulfillment",
       "audience": "Online stores managing shipping and labels",
       "candidate_pool_size": 25,
       "priority": 3
-    },
-    {
-      "slug": "subscription-billing-software",
-      "title": "The 11 Best Subscription Billing Software",
-      "vertical": "Finance · Billing",
-      "audience": "SaaS and subscription businesses billing customers",
-      "candidate_pool_size": 25,
-      "priority": 2
     },
     {
       "slug": "payment-gateways",
@@ -477,7 +461,9 @@
     "live-chat-software",
     "esignature-software",
     "applicant-tracking-systems",
-    "appointment-scheduling-software"
+    "appointment-scheduling-software",
+    "inventory-management-software",
+    "subscription-billing-software"
   ],
   "skipped": []
 }
