@@ -44,10 +44,25 @@ const ALLOWED_BOTS = [
   "MistralAI-User",
 ];
 
+// Thin, combinatorial slice pages: re-sorts (cheapest/fastest/free/highest-rated) and
+// single-filter permutations (under price, works-with tool, in region, compliant standard)
+// of a list. Blocked from crawling so crawl budget concentrates on the 74 ranked lists and
+// their comparison pages. The lists, API, MCP server, and llms.txt stay fully open.
+const DISALLOW_THIN = [
+  "/cheapest/",
+  "/highest-rated/",
+  "/fastest/",
+  "/free/",
+  "/under/",
+  "/works-with/",
+  "/in/",
+  "/compliant/",
+];
+
 export default function robots(): MetadataRoute.Robots {
   const rules: MetadataRoute.Robots["rules"] = [
-    { userAgent: "*", allow: "/" },
-    ...ALLOWED_BOTS.map((ua) => ({ userAgent: ua, allow: "/" })),
+    { userAgent: "*", allow: "/", disallow: DISALLOW_THIN },
+    ...ALLOWED_BOTS.map((ua) => ({ userAgent: ua, allow: "/", disallow: DISALLOW_THIN })),
   ];
   return {
     rules,
