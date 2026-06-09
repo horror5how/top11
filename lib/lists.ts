@@ -72,6 +72,8 @@ import seoToolsSaas from "@/data/seo-tools-saas.json";
 import headlessCms from "@/data/headless-cms.json";
 import telehealthPlatforms from "@/data/telehealth-platforms.json";
 import shopifyAppsConversion from "@/data/shopify-apps-conversion.json";
+import propertyManagementSoftware from "@/data/property-management-software.json";
+import vpnForBusiness from "@/data/vpn-for-business.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -171,6 +173,8 @@ const REGISTRY: Record<string, ListData> = {
   [headlessCms.slug]: headlessCms as unknown as ListData,
   [telehealthPlatforms.slug]: telehealthPlatforms as unknown as ListData,
   [shopifyAppsConversion.slug]: shopifyAppsConversion as unknown as ListData,
+  [propertyManagementSoftware.slug]: propertyManagementSoftware as unknown as ListData,
+  [vpnForBusiness.slug]: vpnForBusiness as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

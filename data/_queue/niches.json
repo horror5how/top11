@@ -272,14 +272,6 @@
       "priority": 3
     },
     {
-      "slug": "property-management-software",
-      "title": "The 11 Best Property Management Software",
-      "vertical": "Real Estate · PM",
-      "audience": "Landlords and managers handling rentals",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "nonprofit-crm",
       "title": "The 11 Best Nonprofit CRMs",
       "vertical": "Nonprofit · CRM",
@@ -302,14 +294,6 @@
       "audience": "Churches managing members and giving",
       "candidate_pool_size": 20,
       "priority": 3
-    },
-    {
-      "slug": "vpn-for-business",
-      "title": "The 11 Best Business VPNs",
-      "vertical": "Security · Networking",
-      "audience": "IT teams securing remote access",
-      "candidate_pool_size": 25,
-      "priority": 2
     },
     {
       "slug": "password-managers-business",
@@ -435,7 +419,9 @@
     "payment-gateways",
     "product-analytics-tools",
     "seo-rank-trackers",
-    "online-course-platforms"
+    "online-course-platforms",
+    "property-management-software",
+    "vpn-for-business"
   ],
   "skipped": []
 }

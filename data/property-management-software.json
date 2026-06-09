@@ -1,0 +1,818 @@
+{
+  "slug": "property-management-software",
+  "title": "The 11 Best Property Management Software",
+  "subtitle": "A ranked list of the top platforms for landlords and property managers to streamline operations, from tenant screening to maintenance and accounting.",
+  "vertical": "Real Estate · PM",
+  "audience": "Landlords and managers handling rentals",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "PropTech",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Core PM Features (30%), Accounting & Reporting (25%), Ease of Use & UI/UX (20%), Integrations & Ecosystem (15%), and Pricing & Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best property management software is AppFolio for its comprehensive, all-in-one feature set, followed by Buildium for its user-friendly interface and RealPage for its enterprise-grade power.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core PM Features",
+        "weight": 30,
+        "description": "Breadth and depth of core property management capabilities, including tenant screening, online leasing, rent collection, maintenance request tracking, and tenant/owner communications."
+      },
+      {
+        "name": "Accounting & Reporting",
+        "weight": 25,
+        "description": "Robustness of the financial toolkit, including general ledger, accounts payable/receivable, bank reconciliation, CAM tracking, and the quality of owner/financial reports."
+      },
+      {
+        "name": "Ease of Use & UI/UX",
+        "weight": 20,
+        "description": "Intuitive design of the interface for both property managers and tenants. Quality of mobile apps, onboarding process, and overall user experience."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 15,
+        "description": "Ability to connect with third-party services like listing sites (Zillow, Apartments.com), accounting software (QuickBooks), smart home technology, and other essential tools via API or direct integration."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Transparency, value for money, and the ability of the pricing model to scale effectively from small landlords with a few units to large firms with thousands."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Residential Property Management",
+    "Commercial Property Management",
+    "Landlord Software",
+    "HOA Management",
+    "Real Estate SaaS"
+  ],
+  "problem_tags": [
+    "Rent Collection",
+    "Tenant Screening",
+    "Maintenance Tracking",
+    "Lease Management",
+    "Owner Reporting",
+    "Vacancy Marketing"
+  ],
+  "query_intents": [
+    "best property management software",
+    "landlord software reviews",
+    "AppFolio vs Buildium",
+    "free property management software",
+    "real estate accounting software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling a mid-to-large portfolio",
+        "Automating workflows",
+        "Centralizing operations"
+      ],
+      "personas": [
+        "Professional Property Manager",
+        "Growing Real Estate Firm"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Managing mixed portfolios",
+        "Simplifying accounting",
+        "Improving resident communication"
+      ],
+      "personas": [
+        "Small-to-Mid Sized PM",
+        "HOA Manager"
+      ]
+    },
+    "5": {
+      "solves": [
+        "Managing a few properties for free",
+        "Basic rent collection",
+        "Finding tenants"
+      ],
+      "personas": [
+        "DIY Landlord",
+        "New Investor"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.18,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What core features should I look for?",
+      "a": "Every property manager needs online rent collection, tenant screening (credit and background checks), maintenance request tracking, and basic accounting. Look for platforms that also offer online lease signing, tenant communication portals, and vacancy marketing syndication."
+    },
+    {
+      "q": "How does pricing usually work?",
+      "a": "Most providers charge on a per-unit, per-month basis, often with a monthly minimum fee. For example, $1.50 per unit per month with a $250 minimum. Some cater to small landlords with free tiers, making money on ancillary services like screening fees or ACH transaction costs."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your portfolio size and type (e.g., 10 single-family homes vs. a 200-unit apartment building). Enterprise software is overkill for small landlords.",
+    "Second, assess your accounting needs. If you need robust, trust-accounting-compliant features, free tools may not suffice.",
+    "Third, evaluate the tenant experience. A good tenant portal for payments and maintenance requests can significantly reduce your administrative workload.",
+    "Finally, request demos from your top 2-3 choices. User interface and ease of use are subjective, so a hands-on trial is crucial before committing."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best property management software for small landlords?",
+      "a": "For small landlords, TenantCloud, TurboTenant, and Avail are excellent choices. They offer robust free or low-cost plans that cover essential needs like rent collection, tenant screening, and listing management without the high minimum fees of enterprise-level software."
+    },
+    {
+      "q": "How much does property management software typically cost?",
+      "a": "Costs vary widely. Free platforms exist for basic needs. Paid plans typically range from $1 to $3 per unit per month, but most professional-grade platforms like AppFolio or Buildium have monthly minimums between $250 and $400, making them better suited for portfolios of 50 units or more."
+    },
+    {
+      "q": "Can property management software handle tenant screening?",
+      "a": "Yes, comprehensive tenant screening is a core feature of almost all modern property management software. This typically includes credit reports from major bureaus (TransUnion, Experian), nationwide criminal background checks, and eviction history reports."
+    },
+    {
+      "q": "Does property management software integrate with QuickBooks?",
+      "a": "Some do, but many aim to replace it. Platforms like Buildium and DoorLoop offer direct integrations or sync capabilities with QuickBooks. However, all-in-one solutions like AppFolio have their own complete, built-in general ledger and trust accounting systems, eliminating the need for a separate accounting tool."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are primarily focused on the U.S. market, with features tailored to U.S. regulations and banking systems. International users should verify regional compatibility.",
+    "Pricing models can be complex, with hidden fees for onboarding, support, or specific modules. Always request a detailed quote.",
+    "The 'best' software is highly dependent on portfolio size and type (residential, commercial, HOA). A top rank for a large apartment manager might be a poor fit for a landlord with two duplexes."
+  ],
+  "glossary": {
+    "term": "Trust Accounting",
+    "definition": "A legal requirement in many states where property managers must keep tenant security deposits and owner funds in separate bank accounts (trust accounts) from their business operating funds. Property management software with trust accounting features helps ensure compliance and prevents commingling of funds.",
+    "synonyms": [
+      "Escrow Accounting",
+      "Client Fund Accounting"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "AppFolio",
+      "url": "https://www.appfolio.com",
+      "founded": 2006,
+      "hq": "Santa Barbara, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Mid-to-large scale property managers seeking a powerful, all-in-one platform with advanced automation and AI features.",
+      "best_for_short": "Growing & large portfolios",
+      "pricing_band": "$$$ ($280 to $1500+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core PM Features": 9.4,
+        "Accounting & Reporting": 9.2,
+        "Ease of Use & UI/UX": 9,
+        "Integrations & Ecosystem": 8.8,
+        "Pricing & Scalability": 9
+      },
+      "verdict": "AppFolio is the best overall property management software because it offers the most comprehensive and technologically advanced feature set, seamlessly combining operations, accounting, marketing, and communication in a single, intuitive platform.",
+      "verdict_short": "The best all-in-one platform for its comprehensive, modern feature set and powerful automation.",
+      "praise": "Its mobile app functionality is best-in-class, providing full operational capability for managers on the go, a feature competitors often struggle with.",
+      "praise_short": "Best-in-class mobile app and AI-powered workflows.",
+      "criticism": "The high monthly minimum fee makes it cost-prohibitive for landlords or managers with fewer than 50-70 units.",
+      "criticism_short": "High monthly minimums are prohibitive for small portfolios.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 280,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Zillow",
+        "Apartments.com",
+        "TransUnion",
+        "Home Depot Pro",
+        "ShowingHero"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "Fair Housing",
+        "1099 e-Filing"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Buildium",
+      "url": "https://www.buildium.com",
+      "founded": 2004,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized property managers with mixed portfolios (residential, associations) who prioritize ease of use and strong core accounting.",
+      "best_for_short": "User-friendly, mixed portfolios",
+      "pricing_band": "$$ ($55 to $479+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core PM Features": 9,
+        "Accounting & Reporting": 9.2,
+        "Ease of Use & UI/UX": 9.3,
+        "Integrations & Ecosystem": 8.5,
+        "Pricing & Scalability": 8.8
+      },
+      "verdict": "Buildium earns its high rank for its exceptional user-friendliness and balanced feature set, making it the most accessible yet powerful platform for managers who don't need the enterprise-level complexity of its competitors.",
+      "verdict_short": "Exceptionally user-friendly with a balanced feature set perfect for small-to-mid-sized managers.",
+      "praise": "The platform excels at simplifying complex tasks like accounting and tenant communication, backed by award-winning customer support.",
+      "praise_short": "Excellent ease-of-use and customer support.",
+      "criticism": "While it has an open API, its marketplace of direct integrations is less extensive than some competitors like AppFolio.",
+      "criticism_short": "Fewer direct integrations than top competitors.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Software Advice User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 55,
+      "price_max": 479,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Desktop Sync",
+        "Zillow",
+        "TransUnion",
+        "HappyCo",
+        "PayNearMe"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "1099 e-Filing"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Yardi Breeze",
+      "url": "https://www.yardibreeze.com",
+      "founded": 2017,
+      "hq": "Santa Barbara, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Growing property management companies that want a simple, modern interface backed by the power and stability of an industry-leading enterprise provider.",
+      "best_for_short": "Scalable, from simple to powerful",
+      "pricing_band": "$$ ($100 to $400+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core PM Features": 8.8,
+        "Accounting & Reporting": 9,
+        "Ease of Use & UI/UX": 9.2,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Scalability": 9
+      },
+      "verdict": "Yardi Breeze secures a top spot by offering a refreshingly simple and intuitive platform that doesn't sacrifice the robust accounting and property management engine Yardi is known for, providing a perfect on-ramp to their enterprise solutions.",
+      "verdict_short": "A simple, modern front-end powered by Yardi's enterprise-grade accounting and stability.",
+      "praise": "The 'Breeze' and 'Breeze Premier' tiers provide a clear and effective upgrade path for portfolios as they grow in complexity and size.",
+      "praise_short": "Excellent, clear upgrade path for growing portfolios.",
+      "criticism": "The base 'Breeze' plan lacks some features that competitors include standard, such as job cost tracking and corporate accounting.",
+      "criticism_short": "Base plan is missing some key features.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Capterra Reviews",
+        "NAA Member Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 100,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "RentCafe",
+        "Yardi Marketplace",
+        "Walk Score",
+        "Sure"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "Affordable Housing",
+        "1099 e-Filing"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Entrata",
+      "url": "https://www.entrata.com",
+      "founded": 2003,
+      "hq": "Lehi, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Large multifamily operators and student housing providers needing a single, comprehensive platform for the entire resident lifecycle.",
+      "best_for_short": "Large-scale multifamily operators",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core PM Features": 9.3,
+        "Accounting & Reporting": 9,
+        "Ease of Use & UI/UX": 7.8,
+        "Integrations & Ecosystem": 9,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Entrata is a top choice for enterprise-scale operators because it's one of the few platforms built on a single, unified database, providing unparalleled data consistency across marketing, leasing, accounting, and facilities.",
+      "verdict_short": "A powerful, unified platform for enterprise operators demanding data consistency and control.",
+      "praise": "Its open API and extensive integration marketplace are among the best in the industry, allowing for deep customization.",
+      "praise_short": "Best-in-class open API and integration marketplace.",
+      "criticism": "The platform's immense power and scope come with significant complexity and a steep learning curve for new users.",
+      "criticism_short": "Steep learning curve and complex interface.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "NMHC Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Salesforce",
+        "Google Analytics",
+        "Docusign",
+        "Yelp"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "SOC 2",
+        "Fair Housing"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "TenantCloud",
+      "url": "https://www.tenantcloud.com",
+      "founded": 2014,
+      "hq": "Austin, USA",
+      "team_size_band": "51-200",
+      "best_for": "DIY landlords and small property managers looking for a feature-rich free or low-cost solution to manage their properties.",
+      "best_for_short": "Best free plan for landlords",
+      "pricing_band": "$ ($0 to $50/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core PM Features": 8.2,
+        "Accounting & Reporting": 7.8,
+        "Ease of Use & UI/UX": 8.5,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Scalability": 9.8
+      },
+      "verdict": "TenantCloud stands out as the best option for landlords on a budget by offering an impressively comprehensive free tier that covers up to 75 units with online payments, maintenance requests, and screening.",
+      "verdict_short": "The most feature-rich free plan on the market, ideal for budget-conscious landlords.",
+      "praise": "Its free plan is not just a trial; it's a genuinely usable product that can manage a small portfolio from end to end.",
+      "praise_short": "Generous free tier is a complete solution.",
+      "criticism": "While functional, the user interface feels less polished and the accounting features are less robust compared to premium competitors.",
+      "criticism_short": "UI is less polished; accounting is basic.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Capterra Reviews",
+        "Reddit User Threads"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Stripe",
+        "Google Calendar",
+        "TransUnion"
+      ],
+      "compliance": [
+        "1099-MISC Reporting"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "TurboTenant",
+      "url": "https://www.turbotenant.com",
+      "founded": 2015,
+      "hq": "Fort Collins, USA",
+      "team_size_band": "51-200",
+      "best_for": "Independent landlords who want a completely free core platform and are willing to pay for optional add-on services.",
+      "best_for_short": "Free core platform for landlords",
+      "pricing_band": "$ ($0, with paid add-ons)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core PM Features": 8,
+        "Accounting & Reporting": 7.5,
+        "Ease of Use & UI/UX": 8.8,
+        "Integrations & Ecosystem": 7.5,
+        "Pricing & Scalability": 9.5
+      },
+      "verdict": "TurboTenant earns its place by offering a genuinely free platform for landlords, monetizing through optional services for both landlords and tenants, making it an excellent, low-risk choice for managing the entire leasing lifecycle.",
+      "verdict_short": "A truly free platform for landlords, monetizing through optional landlord and tenant services.",
+      "praise": "The platform's lead tracking and tenant communication tools are exceptionally well-designed for a free product.",
+      "praise_short": "Excellent lead tracking in a free product.",
+      "criticism": "The accounting and reporting features are very basic, often requiring landlords to use separate software like QuickBooks for serious financial management.",
+      "criticism_short": "Very basic accounting and reporting features.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "BiggerPockets Forum"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Realtor.com",
+        "Apartments.com",
+        "TransUnion",
+        "Stripe"
+      ],
+      "compliance": [
+        "State-specific Leases"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 1
+    },
+    {
+      "rank": 7,
+      "name": "DoorLoop",
+      "url": "https://www.doorloop.com",
+      "founded": 2019,
+      "hq": "Miami, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized managers who value a modern, all-in-one platform with a strong focus on ease of use and customer support.",
+      "best_for_short": "Modern UI & great support",
+      "pricing_band": "$$ ($49 to $109+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core PM Features": 8,
+        "Accounting & Reporting": 8.2,
+        "Ease of Use & UI/UX": 8.5,
+        "Integrations & Ecosystem": 7.8,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "DoorLoop makes the list as a fast-growing contender that pairs a clean, modern interface with a full suite of accounting and management tools, making it one of the easiest full-featured platforms to learn and use.",
+      "verdict_short": "A fast-growing, user-friendly platform with a clean interface and strong accounting features.",
+      "praise": "Its built-in CRM and tenant communication tools are particularly strong, helping streamline interactions and track leads effectively.",
+      "praise_short": "Strong built-in CRM and communication tools.",
+      "criticism": "As a newer player, its feature set, especially for complex commercial or HOA needs, is still maturing compared to legacy providers.",
+      "criticism_short": "Feature set is still maturing for complex needs.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Capterra Reviews",
+        "Software Advice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 109,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Zillow",
+        "TransUnion",
+        "Zapier"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "1099 e-Filing"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Rentec Direct",
+      "url": "https://www.rentecdirect.com",
+      "founded": 2007,
+      "hq": "Grants Pass, USA",
+      "team_size_band": "11-50",
+      "best_for": "Landlords and smaller property managers who want a straightforward, no-frills platform with strong accounting and US-based customer support.",
+      "best_for_short": "Solid features & US-based support",
+      "pricing_band": "$$ ($45 to $90+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core PM Features": 7.8,
+        "Accounting & Reporting": 8.5,
+        "Ease of Use & UI/UX": 7,
+        "Integrations & Ecosystem": 7,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Rentec Direct is a solid, reliable choice that excels in core accounting and property management fundamentals, appealing to users who prefer function over form and value responsive, US-based customer service.",
+      "verdict_short": "A reliable, no-frills platform with strong accounting and highly-rated US-based support.",
+      "praise": "The platform includes a free professional website for marketing vacancies, a valuable feature not often included at its price point.",
+      "praise_short": "Includes a free professional website for marketing.",
+      "criticism": "Its user interface appears dated and can be less intuitive to navigate compared to more modern, design-focused competitors.",
+      "criticism_short": "Dated and less intuitive user interface.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "NARPM Member Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 45,
+      "price_max": 90,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zillow",
+        "DocuSign",
+        "TransUnion",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "1099-MISC Reporting"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Propertyware",
+      "url": "https://www.propertyware.com",
+      "founded": 2001,
+      "hq": "Richardson, USA",
+      "team_size_band": "201-500",
+      "best_for": "Professional managers of single-family rental portfolios who need a highly customizable platform with deep reporting capabilities.",
+      "best_for_short": "Customizable for single-family portfolios",
+      "pricing_band": "$$$ ($250 to $550+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core PM Features": 8,
+        "Accounting & Reporting": 8.5,
+        "Ease of Use & UI/UX": 6.5,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Propertyware is a powerful, specialized tool for single-family rental management, offering unparalleled customization and reporting that allows sophisticated operators to tailor workflows to their exact business processes.",
+      "verdict_short": "A highly customizable platform with deep reporting, built specifically for single-family managers.",
+      "praise": "Its ability to add custom fields and create detailed, specific reports is a key differentiator for data-driven management companies.",
+      "praise_short": "Unmatched customization and reporting capabilities.",
+      "criticism": "The platform has a notoriously steep learning curve and a less intuitive user interface, often requiring significant training to use effectively.",
+      "criticism_short": "Steep learning curve and clunky user interface.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Capterra Reviews",
+        "RealPage User Conference Notes"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 250,
+      "price_max": 550,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "DocuSign",
+        "Zillow",
+        "QuickBooks",
+        "HomeDepot"
+      ],
+      "compliance": [
+        "Trust Accounting",
+        "1099 e-Filing"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Avail",
+      "url": "https://www.avail.co",
+      "founded": 2012,
+      "hq": "Chicago, USA",
+      "team_size_band": "51-200",
+      "best_for": "DIY landlords who prioritize a simple, guided experience for the entire rental lifecycle, from listing to rent collection.",
+      "best_for_short": "Simple, guided landlord tools",
+      "pricing_band": "$ ($0 to $7/unit/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core PM Features": 7.5,
+        "Accounting & Reporting": 6.5,
+        "Ease of Use & UI/UX": 9,
+        "Integrations & Ecosystem": 6,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Avail, part of the Realtor.com network, excels by providing an incredibly simple and clean interface that guides independent landlords through every step of the process, from creating a listing to signing a state-specific lease.",
+      "verdict_short": "The easiest, most guided experience for DIY landlords, from listing to lease signing.",
+      "praise": "Its integration with the Realtor.com network gives listings significant exposure, and its lease templates are top-notch.",
+      "praise_short": "Excellent lease templates and listing exposure.",
+      "criticism": "The platform's accounting and financial reporting tools are minimal, making it a poor fit for landlords who need detailed bookkeeping.",
+      "criticism_short": "Minimal accounting and financial reporting tools.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "PCMag Review",
+        "BiggerPockets Forum"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 7,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Realtor.com",
+        "Zillow",
+        "TransUnion",
+        "Apartments.com"
+      ],
+      "compliance": [
+        "State-specific Leases"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 1
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Baselane",
+      "url": "https://www.baselane.com",
+      "founded": 2020,
+      "hq": "New York, USA",
+      "team_size_band": "11-50",
+      "best_for": "Modern landlords who want to manage their properties through a finance-first lens, combining banking, bookkeeping, and rent collection.",
+      "best_for_short": "Finance-first landlord platform",
+      "pricing_band": "$ ($0 core platform)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Core PM Features": 6,
+        "Accounting & Reporting": 9,
+        "Ease of Use & UI/UX": 8,
+        "Integrations & Ecosystem": 6,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Baselane is our wildcard because it's not a traditional PM software; it's a financial operating system for landlords, uniquely combining high-yield business banking, automated bookkeeping, and rent collection into one free platform.",
+      "verdict_short": "A unique, finance-first platform combining banking, bookkeeping, and rent collection for landlords.",
+      "praise": "Its ability to automate income and expense tracking by providing dedicated virtual accounts for each property is a game-changer for financial organization.",
+      "praise_short": "Game-changing automated bookkeeping via virtual accounts.",
+      "criticism": "It lacks many core property management features, such as maintenance tracking, tenant communication portals, and lease management.",
+      "criticism_short": "Lacks core PM features like maintenance tracking.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "TechCrunch Articles",
+        "Fintech Blogs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Plaid",
+        "Stripe"
+      ],
+      "compliance": [
+        "FDIC Insured Banking"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
