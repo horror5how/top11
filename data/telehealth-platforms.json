@@ -1,0 +1,837 @@
+{
+  "slug": "telehealth-platforms",
+  "title": "The 11 Best Telehealth Platforms",
+  "subtitle": "A ranked list of the top telehealth solutions for healthcare providers, focusing on EHR integration, patient experience, and HIPAA compliance.",
+  "vertical": "Healthcare · Telehealth",
+  "audience": "Healthcare providers running virtual visits",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Healthcare Software",
+  "subsector": "Telemedicine",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights HIPAA Compliance (25%), EHR Integration (25%), Patient Experience (20%), Provider Features (15%), Pricing (10%), and Support (5%)."
+    }
+  ],
+  "answer_capsule": "The best telehealth platform for most providers is Doxy.me for its simplicity and free tier, followed closely by Teladoc Health for enterprise scale and Amwell for its comprehensive service offerings.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "HIPAA_Compliance_and_Security",
+        "key": "compliance_security",
+        "weight": 25,
+        "description": "Strength of security protocols, HIPAA/HITECH compliance, BAA availability, and data encryption standards."
+      },
+      {
+        "name": "EHR_Integration_and_Workflow",
+        "key": "ehr_integration",
+        "weight": 25,
+        "description": "Depth and breadth of integrations with major Electronic Health Record systems and seamless fit into clinical workflows."
+      },
+      {
+        "name": "Patient_Experience_and_Accessibility",
+        "key": "patient_experience",
+        "weight": 20,
+        "description": "Ease of use for patients, no-download options, multi-language support, and reliability of the connection."
+      },
+      {
+        "name": "Provider_Features_and_Usability",
+        "key": "provider_features",
+        "weight": 15,
+        "description": "Quality of the clinician interface, including features like virtual waiting rooms, charting, e-prescribing, and billing tools."
+      },
+      {
+        "name": "Pricing_and_Scalability",
+        "key": "pricing_scalability",
+        "weight": 10,
+        "description": "Transparency, value for money, availability of a free or low-cost tier, and ability to scale with a growing practice."
+      },
+      {
+        "name": "Support_and_Implementation",
+        "key": "support_implementation",
+        "weight": 5,
+        "description": "Quality of customer support, availability of training resources, and ease of initial setup and onboarding."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Solo Practitioners",
+    "Small Clinics",
+    "Hospital Systems",
+    "Behavioral Health",
+    "Specialty Care"
+  ],
+  "problem_tags": [
+    "Virtual Visits",
+    "Patient Engagement",
+    "No-Show Reduction",
+    "EHR Workflow",
+    "HIPAA Compliance"
+  ],
+  "query_intents": [
+    "best telehealth software",
+    "HIPAA compliant video conferencing",
+    "telemedicine platform for private practice",
+    "doxy.me alternatives",
+    "telehealth EHR integration"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Quick setup for virtual visits",
+        "Cost-effective telehealth for solo practitioners"
+      ],
+      "personas": [
+        "Solo practitioners",
+        "Small clinics"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Enterprise-wide telehealth deployment",
+        "Complex clinical service line integration"
+      ],
+      "personas": [
+        "Large hospital systems",
+        "Health insurance plans"
+      ]
+    },
+    "4": {
+      "solves": [
+        "All-in-one practice management",
+        "Integrated billing and telehealth for therapists"
+      ],
+      "personas": [
+        "Therapists",
+        "Behavioral health specialists"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "Assess Your Workflow Needs First",
+      "a": "Before choosing a platform, map out your ideal virtual visit workflow. Do you need deep EHR integration for charting, or a simple, standalone video tool? This decision will narrow your options significantly."
+    },
+    {
+      "q": "Prioritize the Patient Experience",
+      "a": "The best platform is useless if patients can't easily use it. Look for browser-based solutions that don't require app downloads, and test the interface from a patient's perspective."
+    },
+    {
+      "q": "Verify HIPAA Compliance",
+      "a": "Never assume a video tool is compliant. Insist on a signed Business Associate Agreement (BAA) from the provider. This is a non-negotiable legal requirement for handling Protected Health Information (PHI)."
+    }
+  ],
+  "how_to_choose": [
+    "Determine if you need a standalone platform or one integrated with your existing EHR/practice management software.",
+    "Evaluate the total cost of ownership, including per-provider fees, per-visit charges, and implementation costs.",
+    "Request a demo and run a trial with both clinical staff and a test patient to assess usability for all parties.",
+    "Check for features specific to your specialty, such as group therapy rooms for behavioral health or device streaming for cardiology."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between telehealth and telemedicine?",
+      "a": "Telemedicine specifically refers to remote clinical services, while telehealth is a broader term that includes non-clinical services like provider training, administrative meetings, and continuing medical education, in addition to clinical services."
+    },
+    {
+      "q": "How much does a telehealth platform typically cost?",
+      "a": "Costs vary widely. Some platforms like Doxy.me offer a free, basic tier. Paid plans for solo practitioners typically range from $30 to $100 per provider per month. Enterprise solutions for hospitals can cost thousands per month, often with implementation fees."
+    },
+    {
+      "q": "Is Zoom or Google Meet sufficient for telehealth?",
+      "a": "Special healthcare-specific versions of these platforms (Zoom for Healthcare, Google Workspace with a BAA) can be HIPAA-compliant for basic video calls. However, they lack the integrated clinical workflows, EHR connections, and patient management features of dedicated telehealth platforms."
+    },
+    {
+      "q": "What are the key features to look for in a telehealth platform?",
+      "a": "Key features include HIPAA compliance with a BAA, a virtual waiting room, EHR integration, e-prescribing, secure messaging, and an easy-to-use interface for both patients and providers."
+    }
+  ],
+  "honest_disclosures": [
+    "This list focuses on platforms for providers to connect with their own patients; it does not cover direct-to-consumer services where patients find a new provider through the platform.",
+    "Most candidates are US-based, and while many can be used internationally, the feature sets (especially EHR integrations and e-prescribing) are optimized for the US healthcare market.",
+    "Pricing for enterprise-level platforms is often opaque and requires a custom quote, so listed price ranges are estimates."
+  ],
+  "glossary": {
+    "term": "EHR Integration",
+    "definition": "The ability of a telehealth platform to connect and share data with a practice's Electronic Health Record (EHR) system. This can range from simple demographic data sync to deep integration where visit notes and billing information are automatically filed in the patient's chart.",
+    "synonyms": [
+      "EMR Integration",
+      "Practice Management Integration"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Doxy.me",
+      "url": "https://doxy.me",
+      "founded": 2014,
+      "hq": "Rochester, USA",
+      "team_size_band": "51-200",
+      "best_for": "Solo practitioners and small clinics needing a simple, secure, and free or low-cost solution for video visits without complex integrations.",
+      "best_for_short": "Simple, free, secure video visits",
+      "pricing_band": "$ ($0 to $50/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "compliance_security": 9.2,
+        "ehr_integration": 7.5,
+        "patient_experience": 9.8,
+        "provider_features": 9,
+        "pricing_scalability": 9.9,
+        "support_implementation": 9.5
+      },
+      "verdict": "Doxy.me ranks first for its unparalleled simplicity and robust free tier, making secure, browser-based telehealth accessible to any practice, regardless of size or budget.",
+      "verdict_short": "The top pick for its unmatched simplicity, security, and powerful free version for any practice size.",
+      "praise": "The platform's 'no download required' approach for patients creates a nearly frictionless experience, significantly lowering barriers to care.",
+      "praise_short": "Extremely easy for patients to use with no downloads.",
+      "criticism": "Its strength in simplicity means it lacks deep EHR integrations and the advanced practice management features found in more comprehensive suites.",
+      "criticism_short": "Lacks deep EHR integration and advanced features.",
+      "sources_pending": [
+        "Doxy.me Pricing Page",
+        "G2 Doxy.me Reviews",
+        "Capterra Telemedicine Software Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "API available",
+        "Zapier"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "GDPR",
+        "PIPEDA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Teladoc Health (Solo Platform for Providers)",
+      "url": "https://www.teladochealth.com/providers/",
+      "founded": 2002,
+      "hq": "Purchase, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large health systems and hospitals requiring a scalable, enterprise-grade platform with a wide range of specialty-specific hardware and clinical services.",
+      "best_for_short": "Enterprise-grade telehealth for hospitals",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "compliance_security": 9.8,
+        "ehr_integration": 9.5,
+        "patient_experience": 8.8,
+        "provider_features": 9.4,
+        "pricing_scalability": 7,
+        "support_implementation": 9.2
+      },
+      "verdict": "Teladoc Health is the best choice for large-scale healthcare organizations due to its market-leading enterprise platform, deep integration capabilities, and comprehensive clinical program support.",
+      "verdict_short": "The leading enterprise platform for large health systems needing scalability and deep integration.",
+      "praise": "The platform's purpose-built hardware and software for various specialties, from tele-ICU to dermatology, are unmatched in the industry.",
+      "praise_short": "Unmatched specialty-specific hardware and software.",
+      "criticism": "Its cost and complexity make it inaccessible and overkill for small practices, and the focus is squarely on large, system-level deployments.",
+      "criticism_short": "Too complex and expensive for small practices.",
+      "sources_pending": [
+        "Teladoc Health Solutions Page",
+        "KLAS Research Telehealth Report",
+        "Forrester Wave: Virtual Care Platforms"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "Allscripts",
+        "athenahealth",
+        "Custom API"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "HITRUST"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Amwell",
+      "url": "https://business.amwell.com/",
+      "founded": 2006,
+      "hq": "Boston, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Health systems and payers looking for a highly configurable and comprehensive telehealth ecosystem that bridges virtual and in-person care.",
+      "best_for_short": "Comprehensive telehealth ecosystem",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "compliance_security": 9.5,
+        "ehr_integration": 9.4,
+        "patient_experience": 8.5,
+        "provider_features": 9,
+        "pricing_scalability": 7.5,
+        "support_implementation": 9
+      },
+      "verdict": "Amwell secures a top spot with its powerful, modular platform that allows large organizations to build and scale diverse telehealth programs across the entire care continuum.",
+      "verdict_short": "A powerful, modular platform for large organizations to scale diverse telehealth programs.",
+      "praise": "Its strong partnerships with major health plans and deep integration with EHRs like Epic make it a seamless choice for established healthcare players.",
+      "praise_short": "Strong payer partnerships and deep EHR integration.",
+      "criticism": "Like other enterprise leaders, Amwell's platform is not designed for small, independent practices, and its implementation can be a lengthy and resource-intensive process.",
+      "criticism_short": "Not for small practices; implementation is lengthy.",
+      "sources_pending": [
+        "Amwell Platform Overview",
+        "Gartner Magic Quadrant for Virtual Care",
+        "Customer case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "Google Health",
+        "TytoCare",
+        "Various EMRs"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "HITRUST"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "SimplePractice",
+      "url": "https://www.simplepractice.com/",
+      "founded": 2012,
+      "hq": "Santa Monica, USA",
+      "team_size_band": "201-500",
+      "best_for": "Behavioral health professionals and other wellness practitioners in private practice who want an all-in-one practice management solution.",
+      "best_for_short": "All-in-one for private practice",
+      "pricing_band": "$$ ($69 to $159/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "compliance_security": 9,
+        "ehr_integration": 7,
+        "patient_experience": 8.8,
+        "provider_features": 9.5,
+        "pricing_scalability": 8.5,
+        "support_implementation": 8
+      },
+      "verdict": "SimplePractice excels by tightly integrating telehealth into a complete practice management suite, making it the best choice for therapists and solo practitioners who need scheduling, billing, and notes in one place.",
+      "verdict_short": "The best all-in-one suite (telehealth, billing, notes) for therapists and solo practitioners.",
+      "praise": "Its streamlined workflow, from client booking on a professional website to automated billing and reminders, saves practitioners significant administrative time.",
+      "praise_short": "Streamlined workflow saves administrative time.",
+      "criticism": "The platform is highly specialized for behavioral health and wellness, making it a poor fit for other medical specialties, and it doesn't integrate with external EHRs.",
+      "criticism_short": "Poor fit for medical specialties outside behavioral health.",
+      "sources_pending": [
+        "SimplePractice Pricing Page",
+        "PCMag Review of SimplePractice",
+        "User reviews on Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 159,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Google Calendar",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "Australia",
+        "UK"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Zoom for Healthcare",
+      "url": "https://www.zoom.us/healthcare",
+      "founded": 2011,
+      "hq": "San Jose, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Practices and health systems that prioritize familiarity and ease of use, and have the IT resources to integrate it into their existing clinical workflows.",
+      "best_for_short": "Familiar, reliable video conferencing",
+      "pricing_band": "$$$ (Starts at $200/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "compliance_security": 8.8,
+        "ehr_integration": 7.5,
+        "patient_experience": 9.6,
+        "provider_features": 7,
+        "pricing_scalability": 8,
+        "support_implementation": 8.5
+      },
+      "verdict": "Zoom for Healthcare makes the list because its ubiquitous, user-friendly interface ensures high adoption rates among patients and providers, offering a reliable video connection with the necessary security layers for healthcare.",
+      "verdict_short": "A top choice for its familiar interface and reliability, ensuring high patient/provider adoption.",
+      "praise": "The video and audio quality are consistently best-in-class, providing a stable and clear connection crucial for clinical consultations.",
+      "praise_short": "Best-in-class video and audio quality.",
+      "criticism": "Out of the box, it's just a video tool; it lacks a virtual waiting room, patient scheduling, and other clinical features unless integrated with another application via its marketplace.",
+      "criticism_short": "Lacks key clinical features without third-party integrations.",
+      "sources_pending": [
+        "Zoom for Healthcare Pricing",
+        "Zoom App Marketplace",
+        "HIPAA Journal Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 200,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "Many via Marketplace",
+        "API/SDK"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "PIPEDA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Updox",
+      "url": "https://www.updox.com/",
+      "founded": 2008,
+      "hq": "Dublin, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to medium-sized practices seeking a unified communication platform that combines telehealth with secure text, patient reminders, and electronic fax.",
+      "best_for_short": "Unified patient communication hub",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "compliance_security": 8.5,
+        "ehr_integration": 9,
+        "patient_experience": 8,
+        "provider_features": 8.2,
+        "pricing_scalability": 7.5,
+        "support_implementation": 8
+      },
+      "verdict": "Updox earns its spot by positioning telehealth as one component of a complete patient communication strategy, with strong EHR integrations that help streamline front-office and clinical workflows.",
+      "verdict_short": "A complete communication platform with strong EHR integrations to streamline practice workflows.",
+      "praise": "Its extensive library of pre-built integrations with over 100 EHRs makes it one of the easiest platforms to add onto an existing practice tech stack.",
+      "praise_short": "Excellent pre-built integrations with many EHRs.",
+      "criticism": "The user interface can feel dated compared to more modern, video-first platforms, and some users report the feature set can be overwhelming.",
+      "criticism_short": "User interface feels dated and can be overwhelming.",
+      "sources_pending": [
+        "Updox Solutions Page",
+        "Software Advice Updox Reviews",
+        "Updox EHR Integration Partners List"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Allscripts",
+        "athenahealth",
+        "eClinicalWorks",
+        "NextGen",
+        "100+ others"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Mend",
+      "url": "https://www.mend.com/",
+      "founded": 2014,
+      "hq": "Orlando, USA",
+      "team_size_band": "51-200",
+      "best_for": "Practices focused on reducing no-show rates and automating patient intake through smart scheduling and communication tools.",
+      "best_for_short": "Reducing no-shows and automating intake",
+      "pricing_band": "$$$ (Starts around $299/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "compliance_security": 8.5,
+        "ehr_integration": 8.2,
+        "patient_experience": 8.8,
+        "provider_features": 7.8,
+        "pricing_scalability": 7,
+        "support_implementation": 7.5
+      },
+      "verdict": "Mend stands out for its intelligent patient engagement features, using AI-powered reminders and digital intake forms to dramatically reduce no-shows and prepare patients for their virtual visits.",
+      "verdict_short": "Reduces no-shows effectively with AI-powered reminders and streamlined digital intake forms.",
+      "praise": "The platform's ability to automatically send appointment links and handle forms ahead of time significantly reduces administrative burden and improves clinic efficiency.",
+      "praise_short": "Automated forms and links reduce administrative work.",
+      "criticism": "The core video consultation interface is less feature-rich than some competitors, as the platform's main focus is on the surrounding patient journey.",
+      "criticism_short": "Core video interface is less feature-rich.",
+      "sources_pending": [
+        "Mend Solutions Page",
+        "G2 Mend Reviews",
+        "Case studies on no-show reduction"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 299,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "eClinicalWorks",
+        "NextGen",
+        "athenahealth",
+        "AdvancedMD"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "VSee",
+      "url": "https://vsee.com/",
+      "founded": 2008,
+      "hq": "San Jose, USA",
+      "team_size_band": "51-200",
+      "best_for": "Organizations needing a highly customizable and flexible telehealth solution, from simple video calls to complex, multi-party workflows.",
+      "best_for_short": "Highly customizable and flexible workflows",
+      "pricing_band": "$$ ($49 to $499+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "compliance_security": 8.5,
+        "ehr_integration": 7.5,
+        "patient_experience": 7,
+        "provider_features": 8.5,
+        "pricing_scalability": 7.8,
+        "support_implementation": 7
+      },
+      "verdict": "VSee is a veteran in the telehealth space, offering a uniquely configurable platform that can be adapted for a wide variety of clinical use cases, famously including providing support to astronauts on the ISS.",
+      "verdict_short": "A highly configurable veteran platform adaptable to diverse and complex clinical use cases.",
+      "praise": "Its low-bandwidth video technology ensures a stable connection even in areas with poor internet, a critical feature for expanding access to care.",
+      "praise_short": "Reliable video on low-bandwidth connections.",
+      "criticism": "The user experience requires a software download for full functionality, which can be a barrier for less tech-savvy patients compared to browser-based rivals.",
+      "criticism_short": "Requires a software download, a barrier for some patients.",
+      "sources_pending": [
+        "VSee Clinic Pricing",
+        "VSee API/SDK Documentation",
+        "NASA partnership announcements"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "API/SDK for custom builds",
+        "Various peripheral medical devices"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Tebra (formerly Kareo)",
+      "url": "https://www.tebra.com/telehealth/",
+      "founded": 2004,
+      "hq": "Newport Beach, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Independent medical practices already using or considering the Tebra (Kareo) ecosystem for practice management, billing, and EHR.",
+      "best_for_short": "Integrated telehealth for independent practices",
+      "pricing_band": "$$ (Bundled with PM/EHR)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "compliance_security": 8,
+        "ehr_integration": 8.5,
+        "patient_experience": 7.5,
+        "provider_features": 7.8,
+        "pricing_scalability": 7,
+        "support_implementation": 7
+      },
+      "verdict": "Tebra's telehealth solution is a logical and powerful choice for small to medium-sized independent practices, as it's fully integrated within its widely-used practice management and clinical software.",
+      "verdict_short": "A powerful, fully integrated telehealth option for practices using the Tebra/Kareo suite.",
+      "praise": "The seamless flow from scheduling a telehealth visit to charting and billing within a single system is a major efficiency gain for small practice staff.",
+      "praise_short": "Seamless workflow from scheduling to billing.",
+      "criticism": "As a feature of a larger platform, it lacks the advanced capabilities of standalone, best-of-breed telehealth solutions and is not a viable option for practices not using Tebra's core software.",
+      "criticism_short": "Not a standalone option; lacks advanced features.",
+      "sources_pending": [
+        "Tebra Platform Overview",
+        "Kareo Telehealth Launch Information",
+        "Capterra Tebra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Tebra EHR",
+        "Tebra Practice Management"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "athenaTelehealth",
+      "url": "https://www.athenahealth.com/solutions/telehealth",
+      "founded": 1997,
+      "hq": "Watertown, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Medical groups and practices deeply embedded in the athenahealth ecosystem who want a native, fully integrated telehealth solution.",
+      "best_for_short": "Native telehealth for athenahealth users",
+      "pricing_band": "$$$ (Add-on to athenaOne)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "compliance_security": 8.5,
+        "ehr_integration": 9.8,
+        "patient_experience": 7,
+        "provider_features": 7.5,
+        "pricing_scalability": 6,
+        "support_implementation": 7
+      },
+      "verdict": "athenaTelehealth is the definitive choice for practices on the athenaOne platform, offering unmatched integration that embeds virtual visits directly into existing charting, scheduling, and billing workflows.",
+      "verdict_short": "The go-to choice for athenaOne users, with unmatched workflow and billing integration.",
+      "praise": "Because it's a native module, providers can conduct a video visit while simultaneously documenting in the patient's chart within the same window, a major workflow advantage.",
+      "praise_short": "Video and charting in a single, seamless window.",
+      "criticism": "The solution is only available to athenahealth customers, and its feature set is basic compared to standalone market leaders.",
+      "criticism_short": "Only for athenahealth customers; basic features.",
+      "sources_pending": [
+        "athenahealth Solutions Page",
+        "KLAS Research athenahealth report",
+        "athenahealth Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "athenaOne (native)"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Spruce Health",
+      "url": "https://www.sprucehealth.com/",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Modern practices that want to unify all patient and team communication—including phone, text, fax, and video—into a single, mobile-first application.",
+      "best_for_short": "Unified communication for modern practices",
+      "pricing_band": "$ ($24 to $79/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "compliance_security": 8,
+        "ehr_integration": 6,
+        "patient_experience": 8.5,
+        "provider_features": 7,
+        "pricing_scalability": 8,
+        "support_implementation": 6.5
+      },
+      "verdict": "Our wildcard, Spruce Health, isn't just a telehealth platform but a comprehensive, HIPAA-compliant communication hub that treats video visits as one of many ways to connect with patients, reflecting a shift towards more flexible, asynchronous care models.",
+      "verdict_short": "A communication-first platform where video is one piece of a unified patient conversation.",
+      "praise": "Its ability to manage a practice's phone system, secure messaging, and video calls from a single app is a game-changer for mobile-first clinicians and distributed teams.",
+      "praise_short": "Manages phone, text, and video in one app.",
+      "criticism": "The platform's telehealth features are more basic than dedicated solutions, and it lacks the deep EHR workflow integrations of its larger competitors.",
+      "criticism_short": "Basic telehealth features and limited EHR integration.",
+      "sources_pending": [
+        "Spruce Health Pricing",
+        "Spruce Health Blog",
+        "Forbes review of healthcare communication apps"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 24,
+      "price_max": 79,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "API available"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

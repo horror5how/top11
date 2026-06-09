@@ -1,0 +1,874 @@
+{
+  "slug": "headless-cms",
+  "title": "The 11 Best Headless CMS",
+  "subtitle": "A ranked list of the top headless content management systems for developers building modern, composable web experiences.",
+  "vertical": "Developer Tools · CMS",
+  "audience": "Frontend developers building Jamstack and composable sites",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Developer Tools",
+  "subsector": "Content Management Systems",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Developer Experience (30%), Content Editor Experience (20%), Scalability & Performance (20%), Ecosystem & Integrations (15%), Pricing & TCO (10%), and Enterprise Readiness (5%)."
+    }
+  ],
+  "answer_capsule": "The best headless CMS is Sanity for its unparalleled developer experience and real-time content backend, followed closely by Contentful and Storyblok.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Developer Experience & API Quality",
+        "weight": 30,
+        "description": "Quality of APIs (GraphQL/REST), SDKs, documentation, content modeling flexibility, and overall ease of integration for developers."
+      },
+      {
+        "name": "Content Editor Experience",
+        "weight": 20,
+        "description": "Usability of the content authoring interface, including features like visual/live previews, collaboration tools, and custom field types."
+      },
+      {
+        "name": "Scalability & Performance",
+        "weight": 20,
+        "description": "Ability to handle high traffic and large data volumes, including asset management, CDN performance, and API response times."
+      },
+      {
+        "name": "Ecosystem & Integrations",
+        "weight": 15,
+        "description": "Availability of pre-built integrations, framework compatibility (Next.js, Nuxt, etc.), and overall community support."
+      },
+      {
+        "name": "Pricing & Total Cost of Ownership",
+        "weight": 10,
+        "description": "Transparency, scalability, and fairness of pricing models, including the value offered in the free tier and enterprise plans."
+      },
+      {
+        "name": "Enterprise Readiness & Support",
+        "weight": 5,
+        "description": "Features like SSO, advanced roles/permissions, compliance (SOC 2, GDPR), SLAs, and quality of customer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Jamstack",
+    "Composable Architecture",
+    "API-first CMS",
+    "SaaS",
+    "Open Source"
+  ],
+  "problem_tags": [
+    "Content Bottlenecks",
+    "Monolithic Architecture",
+    "Slow Websites",
+    "Multi-channel Publishing"
+  ],
+  "query_intents": [
+    "best headless cms",
+    "headless cms comparison",
+    "contentful vs sanity",
+    "strapi review",
+    "jamstack cms"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Complex content modeling",
+        "Real-time collaboration",
+        "Customizable studio"
+      ],
+      "personas": [
+        "Lead Frontend Developer",
+        "Digital Agency"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Enterprise content governance",
+        "Global content delivery",
+        "Multi-brand architecture"
+      ],
+      "personas": [
+        "Enterprise Architect",
+        "Head of Digital"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Visual editing for marketers",
+        "Component-based architecture",
+        "E-commerce content"
+      ],
+      "personas": [
+        "Marketing Manager",
+        "Frontend Developer"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Data sovereignty",
+        "Cost control",
+        "Full customization"
+      ],
+      "personas": [
+        "Full-stack Developer",
+        "Startup CTO"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.1,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is a Headless CMS?",
+      "a": "A headless CMS is a back-end only content management system that acts as a content repository. It makes content accessible via an API for display on any device or channel, decoupling the content ('body') from the presentation layer ('head')."
+    },
+    {
+      "q": "Why choose a Headless CMS over a traditional one like WordPress?",
+      "a": "Developers choose headless for greater flexibility, better performance, and enhanced security. It allows them to use modern frontend frameworks (like React, Vue, Svelte) and deliver content to multiple platforms (web, mobile apps, IoT) from a single source, which is difficult with a monolithic system like WordPress."
+    }
+  ],
+  "how_to_choose": [
+    "Evaluate the developer experience first: Check the quality of API documentation, SDKs, and how intuitive content modeling is for your specific needs.",
+    "Consider your content team's workflow: If non-technical users will be managing content, prioritize a user-friendly editing interface with features like live previews or visual editing.",
+    "Assess scalability and pricing models: Analyze API rate limits, asset hosting costs, and user seat pricing to ensure the platform can grow with your project without becoming cost-prohibitive."
+  ],
+  "faqs": [
+    {
+      "q": "What is the main difference between a Git-based and an API-based headless CMS?",
+      "a": "API-based CMS (like Sanity, Contentful) store content in a database and expose it via an API, offering real-time updates and complex querying. Git-based CMS (like TinaCMS) store content as files (e.g., Markdown, JSON) in a Git repository, which provides version control and fits naturally into a developer's existing CI/CD workflow."
+    },
+    {
+      "q": "Is a headless CMS good for SEO?",
+      "a": "Yes, a headless CMS can be excellent for SEO. Because you control the frontend completely, you can implement perfect on-page SEO, structured data, and optimize for Core Web Vitals. The fast performance of sites built with modern frameworks on a headless architecture is also a major ranking factor."
+    },
+    {
+      "q": "Can I use a headless CMS for an e-commerce site?",
+      "a": "Absolutely. This is a primary use case for composable commerce. You can use a headless CMS to manage product marketing content, blog posts, and landing pages, while integrating with a headless e-commerce platform (like Shopify) for cart and checkout functionality."
+    },
+    {
+      "q": "How much does a headless CMS cost?",
+      "a": "Costs vary widely. Most providers offer a generous free tier for small projects. Paid plans typically start around $100/month for teams and can scale to thousands per month for enterprises, based on factors like user seats, API calls, and bandwidth."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes API-first, SaaS platforms, as they represent the dominant paradigm for Jamstack development. Self-hosted and open-source options like Strapi are included but are evaluated on their cloud offerings for a fair comparison.",
+    "Pricing for enterprise tiers is often opaque ('Contact Sales'); our pricing bands are estimates based on public data and industry knowledge.",
+    "Most candidates are US or EU-based, which may influence support hours and documentation language for teams in other regions."
+  ],
+  "glossary": {
+    "term": "Jamstack",
+    "definition": "A modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt Markup. Jamstack sites are often served from a CDN, making them fast, secure, and scalable.",
+    "synonyms": [
+      "Static Site Generation (SSG)",
+      "Composable Architecture"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Sanity",
+      "url": "https://www.sanity.io",
+      "founded": 2015,
+      "hq": "Oslo, Norway & San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Development teams who need maximum flexibility and a real-time, collaborative content backend with a fully customizable editing environment.",
+      "best_for_short": "Ultimate developer flexibility",
+      "pricing_band": "$$ ($99 to $949+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 9.4,
+        "Content Editor Experience": 9.2,
+        "Scalability & Performance": 9.3,
+        "Ecosystem & Integrations": 9.2,
+        "Pricing & Total Cost of Ownership": 9,
+        "Enterprise Readiness & Support": 9.2
+      },
+      "verdict": "Sanity.io is the best headless CMS for its unparalleled developer experience, offering a real-time graph-based backend, the powerful GROQ query language, and a completely customizable, open-source editing studio built with React.",
+      "verdict_short": "Unmatched developer experience with a real-time backend and customizable studio.",
+      "praise": "The ability to treat content as data with Portable Text and the real-time collaboration features are game-changers for complex content workflows.",
+      "praise_short": "Portable Text and real-time collaboration are revolutionary.",
+      "criticism": "The GROQ query language, while powerful, has a learning curve for teams accustomed to GraphQL, and the pay-as-you-go pricing can be unpredictable for high-traffic sites.",
+      "criticism_short": "GROQ has a learning curve; pricing can be unpredictable.",
+      "sources_pending": [
+        "Sanity Documentation",
+        "G2 Reviews",
+        "Jamstack Community Survey"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 949,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Vercel",
+        "Netlify",
+        "Next.js",
+        "Gatsby",
+        "Shopify",
+        "Mux"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Contentful",
+      "url": "https://www.contentful.com",
+      "founded": 2013,
+      "hq": "Berlin, Germany",
+      "team_size_band": "501-1000",
+      "best_for": "Enterprises and large organizations that require robust governance, localization, and a mature, scalable platform for multi-brand, multi-channel content operations.",
+      "best_for_short": "Enterprise-grade content operations",
+      "pricing_band": "$$$ ($300 to $3000+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 9,
+        "Content Editor Experience": 9,
+        "Scalability & Performance": 9.4,
+        "Ecosystem & Integrations": 9.3,
+        "Pricing & Total Cost of Ownership": 8.5,
+        "Enterprise Readiness & Support": 9.5
+      },
+      "verdict": "Contentful ranks this high due to its proven enterprise-readiness, providing a highly scalable and secure content infrastructure with powerful features for governance, internationalization, and app integrations that large teams need.",
+      "verdict_short": "The market leader for secure, scalable enterprise content infrastructure.",
+      "praise": "Its Content Management API and Content Delivery API are both robust and well-documented, and the App Framework allows for deep customization of the editor experience.",
+      "praise_short": "Robust APIs and a highly extensible App Framework.",
+      "criticism": "The user interface can feel less intuitive for content editors compared to more modern competitors, and the pricing structure becomes expensive quickly as teams and projects scale.",
+      "criticism_short": "Editor UI feels dated; pricing gets expensive fast.",
+      "sources_pending": [
+        "Contentful Documentation",
+        "Forrester Wave Report",
+        "Gartner Magic Quadrant"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 3000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Vercel",
+        "Netlify",
+        "Shopify",
+        "Salesforce",
+        "Workday",
+        "AWS S3"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia Pacific",
+        "China"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Storyblok",
+      "url": "https://www.storyblok.com",
+      "founded": 2017,
+      "hq": "Linz, Austria",
+      "team_size_band": "201-500",
+      "best_for": "Teams with both developers and marketers who need a highly collaborative environment, centered around a best-in-class visual editor for real-time page building.",
+      "best_for_short": "Best-in-class visual editor",
+      "pricing_band": "$$$ ($499 to $2999+/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 8.8,
+        "Content Editor Experience": 9.4,
+        "Scalability & Performance": 9,
+        "Ecosystem & Integrations": 8.8,
+        "Pricing & Total Cost of Ownership": 8.4,
+        "Enterprise Readiness & Support": 8.6
+      },
+      "verdict": "Storyblok earns its top-tier spot with a standout visual editor that empowers marketing teams to build and edit pages independently, bridging the gap between developers and content creators better than any other platform.",
+      "verdict_short": "Bridges the developer-marketer gap with an excellent visual editor.",
+      "praise": "The component-based approach combined with the Visual Editor provides an intuitive, live preview experience that significantly speeds up content production.",
+      "praise_short": "Component-based model with live visual editing is superb.",
+      "criticism": "While the visual editor is powerful, the underlying content modeling and developer APIs are slightly less flexible than top competitors like Sanity or Contentful.",
+      "criticism_short": "Content modeling is less flexible than top competitors.",
+      "sources_pending": [
+        "Storyblok Documentation",
+        "G2 Reviews",
+        "Customer Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 2999,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Next.js",
+        "Nuxt.js",
+        "Shopify",
+        "BigCommerce",
+        "Vercel",
+        "Netlify"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia Pacific",
+        "South America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Strapi",
+      "url": "https://strapi.io",
+      "founded": 2016,
+      "hq": "Paris, France",
+      "team_size_band": "51-200",
+      "best_for": "Developers and companies that want the flexibility and control of an open-source, self-hostable solution, with the option of a managed cloud platform.",
+      "best_for_short": "Leading open-source option",
+      "pricing_band": "$$ ($99 to $499+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 9,
+        "Content Editor Experience": 8.4,
+        "Scalability & Performance": 8.2,
+        "Ecosystem & Integrations": 8.8,
+        "Pricing & Total Cost of Ownership": 9.2,
+        "Enterprise Readiness & Support": 8
+      },
+      "verdict": "Strapi is the best open-source headless CMS, offering developers complete control over their data, extensive customization through a plugin system, and the choice between self-hosting for free or using their managed cloud service.",
+      "verdict_short": "The top open-source choice for full control and customization.",
+      "praise": "Its 100% JavaScript/TypeScript codebase makes it highly accessible, and the ability to quickly create and customize APIs is a major strength.",
+      "praise_short": "Highly customizable and accessible for JavaScript developers.",
+      "criticism": "While self-hosting is free, managing the infrastructure, scaling, and security adds operational overhead that SaaS platforms handle for you.",
+      "criticism_short": "Self-hosting adds significant operational overhead.",
+      "sources_pending": [
+        "Strapi Documentation",
+        "GitHub Repository",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Next.js",
+        "React",
+        "Vue.js",
+        "Angular",
+        "Vercel",
+        "Docker"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II (Cloud)"
+      ],
+      "regions": [
+        "Self-hosted",
+        "Multiple (Cloud)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Hygraph",
+      "url": "https://hygraph.com",
+      "founded": 2017,
+      "hq": "Berlin, Germany",
+      "team_size_band": "51-200",
+      "best_for": "Developers building GraphQL-native applications who need powerful content federation capabilities to unify data from multiple sources into a single API.",
+      "best_for_short": "GraphQL-native content federation",
+      "pricing_band": "$$$ ($399 to $1299+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 9.2,
+        "Content Editor Experience": 8.2,
+        "Scalability & Performance": 8.6,
+        "Ecosystem & Integrations": 8.5,
+        "Pricing & Total Cost of Ownership": 7.8,
+        "Enterprise Readiness & Support": 8.3
+      },
+      "verdict": "Hygraph (formerly GraphCMS) excels as the leading GraphQL-native headless CMS, offering advanced features like content federation that allow developers to treat it as a unified content layer for multiple backend services.",
+      "verdict_short": "The top choice for GraphQL-native projects and content federation.",
+      "praise": "Its schema builder is incredibly intuitive, and the ability to remotely fetch and stitch data from other sources into its GraphQL API is a unique and powerful feature.",
+      "praise_short": "Intuitive schema builder and powerful content federation.",
+      "criticism": "The focus on a GraphQL-first approach may be a hurdle for teams not already invested in that ecosystem, and its pricing is geared more towards mid-market and enterprise.",
+      "criticism_short": "GraphQL-first approach isn't for everyone; enterprise-focused pricing.",
+      "sources_pending": [
+        "Hygraph Documentation",
+        "GraphQL Conf Talks",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 1299,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Vercel",
+        "Netlify",
+        "Next.js",
+        "Shopify",
+        "commercetools",
+        "Algolia"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Kontent.ai",
+      "url": "https://kontent.ai",
+      "founded": 2015,
+      "hq": "Brno, Czech Republic",
+      "team_size_band": "201-500",
+      "best_for": "Enterprise marketing and content teams that need a comprehensive content hub with strong collaboration, planning, and governance features.",
+      "best_for_short": "Enterprise content planning & collaboration",
+      "pricing_band": "$$$$ ($2500+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 8,
+        "Content Editor Experience": 9,
+        "Scalability & Performance": 8.5,
+        "Ecosystem & Integrations": 8,
+        "Pricing & Total Cost of Ownership": 7,
+        "Enterprise Readiness & Support": 9
+      },
+      "verdict": "Kontent.ai secures its position by focusing heavily on the enterprise content lifecycle, offering robust tools for content planning, simultaneous editing, and workflow management that appeal to large, distributed marketing teams.",
+      "verdict_short": "A top choice for enterprise content workflows and collaboration.",
+      "praise": "The built-in content calendar, customizable workflows, and simultaneous editing features provide a superior experience for content teams managing complex publishing schedules.",
+      "praise_short": "Excellent content planning and collaboration tools.",
+      "criticism": "The developer experience and API design, while solid, are less flexible and modern than developer-first platforms like Sanity, and the platform is priced exclusively for the enterprise market.",
+      "criticism_short": "Less flexible for developers; enterprise-only pricing.",
+      "sources_pending": [
+        "Kontent.ai Documentation",
+        "Gartner Peer Insights",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 2500,
+      "price_max": 2500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Microsoft Dynamics",
+        "Vercel",
+        "Netlify"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Contentstack",
+      "url": "https://www.contentstack.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large enterprises in regulated industries looking for a highly secure and reliable composable DXP with a focus on cross-functional collaboration.",
+      "best_for_short": "Secure, composable DXP for enterprises",
+      "pricing_band": "$$$$ (Custom Enterprise)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 8,
+        "Content Editor Experience": 8.2,
+        "Scalability & Performance": 8.5,
+        "Ecosystem & Integrations": 8,
+        "Pricing & Total Cost of Ownership": 6.5,
+        "Enterprise Readiness & Support": 9.3
+      },
+      "verdict": "Contentstack stands out for its enterprise-grade security, dedicated customer success, and a 'care without compromise' approach, making it a trusted choice for large organizations building out a composable digital experience platform (DXP).",
+      "verdict_short": "A trusted, secure DXP for large, collaborative enterprises.",
+      "praise": "Its live-editing SDK, called 'Visual Autopilot,' and strong focus on enterprise support and SLAs are significant differentiators for its target market.",
+      "praise_short": "Strong enterprise support and live-editing SDK.",
+      "criticism": "The platform is one of the most expensive on the market with no free tier or transparent pricing, making it inaccessible for smaller teams and projects.",
+      "criticism_short": "Very expensive and lacks pricing transparency.",
+      "sources_pending": [
+        "Contentstack Documentation",
+        "Gartner Magic Quadrant",
+        "Customer Testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Algolia",
+        "Salesforce Marketing Cloud",
+        "Adobe Experience Manager",
+        "SAP Commerce Cloud"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II",
+        "ISO 27001",
+        "HIPAA",
+        "CSA STAR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Prismic",
+      "url": "https://prismic.io",
+      "founded": 2013,
+      "hq": "Paris, France",
+      "team_size_band": "51-200",
+      "best_for": "Startups and marketing teams looking for an easy-to-use CMS with a powerful slice-based page builder and a generous free tier.",
+      "best_for_short": "Easy-to-use slice-based page builder",
+      "pricing_band": "$ ($150 to $550+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 7.5,
+        "Content Editor Experience": 8.5,
+        "Scalability & Performance": 7.8,
+        "Ecosystem & Integrations": 7.5,
+        "Pricing & Total Cost of Ownership": 8.8,
+        "Enterprise Readiness & Support": 7
+      },
+      "verdict": "Prismic makes the list because its 'Slices' feature provides one of the most intuitive component-driven page-building experiences for content creators, backed by a very generous free tier that is ideal for new projects.",
+      "verdict_short": "Intuitive page building with 'Slices' and a great free tier.",
+      "praise": "The Slice Machine tool for Next.js and Nuxt provides a fantastic local development workflow for creating and syncing content components.",
+      "praise_short": "Slice Machine offers a great local dev workflow.",
+      "criticism": "The API can be less flexible and more opinionated than competitors, and some developers find the content modeling constraints limiting for complex data structures.",
+      "criticism_short": "API is opinionated and content modeling can be restrictive.",
+      "sources_pending": [
+        "Prismic Documentation",
+        "G2 Reviews",
+        "Community Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 550,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Next.js",
+        "Nuxt.js",
+        "Gatsby",
+        "Vercel",
+        "Netlify",
+        "Shopify"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "DatoCMS",
+      "url": "https://www.datocms.com",
+      "founded": 2015,
+      "hq": "Bologna, Italy",
+      "team_size_band": "11-50",
+      "best_for": "Agencies and developers who value a clean, user-friendly interface, fast GraphQL API performance, and straightforward, predictable pricing.",
+      "best_for_short": "Clean UI & fast GraphQL API",
+      "pricing_band": "$$ ($199 to $999+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 8,
+        "Content Editor Experience": 8,
+        "Scalability & Performance": 8.2,
+        "Ecosystem & Integrations": 7,
+        "Pricing & Total Cost of Ownership": 7.5,
+        "Enterprise Readiness & Support": 7
+      },
+      "verdict": "DatoCMS is a strong contender due to its focus on a polished user experience for both developers and editors, delivering one of the fastest GraphQL APIs on the market and a clean, intuitive content modeling interface.",
+      "verdict_short": "A polished, fast, and user-friendly CMS for agencies.",
+      "praise": "The automatic video transcoding and optimization features are best-in-class, and the GraphQL API is consistently praised for its speed and reliability.",
+      "praise_short": "Excellent video features and a very fast GraphQL API.",
+      "criticism": "As a smaller player in the market, its ecosystem of plugins and integrations is less extensive than the larger platforms like Contentful or Sanity.",
+      "criticism_short": "Smaller ecosystem of plugins and integrations.",
+      "sources_pending": [
+        "DatoCMS Documentation",
+        "G2 Reviews",
+        "Customer Interviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 999,
+      "currency": "EUR",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Next.js",
+        "Gatsby",
+        "Vercel",
+        "Netlify",
+        "React",
+        "Vue"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Europe",
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "ButterCMS",
+      "url": "https://buttercms.com",
+      "founded": 2014,
+      "hq": "Chicago, USA",
+      "team_size_band": "2-10",
+      "best_for": "Teams looking for a simple, straightforward headless CMS that can be integrated quickly without a steep learning curve, especially for adding a blog to an existing application.",
+      "best_for_short": "Simple, fast integration",
+      "pricing_band": "$$ ($83 to $333+/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 7.8,
+        "Content Editor Experience": 7.5,
+        "Scalability & Performance": 7.2,
+        "Ecosystem & Integrations": 7,
+        "Pricing & Total Cost of Ownership": 8,
+        "Enterprise Readiness & Support": 7
+      },
+      "verdict": "ButterCMS earns its place by being exceptionally easy to adopt, providing a simple and effective solution for common use cases like blogs and marketing pages, with SDKs for nearly every popular programming language.",
+      "verdict_short": "The easiest way to add a blog or marketing pages to any app.",
+      "praise": "The breadth of well-maintained SDKs (Ruby, Python, PHP, .NET, etc.) makes it incredibly fast to integrate into any existing tech stack.",
+      "praise_short": "Excellent SDK support for a wide range of languages.",
+      "criticism": "It lacks the advanced content modeling, customization, and enterprise governance features of the top-ranked platforms, making it less suitable for complex, large-scale projects.",
+      "criticism_short": "Lacks advanced features for complex, large-scale projects.",
+      "sources_pending": [
+        "ButterCMS Documentation",
+        "G2 Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 333,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Ruby on Rails",
+        "Laravel",
+        "Django",
+        "Node.js",
+        "React",
+        "Vue"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "TinaCMS",
+      "url": "https://tina.io",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Developers and content editors who want a real-time, on-page editing experience for Markdown or MDX-based sites, with content stored directly in a Git repository.",
+      "best_for_short": "Git-based, on-page visual editing",
+      "pricing_band": "$ ($25 to $999+/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Developer Experience & API Quality": 7.5,
+        "Content Editor Experience": 8.8,
+        "Scalability & Performance": 6.5,
+        "Ecosystem & Integrations": 6.8,
+        "Pricing & Total Cost of Ownership": 8,
+        "Enterprise Readiness & Support": 6
+      },
+      "verdict": "TinaCMS is our wildcard pick because it challenges the API-first paradigm with a Git-based approach, offering a compelling, open-source toolkit for adding live visual editing directly to a Jamstack site, which is a fundamentally different and powerful workflow.",
+      "verdict_short": "A Git-based CMS offering a unique, live on-page editing experience.",
+      "praise": "The ability for editors to make changes directly on the website and have them commit back to GitHub is a magical and intuitive workflow for content-heavy sites like blogs and documentation.",
+      "praise_short": "Live on-page editing that commits to Git is magical.",
+      "criticism": "The Git-based model is not well-suited for very large sites with thousands of pages or frequent content updates due to potential build times and Git repository performance limitations.",
+      "criticism_short": "Git-based model doesn't scale for very large sites.",
+      "sources_pending": [
+        "TinaCMS Documentation",
+        "GitHub Discussions",
+        "Smashing Magazine Articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Next.js",
+        "GitHub",
+        "GitLab",
+        "Vercel",
+        "Netlify"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (via Git provider)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

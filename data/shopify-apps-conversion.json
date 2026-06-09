@@ -1,0 +1,830 @@
+{
+  "slug": "shopify-apps-conversion",
+  "title": "The 11 Best Shopify Apps for Conversion Rate Optimization",
+  "subtitle": "A ranked list of the top Shopify apps for increasing add-to-carts, improving checkout completion, and maximizing average order value.",
+  "vertical": "Ecommerce · Shopify Apps",
+  "audience": "Shopify merchants improving funnel conversion",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-05-31",
+  "last_verified": "2026-05-31",
+  "next_review": "2026-08-29",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Ecommerce Software",
+  "subsector": "Shopify Applications",
+  "changelog": [
+    {
+      "date": "2026-05-31",
+      "text": "Initial publication. Methodology v1.0 weights Feature Set & Impact (25%), Ease of Use & Shopify Integration (25%), Performance & Site Speed Impact (20%), Analytics & A/B Testing (15%), and Pricing & Value (15%)."
+    }
+  ],
+  "answer_capsule": "The best Shopify app for conversion rate optimization is ReConvert for its powerful post-purchase upsells, followed by Loox for social proof and Judge.me for its high-value review collection.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-05-31",
+    "candidate_pool": 50,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Feature Set & Impact",
+        "weight": 25,
+        "description": "The breadth, depth, and direct impact of the app's features on key conversion metrics like AOV, add-to-cart rate, and checkout completion."
+      },
+      {
+        "name": "Ease of Use & Shopify Integration",
+        "weight": 25,
+        "description": "How intuitive the app is for non-technical users and how seamlessly it integrates with the Shopify admin, theme editor, and checkout."
+      },
+      {
+        "name": "Performance & Site Speed Impact",
+        "weight": 20,
+        "description": "The app's effect on storefront load times and Core Web Vitals, a critical factor for maintaining conversions."
+      },
+      {
+        "name": "Analytics & A/B Testing",
+        "weight": 15,
+        "description": "The quality of reporting and the ability to test variations to make data-driven decisions."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 15,
+        "description": "The fairness of the pricing model, the availability of a free tier or trial, and the overall return on investment."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Shopify",
+    "CRO",
+    "Ecommerce",
+    "Marketing Apps",
+    "Sales Funnel"
+  ],
+  "problem_tags": [
+    "Cart Abandonment",
+    "Low AOV",
+    "Poor Conversion Rate",
+    "Customer Trust",
+    "Landing Page Design"
+  ],
+  "query_intents": [
+    "best shopify apps to increase sales",
+    "how to improve shopify conversion rate",
+    "shopify upsell app",
+    "shopify reviews app",
+    "shopify page builder"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Low Average Order Value",
+        "One-time buyers"
+      ],
+      "personas": [
+        "Growth Marketer",
+        "Shopify Store Owner"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Low customer trust",
+        "Lack of social proof"
+      ],
+      "personas": [
+        "Brand Manager",
+        "Ecommerce Manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Lack of social proof",
+        "Budget constraints"
+      ],
+      "personas": [
+        "Startup Founder",
+        "Small Business Owner"
+      ]
+    },
+    "4": {
+      "solves": [
+        "High app subscription costs",
+        "Need for multiple small tools"
+      ],
+      "personas": [
+        "Solopreneur",
+        "Cost-conscious merchant"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 50,
+    "ranked": 11,
+    "average_score": 8.42,
+    "spread_top_to_bottom": 1.7
+  },
+  "guide": [
+    {
+      "q": "What is Conversion Rate Optimization (CRO) for Shopify?",
+      "a": "CRO for Shopify is the systematic process of increasing the percentage of website visitors who take a desired action, such as making a purchase, adding an item to their cart, or signing up for a newsletter. It involves using various tools and strategies to improve the user experience and remove friction from the buying journey."
+    },
+    {
+      "q": "How do these apps improve conversion?",
+      "a": "These apps employ various tactics. Review apps build social proof and trust. Page builders create high-converting landing pages. Upsell apps increase Average Order Value (AOV) post-purchase. Popup apps capture leads and reduce cart abandonment. Each app targets a specific friction point in the customer journey."
+    }
+  ],
+  "how_to_choose": [
+    "First, identify your biggest drop-off point. Is it on product pages, in the cart, or post-purchase? Choose an app that directly addresses that weakness.",
+    "Consider your budget and technical skill. Some apps are simple set-and-forget tools, while others are powerful platforms that require more configuration.",
+    "Prioritize site speed. Before committing, check reviews and tests for the app's impact on performance. A slow site will kill conversions, negating the app's benefits.",
+    "Start with one or two key apps rather than installing many at once. An all-in-one like Vitals can be a good starting point, or a best-of-breed app like ReConvert for a specific goal."
+  ],
+  "faqs": [
+    {
+      "q": "What is a good conversion rate for a Shopify store?",
+      "a": "While it varies by industry, a good average conversion rate for a Shopify store is typically between 1.5% and 2.5%. Anything above 3% is considered strong, while rates below 1% suggest significant room for improvement."
+    },
+    {
+      "q": "Do conversion optimization apps slow down my store?",
+      "a": "Yes, almost any app that adds code or visual elements to your storefront can impact site speed. The best apps are optimized for performance, loading asynchronously and using modern code practices. We weigh 'Performance & Site Speed Impact' heavily in our rankings for this reason."
+    },
+    {
+      "q": "Should I use one all-in-one CRO app or multiple specialized apps?",
+      "a": "This depends on your needs. An all-in-one app like Vitals is cost-effective and simplifies management. However, specialized 'best-of-breed' apps like ReConvert or Loox often offer deeper functionality and better performance for their specific task. Many large stores use a mix of both."
+    },
+    {
+      "q": "How can I improve my Shopify conversion rate for free?",
+      "a": "Start with apps that have generous free plans, like Judge.me for reviews or PageFly for a limited number of pages. Beyond apps, focus on fundamentals: improve your product photography, write clear and compelling product descriptions, simplify your navigation, and ensure your site is mobile-friendly."
+    }
+  ],
+  "honest_disclosures": [
+    "This list balances all-in-one toolkits with specialized best-of-breed apps; merchants may find feature overlap between tools.",
+    "The performance impact of any app can vary significantly based on your Shopify theme and other installed apps. We recommend testing with a tool like Google PageSpeed Insights after installation.",
+    "Pricing for many apps is usage-based (by orders, traffic, or contacts), so costs can scale quickly for high-volume stores."
+  ],
+  "glossary": {
+    "term": "AOV (Average Order Value)",
+    "definition": "A key ecommerce metric calculated by dividing total revenue by the number of orders. Many CRO apps aim to increase AOV through upsells and cross-sells.",
+    "synonyms": [
+      "Average Basket Size"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "ReConvert",
+      "url": "https://www.reconvert.io/",
+      "founded": 2018,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "51-200",
+      "best_for": "Maximizing lifetime value and AOV with a powerful, easy-to-use post-purchase upsell and cross-sell funnel builder.",
+      "best_for_short": "Post-purchase upsell funnels",
+      "pricing_band": "$$ ($4.99 to $149.99/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Feature Set & Impact": 9.4,
+        "Ease of Use & Shopify Integration": 9.3,
+        "Performance & Site Speed Impact": 9,
+        "Analytics & A/B Testing": 9,
+        "Pricing & Value": 8.8
+      },
+      "verdict": "ReConvert is the top choice for conversion optimization because it masters the highest-intent moment in the customer journey: the post-purchase thank you page.",
+      "verdict_short": "The best app for building high-converting, post-purchase upsell funnels to boost AOV.",
+      "praise": "Its drag-and-drop editor makes building complex funnels with one-click upsells, customer surveys, and birthday collectors incredibly intuitive.",
+      "praise_short": "Intuitive drag-and-drop funnel builder.",
+      "criticism": "The app's focus is almost exclusively on post-purchase, meaning you'll need other tools for on-site conversion tactics like popups or reviews.",
+      "criticism_short": "Limited to post-purchase optimization.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 4.99,
+      "price_max": 149.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Mailchimp",
+        "SMSBump",
+        "Judge.me",
+        "Loox"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Loox",
+      "url": "https://loox.app/",
+      "founded": 2015,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "11-50",
+      "best_for": "Building social proof and brand trust by collecting and beautifully displaying photo and video reviews from customers.",
+      "best_for_short": "Visual social proof & reviews",
+      "pricing_band": "$$ ($9.99 to $299.99/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Feature Set & Impact": 9,
+        "Ease of Use & Shopify Integration": 9.4,
+        "Performance & Site Speed Impact": 9.1,
+        "Analytics & A/B Testing": 8.8,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Loox earns its high rank by providing the most aesthetically pleasing and effective way to leverage customer photos and videos as high-impact social proof.",
+      "verdict_short": "The best app for collecting and displaying beautiful photo and video reviews.",
+      "praise": "The app excels at automating review requests and offers a wide range of clean, mobile-first widgets that integrate seamlessly into any store theme.",
+      "praise_short": "Excellent automation and beautiful widgets.",
+      "criticism": "While powerful, its pricing can become steep for stores with a very high order volume, and its feature set is less extensive than some competitors on the free/basic tiers.",
+      "criticism_short": "Can be expensive at scale.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "Capterra Reviews",
+        "Vendor Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 9.99,
+      "price_max": 299.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Google Shopping",
+        "ReConvert",
+        "PageFly",
+        "Aftership"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Judge.me",
+      "url": "https://judge.me/",
+      "founded": 2015,
+      "hq": "London, UK",
+      "team_size_band": "11-50",
+      "best_for": "Any Shopify merchant, from beginner to enterprise, needing a powerful and affordable product review solution.",
+      "best_for_short": "Best value reviews app",
+      "pricing_band": "$ ($0 to $99/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Feature Set & Impact": 8.8,
+        "Ease of Use & Shopify Integration": 9,
+        "Performance & Site Speed Impact": 9.2,
+        "Analytics & A/B Testing": 8.5,
+        "Pricing & Value": 9.4
+      },
+      "verdict": "Judge.me is the best value proposition in the product review space, offering an incredibly feature-rich free plan and affordable paid tiers that outperform competitors.",
+      "verdict_short": "A powerful, fast, and affordable review app with an unbeatable free plan.",
+      "praise": "Its commitment to performance means its widgets are lightweight and fast-loading, and its free plan includes core features like photo/video reviews that others charge for.",
+      "praise_short": "Extremely generous free plan and fast performance.",
+      "criticism": "The backend user interface and widget designs, while highly customizable, can feel slightly less polished out-of-the-box compared to Loox.",
+      "criticism_short": "UI is less polished than some competitors.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Google Shopping",
+        "ReConvert",
+        "PageFly",
+        "Smile.io"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Vitals",
+      "url": "https://vitals.co/",
+      "founded": 2017,
+      "hq": "Bucharest, Romania",
+      "team_size_band": "11-50",
+      "best_for": "New and budget-conscious merchants who want to add a wide range of conversion-boosting features without managing dozens of separate apps.",
+      "best_for_short": "All-in-one CRO toolkit",
+      "pricing_band": "$$ ($29.99 to $299.99/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Feature Set & Impact": 9.4,
+        "Ease of Use & Shopify Integration": 8.5,
+        "Performance & Site Speed Impact": 8,
+        "Analytics & A/B Testing": 8.2,
+        "Pricing & Value": 9.2
+      },
+      "verdict": "Vitals secures a top spot by bundling over 40 individual conversion apps into one, offering unparalleled value and simplicity for merchants.",
+      "verdict_short": "An all-in-one suite of 40+ conversion apps for a single monthly price.",
+      "praise": "The sheer breadth of features—from product reviews and upsells to announcement bars and currency converters—for a single subscription fee is unmatched.",
+      "praise_short": "Incredible value with 40+ apps in one.",
+      "criticism": "While the feature list is long, individual modules lack the depth of dedicated best-of-breed apps, and enabling too many features can negatively impact site speed.",
+      "criticism_short": "Features lack depth; can slow down site.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "Trustpilot",
+        "Vendor Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 29.99,
+      "price_max": 299.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Mailchimp",
+        "Loox",
+        "Judge.me",
+        "Facebook Messenger"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "GemPages",
+      "url": "https://gempages.net/",
+      "founded": 2017,
+      "hq": "Hanoi, Vietnam",
+      "team_size_band": "51-200",
+      "best_for": "Merchants who need to quickly build and test custom, high-converting landing pages, product pages, and blog posts without writing any code.",
+      "best_for_short": "Flexible landing page builder",
+      "pricing_band": "$$ ($29 to $199/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Feature Set & Impact": 9,
+        "Ease of Use & Shopify Integration": 8.8,
+        "Performance & Site Speed Impact": 8.2,
+        "Analytics & A/B Testing": 8,
+        "Pricing & Value": 8.1
+      },
+      "verdict": "GemPages is a leading page builder because its powerful and intuitive visual editor empowers merchants to create bespoke page designs that convert better than standard themes.",
+      "verdict_short": "A powerful drag-and-drop builder for creating custom Shopify pages.",
+      "praise": "The platform offers a vast library of templates and conversion-focused elements, plus advanced features like A/B testing to optimize designs.",
+      "praise_short": "Vast template library and A/B testing.",
+      "criticism": "There can be a slight learning curve to master all the advanced features, and like all page builders, it can contribute to code bloat if not used carefully.",
+      "criticism_short": "Slight learning curve for advanced features.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Knowledge Base"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Loox",
+        "Judge.me",
+        "Yotpo",
+        "Weglot"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Privy",
+      "url": "https://www.privy.com/",
+      "founded": 2011,
+      "hq": "Boston, MA, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small to medium-sized businesses focused on growing their email and SMS lists and recovering abandoned carts.",
+      "best_for_short": "Email list growth & popups",
+      "pricing_band": "$$ ($0 to $300+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Feature Set & Impact": 8.7,
+        "Ease of Use & Shopify Integration": 8.9,
+        "Performance & Site Speed Impact": 8.5,
+        "Analytics & A/B Testing": 8.3,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "Privy is a classic and highly effective tool for on-site conversion, excelling at its core mission: converting anonymous visitors into known contacts with targeted popups and offers.",
+      "verdict_short": "The go-to app for popups, email capture, and cart saver campaigns.",
+      "praise": "Its simple campaign builder and extensive library of triggers and templates make it easy to launch effective list growth and cart abandonment campaigns in minutes.",
+      "praise_short": "Easy-to-use campaign builder and templates.",
+      "criticism": "The platform's pricing, which scales with contacts, can become expensive compared to dedicated email service providers as your list grows.",
+      "criticism_short": "Pricing can get expensive for large lists.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Mailchimp",
+        "Attentive",
+        "Shopify Flow",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "PageFly",
+      "url": "https://pagefly.io/",
+      "founded": 2017,
+      "hq": "Hanoi, Vietnam",
+      "team_size_band": "51-200",
+      "best_for": "Merchants who want maximum design flexibility and a rich feature set in a page builder, especially those comfortable with a more complex interface.",
+      "best_for_short": "Feature-rich page builder",
+      "pricing_band": "$ ($0 to $199/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Feature Set & Impact": 9.1,
+        "Ease of Use & Shopify Integration": 8.4,
+        "Performance & Site Speed Impact": 8,
+        "Analytics & A/B Testing": 8.1,
+        "Pricing & Value": 7.8
+      },
+      "verdict": "PageFly stands out as a powerful page builder by offering one of the most extensive feature sets on the market, coupled with a generous free plan for getting started.",
+      "verdict_short": "A highly flexible page builder with a vast element library and a strong free plan.",
+      "praise": "The sheer number of available elements, templates, and integrations allows for nearly unlimited customization of pages to match any brand's vision.",
+      "praise_short": "Extensive customization options and elements.",
+      "criticism": "Its feature-packed interface can feel cluttered and overwhelming for beginners, presenting a steeper learning curve than more streamlined competitors like GemPages.",
+      "criticism_short": "Interface can be overwhelming for beginners.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "Capterra",
+        "Vendor YouTube Channel"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Judge.me",
+        "Loox",
+        "Klaviyo",
+        "ReConvert",
+        "Yotpo"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Klaviyo",
+      "url": "https://www.klaviyo.com/",
+      "founded": 2012,
+      "hq": "Boston, MA, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Data-driven ecommerce brands that need a sophisticated, unified platform for email and SMS marketing automation to drive repeat purchases.",
+      "best_for_short": "Advanced email & SMS automation",
+      "pricing_band": "$$$ ($20 to $2000+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Feature Set & Impact": 9.2,
+        "Ease of Use & Shopify Integration": 7.8,
+        "Performance & Site Speed Impact": 9,
+        "Analytics & A/B Testing": 9.4,
+        "Pricing & Value": 6
+      },
+      "verdict": "Klaviyo is the undisputed market leader for email and SMS automation, driving conversions through deeply personalized communication and best-in-class segmentation.",
+      "verdict_short": "The most powerful platform for personalized email and SMS marketing automation.",
+      "praise": "Its ability to create complex, behavior-triggered automation flows and its incredibly detailed analytics provide unparalleled power for nurturing leads and retaining customers.",
+      "praise_short": "Unmatched segmentation and analytics.",
+      "criticism": "This power comes with significant complexity and a high price tag, making it overkill and often too expensive for smaller merchants or beginners.",
+      "criticism_short": "Complex and expensive for beginners.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Forrester Wave Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "Gorgias",
+        "Recharge",
+        "Yotpo",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Shogun Page Builder",
+      "url": "https://getshogun.com/",
+      "founded": 2015,
+      "hq": "San Francisco, CA, USA",
+      "team_size_band": "51-200",
+      "best_for": "Fast-growing and enterprise-level brands that require a robust, scalable solution for building custom storefront experiences and managing content.",
+      "best_for_short": "Enterprise-grade page builder",
+      "pricing_band": "$$$ ($99 to $499/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Feature Set & Impact": 8.9,
+        "Ease of Use & Shopify Integration": 8.5,
+        "Performance & Site Speed Impact": 8.3,
+        "Analytics & A/B Testing": 8.2,
+        "Pricing & Value": 6
+      },
+      "verdict": "Shogun caters to the top end of the market with a polished, performance-focused page builder that includes enterprise-grade features like content syncing and user permissions.",
+      "verdict_short": "A premium page builder for large brands needing performance and scalability.",
+      "praise": "The platform is known for its clean user interface, excellent customer support, and features tailored for larger teams, such as reusable content blocks (snippets).",
+      "praise_short": "Polished UI and features for large teams.",
+      "criticism": "Its premium pricing makes it inaccessible for most small businesses, who can find similar core functionality in more affordable competitors like PageFly or GemPages.",
+      "criticism_short": "High price point for small businesses.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Yotpo",
+        "Google Analytics",
+        "Gorgias",
+        "Judge.me"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 2,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Justuno",
+      "url": "https://www.justuno.com/",
+      "founded": 2010,
+      "hq": "San Francisco, CA, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-savvy marketers looking to implement highly personalized, AI-driven popups, promotions, and on-site messaging.",
+      "best_for_short": "AI-powered personalized popups",
+      "pricing_band": "$$ ($29 to $499+/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Feature Set & Impact": 8.4,
+        "Ease of Use & Shopify Integration": 7.8,
+        "Performance & Site Speed Impact": 8,
+        "Analytics & A/B Testing": 8.5,
+        "Pricing & Value": 6.4
+      },
+      "verdict": "Justuno differentiates itself from simpler popup builders by using AI and an advanced rules engine to deliver intelligent, personalized promotions to different visitor segments.",
+      "verdict_short": "An advanced platform for intelligent popups and personalized on-site promotions.",
+      "praise": "Its powerful audience segmentation and targeting capabilities allow for creating truly dynamic on-site experiences that go far beyond basic exit-intent popups.",
+      "praise_short": "Advanced segmentation and targeting rules.",
+      "criticism": "The platform's complexity and vast number of options can be daunting for beginners, and it requires a more strategic, hands-on approach to get the most value.",
+      "criticism_short": "Complex interface with a steep learning curve.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Mailchimp",
+        "HubSpot",
+        "Attentive",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Gorgias",
+      "url": "https://www.gorgias.com/",
+      "founded": 2015,
+      "hq": "San Francisco, CA, USA",
+      "team_size_band": "201-500",
+      "best_for": "Brands that view customer support not as a cost center, but as a revenue-driving channel to convert hesitant shoppers.",
+      "best_for_short": "Conversational commerce",
+      "is_wildcard": true,
+      "pricing_band": "$$$ ($50 to $900+/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Feature Set & Impact": 7,
+        "Ease of Use & Shopify Integration": 8.2,
+        "Performance & Site Speed Impact": 8.8,
+        "Analytics & A/B Testing": 7.2,
+        "Pricing & Value": 6.5
+      },
+      "verdict": "Our wildcard pick, Gorgias, makes the list by redefining CRO as conversational commerce; it boosts conversions by enabling fast, personalized support via live chat and social media at critical pre-purchase moments.",
+      "verdict_short": "A helpdesk that drives sales by converting shoppers through live chat and support.",
+      "praise": "Its deep integration with Shopify allows support agents to see customer data and order history, enabling them to answer questions and solve problems instantly, which builds trust and closes sales.",
+      "praise_short": "Deep Shopify integration for support agents.",
+      "criticism": "As a helpdesk, it is not a traditional CRO tool and lacks features like A/B testing, landing page creation, or post-purchase upsells. Its primary function is support, with conversion as a powerful byproduct.",
+      "criticism_short": "Not a traditional CRO tool; lacks A/B testing.",
+      "sources_pending": [
+        "Shopify App Store Reviews",
+        "G2 Profile",
+        "Vendor Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-05-31",
+        "summary": "No material public risk signals as of 2026-05-31.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 900,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Klaviyo",
+        "Recharge",
+        "Attentive",
+        "Yotpo",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

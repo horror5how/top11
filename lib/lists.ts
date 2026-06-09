@@ -66,6 +66,12 @@ import paymentGateways from "@/data/payment-gateways.json";
 import productAnalyticsTools from "@/data/product-analytics-tools.json";
 import seoRankTrackers from "@/data/seo-rank-trackers.json";
 import onlineCoursePlatforms from "@/data/online-course-platforms.json";
+import expenseManagement from "@/data/expense-management.json";
+import apAutomation from "@/data/ap-automation.json";
+import seoToolsSaas from "@/data/seo-tools-saas.json";
+import headlessCms from "@/data/headless-cms.json";
+import telehealthPlatforms from "@/data/telehealth-platforms.json";
+import shopifyAppsConversion from "@/data/shopify-apps-conversion.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -159,6 +165,12 @@ const REGISTRY: Record<string, ListData> = {
   [productAnalyticsTools.slug]: productAnalyticsTools as unknown as ListData,
   [seoRankTrackers.slug]: seoRankTrackers as unknown as ListData,
   [onlineCoursePlatforms.slug]: onlineCoursePlatforms as unknown as ListData,
+  [expenseManagement.slug]: expenseManagement as unknown as ListData,
+  [apAutomation.slug]: apAutomation as unknown as ListData,
+  [seoToolsSaas.slug]: seoToolsSaas as unknown as ListData,
+  [headlessCms.slug]: headlessCms as unknown as ListData,
+  [telehealthPlatforms.slug]: telehealthPlatforms as unknown as ListData,
+  [shopifyAppsConversion.slug]: shopifyAppsConversion as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
