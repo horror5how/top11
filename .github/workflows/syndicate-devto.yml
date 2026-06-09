@@ -1,0 +1,41 @@
+name: Syndicate to Dev.to
+
+# Weekly: publish the next developer-relevant Top 11 list to Dev.to (DA ~90) with a
+# canonical link back to topelevens.com. Builds a do-follow backlink + referral traffic,
+# and the canonical keeps Google ranking the original, not the copy. Deterministic — no LLM.
+
+on:
+  schedule:
+    - cron: "0 14 * * 1" # Mondays 14:00 UTC
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "List slug to syndicate (blank = next in rotation)"
+        required: false
+        default: ""
+
+jobs:
+  syndicate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Publish to Dev.to
+        env:
+          DEVTO_API_KEY: ${{ secrets.DEVTO_API_KEY }}
+        run: node scripts/syndicate-devto.mjs ${{ github.event.inputs.slug }}
+      - name: Commit syndication log
+        run: |
+          git config user.email "syndicate-bot@top11.co"
+          git config user.name "Top 11 Syndication Bot"
+          git add data/syndication/
+          if git diff --staged --quiet; then
+            echo "No log change."
+          else
+            git commit -m "chore: log Dev.to syndication [skip ci]"
+            git push
+          fi
