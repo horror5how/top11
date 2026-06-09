@@ -62,6 +62,8 @@ import applicantTrackingSystems from "@/data/applicant-tracking-systems.json";
 import appointmentSchedulingSoftware from "@/data/appointment-scheduling-software.json";
 import inventoryManagementSoftware from "@/data/inventory-management-software.json";
 import subscriptionBillingSoftware from "@/data/subscription-billing-software.json";
+import paymentGateways from "@/data/payment-gateways.json";
+import productAnalyticsTools from "@/data/product-analytics-tools.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -151,6 +153,8 @@ const REGISTRY: Record<string, ListData> = {
   [appointmentSchedulingSoftware.slug]: appointmentSchedulingSoftware as unknown as ListData,
   [inventoryManagementSoftware.slug]: inventoryManagementSoftware as unknown as ListData,
   [subscriptionBillingSoftware.slug]: subscriptionBillingSoftware as unknown as ListData,
+  [paymentGateways.slug]: paymentGateways as unknown as ListData,
+  [productAnalyticsTools.slug]: productAnalyticsTools as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

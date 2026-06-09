@@ -1,0 +1,867 @@
+{
+  "slug": "payment-gateways",
+  "title": "The 11 Best Payment Gateways",
+  "subtitle": "A ranked analysis of the top payment gateways for online businesses, focusing on developer experience, pricing transparency, and global reach.",
+  "vertical": "Finance · Payments",
+  "audience": "Businesses accepting online payments",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Financial Technology",
+  "subsector": "Payment Processing",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Pricing & Fees (30%), Developer Experience & API (25%), Global Reach & Currency Support (20%), Features & Tools (15%), and Support & Reliability (10%)."
+    }
+  ],
+  "answer_capsule": "The best payment gateway is Stripe for its unparalleled developer experience and feature set, followed by Adyen for enterprise-scale global operations and PayPal for its massive user base and brand trust.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Pricing & Fees",
+        "weight": 30,
+        "description": "Clarity, competitiveness, and predictability of transaction fees, monthly costs, and chargeback fees. Higher scores for transparent, flat-rate models."
+      },
+      {
+        "name": "Developer Experience & API",
+        "weight": 25,
+        "description": "Quality of API documentation, ease of integration, availability of SDKs, and overall flexibility for developers."
+      },
+      {
+        "name": "Global Reach & Currency Support",
+        "weight": 20,
+        "description": "Number of countries supported for payment acceptance and settlement, and the breadth of local payment methods and currencies available."
+      },
+      {
+        "name": "Features & Tools",
+        "weight": 15,
+        "description": "Availability and quality of built-in tools like invoicing, subscription management, fraud detection, reporting, and terminal support."
+      },
+      {
+        "name": "Support & Reliability",
+        "weight": 10,
+        "description": "Platform uptime, quality of customer and technical support, and availability of self-service resources."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Enterprise",
+    "SaaS",
+    "E-commerce",
+    "Marketplace",
+    "Omnichannel"
+  ],
+  "problem_tags": [
+    "Accepting online payments",
+    "Reducing cart abandonment",
+    "International expansion",
+    "Subscription billing",
+    "Fraud prevention"
+  ],
+  "query_intents": [
+    "best payment gateway for small business",
+    "stripe vs paypal",
+    "adyen competitors",
+    "lowest transaction fee payment gateway",
+    "international payment gateway"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Complex payment integrations",
+        "SaaS billing",
+        "Marketplace payouts"
+      ],
+      "personas": [
+        "Tech Startups",
+        "SaaS companies",
+        "Developers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Omnichannel payments",
+        "Global payment optimization",
+        "Enterprise-scale processing"
+      ],
+      "personas": [
+        "Large retail enterprises",
+        "Global corporations"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Maximizing conversion",
+        "Leveraging consumer trust",
+        "Simple checkout"
+      ],
+      "personas": [
+        "E-commerce stores",
+        "Small businesses"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Reducing churn from card failures",
+        "Automating recurring payments",
+        "Lowering transaction costs"
+      ],
+      "personas": [
+        "Subscription businesses",
+        "B2B companies with retainers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.29,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What's the difference between a payment gateway and a payment processor?",
+      "a": "A payment gateway securely captures and transmits payment data from your website to the processor. The payment processor then communicates with the banks (acquiring and issuing) to move the money. Some providers, like Stripe and Adyen, act as an all-in-one gateway and processor."
+    },
+    {
+      "q": "How do I choose the right gateway for my business?",
+      "a": "Consider your business model (e-commerce, SaaS, in-person), technical resources (do you have developers?), target markets (domestic vs. international), and expected volume. Prioritize transparent pricing, necessary features like subscription billing, and integrations with your existing platforms."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your transaction volume and average ticket size to model the impact of different fee structures (flat-rate vs. interchange-plus).",
+    "Evaluate the quality of the API documentation and developer support if you plan a custom integration.",
+    "Confirm support for essential local payment methods in your key international markets.",
+    "Check for pre-built integrations with your e-commerce platform, CRM, or accounting software to minimize development work."
+  ],
+  "faqs": [
+    {
+      "q": "What is a payment gateway?",
+      "a": "A payment gateway is a technology service that acts as a secure intermediary between a merchant's website and the payment processing network. It encrypts sensitive credit card details and routes them to the processor to authorize and complete a transaction."
+    },
+    {
+      "q": "Which payment gateway has the lowest fees?",
+      "a": "There is no single 'cheapest' gateway, as fees depend on volume, transaction size, card type, and business model. Stripe and PayPal offer competitive flat-rate pricing for simplicity, while providers offering interchange-plus pricing may be cheaper for high-volume businesses. Always model your specific costs."
+    },
+    {
+      "q": "Can I use multiple payment gateways?",
+      "a": "Yes, many businesses use multiple gateways to increase resilience, optimize costs for different regions or payment types, or offer customers more choices at checkout. This adds complexity but can improve conversion and reduce fees."
+    },
+    {
+      "q": "What is PCI DSS compliance and why does it matter?",
+      "a": "The Payment Card Industry Data Security Standard (PCI DSS) is a set of security standards designed to ensure that all companies that accept, process, store, or transmit credit card information maintain a secure environment. Using a PCI-compliant gateway like those on this list significantly simplifies your own compliance burden."
+    }
+  ],
+  "honest_disclosures": [
+    "This list has a strong focus on modern, API-first payment gateways suitable for online businesses; it gives less weight to traditional merchant account providers focused on retail point-of-sale.",
+    "Most top-ranked providers are based in the US or Europe, and while they offer global services, the perspective may be biased towards those markets.",
+    "Pricing is complex and variable. The 'standard' online transaction fees are listed, but custom pricing is common for high-volume merchants."
+  ],
+  "glossary": {
+    "term": "Interchange Fee",
+    "definition": "A fee paid by the merchant's bank (the acquirer) to the customer's bank (the issuer) for every card transaction. It's the largest component of most processing fees.",
+    "synonyms": [
+      "Interchange rate"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Stripe",
+      "url": "https://stripe.com",
+      "founded": 2010,
+      "hq": "San Francisco, USA & Dublin, Ireland",
+      "team_size_band": "5001-10000",
+      "best_for": "Businesses of all sizes, from startups to enterprises, that need a powerful, flexible, and developer-friendly platform for online payments.",
+      "best_for_short": "Developer-first online payments",
+      "pricing_band": "$$ (Pay-as-you-go)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Pricing & Fees": 9,
+        "Developer Experience & API": 9.8,
+        "Global Reach & Currency Support": 9.1,
+        "Features & Tools": 9.5,
+        "Support & Reliability": 8.9
+      },
+      "verdict": "Stripe is ranked #1 for its best-in-class developer experience, comprehensive feature set, and relentless product innovation, making it the default choice for modern internet businesses.",
+      "verdict_short": "The top choice for its unmatched developer tools, feature velocity, and scalable infrastructure.",
+      "praise": "The platform's API is exceptionally well-documented and easy to work with, and its ecosystem of products (Billing, Connect, Radar) is unparalleled.",
+      "praise_short": "Superb API, documentation, and feature ecosystem.",
+      "criticism": "Customer support can be slow to respond for smaller accounts, and its flat-rate pricing can become less competitive at very high volumes.",
+      "criticism_short": "Support can be slow; less cost-effective at scale.",
+      "sources_pending": [
+        "Stripe Docs",
+        "G2 Reviews",
+        "Forrester Wave: Merchant Payment Providers"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "WooCommerce",
+        "Salesforce",
+        "NetSuite",
+        "Xero",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "PSD2",
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Latin America",
+        "Middle East & Africa"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Adyen",
+      "url": "https://www.adyen.com",
+      "founded": 2006,
+      "hq": "Amsterdam, Netherlands",
+      "team_size_band": "1001-5000",
+      "best_for": "Large global enterprises seeking a single, unified platform for online, mobile, and in-store payments with deep data insights.",
+      "best_for_short": "Unified commerce for global enterprises",
+      "pricing_band": "$$$ (Interchange++)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Pricing & Fees": 9.2,
+        "Developer Experience & API": 8.8,
+        "Global Reach & Currency Support": 9.7,
+        "Features & Tools": 9,
+        "Support & Reliability": 9
+      },
+      "verdict": "Adyen earns its #2 position by offering a superior, unified platform for global omnichannel payments, providing enterprises with direct acquiring connections that boost authorization rates and reduce costs.",
+      "verdict_short": "The best for large enterprises needing a single, global, omnichannel payments platform.",
+      "praise": "Its single platform for all channels and geographies, combined with transparent interchange-plus pricing, is a massive advantage for large-scale businesses.",
+      "praise_short": "True omnichannel platform with transparent pricing.",
+      "criticism": "The platform is complex and its onboarding process is geared towards large enterprises, making it less accessible for small businesses or startups.",
+      "criticism_short": "Complex and not suited for small businesses.",
+      "sources_pending": [
+        "Adyen Docs",
+        "Gartner Magic Quadrant",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce Commerce Cloud",
+        "Magento (Adobe Commerce)",
+        "Oracle",
+        "SAP",
+        "Microsoft Dynamics 365"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "PSD2",
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Latin America",
+        "Middle East & Africa"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "PayPal",
+      "url": "https://www.paypal.com",
+      "founded": 1998,
+      "hq": "San Jose, USA",
+      "team_size_band": "10001+",
+      "best_for": "E-commerce businesses of all sizes that want to leverage a globally recognized and trusted brand to increase checkout conversion.",
+      "best_for_short": "Maximizing conversion with brand trust",
+      "pricing_band": "$$ (Pay-as-you-go)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Pricing & Fees": 8.5,
+        "Developer Experience & API": 8.4,
+        "Global Reach & Currency Support": 9.2,
+        "Features & Tools": 9,
+        "Support & Reliability": 8.9
+      },
+      "verdict": "PayPal is ranked #3 due to its immense global user base and brand recognition, which directly translates to higher trust and conversion rates for merchants at checkout.",
+      "verdict_short": "Unrivaled brand trust and a massive user base that boosts e-commerce conversion rates.",
+      "praise": "The 'Pay with PayPal' button is a powerful conversion tool, and its Braintree subsidiary offers a robust, developer-centric gateway for more advanced needs.",
+      "praise_short": "High consumer trust; includes Braintree's powerful API.",
+      "criticism": "Account stability can be a concern, with reports of funds being frozen unexpectedly. Standard fees can be higher than some competitors for card processing.",
+      "criticism_short": "Reports of frozen accounts; fees can be high.",
+      "sources_pending": [
+        "PayPal Developer Docs",
+        "Braintree Docs",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-09",
+        "summary": "Some public reports of account holds/freezes, a known risk factor for merchants heavily reliant on the platform.",
+        "signals": [
+          "Account stability concerns"
+        ]
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Virtually all e-commerce platforms",
+        "Shopify",
+        "BigCommerce",
+        "WooCommerce",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "PSD2"
+      ],
+      "regions": [
+        "Global (200+ countries)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Square",
+      "url": "https://squareup.com",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Small to medium-sized businesses, particularly in retail and services, that need a seamless, integrated solution for online and in-person sales.",
+      "best_for_short": "Integrated online and offline payments",
+      "pricing_band": "$$ (Pay-as-you-go)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Pricing & Fees": 8.8,
+        "Developer Experience & API": 8.3,
+        "Global Reach & Currency Support": 7.8,
+        "Features & Tools": 9.4,
+        "Support & Reliability": 8.5
+      },
+      "verdict": "Square's #4 ranking is secured by its best-in-class integration of online and offline payments, offering a cohesive ecosystem of software and hardware that is incredibly easy for SMBs to use.",
+      "verdict_short": "The top choice for businesses needing a single, simple solution for both online and in-person sales.",
+      "praise": "The tight integration between its POS hardware, e-commerce stores, and payment processing is seamless and powerful for omnichannel retailers.",
+      "praise_short": "Excellent, seamless omnichannel (online/POS) ecosystem.",
+      "criticism": "Its international availability is more limited than top competitors, and like PayPal, it has faced criticism for account stability issues for some merchants.",
+      "criticism_short": "Limited international presence; account stability concerns.",
+      "sources_pending": [
+        "Square Developer Docs",
+        "Capterra Reviews",
+        "Merchant Maverick Reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-09",
+        "summary": "Similar to PayPal, there are public reports of account holds affecting some merchants, particularly those in high-risk categories.",
+        "signals": [
+          "Account stability concerns"
+        ]
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Wix",
+        "BigCommerce",
+        "WooCommerce",
+        "Acuity Scheduling",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia",
+        "Japan",
+        "Ireland",
+        "France",
+        "Spain"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 5,
+      "name": "Checkout.com",
+      "url": "https://www.checkout.com",
+      "founded": 2012,
+      "hq": "London, UK",
+      "team_size_band": "1001-5000",
+      "best_for": "Fast-growing international tech companies and enterprises that need a modular and flexible payment platform with strong global acquiring capabilities.",
+      "best_for_short": "Modular global payment processing",
+      "pricing_band": "$$$ (Custom)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Pricing & Fees": 8.4,
+        "Developer Experience & API": 8.9,
+        "Global Reach & Currency Support": 8.8,
+        "Features & Tools": 7.8,
+        "Support & Reliability": 8.3
+      },
+      "verdict": "Checkout.com lands at #5 as a powerful, API-driven alternative to Stripe and Adyen, particularly excelling in providing granular control and global acquiring solutions for large, tech-savvy businesses.",
+      "verdict_short": "A flexible, developer-focused platform for international businesses seeking granular payment control.",
+      "praise": "The platform's unified API is powerful and flexible, and its direct acquiring relationships in many regions can lead to better performance and data.",
+      "praise_short": "Powerful unified API and global acquiring network.",
+      "criticism": "It lacks the broad ecosystem of pre-built products (like Stripe Billing or Tax) and is less suitable for smaller businesses that need an out-of-the-box solution.",
+      "criticism_short": "Fewer pre-built products; not for small businesses.",
+      "sources_pending": [
+        "Checkout.com Docs",
+        "G2 Reviews",
+        "Fintech Finance News"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify",
+        "Magento (Adobe Commerce)",
+        "PrestaShop",
+        "Salesforce",
+        "BigCommerce"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "PSD2",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Middle East & North Africa"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Authorize.net",
+      "url": "https://www.authorize.net",
+      "founded": 1996,
+      "hq": "American Fork, USA",
+      "team_size_band": "201-500",
+      "best_for": "Merchants who already have a traditional merchant account and need a reliable, secure, and widely-supported payment gateway to connect it to their website.",
+      "best_for_short": "Reliable gateway for existing merchant accounts",
+      "pricing_band": "$ (Gateway-only)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Pricing & Fees": 8,
+        "Developer Experience & API": 7.5,
+        "Global Reach & Currency Support": 7.8,
+        "Features & Tools": 8.5,
+        "Support & Reliability": 9
+      },
+      "verdict": "Authorize.net, a Visa solution, is ranked #6 as one of the oldest and most trusted names in the industry, offering a dependable and feature-rich gateway-only solution for businesses with separate merchant accounts.",
+      "verdict_short": "A trusted, reliable, and widely integrated gateway, especially for those bringing their own merchant account.",
+      "praise": "It is incredibly stable, secure, and compatible with nearly every shopping cart and billing system on the market.",
+      "praise_short": "Highly reliable, secure, and widely compatible.",
+      "criticism": "Its user interface and developer APIs feel dated compared to modern competitors like Stripe, and the need for a separate merchant account adds complexity.",
+      "criticism_short": "Dated interface/API; requires separate merchant account.",
+      "sources_pending": [
+        "Authorize.net Developer Docs",
+        "Merchant Maverick Reviews",
+        "Visa Inc. Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Magento (Adobe Commerce)",
+        "BigCommerce",
+        "Volusion",
+        "3dcart",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Worldpay from FIS",
+      "url": "https://www.fisglobal.com/en/products/worldpay-for-platforms",
+      "founded": 1989,
+      "hq": "Jacksonville, USA",
+      "team_size_band": "10001+",
+      "best_for": "Large enterprise retailers and corporations that require a processor with massive scale, extensive international capabilities, and traditional merchant services.",
+      "best_for_short": "Enterprise-scale traditional payment processing",
+      "pricing_band": "$$$ (Custom)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Pricing & Fees": 7.5,
+        "Developer Experience & API": 7.2,
+        "Global Reach & Currency Support": 9,
+        "Features & Tools": 8,
+        "Support & Reliability": 8.2
+      },
+      "verdict": "Worldpay secures the #7 spot due to its sheer scale and deep roots in the traditional banking system, making it a go-to choice for large, established enterprises needing a processor that can handle immense volume globally.",
+      "verdict_short": "A legacy powerhouse for large enterprises needing high-volume, global transaction processing.",
+      "praise": "Its global footprint is enormous, and it can support complex payment needs for the world's largest companies across a wide range of industries.",
+      "praise_short": "Massive global scale and enterprise capabilities.",
+      "criticism": "The technology and API are not as modern or developer-friendly as newer platforms, and its pricing and contracts can be opaque and complex.",
+      "criticism_short": "Less modern tech; complex pricing and contracts.",
+      "sources_pending": [
+        "FIS Global Website",
+        "Gartner Reviews",
+        "Industry Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "SAP",
+        "Oracle",
+        "Major ERPs",
+        "Custom Enterprise Systems"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "Global (140+ countries)"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 500,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "2Checkout (now Verifone)",
+      "url": "https://www.2checkout.com",
+      "founded": 2006,
+      "hq": "Atlanta, USA",
+      "team_size_band": "201-500",
+      "best_for": "Businesses selling software, SaaS, and other digital goods globally who need a merchant of record model to handle sales tax and compliance.",
+      "best_for_short": "Global digital commerce & subscriptions",
+      "pricing_band": "$$ (Pay-as-you-go)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Pricing & Fees": 7.2,
+        "Developer Experience & API": 7.5,
+        "Global Reach & Currency Support": 8.5,
+        "Features & Tools": 8,
+        "Support & Reliability": 7.5
+      },
+      "verdict": "Ranked at #8, 2Checkout excels by offering a comprehensive solution for global digital commerce, acting as a merchant of record to simplify international taxes, compliance, and subscription management.",
+      "verdict_short": "A strong choice for global digital goods sales, handling taxes and compliance as a merchant of record.",
+      "praise": "Its ability to manage global sales tax, VAT, and regulatory compliance is a significant advantage for businesses selling to a worldwide customer base.",
+      "praise_short": "Handles global sales tax and compliance.",
+      "criticism": "Fees are higher than standard gateways to account for the additional services, and the platform is less suited for businesses selling physical goods.",
+      "criticism_short": "Higher fees; focused on digital, not physical goods.",
+      "sources_pending": [
+        "2Checkout Website",
+        "G2 Reviews",
+        "SaaS Mag"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "WooCommerce",
+        "Magento",
+        "WHMCS"
+      ],
+      "compliance": [
+        "PCI DSS Level 1",
+        "GDPR",
+        "PSD2"
+      ],
+      "regions": [
+        "Global (200+ countries)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Amazon Pay",
+      "url": "https://pay.amazon.com",
+      "founded": 2007,
+      "hq": "Seattle, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "E-commerce merchants looking to provide a fast, familiar, and trusted checkout experience for the hundreds of millions of customers with Amazon accounts.",
+      "best_for_short": "Fast checkout for Amazon customers",
+      "pricing_band": "$$ (Pay-as-you-go)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Pricing & Fees": 7.8,
+        "Developer Experience & API": 7.2,
+        "Global Reach & Currency Support": 7.5,
+        "Features & Tools": 7,
+        "Support & Reliability": 8.5
+      },
+      "verdict": "Amazon Pay makes the list at #9 because it effectively leverages Amazon's massive customer base and trusted brand, allowing merchants to offer a one-click checkout experience that reduces friction and boosts conversion.",
+      "verdict_short": "Reduces checkout friction by leveraging the trust and convenience of the Amazon customer ecosystem.",
+      "praise": "For customers already logged into Amazon, the checkout process is incredibly fast and seamless, using their stored payment and shipping information.",
+      "praise_short": "Seamless and fast checkout for Amazon users.",
+      "criticism": "It is not a full-service gateway for processing all payments, but rather an alternative checkout button that complements an existing gateway.",
+      "criticism_short": "A checkout button, not a full-service gateway.",
+      "sources_pending": [
+        "Amazon Pay Docs",
+        "BigCommerce Partner Page",
+        "E-commerce Bytes"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "Magento (Adobe Commerce)",
+        "Zuora"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Japan"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Cybersource",
+      "url": "https://www.cybersource.com",
+      "founded": 1994,
+      "hq": "Foster City, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large enterprises that need sophisticated, global fraud management tools and payment services integrated into a single platform.",
+      "best_for_short": "Enterprise fraud management & payments",
+      "pricing_band": "$$$ (Custom)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Pricing & Fees": 7,
+        "Developer Experience & API": 7.1,
+        "Global Reach & Currency Support": 8,
+        "Features & Tools": 8.2,
+        "Support & Reliability": 7
+      },
+      "verdict": "Cybersource, another Visa solution, is ranked #10 for its enterprise-grade fraud detection capabilities, which are among the most powerful in the industry, making it a critical tool for large businesses managing global risk.",
+      "verdict_short": "A top choice for large enterprises prioritizing sophisticated, data-driven fraud management.",
+      "praise": "Its Decision Manager tool, powered by data from Visa's global network, provides incredibly powerful and accurate fraud screening.",
+      "praise_short": "World-class, data-powered fraud detection tools.",
+      "criticism": "The platform is complex, can be difficult to integrate, and is overkill for most small and medium-sized businesses.",
+      "criticism_short": "Complex and not suitable for SMBs.",
+      "sources_pending": [
+        "Cybersource Developer Center",
+        "Visa Inc. Reports",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "SAP",
+        "Oracle",
+        "Salesforce Commerce Cloud",
+        "Magento (Adobe Commerce)"
+      ],
+      "compliance": [
+        "PCI DSS Level 1"
+      ],
+      "regions": [
+        "Global (190+ countries)"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 250,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "GoCardless",
+      "url": "https://gocardless.com",
+      "founded": 2011,
+      "hq": "London, UK",
+      "team_size_band": "501-1000",
+      "best_for": "Subscription-based businesses and companies that invoice B2B clients and want to reduce churn and fees by collecting payments directly from bank accounts.",
+      "best_for_short": "Recurring bank-to-bank payments",
+      "pricing_band": "$ (Pay-as-you-go)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Pricing & Fees": 8.5,
+        "Developer Experience & API": 8,
+        "Global Reach & Currency Support": 6.5,
+        "Features & Tools": 7,
+        "Support & Reliability": 7
+      },
+      "verdict": "Our wildcard #11, GoCardless, is not a traditional card gateway but a specialist in recurring bank-to-bank payments (like ACH and SEPA), making it an essential tool for subscription businesses looking to combat card churn and lower costs.",
+      "verdict_short": "A specialized platform for recurring bank payments that reduces churn and fees for subscription models.",
+      "praise": "By pulling payments directly from bank accounts, it dramatically reduces payment failures from expired or canceled cards, a major source of involuntary churn.",
+      "praise_short": "Drastically reduces involuntary churn from card failures.",
+      "criticism": "It is not a solution for one-off e-commerce checkouts as it doesn't process card payments, making it a complementary service rather than a primary gateway for many.",
+      "criticism_short": "Doesn't process cards; not for e-commerce checkout.",
+      "sources_pending": [
+        "GoCardless Docs",
+        "Zuora Partner Page",
+        "TechCrunch Articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "Zuora",
+        "Salesforce",
+        "Chargebee"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "UK",
+        "Eurozone",
+        "USA",
+        "Canada",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

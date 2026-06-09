@@ -1,0 +1,864 @@
+{
+  "slug": "product-analytics-tools",
+  "title": "The 11 Best Product Analytics Tools",
+  "subtitle": "A ranked analysis of platforms for tracking user behavior, analyzing funnels, and measuring product engagement.",
+  "vertical": "Analytics · Product",
+  "audience": "Product teams measuring usage and funnels",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Analytics Platform",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Core Analytics (30%), Data Integration (20%), Ease of Use (20%), Collaboration (15%), and Scalability (15%)."
+    }
+  ],
+  "answer_capsule": "The best product analytics tool is Amplitude for its enterprise-grade feature set, followed closely by Mixpanel for its powerful segmentation and Heap for its codeless event tracking.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Analytics & Reporting",
+        "weight": 30,
+        "description": "Depth and flexibility of core features like funnel analysis, retention cohorts, user segmentation, and customizable dashboards."
+      },
+      {
+        "name": "Data Integration & Collection",
+        "weight": 20,
+        "description": "Ease of implementation via SDKs, APIs, and third-party connectors. Support for autocapture vs. manual tracking."
+      },
+      {
+        "name": "User Experience & Ease of Use",
+        "weight": 20,
+        "description": "Intuitive interface for non-technical users (e.g., PMs) and overall steepness of the learning curve."
+      },
+      {
+        "name": "Collaboration & Sharing",
+        "weight": 15,
+        "description": "Features for team collaboration, such as shared dashboards, annotations, and integrations with tools like Slack."
+      },
+      {
+        "name": "Scalability & Performance",
+        "weight": 15,
+        "description": "Ability to handle high-volume event data reliably and performantly, especially for large-scale products."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "Mobile Apps",
+    "Enterprise Software",
+    "Startups",
+    "User Behavior Analytics"
+  ],
+  "problem_tags": [
+    "User Retention",
+    "Feature Adoption",
+    "Conversion Funnels",
+    "User Engagement",
+    "Data-Driven Decisions"
+  ],
+  "query_intents": [
+    "best product analytics tools",
+    "amplitude vs mixpanel",
+    "heap analytics review",
+    "free product analytics",
+    "user behavior tracking software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Enterprise-scale user journey analysis",
+        "Complex segmentation",
+        "A/B test analysis"
+      ],
+      "personas": [
+        "Enterprise Product Manager",
+        "Data Analyst",
+        "Growth Marketer"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Funnel optimization",
+        "User retention tracking",
+        "Cross-platform analytics"
+      ],
+      "personas": [
+        "SaaS Product Manager",
+        "Mobile App Developer"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Codeless event tracking",
+        "Retroactive analysis",
+        "Reducing engineering dependency"
+      ],
+      "personas": [
+        "Non-technical PM",
+        "Early-stage startup founder"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.24,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is Product Analytics?",
+      "a": "Product analytics is the process of collecting, analyzing, and interpreting data about how users interact with a digital product. It helps teams understand user behavior, identify pain points, measure feature adoption, and make data-informed decisions to improve the user experience and drive business goals."
+    },
+    {
+      "q": "How is it different from Web Analytics (like Google Analytics)?",
+      "a": "Web analytics focuses on website traffic, page views, and acquisition channels (the 'how they got here'). Product analytics focuses on in-app user behavior, tracking specific actions, funnels, and retention within the product itself (the 'what they do here'). Product analytics is user-centric, while web analytics is often session-centric."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your technical resources: Do you have developers to implement event tracking (manual), or do you need a codeless 'autocapture' solution?",
+    "Define your key questions: Are you focused on conversion funnels, long-term retention, or session-by-session debugging? Different tools excel in different areas.",
+    "Consider your data ecosystem: Ensure the tool integrates with your existing stack, such as your CRM, data warehouse, or A/B testing platform.",
+    "Evaluate pricing models: Most tools price based on Monthly Tracked Users (MTUs) or event volume. Model your expected usage to forecast costs accurately, especially as you scale."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between product analytics and web analytics?",
+      "a": "Product analytics focuses on in-app user behavior (e.g., feature clicks, funnel completion) to improve the product experience. Web analytics (like Google Analytics) focuses on website traffic and acquisition (e.g., page views, traffic sources)."
+    },
+    {
+      "q": "How much do product analytics tools typically cost?",
+      "a": "Costs vary widely. Many offer a free tier for low volume. Paid plans can range from $100/month for startups to over $100,000/year for enterprises, typically based on Monthly Tracked Users (MTUs) or event volume."
+    },
+    {
+      "q": "Do I need a developer to implement product analytics?",
+      "a": "It depends. Tools like Amplitude and Mixpanel require a developer to instrument specific events ('manual tracking'). Tools like Heap offer 'autocapture,' which tracks most events automatically with a single code snippet, reducing developer dependency."
+    },
+    {
+      "q": "What is 'autocapture' in product analytics?",
+      "a": "Autocapture, pioneered by Heap, is a method where the tool automatically records all user interactions (clicks, form fills, page views) without requiring developers to manually code each event. This allows teams to analyze data retroactively, even for events they didn't think to track beforehand."
+    }
+  ],
+  "honest_disclosures": [
+    "Many leading tools have opaque, enterprise-focused pricing, making direct cost comparison difficult without a sales consultation.",
+    "The list prioritizes dedicated product analytics platforms; tools that are primarily for session replay or marketing automation but have some analytics features were ranked lower.",
+    "Most candidates are US-based SaaS companies, which may affect support availability for teams in different time zones."
+  ],
+  "glossary": {
+    "term": "Monthly Tracked Users (MTUs)",
+    "definition": "The number of unique users who perform at least one tracked event within your product during a given month. This is a common pricing metric for product analytics tools.",
+    "synonyms": [
+      "MAUs",
+      "Monthly Active Users"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Amplitude",
+      "url": "https://amplitude.com",
+      "founded": 2012,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Enterprise and growth-stage companies needing a comprehensive, scalable platform with deep behavioral analysis and A/B testing capabilities.",
+      "best_for_short": "Enterprise-grade behavioral analysis",
+      "pricing_band": "$$$$ (Custom Enterprise Pricing)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 9.4,
+        "Data Integration & Collection": 9,
+        "User Experience & Ease of Use": 9.1,
+        "Collaboration & Sharing": 9.4,
+        "Scalability & Performance": 9.8
+      },
+      "verdict": "Amplitude wins the top spot for its sheer power and scalability, offering an enterprise-grade suite of tools that covers everything from core analytics to experimentation and CDP capabilities.",
+      "verdict_short": "The most powerful and scalable platform for deep behavioral analysis at the enterprise level.",
+      "praise": "Its behavioral cohorts and journey analysis tools are best-in-class, allowing for incredibly granular user segmentation.",
+      "praise_short": "Unmatched depth in behavioral cohorts and journey analysis.",
+      "criticism": "The platform's complexity can be overwhelming for new users, and its premium pricing model puts it out of reach for many smaller startups.",
+      "criticism_short": "Steep learning curve and high cost for smaller teams.",
+      "sources_pending": [
+        "Amplitude Documentation",
+        "G2 Reviews",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Segment",
+        "Salesforce",
+        "Marketo",
+        "Braze",
+        "Snowflake",
+        "Google Cloud",
+        "Optimizely"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Mixpanel",
+      "url": "https://mixpanel.com",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Product teams at mid-market and SaaS companies who prioritize powerful reporting, funnel analysis, and user segmentation.",
+      "best_for_short": "Powerful reporting and segmentation",
+      "pricing_band": "$$$ (Starts ~$20/mo, scales up)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 9.3,
+        "Data Integration & Collection": 8.8,
+        "User Experience & Ease of Use": 9.2,
+        "Collaboration & Sharing": 9,
+        "Scalability & Performance": 9
+      },
+      "verdict": "Mixpanel is the best choice for teams that need powerful and flexible reporting tools, particularly for analyzing funnels and retention, wrapped in a more accessible UI than its top competitor.",
+      "verdict_short": "Excellent for flexible reporting and deep funnel/retention analysis with a user-friendly interface.",
+      "praise": "The report-building interface is incredibly intuitive, allowing non-analysts to answer complex questions about user behavior quickly.",
+      "praise_short": "Intuitive report builder empowers non-analysts.",
+      "criticism": "While its free and startup plans are generous, the pricing can escalate quickly with user growth, and it lacks some of Amplitude's advanced enterprise features.",
+      "criticism_short": "Pricing can escalate quickly with user growth.",
+      "sources_pending": [
+        "Mixpanel Docs",
+        "G2 Reviews",
+        "TrustRadius"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "mParticle",
+        "Salesforce",
+        "Zendesk",
+        "Intercom",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "ISO 27001",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Heap",
+      "url": "https://heap.io",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Teams that want to move fast and analyze data retroactively without heavy reliance on developer resources for event tracking.",
+      "best_for_short": "Codeless autocapture and retroactive analysis",
+      "pricing_band": "$$$$ (Custom Pricing)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 8.5,
+        "Data Integration & Collection": 9.8,
+        "User Experience & Ease of Use": 9,
+        "Collaboration & Sharing": 8.5,
+        "Scalability & Performance": 8.6
+      },
+      "verdict": "Heap stands out for its 'autocapture' technology, which automatically tracks every user interaction, making it the best option for teams who need data agility and retroactive analysis.",
+      "verdict_short": "Best for automatic data capture, enabling retroactive analysis without developer involvement.",
+      "praise": "The ability to define an event and see its historical data instantly is a game-changer for product discovery and hypothesis testing.",
+      "praise_short": "Retroactive analysis is a game-changer.",
+      "criticism": "The sheer volume of captured data can be noisy and overwhelming, and its core reporting features are not as deep or flexible as Amplitude or Mixpanel.",
+      "criticism_short": "Autocaptured data can be noisy; reporting is less powerful.",
+      "sources_pending": [
+        "Heap Documentation",
+        "G2 Reviews",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Intercom",
+        "Shopify",
+        "Optimizely",
+        "Redshift"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Pendo",
+      "url": "https://www.pendo.io",
+      "founded": 2013,
+      "hq": "Raleigh, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Product teams who need to combine quantitative analytics with qualitative feedback and in-app user guidance.",
+      "best_for_short": "Analytics plus in-app guidance",
+      "pricing_band": "$$$$ (Custom Enterprise Pricing)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 8.4,
+        "Data Integration & Collection": 8.5,
+        "User Experience & Ease of Use": 9.2,
+        "Collaboration & Sharing": 8.8,
+        "Scalability & Performance": 8.5
+      },
+      "verdict": "Pendo is the best choice for teams wanting an all-in-one platform that combines product analytics with tools for in-app messaging, surveys, and user feedback collection.",
+      "verdict_short": "An all-in-one platform for analytics, user feedback, and in-app guides.",
+      "praise": "The ability to segment users based on behavior and then target them with in-app guides or polls is extremely powerful for driving feature adoption.",
+      "praise_short": "Seamlessly connects analytics insights to in-app action.",
+      "criticism": "Its core analytics capabilities are less robust than dedicated tools like Amplitude, and the platform can be expensive.",
+      "criticism_short": "Core analytics are less powerful than specialists.",
+      "sources_pending": [
+        "Pendo Website",
+        "G2 Reviews",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Zendesk",
+        "Jira",
+        "Slack",
+        "Segment",
+        "HubSpot"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "FullStory",
+      "url": "https://www.fullstory.com",
+      "founded": 2014,
+      "hq": "Atlanta, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Product and support teams that need to combine quantitative data with qualitative session replays to understand and debug user issues.",
+      "best_for_short": "Analytics with pixel-perfect session replay",
+      "pricing_band": "$$$$ (Custom Pricing)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 8,
+        "Data Integration & Collection": 9,
+        "User Experience & Ease of Use": 9.4,
+        "Collaboration & Sharing": 8.2,
+        "Scalability & Performance": 8
+      },
+      "verdict": "FullStory excels by pairing robust analytics with high-fidelity session replay, making it the best tool for teams who need to see the 'why' behind the data and diagnose user friction.",
+      "verdict_short": "The best for combining analytics with high-fidelity session replay to understand user friction.",
+      "praise": "Its session replay is flawless and provides invaluable context for bug reports and understanding user frustration points.",
+      "praise_short": "Flawless session replay provides critical context.",
+      "criticism": "While its quantitative analytics are improving, they are not as powerful for complex segmentation or cohorting as the top-ranked tools.",
+      "criticism_short": "Quantitative analysis tools are less advanced.",
+      "sources_pending": [
+        "FullStory Website",
+        "G2 Reviews",
+        "Gartner Peer Insights"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Jira",
+        "Trello",
+        "Segment",
+        "Google Analytics",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "LogRocket",
+      "url": "https://logrocket.com",
+      "founded": 2016,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Engineering and product teams focused on identifying, reproducing, and fixing user-reported bugs and performance issues.",
+      "best_for_short": "Session replay for technical debugging",
+      "pricing_band": "$$$ (Starts ~$99/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 7.5,
+        "Data Integration & Collection": 8.8,
+        "User Experience & Ease of Use": 8.9,
+        "Collaboration & Sharing": 8,
+        "Scalability & Performance": 8
+      },
+      "verdict": "LogRocket is the premier tool for combining session replay with technical logs, making it the best choice for developers and PMs to debug issues and understand product performance.",
+      "verdict_short": "Best for debugging and performance monitoring with session replay and technical logs.",
+      "praise": "The combination of session replay with console logs, network requests, and performance data is unparalleled for bug reproduction.",
+      "praise_short": "Unparalleled for technical bug reproduction.",
+      "criticism": "It's more of a technical debugging tool than a strategic product analytics platform; its funnel and retention analysis features are limited.",
+      "criticism_short": "Limited strategic analytics (funnels, retention).",
+      "sources_pending": [
+        "LogRocket Website",
+        "G2 Reviews",
+        "StackShare"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Slack",
+        "Sentry",
+        "Datadog",
+        "Segment",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com",
+      "founded": 2014,
+      "hq": "St. Julian's, Malta",
+      "team_size_band": "201-500",
+      "best_for": "Marketers, UX designers, and product managers who need a simple, visual way to understand user behavior on websites.",
+      "best_for_short": "Visual behavior analytics and feedback",
+      "pricing_band": "$$ (Starts ~$39/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 7.2,
+        "Data Integration & Collection": 8,
+        "User Experience & Ease of Use": 9.5,
+        "Collaboration & Sharing": 7.8,
+        "Scalability & Performance": 7.5
+      },
+      "verdict": "Hotjar provides the most accessible suite of qualitative analytics tools, making it the best choice for teams who want to quickly understand user behavior through heatmaps, recordings, and surveys.",
+      "verdict_short": "The easiest way to visualize user behavior with heatmaps, recordings, and surveys.",
+      "praise": "Its suite of tools is incredibly easy to set up and use, providing immediate visual insights without a steep learning curve.",
+      "praise_short": "Extremely easy to set up and use.",
+      "criticism": "It lacks the deep quantitative analysis capabilities of other tools, focusing more on the 'what' and 'why' of individual pages rather than long-term user journeys.",
+      "criticism_short": "Lacks deep quantitative and cohort analysis.",
+      "sources_pending": [
+        "Hotjar Website",
+        "G2 Reviews",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Slack",
+        "HubSpot",
+        "Segment",
+        "Shopify",
+        "WordPress"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Indicative",
+      "url": "https://www.indicative.com",
+      "founded": 2013,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-forward teams that want to connect their product analytics directly to their existing data warehouse.",
+      "best_for_short": "Analytics on top of your data warehouse",
+      "pricing_band": "$$$ (Starts ~$249/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 8.2,
+        "Data Integration & Collection": 8.5,
+        "User Experience & Ease of Use": 7.5,
+        "Collaboration & Sharing": 7,
+        "Scalability & Performance": 8
+      },
+      "verdict": "Indicative (now part of mParticle) carves a niche as the best tool for analyzing customer journeys directly on top of a data warehouse, avoiding data siloing.",
+      "verdict_short": "Best for running complex journey analysis directly on a data warehouse.",
+      "praise": "Its multipath funnel and customer journey analysis capabilities are very powerful for understanding complex user flows.",
+      "praise_short": "Powerful multipath funnel and journey analysis.",
+      "criticism": "Requires a mature data stack (like Snowflake, BigQuery, or Redshift) to be effective and can have a steeper learning curve for less technical users.",
+      "criticism_short": "Requires a mature data warehouse setup.",
+      "sources_pending": [
+        "Indicative Website",
+        "mParticle Acquisition News",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 249,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Snowflake",
+        "Google BigQuery",
+        "Amazon Redshift",
+        "Segment",
+        "mParticle",
+        "Databricks"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "June",
+      "url": "https://www.june.so",
+      "founded": 2020,
+      "hq": "Paris, France",
+      "team_size_band": "11-50",
+      "best_for": "B2B SaaS companies, particularly those already using Segment, who need out-of-the-box reports and templates.",
+      "best_for_short": "Templated analytics for B2B SaaS",
+      "pricing_band": "$$ (Starts ~$39/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 7,
+        "Data Integration & Collection": 7.5,
+        "User Experience & Ease of Use": 9,
+        "Collaboration & Sharing": 7.8,
+        "Scalability & Performance": 7
+      },
+      "verdict": "June is the best option for B2B SaaS teams on Segment who want beautiful, actionable analytics reports without the complexity of building them from scratch.",
+      "verdict_short": "Auto-generated, template-based analytics reports perfect for B2B SaaS companies.",
+      "praise": "Its pre-built templates for common SaaS metrics (e.g., activation, retention, feature adoption) provide value almost instantly.",
+      "praise_short": "Instant value from pre-built SaaS templates.",
+      "criticism": "It is heavily reliant on Segment as a data source and lacks the deep customization and flexibility of larger platforms.",
+      "criticism_short": "Less flexible and heavily reliant on Segment.",
+      "sources_pending": [
+        "June.so Website",
+        "Product Hunt Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 39,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "Intercom",
+        "Stripe",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 10,
+      "name": "Glassbox",
+      "url": "https://www.glassbox.com",
+      "founded": 2010,
+      "hq": "London, UK",
+      "team_size_band": "501-1,000",
+      "best_for": "Large enterprises in regulated industries (like finance and insurance) needing a secure, comprehensive digital experience analytics platform.",
+      "best_for_short": "Enterprise digital experience intelligence",
+      "pricing_band": "$$$$$ (Custom Enterprise Pricing)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 7.5,
+        "Data Integration & Collection": 7,
+        "User Experience & Ease of Use": 7,
+        "Collaboration & Sharing": 7.5,
+        "Scalability & Performance": 8
+      },
+      "verdict": "Glassbox is the top choice for large, security-conscious enterprises seeking an all-in-one solution for journey mapping, session replay, and performance analytics.",
+      "verdict_short": "A secure, enterprise-focused platform for mapping the complete digital customer journey.",
+      "praise": "Its focus on security, compliance, and automatic PII detection makes it a trusted choice for companies in highly regulated sectors.",
+      "praise_short": "Strong security and compliance features for enterprises.",
+      "criticism": "The platform is complex, expensive, and generally overkill for small to mid-sized businesses that don't require its level of enterprise-grade security.",
+      "criticism_short": "Complex, expensive, and overkill for non-enterprises.",
+      "sources_pending": [
+        "Glassbox Website",
+        "Forrester Wave DXA",
+        "Gartner Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Adobe Analytics",
+        "Google Analytics",
+        "Salesforce",
+        "Medallia",
+        "Qualtrics",
+        "Jira"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "ISO 27001",
+        "PCI DSS"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "PostHog",
+      "url": "https://posthog.com",
+      "founded": 2020,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Technical teams and startups that want full data ownership and control by self-hosting an open-source analytics platform.",
+      "best_for_short": "Open-source, self-hostable analytics",
+      "pricing_band": "$$ (Open-source is free, cloud starts at $0)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Core Analytics & Reporting": 7.5,
+        "Data Integration & Collection": 8,
+        "User Experience & Ease of Use": 7,
+        "Collaboration & Sharing": 6.5,
+        "Scalability & Performance": 6.5
+      },
+      "verdict": "As an open-source, self-hostable platform, PostHog is a powerful wildcard for teams that prioritize data control, customizability, and avoiding vendor lock-in over the polish of SaaS solutions.",
+      "verdict_short": "The best open-source option for teams wanting full data control and customizability.",
+      "praise": "It bundles an impressive number of tools into one platform (analytics, session replay, feature flags, A/B testing) that you can run on your own infrastructure.",
+      "praise_short": "An all-in-one, open-source product suite.",
+      "criticism": "Self-hosting requires significant engineering resources to manage, scale, and maintain, and the user interface is less polished than its mature SaaS competitors.",
+      "criticism_short": "Self-hosting requires significant engineering overhead.",
+      "sources_pending": [
+        "PostHog Website",
+        "GitHub Repository",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "RudderStack",
+        "BigQuery",
+        "Snowflake",
+        "Redshift",
+        "Sentry"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (Self-hosted)",
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
