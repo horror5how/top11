@@ -1,0 +1,838 @@
+{
+  "slug": "applicant-tracking-systems",
+  "title": "The 11 Best Applicant Tracking Systems",
+  "subtitle": "A ranked analysis of the top ATS platforms for managing hiring pipelines, from SMBs to enterprise scale.",
+  "vertical": "HR · Recruiting",
+  "audience": "Recruiters and HR managing hiring pipelines",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Human Resources Software",
+  "subsector": "Recruiting Software",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Core ATS Functionality (30%), Integrations & Ecosystem (20%), Candidate Experience (20%), Reporting & Analytics (15%), and Scalability & Enterprise Fit (15%)."
+    }
+  ],
+  "answer_capsule": "The best applicant tracking system is Greenhouse for its enterprise-grade scalability, followed by Lever for its powerful candidate relationship management and Workable for its SMB-friendly features.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core ATS Functionality",
+        "weight": 30,
+        "description": "Effectiveness of core features: job posting, candidate sourcing, pipeline management, interview scheduling, and offer management."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 20,
+        "description": "Breadth and depth of integrations with HRIS, job boards, assessment tools, and other third-party services via API."
+      },
+      {
+        "name": "Candidate Experience",
+        "weight": 20,
+        "description": "Quality of the candidate-facing experience, including application flow, communication tools, and career page branding."
+      },
+      {
+        "name": "Reporting & Analytics",
+        "weight": 15,
+        "description": "Ability to generate actionable insights on hiring velocity, source effectiveness, diversity metrics, and pipeline health."
+      },
+      {
+        "name": "Scalability & Enterprise Fit",
+        "weight": 15,
+        "description": "Suitability for growing and large organizations, including user permissions, workflow automation, compliance, and global capabilities."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Mid-Market",
+    "Enterprise",
+    "Recruiting Automation",
+    "Candidate Sourcing",
+    "Hiring Analytics"
+  ],
+  "problem_tags": [
+    "disorganized hiring",
+    "poor candidate experience",
+    "inefficient recruiting",
+    "lack of hiring data",
+    "scaling recruitment"
+  ],
+  "query_intents": [
+    "best ats software",
+    "top applicant tracking systems",
+    "greenhouse vs lever",
+    "ats for small business",
+    "enterprise recruiting software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "scaling hiring operations",
+        "structured interviewing",
+        "enterprise compliance"
+      ],
+      "personas": [
+        "Head of Talent",
+        "Enterprise Recruiter"
+      ]
+    },
+    "2": {
+      "solves": [
+        "candidate relationship management",
+        "proactive sourcing",
+        "hiring manager collaboration"
+      ],
+      "personas": [
+        "Talent Sourcer",
+        "Recruiting Manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "all-in-one hiring for SMBs",
+        "fast implementation",
+        "automated sourcing"
+      ],
+      "personas": [
+        "HR Generalist",
+        "Small Business Owner"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.21,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is the primary function of an ATS?",
+      "a": "An Applicant Tracking System (ATS) is a software application that enables the electronic handling of recruitment and hiring needs. It centralizes candidate information, manages job postings, and tracks applicants through the various stages of the hiring process, from application to offer letter."
+    },
+    {
+      "q": "How does an ATS improve the hiring process?",
+      "a": "An ATS improves hiring by automating repetitive tasks like posting to multiple job boards and screening resumes, ensuring consistent communication with candidates, facilitating collaboration among the hiring team, and providing data to optimize recruiting strategies."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your company size and hiring volume: Enterprise solutions like Greenhouse are built for complexity, while tools like Breezy HR or JazzHR are better suited for smaller teams with simpler needs.",
+    "Evaluate the candidate experience: A clunky application process can deter top talent. Test the candidate-facing portal and communication tools of your shortlisted vendors.",
+    "Map out necessary integrations: Your ATS must connect seamlessly with your existing HR stack, such as your HRIS (e.g., Workday, BambooHR), background check services, and assessment tools.",
+    "Prioritize reporting needs: If data-driven recruiting is a priority, look for platforms with robust analytics dashboards like Ashby or Greenhouse to track metrics like time-to-hire and cost-per-hire."
+  ],
+  "faqs": [
+    {
+      "q": "What is an Applicant Tracking System (ATS)?",
+      "a": "An ATS is a software that acts as a central database for all recruitment activities. It helps companies collect and sort thousands of resumes, manage job postings on various boards, and track candidates through every stage of the hiring pipeline."
+    },
+    {
+      "q": "How much does an ATS typically cost?",
+      "a": "Costs vary widely. SMB-focused platforms can range from $50 to $400 per month. Mid-market and enterprise systems are often priced per employee or per recruiter annually, ranging from $5,000 to over $100,000 per year, frequently with an implementation fee."
+    },
+    {
+      "q": "What's the difference between an ATS and a recruiting CRM?",
+      "a": "An ATS is designed to manage active applicants for specific, open roles (a reactive process). A recruiting CRM (Candidate Relationship Management) is for proactively building and nurturing relationships with a pipeline of passive talent for future roles."
+    },
+    {
+      "q": "How do I choose the right ATS for my company size?",
+      "a": "Small businesses (under 50 employees) should prioritize ease of use and affordability (e.g., Breezy HR, JazzHR). Mid-size companies (50-500) need more robust features and integrations (e.g., Workable, Lever). Enterprises (500+) require scalability, advanced security, and complex workflow customization (e.g., Greenhouse, SmartRecruiters)."
+    },
+    {
+      "q": "Can an ATS help with diversity and inclusion (D&I)?",
+      "a": "Yes. Many modern ATS platforms include features to support D&I initiatives, such as anonymized resume screening to reduce unconscious bias, EEO/OFCCP compliance tracking, and analytics to measure the diversity of applicant pools at each stage."
+    }
+  ],
+  "honest_disclosures": [
+    "Pricing for enterprise-focused platforms like Greenhouse and SmartRecruiters is often opaque and requires a custom quote, making direct cost comparison difficult.",
+    "The list has a strong representation of US and European-based providers; companies with significant hiring needs in APAC or LATAM should conduct additional diligence on regional support.",
+    "While we evaluate integrations, the actual performance and reliability of third-party connections can vary."
+  ],
+  "glossary": {
+    "term": "ATS",
+    "definition": "Applicant Tracking System. A software application for recruiters and employers to track candidates through the recruiting and hiring process.",
+    "synonyms": [
+      "Recruiting Software",
+      "Talent Acquisition Software"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Greenhouse",
+      "url": "https://www.greenhouse.com",
+      "founded": 2012,
+      "hq": "New York, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Mid-market to enterprise companies seeking a highly structured, scalable, and data-driven recruiting platform.",
+      "best_for_short": "Structured, scalable enterprise hiring",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core ATS Functionality": 9.4,
+        "Integrations & Ecosystem": 9.4,
+        "Candidate Experience": 9,
+        "Reporting & Analytics": 9.2,
+        "Scalability & Enterprise Fit": 9.5
+      },
+      "verdict": "Greenhouse ranks #1 for its unmatched scalability and deep customization options, making it the gold standard for large, structured hiring organizations.",
+      "verdict_short": "The gold standard for scalable, structured, and data-driven enterprise recruiting.",
+      "praise": "Its powerful workflow automation and structured hiring kits enable consistency and fairness across complex, high-volume recruiting operations.",
+      "praise_short": "Exceptional workflow automation and structured hiring tools.",
+      "criticism": "The platform's complexity and high price point make it overkill and cost-prohibitive for most small businesses.",
+      "criticism_short": "Complex and expensive for small businesses.",
+      "sources_pending": [
+        "Greenhouse Pricing Page",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Workday",
+        "BambooHR",
+        "Slack",
+        "LinkedIn",
+        "DocuSign",
+        "HackerRank"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II",
+        "EEO/OFCCP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Lever",
+      "url": "https://www.lever.co",
+      "founded": 2012,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Fast-growing companies that prioritize candidate relationship management and proactive talent sourcing.",
+      "best_for_short": "Proactive sourcing & CRM",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core ATS Functionality": 9.2,
+        "Integrations & Ecosystem": 9,
+        "Candidate Experience": 9.4,
+        "Reporting & Analytics": 8.8,
+        "Scalability & Enterprise Fit": 8.9
+      },
+      "verdict": "Lever secures the #2 spot by combining a full-featured ATS with a best-in-class recruiting CRM, making it ideal for teams that build talent pipelines proactively.",
+      "verdict_short": "Best-in-class ATS/CRM combo for proactive talent pipeline building.",
+      "praise": "The platform's unified candidate profile and Nurture campaigns are exceptional for maintaining relationships with passive talent over time.",
+      "praise_short": "Excellent for nurturing passive talent pipelines.",
+      "criticism": "While powerful, its analytics capabilities are generally considered less robust and customizable than those of Greenhouse.",
+      "criticism_short": "Analytics are less robust than top competitor.",
+      "sources_pending": [
+        "Lever Pricing Page",
+        "G2 Reviews",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Namely",
+        "BambooHR",
+        "Slack",
+        "LinkedIn Talent Hub",
+        "GoodHire",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Workable",
+      "url": "https://www.workable.com",
+      "founded": 2012,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized businesses looking for an intuitive, all-in-one hiring platform with transparent pricing and strong sourcing tools.",
+      "best_for_short": "All-in-one for SMBs",
+      "pricing_band": "$$$ ($149 to $719/mo+)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core ATS Functionality": 8.9,
+        "Integrations & Ecosystem": 8.5,
+        "Candidate Experience": 9,
+        "Reporting & Analytics": 8.4,
+        "Scalability & Enterprise Fit": 8.6
+      },
+      "verdict": "Workable is the best all-around choice for SMBs at #3, offering a user-friendly interface, powerful AI-driven sourcing, and scalable plans without requiring a massive budget.",
+      "verdict_short": "The best user-friendly, all-in-one ATS for small and mid-sized businesses.",
+      "praise": "Its one-click job posting to over 200 job boards and AI-powered candidate sourcing save immense time for smaller HR teams.",
+      "praise_short": "Excellent job board syndication and AI sourcing.",
+      "criticism": "For larger organizations, the customization options for workflows and reporting can feel limited compared to enterprise-grade systems.",
+      "criticism_short": "Limited customization for complex enterprise needs.",
+      "sources_pending": [
+        "Workable Pricing Page",
+        "PCMag Review",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 719,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "BambooHR",
+        "Google Workspace",
+        "Microsoft 365",
+        "Slack",
+        "Indeed",
+        "LinkedIn"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 4,
+      "name": "Ashby",
+      "url": "https://www.ashbyhq.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-centric recruiting teams, particularly in the tech industry, who need powerful analytics and scheduling automation.",
+      "best_for_short": "Data-centric recruiting analytics",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core ATS Functionality": 8.5,
+        "Integrations & Ecosystem": 8.2,
+        "Candidate Experience": 8.8,
+        "Reporting & Analytics": 9.5,
+        "Scalability & Enterprise Fit": 8.3
+      },
+      "verdict": "Ashby earns its rank for providing the most powerful and flexible recruiting analytics on the market, combined with slick automation for scheduling and sourcing.",
+      "verdict_short": "Unmatched recruiting analytics and automation for data-driven teams.",
+      "praise": "Its 'All-in-One' approach genuinely integrates ATS, CRM, and analytics, with dashboards that are miles ahead of most competitors.",
+      "praise_short": "Truly integrated ATS, CRM, and best-in-class analytics.",
+      "criticism": "As a newer player, its integration marketplace is still growing and not as extensive as more established platforms like Greenhouse.",
+      "criticism_short": "Integration ecosystem is less mature than competitors.",
+      "sources_pending": [
+        "Ashby Website",
+        "G2 Reviews",
+        "Y Combinator Profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Rippling",
+        "BambooHR",
+        "Google Calendar",
+        "Slack",
+        "LinkedIn",
+        "Hired"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 2000
+    },
+    {
+      "rank": 5,
+      "name": "Teamtailor",
+      "url": "https://www.teamtailor.com",
+      "founded": 2013,
+      "hq": "Stockholm, Sweden",
+      "team_size_band": "201-500",
+      "best_for": "Companies focused on building a strong employer brand and delivering a modern, engaging candidate experience.",
+      "best_for_short": "Employer branding & candidate experience",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core ATS Functionality": 8.2,
+        "Integrations & Ecosystem": 8,
+        "Candidate Experience": 9.5,
+        "Reporting & Analytics": 7.9,
+        "Scalability & Enterprise Fit": 8.5
+      },
+      "verdict": "Teamtailor stands out at #5 for its exceptional, easy-to-build career sites and candidate-centric features that help companies attract, not just process, applicants.",
+      "verdict_short": "Best-in-class for building beautiful career sites and engaging candidates.",
+      "praise": "The drag-and-drop career site editor is incredibly intuitive and produces beautiful, mobile-first pages that showcase company culture effectively.",
+      "praise_short": "Intuitive, powerful career site builder.",
+      "criticism": "Its core reporting and analytics are more basic than competitors like Ashby or Greenhouse, focusing more on aesthetics than deep data.",
+      "criticism_short": "Reporting features are less advanced.",
+      "sources_pending": [
+        "Teamtailor Website",
+        "Capterra Reviews",
+        "G2 Crowd Ratings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "HiBob",
+        "Personio",
+        "Slack",
+        "Google Workspace",
+        "LinkedIn",
+        "Indeed"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Recruitee",
+      "url": "https://recruitee.com",
+      "founded": 2015,
+      "hq": "Amsterdam, Netherlands",
+      "team_size_band": "51-200",
+      "best_for": "Collaborative hiring teams in SMB and mid-market companies who need flexible and customizable pipelines.",
+      "best_for_short": "Collaborative team hiring",
+      "pricing_band": "$$$ ($222/mo+)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core ATS Functionality": 8.5,
+        "Integrations & Ecosystem": 8.3,
+        "Candidate Experience": 8.4,
+        "Reporting & Analytics": 7.5,
+        "Scalability & Enterprise Fit": 7.8
+      },
+      "verdict": "Recruitee excels in fostering team collaboration, offering intuitive tools for shared candidate evaluation, communication, and customizable hiring workflows.",
+      "verdict_short": "Excellent for collaborative hiring with flexible, customizable workflows.",
+      "praise": "The platform makes it incredibly easy for everyone on the hiring team, not just recruiters, to participate in the process with clear roles and communication streams.",
+      "praise_short": "Great for involving the entire hiring team.",
+      "criticism": "Its reporting suite is functional but lacks the depth and advanced filtering required by highly data-driven talent acquisition leaders.",
+      "criticism_short": "Reporting is functional but not advanced.",
+      "sources_pending": [
+        "Recruitee Pricing Page",
+        "G2 Reviews",
+        "Software Advice Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 222,
+      "price_max": 222,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "BambooHR",
+        "Personio",
+        "Slack",
+        "Google Workspace",
+        "Checkr",
+        "LinkedIn"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 7,
+      "name": "Pinpoint",
+      "url": "https://www.pinpoint.com",
+      "founded": 2016,
+      "hq": "St Helier, Jersey",
+      "team_size_band": "51-200",
+      "best_for": "Mid-market companies wanting to combine talent acquisition and talent marketing in a single, cost-effective platform.",
+      "best_for_short": "ATS with talent marketing",
+      "pricing_band": "$$$ (From ~$600/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core ATS Functionality": 8,
+        "Integrations & Ecosystem": 7.8,
+        "Candidate Experience": 8.8,
+        "Reporting & Analytics": 7.5,
+        "Scalability & Enterprise Fit": 7.9
+      },
+      "verdict": "Pinpoint earns its spot by tightly integrating employer branding and recruitment marketing tools with a solid ATS, offering great value for the mid-market.",
+      "verdict_short": "A strong mid-market ATS with integrated employer branding features.",
+      "praise": "The platform includes built-in tools for email marketing campaigns to talent pools and creating compelling, content-rich career sites.",
+      "praise_short": "Built-in email marketing and career site tools.",
+      "criticism": "The user interface for recruiters can sometimes feel less intuitive and modern compared to more recent entrants like Ashby.",
+      "criticism_short": "Recruiter UI feels less modern than some rivals.",
+      "sources_pending": [
+        "Pinpoint Website",
+        "G2 Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 600,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "BambooHR",
+        "HiBob",
+        "Microsoft 365",
+        "Slack",
+        "LinkedIn",
+        "Indeed"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 20,
+      "min_team_size": 50,
+      "max_team_size": 2000
+    },
+    {
+      "rank": 8,
+      "name": "Breezy HR",
+      "url": "https://breezy.hr",
+      "founded": 2014,
+      "hq": "Jacksonville, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small businesses and startups needing a simple, visually-oriented, and affordable ATS with a generous free plan.",
+      "best_for_short": "Simple, visual ATS for startups",
+      "pricing_band": "$ ($0 to $479/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core ATS Functionality": 8,
+        "Integrations & Ecosystem": 7.5,
+        "Candidate Experience": 7.9,
+        "Reporting & Analytics": 7,
+        "Scalability & Enterprise Fit": 7.2
+      },
+      "verdict": "Breezy HR is the top choice for startups due to its intuitive drag-and-drop pipeline, robust free tier, and simple, no-nonsense approach to hiring.",
+      "verdict_short": "Best for startups, with a great free plan and visual pipeline.",
+      "praise": "Its Kanban-style pipeline view is incredibly easy to use and provides an at-a-glance status of all candidates for busy teams.",
+      "praise_short": "Intuitive Kanban-style visual pipeline.",
+      "criticism": "The platform lacks the advanced automation, reporting, and compliance features needed by companies as they scale beyond the early stages.",
+      "criticism_short": "Lacks advanced features for scaling companies.",
+      "sources_pending": [
+        "Breezy HR Pricing Page",
+        "G2 Reviews",
+        "GetApp Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 479,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "BambooHR",
+        "Slack",
+        "Google Workspace",
+        "GoodHire",
+        "LinkedIn",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "EEO"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 9,
+      "name": "JazzHR",
+      "url": "https://www.jazzhr.com",
+      "founded": 2009,
+      "hq": "Pittsburgh, USA",
+      "team_size_band": "51-200",
+      "best_for": "Budget-conscious small businesses that need a straightforward, effective tool for organizing their hiring process.",
+      "best_for_short": "Affordable ATS for SMBs",
+      "pricing_band": "$$ ($49 to $449/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core ATS Functionality": 7.8,
+        "Integrations & Ecosystem": 7.4,
+        "Candidate Experience": 7.5,
+        "Reporting & Analytics": 7.2,
+        "Scalability & Enterprise Fit": 7
+      },
+      "verdict": "JazzHR provides a solid, no-frills ATS experience for small businesses, focusing on core functionality like job syndication and candidate tracking at a very competitive price point.",
+      "verdict_short": "A solid, affordable, no-frills ATS perfect for small businesses.",
+      "praise": "It offers unlimited users on all paid plans, which is a significant cost advantage for small but growing teams.",
+      "praise_short": "Unlimited users on all paid plans.",
+      "criticism": "The user interface feels dated compared to modern competitors, and it lacks sophisticated features for sourcing and analytics.",
+      "criticism_short": "Dated user interface and lacks advanced features.",
+      "sources_pending": [
+        "JazzHR Pricing Page",
+        "Capterra Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 449,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "ADP",
+        "BambooHR",
+        "Microsoft 365",
+        "Indeed",
+        "LinkedIn",
+        "ZipRecruiter"
+      ],
+      "compliance": [
+        "EEO/OFCCP"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 10,
+      "name": "SmartRecruiters",
+      "url": "https://www.smartrecruiters.com",
+      "founded": 2010,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Large global enterprises with complex hiring needs, particularly those requiring multi-language support and robust compliance.",
+      "best_for_short": "Global enterprise talent acquisition",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core ATS Functionality": 7.5,
+        "Integrations & Ecosystem": 8,
+        "Candidate Experience": 7,
+        "Reporting & Analytics": 7.2,
+        "Scalability & Enterprise Fit": 8.5
+      },
+      "verdict": "SmartRecruiters is a comprehensive Talent Acquisition Suite built for the complexity of global enterprise hiring, offering extensive features for compliance, internal mobility, and large-scale recruitment.",
+      "verdict_short": "A full TA suite designed for complex, global enterprise hiring.",
+      "praise": "Its marketplace of third-party integrations is one of the largest available, allowing enterprises to build a highly customized recruiting stack.",
+      "praise_short": "Vast marketplace of third-party integrations.",
+      "criticism": "The platform can feel bloated and less intuitive for day-to-day recruiting tasks, and its candidate experience is not as modern as newer systems.",
+      "criticism_short": "Can feel bloated and less intuitive for recruiters.",
+      "sources_pending": [
+        "SmartRecruiters Website",
+        "Gartner Magic Quadrant",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Workday",
+        "SAP SuccessFactors",
+        "Oracle HCM",
+        "LinkedIn",
+        "DocuSign",
+        "HireRight"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001",
+        "SOC 2 Type II",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 250,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Homerun",
+      "url": "https://www.homerun.co",
+      "founded": 2014,
+      "hq": "Amsterdam, Netherlands",
+      "team_size_band": "11-50",
+      "best_for": "Creative and culture-driven small businesses that want to tell their story and attract mission-aligned candidates.",
+      "best_for_short": "Culture-driven hiring for SMBs",
+      "pricing_band": "$$ (€75 to €399/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Core ATS Functionality": 6.8,
+        "Integrations & Ecosystem": 6.5,
+        "Candidate Experience": 9.2,
+        "Reporting & Analytics": 6,
+        "Scalability & Enterprise Fit": 6.2
+      },
+      "verdict": "Our wildcard, Homerun, is not a traditional ATS; it's a hiring tool for businesses that hire based on culture and mission, prioritizing beautiful job posts and a human-centric process over complex workflows.",
+      "verdict_short": "A hiring tool focused on culture and storytelling, not just tracking.",
+      "praise": "It empowers small teams without design resources to create stunning, magazine-style job posts and career pages that truly reflect their brand.",
+      "praise_short": "Create beautiful, magazine-style job posts.",
+      "criticism": "It lacks the robust automation, integrations, and reporting features that are standard in most other ATS platforms, making it unsuitable for high-volume hiring.",
+      "criticism_short": "Lacks automation and reporting for scale.",
+      "sources_pending": [
+        "Homerun Website",
+        "G2 Reviews",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 75,
+      "price_max": 399,
+      "currency": "EUR",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Google Calendar",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

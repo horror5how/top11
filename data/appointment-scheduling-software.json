@@ -1,0 +1,843 @@
+{
+  "slug": "appointment-scheduling-software",
+  "title": "The 11 Best Appointment Scheduling Software",
+  "subtitle": "A ranked list of the best tools for service-based businesses to automate client bookings, manage calendars, and reduce no-shows.",
+  "vertical": "Operations · Scheduling",
+  "audience": "Service businesses booking client appointments",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-09",
+  "last_verified": "2026-06-09",
+  "next_review": "2026-09-07",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Scheduling & Booking",
+  "changelog": [
+    {
+      "date": "2026-06-09",
+      "text": "Initial publication. Methodology v1.0 weights Core Scheduling Features (30%), Integrations & API (25%), User Experience (20%), Automation & Reminders (15%), and Scalability & Pricing (10%)."
+    }
+  ],
+  "answer_capsule": "The best appointment scheduling software is Calendly for its user-friendly interface and broad integrations, followed closely by Acuity Scheduling and SimplyBook.me for their powerful customization options.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-09",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Scheduling Features",
+        "weight": 30,
+        "description": "Availability of diverse event types, calendar syncing reliability, booking page customization, and control over buffers and availability rules."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 25,
+        "description": "Quality and breadth of native integrations with calendars, CRMs, payment gateways, and video conferencing tools. API accessibility."
+      },
+      {
+        "name": "User Experience",
+        "weight": 20,
+        "description": "Ease of use for both the administrator setting up schedules and the end-user booking an appointment. Interface clarity and mobile responsiveness."
+      },
+      {
+        "name": "Automation & Reminders",
+        "weight": 15,
+        "description": "Effectiveness of automated email/SMS reminders, follow-ups, intake forms, and workflow creation to reduce manual tasks and no-shows."
+      },
+      {
+        "name": "Scalability & Pricing",
+        "weight": 10,
+        "description": "Overall value, transparent pricing, and ability to support growth from a single user to a large team with features like routing and reporting."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Solopreneurs",
+    "Small Business",
+    "Sales Teams",
+    "Consultants",
+    "Customer Success",
+    "Service Providers"
+  ],
+  "problem_tags": [
+    "Reduce no-shows",
+    "Automate booking",
+    "Eliminate back-and-forth emails",
+    "Manage team availability",
+    "Client onboarding",
+    "Sales discovery calls"
+  ],
+  "query_intents": [
+    "best scheduling app",
+    "calendly alternative",
+    "free appointment booking tool",
+    "squarespace scheduling",
+    "online booking system for small business"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Eliminate back-and-forth emails",
+        "Automate booking"
+      ],
+      "personas": [
+        "Solopreneurs",
+        "Sales Teams"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Client intake forms",
+        "Take payments on booking"
+      ],
+      "personas": [
+        "Service Providers",
+        "Consultants"
+      ]
+    },
+    "3": {
+      "solves": [
+        "International scheduling",
+        "HIPAA compliance needs"
+      ],
+      "personas": [
+        "Global Businesses",
+        "Wellness Professionals"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.18,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is Appointment Scheduling Software?",
+      "a": "Appointment scheduling software is a tool that allows clients or customers to book appointments with a business online through a public-facing booking page. It automatically syncs with the business's calendar to show real-time availability, sends confirmation and reminder notifications, and often handles payments and client data collection."
+    },
+    {
+      "q": "Why is it important for service businesses?",
+      "a": "It saves significant administrative time by eliminating manual back-and-forth communication to find a meeting time. It also reduces no-shows through automated reminders, improves the customer experience by offering 24/7 booking convenience, and can centralize client information and payments."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your core needs: Do you need simple 1-on-1 meetings, or complex group sessions with payments and intake forms?",
+    "Check for critical integrations: Ensure the software connects seamlessly with your primary calendar (Google, Outlook), video conferencing tool (Zoom, Teams), and payment gateway (Stripe, PayPal).",
+    "Evaluate the user experience: Test the booking process from a client's perspective. It should be simple, fast, and mobile-friendly.",
+    "Consider your team size: If you have multiple team members, look for features like round-robin or collective availability scheduling.",
+    "Review pricing tiers carefully: Start with a free or basic plan to validate the tool before committing to a paid subscription. Pay attention to user limits and feature gates."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best free appointment scheduling software?",
+      "a": "Calendly and Setmore both offer excellent, feature-rich free tiers. Calendly's is ideal for individuals needing one event type, while Setmore's free plan includes payments and is great for service businesses with multiple staff members."
+    },
+    {
+      "q": "Does Google Calendar have a built-in scheduling tool?",
+      "a": "Yes, Google Calendar offers a feature called 'Appointment schedules' (an evolution of 'Appointment slots') available on certain Google Workspace plans. It allows you to share a booking page for others to schedule time with you directly."
+    },
+    {
+      "q": "How does appointment scheduling software reduce no-shows?",
+      "a": "Most tools automatically send email and/or SMS reminders to clients before their appointment. Many also allow you to require a deposit or full payment upfront, which financially incentivizes attendance."
+    },
+    {
+      "q": "Can scheduling software take payments from clients?",
+      "a": "Yes, most leading appointment scheduling tools integrate with payment gateways like Stripe and PayPal. This allows you to require payment at the time of booking, securing revenue and reducing no-shows."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based SaaS platforms, though many have global language and currency support. The list leans towards general-purpose schedulers rather than hyper-niche tools (e.g., for large medical practices requiring deep EMR integration)."
+  ],
+  "glossary": {
+    "term": "Round-Robin Scheduling",
+    "definition": "An automated method of assigning new appointments to team members in a cyclical fashion. It's used to distribute workload evenly among a team, such as a sales or support department.",
+    "synonyms": [
+      "Lead routing",
+      "Even distribution"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Calendly",
+      "url": "https://calendly.com",
+      "founded": 2013,
+      "hq": "Atlanta, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Individuals and teams seeking the most intuitive, user-friendly, and widely integrated scheduling experience on the market.",
+      "best_for_short": "Best overall user experience",
+      "pricing_band": "$ to $$ ($10 to $20/user/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core Scheduling Features": 9,
+        "Integrations & API": 9.5,
+        "User Experience": 9.8,
+        "Automation & Reminders": 8.8,
+        "Scalability & Pricing": 8.5
+      },
+      "verdict": "Calendly ranks first for its unmatched simplicity and best-in-class user experience for both schedulers and invitees, combined with an extensive integration marketplace that fits into almost any workflow.",
+      "verdict_short": "Unmatched for its simplicity, user experience, and vast integration ecosystem.",
+      "praise": "The platform's interface is exceptionally clean and intuitive, making setup and daily use frictionless.",
+      "praise_short": "Exceptionally clean and intuitive interface.",
+      "criticism": "Advanced customization of booking pages and forms is less flexible than some competitors like Acuity Scheduling.",
+      "criticism_short": "Less flexible booking page customization.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "Capterra"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "iCloud",
+        "Salesforce",
+        "HubSpot",
+        "Zoom",
+        "Stripe",
+        "PayPal",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Acuity Scheduling",
+      "url": "https://acuityscheduling.com",
+      "founded": 2006,
+      "hq": "New York, USA",
+      "team_size_band": "Acquired by Squarespace",
+      "best_for": "Service-based businesses like coaches, consultants, and wellness studios that need powerful, highly customizable scheduling with integrated client management and payment features.",
+      "best_for_short": "Best for customization & service businesses",
+      "pricing_band": "$$ ($16 to $49/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core Scheduling Features": 9.5,
+        "Integrations & API": 8.8,
+        "User Experience": 8.5,
+        "Automation & Reminders": 9.2,
+        "Scalability & Pricing": 8.7
+      },
+      "verdict": "Acuity Scheduling secures the second spot due to its immense feature depth and customization, allowing businesses to tailor every aspect of the booking process, from intake forms to payment policies and automated follow-ups.",
+      "verdict_short": "Immense feature depth and customization for service-based businesses.",
+      "praise": "Its ability to handle complex scheduling logic, including client intake forms, packages, and memberships, is second to none.",
+      "praise_short": "Excellent for complex scheduling logic and intake forms.",
+      "criticism": "The interface, while powerful, can feel dated and has a steeper learning curve compared to more modern alternatives like Calendly.",
+      "criticism_short": "Interface can feel dated and complex.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 16,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "iCloud",
+        "Zoom",
+        "QuickBooks",
+        "Mailchimp",
+        "Stripe",
+        "Square",
+        "PayPal"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA (on specific plans)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "SimplyBook.me",
+      "url": "https://simplybook.me",
+      "founded": 2001,
+      "hq": "Limassol, Cyprus",
+      "team_size_band": "51-200",
+      "best_for": "International businesses and service providers needing a wide array of features, including multi-language support, classes, and broad payment gateway options.",
+      "best_for_short": "Best for international businesses",
+      "pricing_band": "$ to $$ ($8.25 to $49.90/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core Scheduling Features": 9.2,
+        "Integrations & API": 8.5,
+        "User Experience": 8.2,
+        "Automation & Reminders": 9,
+        "Scalability & Pricing": 8.9
+      },
+      "verdict": "SimplyBook.me earns its rank with a comprehensive, all-in-one solution that excels in international support, offering extensive language options and payment integrations, making it ideal for global service businesses.",
+      "verdict_short": "Comprehensive solution with excellent international support and features.",
+      "praise": "The platform's 'Custom Features' system allows users to enable only the specific functions they need, keeping the interface from becoming bloated.",
+      "praise_short": "Modular 'Custom Features' system keeps it clean.",
+      "criticism": "The per-booking and per-feature pricing model on lower tiers can be confusing and may lead to unexpected costs as a business grows.",
+      "criticism_short": "Pricing model can be confusing.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra",
+        "GetApp"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 8.25,
+      "price_max": 49.9,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Outlook",
+        "Facebook",
+        "Instagram",
+        "WordPress",
+        "Stripe",
+        "PayPal",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA (on specific plans)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "HubSpot Meetings",
+      "url": "https://www.hubspot.com/products/sales/meeting-scheduler",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Sales and marketing teams already invested in the HubSpot ecosystem who want to seamlessly sync meeting data with their CRM.",
+      "best_for_short": "Best for HubSpot CRM users",
+      "pricing_band": "Free to $$ (Included in Sales Hub)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core Scheduling Features": 8.2,
+        "Integrations & API": 9.4,
+        "User Experience": 8.8,
+        "Automation & Reminders": 8.5,
+        "Scalability & Pricing": 8
+      },
+      "verdict": "HubSpot Meetings is the best choice for teams embedded in the HubSpot ecosystem, as its native integration with the HubSpot CRM provides unparalleled automation and data synchronicity for sales and marketing workflows.",
+      "verdict_short": "Unbeatable for teams using HubSpot CRM for sales workflows.",
+      "praise": "The automatic logging of meetings and contacts in the HubSpot CRM saves significant administrative time for sales reps.",
+      "praise_short": "Seamless, automatic logging to HubSpot CRM.",
+      "criticism": "As a standalone tool, it lacks the advanced features and customization of dedicated schedulers; its primary value is unlocked only when used with the broader HubSpot platform.",
+      "criticism_short": "Lacks advanced features as a standalone tool.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "HubSpot Academy"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot CRM",
+        "Google Calendar",
+        "Office 365",
+        "Zoom",
+        "Stripe (via HubSpot Payments)"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Setmore",
+      "url": "https://www.setmore.com",
+      "founded": 2011,
+      "hq": "Portland, USA",
+      "team_size_band": "Acquired by Zoho",
+      "best_for": "Small service-based businesses (e.g., salons, consultants, tutors) looking for the most robust free plan on the market, including payments and team members.",
+      "best_for_short": "Best free plan for service businesses",
+      "pricing_band": "$ to $$ ($5 to $25/user/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core Scheduling Features": 8.5,
+        "Integrations & API": 8,
+        "User Experience": 8.3,
+        "Automation & Reminders": 8.2,
+        "Scalability & Pricing": 9.2
+      },
+      "verdict": "Setmore stands out for offering the most generous and feature-complete free plan available, providing small businesses with essential tools like payment processing, up to four users, and unlimited appointments without an initial investment.",
+      "verdict_short": "The most generous and functional free plan available.",
+      "praise": "The ability to accept Square and Stripe payments on the free plan is a game-changer for new service businesses.",
+      "praise_short": "Accepts payments on the free plan.",
+      "criticism": "The user interface and customization options are more basic and less polished than top-tier competitors.",
+      "criticism_short": "User interface is less polished.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra",
+        "Forbes Advisor"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "Square",
+        "Stripe",
+        "PayPal",
+        "Zoom",
+        "Facebook",
+        "Instagram",
+        "Zoho CRM"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA (on specific plans)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "YouCanBook.me",
+      "url": "https://youcanbook.me",
+      "founded": 2011,
+      "hq": "Bedford, UK",
+      "team_size_band": "11-50",
+      "best_for": "Teams and individuals who want a reliable, no-frills scheduler with powerful control over notifications and booking page branding.",
+      "best_for_short": "Reliable and highly customizable",
+      "pricing_band": "$ ($12/calendar/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core Scheduling Features": 8.5,
+        "Integrations & API": 8,
+        "User Experience": 8,
+        "Automation & Reminders": 8.8,
+        "Scalability & Pricing": 7.8
+      },
+      "verdict": "YouCanBook.me is a long-standing, reliable scheduler that offers deep customization over the booking experience and notifications, making it a strong choice for businesses with specific branding and communication needs.",
+      "verdict_short": "A reliable workhorse with deep customization for notifications.",
+      "praise": "The level of control over the content and timing of email/SMS notifications is exceptional.",
+      "praise_short": "Exceptional control over notifications.",
+      "criticism": "The per-calendar pricing model can become expensive for larger teams compared to per-user models.",
+      "criticism_short": "Per-calendar pricing gets expensive for teams.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "Trustpilot"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 12,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Microsoft Calendar",
+        "Zoom",
+        "Google Meet",
+        "Stripe",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "SavvyCal",
+      "url": "https://savvycal.com",
+      "founded": 2020,
+      "hq": "Cincinnati, USA",
+      "team_size_band": "2-10",
+      "best_for": "Users who prioritize a collaborative and recipient-friendly booking experience, allowing invitees to overlay their own calendars.",
+      "best_for_short": "Best recipient-friendly experience",
+      "pricing_band": "$ ($12 to $20/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Scheduling Features": 7.8,
+        "Integrations & API": 7.5,
+        "User Experience": 9.2,
+        "Automation & Reminders": 7.8,
+        "Scalability & Pricing": 7.5
+      },
+      "verdict": "SavvyCal's standout feature is its recipient-first design, which allows invitees to overlay their own calendar on the booking page to instantly find a mutual time, reducing friction and making a great first impression.",
+      "verdict_short": "Reduces friction by letting invitees overlay their calendar.",
+      "praise": "The calendar overlay feature is a significant UX improvement over traditional scheduling links.",
+      "praise_short": "Innovative calendar overlay feature.",
+      "criticism": "As a newer player, its integration library and feature set are less extensive than more established competitors.",
+      "criticism_short": "Less extensive integration library.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Product Hunt",
+        "G2 Crowd"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Outlook Calendar",
+        "iCloud Calendar",
+        "Zoom",
+        "Zapier",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Doodle",
+      "url": "https://doodle.com",
+      "founded": 2007,
+      "hq": "Zurich, Switzerland",
+      "team_size_band": "51-200",
+      "best_for": "Organizing group meetings by polling participants for their availability, though it also offers 1-on-1 scheduling.",
+      "best_for_short": "Best for group scheduling polls",
+      "pricing_band": "$ ($14.95 to $19.95/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Scheduling Features": 8.2,
+        "Integrations & API": 7,
+        "User Experience": 8.5,
+        "Automation & Reminders": 7.2,
+        "Scalability & Pricing": 7.5
+      },
+      "verdict": "Doodle excels at its core function: finding the best time for a group of people to meet through its intuitive polling system, making it the go-to tool for coordinating large or complex group events.",
+      "verdict_short": "The market leader for finding a time for group meetings.",
+      "praise": "The group polling interface is incredibly simple and universally understood, making it easy to get responses from anyone.",
+      "praise_short": "Simple, universally understood group polling.",
+      "criticism": "Its features for 1-on-1 appointment booking and business automation are less developed than dedicated tools like Calendly or Acuity.",
+      "criticism_short": "1-on-1 booking features are less developed.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra",
+        "TechRadar Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 14.95,
+      "price_max": 19.95,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "Zoom",
+        "Microsoft Teams",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "Appointlet",
+      "url": "https://www.appointlet.com",
+      "founded": 2012,
+      "hq": "Portland, USA",
+      "team_size_band": "2-10",
+      "best_for": "Sales and customer success teams that need solid scheduling features with good team management and CRM integration capabilities.",
+      "best_for_short": "Solid choice for sales teams",
+      "pricing_band": "$ ($8 to $10/user/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Scheduling Features": 7.8,
+        "Integrations & API": 7.5,
+        "User Experience": 7.5,
+        "Automation & Reminders": 7.8,
+        "Scalability & Pricing": 7.5
+      },
+      "verdict": "Appointlet provides a capable and affordable scheduling solution, particularly for sales teams, with strong features for pooled availability, lead qualification forms, and seamless integration with major calendars.",
+      "verdict_short": "A capable and affordable scheduler for sales teams.",
+      "praise": "The tool effectively handles team scheduling, allowing organizations to manage pooled availability and assign meetings automatically.",
+      "praise_short": "Handles team scheduling and pooled availability well.",
+      "criticism": "The user interface and overall design feel less modern and intuitive than the top-ranked competitors.",
+      "criticism_short": "User interface feels less modern.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "SaaS Mag"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 10,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "Salesforce",
+        "HubSpot",
+        "Zoom",
+        "Stripe",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "OnceHub",
+      "url": "https://www.oncehub.com",
+      "founded": 2006,
+      "hq": "Walnut, USA",
+      "team_size_band": "51-200",
+      "best_for": "Revenue teams that need advanced lead routing, qualification, and scheduling features tightly integrated into their sales funnels.",
+      "best_for_short": "Best for advanced lead routing",
+      "pricing_band": "$ to $$ ($10/user/mo + usage)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core Scheduling Features": 8,
+        "Integrations & API": 7.8,
+        "User Experience": 7,
+        "Automation & Reminders": 7.5,
+        "Scalability & Pricing": 6.5
+      },
+      "verdict": "OnceHub (formerly ScheduleOnce) is a powerful platform for inbound lead management, offering sophisticated routing rules that can qualify and distribute leads to the right sales rep's calendar in real-time.",
+      "verdict_short": "Powerful inbound lead routing and scheduling for sales funnels.",
+      "praise": "Its advanced and flexible routing capabilities for sales teams are among the best in the category.",
+      "praise_short": "Advanced and flexible lead routing.",
+      "criticism": "The platform can be complex to configure, and its user interface is not as streamlined as more modern tools.",
+      "criticism_short": "Complex configuration and dated UI.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Crowd",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-09",
+        "summary": "No material public risk signals as of 2026-06-09.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 10,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Google Calendar",
+        "Office 365",
+        "Zoom",
+        "Microsoft Teams",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "TidyCal",
+      "url": "https://tidycal.com",
+      "founded": 2021,
+      "hq": "Austin, USA",
+      "team_size_band": "Part of AppSumo",
+      "best_for": "Solopreneurs and freelancers looking for a simple, affordable Calendly alternative, often available as a lifetime deal.",
+      "best_for_short": "Best lifetime deal (LTD) option",
+      "pricing_band": "$ (One-time purchase)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Core Scheduling Features": 7,
+        "Integrations & API": 6.5,
+        "User Experience": 7.5,
+        "Automation & Reminders": 6.8,
+        "Scalability & Pricing": 8
+      },
+      "verdict": "TidyCal is our wildcard pick for its contrarian business model; as an AppSumo product, it offers a core scheduling feature set for a one-time lifetime payment, making it a compelling, low-cost option for individuals who dislike recurring subscriptions.",
+      "verdict_short": "A simple scheduler with a compelling lifetime deal pricing model.",
+      "praise": "The value proposition of a lifetime deal is extremely attractive for budget-conscious freelancers and small businesses.",
+      "praise_short": "Incredible value with its lifetime deal.",
+      "criticism": "The feature set is basic and it lacks the advanced integrations, team features, and polish of the top subscription-based competitors.",
+      "criticism_short": "Lacks advanced features and integrations.",
+      "sources_pending": [
+        "Vendor Docs",
+        "AppSumo Reviews",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-09",
+        "summary": "Lifetime deal (LTD) business models can have uncertain long-term support and development roadmaps.",
+        "signals": [
+          "Non-standard pricing model (LTD)"
+        ]
+      },
+      "price_min": 29,
+      "price_max": 29,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Office 365",
+        "Apple Calendar",
+        "Zoom",
+        "Google Meet",
+        "Stripe",
+        "PayPal",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

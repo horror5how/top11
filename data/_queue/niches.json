@@ -176,28 +176,12 @@
       "priority": 3
     },
     {
-      "slug": "applicant-tracking-systems",
-      "title": "The 11 Best Applicant Tracking Systems",
-      "vertical": "HR · Recruiting",
-      "audience": "Recruiters and HR managing hiring pipelines",
-      "candidate_pool_size": 35,
-      "priority": 2
-    },
-    {
       "slug": "esign-proposal-software",
       "title": "The 11 Best Proposal Software",
       "vertical": "Sales · Proposals",
       "audience": "Sales teams sending quotes and proposals",
       "candidate_pool_size": 25,
       "priority": 3
-    },
-    {
-      "slug": "appointment-scheduling-software",
-      "title": "The 11 Best Appointment Scheduling Software",
-      "vertical": "Operations · Scheduling",
-      "audience": "Service businesses booking client appointments",
-      "candidate_pool_size": 30,
-      "priority": 2
     },
     {
       "slug": "inventory-management-software",
@@ -443,7 +427,9 @@
     "cloud-storage-business",
     "help-desk-software",
     "live-chat-software",
-    "esignature-software"
+    "esignature-software",
+    "applicant-tracking-systems",
+    "appointment-scheduling-software"
   ],
   "skipped": []
 }
