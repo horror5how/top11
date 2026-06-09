@@ -57,7 +57,14 @@ for (const entry of sources.entries) {
     console.error(`  facebook: ${bundle.facebook.count}${bundle.facebook.error ? " (err: " + bundle.facebook.error + ")" : ""}`);
   }
 
-  const syn = await synthesizeForEntry(entry, bundle).catch((e) => ({ entry: entry.name, error: String(e) }));
+  // try/catch (not .catch) so a synchronous throw — e.g. Anthropic client init with an
+  // empty/depleted key — degrades gracefully instead of failing the whole nightly run.
+  let syn;
+  try {
+    syn = await synthesizeForEntry(entry, bundle);
+  } catch (e) {
+    syn = { entry: entry.name, error: String(e) };
+  }
   out.entries[String(entry.rank)] = {
     rank: entry.rank,
     name: entry.name,

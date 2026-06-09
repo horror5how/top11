@@ -31,16 +31,22 @@ if (!urls.length) {
   process.exit(1);
 }
 
-const body = { host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList: urls };
-const res = await fetch("https://api.indexnow.org/IndexNow", {
-  method: "POST",
-  headers: { "Content-Type": "application/json; charset=utf-8" },
-  body: JSON.stringify(body),
-});
-
-console.log("status", res.status, res.statusText);
-console.log("pushed", urls.length, "urls");
-if (res.status >= 400) {
-  console.error(await res.text());
-  process.exit(1);
+// IndexNow accepts at most 10,000 URLs per request, so chunk large sitemaps.
+const CHUNK = 10000;
+let failed = false;
+for (let i = 0; i < urls.length; i += CHUNK) {
+  const batch = urls.slice(i, i + CHUNK);
+  const body = { host: HOST, key: KEY, keyLocation: KEY_LOCATION, urlList: batch };
+  const res = await fetch("https://api.indexnow.org/IndexNow", {
+    method: "POST",
+    headers: { "Content-Type": "application/json; charset=utf-8" },
+    body: JSON.stringify(body),
+  });
+  console.log(`batch ${Math.floor(i / CHUNK) + 1}: status ${res.status} ${res.statusText} (${batch.length} urls)`);
+  if (res.status >= 400) {
+    console.error(await res.text());
+    failed = true;
+  }
 }
+console.log("pushed", urls.length, "urls total");
+if (failed) process.exit(1);
