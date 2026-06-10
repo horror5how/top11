@@ -1,0 +1,804 @@
+{
+  "slug": "field-service-management",
+  "title": "The 11 Best Field Service Management Software",
+  "subtitle": "This ranking identifies the top FSM platforms that excel at scheduling, dispatching, and invoicing for field-based teams.",
+  "vertical": "Field Services · Operations",
+  "audience": "Field service businesses dispatching technicians and tracking work",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Operations Management",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Core FSM Features (30%), Mobile App Functionality (25%), and Integration Ecosystem (20%)."
+    }
+  ],
+  "answer_capsule": "The best field service management software is ServiceTitan for its all-in-one platform for large contractors, followed by Jobber for its user-friendly design for small to medium businesses.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core FSM Features",
+        "weight": 30,
+        "description": "Quality of scheduling, dispatching, work order management, invoicing, and quoting capabilities."
+      },
+      {
+        "name": "Mobile App Functionality",
+        "weight": 25,
+        "description": "Usability, offline capabilities, and feature set of the mobile app for field technicians."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 20,
+        "description": "Depth and reliability of integrations with key software like accounting (QuickBooks, Xero) and CRM."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 15,
+        "description": "Transparency of pricing, value for money, and ability to support business growth from small teams to large fleets."
+      },
+      {
+        "name": "Customer Support & Onboarding",
+        "weight": 10,
+        "description": "Responsiveness of support channels and the typical time and resources required to get a team fully operational."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Enterprise",
+    "HVAC",
+    "Plumbing",
+    "Electrical",
+    "Home Services"
+  ],
+  "problem_tags": [
+    "Inefficient Scheduling",
+    "Poor Communication",
+    "Delayed Invoicing",
+    "Inventory Tracking",
+    "Job Costing"
+  ],
+  "query_intents": [
+    "best fsm software",
+    "jobber vs housecall pro",
+    "servicetitan pricing",
+    "field service scheduling app"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling Operations",
+        "Sales & Marketing Automation"
+      ],
+      "personas": [
+        "Large Residential Contractors",
+        "Commercial Service Providers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "First FSM Adoption",
+        "Streamlining Quoting and Invoicing"
+      ],
+      "personas": [
+        "Small Business Owners",
+        "Home Service Professionals"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Online Booking",
+        "Local Marketing"
+      ],
+      "personas": [
+        "Owner-Operators",
+        "Small Service Teams"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Team Communication",
+        "Time Tracking"
+      ],
+      "personas": [
+        "Businesses Needing an All-in-One Employee App"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.34,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "How should I evaluate an FSM mobile app?",
+      "a": "Evaluate an FSM mobile app by testing its offline functionality first, as technicians often work in areas with poor connectivity. Check for ease of use in core tasks like updating job status, capturing photos, and collecting signatures. A good app should require minimal taps to complete common actions and present information clearly on a standard phone screen."
+    },
+    {
+      "q": "What are the most critical FSM integrations?",
+      "a": "The most critical FSM integration is with your accounting software, typically QuickBooks or Xero. This connection automates the flow of invoices and payments, eliminating double entry and reducing errors. After accounting, CRM and supplier inventory integrations are the next most important for streamlining sales and parts management."
+    }
+  ],
+  "how_to_choose": [
+    "Map your current workflow from job request to final payment to identify your biggest bottlenecks; choose a software that directly solves those specific problems.",
+    "Request a sandbox trial with your own data, not just a vendor demo, to see how the software handles your specific job types and customer information.",
+    "Confirm the total cost of ownership, including per-user fees, implementation charges, and any extra costs for premium integrations or support tiers."
+  ],
+  "faqs": [
+    {
+      "q": "What is field service management (FSM) software?",
+      "a": "Field service management software is a tool that helps businesses manage and coordinate resources performing work outside the office. It typically includes features for scheduling jobs, dispatching technicians, managing work orders, tracking inventory, and handling customer invoicing and payments."
+    },
+    {
+      "q": "How much does FSM software typically cost?",
+      "a": "FSM software typically costs between $40 and $150 per user per month for small to medium-sized businesses. Enterprise-level platforms like ServiceTitan or ServiceMax can cost significantly more, often starting at several hundred dollars per user with custom pricing based on company size and feature requirements."
+    },
+    {
+      "q": "What is the difference between FSM and CRM software?",
+      "a": "The main difference is that CRM (Customer Relationship Management) software focuses on managing the customer lifecycle, including sales, marketing, and pre-service communication. FSM software focuses on the operational delivery of services in the field, managing technicians, jobs, and assets from dispatch to invoice."
+    },
+    {
+      "q": "Does my small business really need FSM software?",
+      "a": "A small business needs FSM software once manual methods like spreadsheets and whiteboards start causing missed appointments, delayed billing, or poor communication between the office and the field. If you have more than two technicians, an FSM platform can typically provide a positive return on investment through improved efficiency."
+    }
+  ],
+  "honest_disclosures": [
+    "Our ranking favors platforms with strong support for North American trade contractors (HVAC, plumbing, electrical). Enterprise-grade and international solutions are included but may score lower on criteria weighted for SMB needs.",
+    "Pricing for many FSM providers, especially at the enterprise level, is not public. Our pricing bands are based on industry averages and publicly available data, which may differ from a custom quote."
+  ],
+  "glossary": {
+    "term": "Work Order",
+    "definition": "A document that authorizes and details a specific job or task to be performed for a customer. In FSM software, it tracks all information related to the job, including customer details, required parts, technician notes, and billing information.",
+    "synonyms": [
+      "Job Ticket",
+      "Service Order"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "ServiceTitan",
+      "url": "https://www.servicetitan.com",
+      "founded": 2012,
+      "hq": "Glendale, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Established residential and commercial contractors seeking an all-in-one platform to manage and grow their business.",
+      "best_for_short": "Scaling large service businesses",
+      "pricing_band": "$$$$ ($398+ per month, quote-based)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core FSM Features": 9.4,
+        "Mobile App Functionality": 9.2,
+        "Integration Ecosystem": 9.3,
+        "Pricing & Scalability": 8.8,
+        "Customer Support & Onboarding": 9.4
+      },
+      "verdict": "ServiceTitan is the best overall FSM software for large service businesses due to its unmatched depth of features covering everything from dispatch to marketing automation.",
+      "verdict_short": "The top choice for large contractors, offering a feature-rich, all-in-one growth platform.",
+      "praise": "Its integrated Marketing Pro and Sales Pro modules provide powerful tools for booking more jobs and increasing average ticket size, a feature set competitors lack.",
+      "praise_short": "Unmatched marketing and sales automation tools.",
+      "criticism": "The platform's high price point and mandatory multi-year contracts make it inaccessible for small businesses or those not focused on aggressive growth.",
+      "criticism_short": "Expensive and requires long-term contracts.",
+      "sources_pending": [
+        "ServiceTitan Pricing Guide 2026",
+        "G2 User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 398,
+      "price_max": 398,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks",
+        "Viewpoint",
+        "Sage Intacct",
+        "Google Ads",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Jobber",
+      "url": "https://getjobber.com",
+      "founded": 2011,
+      "hq": "Edmonton, Canada",
+      "team_size_band": "501-1000",
+      "best_for": "Small to medium-sized home service businesses that need a user-friendly and affordable platform to organize their operations.",
+      "best_for_short": "SMB home service businesses",
+      "pricing_band": "$$ ($49 to $249/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core FSM Features": 9,
+        "Mobile App Functionality": 9.3,
+        "Integration Ecosystem": 9,
+        "Pricing & Scalability": 9.4,
+        "Customer Support & Onboarding": 8.9
+      },
+      "verdict": "Jobber ranks second for its exceptional ease of use and well-designed core features, making it the best starting point for businesses moving away from manual processes.",
+      "verdict_short": "The most user-friendly platform for small and medium home service businesses.",
+      "praise": "The client hub feature provides a professional customer experience, allowing clients to approve quotes, check appointments, and pay invoices online 24/7.",
+      "praise_short": "Excellent self-service client hub.",
+      "criticism": "Its inventory management capabilities are basic and not suitable for companies that need to track parts across multiple vehicles or warehouses.",
+      "criticism_short": "Lacks advanced inventory management features.",
+      "sources_pending": [
+        "Jobber Pricing Page",
+        "Capterra User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "Stripe",
+        "Zapier",
+        "FleetSharp"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "Housecall Pro",
+      "url": "https://www.housecallpro.com",
+      "founded": 2013,
+      "hq": "Denver, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Owner-operators and small home service teams focused on marketing and customer communication.",
+      "best_for_short": "Marketing-focused small businesses",
+      "pricing_band": "$$ ($65 to $299/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core FSM Features": 8.8,
+        "Mobile App Functionality": 9,
+        "Integration Ecosystem": 8.5,
+        "Pricing & Scalability": 9.2,
+        "Customer Support & Onboarding": 9
+      },
+      "verdict": "Housecall Pro is a top contender for its strong focus on consumer-facing marketing tools, such as automated review requests and postcard campaigns, directly within the app.",
+      "verdict_short": "Excellent for small businesses wanting built-in marketing and communication tools.",
+      "praise": "The platform's online booking system integrates directly with a company's website and Google My Business profile, capturing leads effectively.",
+      "praise_short": "Strong online booking and lead capture.",
+      "criticism": "The user interface can feel cluttered compared to competitors like Jobber, and some advanced features are locked behind the highest-priced 'Max' plan.",
+      "criticism_short": "UI can be cluttered; best features are expensive.",
+      "sources_pending": [
+        "Housecall Pro Pricing Page",
+        "Software Advice User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 65,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Zapier",
+        "Google Local Services Ads"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "FieldEdge",
+      "url": "https://fieldedge.com",
+      "founded": 1980,
+      "hq": "Fort Myers, USA",
+      "team_size_band": "201-500",
+      "best_for": "HVAC, plumbing, and electrical contractors who use QuickBooks Desktop or Online and need a deeply integrated solution.",
+      "best_for_short": "Contractors needing deep QuickBooks integration",
+      "pricing_band": "$$$ ($100+ per user/mo, quote-based)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Core FSM Features": 8.9,
+        "Mobile App Functionality": 8.5,
+        "Integration Ecosystem": 9.2,
+        "Pricing & Scalability": 8,
+        "Customer Support & Onboarding": 8.6
+      },
+      "verdict": "FieldEdge earns its high rank due to its best-in-class, seamless integration with both QuickBooks Desktop and Online, eliminating almost all accounting friction.",
+      "verdict_short": "The best choice for deep, native integration with QuickBooks platforms.",
+      "praise": "The one-to-one sync with QuickBooks is its standout feature, far exceeding the reliability of the third-party connectors used by many competitors.",
+      "praise_short": "Superior native QuickBooks sync.",
+      "criticism": "The user interface for the main office application feels dated compared to more modern, cloud-native platforms, which can slow down new user adoption.",
+      "criticism_short": "Dated user interface in the office app.",
+      "sources_pending": [
+        "FieldEdge Solutions Page",
+        "G2 User Reviews",
+        "QuickBooks App Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 100,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "QuickBooks Desktop",
+        "QuickBooks Online",
+        "Service-Pro",
+        "Podium"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "ServiceMax",
+      "url": "https://www.servicemax.com",
+      "founded": 2007,
+      "hq": "Pleasanton, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Enterprise-level companies in medical device, manufacturing, and industrial sectors with complex asset-centric service needs.",
+      "best_for_short": "Enterprise asset-centric service",
+      "pricing_band": "$$$$ (Quote-based)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core FSM Features": 9.2,
+        "Mobile App Functionality": 8.8,
+        "Integration Ecosystem": 9,
+        "Pricing & Scalability": 7,
+        "Customer Support & Onboarding": 8.1
+      },
+      "verdict": "ServiceMax is the leading choice for large enterprises managing complex equipment due to its powerful asset management, warranty, and contract management capabilities.",
+      "verdict_short": "An enterprise-grade platform for complex equipment and asset management.",
+      "praise": "Its product, Asset 360, built on Salesforce, provides a complete view of an asset's history, which is critical for compliance and uptime in regulated industries.",
+      "praise_short": "Powerful Asset 360 product on Salesforce.",
+      "criticism": "The platform is overkill and prohibitively expensive for any business that is not a large, asset-focused enterprise; implementation can take 3-6 months.",
+      "criticism_short": "Overly complex and expensive for non-enterprises.",
+      "sources_pending": [
+        "ServiceMax Product Docs",
+        "Gartner Magic Quadrant for FSM",
+        "Salesforce AppExchange"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 20000,
+      "integrations": [
+        "Salesforce",
+        "SAP",
+        "Oracle",
+        "ServiceNow"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "IFS",
+      "url": "https://www.ifs.com",
+      "founded": 1983,
+      "hq": "Linköping, Sweden",
+      "team_size_band": "5001-10000",
+      "best_for": "Global enterprises in asset-intensive industries like aerospace, energy, and telecommunications requiring a single platform for ERP, EAM, and FSM.",
+      "best_for_short": "Global enterprises needing unified ERP/FSM",
+      "pricing_band": "$$$$$ (Quote-based)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core FSM Features": 9,
+        "Mobile App Functionality": 8.5,
+        "Integration Ecosystem": 8.8,
+        "Pricing & Scalability": 6.5,
+        "Customer Support & Onboarding": 8
+      },
+      "verdict": "IFS stands out for its ability to combine FSM with enterprise resource planning (ERP) and asset management (EAM) in a single, unified cloud platform for large, global operations.",
+      "verdict_short": "A unified ERP, EAM, and FSM platform for asset-heavy global enterprises.",
+      "praise": "The Planning & Scheduling Optimization (PSO) engine is a key differentiator, capable of handling millions of variables to schedule technicians for thousands of jobs efficiently.",
+      "praise_short": "Advanced scheduling optimization engine.",
+      "criticism": "Like ServiceMax, IFS is a massive, complex system with a high total cost of ownership and lengthy implementation cycles, making it unsuitable for the mid-market.",
+      "criticism_short": "Extremely complex and high total cost of ownership.",
+      "sources_pending": [
+        "IFS Cloud Documentation",
+        "Forrester Wave: FSM",
+        "Vendor Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 50000,
+      "integrations": [
+        "SAP",
+        "Oracle",
+        "Salesforce",
+        "Microsoft Dynamics 365"
+      ],
+      "compliance": [
+        "ISO 27001",
+        "SOC 1",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 180,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Simpro",
+      "url": "https://www.simprogroup.com",
+      "founded": 2002,
+      "hq": "Brisbane, Australia",
+      "team_size_band": "501-1000",
+      "best_for": "Commercial trade contractors who manage multi-stage projects and recurring maintenance jobs, not just single-visit service calls.",
+      "best_for_short": "Commercial contractors with complex projects",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core FSM Features": 8.5,
+        "Mobile App Functionality": 8,
+        "Integration Ecosystem": 8.2,
+        "Pricing & Scalability": 7.8,
+        "Customer Support & Onboarding": 7.9
+      },
+      "verdict": "Simpro is the best choice for trade businesses that require strong job costing and project management features alongside standard field service dispatching.",
+      "verdict_short": "A strong option for managing complex projects and job costing.",
+      "praise": "Its ability to handle multi-stage projects with detailed progress tracking and billing is a significant advantage over SMB-focused tools like Jobber.",
+      "praise_short": "Excels at multi-stage project management.",
+      "criticism": "The platform has a steeper learning curve than many competitors, and the user interface is often described by users as less intuitive.",
+      "criticism_short": "Steep learning curve and less intuitive UI.",
+      "sources_pending": [
+        "Simpro Product Tour",
+        "Capterra Australia Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Stripe",
+        "Square"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Australia",
+        "New Zealand",
+        "UK",
+        "North America"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Workiz",
+      "url": "https://www.workiz.com",
+      "founded": 2015,
+      "hq": "San Diego, USA",
+      "team_size_band": "51-200",
+      "best_for": "On-demand service businesses like locksmiths, garage door repair, and junk removal that rely heavily on phone calls for new jobs.",
+      "best_for_short": "On-demand, call-heavy businesses",
+      "pricing_band": "$$ ($225 for 5 users)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core FSM Features": 8,
+        "Mobile App Functionality": 8.2,
+        "Integration Ecosystem": 7.5,
+        "Pricing & Scalability": 8.5,
+        "Customer Support & Onboarding": 7.9
+      },
+      "verdict": "Workiz secures its spot with its unique focus on call tracking and phone integration, allowing businesses to attribute jobs to specific marketing campaigns automatically.",
+      "verdict_short": "Best for call-driven businesses with its integrated phone system.",
+      "praise": "The integrated Workiz Phone feature, which allows for call tracking, recording, and masking, is a standout capability not found in most other FSM platforms.",
+      "praise_short": "Unique integrated call tracking feature.",
+      "criticism": "The platform's pricing is bundled for up to 5 users on its core plan, which can be inefficient for solo operators or teams of 2-3.",
+      "criticism_short": "Pricing bundles are not ideal for very small teams.",
+      "sources_pending": [
+        "Workiz Pricing Page",
+        "GetApp User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 225,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Zapier",
+        "Google Calendar",
+        "Mailchimp"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Service Fusion",
+      "url": "https://www.servicefusion.com",
+      "founded": 2014,
+      "hq": "Richardson, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growing service businesses that want predictable, flat-rate pricing without per-user fees.",
+      "best_for_short": "Businesses wanting flat-rate pricing",
+      "pricing_band": "$$$ ($199 to $549/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core FSM Features": 7.9,
+        "Mobile App Functionality": 7.5,
+        "Integration Ecosystem": 7.6,
+        "Pricing & Scalability": 8.8,
+        "Customer Support & Onboarding": 7.4
+      },
+      "verdict": "Service Fusion's primary appeal is its pricing model, which offers unlimited users for a flat monthly fee, making it highly scalable for businesses adding technicians quickly.",
+      "verdict_short": "Offers a scalable flat-rate price for unlimited users.",
+      "praise": "The flat-rate pricing is simple and predictable, avoiding the escalating costs that per-user models create as a company grows from 5 to 15 technicians.",
+      "praise_short": "Predictable, unlimited-user pricing model.",
+      "criticism": "The mobile app is less polished and has fewer features than top competitors, and some users report slower performance.",
+      "criticism_short": "Mobile app is less polished than competitors.",
+      "sources_pending": [
+        "Service Fusion Pricing Page",
+        "G2 User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 549,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Google Calendar",
+        "Fleetio"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Kickserv",
+      "url": "https://www.kickserv.com",
+      "founded": 2006,
+      "hq": "Austin, USA",
+      "team_size_band": "11-50",
+      "best_for": "Small businesses that need a simple, no-frills FSM solution with a free plan for getting started.",
+      "best_for_short": "Small teams needing a simple FSM",
+      "pricing_band": "$ ($0 to $199/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core FSM Features": 7.5,
+        "Mobile App Functionality": 7.4,
+        "Integration Ecosystem": 7.2,
+        "Pricing & Scalability": 8.5,
+        "Customer Support & Onboarding": 7.5
+      },
+      "verdict": "Kickserv provides a solid, straightforward set of FSM tools and is one of the few providers to offer a genuinely useful free tier for up to 2 users.",
+      "verdict_short": "A simple, reliable FSM with a useful free plan for small teams.",
+      "praise": "Its free plan is a major benefit for new businesses or sole proprietors, offering basic job management and scheduling without any financial commitment.",
+      "praise_short": "Offers a functional free plan for 2 users.",
+      "criticism": "The platform lacks many of the advanced features and automation capabilities found in higher-ranked competitors, limiting its utility for scaling businesses.",
+      "criticism_short": "Lacks advanced features for scaling.",
+      "sources_pending": [
+        "Kickserv Pricing Page",
+        "Capterra User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Mailchimp",
+        "Stripe"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Connecteam",
+      "url": "https://connecteam.com",
+      "founded": 2014,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Businesses that need a single app for total employee management, including field service tasks, internal communication, and HR functions.",
+      "best_for_short": "All-in-one employee management app",
+      "pricing_band": "$ ($0 to $159/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core FSM Features": 6.8,
+        "Mobile App Functionality": 8,
+        "Integration Ecosystem": 7,
+        "Pricing & Scalability": 8.2,
+        "Customer Support & Onboarding": 7.5
+      },
+      "verdict": "Connecteam is a wildcard because it's an employee management platform, not a dedicated FSM, but its strong scheduling, dispatch, and mobile forms can replace a basic FSM for a lower cost.",
+      "verdict_short": "An employee app that can handle basic FSM tasks alongside HR and comms.",
+      "praise": "It consolidates job scheduling, time tracking, team chat, and digital forms into a single, easy-to-use mobile app for a very competitive price.",
+      "praise_short": "Combines scheduling, time tracking, and chat.",
+      "criticism": "It completely lacks core FSM features like customer records management, quoting, invoicing, and payment processing, requiring other tools for those functions.",
+      "criticism_short": "Lacks quoting, invoicing, and payment features.",
+      "sources_pending": [
+        "Connecteam Pricing Page",
+        "G2 User Reviews",
+        "Vendor Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 159,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Google Calendar",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

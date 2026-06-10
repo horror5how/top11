@@ -81,6 +81,8 @@ import fitnessStudioSoftware from "@/data/fitness-studio-software.json";
 import salonSpaSoftware from "@/data/salon-spa-software.json";
 import gymManagementSoftware from "@/data/gym-management-software.json";
 import restaurantPos from "@/data/restaurant-pos.json";
+import fieldServiceManagement from "@/data/field-service-management.json";
+import hvacSoftware from "@/data/hvac-software.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -189,6 +191,8 @@ const REGISTRY: Record<string, ListData> = {
   [salonSpaSoftware.slug]: salonSpaSoftware as unknown as ListData,
   [gymManagementSoftware.slug]: gymManagementSoftware as unknown as ListData,
   [restaurantPos.slug]: restaurantPos as unknown as ListData,
+  [fieldServiceManagement.slug]: fieldServiceManagement as unknown as ListData,
+  [hvacSoftware.slug]: hvacSoftware as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

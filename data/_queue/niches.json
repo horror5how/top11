@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "field-service-management",
-      "title": "The 11 Best Field Service Management Software",
-      "vertical": "Field Services · Operations",
-      "audience": "Field service businesses dispatching technicians and tracking work",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
-      "slug": "hvac-software",
-      "title": "The 11 Best HVAC Software",
-      "vertical": "HVAC · Service Management",
-      "audience": "HVAC contractors managing service calls and equipment",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "plumbing-software",
       "title": "The 11 Best Plumbing Business Software",
       "vertical": "Plumbing · Service Management",
@@ -364,7 +348,9 @@
     "fitness-studio-software",
     "salon-spa-software",
     "gym-management-software",
-    "restaurant-pos"
+    "restaurant-pos",
+    "field-service-management",
+    "hvac-software"
   ],
   "skipped": [
     {

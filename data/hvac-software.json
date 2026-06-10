@@ -1,0 +1,795 @@
+{
+  "slug": "hvac-software",
+  "title": "The 11 Best HVAC Software",
+  "subtitle": "A ranked list of the top field service management platforms for HVAC contractors, focusing on dispatching, mobile access, and accounting integration.",
+  "vertical": "HVAC · Service Management",
+  "audience": "HVAC contractors managing service calls and equipment",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Field Service Management",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Field Service Management (30%), Mobile App Functionality (25%), Financial Tools (20%), Integrations & API (15%), and User Interface & Onboarding (10%)."
+    }
+  ],
+  "answer_capsule": "The best HVAC software is ServiceTitan for its all-in-one platform for large shops, followed by Housecall Pro for smaller teams and Jobber for its exceptional user experience.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Field Service Management",
+        "weight": 30,
+        "description": "Core features for scheduling, dispatching, work order management, and customer history."
+      },
+      {
+        "name": "Mobile App Functionality",
+        "weight": 25,
+        "description": "Effectiveness of the technician's mobile app, including offline access, payment processing, and ease of use."
+      },
+      {
+        "name": "Financial Tools",
+        "weight": 20,
+        "description": "Capabilities for quoting, invoicing, payment processing, and integration with accounting software like QuickBooks."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 15,
+        "description": "Ability to connect with third-party software (e.g., accounting, marketing, supplier catalogs) and API availability."
+      },
+      {
+        "name": "User Interface & Onboarding",
+        "weight": 10,
+        "description": "Ease of use for both office staff and technicians, and the quality of the initial setup and training process."
+      }
+    ]
+  },
+  "segment_tags": [
+    "HVAC",
+    "Field Service Management",
+    "FSM Software",
+    "Contractor Software",
+    "Small Business"
+  ],
+  "problem_tags": [
+    "Dispatching",
+    "Scheduling",
+    "Invoicing",
+    "Technician Management",
+    "Customer Management"
+  ],
+  "query_intents": [
+    "best hvac software",
+    "hvac dispatch software",
+    "field service software for hvac",
+    "hvac business management software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scaling operations",
+        "All-in-one platform need",
+        "Advanced reporting"
+      ],
+      "personas": [
+        "Growth-focused HVAC business owners",
+        "Shops with 15+ technicians"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Simplifying operations",
+        "Owner-operator efficiency",
+        "Easy mobile payments"
+      ],
+      "personas": [
+        "Small HVAC shops (1-10 techs)",
+        "Residential service contractors"
+      ]
+    },
+    "3": {
+      "solves": [
+        "User-friendly scheduling",
+        "Improving customer communication",
+        "Organizing client information"
+      ],
+      "personas": [
+        "HVAC businesses prioritizing ease of use",
+        "Mixed trade service companies"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.3,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What defines the best HVAC software?",
+      "a": "The best HVAC software excels at three core functions: intelligent dispatching to get the right tech to the right job, a powerful mobile app that empowers technicians in the field, and seamless integration with accounting software like QuickBooks. Beyond these, top platforms offer customer management (CRM), quoting, invoicing, and reporting tools tailored to the needs of an HVAC business."
+    },
+    {
+      "q": "How does this software help an HVAC business grow?",
+      "a": "This software helps businesses grow by increasing efficiency and improving cash flow. Automated scheduling and optimized routing mean technicians can complete more jobs per day. Instant invoicing and mobile payments from the field reduce the time between job completion and getting paid. Better data and reporting also allow owners to identify profitable services and manage technician performance."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your current workflow and identify the biggest bottlenecks, whether it's scheduling chaos, slow invoicing, or poor communication with technicians.",
+    "Second, define your must-have features. Do you need deep QuickBooks Desktop integration, GPS tracking, or a specific parts supplier integration? Prioritize this list.",
+    "Third, schedule demos with your top 2-3 choices. Involve both an office staff member and a senior technician to get a complete picture of how the software works in practice.",
+    "Finally, get a clear, all-in cost breakdown. Ask about implementation fees, training costs, and charges for additional users or features to avoid surprises."
+  ],
+  "faqs": [
+    {
+      "q": "What is the average cost of HVAC software?",
+      "a": "The average cost for HVAC software ranges from $150 to $500 per month for a small team of 2-5 users. Pricing is typically per user, per month, with market leaders like ServiceTitan starting at higher price points (often over $400/mo) and solutions for smaller shops like Housecall Pro or Jobber offering plans under $200/mo."
+    },
+    {
+      "q": "Does most HVAC software integrate with QuickBooks?",
+      "a": "Yes, nearly all leading HVAC software platforms integrate with QuickBooks Online and QuickBooks Desktop. This is considered a standard feature, as it eliminates double entry for invoices and payments. However, the depth of the integration can vary, so confirm it supports your specific version and workflow during a demo."
+    },
+    {
+      "q": "What are the most critical features for an HVAC technician's mobile app?",
+      "a": "The most critical mobile app features are access to job details and customer history, the ability to create quotes and invoices on-site, a tool to process credit card payments, and offline functionality. An app that works without a constant internet connection is essential for technicians working in basements or remote areas."
+    },
+    {
+      "q": "How long does it take to implement new HVAC software?",
+      "a": "Implementation time varies by provider and the size of your business, typically ranging from a few days to six weeks. Simpler platforms like Jobber or Housecall Pro can be set up in under a week. More extensive systems like ServiceTitan involve a multi-week onboarding process with dedicated specialists to migrate data and train your team."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are primarily focused on the North American market (USA and Canada); features and integrations may be less suitable for other regions.",
+    "Pricing is often not transparent. Many providers require a sales call to get a quote, making direct comparison difficult. Stated minimum prices may not include essential features.",
+    "The list prioritizes all-in-one platforms. Businesses needing only a simple scheduling tool might find these options overly complex."
+  ],
+  "glossary": {
+    "term": "FSM (Field Service Management)",
+    "definition": "A category of software that helps companies manage and optimize the work of employees operating outside the office (in the field). For HVAC, this includes scheduling, dispatching, invoicing, and managing technicians.",
+    "synonyms": [
+      "HVAC Software",
+      "Contractor Software"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "ServiceTitan",
+      "url": "https://www.servicetitan.com/",
+      "founded": 2012,
+      "hq": "Glendale, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Growth-oriented HVAC businesses with over 10 technicians seeking a dominant, all-in-one platform for operations, marketing, and analytics.",
+      "best_for_short": "Large, growth-focused shops",
+      "pricing_band": "$$$$ ($400 to $1,500+/mo)",
+      "score_out_of_94": 9.4,
+      "score_breakdown": {
+        "Field Service Management": 9.4,
+        "Mobile App Functionality": 9.2,
+        "Financial Tools": 9.5,
+        "Integrations & API": 9.3,
+        "User Interface & Onboarding": 8.8
+      },
+      "verdict": "ServiceTitan is the best overall HVAC software because it offers the most extensive feature set on the market, covering everything from call booking and marketing automation to detailed financial reporting.",
+      "verdict_short": "The most powerful all-in-one platform for scaling large HVAC businesses.",
+      "praise": "Its reporting and analytics suite is unmatched, providing deep insights into technician performance, job profitability, and marketing ROI with over 150 built-in reports.",
+      "praise_short": "Unmatched reporting and business analytics.",
+      "criticism": "The platform's power comes with complexity and a high price tag, making it overkill and too expensive for shops with fewer than 5 technicians.",
+      "criticism_short": "Complex and expensive for smaller teams.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 398,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 2000,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Google Ads",
+        "Fleet-tracking hardware",
+        "Major parts suppliers"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Housecall Pro",
+      "url": "https://www.housecallpro.com/",
+      "founded": 2013,
+      "hq": "Denver, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to medium-sized residential HVAC companies (1-15 technicians) that need a user-friendly, mobile-first platform with strong core features.",
+      "best_for_short": "Small to mid-sized shops",
+      "pricing_band": "$$ ($199 to $499/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Field Service Management": 9,
+        "Mobile App Functionality": 9.5,
+        "Financial Tools": 8.9,
+        "Integrations & API": 8.8,
+        "User Interface & Onboarding": 9.7
+      },
+      "verdict": "Housecall Pro earns its rank by being exceptionally easy to use, particularly its mobile app, which simplifies job management for technicians in the field.",
+      "verdict_short": "The most user-friendly, mobile-first platform for smaller HVAC teams.",
+      "praise": "The platform's onboarding is fast, with many users able to get their teams up and running in less than a week, a significant advantage for busy contractors.",
+      "praise_short": "Extremely fast setup and onboarding.",
+      "criticism": "Its reporting capabilities are less advanced than ServiceTitan's, offering limited customization for analyzing job costing and profitability.",
+      "criticism_short": "Reporting features are not as deep.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "Google Calendar",
+        "Stripe"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "Jobber",
+      "url": "https://getjobber.com/",
+      "founded": 2011,
+      "hq": "Edmonton, Canada",
+      "team_size_band": "501-1000",
+      "best_for": "HVAC contractors who prioritize a clean interface, excellent customer communication tools, and straightforward scheduling and billing.",
+      "best_for_short": "Ease of use and client communication",
+      "pricing_band": "$$ ($169 to $499/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Field Service Management": 8.8,
+        "Mobile App Functionality": 9,
+        "Financial Tools": 8.9,
+        "Integrations & API": 8.7,
+        "User Interface & Onboarding": 9.8
+      },
+      "verdict": "Jobber stands out for its superior user experience and automated customer communication features, like 'on my way' texts and follow-up emails, which improve professionalism.",
+      "verdict_short": "Best-in-class user interface and automated customer communication.",
+      "praise": "The client hub feature, a self-serve online portal for customers to approve quotes, check appointments, and pay invoices, is a major differentiator.",
+      "praise_short": "Excellent self-serve client portal.",
+      "criticism": "Jobber's inventory management is basic and may not be sufficient for larger HVAC companies that need to track parts across multiple trucks.",
+      "criticism_short": "Basic inventory management features.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 169,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Stripe",
+        "Zapier",
+        "Mailchimp",
+        "FleetSharp"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 4,
+      "name": "FieldEdge",
+      "url": "https://fieldedge.com/",
+      "founded": 1979,
+      "hq": "Fort Myers, USA",
+      "team_size_band": "201-500",
+      "best_for": "Established HVAC businesses that are heavily reliant on QuickBooks Desktop and need a deeply integrated, feature-rich field service solution.",
+      "best_for_short": "Deep QuickBooks Desktop integration",
+      "pricing_band": "$$$ ($300 to $1,000+/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Field Service Management": 8.8,
+        "Mobile App Functionality": 8.5,
+        "Financial Tools": 9.2,
+        "Integrations & API": 9,
+        "User Interface & Onboarding": 8
+      },
+      "verdict": "FieldEdge is the top choice for companies committed to QuickBooks Desktop because its direct, two-way data sync is one of the most reliable in the industry.",
+      "verdict_short": "The best option for deep, reliable QuickBooks Desktop synchronization.",
+      "praise": "The platform offers powerful service agreement management, making it easy to track, schedule, and bill for recurring maintenance contracts.",
+      "praise_short": "Strong service agreement management.",
+      "criticism": "The user interface feels less modern than competitors like Jobber or Housecall Pro, and can require more training for new office staff.",
+      "criticism_short": "User interface feels dated.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Software Advice Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 300,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks Desktop",
+        "QuickBooks Online",
+        "PaySimple",
+        "Podium",
+        "Various parts suppliers"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Service Fusion",
+      "url": "https://www.servicefusion.com/",
+      "founded": 2014,
+      "hq": "Richardson, USA",
+      "team_size_band": "51-200",
+      "best_for": "HVAC businesses looking for a fixed-price software model that doesn't charge per user, offering predictable costs as the team grows.",
+      "best_for_short": "Unlimited users, fixed price",
+      "pricing_band": "$$$ ($349 to $699/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Field Service Management": 8.6,
+        "Mobile App Functionality": 8.3,
+        "Financial Tools": 8.5,
+        "Integrations & API": 8.2,
+        "User Interface & Onboarding": 8.7
+      },
+      "verdict": "Service Fusion secures its position by offering a compelling flat-rate pricing structure that allows for unlimited users, making it highly cost-effective for growing teams.",
+      "verdict_short": "Best value for growing teams with its unlimited-user pricing model.",
+      "praise": "The 'FusionPay' feature provides competitive flat-rate payment processing (2.59% + $0.25), which is often lower than competitors' standard rates.",
+      "praise_short": "Competitive payment processing rates.",
+      "criticism": "While the core feature set is solid, the mobile app is less polished and has fewer advanced features compared to leaders like ServiceTitan or Housecall Pro.",
+      "criticism_short": "Mobile app is less polished.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 349,
+      "price_max": 699,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Google Calendar",
+        "Zapier"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Workiz",
+      "url": "https://www.workiz.com/",
+      "founded": 2015,
+      "hq": "San Diego, USA",
+      "team_size_band": "51-200",
+      "best_for": "Service businesses that rely heavily on phone calls for new jobs and want integrated call tracking and management features.",
+      "best_for_short": "Integrated phone and call tracking",
+      "pricing_band": "$$ ($225 to $450/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Field Service Management": 8.7,
+        "Mobile App Functionality": 8.2,
+        "Financial Tools": 8,
+        "Integrations & API": 8.1,
+        "User Interface & Onboarding": 8.5
+      },
+      "verdict": "Workiz distinguishes itself with a built-in phone system that allows for call tracking, recording, and automated customer recognition, directly linking calls to jobs.",
+      "verdict_short": "Excellent for businesses that are heavily phone-based.",
+      "praise": "The 'Workiz Phone' feature is a true differentiator, providing analytics on ad campaign performance by tracking which calls and ad sources lead to booked jobs.",
+      "praise_short": "Unique, powerful call-tracking features.",
+      "criticism": "The platform's per-user pricing can become expensive for larger teams, and some advanced features are locked behind the highest-tier plan.",
+      "criticism_short": "Can get expensive for larger teams.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 225,
+      "price_max": 450,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "Mailchimp",
+        "Google Calendar"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 7,
+      "name": "ServiceTrade",
+      "url": "https://www.servicetrade.com/",
+      "founded": 2012,
+      "hq": "Durham, USA",
+      "team_size_band": "51-200",
+      "best_for": "Commercial HVAC contractors who need specialized tools for managing complex properties, service contracts, and regulatory compliance.",
+      "best_for_short": "Commercial HVAC contractors",
+      "pricing_band": "$$$ ($239 to $1,000+/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Field Service Management": 8.5,
+        "Mobile App Functionality": 8.3,
+        "Financial Tools": 7.8,
+        "Integrations & API": 8,
+        "User Interface & Onboarding": 7.9
+      },
+      "verdict": "ServiceTrade is the best choice for commercial HVAC because its platform is built around managing assets and locations, not just individual residential jobs.",
+      "verdict_short": "The strongest platform for commercial and industrial HVAC services.",
+      "praise": "Its ability to attach photos, videos, and audio notes to specific equipment assets provides a rich service history that is invaluable for commercial clients.",
+      "praise_short": "Excellent asset and equipment tracking.",
+      "criticism": "The platform is less suited for residential-focused businesses, and its interface can be more complex to navigate than residentially focused competitors.",
+      "criticism_short": "Overly complex for residential-only shops.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 239,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1500,
+      "integrations": [
+        "QuickBooks",
+        "Sage Intacct",
+        "NetSuite",
+        "Viewpoint Vista",
+        "TomTom Telematics"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "mHelpDesk",
+      "url": "https://www.mhelpdesk.com/",
+      "founded": 2007,
+      "hq": "Fairfax, USA",
+      "team_size_band": "51-200",
+      "best_for": "HVAC businesses looking for a solid, all-around field service platform with reliable core features and a straightforward user experience.",
+      "best_for_short": "Solid all-around FSM platform",
+      "pricing_band": "$$$ ($300 to $500+/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Field Service Management": 8,
+        "Mobile App Functionality": 7.8,
+        "Financial Tools": 7.9,
+        "Integrations & API": 7.5,
+        "User Interface & Onboarding": 8.2
+      },
+      "verdict": "mHelpDesk provides a balanced and dependable feature set that covers all the essential needs of an HVAC business without being overly complicated.",
+      "verdict_short": "A reliable, balanced platform covering all essential HVAC needs.",
+      "praise": "Being part of the HomeAdvisor/Angi network provides unique lead generation opportunities and integrations not available with other platforms.",
+      "praise_short": "Integration with HomeAdvisor/Angi network.",
+      "criticism": "The platform has been slower to release new features and updates compared to more rapidly innovating competitors in recent years.",
+      "criticism_short": "Slower pace of feature development.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 300,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "HomeAdvisor",
+        "Angi"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Kickserv",
+      "url": "https://www.kickserv.com/",
+      "founded": 2006,
+      "hq": "Boulder, USA",
+      "team_size_band": "11-50",
+      "best_for": "Startups and very small HVAC shops that need an affordable, simple solution for scheduling and invoicing, with a free plan option.",
+      "best_for_short": "Startups and very small shops",
+      "pricing_band": "$ ($59 to $239/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Field Service Management": 7.5,
+        "Mobile App Functionality": 7.6,
+        "Financial Tools": 7.8,
+        "Integrations & API": 7.3,
+        "User Interface & Onboarding": 8.5
+      },
+      "verdict": "Kickserv is a strong contender for new or small businesses due to its low entry price, ease of use, and a free plan that covers basic job management.",
+      "verdict_short": "Affordable and easy to use, with a free plan for startups.",
+      "praise": "The free plan for up to 2 users is a rare find in this market and is perfect for owner-operators just starting out.",
+      "praise_short": "Offers a functional free plan.",
+      "criticism": "The feature set is limited compared to higher-ranked competitors, lacking advanced dispatching, reporting, and marketing tools.",
+      "criticism_short": "Lacks advanced features for scaling.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 239,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Stripe",
+        "Mailchimp"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 10,
+      "name": "Smart Service",
+      "url": "https://www.smartservice.com/",
+      "founded": 1997,
+      "hq": "Wadsworth, USA",
+      "team_size_band": "51-200",
+      "best_for": "Long-standing HVAC companies that have built their entire accounting workflow around QuickBooks Desktop and require a direct, add-on scheduling tool.",
+      "best_for_short": "Direct QuickBooks Desktop add-on",
+      "pricing_band": "$$$ ($195 to $1,000+/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Field Service Management": 7.6,
+        "Mobile App Functionality": 7.2,
+        "Financial Tools": 8,
+        "Integrations & API": 8.2,
+        "User Interface & Onboarding": 6.8
+      },
+      "verdict": "Smart Service earns a spot for its singular focus on being a direct extension of QuickBooks Desktop, essentially adding a scheduling and dispatch board into the accounting software.",
+      "verdict_short": "A dedicated scheduling and dispatch extension for QuickBooks Desktop.",
+      "praise": "Its real-time sync with QuickBooks Desktop is its core strength, eliminating any need for batching or manual data transfer between systems.",
+      "praise_short": "Seamless, real-time QuickBooks sync.",
+      "criticism": "The software's design and user experience feel significantly outdated, and it lacks the cloud-native flexibility of modern competitors.",
+      "criticism_short": "Outdated user interface and design.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 195,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks Desktop"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Sera Systems",
+      "url": "https://sera.tech/",
+      "founded": 2019,
+      "hq": "Dallas, USA",
+      "team_size_band": "11-50",
+      "best_for": "Forward-thinking HVAC businesses focused on maximizing efficiency and profit through automated scheduling and data-driven dispatching.",
+      "best_for_short": "Automation and efficiency focus",
+      "pricing_band": "$$$ ($399 to $999+/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Field Service Management": 8,
+        "Mobile App Functionality": 7,
+        "Financial Tools": 7.5,
+        "Integrations & API": 6.5,
+        "User Interface & Onboarding": 7
+      },
+      "verdict": "Sera is a wildcard because it takes a different approach, using an automated logic engine to manage dispatching and scheduling to optimize for profit, not just route efficiency.",
+      "verdict_short": "An emerging player focused on profit-driven automation.",
+      "praise": "Its automated scheduling assistant can manage an entire day's schedule without human intervention, dynamically adjusting for traffic and job duration changes.",
+      "praise_short": "Advanced automated scheduling engine.",
+      "criticism": "As a newer platform, its integration options are limited, and the user interface is still evolving and can be less intuitive than more established players.",
+      "criticism_short": "Limited integrations and evolving UI.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 Profile",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-10",
+        "summary": "As a newer company in a competitive market, long-term viability is less established than incumbents.",
+        "signals": [
+          "Newer market entrant"
+        ]
+      },
+      "price_min": 399,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1500,
+      "integrations": [
+        "QuickBooks Online",
+        "Stripe",
+        "Google Calendar"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 3,
+      "max_team_size": 100
+    }
+  ]
+}
