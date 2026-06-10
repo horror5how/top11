@@ -45,6 +45,7 @@ jobs:
 
       - name: Run pulse refresh
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PULSE_ONLY: ${{ github.event.inputs.sources }}
           PULSE_REDDIT_PUBLIC: "1"

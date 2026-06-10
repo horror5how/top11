@@ -1,11 +1,16 @@
-// Send raw multi-source data for a single entry to Claude.
+// Send raw multi-source data for a single entry to an LLM.
 // Returns a structured sentiment summary the UI can render.
+// Provider order: Gemini first (working key on this repo's Actions secrets),
+// Anthropic only as fallback — the Anthropic key has $0 credit as of 2026-06
+// (pulse data was full of "Anthropic 400" errors), so Gemini is the live rail.
 import { truncate } from "./lib.mjs";
 
-const MODEL = process.env.PULSE_MODEL || "claude-sonnet-4-5";
+const MODEL = process.env.PULSE_MODEL || "claude-sonnet-4-5"; // legacy Anthropic fallback; rail dead (no credit)
+const GEMINI_MODEL = process.env.PULSE_GEMINI_MODEL || "gemini-2.5-pro";
+const PROVIDER = process.env.PULSE_PROVIDER || (process.env.GEMINI_API_KEY ? "gemini" : "anthropic");
 
 export async function synthesizeForEntry(entry, sourceBundle) {
-  if (!process.env.ANTHROPIC_API_KEY) {
+  if (!process.env.GEMINI_API_KEY && !process.env.ANTHROPIC_API_KEY) {
     return {
       entry: entry.name,
       verdict: null,
@@ -15,7 +20,7 @@ export async function synthesizeForEntry(entry, sourceBundle) {
       recurring_themes: [],
       sample_size: 0,
       sources: {},
-      error: "ANTHROPIC_API_KEY missing, synthesis skipped",
+      error: "GEMINI_API_KEY/ANTHROPIC_API_KEY missing, synthesis skipped",
     };
   }
 
@@ -76,42 +81,67 @@ EXTRACTION RULES:
 - If a quote is generic, pick a more specific one elsewhere in the data.
 - recurring_themes: at most 5, ordered by frequency. Always include at least one theme if there's any signal at all.
 - watch_signals: 0 to 3 items. Only include if visible in data.
-- Tone: independent analyst. Not promotional, not hostile, not lazy.
-- Write in plain English: no em-dashes or en-dashes. Use commas, periods, or parentheses.
+- Tone: sharp human operator writing for buyers, not a brochure. Not promotional, not hostile, not lazy.
+- The verdict's first sentence is the direct answer: what the internet says about this firm, stated plainly.
+- Anchor every claim to a specific: a count, a named source, or a timeframe (e.g. "3 of 5 Reddit threads since 2024 name them for R&D credits"). Vague claims like "generally positive feedback" are banned.
+- Banned words and phrases (AI filler): leverage, unlock, seamless, robust, comprehensive, dive into, elevate, landscape, game-changer, cutting-edge.
+- Write in plain English: no em-dashes or en-dashes anywhere. Use commas, periods, or parentheses.
 
 DATA:
 ${lines.join("\n")}
 `;
 
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "x-api-key": process.env.ANTHROPIC_API_KEY,
-      "anthropic-version": "2023-06-01",
-      "content-type": "application/json",
-    },
-    body: JSON.stringify({
-      model: MODEL,
-      max_tokens: 1500,
-      messages: [{ role: "user", content: prompt }],
-    }),
-  });
-
-  if (!res.ok) {
-    const err = await res.text();
-    return {
-      entry: entry.name,
-      error: `Anthropic ${res.status}: ${truncate(err, 200)}`,
-      sample_size: total,
-      sources: counts,
-    };
+  let text = "";
+  if (PROVIDER === "gemini") {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${process.env.GEMINI_API_KEY}`;
+    const res = await fetch(url, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { maxOutputTokens: 8000, responseMimeType: "application/json" },
+      }),
+    });
+    if (!res.ok) {
+      const err = await res.text();
+      return {
+        entry: entry.name,
+        error: `Gemini ${res.status}: ${truncate(err, 200)}`,
+        sample_size: total,
+        sources: counts,
+      };
+    }
+    const data = await res.json();
+    text = data.candidates?.[0]?.content?.parts?.[0]?.text || "";
+  } else {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "x-api-key": process.env.ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        max_tokens: 1500,
+        messages: [{ role: "user", content: prompt }],
+      }),
+    });
+    if (!res.ok) {
+      const err = await res.text();
+      return {
+        entry: entry.name,
+        error: `Anthropic ${res.status}: ${truncate(err, 200)}`,
+        sample_size: total,
+        sources: counts,
+      };
+    }
+    const data = await res.json();
+    text = data.content?.[0]?.text || "";
   }
-
-  const data = await res.json();
-  const text = data.content?.[0]?.text || "";
   const m = text.match(/\{[\s\S]*\}/);
   if (!m) {
-    return { entry: entry.name, error: "claude returned no JSON", sample_size: total, sources: counts, raw: truncate(text, 400) };
+    return { entry: entry.name, error: `${PROVIDER} returned no JSON`, sample_size: total, sources: counts, raw: truncate(text, 400) };
   }
   let parsed;
   try {

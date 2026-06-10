@@ -22,6 +22,8 @@ const TODAY = new Date().toISOString().slice(0, 10);
 // Provider preference order — free Gemini first (per cost-discipline rule), Anthropic as fallback.
 // Set LIST_GEN_PROVIDER=anthropic|gemini to force one.
 const PROVIDER = process.env.LIST_GEN_PROVIDER || (process.env.GEMINI_API_KEY ? "gemini" : "anthropic");
+// Anthropic fallback is a dead rail as of 2026-06 (API key has $0 credit; legacy model string kept on purpose).
+// Gemini is the live primary — verified in GH run 27298245438 ("Provider: gemini").
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || "claude-sonnet-4-5-20250929";
 const GEMINI_MODEL = process.env.GEMINI_MODEL || "gemini-2.5-pro";
 
@@ -101,8 +103,11 @@ Hard requirements:
 8. answer_capsule must be a single literal-answer sentence quotable by an LLM (e.g., "The best X is Y, followed by Z and W.")
 9. honest_disclosures must include any known biases (e.g., "Most candidates are US-based; international coverage is thin.")
 10. faqs must answer the 4-5 People-Also-Ask questions a real buyer in this niche would Google.
-11. Use the AEO inverted-pyramid: every entry's verdict starts with the direct answer to "why is this firm at this rank for this category?"
+11. Use the AEO inverted-pyramid: every entry's verdict starts with the direct answer to "why is this firm at this rank for this category?" Same rule for subtitle, guide answers, and faq answers: first sentence = the answer, context after.
 12. ALL dates are ${TODAY}.
+13. STYLE: zero em-dashes or en-dashes in any field. Use commas, periods, or parentheses instead.
+14. Banned vocabulary (reads as AI filler): leverage, unlock, seamless, robust, comprehensive, dive into, elevate, landscape, game-changer, cutting-edge, holistic. Write like a sharp human operator briefing a buyer.
+15. Every verdict, praise, and criticism must anchor to at least one specific: a number, a named product/feature/client type, or a timeframe. "Strong support" fails; "support answers in under 2 hours on the $299 tier" passes. No vague claims anywhere.
 
 Schema (copy this shape exactly, fill in real values):
 
