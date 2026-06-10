@@ -1,0 +1,835 @@
+{
+  "slug": "fitness-studio-software",
+  "title": "The 11 Best Fitness Studio Management Software",
+  "subtitle": "An in-depth ranking of the top platforms for managing classes, members, payments, and marketing for boutique fitness studios.",
+  "vertical": "Fitness · Studio Software",
+  "audience": "Boutique fitness studio owners managing classes, members, and billing",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Fitness Technology",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Core Studio Management (30%), Billing & POS (25%), Client Engagement & Marketing (20%), Ease of Use & Support (15%), and Integrations & Ecosystem (10%)."
+    }
+  ],
+  "answer_capsule": "The best fitness studio management software is Mindbody for its comprehensive features, followed by Momence for its modern user experience and WellnessLiving for its all-in-one value.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Studio Management",
+        "weight": 30,
+        "description": "Effectiveness of class scheduling, appointment booking, waitlists, membership management, staff payroll, and reporting."
+      },
+      {
+        "name": "Billing & POS",
+        "weight": 25,
+        "description": "Reliability of payment processing, recurring billing, contract automation, and integrated point-of-sale for retail."
+      },
+      {
+        "name": "Client Engagement & Marketing",
+        "weight": 20,
+        "description": "Quality of the branded mobile app, automated email/SMS campaigns, review management, and lead capture tools."
+      },
+      {
+        "name": "Ease of Use & Support",
+        "weight": 15,
+        "description": "Intuitive design of the admin and client interfaces, quality of customer support, and smoothness of the onboarding process."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 10,
+        "description": "Availability of key integrations like website widgets, accounting software, video-on-demand platforms, and API access."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Boutique Fitness",
+    "Yoga Studio",
+    "Pilates Studio",
+    "CrossFit Box",
+    "Martial Arts School",
+    "Dance Studio",
+    "Gym Management"
+  ],
+  "problem_tags": [
+    "Member Retention",
+    "Class Scheduling",
+    "Payment Processing",
+    "Lead Generation",
+    "Client Communication",
+    "Staff Management"
+  ],
+  "query_intents": [
+    "best mindbody alternative",
+    "yoga studio software",
+    "gym membership software",
+    "fitness class booking system",
+    "crossfit gym software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "complex scheduling",
+        "multi-location management",
+        "client acquisition"
+      ],
+      "personas": [
+        "Established studio chains",
+        "Franchises",
+        "Wellness centers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "hybrid class management (in-person & virtual)",
+        "poor user experience",
+        "VOD library hosting"
+      ],
+      "personas": [
+        "Modern yoga/pilates studios",
+        "Hybrid fitness businesses",
+        "Growth-focused studios"
+      ]
+    },
+    "3": {
+      "solves": [
+        "overpaying for software",
+        "poor customer support",
+        "all-in-one feature gaps"
+      ],
+      "personas": [
+        "Budget-conscious studios",
+        "Studios seeking high-touch support",
+        "Former Mindbody users"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.19,
+    "spread_top_to_bottom": 2.3
+  },
+  "guide": [
+    {
+      "q": "What is fitness studio management software?",
+      "a": "It's an all-in-one platform that helps studio owners manage daily operations. This typically includes class scheduling, member check-in, automated billing and payments, staff management, retail sales (POS), and marketing tools to attract and retain clients."
+    },
+    {
+      "q": "Why do I need specialized software instead of generic schedulers?",
+      "a": "Specialized software is built for the unique needs of a fitness business. It handles complex membership types (e.g., 10-class packs vs. unlimited monthly), automated recurring payments, liability waivers, waitlists, and integrates with fitness-specific tools like performance tracking or video-on-demand libraries, which generic tools lack."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your core needs: Are you class-based, appointment-based, or hybrid? Do you sell retail? This will narrow the field.",
+    "Second, evaluate the client experience. Test the booking process and mobile app from a member's perspective. A clunky interface can deter clients.",
+    "Third, request a full pricing quote, including payment processing fees and any setup or hardware costs. The monthly subscription is only part of the total cost.",
+    "Finally, check reviews for customer support quality. When your payment system goes down at 6 AM, you need responsive, effective help."
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between Mindbody and Vagaro?",
+      "a": "Mindbody is a fitness-first platform with deep, complex features tailored for large studios and wellness centers, including a powerful consumer marketplace. Vagaro serves a broader market, including salons and spas, and is often praised for its user-friendly interface, built-in marketing tools, and more straightforward pricing."
+    },
+    {
+      "q": "How much does fitness studio software typically cost?",
+      "a": "Prices range widely, from around $100/month for basic plans for small studios to over $500/month for premium or enterprise plans with advanced features, multi-location support, and branded mobile apps. Always ask about payment processing fees, which are an additional cost."
+    },
+    {
+      "q": "Do I need a platform with a branded mobile app?",
+      "a": "A branded app provides a premium, seamless experience for your members, boosting retention and making booking easier. While not essential for brand new studios, it's a key feature for established businesses looking to strengthen their brand and simplify the client journey."
+    },
+    {
+      "q": "Can this software handle both in-person and online virtual classes?",
+      "a": "Yes, most modern platforms are designed for hybrid fitness models. They integrate with streaming services like Zoom or have built-in video-on-demand (VOD) hosting, allowing you to manage and monetize both your physical and digital offerings from one place."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-tier providers are US-based, and support or feature parity for international customers can sometimes be a secondary priority.",
+    "Stated monthly prices often exclude mandatory payment processing fees, which can significantly impact the total cost of ownership.",
+    "Data migration from an existing system can be complex and may incur additional one-time fees."
+  ],
+  "glossary": {
+    "term": "Branded App",
+    "definition": "A mobile application for iOS and Android that is customized with a fitness studio's own logo, colors, and branding, allowing members to book classes and manage their account directly.",
+    "synonyms": [
+      "White-label app",
+      "Custom app"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Mindbody",
+      "url": "https://www.mindbodyonline.com",
+      "founded": 2001,
+      "hq": "San Luis Obispo, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Established, multi-faceted fitness and wellness businesses that need the most comprehensive, enterprise-grade feature set on the market.",
+      "best_for_short": "Large or complex studios",
+      "pricing_band": "$$$$ ($159 to $699+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Studio Management": 9.4,
+        "Billing & POS": 9.3,
+        "Client Engagement & Marketing": 9.4,
+        "Ease of Use & Support": 8.5,
+        "Integrations & Ecosystem": 9.8
+      },
+      "verdict": "Mindbody ranks first due to its unmatched feature depth, extensive integration ecosystem, and powerful consumer marketplace that actively drives new client acquisition.",
+      "verdict_short": "The most powerful and feature-complete platform for established fitness businesses.",
+      "praise": "Its reporting and analytics suite is best-in-class, providing deep insights into business performance and member behavior.",
+      "praise_short": "Unrivaled feature set and reporting.",
+      "criticism": "The platform's complexity can lead to a steep learning curve, and its premium pricing and long-term contracts can be prohibitive for smaller studios.",
+      "criticism_short": "Complex, expensive, and has rigid contracts.",
+      "sources_pending": [
+        "Mindbody pricing page",
+        "Capterra user reviews",
+        "G2 Mindbody profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 159,
+      "price_max": 699,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "ClassPass",
+        "Zapier",
+        "Google Analytics",
+        "Facebook Pixel"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Momence",
+      "url": "https://www.momence.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Modern studios, especially in yoga and pilates, that prioritize a seamless user experience for both staff and clients and require strong hybrid/VOD capabilities.",
+      "best_for_short": "Modern studios prioritizing UX",
+      "pricing_band": "$$$ ($179 to $399+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Studio Management": 9,
+        "Billing & POS": 9,
+        "Client Engagement & Marketing": 9.4,
+        "Ease of Use & Support": 9.5,
+        "Integrations & Ecosystem": 8.5
+      },
+      "verdict": "Momence earns the second spot for its beautifully designed, intuitive interface and best-in-class tools for managing hybrid (in-person and virtual) fitness businesses.",
+      "verdict_short": "The best user experience with powerful tools for hybrid studios.",
+      "praise": "Its integrated video-on-demand and livestreaming tools are exceptionally well-executed, making it easy to manage and monetize digital content.",
+      "praise_short": "Exceptional VOD and livestreaming features.",
+      "criticism": "As a newer player, its integration marketplace and advanced reporting features are still maturing compared to legacy providers like Mindbody.",
+      "criticism_short": "Fewer integrations than legacy platforms.",
+      "sources_pending": [
+        "Momence website",
+        "Software Advice reviews",
+        "User interviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 179,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "QuickBooks Online",
+        "Google Analytics",
+        "Klaviyo",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "WellnessLiving",
+      "url": "https://www.wellnessliving.com",
+      "founded": 2013,
+      "hq": "Toronto, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Studios seeking a feature-rich, all-in-one alternative to Mindbody that offers better value and more responsive customer support.",
+      "best_for_short": "Best all-in-one value",
+      "pricing_band": "$$ ($129 to $399/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core Studio Management": 8.8,
+        "Billing & POS": 8.7,
+        "Client Engagement & Marketing": 9,
+        "Ease of Use & Support": 9,
+        "Integrations & Ecosystem": 8.2
+      },
+      "verdict": "WellnessLiving secures third place by offering a comprehensive, all-in-one feature set comparable to top competitors but at a more accessible price point and with highly-rated customer service.",
+      "verdict_short": "A powerful, value-driven alternative to the market leaders.",
+      "praise": "The platform includes an impressive amount of built-in functionality, such as rewards programs and email marketing, reducing the need for third-party tools.",
+      "praise_short": "Excellent built-in marketing and rewards.",
+      "criticism": "While powerful, the user interface can feel dated and less intuitive in some areas compared to more modern platforms like Momence.",
+      "criticism_short": "Interface can feel somewhat dated.",
+      "sources_pending": [
+        "WellnessLiving pricing page",
+        "Capterra reviews",
+        "PCMag review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 99,
+      "integrations": [
+        "Zoom",
+        "QuickBooks",
+        "Reserve with Google",
+        "Mailchimp",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Vagaro",
+      "url": "https://www.vagaro.com",
+      "founded": 2009,
+      "hq": "Dublin, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Appointment and class-based businesses that want powerful booking and marketing tools with simple, transparent, per-employee pricing.",
+      "best_for_short": "Booking and marketing powerhouse",
+      "pricing_band": "$ ($25 to $85+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core Studio Management": 8.2,
+        "Billing & POS": 8.8,
+        "Client Engagement & Marketing": 9.2,
+        "Ease of Use & Support": 8.5,
+        "Integrations & Ecosystem": 8
+      },
+      "verdict": "Vagaro stands out for its strong client booking experience, integrated marketing features, and a consumer marketplace, all delivered through a predictable, per-service-provider pricing model.",
+      "verdict_short": "Excellent booking and marketing with transparent, scalable pricing.",
+      "praise": "Its built-in tools for creating websites, running daily deals, and sending automated marketing campaigns are robust and user-friendly.",
+      "praise_short": "Strong, easy-to-use marketing tools.",
+      "criticism": "While excellent for many studios, its feature set is less specialized for the nuanced needs of certain fitness niches like CrossFit compared to dedicated platforms.",
+      "criticism_short": "Less specialized for some fitness niches.",
+      "sources_pending": [
+        "Vagaro pricing page",
+        "GetApp user reviews",
+        "Company website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 85,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Instagram",
+        "Facebook",
+        "Google"
+      ],
+      "compliance": [
+        "PCI",
+        "HIPAA",
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Glofox (by ABC Fitness)",
+      "url": "https://www.glofox.com",
+      "founded": 2014,
+      "hq": "Dublin, Ireland",
+      "team_size_band": "201-500",
+      "best_for": "Boutique fitness franchises and multi-location studios that require a premium, highly customizable branded app and robust global management tools.",
+      "best_for_short": "Franchises needing branded apps",
+      "pricing_band": "$$$$ (Pricing by quote)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core Studio Management": 8.5,
+        "Billing & POS": 8.3,
+        "Client Engagement & Marketing": 9,
+        "Ease of Use & Support": 8.2,
+        "Integrations & Ecosystem": 8
+      },
+      "verdict": "Glofox excels by providing a superior, deeply integrated branded mobile app experience and the administrative tools necessary for scaling and managing franchises or multiple studio locations.",
+      "verdict_short": "The top choice for franchises and studios focused on brand experience.",
+      "praise": "The quality, customization, and user experience of their member-facing mobile app are consistently rated as among the best in the industry.",
+      "praise_short": "Best-in-class branded mobile app.",
+      "criticism": "Pricing is not transparent and is generally positioned at the higher end of the market, making it less suitable for single, independent studios.",
+      "criticism_short": "Opaque, premium pricing.",
+      "sources_pending": [
+        "Glofox website",
+        "Capterra reviews",
+        "ABC Fitness acquisition press release"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ClassPass",
+        "Gympass",
+        "Myzone",
+        "Mailchimp",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Mariana Tek",
+      "url": "https://www.marianatek.com",
+      "founded": 2014,
+      "hq": "Washington D.C., USA",
+      "team_size_band": "51-200",
+      "best_for": "High-end, experience-focused boutique studios that demand a premium, design-forward platform for both their clients and staff.",
+      "best_for_short": "Premium boutique studios",
+      "pricing_band": "$$$$ (Pricing by quote)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core Studio Management": 8.4,
+        "Billing & POS": 8,
+        "Client Engagement & Marketing": 8.5,
+        "Ease of Use & Support": 8.3,
+        "Integrations & Ecosystem": 7.5
+      },
+      "verdict": "Mariana Tek earns its spot by delivering a sophisticated, aesthetically pleasing platform with a focus on user experience, making it a favorite among premium and celebrity-endorsed fitness brands.",
+      "verdict_short": "A sophisticated, design-forward platform for high-end brands.",
+      "praise": "The platform's user interface is exceptionally clean and modern, providing a luxury feel that aligns with high-end studio branding.",
+      "praise_short": "Elegant, modern user interface.",
+      "criticism": "It is one of the most expensive options available, and its feature set is tightly focused on class-based studios, lacking some of the broader functionality of competitors.",
+      "criticism_short": "Very expensive and niche-focused.",
+      "sources_pending": [
+        "Mariana Tek website",
+        "User testimonials",
+        "Industry reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ClassPass",
+        "Looker",
+        "Mailchimp",
+        "Mandrill",
+        "Stripe"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "PushPress",
+      "url": "https://www.pushpress.com",
+      "founded": 2013,
+      "hq": "El Segundo, USA",
+      "team_size_band": "51-200",
+      "best_for": "CrossFit boxes and functional fitness gyms that need specialized features like workout tracking (WODs) and a community-centric approach.",
+      "best_for_short": "CrossFit & functional fitness",
+      "pricing_band": "$$ ($159 to $289/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Studio Management": 9,
+        "Billing & POS": 8,
+        "Client Engagement & Marketing": 7.5,
+        "Ease of Use & Support": 8.5,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "PushPress is the top choice for affiliate gyms because it was built by gym owners specifically for their needs, with excellent workout tracking and member management tools tailored to the CrossFit methodology.",
+      "verdict_short": "Purpose-built software for CrossFit boxes with great WOD tracking.",
+      "praise": "The 'Track' feature for programming and tracking daily workouts is seamlessly integrated and far superior to the generic class descriptions in other software.",
+      "praise_short": "Excellent integrated workout tracking.",
+      "criticism": "Its feature set is highly specialized, making it a less ideal fit for studios outside the functional fitness or CrossFit space, such as yoga or pilates.",
+      "criticism_short": "Highly specialized for CrossFit.",
+      "sources_pending": [
+        "PushPress website",
+        "G2 reviews",
+        "CrossFit community forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 159,
+      "price_max": 289,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "QuickBooks",
+        "Zapier",
+        "Slack",
+        "SugarWOD"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Zen Planner",
+      "url": "https://www.zenplanner.com",
+      "founded": 2006,
+      "hq": "Highlands Ranch, USA",
+      "team_size_band": "51-200",
+      "best_for": "Martial arts schools, affiliate gyms, and fitness studios that need solid, time-tested software for member management and automated billing.",
+      "best_for_short": "Martial arts & affiliate gyms",
+      "pricing_band": "$$ ($121 to $312/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Studio Management": 8.2,
+        "Billing & POS": 8,
+        "Client Engagement & Marketing": 7.5,
+        "Ease of Use & Support": 7.8,
+        "Integrations & Ecosystem": 7.2
+      },
+      "verdict": "Zen Planner is a reliable and long-standing solution with robust features for attendance tracking, skills progression, and automated billing, making it a strong fit for martial arts and CrossFit-style gyms.",
+      "verdict_short": "A reliable, long-standing choice with strong member management.",
+      "praise": "Its capabilities for tracking member progression, belt ranks, and skills are particularly well-suited for martial arts dojos and similar disciplines.",
+      "praise_short": "Great for skills/belt tracking.",
+      "criticism": "The user interface for both admins and members feels less modern and intuitive than newer competitors on the market.",
+      "criticism_short": "User interface feels dated.",
+      "sources_pending": [
+        "Zen Planner website",
+        "Capterra reviews",
+        "Software Advice profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 121,
+      "price_max": 312,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 100,
+      "integrations": [
+        "Mailchimp",
+        "QuickBooks",
+        "Constant Contact",
+        "WordPress",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "TeamUp",
+      "url": "https://goteamup.com",
+      "founded": 2012,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Independent instructors and smaller studios who value simplicity, flexibility, and outstanding customer support over an exhaustive feature list.",
+      "best_for_short": "Small studios wanting simplicity",
+      "pricing_band": "$ ($99 to $309/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Studio Management": 7.5,
+        "Billing & POS": 7.5,
+        "Client Engagement & Marketing": 7,
+        "Ease of Use & Support": 9,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "TeamUp earns its rank by focusing on doing the essentials exceptionally well, offering a clean, easy-to-use platform backed by what is widely considered the best customer support in the industry.",
+      "verdict_short": "Simple, flexible software with best-in-class customer support.",
+      "praise": "Customer support is consistently and overwhelmingly praised as being fast, knowledgeable, and genuinely helpful.",
+      "praise_short": "Phenomenal customer support.",
+      "criticism": "The platform lacks some of the advanced marketing automation tools and a branded mobile app offered by higher-ranked, more expensive competitors.",
+      "criticism_short": "Lacks advanced marketing tools.",
+      "sources_pending": [
+        "TeamUp website",
+        "G2 reviews",
+        "Trustpilot reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 309,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "ClassPass",
+        "MoveGB",
+        "Zapier",
+        "GoCardless"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Pike13",
+      "url": "https://www.pike13.com",
+      "founded": 2011,
+      "hq": "Seattle, USA",
+      "team_size_band": "51-200",
+      "best_for": "Appointment-based businesses like personal training and swim schools, as well as class-based studios that prioritize mobile-first client management.",
+      "best_for_short": "Appointment-based businesses",
+      "pricing_band": "$$$ ($139 to $399+/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Core Studio Management": 7.8,
+        "Billing & POS": 7.2,
+        "Client Engagement & Marketing": 7,
+        "Ease of Use & Support": 7.5,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "Pike13 provides a solid, mobile-friendly platform with strong features for managing appointments, staff scheduling, and client relationships, making it a dependable choice for service-based fitness businesses.",
+      "verdict_short": "A solid, mobile-friendly choice for appointment-based fitness.",
+      "praise": "Its staff management and payroll reporting features are robust, simplifying the process of managing a diverse team of instructors and trainers.",
+      "praise_short": "Strong staff management and payroll.",
+      "criticism": "The client-facing interface and overall design are not as modern or polished as the top-ranked competitors, and it lacks a native branded app.",
+      "criticism_short": "Dated client interface, no branded app.",
+      "sources_pending": [
+        "Pike13 website",
+        "Capterra reviews",
+        "Software Advice profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 139,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "ClassPass",
+        "Emma",
+        "Mailchimp",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Walla",
+      "url": "https://www.hellowalla.com",
+      "founded": 2020,
+      "hq": "San Diego, USA",
+      "team_size_band": "11-50",
+      "best_for": "Forward-thinking studio owners frustrated with legacy software who are willing to adopt a newer platform built around modern workflows and conversion optimization.",
+      "best_for_short": "The modern workflow innovator",
+      "pricing_band": "$$$ ($225 to $375/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Core Studio Management": 7,
+        "Billing & POS": 7,
+        "Client Engagement & Marketing": 7.5,
+        "Ease of Use & Support": 8,
+        "Integrations & Ecosystem": 5.5
+      },
+      "verdict": "Walla is our wildcard pick because it's a fast-emerging disruptor, rethinking studio management from the ground up with a focus on smart, automated workflows and a user experience that actively helps convert leads and retain members.",
+      "verdict_short": "An emerging disruptor focused on smart, conversion-driven workflows.",
+      "praise": "Its built-in conversion tools, like the 'Buy Now' feature that prompts waitlisted clients to purchase a plan, are innovative and directly impact revenue.",
+      "praise_short": "Innovative, revenue-driving features.",
+      "criticism": "As the newest platform on this list, its feature set is not as comprehensive, and its integration ecosystem is significantly smaller than its more established competitors.",
+      "criticism_short": "Newer platform with fewer features.",
+      "sources_pending": [
+        "Walla website",
+        "Industry podcasts",
+        "User demos"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-10",
+        "summary": "As a young, venture-backed company, it carries more market risk than established players.",
+        "signals": [
+          "Early-stage company"
+        ]
+      },
+      "price_min": 225,
+      "price_max": 375,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Stripe",
+        "Google Analytics",
+        "Twilio",
+        "SendGrid"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

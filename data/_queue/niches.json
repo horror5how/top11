@@ -56,14 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "fitness-studio-software",
-      "title": "The 11 Best Fitness Studio Management Software",
-      "vertical": "Fitness · Studio Software",
-      "audience": "Boutique fitness studio owners managing classes, members, and billing",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
       "slug": "salon-spa-software",
       "title": "The 11 Best Salon & Spa Management Software",
       "vertical": "Beauty · Salon Management",
@@ -296,14 +288,6 @@
       "priority": 3
     },
     {
-      "slug": "ecommerce-platforms",
-      "title": "The 11 Best Ecommerce Platforms",
-      "vertical": "Ecommerce · Platforms",
-      "audience": "Brands building online stores",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "employee-engagement-software",
       "title": "The 11 Best Employee Engagement Software",
       "vertical": "HR · Engagement",
@@ -407,7 +391,9 @@
     "property-management-software",
     "vpn-for-business",
     "password-managers-business",
-    "managed-wordpress-hosting"
+    "managed-wordpress-hosting",
+    "ecommerce-platforms",
+    "fitness-studio-software"
   ],
   "skipped": []
 }
