@@ -1,0 +1,843 @@
+{
+  "slug": "restaurant-pos",
+  "title": "The 11 Best Restaurant POS Systems",
+  "subtitle": "An in-depth ranking of the top point-of-sale systems designed for food service, from quick-service cafes to full-service fine dining.",
+  "vertical": "Restaurants · Point of Sale",
+  "audience": "Restaurant owners choosing POS + kitchen management",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Point of Sale (POS)",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Core POS Features (30%), Kitchen & Back-Office (25%), Hardware & Ecosystem (15%), Integrations & API (15%), and Pricing & Support (15%)."
+    }
+  ],
+  "answer_capsule": "The best restaurant POS system is Toast for its all-in-one platform, followed by Square for Restaurants for its flexibility and Lightspeed Restaurant for its advanced inventory features.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 35,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core POS Features",
+        "weight": 30,
+        "description": "Effectiveness of core functions: order taking (tableside, online, QR), menu management, payment processing, floor plan customization, and splitting checks."
+      },
+      {
+        "name": "Kitchen & Back-Office",
+        "weight": 25,
+        "description": "Strength of kitchen display system (KDS), inventory tracking (ingredient-level), employee management (scheduling, permissions), and reporting/analytics."
+      },
+      {
+        "name": "Hardware & Ecosystem",
+        "weight": 15,
+        "description": "Quality, durability, and cost of proprietary hardware. Compatibility with third-party devices. Overall system reliability and uptime."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 15,
+        "description": "Availability and quality of integrations with third-party delivery, accounting, payroll, and loyalty platforms. API accessibility for custom solutions."
+      },
+      {
+        "name": "Pricing & Support",
+        "weight": 15,
+        "description": "Transparency of software/hardware costs, fairness of payment processing rates and contract terms, and quality/availability of customer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Restaurant Tech",
+    "POS Systems",
+    "Hospitality Software",
+    "Payment Processing",
+    "Kitchen Management"
+  ],
+  "problem_tags": [
+    "Order Management",
+    "Inventory Control",
+    "Staff Scheduling",
+    "Sales Reporting",
+    "Customer Payments"
+  ],
+  "query_intents": [
+    "best pos for restaurant",
+    "toast vs square",
+    "restaurant point of sale reviews",
+    "cafe pos system",
+    "bar pos system"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "All-in-one restaurant management",
+        "Integrating online ordering",
+        "Durable hardware needs"
+      ],
+      "personas": [
+        "Full-service restaurants",
+        "Multi-location chains",
+        "New restaurant owners"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Flexible payment options",
+        "Low startup costs",
+        "Integrating with existing tools"
+      ],
+      "personas": [
+        "Cafes and coffee shops",
+        "Quick-service restaurants (QSR)",
+        "Food trucks"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Complex inventory tracking",
+        "In-depth sales analytics",
+        "Managing multiple locations"
+      ],
+      "personas": [
+        "Bars with detailed liquor inventory",
+        "Fine dining",
+        "Franchises"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 35,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is a Restaurant POS System?",
+      "a": "A restaurant Point of Sale (POS) system is the central hub for a food service business, combining software and hardware to manage transactions, orders, inventory, and customer data. Unlike retail POS, it includes features like table management, kitchen ticket routing (KDS), and online ordering integration."
+    },
+    {
+      "q": "How does a modern POS improve restaurant operations?",
+      "a": "Modern, cloud-based POS systems streamline operations by automating tasks. They enable tableside ordering to reduce errors, track inventory in real-time to prevent shortages, manage staff schedules, and provide detailed analytics on sales trends and menu performance, allowing owners to make data-driven decisions."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your restaurant type (e.g., fine dining, QSR, bar, cafe) as different systems excel in different environments.",
+    "Second, assess your hardware needs. Do you prefer a flexible iPad-based system or durable, purpose-built terminals? Consider the cost and lock-in of proprietary hardware.",
+    "Third, evaluate the total cost of ownership, including monthly software fees, payment processing rates, and potential setup or hardware costs. Beware of long-term contracts.",
+    "Finally, check for crucial integrations with your existing or planned tools, such as third-party delivery services (DoorDash, Uber Eats), accounting software (QuickBooks), and payroll systems."
+  ],
+  "faqs": [
+    {
+      "q": "What is the average cost of a restaurant POS system?",
+      "a": "Costs vary widely. Software typically ranges from $0/month (with higher processing fees) to $300+/month per terminal. Hardware can be a one-time cost of $500 to $5,000+. Expect to pay 2.6% + 10¢ per transaction for payment processing."
+    },
+    {
+      "q": "Do I need a POS with a Kitchen Display System (KDS)?",
+      "a": "For most restaurants, a KDS is highly recommended. It improves kitchen efficiency, reduces ticket errors, and tracks order times, leading to faster service and better communication between front-of-house and back-of-house staff."
+    },
+    {
+      "q": "Can I use my own iPad or tablet?",
+      "a": "Some POS systems like Square, TouchBistro, and Lightspeed are designed to run on iPads, which can lower initial hardware costs. Others, like Toast and Clover, require you to use their proprietary hardware for full functionality and support."
+    },
+    {
+      "q": "What's more important: software features or customer support?",
+      "a": "Both are critical. Powerful software is useless if it's constantly down. Prioritize systems known for reliability and 24/7 customer support, as any POS downtime during service hours directly translates to lost revenue."
+    }
+  ],
+  "honest_disclosures": [
+    "Many top-tier providers, like Toast, strongly encourage or require the use of their proprietary hardware and payment processing, which can lead to vendor lock-in.",
+    "Pricing can be opaque. Many providers do not list full pricing online and require a custom quote, which may include long-term contracts with early termination fees.",
+    "The list has a strong North American focus, as many leading POS providers launched and are most established in the US and Canadian markets."
+  ],
+  "glossary": {
+    "term": "KDS (Kitchen Display System)",
+    "definition": "A digital screen that replaces paper tickets in the kitchen. It displays orders sent from the POS, improving communication, accuracy, and ticket times.",
+    "synonyms": [
+      "Kitchen Order Ticket System",
+      "Kitchen Video System"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Toast",
+      "url": "https://pos.toasttab.com",
+      "founded": 2011,
+      "hq": "Boston, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Restaurants seeking a robust, all-in-one, purpose-built system with integrated hardware, software, and payment processing.",
+      "best_for_short": "All-in-one restaurant platform",
+      "pricing_band": "$$ ($69 to $300+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core POS Features": 9.4,
+        "Kitchen & Back-Office": 9.3,
+        "Hardware & Ecosystem": 9.4,
+        "Integrations & API": 8.9,
+        "Pricing & Support": 9.2
+      },
+      "verdict": "Toast ranks #1 because it offers the most comprehensive, restaurant-specific, all-in-one hardware and software solution on the market, covering everything from tableside ordering to payroll.",
+      "verdict_short": "The most complete, purpose-built POS platform for nearly any restaurant type.",
+      "praise": "Its durable, spill-proof hardware is built for the rigors of a restaurant environment, and its software features are incredibly deep.",
+      "praise_short": "Excellent restaurant-grade hardware and deep features.",
+      "criticism": "The system requires using Toast's proprietary hardware and payment processing, leading to higher upfront costs and significant vendor lock-in.",
+      "criticism_short": "Proprietary hardware and processing create lock-in.",
+      "sources_pending": [
+        "Toast Customer Case Studies",
+        "G2 Toast Reviews",
+        "Capterra POS Category Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 499,
+      "integrations": [
+        "QuickBooks",
+        "DoorDash",
+        "Uber Eats",
+        "Grubhub",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Ireland"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Square for Restaurants",
+      "url": "https://squareup.com/us/en/restaurants",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Quick-service restaurants, cafes, and food trucks that need a flexible, easy-to-use system with transparent pricing and no long-term contracts.",
+      "best_for_short": "Flexible and scalable POS",
+      "pricing_band": "$ ($0 to $60+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core POS Features": 9,
+        "Kitchen & Back-Office": 8.8,
+        "Hardware & Ecosystem": 9.2,
+        "Integrations & API": 9.4,
+        "Pricing & Support": 9.3
+      },
+      "verdict": "Square for Restaurants earns the second spot for its unmatched flexibility, transparent pricing, and seamless integration with the broader Square ecosystem of tools like payroll and marketing.",
+      "verdict_short": "A highly flexible, user-friendly POS with transparent pricing and a great free plan.",
+      "praise": "The free entry-level plan is robust, and the ability to use your own iPads or purchase their sleek hardware offers great flexibility.",
+      "praise_short": "Excellent free plan and hardware flexibility.",
+      "criticism": "While excellent for QSR and cafes, its table management and fine-dining features are less advanced than dedicated systems like Toast.",
+      "criticism_short": "Less feature-deep for complex full-service dining.",
+      "sources_pending": [
+        "Square for Restaurants Documentation",
+        "PCMag Review",
+        "TrustRadius User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 60,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Xero",
+        "DoorDash",
+        "WooCommerce",
+        "Acuity Scheduling"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia",
+        "Japan",
+        "Ireland",
+        "France",
+        "Spain"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Lightspeed Restaurant",
+      "url": "https://www.lightspeedhq.com/pos/restaurant/",
+      "founded": 2005,
+      "hq": "Montreal, Canada",
+      "team_size_band": "1001-5000",
+      "best_for": "Multi-location restaurants and bars that require powerful inventory management and advanced analytics.",
+      "best_for_short": "Advanced inventory and analytics",
+      "pricing_band": "$$ ($69 to $399/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core POS Features": 8.8,
+        "Kitchen & Back-Office": 9.3,
+        "Hardware & Ecosystem": 8.5,
+        "Integrations & API": 9,
+        "Pricing & Support": 8.7
+      },
+      "verdict": "Lightspeed Restaurant is the best choice for businesses prioritizing deep inventory control and analytics, making it ideal for bars and multi-location enterprises needing to track ingredient-level stock.",
+      "verdict_short": "Top-tier inventory management and analytics for complex or multi-location venues.",
+      "praise": "Its back-end is exceptionally powerful, offering granular reporting and control over menus and inventory across multiple locations.",
+      "praise_short": "Powerful backend for reporting and inventory.",
+      "criticism": "The user interface can feel less intuitive than competitors like Square or Toast, and pricing can become expensive as you add more features and terminals.",
+      "criticism_short": "Less intuitive interface and can be costly.",
+      "sources_pending": [
+        "Lightspeed Restaurant Help Center",
+        "G2 Lightspeed Reviews",
+        "Forrester Wave POS Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "MarketMan",
+        "Plate IQ",
+        "Tablein"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Clover",
+      "url": "https://www.clover.com",
+      "founded": 2010,
+      "hq": "Sunnyvale, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Small to medium-sized restaurants that want flexible hardware options and access to a large app marketplace for customization.",
+      "best_for_short": "Flexible hardware and app market",
+      "pricing_band": "$$ ($50 to $290/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core POS Features": 8.5,
+        "Kitchen & Back-Office": 8.4,
+        "Hardware & Ecosystem": 9,
+        "Integrations & API": 8.8,
+        "Pricing & Support": 8.1
+      },
+      "verdict": "Clover secures its position with its versatile and sleek hardware lineup and an extensive app market that allows restaurants to add specific functionalities as they grow.",
+      "verdict_short": "Sleek, versatile hardware and a large app market for custom features.",
+      "praise": "Clover offers a wide range of proprietary hardware, from the handheld Flex to the large Station Duo, fitting various restaurant counter-space and service needs.",
+      "praise_short": "Wide range of excellent hardware options.",
+      "criticism": "Service and pricing are highly dependent on which third-party reseller you purchase from, leading to inconsistent support and contract terms.",
+      "criticism_short": "Inconsistent pricing and support from resellers.",
+      "sources_pending": [
+        "Clover App Market",
+        "Merchant Maverick Clover Review",
+        "Capterra User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 290,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "Yelp",
+        "Order-In",
+        "Menufy"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Ireland",
+        "Germany",
+        "Austria"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "TouchBistro",
+      "url": "https://www.touchbistro.com",
+      "founded": 2010,
+      "hq": "Toronto, Canada",
+      "team_size_band": "501-1000",
+      "best_for": "Restaurants that prioritize an intuitive, easy-to-learn, iPad-based interface for front-of-house staff.",
+      "best_for_short": "Intuitive iPad-based POS",
+      "pricing_band": "$$ ($69 to $300+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core POS Features": 8.7,
+        "Kitchen & Back-Office": 8.3,
+        "Hardware & Ecosystem": 8.2,
+        "Integrations & API": 8,
+        "Pricing & Support": 8.6
+      },
+      "verdict": "TouchBistro is the top choice for restaurants wanting an iPad-native system that is exceptionally easy for staff to learn and use, minimizing training time and errors.",
+      "verdict_short": "An extremely user-friendly, iPad-native system that's easy for staff to master.",
+      "praise": "Designed by restaurant industry veterans, its workflow for taking orders, managing tables, and splitting bills is incredibly intuitive and efficient.",
+      "praise_short": "Highly intuitive and efficient staff workflow.",
+      "criticism": "The system relies on a local server connection, which can be a point of failure, and its integration options are less extensive than cloud-native competitors.",
+      "criticism_short": "Local server is a potential failure point.",
+      "sources_pending": [
+        "TouchBistro Website",
+        "G2 TouchBistro Reviews",
+        "Restaurant Technology News"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "7shifts",
+        "Square",
+        "Worldpay"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Mexico"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Revel Systems",
+      "url": "https://revelsystems.com",
+      "founded": 2010,
+      "hq": "Atlanta, USA",
+      "team_size_band": "501-1000",
+      "best_for": "High-volume quick-service restaurants (QSR) and multi-location franchises needing a highly customizable and scalable iPad POS.",
+      "best_for_short": "Customizable enterprise QSR POS",
+      "pricing_band": "$$$ ($99 to $400+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core POS Features": 8.4,
+        "Kitchen & Back-Office": 8.5,
+        "Hardware & Ecosystem": 8,
+        "Integrations & API": 8.3,
+        "Pricing & Support": 7.9
+      },
+      "verdict": "Revel Systems excels for enterprise-level QSR and fast-casual chains due to its deep customization options, robust offline mode, and strong multi-location management features.",
+      "verdict_short": "A powerful, highly customizable iPad POS for high-volume and franchise businesses.",
+      "praise": "Its open API and extensive feature set allow for deep customization to fit the specific workflows of large, complex operations.",
+      "praise_short": "Highly customizable with an open API.",
+      "criticism": "The system is one of the more expensive options on the market and can be complex to set up and manage without dedicated IT support.",
+      "criticism_short": "Expensive and can be complex to configure.",
+      "sources_pending": [
+        "Revel Systems Case Studies",
+        "Gartner Peer Insights",
+        "Capterra Revel Systems Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 674,
+      "integrations": [
+        "QuickBooks Enterprise",
+        "Apple Pay",
+        "LevelUp",
+        "Como",
+        "Punchh"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "SpotOn",
+      "url": "https://www.spoton.com/restaurants",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Independent restaurants looking for a comprehensive platform with strong marketing and loyalty tools, backed by hands-on customer support.",
+      "best_for_short": "POS with integrated marketing",
+      "pricing_band": "$$ ($25 to $200+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core POS Features": 8,
+        "Kitchen & Back-Office": 7.9,
+        "Hardware & Ecosystem": 8.1,
+        "Integrations & API": 7.8,
+        "Pricing & Support": 8.5
+      },
+      "verdict": "SpotOn stands out by bundling powerful marketing, loyalty, and review management tools directly into its POS platform, offering a complete solution for growing a restaurant's brand.",
+      "verdict_short": "A complete platform with strong, built-in marketing and loyalty features.",
+      "praise": "They are known for providing 24/7 in-person and phone support, a major differentiator from competitors who rely on call centers or email.",
+      "praise_short": "Excellent 24/7 customer support model.",
+      "criticism": "The software is not as polished or feature-rich in its core POS functions as more established players like Toast or Lightspeed.",
+      "criticism_short": "Core POS features are less mature.",
+      "sources_pending": [
+        "SpotOn Customer Testimonials",
+        "Forbes Advisor Review",
+        "G2 SpotOn Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "DoorDash",
+        "Grubhub",
+        "Uber Eats",
+        "Tipalti"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Mexico"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Upserve (by Lightspeed)",
+      "url": "https://www.lightspeedhq.com/pos/restaurant/upserve/",
+      "founded": 2009,
+      "hq": "Providence, USA",
+      "team_size_band": "201-500",
+      "best_for": "Data-driven restaurateurs who want best-in-class analytics and guest relationship management features.",
+      "best_for_short": "Best-in-class restaurant analytics",
+      "pricing_band": "$$ ($59 to $359/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Core POS Features": 7.8,
+        "Kitchen & Back-Office": 8.8,
+        "Hardware & Ecosystem": 7.5,
+        "Integrations & API": 7.6,
+        "Pricing & Support": 7.9
+      },
+      "verdict": "Upserve, now part of Lightspeed, earns its place for its legacy of providing powerful analytics that help owners understand menu profitability, server performance, and guest behavior.",
+      "verdict_short": "A data-centric POS offering powerful analytics and guest management tools.",
+      "praise": "Its reporting suite is exceptional, allowing owners to drill down into sales trends, ingredient costs, and customer loyalty data.",
+      "praise_short": "Exceptionally powerful and granular reporting.",
+      "criticism": "Since its acquisition by Lightspeed, the future product roadmap is less clear, and it may eventually be fully merged into the main Lightspeed Restaurant platform.",
+      "criticism_short": "Uncertain future product roadmap post-acquisition.",
+      "sources_pending": [
+        "Upserve Legacy Documentation",
+        "TechCrunch Acquisition Article",
+        "Capterra User Reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-10",
+        "summary": "Acquired by Lightspeed in 2020; the standalone brand may be phased out over time.",
+        "signals": [
+          "Acquisition by competitor"
+        ]
+      },
+      "price_min": 59,
+      "price_max": 359,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Plate IQ",
+        "Ctuit",
+        "HotSchedules"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Oracle MICROS Simphony",
+      "url": "https://www.oracle.com/industries/food-beverage/pos-systems/",
+      "founded": 1977,
+      "hq": "Austin, USA",
+      "team_size_band": "10000+",
+      "best_for": "Large enterprises, including stadiums, hotels, and major international restaurant chains that require a highly stable, secure, and scalable system.",
+      "best_for_short": "Enterprise and stadium POS",
+      "pricing_band": "$$$$ ($200 to $1000+/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Core POS Features": 8,
+        "Kitchen & Back-Office": 8.2,
+        "Hardware & Ecosystem": 7.9,
+        "Integrations & API": 7.5,
+        "Pricing & Support": 7
+      },
+      "verdict": "Oracle MICROS Simphony is the legacy enterprise standard, best suited for massive, complex operations like hotel chains and stadiums that prioritize stability and security above all else.",
+      "verdict_short": "The legacy enterprise standard for large, complex venues like hotels and stadiums.",
+      "praise": "The system is incredibly robust, scalable, and secure, capable of handling immense transaction volumes across hundreds of global locations.",
+      "praise_short": "Extremely stable, scalable, and secure for enterprise.",
+      "criticism": "It is notoriously expensive, has an outdated user interface, and lacks the agility and ease of use found in modern cloud-native POS systems.",
+      "criticism_short": "Expensive, with a dated interface and complexity.",
+      "sources_pending": [
+        "Oracle Cloud Marketplace",
+        "Gartner Magic Quadrant for POS",
+        "Hotel Tech Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 200,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Oracle NetSuite",
+        "SAP",
+        "Various PMS",
+        "FreedomPay",
+        "Adyen"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Epos Now",
+      "url": "https://www.eposnow.com",
+      "founded": 2011,
+      "hq": "Norwich, UK",
+      "team_size_band": "201-500",
+      "best_for": "Small, budget-conscious restaurants and cafes looking for a simple, affordable, and flexible POS solution.",
+      "best_for_short": "Affordable and simple POS",
+      "pricing_band": "$ ($39 to $69/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core POS Features": 7.4,
+        "Kitchen & Back-Office": 7.2,
+        "Hardware & Ecosystem": 7.5,
+        "Integrations & API": 7.8,
+        "Pricing & Support": 7.7
+      },
+      "verdict": "Epos Now provides a solid, affordable entry point into cloud POS for small businesses, offering core restaurant features without the complexity or high cost of enterprise-grade systems.",
+      "verdict_short": "A simple and affordable cloud POS system for small, budget-conscious businesses.",
+      "praise": "Its pricing is very competitive, and it can run on a variety of hardware, including iPads, Android tablets, and Windows PCs, offering great flexibility.",
+      "praise_short": "Competitive pricing and multi-platform hardware support.",
+      "criticism": "The system's features are more basic than restaurant-specific competitors, and customer support quality can be inconsistent.",
+      "criticism_short": "Basic feature set and inconsistent support.",
+      "sources_pending": [
+        "Epos Now AppStore",
+        "Trustpilot Reviews",
+        "TechRadar Pro Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 69,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Xero",
+        "QuickBooks",
+        "Mailchimp",
+        "Loyalzoo",
+        "Worldpay"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "UK",
+        "USA",
+        "Australia",
+        "Spain",
+        "Ireland"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Lavu",
+      "url": "https://www.lavu.com",
+      "founded": 2010,
+      "hq": "Albuquerque, USA",
+      "team_size_band": "51-200",
+      "best_for": "Food trucks, pizzerias, and small cafes that are fully committed to the Apple ecosystem and need a simple, mobile-first POS.",
+      "best_for_short": "Mobile-first iPad POS",
+      "pricing_band": "$$ ($59 to $279/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Core POS Features": 7.5,
+        "Kitchen & Back-Office": 7,
+        "Hardware & Ecosystem": 7.3,
+        "Integrations & API": 6.9,
+        "Pricing & Support": 7.1
+      },
+      "verdict": "Our wildcard pick, Lavu, was one of the very first iPad POS systems and remains a solid, mobile-first choice for niche businesses like food trucks that value simplicity and portability over an exhaustive feature set.",
+      "verdict_short": "An original iPad POS, great for food trucks and other mobile-focused businesses.",
+      "praise": "As an early pioneer in mobile POS, its interface is streamlined for speed and use on smaller touch screens like iPads and iPhones.",
+      "praise_short": "Streamlined interface for mobile and tablet use.",
+      "criticism": "Its feature set and integration options have not kept pace with the larger, better-funded competitors at the top of this list.",
+      "criticism_short": "Feature set lags behind market leaders.",
+      "sources_pending": [
+        "Lavu Website",
+        "G2 Lavu Reviews",
+        "Food Truck Empire Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 279,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "PayPal",
+        "Moneris",
+        "OpenTable",
+        "Ctuit"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "USA",
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

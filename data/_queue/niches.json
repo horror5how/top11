@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "automotive-shop-software",
-      "title": "The 11 Best Automotive Repair Shop Software",
-      "vertical": "Automotive · Shop Management",
-      "audience": "Independent auto repair shop owners managing work orders and parts",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "restaurant-pos",
-      "title": "The 11 Best Restaurant POS Systems",
-      "vertical": "Restaurants · Point of Sale",
-      "audience": "Restaurant owners choosing POS + kitchen management",
-      "candidate_pool_size": 35,
-      "priority": 3
-    },
-    {
       "slug": "field-service-management",
       "title": "The 11 Best Field Service Management Software",
       "vertical": "Field Services · Operations",
@@ -379,7 +363,14 @@
     "ecommerce-platforms",
     "fitness-studio-software",
     "salon-spa-software",
-    "gym-management-software"
+    "gym-management-software",
+    "restaurant-pos"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "slug": "automotive-shop-software",
+      "error": "Unexpected token 'a', ...\"   \"name\":a\": \"Integ\"... is not valid JSON",
+      "at": "2026-06-10T18:45:33.011Z"
+    }
+  ]
 }
