@@ -1,0 +1,819 @@
+{
+  "slug": "salon-spa-software",
+  "title": "The 11 Best Salon & Spa Management Software",
+  "subtitle": "A ranked analysis of the top platforms for managing appointments, clients, payments, and marketing for modern salons and spas.",
+  "vertical": "Beauty · Salon Management",
+  "audience": "Salon and spa owners managing appointments and clients",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Appointment Scheduling",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Core Scheduling (30%), Client Management (25%), POS & Payments (20%), Ease of Use (15%), and Integrations (10%)."
+    }
+  ],
+  "answer_capsule": "The best salon and spa management software is Square Appointments for its seamless payment integration, followed by Vagaro for its powerful marketplace and Fresha for its robust free plan.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Scheduling & Booking",
+        "weight": 30,
+        "description": "Effectiveness of the appointment calendar, online booking portal for clients, resource management, and automated reminders."
+      },
+      {
+        "name": "Client Management & Marketing",
+        "weight": 25,
+        "description": "Depth of CRM features, client history tracking, and built-in tools for email/SMS marketing, loyalty programs, and reviews."
+      },
+      {
+        "name": "POS & Payments",
+        "weight": 20,
+        "description": "Integration of payment processing, inventory management for retail products, commission tracking, and reporting capabilities."
+      },
+      {
+        "name": "Ease of Use & UI/UX",
+        "weight": 15,
+        "description": "Intuitive design for both staff and clients, speed of the platform, and quality of mobile applications."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 10,
+        "description": "Ability to connect with third-party software like accounting (QuickBooks), marketing (Mailchimp), and other business tools."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Salon Software",
+    "Spa Management",
+    "Appointment Scheduling",
+    "Booking Software",
+    "Beauty Industry Tech"
+  ],
+  "problem_tags": [
+    "Appointment Management",
+    "Client Retention",
+    "No-shows",
+    "Inventory Tracking",
+    "Payment Processing"
+  ],
+  "query_intents": [
+    "best salon software",
+    "spa management system",
+    "free salon booking app",
+    "Vagaro vs Square",
+    "Mindbody alternatives"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Integrated payments",
+        "Simple online booking"
+      ],
+      "personas": [
+        "Solo stylists",
+        "Small to mid-sized salons"
+      ]
+    },
+    "2": {
+      "solves": [
+        "New client acquisition",
+        "All-in-one management"
+      ],
+      "personas": [
+        "Salons wanting a marketplace",
+        "Multi-service spas"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Cost-effective startup",
+        "Subscription-free booking"
+      ],
+      "personas": [
+        "New salons",
+        "Budget-conscious owners"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.22,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What's the most important factor when choosing salon software?",
+      "a": "The core appointment book. If it's not fast, reliable, and easy for your staff to use every minute of the day, no other feature matters. Test the calendar functionality extensively during your free trial."
+    },
+    {
+      "q": "Should I choose a free or paid plan?",
+      "a": "Start with a free plan (like Fresha's) if you're a new solo operator. However, most growing salons will quickly need the marketing, reporting, and advanced inventory features that only come with paid plans, which typically start around $25-$50 per month."
+    }
+  ],
+  "how_to_choose": [
+    "Identify your must-have features (e.g., integrated payments, SMS marketing, detailed reporting) before you start your search.",
+    "Sign up for free trials from your top 2-3 choices and run mock scenarios, like booking a complex appointment or processing a retail sale.",
+    "Check the payment processing rates. A low monthly software fee can be offset by high transaction fees, so calculate the total cost.",
+    "Read recent user reviews focusing on customer support quality, as you'll inevitably need help during setup or troubleshooting."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best free salon and spa software?",
+      "a": "Fresha is widely regarded as the best free salon software. Its free plan includes unlimited appointments, locations, and staff members, with revenue generated through optional payment processing and advanced feature subscriptions."
+    },
+    {
+      "q": "How much does salon software typically cost?",
+      "a": "Salon software costs range from free to over $300 per month. A typical small to mid-sized salon can expect to pay between $30 and $150 per month, depending on the number of staff members and required features like advanced marketing or inventory controls."
+    },
+    {
+      "q": "What are the essential features of salon management software?",
+      "a": "Essential features include an intuitive appointment calendar, online client booking, automated reminders (SMS/email) to reduce no-shows, a client database (CRM), integrated point-of-sale (POS) for services and products, and basic sales reporting."
+    },
+    {
+      "q": "Can I manage product inventory and retail with this software?",
+      "a": "Yes, most comprehensive salon management platforms include robust inventory management. This allows you to track stock levels, set low-stock alerts, manage purchase orders, and sell retail products through the integrated POS system."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers are US-centric, though many offer global support and currency options. Non-US users should verify local payment gateway compatibility.",
+    "Pricing is often tiered by the number of 'bookable staff,' which can significantly increase costs as your team grows.",
+    "The term 'free' often means the core scheduling is free, but payment processing fees and charges for advanced features apply."
+  ],
+  "glossary": {
+    "term": "POS (Point of Sale)",
+    "definition": "The system used to process transactions for services and retail products. In salon software, this is integrated with the appointment book and client profiles.",
+    "synonyms": [
+      "Checkout System",
+      "Till",
+      "Payment Terminal"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Square Appointments",
+      "url": "https://squareup.com/us/en/appointments",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Salons of all sizes that want a seamless, all-in-one solution for booking, payments, and point-of-sale from a trusted provider.",
+      "best_for_short": "All-in-one booking & payments",
+      "pricing_band": "$$ ($0 to $99+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 9.2,
+        "Client Management & Marketing": 9,
+        "POS & Payments": 9.8,
+        "Ease of Use & UI/UX": 9.5,
+        "Integrations & Ecosystem": 8.9
+      },
+      "verdict": "Square Appointments is the best overall salon software because it flawlessly integrates a user-friendly booking system with a best-in-class payment and hardware ecosystem, making it incredibly simple for any salon to manage its entire business from one place.",
+      "verdict_short": "Flawlessly integrates booking and payments within a trusted, easy-to-use ecosystem.",
+      "praise": "The hardware and software integration is unmatched, providing a reliable and professional checkout experience for clients.",
+      "praise_short": "Unmatched hardware and software integration.",
+      "criticism": "Advanced marketing and client loyalty features are less robust than some dedicated salon platforms.",
+      "criticism_short": "Marketing and loyalty features are basic.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "G2 Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Google Calendar",
+        "Instagram",
+        "Mailchimp",
+        "Wix"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia",
+        "Japan"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Vagaro",
+      "url": "https://www.vagaro.com/",
+      "founded": 2009,
+      "hq": "Dublin, USA",
+      "team_size_band": "201-500",
+      "best_for": "Growing salons and spas that want to leverage a client-facing marketplace to attract new business alongside a feature-rich management platform.",
+      "best_for_short": "New client acquisition via marketplace",
+      "pricing_band": "$$ ($25 to $85+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 9.3,
+        "Client Management & Marketing": 9.4,
+        "POS & Payments": 8.8,
+        "Ease of Use & UI/UX": 8.9,
+        "Integrations & Ecosystem": 9
+      },
+      "verdict": "Vagaro earns its high rank with a comprehensive feature set and a unique marketplace that actively helps salons attract new clients, making it more than just a management tool but a genuine growth engine.",
+      "verdict_short": "A true growth engine with its client marketplace and extensive feature set.",
+      "praise": "The built-in marketplace is a significant advantage for discovering new local customers who are actively looking for services.",
+      "praise_short": "Excellent marketplace for new client discovery.",
+      "criticism": "The interface can feel cluttered and overwhelming at times due to the sheer number of features available.",
+      "criticism_short": "Interface can feel cluttered.",
+      "sources_pending": [
+        "Vendor Documentation",
+        "Software Advice Reviews",
+        "TrustRadius"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 85,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Instagram",
+        "Facebook",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "HIPAA"
+      ],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Fresha",
+      "url": "https://www.fresha.com/",
+      "founded": 2015,
+      "hq": "London, UK",
+      "team_size_band": "501-1000",
+      "best_for": "New or budget-conscious salons and independent professionals who need a powerful, free booking system and are willing to pay for advanced features as they grow.",
+      "best_for_short": "Best free booking platform",
+      "pricing_band": "$ ($0, pay-per-feature)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 9.4,
+        "Client Management & Marketing": 8.5,
+        "POS & Payments": 9,
+        "Ease of Use & UI/UX": 9.2,
+        "Integrations & Ecosystem": 8.2
+      },
+      "verdict": "Fresha is the best free option on the market, offering unlimited scheduling and staff accounts at no monthly cost, making it an unbeatable starting point for new businesses before they need more advanced marketing tools.",
+      "verdict_short": "Unbeatable free core platform, ideal for new salons and independent stylists.",
+      "praise": "The free tier is incredibly generous, providing core functionality that competitors charge significant monthly fees for.",
+      "praise_short": "Extremely generous free tier.",
+      "criticism": "The business model relies on payment processing fees and add-ons, which can become costly as transaction volume increases.",
+      "criticism_short": "Costs can add up with add-ons.",
+      "sources_pending": [
+        "Vendor Website",
+        "Capterra Reviews",
+        "TechCrunch Articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Calendar",
+        "Instagram",
+        "Facebook"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI-DSS"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Mindbody",
+      "url": "https://www.mindbodyonline.com/",
+      "founded": 2001,
+      "hq": "San Luis Obispo, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Larger, established wellness businesses, spas, and multi-location salons that require deep, enterprise-level features for marketing, reporting, and class scheduling.",
+      "best_for_short": "Established multi-location businesses",
+      "pricing_band": "$$$ ($129 to $699+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8.8,
+        "Client Management & Marketing": 9.2,
+        "POS & Payments": 8.5,
+        "Ease of Use & UI/UX": 7.5,
+        "Integrations & Ecosystem": 9
+      },
+      "verdict": "Mindbody is a powerhouse for large-scale operations, offering an unparalleled depth of features for marketing automation, complex scheduling, and business analytics that justify its premium price for businesses that can leverage its full potential.",
+      "verdict_short": "A feature-rich powerhouse for large, complex wellness and beauty businesses.",
+      "praise": "Its marketing automation and client retention tools are among the most sophisticated in the industry.",
+      "praise_short": "Sophisticated marketing automation tools.",
+      "criticism": "The platform can be complex, expensive, and overwhelming for smaller salons or solo operators.",
+      "criticism_short": "Complex and expensive for small businesses.",
+      "sources_pending": [
+        "Vendor Pricing Page",
+        "G2 Enterprise Reviews",
+        "Forrester Wave Report"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 699,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ClassPass",
+        "QuickBooks",
+        "Xero",
+        "Zapier"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "GlossGenius",
+      "url": "https://glossgenius.com/",
+      "founded": 2015,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Independent stylists and modern, brand-conscious salons that prioritize a beautiful, streamlined client booking experience and stylish marketing tools.",
+      "best_for_short": "Stylish client experience & branding",
+      "pricing_band": "$$ ($24 to $48+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8.5,
+        "Client Management & Marketing": 8.8,
+        "POS & Payments": 8.2,
+        "Ease of Use & UI/UX": 9.3,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "GlossGenius stands out by focusing on aesthetics and simplicity, providing the most elegant and user-friendly client-facing interface, which helps solo entrepreneurs and small salons build a premium brand identity.",
+      "verdict_short": "Delivers an elegant, brand-focused experience for both stylists and clients.",
+      "praise": "The client booking website and automated email/SMS communications are beautifully designed and highly professional.",
+      "praise_short": "Beautifully designed client interface.",
+      "criticism": "It lacks the deep inventory management and advanced reporting features needed by larger, more complex salons.",
+      "criticism_short": "Lacks deep inventory/reporting features.",
+      "sources_pending": [
+        "Vendor Website",
+        "Modern Salon Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 24,
+      "price_max": 48,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Instagram",
+        "Facebook"
+      ],
+      "compliance": [
+        "PCI-DSS"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 6,
+      "name": "Boulevard",
+      "url": "https://www.joinblvd.com/",
+      "founded": 2016,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "201-500",
+      "best_for": "High-end salons and medspas focused on delivering a premium, white-glove client experience with self-booking and communication.",
+      "best_for_short": "Premium client experience",
+      "pricing_band": "$$$ ($175 to $475+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8.6,
+        "Client Management & Marketing": 8.4,
+        "POS & Payments": 8,
+        "Ease of Use & UI/UX": 9,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "Boulevard justifies its premium pricing by delivering a meticulously designed platform focused on optimizing the client journey, from intuitive self-booking to seamless checkout, making it ideal for luxury brands.",
+      "verdict_short": "A premium platform designed for a high-end, client-centric experience.",
+      "praise": "The platform's design and workflow are exceptionally clean and modern, reducing friction for both staff and clients.",
+      "praise_short": "Exceptionally clean and modern design.",
+      "criticism": "The higher price point makes it inaccessible for smaller salons or those not focused on the luxury market segment.",
+      "criticism_short": "High price point for smaller salons.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Featured Customer Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 175,
+      "price_max": 475,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "Shopify",
+        "Klaviyo",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "HIPAA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Zenoti",
+      "url": "https://www.zenoti.com/",
+      "founded": 2010,
+      "hq": "Bellevue, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large, multi-location salon and spa chains that require centralized management, advanced analytics, and enterprise-grade features.",
+      "best_for_short": "Enterprise & multi-location chains",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8.2,
+        "Client Management & Marketing": 8.5,
+        "POS & Payments": 8,
+        "Ease of Use & UI/UX": 7,
+        "Integrations & Ecosystem": 8.4
+      },
+      "verdict": "Zenoti is the undisputed leader for enterprise-level salon and spa chains, offering powerful tools for managing multiple locations from a single dashboard, with deep business intelligence and employee management capabilities.",
+      "verdict_short": "The leading choice for enterprise chains needing centralized control and analytics.",
+      "praise": "Its ability to manage complex operations across dozens or hundreds of locations is unparalleled in the market.",
+      "praise_short": "Unparalleled multi-location management.",
+      "criticism": "The system is far too complex and expensive for single-location salons or small businesses.",
+      "criticism_short": "Overkill and too costly for small salons.",
+      "sources_pending": [
+        "Vendor Case Studies",
+        "Gartner Peer Insights",
+        "Forrester Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Salesforce",
+        "Oracle NetSuite",
+        "Shopify"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Mangomint",
+      "url": "https://www.mangomint.com/",
+      "founded": 2016,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "51-200",
+      "best_for": "Salons and spas looking for a modern, fast, and exceptionally well-designed interface with powerful automation features.",
+      "best_for_short": "Modern UI & smart automation",
+      "pricing_band": "$$$ ($165 to $375/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8,
+        "Client Management & Marketing": 7.5,
+        "POS & Payments": 7.6,
+        "Ease of Use & UI/UX": 9.2,
+        "Integrations & Ecosystem": 6.8
+      },
+      "verdict": "Mangomint's primary strength is its thoughtfully designed, lightning-fast user interface, which significantly reduces staff training time and makes daily operations smoother than many of its more cluttered competitors.",
+      "verdict_short": "A beautifully designed, fast interface that streamlines daily salon operations.",
+      "praise": "The user experience is superb, with a clean, uncluttered layout and intuitive workflows that are a pleasure to use.",
+      "praise_short": "Superb, uncluttered user experience.",
+      "criticism": "It is on the pricier side for its feature set, and its marketing tools are not as developed as some rivals.",
+      "criticism_short": "Pricey for its feature set; limited marketing.",
+      "sources_pending": [
+        "Vendor Website",
+        "Capterra",
+        "Software Advice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 165,
+      "price_max": 375,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Mailchimp",
+        "GiftUp!",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "PCI-DSS",
+        "HIPAA"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Booker by Mindbody",
+      "url": "https://www.booker.com/",
+      "founded": 2007,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Established, service-based businesses like spas and salons that need a reliable, feature-complete system and can benefit from the Mindbody ecosystem.",
+      "best_for_short": "Reliable, feature-complete system",
+      "pricing_band": "$$$ ($129 to $429+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 8,
+        "Client Management & Marketing": 7.8,
+        "POS & Payments": 7.5,
+        "Ease of Use & UI/UX": 7.2,
+        "Integrations & Ecosystem": 7.5
+      },
+      "verdict": "Booker is a veteran platform that offers a robust and reliable set of core features for salon and spa management, making it a safe choice for businesses that prioritize stability over cutting-edge design.",
+      "verdict_short": "A stable and reliable veteran platform with a comprehensive feature set.",
+      "praise": "The platform is mature and stable, with a deep feature set that has been refined over many years.",
+      "praise_short": "Mature, stable, and feature-rich.",
+      "criticism": "The user interface feels dated compared to more modern competitors, and being part of the larger Mindbody ecosystem can sometimes be confusing.",
+      "criticism_short": "Dated interface; confusing branding.",
+      "sources_pending": [
+        "Vendor Website",
+        "G2 Reviews",
+        "Mindbody Corporate Site"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 429,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Mindbody App",
+        "QuickBooks",
+        "Xero",
+        "Various payment gateways"
+      ],
+      "compliance": [
+        "PCI-DSS"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Rosy Salon Software",
+      "url": "https://www.rosysalonsoftware.com/",
+      "founded": 2009,
+      "hq": "Cuyahoga Falls, USA",
+      "team_size_band": "11-50",
+      "best_for": "Salons that want a straightforward, no-frills management platform with strong customer support and features designed by industry professionals.",
+      "best_for_short": "Straightforward, no-frills platform",
+      "pricing_band": "$$ ($29 to $99+/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 7.8,
+        "Client Management & Marketing": 7.5,
+        "POS & Payments": 7.2,
+        "Ease of Use & UI/UX": 7,
+        "Integrations & Ecosystem": 7.3
+      },
+      "verdict": "Rosy provides a solid, dependable software solution with all the essential tools a salon needs to operate, backed by a reputation for excellent, responsive customer support.",
+      "verdict_short": "A solid, dependable solution with all the essentials and great customer support.",
+      "praise": "Customer support is frequently cited as a major strength, with a helpful team that understands the salon industry.",
+      "praise_short": "Excellent, industry-aware customer support.",
+      "criticism": "The user interface and overall design lag behind more modern, cloud-native competitors.",
+      "criticism_short": "Dated user interface and design.",
+      "sources_pending": [
+        "Vendor Website",
+        "Capterra",
+        "GetApp"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Demandforce",
+        "SalonInteractive"
+      ],
+      "compliance": [
+        "PCI-DSS"
+      ],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Acuity Scheduling",
+      "url": "https://www.squarespace.com/scheduling",
+      "founded": 2006,
+      "hq": "New York, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Tech-savvy solo practitioners or small studios that need a powerful, highly customizable scheduler and prioritize integrations over salon-specific features.",
+      "best_for_short": "Powerful, customizable general scheduler",
+      "pricing_band": "$ ($16 to $49/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Core Scheduling & Booking": 9,
+        "Client Management & Marketing": 6.5,
+        "POS & Payments": 7,
+        "Ease of Use & UI/UX": 7.5,
+        "Integrations & Ecosystem": 8
+      },
+      "verdict": "Acuity Scheduling is a wildcard because it's not a true salon software, but a best-in-class general appointment scheduler that can be adapted for salon use, offering unparalleled flexibility and integration power for those who don't need built-in POS or deep inventory management.",
+      "verdict_short": "A powerful general scheduler offering flexibility for those who don't need salon-specific POS.",
+      "praise": "Its scheduling engine is incredibly robust, with granular controls for availability, appointment types, and intake forms.",
+      "praise_short": "Incredibly robust and flexible scheduling engine.",
+      "criticism": "It completely lacks salon-specific features like retail inventory management, commission tracking, and a dedicated POS interface.",
+      "criticism_short": "Lacks all salon-specific features (POS, inventory).",
+      "sources_pending": [
+        "Squarespace Website",
+        "Zapier Integration Directory",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 16,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "QuickBooks",
+        "Mailchimp",
+        "Google Calendar",
+        "Zoom",
+        "Stripe",
+        "Square",
+        "PayPal"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 36
+    }
+  ]
+}

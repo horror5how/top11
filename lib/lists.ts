@@ -78,6 +78,8 @@ import passwordManagersBusiness from "@/data/password-managers-business.json";
 import managedWordpressHosting from "@/data/managed-wordpress-hosting.json";
 import ecommercePlatforms from "@/data/ecommerce-platforms.json";
 import fitnessStudioSoftware from "@/data/fitness-studio-software.json";
+import salonSpaSoftware from "@/data/salon-spa-software.json";
+import gymManagementSoftware from "@/data/gym-management-software.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -183,6 +185,8 @@ const REGISTRY: Record<string, ListData> = {
   [managedWordpressHosting.slug]: managedWordpressHosting as unknown as ListData,
   [ecommercePlatforms.slug]: ecommercePlatforms as unknown as ListData,
   [fitnessStudioSoftware.slug]: fitnessStudioSoftware as unknown as ListData,
+  [salonSpaSoftware.slug]: salonSpaSoftware as unknown as ListData,
+  [gymManagementSoftware.slug]: gymManagementSoftware as unknown as ListData,
 };
 
 export function listSlugs(): string[] {

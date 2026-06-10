@@ -1,0 +1,818 @@
+{
+  "slug": "gym-management-software",
+  "title": "The 11 Best Gym Management Software",
+  "subtitle": "An analysis of the top platforms for managing members, automating billing, and streamlining gym operations.",
+  "vertical": "Fitness · Gym Operations",
+  "audience": "Gym owners managing members, billing, and access control",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Vertical SaaS",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Core Feature Set (30%), Billing & Payments (25%), Member Experience (20%), Integrations (15%), and Ease of Use (10%)."
+    }
+  ],
+  "answer_capsule": "The best gym management software is Mindbody for its comprehensive, all-in-one feature set, followed by PushPress for its focus on functional fitness gyms, and Zen Planner for its balanced capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Feature Set",
+        "weight": 30,
+        "description": "Comprehensiveness of member management, class scheduling, booking, staff management, and point-of-sale (POS) capabilities."
+      },
+      {
+        "name": "Billing & Payments",
+        "weight": 25,
+        "description": "Effectiveness of automated billing, payment processing options, contract management, and financial reporting."
+      },
+      {
+        "name": "Member Experience & Engagement",
+        "weight": 20,
+        "description": "Quality of the member-facing app, communication tools (email/SMS), workout tracking, and community features."
+      },
+      {
+        "name": "Integrations & Extensibility",
+        "weight": 15,
+        "description": "Availability of API access and pre-built integrations for access control, marketing automation, accounting, and other third-party tools."
+      },
+      {
+        "name": "Ease of Use & Support",
+        "weight": 10,
+        "description": "Intuiveness of the admin interface, quality of onboarding, and responsiveness of customer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Gym Software",
+    "Fitness Studio Software",
+    "Member Management",
+    "Class Scheduling",
+    "Boutique Fitness",
+    "CrossFit Box Software"
+  ],
+  "problem_tags": [
+    "Member Churn",
+    "Billing Errors",
+    "Scheduling Conflicts",
+    "Manual Admin Work",
+    "Low Member Engagement"
+  ],
+  "query_intents": [
+    "best gym management software",
+    "mindbody alternatives",
+    "crossfit gym software",
+    "yoga studio software",
+    "gym billing software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Managing diverse wellness services",
+        "Scaling a multi-location business"
+      ],
+      "personas": [
+        "Large gym chains",
+        "Wellness centers",
+        "High-end studios"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Simplifying CrossFit box operations",
+        "Automating member check-ins"
+      ],
+      "personas": [
+        "CrossFit box owners",
+        "Functional fitness gyms"
+      ]
+    },
+    "3": {
+      "solves": [
+        "All-in-one management for mid-sized gyms",
+        "Integrated marketing and billing"
+      ],
+      "personas": [
+        "Martial arts schools",
+        "Mid-size independent gyms"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.45,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is Gym Management Software?",
+      "a": "Gym management software is an all-in-one platform that helps gym, studio, and fitness club owners manage their daily operations. Key functions include member management, class scheduling, automated billing, payment processing, access control, and reporting."
+    },
+    {
+      "q": "How does it improve gym operations?",
+      "a": "It automates repetitive administrative tasks like billing and scheduling, reduces errors, provides a better booking experience for members via an app, and offers insights into business performance through reporting, ultimately saving time and increasing revenue."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your gym's specific needs: Are you a small yoga studio, a large multi-location health club, or a CrossFit box? Your business model dictates the features you'll need.",
+    "Evaluate the member experience. A user-friendly, branded mobile app for booking classes and tracking progress is critical for retention in today's market.",
+    "Scrutinize the billing and payment processing capabilities. Ensure it supports your membership models (e.g., recurring, class packs, drop-ins) and integrates with a reliable payment gateway.",
+    "Request a live demo and check customer support reviews. The software will be central to your business, so you need to ensure it's intuitive for your staff and that help is available when you need it."
+  ],
+  "faqs": [
+    {
+      "q": "What is the average cost of gym management software?",
+      "a": "Costs typically range from $100 to $400 per month, depending on the number of members, locations, and included features. Some providers charge a flat monthly fee, while others have tiered pricing. Be sure to ask about setup fees and payment processing rates."
+    },
+    {
+      "q": "Do I need software with a dedicated member app?",
+      "a": "For most modern gyms and studios, a dedicated, branded member app is highly recommended. It simplifies booking, improves communication, and enhances member engagement, which are all key factors in reducing churn."
+    },
+    {
+      "q": "What's the difference between software for a small studio vs. a large gym?",
+      "a": "Software for small studios often prioritizes simplicity in scheduling and billing. Software for large gyms or chains requires more robust features like multi-location management, advanced reporting, staff role permissions, and integrations with extensive hardware like turnstiles and various access control systems."
+    },
+    {
+      "q": "How important are hardware integrations like door access control?",
+      "a": "Very important for gyms that offer 24/7 access or want to automate check-ins. An integrated system ensures that only active, paid members can access the facility, improving security and reducing staff workload. Always verify that the software supports your specific brand of door hardware."
+    }
+  ],
+  "honest_disclosures": [
+    "Pricing for many top-tier providers is not transparent and requires a sales demo to get a quote.",
+    "Most candidates are US-based, though many offer global support. Non-US customers should verify payment gateway compatibility and local support hours.",
+    "The term 'all-in-one' can be misleading. Many platforms require paid add-ons or third-party integrations for features like advanced marketing automation or payroll."
+  ],
+  "glossary": {
+    "term": "Access Control Integration",
+    "definition": "The ability for gym management software to connect with physical hardware like key fob scanners, barcode readers, or electronic door locks to automatically grant or deny entry to members based on their current membership status.",
+    "synonyms": [
+      "Door Access System",
+      "Check-in System"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Mindbody",
+      "url": "https://www.mindbodyonline.com",
+      "founded": 2001,
+      "hq": "San Luis Obispo, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Wellness studios and large gyms seeking the most comprehensive, feature-rich platform on the market.",
+      "best_for_short": "Comprehensive all-in-one platform",
+      "pricing_band": "$$$ ($159 to $699+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Core Feature Set": 9.4,
+        "Billing & Payments": 9.2,
+        "Member Experience & Engagement": 9.3,
+        "Integrations & Extensibility": 9.4,
+        "Ease of Use & Support": 8.8
+      },
+      "verdict": "Mindbody is the top choice due to its unmatched breadth of features, covering everything from marketing automation and lead management to complex scheduling and a massive consumer marketplace.",
+      "verdict_short": "Unmatched feature depth for large wellness businesses and gyms.",
+      "praise": "Its powerful marketing suite and consumer-facing app provide significant tools for attracting and retaining new clients.",
+      "praise_short": "Powerful marketing and client acquisition tools.",
+      "criticism": "The platform's extensive capabilities come with a steep learning curve and a higher price point compared to competitors.",
+      "criticism_short": "Complex interface and high price point.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 reviews",
+        "Capterra user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 159,
+      "price_max": 699,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "ClassPass",
+        "Mailchimp",
+        "Zapier",
+        "Various access control systems"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "PushPress",
+      "url": "https://www.pushpress.com",
+      "founded": 2013,
+      "hq": "Agoura Hills, USA",
+      "team_size_band": "51-200",
+      "best_for": "CrossFit boxes and functional fitness gyms that prioritize simplicity, community engagement, and a modern member experience.",
+      "best_for_short": "CrossFit & functional fitness gyms",
+      "pricing_band": "$$ ($159 to $259/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Core Feature Set": 8.9,
+        "Billing & Payments": 9,
+        "Member Experience & Engagement": 9.5,
+        "Integrations & Extensibility": 8.8,
+        "Ease of Use & Support": 9.4
+      },
+      "verdict": "PushPress earns its high rank by perfectly tailoring its feature set and user experience to the specific needs of the functional fitness community, emphasizing ease of use for owners and a great app for members.",
+      "verdict_short": "Perfectly tailored for functional fitness with a superb member app.",
+      "praise": "The platform is widely praised for its intuitive interface and outstanding customer support, making it easy for gym owners to get up and running.",
+      "praise_short": "Intuitive interface and top-tier support.",
+      "criticism": "While excellent for its niche, it may lack some of the advanced reporting and marketing features required by larger, multi-purpose health clubs.",
+      "criticism_short": "Lacks advanced features for large clubs.",
+      "sources_pending": [
+        "vendor website",
+        "CrossFit forum discussions",
+        "Software Advice reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 159,
+      "price_max": 259,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "QuickBooks Online",
+        "Zapier",
+        "HybridAF",
+        "SugarWOD"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "Zen Planner",
+      "url": "https://www.zenplanner.com",
+      "founded": 2006,
+      "hq": "Highlands Ranch, USA",
+      "team_size_band": "51-200",
+      "best_for": "Boutique fitness studios, martial arts schools, and mid-sized gyms looking for a balanced, all-in-one solution with strong billing and automation.",
+      "best_for_short": "Balanced all-in-one for studios",
+      "pricing_band": "$$ ($121 to $315/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Core Feature Set": 9,
+        "Billing & Payments": 9.2,
+        "Member Experience & Engagement": 8.7,
+        "Integrations & Extensibility": 8.5,
+        "Ease of Use & Support": 8.9
+      },
+      "verdict": "Zen Planner provides a robust and reliable all-in-one platform with particularly strong capabilities in automated billing and staff management, making it a workhorse for established studios.",
+      "verdict_short": "A reliable workhorse with strong billing and automation features.",
+      "praise": "Its advanced workout tracking and skills progression features are a major advantage for martial arts dojos and CrossFit gyms.",
+      "praise_short": "Excellent workout and skills tracking.",
+      "criticism": "The user interface, for both admin and members, feels less modern than some newer competitors.",
+      "criticism_short": "User interface feels slightly dated.",
+      "sources_pending": [
+        "vendor documentation",
+        "G2 reviews",
+        "Daxko corporate site"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 121,
+      "price_max": 315,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 100,
+      "integrations": [
+        "Mailchimp",
+        "QuickBooks",
+        "WordPress",
+        "Constant Contact",
+        "Infusionsoft"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Glofox (by ABC Fitness)",
+      "url": "https://www.glofox.com",
+      "founded": 2014,
+      "hq": "Dublin, Ireland",
+      "team_size_band": "201-500",
+      "best_for": "Boutique fitness brands and franchises that need a premium, highly-brandable mobile app and a seamless member booking experience.",
+      "best_for_short": "Premium, brandable mobile apps",
+      "pricing_band": "$$ ($110 to $250+/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Core Feature Set": 8.5,
+        "Billing & Payments": 8.6,
+        "Member Experience & Engagement": 9.4,
+        "Integrations & Extensibility": 8.3,
+        "Ease of Use & Support": 8.6
+      },
+      "verdict": "Glofox stands out for its exceptional, customizable member-facing app and global capabilities, making it the ideal choice for fitness brands focused on delivering a premium digital experience.",
+      "verdict_short": "Exceptional member app and premium digital experience for boutiques.",
+      "praise": "The platform's design and user experience for members is slick, modern, and highly engaging, driving bookings and retention.",
+      "praise_short": "Slick, modern, and engaging member UX.",
+      "criticism": "Some users report that the back-end administrative interface can be less intuitive than the member-facing side.",
+      "criticism_short": "Admin back-end can be less intuitive.",
+      "sources_pending": [
+        "vendor website",
+        "ABC Fitness press releases",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 110,
+      "price_max": 250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ClassPass",
+        "Gympass",
+        "Myzone",
+        "Mailchimp",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Wodify",
+      "url": "https://www.wodify.com",
+      "founded": 2012,
+      "hq": "Cherry Hill, USA",
+      "team_size_band": "51-200",
+      "best_for": "Performance-focused gyms, especially in the CrossFit space, that want best-in-class workout tracking and community leaderboards.",
+      "best_for_short": "Performance & workout tracking",
+      "pricing_band": "$$ ($89 to $349/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core Feature Set": 8.4,
+        "Billing & Payments": 8.3,
+        "Member Experience & Engagement": 9.2,
+        "Integrations & Extensibility": 8.2,
+        "Ease of Use & Support": 8.4
+      },
+      "verdict": "Wodify excels by focusing on the athlete's journey, offering unparalleled performance tracking, leaderboards, and social features that build a strong community within a gym.",
+      "verdict_short": "Unparalleled performance tracking that builds strong gym communities.",
+      "praise": "The in-gym kiosk and digital whiteboard experience are iconic in the CrossFit world and highly effective at driving member engagement.",
+      "praise_short": "Iconic in-gym digital whiteboard experience.",
+      "criticism": "The user interface can feel busy, and the system may be overly complex for gyms that don't focus heavily on performance metrics.",
+      "criticism_short": "Can be overly complex for non-CrossFit gyms.",
+      "sources_pending": [
+        "vendor website",
+        "G2 reviews",
+        "Reddit community feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 89,
+      "price_max": 349,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Zapier",
+        "Mailchimp",
+        "Stripe",
+        "GoCardless"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "WellnessLiving",
+      "url": "https://www.wellnessliving.com",
+      "founded": 2013,
+      "hq": "Toronto, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Studios and gyms looking for a feature-rich alternative to Mindbody with more transparent pricing and built-in marketing tools.",
+      "best_for_short": "Feature-rich Mindbody alternative",
+      "pricing_band": "$$ ($59 to $399/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core Feature Set": 8.8,
+        "Billing & Payments": 8.5,
+        "Member Experience & Engagement": 8,
+        "Integrations & Extensibility": 7.8,
+        "Ease of Use & Support": 8.2
+      },
+      "verdict": "WellnessLiving positions itself as a strong, cost-effective competitor to the market leader by bundling an impressive number of features, including marketing automation and rewards programs, into its core offering.",
+      "verdict_short": "A cost-effective, feature-packed alternative to enterprise platforms.",
+      "praise": "Offers a remarkable amount of functionality for its price point, often including features that are expensive add-ons with other providers.",
+      "praise_short": "Excellent value with many built-in features.",
+      "criticism": "While feature-rich, the user experience and design of the interface are not as polished as some of the more premium-focused competitors.",
+      "criticism_short": "User interface lacks polish.",
+      "sources_pending": [
+        "vendor website",
+        "Capterra reviews",
+        "TrustRadius feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 99,
+      "integrations": [
+        "Zoom",
+        "QuickBooks",
+        "Google Analytics",
+        "Reserve with Google"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "TeamUp",
+      "url": "https://goteamup.com",
+      "founded": 2012,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Independent fitness instructors and small to mid-sized studios who value simplicity, flexibility, and excellent customer support.",
+      "best_for_short": "Simplicity for independent studios",
+      "pricing_band": "$ ($109 to $309/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core Feature Set": 7.8,
+        "Billing & Payments": 8.2,
+        "Member Experience & Engagement": 8,
+        "Integrations & Extensibility": 7.9,
+        "Ease of Use & Support": 9
+      },
+      "verdict": "TeamUp provides an exceptionally user-friendly and flexible platform that excels in managing class-based fitness businesses without the complexity of larger enterprise systems.",
+      "verdict_short": "User-friendly and flexible for class-based fitness businesses.",
+      "praise": "The platform is consistently lauded for its clear, straightforward interface and responsive, helpful customer support team.",
+      "praise_short": "Clear interface and responsive support.",
+      "criticism": "It lacks some of the advanced marketing and multi-location management features found in more expensive, enterprise-focused platforms.",
+      "criticism_short": "Lacks advanced marketing and franchise features.",
+      "sources_pending": [
+        "vendor website",
+        "GetApp reviews",
+        "Software Advice reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 109,
+      "price_max": 309,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "ClassPass",
+        "MoveGB",
+        "Mailchimp",
+        "Xero"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Mariana Tek",
+      "url": "https://www.marianatek.com",
+      "founded": 2014,
+      "hq": "Washington, D.C., USA",
+      "team_size_band": "51-200",
+      "best_for": "High-end boutique fitness studios that demand a sophisticated, aesthetically pleasing user experience for their members.",
+      "best_for_short": "Premium boutique studio experience",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core Feature Set": 7.8,
+        "Billing & Payments": 8,
+        "Member Experience & Engagement": 9.3,
+        "Integrations & Extensibility": 7.5,
+        "Ease of Use & Support": 7.9
+      },
+      "verdict": "Mariana Tek delivers a best-in-class, consumer-grade user experience with a beautifully designed app and booking flow, perfectly aligning with premium and luxury fitness brands.",
+      "verdict_short": "Best-in-class user experience for luxury fitness brands.",
+      "praise": "The mobile app and online booking interface are exceptionally well-designed, intuitive, and fast, leading to higher conversion and client satisfaction.",
+      "praise_short": "Beautifully designed and intuitive booking.",
+      "criticism": "It is one of the more expensive options on the market, and its feature set is highly specialized for boutique studios, making it less suitable for other gym models.",
+      "criticism_short": "Expensive and highly specialized.",
+      "sources_pending": [
+        "vendor website",
+        "G2 reviews",
+        "Boutique fitness industry reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ClassPass",
+        "Looker",
+        "Google Analytics",
+        "Facebook Pixel"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Club Automation (by Daxko)",
+      "url": "https://www.clubautomation.com",
+      "founded": 2007,
+      "hq": "Bannockburn, USA",
+      "team_size_band": "51-200",
+      "best_for": "Large health clubs, athletic clubs, and multi-location facilities requiring a powerful, enterprise-grade solution for complex operations.",
+      "best_for_short": "Enterprise-grade for large clubs",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core Feature Set": 9.2,
+        "Billing & Payments": 8.8,
+        "Member Experience & Engagement": 6.5,
+        "Integrations & Extensibility": 8,
+        "Ease of Use & Support": 6.5
+      },
+      "verdict": "Club Automation is built to handle the scale and complexity of large fitness centers, offering robust functionality for managing multiple revenue streams, complex memberships, and facility scheduling.",
+      "verdict_short": "Robust solution for managing complex, large-scale fitness centers.",
+      "praise": "Its ability to manage diverse operations—from tennis court bookings to spa appointments and member check-ins—within a single platform is a key strength.",
+      "praise_short": "Manages diverse operations in one platform.",
+      "criticism": "The platform is less focused on the slick, modern member-facing app experience that boutique studios prioritize, and its complexity can be overwhelming for smaller businesses.",
+      "criticism_short": "Less focus on member app UX; complex.",
+      "sources_pending": [
+        "vendor website",
+        "Daxko corporate site",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Daxko Accounting",
+        "Various access control systems",
+        "Payment gateways"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Pike13",
+      "url": "https://www.pike13.com",
+      "founded": 2011,
+      "hq": "Seattle, USA",
+      "team_size_band": "51-200",
+      "best_for": "Class- and appointment-based businesses like swim schools, music schools, and yoga studios that need strong client management and scheduling.",
+      "best_for_short": "Client management for class-based biz",
+      "pricing_band": "$$ ($139 to $399+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core Feature Set": 7.9,
+        "Billing & Payments": 7.8,
+        "Member Experience & Engagement": 7.2,
+        "Integrations & Extensibility": 7,
+        "Ease of Use & Support": 8
+      },
+      "verdict": "Pike13 provides a solid, mobile-friendly platform with a strong focus on client profiles and staff scheduling, making it highly effective for businesses built around appointments and recurring classes.",
+      "verdict_short": "Solid, mobile-friendly platform for appointment-based businesses.",
+      "praise": "The software's reporting and payroll features are robust, simplifying the administrative side of managing a team of instructors.",
+      "praise_short": "Robust reporting and payroll features.",
+      "criticism": "The overall feature set is less comprehensive than top-tier competitors, particularly in areas like marketing automation and advanced member engagement.",
+      "criticism_short": "Lacks advanced marketing and engagement tools.",
+      "sources_pending": [
+        "vendor website",
+        "EverCommerce corporate site",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 139,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "Mailchimp",
+        "Constant Contact",
+        "Google Calendar"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "LegitFit",
+      "url": "https://legitfit.com",
+      "founded": 2018,
+      "hq": "Cork, Ireland",
+      "team_size_band": "11-50",
+      "best_for": "Independent personal trainers and small studio owners who are priced out of larger systems and need a simple, affordable, and effective solution.",
+      "best_for_short": "Simple & affordable for trainers",
+      "pricing_band": "$ ($55 to $120/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Core Feature Set": 7,
+        "Billing & Payments": 7.5,
+        "Member Experience & Engagement": 7.2,
+        "Integrations & Extensibility": 6.5,
+        "Ease of Use & Support": 8.5
+      },
+      "verdict": "LegitFit is a compelling wildcard because it rejects the feature bloat of larger platforms to deliver a streamlined, easy-to-use, and affordable tool that empowers individual trainers and small studios to manage their business effectively.",
+      "verdict_short": "A streamlined, affordable tool for solo trainers and small studios.",
+      "praise": "Its focus on core essentials—booking, payments, and communication—and its excellent customer support make it a fantastic entry point into professional gym management.",
+      "praise_short": "Focuses on essentials with great support.",
+      "criticism": "The platform lacks the advanced features, hardware integrations, and scalability needed to support larger or growing fitness businesses.",
+      "criticism_short": "Not suitable for larger, growing gyms.",
+      "sources_pending": [
+        "vendor website",
+        "Capterra UK reviews",
+        "Startup news articles"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-10",
+        "summary": "As a smaller, emerging player, LegitFit has a shorter track record than established competitors.",
+        "signals": [
+          "Smaller market share",
+          "Less extensive integration ecosystem"
+        ]
+      },
+      "price_min": 55,
+      "price_max": 120,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "GoCardless",
+        "Zoom",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR",
+        "PCI"
+      ],
+      "regions": [
+        "Europe",
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 10
+    }
+  ]
+}

@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "salon-spa-software",
-      "title": "The 11 Best Salon & Spa Management Software",
-      "vertical": "Beauty · Salon Management",
-      "audience": "Salon and spa owners managing appointments and clients",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
-      "slug": "gym-management-software",
-      "title": "The 11 Best Gym Management Software",
-      "vertical": "Fitness · Gym Operations",
-      "audience": "Gym owners managing members, billing, and access control",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "automotive-shop-software",
       "title": "The 11 Best Automotive Repair Shop Software",
       "vertical": "Automotive · Shop Management",
@@ -393,7 +377,9 @@
     "password-managers-business",
     "managed-wordpress-hosting",
     "ecommerce-platforms",
-    "fitness-studio-software"
+    "fitness-studio-software",
+    "salon-spa-software",
+    "gym-management-software"
   ],
   "skipped": []
 }
