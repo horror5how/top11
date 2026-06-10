@@ -24,20 +24,26 @@ const VERTICAL_CLUSTERS: string[][] = [
     "ai-meeting-assistants", "ai-sales-tools", "ai-customer-support",
     "video-conferencing-software", "webinar-software",
   ],
+  // Industry CRM & vertical SaaS cluster
   [
     "dental-crm", "legal-crm", "real-estate-crm",
     "sales-crm-software", "customer-success-software",
+    "property-management-software", "telehealth-platforms",
   ],
+  // HR & workforce cluster
   [
     "smb-payroll", "smb-hris", "no-code-platforms",
     "construction-project-management", "hr-software-small-business",
-    "applicant-tracking-systems",
+    "applicant-tracking-systems", "employee-scheduling-software",
+    "freelance-platforms",
   ],
   // Marketing & growth cluster
   [
     "email-marketing-software", "social-media-scheduling-tools",
     "seo-tools", "landing-page-builder", "automation-platforms",
     "marketing-automation-software", "webinar-software", "proposal-software",
+    "seo-rank-trackers", "seo-tools-saas", "product-analytics-tools",
+    "online-course-platforms",
   ],
   // SMB core software cluster
   [
@@ -47,18 +53,23 @@ const VERTICAL_CLUSTERS: string[][] = [
     "knowledge-base-software", "document-management-software",
     "help-desk-software", "live-chat-software",
     "project-management-agencies", "business-intelligence-tools",
+    "password-managers-business", "vpn-for-business",
   ],
   // Finance & compliance cluster
   [
     "cap-table-software", "treasury-management-startups",
     "compliance-automation", "time-tracking-software",
     "expense-management-software", "contract-management-software",
-    "esignature-software",
+    "esignature-software", "ap-automation", "expense-management",
+    "subscription-billing-software", "tax-software-small-business",
   ],
   // Commerce & infrastructure cluster
   [
     "ecommerce-platform", "web-hosting-small-business",
-    "cloud-storage-business", "appointment-scheduling-software",
+    "managed-wordpress-hosting", "cloud-storage-business",
+    "appointment-scheduling-software", "headless-cms",
+    "inventory-management-software", "payment-gateways",
+    "shopify-apps-conversion",
   ],
 ];
 
