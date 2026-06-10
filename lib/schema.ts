@@ -33,7 +33,27 @@ export function organizationJsonLd() {
     name: SITE_NAME,
     alternateName: ["TopElevens", "topelevens.com", "Top11"],
     url: SITE_URL,
-    logo: { "@type": "ImageObject", url: `${SITE_URL}/logo.png` },
+    logo: {
+      "@type": "ImageObject",
+      "@id": `${SITE_URL}/#logo`,
+      url: `${SITE_URL}/logo.png`,
+      contentUrl: `${SITE_URL}/logo.png`,
+      name: "Top 11 logo",
+      caption: "Top 11 - AI-curated rankings for every niche",
+      creditText: "Top 11",
+    },
+    image: {
+      "@type": "ImageObject",
+      "@id": `${SITE_URL}/opengraph-image#image`,
+      url: `${SITE_URL}/opengraph-image`,
+      contentUrl: `${SITE_URL}/opengraph-image`,
+      name: "Top 11 - AI-curated rankings, refreshed continuously",
+      caption: "Top 11 ranks the best 11 in any niche using AI. No paid placement. Always updating.",
+      creditText: "Top 11",
+      encodingFormat: "image/png",
+      width: { "@type": "QuantitativeValue", value: 1200 },
+      height: { "@type": "QuantitativeValue", value: 630 },
+    },
     email: SITE_EMAIL,
     foundingDate: "2026",
     founder: { "@id": FOUNDER_ID },
@@ -95,6 +115,14 @@ export function personJsonLd() {
     worksFor: { "@id": ORG_ID },
     description:
       "Hayat Amin is the founder of Top 11. Three exits, repeated FT Fastest-Growing listings, and a Techstars Lead Mentor — he builds AI-native ranking systems used by other AI agents.",
+    image: {
+      "@type": "ImageObject",
+      url: "https://raw.githubusercontent.com/horror5how/instagram-autopilot/main/assets/hayat-amin.jpg",
+      contentUrl: "https://raw.githubusercontent.com/horror5how/instagram-autopilot/main/assets/hayat-amin.jpg",
+      name: "Hayat Amin - Founder of Top 11",
+      caption: "Hayat Amin, founder of Top 11 and fractional CFO with three exits",
+      creditText: "Hayat Amin",
+    },
     sameAs: [
       SOCIAL_X.replace("topelevens", "hayatamin"),
       "https://www.linkedin.com/in/hayatamin",
@@ -122,12 +150,24 @@ function entryNode(list: ListData, e: Entry) {
   const isWild = "is_wildcard" in e && (e as { is_wildcard?: boolean }).is_wildcard;
   const risk = (e as { risk_signals?: RiskSignals }).risk_signals;
   const entryId = `${SITE_URL}/${list.slug}#rank-${e.rank}`;
+  const entryDomain = (() => { try { return new URL(e.url).hostname; } catch { return ""; } })();
   return {
     "@type": ["ProfessionalService", "Service"],
     "@id": entryId,
     name: e.name,
     url: e.url,
     description: e.verdict,
+    ...(entryDomain ? {
+      image: {
+        "@type": "ImageObject",
+        "@id": `${entryId}-logo`,
+        url: `https://www.google.com/s2/favicons?domain=${entryDomain}&sz=128`,
+        contentUrl: `https://www.google.com/s2/favicons?domain=${entryDomain}&sz=128`,
+        name: `${e.name} logo`,
+        caption: `${e.name} - ranked #${e.rank} in ${list.title} by Top 11`,
+        creditText: e.name,
+      },
+    } : {}),
     serviceType: list.vertical,
     priceRange: priceSymbol(e.pricing_band),
     ...(e.hq ? { areaServed: { "@type": "Place", name: e.hq } } : {}),
@@ -210,6 +250,18 @@ export function listJsonLd(d: ListData = data) {
         name: c.name,
         description: `${c.description} (weight: ${c.weight}%)`,
       })),
+    },
+    primaryImageOfPage: {
+      "@type": "ImageObject",
+      "@id": `${pageId}/opengraph-image#image`,
+      url: `${SITE_URL}/${d.slug}/opengraph-image`,
+      contentUrl: `${SITE_URL}/${d.slug}/opengraph-image`,
+      name: d.title,
+      caption: d.subtitle,
+      creditText: "Top 11",
+      encodingFormat: "image/png",
+      width: { "@type": "QuantitativeValue", value: 1200 },
+      height: { "@type": "QuantitativeValue", value: 630 },
     },
     mainEntity: {
       "@type": "ItemList",

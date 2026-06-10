@@ -14,7 +14,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const siteMod = newest ? new Date(newest) : new Date();
 
   const pages: MetadataRoute.Sitemap = [
-    { url: `${SITE_URL}/`, lastModified: siteMod, changeFrequency: "weekly", priority: 1.0 },
+    { url: `${SITE_URL}/`, lastModified: siteMod, changeFrequency: "weekly", priority: 1.0, images: [`${SITE_URL}/opengraph-image`] },
     { url: `${SITE_URL}/directory`, lastModified: siteMod, changeFrequency: "daily", priority: 0.9 },
     { url: `${SITE_URL}/methodology`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 },
     { url: `${SITE_URL}/for-agents`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.8 },
@@ -32,7 +32,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
   for (const slug of slugs) {
     const l = getList(slug);
     const mod = l ? new Date(l.last_verified) : siteMod;
-    pages.push({ url: `${SITE_URL}/${slug}`, lastModified: mod, changeFrequency: "monthly", priority: 0.9 });
+    pages.push({
+      url: `${SITE_URL}/${slug}`,
+      lastModified: mod,
+      changeFrequency: "monthly",
+      priority: 0.9,
+      images: [`${SITE_URL}/${slug}/opengraph-image`],
+    });
     pages.push({ url: `${SITE_URL}/api/lists/${slug}`, lastModified: mod, changeFrequency: "monthly", priority: 0.6 });
   }
 
