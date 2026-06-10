@@ -1,0 +1,831 @@
+{
+  "slug": "managed-wordpress-hosting",
+  "title": "The 11 Best Managed WordPress Hosting",
+  "subtitle": "A ranked list of top-tier hosting providers specializing in performance, security, and support for business-critical WordPress sites.",
+  "vertical": "Web · Hosting",
+  "audience": "Businesses running WordPress sites",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-10",
+  "last_verified": "2026-06-10",
+  "next_review": "2026-09-08",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Web Hosting",
+  "subsector": "Managed WordPress Hosting",
+  "changelog": [
+    {
+      "date": "2026-06-10",
+      "text": "Initial publication. Methodology v1.0 weights Performance (30%), Security (25%), Support (20%), Developer Tools (15%), and Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best managed WordPress hosting provider is WP Engine for its comprehensive enterprise platform, followed closely by Kinsta for its high-performance infrastructure and Flywheel for its agency-focused workflow tools.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-10",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Performance & Speed",
+        "weight": 30,
+        "description": "Evaluates server architecture (e.g., Nginx, Google Cloud C2), proprietary caching, CDN integration, and PHP version support."
+      },
+      {
+        "name": "Security & Backups",
+        "weight": 25,
+        "description": "Assesses proactive security measures like WAF, malware scanning, free SSL certificates, automated daily backups, and free hack fixes."
+      },
+      {
+        "name": "Expert Support",
+        "weight": 20,
+        "description": "Scores the quality, availability (24/7), and WordPress-specific expertise of the support team via chat, phone, and tickets."
+      },
+      {
+        "name": "Developer & Agency Tools",
+        "weight": 15,
+        "description": "Measures features that streamline workflows, such as one-click staging environments, Git integration, SSH access, and collaboration tools."
+      },
+      {
+        "name": "Scalability & Uptime",
+        "weight": 10,
+        "description": "Rates the platform's ability to handle traffic spikes, uptime guarantees (SLA), and the ease of scaling resources up or down."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMB",
+    "Enterprise",
+    "Agency",
+    "E-commerce",
+    "High-Traffic Blogs"
+  ],
+  "problem_tags": [
+    "slow website",
+    "website security",
+    "poor hosting support",
+    "website downtime",
+    "scaling issues"
+  ],
+  "query_intents": [
+    "best managed wordpress hosting",
+    "wp engine vs kinsta",
+    "fastest wordpress hosting",
+    "secure wordpress hosting",
+    "wordpress hosting for agencies"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "enterprise security",
+        "high-traffic scaling",
+        "developer workflow"
+      ],
+      "personas": [
+        "Enterprise IT",
+        "Marketing Teams",
+        "Development Agencies"
+      ]
+    },
+    "2": {
+      "solves": [
+        "performance bottlenecks",
+        "global content delivery",
+        "resource monitoring"
+      ],
+      "personas": [
+        "Performance-focused businesses",
+        "Developers",
+        "Global companies"
+      ]
+    },
+    "3": {
+      "solves": [
+        "agency client management",
+        "designer workflow",
+        "billing transfer"
+      ],
+      "personas": [
+        "Freelance Designers",
+        "Creative Agencies",
+        "Web Developers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What to look for in a Managed WordPress Host?",
+      "a": "Focus on four key areas: Performance (server stack, CDN), Security (proactive monitoring, free SSL, backups), Support (24/7 WordPress experts), and Workflow Tools (staging sites, Git integration). Your choice depends on which of these is most critical for your business."
+    }
+  ],
+  "how_to_choose": [
+    "First, assess your traffic and technical needs. A high-traffic e-commerce site has different requirements than a corporate brochure site.",
+    "Second, evaluate your team's technical skill. If you lack in-house expertise, prioritize providers with exceptional, hands-on support.",
+    "Finally, compare pricing models carefully. Look beyond the monthly fee to understand overage charges for visits, storage, and CDN bandwidth."
+  ],
+  "faqs": [
+    {
+      "q": "What is managed WordPress hosting?",
+      "a": "Managed WordPress hosting is a premium service where the hosting provider handles all technical aspects of running WordPress. This includes security, speed, updates, daily backups, and scalability, allowing you to focus on creating content and growing your business."
+    },
+    {
+      "q": "Is managed WordPress hosting worth the cost?",
+      "a": "For businesses, high-traffic blogs, and agencies, it is generally worth the cost. The price includes expert support, enhanced security, and superior performance that can prevent costly downtime, security breaches, and slow load times, ultimately protecting revenue and reputation."
+    },
+    {
+      "q": "How is managed hosting different from shared hosting?",
+      "a": "Shared hosting places your site on a server with hundreds of others, sharing resources, which can lead to slower performance and security risks. Managed hosting provides a fine-tuned environment specifically for WordPress, with dedicated resources, proactive security, and expert support, offering significantly better performance and reliability."
+    },
+    {
+      "q": "Can I move my existing WordPress site to a managed host?",
+      "a": "Yes, absolutely. All top managed WordPress hosts offer free, expert migration services. They will handle the entire process of moving your site from your old host to their platform with minimal to no downtime."
+    },
+    {
+      "q": "Who is the fastest managed WordPress host?",
+      "a": "Performance varies based on many factors, but providers like Kinsta, Rocket.net, and WP Engine consistently rank at the top in independent speed tests due to their use of premium infrastructure like Google Cloud C2/C3 instances, server-level caching, and integrated CDNs like Cloudflare Enterprise."
+    }
+  ],
+  "honest_disclosures": [
+    "This list focuses on premium providers; more budget-friendly options exist with fewer features.",
+    "Many top-tier providers are US-based, though all offer global data centers.",
+    "Pricing can be complex and may include overage charges for traffic or storage. Always check the terms."
+  ],
+  "glossary": {
+    "term": "CDN (Content Delivery Network)",
+    "definition": "A geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end-users.",
+    "synonyms": [
+      "Content Distribution Network"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "WP Engine",
+      "url": "https://wpengine.com/",
+      "founded": 2010,
+      "hq": "Austin, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Businesses and enterprises seeking a comprehensive, secure, and highly scalable platform with best-in-class developer tools and support.",
+      "best_for_short": "Enterprise-grade platform and tools",
+      "pricing_band": "$$ ($20 to $1000+/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Performance & Speed": 9.3,
+        "Security & Backups": 9.4,
+        "Expert Support": 9.2,
+        "Developer & Agency Tools": 9.3,
+        "Scalability & Uptime": 9.1
+      },
+      "verdict": "WP Engine earns the top rank for its unmatched combination of enterprise-grade security, powerful developer workflows, and scalable infrastructure, making it the definitive choice for mission-critical WordPress sites.",
+      "verdict_short": "The market leader for its robust platform, security, and comprehensive developer tools.",
+      "praise": "Its suite of developer tools, including Local, Genesis Framework, and advanced deployment options, is unparalleled in the industry.",
+      "praise_short": "Unmatched suite of developer tools.",
+      "criticism": "The pricing structure can be complex, with overage charges for visits and bandwidth that can lead to unpredictable costs for fast-growing sites.",
+      "criticism_short": "Complex pricing with overage charges.",
+      "sources_pending": [
+        "WP Engine Documentation",
+        "G2 Reviews",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Cloudflare",
+        "Google Cloud",
+        "AWS",
+        "New Relic",
+        "Git",
+        "SFTP"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "South America",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Kinsta",
+      "url": "https://kinsta.com/",
+      "founded": 2013,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "201-500",
+      "best_for": "Performance-obsessed businesses that demand raw speed, leveraging Google Cloud's fastest servers and a user-friendly custom dashboard.",
+      "best_for_short": "Top-tier performance on Google Cloud",
+      "pricing_band": "$$ ($35 to $1650+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Performance & Speed": 9.4,
+        "Security & Backups": 9.2,
+        "Expert Support": 9.3,
+        "Developer & Agency Tools": 8.8,
+        "Scalability & Uptime": 9.1
+      },
+      "verdict": "Kinsta secures the second spot by offering arguably the fastest performance in the market, built exclusively on Google Cloud Platform's premium tier network and C2/C3D VMs, backed by exceptional expert support.",
+      "verdict_short": "Blazing-fast performance powered by Google's best infrastructure and stellar support.",
+      "praise": "The custom-built MyKinsta dashboard is intuitive and powerful, providing excellent tools for site management and performance monitoring.",
+      "praise_short": "Excellent custom dashboard (MyKinsta).",
+      "criticism": "It is one of the more expensive options, and its strict caps on monthly visits can be challenging for sites with unpredictable traffic patterns.",
+      "criticism_short": "Expensive with strict visit limits.",
+      "sources_pending": [
+        "Kinsta Knowledge Base",
+        "G2 Reviews",
+        "CodeinWP Hosting Surveys"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 35,
+      "price_max": 1650,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Cloud Platform",
+        "Cloudflare",
+        "New Relic",
+        "Git",
+        "WP-CLI"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global (35+ Google Cloud locations)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Flywheel",
+      "url": "https://getflywheel.com/",
+      "founded": 2012,
+      "hq": "Omaha, USA",
+      "team_size_band": "201-500",
+      "best_for": "Designers, freelancers, and creative agencies who value a beautiful user interface and seamless collaboration tools for managing client sites.",
+      "best_for_short": "Agencies and freelance designers",
+      "pricing_band": "$$ ($25 to $300+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Performance & Speed": 8.8,
+        "Security & Backups": 9,
+        "Expert Support": 9.1,
+        "Developer & Agency Tools": 9.5,
+        "Scalability & Uptime": 8.5
+      },
+      "verdict": "Flywheel stands out for its laser focus on the creative community, offering an elegant platform with best-in-class workflow tools like client billing transfer, collaboration access, and beautiful site templates.",
+      "verdict_short": "The best choice for agencies and designers due to its superb workflow and collaboration tools.",
+      "praise": "The platform's user experience is second to none, making complex tasks like staging, cloning, and transferring sites incredibly simple and intuitive.",
+      "praise_short": "Superb user experience and workflow.",
+      "criticism": "While built on solid infrastructure (Google Cloud), it may not offer the same level of raw performance tuning or advanced developer features as WP Engine or Kinsta.",
+      "criticism_short": "Less focused on raw performance tuning.",
+      "sources_pending": [
+        "Flywheel Help Docs",
+        "G2 Reviews",
+        "Awwwards Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "Acquired by WP Engine in 2019, but operates as a distinct brand. No negative signals.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Cloud Platform",
+        "Local",
+        "Stripe",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Pagely",
+      "url": "https://pagely.com/",
+      "founded": 2009,
+      "hq": "Tucson, USA",
+      "team_size_band": "51-200",
+      "best_for": "Large-scale enterprises and media companies that require maximum performance, security, and scalability built on Amazon Web Services (AWS).",
+      "best_for_short": "Enterprise hosting on AWS",
+      "pricing_band": "$$$$ ($499 to $2500+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Performance & Speed": 9.2,
+        "Security & Backups": 9.3,
+        "Expert Support": 8.9,
+        "Developer & Agency Tools": 8,
+        "Scalability & Uptime": 9.4
+      },
+      "verdict": "As the original managed WordPress host, Pagely excels at serving the high-stakes enterprise market with a hyper-scalable and secure architecture running entirely on AWS, tailored for demanding, high-availability websites.",
+      "verdict_short": "The pioneer in the space, offering premium, scalable AWS-based hosting for enterprise clients.",
+      "praise": "Its deep integration with AWS provides unparalleled scalability and reliability for handling massive, unpredictable traffic surges.",
+      "praise_short": "Unmatched scalability on AWS.",
+      "criticism": "The high starting price point and focus on enterprise clients make it inaccessible for small to medium-sized businesses or individual users.",
+      "criticism_short": "Very expensive; enterprise-only focus.",
+      "sources_pending": [
+        "Pagely Support Docs",
+        "G2 Reviews",
+        "Forrester Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "Acquired by GoDaddy in 2021, but maintains its premium brand and infrastructure. No negative signals.",
+        "signals": []
+      },
+      "price_min": 499,
+      "price_max": 2500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Web Services (AWS)",
+        "Git",
+        "New Relic",
+        "SSH",
+        "WP-CLI"
+      ],
+      "compliance": [
+        "HIPAA",
+        "PCI",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (All AWS regions)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Rocket.net",
+      "url": "https://rocket.net/",
+      "founded": 2020,
+      "hq": "West Palm Beach, USA",
+      "team_size_band": "11-50",
+      "best_for": "Businesses of all sizes looking for an all-in-one solution that prioritizes edge-caching speed via a full Cloudflare Enterprise integration.",
+      "best_for_short": "Speed via Cloudflare Enterprise",
+      "pricing_band": "$$ ($30 to $200/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Performance & Speed": 9.5,
+        "Security & Backups": 8.8,
+        "Expert Support": 8.5,
+        "Developer & Agency Tools": 7.5,
+        "Scalability & Uptime": 8.8
+      },
+      "verdict": "Rocket.net carves out a top-five spot by building its entire platform around a full Cloudflare Enterprise integration, delivering exceptional global performance and security directly from the edge for every site.",
+      "verdict_short": "Delivers incredible speed and security by including Cloudflare Enterprise on all plans.",
+      "praise": "The inclusion of Cloudflare Enterprise features, like Argo Smart Routing and a full WAF, on every plan provides immense value and measurable speed gains.",
+      "praise_short": "Cloudflare Enterprise included for everyone.",
+      "criticism": "As a newer player, its platform and toolset are less mature than established leaders like WP Engine, lacking some advanced developer features.",
+      "criticism_short": "Platform and toolset are less mature.",
+      "sources_pending": [
+        "Rocket.net Blog",
+        "Trustpilot Reviews",
+        "Third-party speed tests"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Cloudflare Enterprise",
+        "Imunify360",
+        "LiteSpeed"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (Cloudflare Edge Network)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Pressable",
+      "url": "https://pressable.com/",
+      "founded": 2010,
+      "hq": "San Antonio, USA",
+      "team_size_band": "51-200",
+      "best_for": "Businesses and agencies that want the reliability and performance that comes from being owned by Automattic, the company behind WordPress.com.",
+      "best_for_short": "Automattic-backed reliability",
+      "pricing_band": "$$ ($25 to $975+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Performance & Speed": 8.7,
+        "Security & Backups": 8.5,
+        "Expert Support": 8.6,
+        "Developer & Agency Tools": 7.9,
+        "Scalability & Uptime": 8.5
+      },
+      "verdict": "Pressable offers a highly reliable and performant hosting solution, leveraging the same robust infrastructure that powers WordPress.com and benefiting from the deep WordPress expertise of its parent company, Automattic.",
+      "verdict_short": "A solid, reliable choice with the powerful backing and expertise of Automattic.",
+      "praise": "The platform includes valuable premium plugins like Jetpack Security Daily and Titan Pro on most plans, adding significant security and performance features.",
+      "praise_short": "Includes valuable premium plugins.",
+      "criticism": "The user dashboard, while functional, feels less modern and intuitive compared to the custom-built interfaces of Kinsta or Flywheel.",
+      "criticism_short": "User interface feels somewhat dated.",
+      "sources_pending": [
+        "Pressable Knowledge Base",
+        "G2 Reviews",
+        "HostingFacts Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "Owned by Automattic, a highly stable and reputable parent company. No negative signals.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 975,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Jetpack",
+        "Cloudflare",
+        "Git",
+        "WP-CLI"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Cloudways",
+      "url": "https://www.cloudways.com/",
+      "founded": 2011,
+      "hq": "Mosta, Malta",
+      "team_size_band": "201-500",
+      "best_for": "Developers and technically-savvy users who want the flexibility to choose their cloud provider (like AWS or Google Cloud) with a managed layer on top.",
+      "best_for_short": "Flexible choice of cloud providers",
+      "pricing_band": "$ ($14 to $1000+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Performance & Speed": 8.5,
+        "Security & Backups": 7.8,
+        "Expert Support": 7.9,
+        "Developer & Agency Tools": 8.9,
+        "Scalability & Uptime": 8.3
+      },
+      "verdict": "Cloudways offers a unique and powerful model, providing a management platform on top of your choice of IaaS providers like DigitalOcean, AWS, and Google Cloud, giving developers ultimate flexibility and control at a competitive price.",
+      "verdict_short": "A flexible platform for developers to manage sites on top-tier cloud infrastructure.",
+      "praise": "The pay-as-you-go pricing and choice of five underlying cloud providers offer unparalleled flexibility and cost-effectiveness for experienced users.",
+      "praise_short": "Unmatched flexibility and pricing control.",
+      "criticism": "Support is less specialized in WordPress compared to competitors, and tasks like email hosting are not included, requiring third-party solutions.",
+      "criticism_short": "Less WordPress-specialized support.",
+      "sources_pending": [
+        "Cloudways Documentation",
+        "G2 Reviews",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "Acquired by DigitalOcean in 2022. No negative signals.",
+        "signals": []
+      },
+      "price_min": 14,
+      "price_max": 1035,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "DigitalOcean",
+        "AWS",
+        "Google Cloud",
+        "Vultr",
+        "Linode",
+        "Git",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (65+ locations via partners)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Nexcess",
+      "url": "https://www.nexcess.net/",
+      "founded": 2000,
+      "hq": "Southfield, USA",
+      "team_size_band": "201-500",
+      "best_for": "E-commerce and content-heavy sites, particularly those using WooCommerce, that benefit from a feature-rich platform and performance optimizations.",
+      "best_for_short": "WooCommerce and content sites",
+      "pricing_band": "$ ($21 to $1000+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Performance & Speed": 8.2,
+        "Security & Backups": 8,
+        "Expert Support": 8.1,
+        "Developer & Agency Tools": 7.8,
+        "Scalability & Uptime": 8
+      },
+      "verdict": "Nexcess, part of the Liquid Web family, provides a robust and feature-packed hosting environment particularly well-suited for WooCommerce stores, thanks to its built-in performance tools and e-commerce expertise.",
+      "verdict_short": "A feature-rich host that excels at supporting WooCommerce and membership sites.",
+      "praise": "Features like Plugin Performance Monitor and sales performance insights provide unique, tangible value for store owners.",
+      "praise_short": "Excellent built-in e-commerce tools.",
+      "criticism": "The platform can feel complex for beginners, and the sheer number of features and settings may be overwhelming for simple websites.",
+      "criticism_short": "Platform can be complex for beginners.",
+      "sources_pending": [
+        "Nexcess Knowledge Base",
+        "G2 Reviews",
+        "WooCommerce Community"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "Part of the established Liquid Web family of brands. No negative signals.",
+        "signals": []
+      },
+      "price_min": 21,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WooCommerce",
+        "iThemes",
+        "Cloudflare",
+        "Object Cache Pro"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "SiteGround",
+      "url": "https://www.siteground.com/",
+      "founded": 2004,
+      "hq": "Sofia, Bulgaria",
+      "team_size_band": "501-1000",
+      "best_for": "Small businesses and startups looking for an affordable entry point into managed hosting with a good balance of features, performance, and support.",
+      "best_for_short": "Affordable managed hosting entry",
+      "pricing_band": "$ ($18 to $100/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Performance & Speed": 8,
+        "Security & Backups": 7.8,
+        "Expert Support": 7.9,
+        "Developer & Agency Tools": 7.5,
+        "Scalability & Uptime": 7.7
+      },
+      "verdict": "SiteGround offers a compelling bridge between standard shared hosting and premium managed WordPress hosting, providing solid performance on Google Cloud infrastructure and a strong feature set at a very competitive price point.",
+      "verdict_short": "A cost-effective managed solution with great features for small to medium businesses.",
+      "praise": "Their custom Site Tools control panel is modern, fast, and much more user-friendly than the traditional cPanel offered by many competitors in this price range.",
+      "praise_short": "Excellent custom Site Tools panel.",
+      "criticism": "Renewal prices are significantly higher than the introductory rates, and resource limits on lower-tier plans are stricter than premium competitors.",
+      "criticism_short": "High renewal prices and strict limits.",
+      "sources_pending": [
+        "SiteGround Knowledge Base",
+        "Trustpilot Reviews",
+        "Official WordPress.org Hosting Page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 18,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Cloud Platform",
+        "Cloudflare",
+        "Let's Encrypt",
+        "Git"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "WPX",
+      "url": "https://wpx.net/",
+      "founded": 2013,
+      "hq": "Sofia, Bulgaria",
+      "team_size_band": "51-200",
+      "best_for": "Bloggers and small business owners who prioritize fast page load times and extremely responsive customer support above all else.",
+      "best_for_short": "Speed and fast support",
+      "pricing_band": "$ ($25 to $100/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Performance & Speed": 8.3,
+        "Security & Backups": 7.5,
+        "Expert Support": 8.5,
+        "Developer & Agency Tools": 6,
+        "Scalability & Uptime": 7.5
+      },
+      "verdict": "WPX has built a loyal following by focusing intensely on two things: delivering very fast websites via its custom CDN (XDN) and providing industry-leading support with an average live chat response time of under 30 seconds.",
+      "verdict_short": "A great option for those prioritizing raw speed and lightning-fast support.",
+      "praise": "Their commitment to rapid-response support is a major differentiator, consistently earning praise from customers who need immediate assistance.",
+      "praise_short": "Exceptionally fast and helpful support.",
+      "criticism": "The platform lacks many of the advanced developer and agency tools, such as Git integration or sophisticated user roles, found in higher-ranked providers.",
+      "criticism_short": "Lacks advanced developer tools.",
+      "sources_pending": [
+        "WPX Blog",
+        "Trustpilot Reviews",
+        "Matthew Woodward's Speed Tests"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Staging Areas",
+        "Free Migrations"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Pantheon",
+      "url": "https://pantheon.io/",
+      "founded": 2010,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large development teams and enterprises that need a sophisticated WebOps platform with automated, container-based workflows for both WordPress and Drupal.",
+      "best_for_short": "Enterprise WebOps platform",
+      "pricing_band": "$$$ ($41 to $10000+/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Performance & Speed": 7.9,
+        "Security & Backups": 7.5,
+        "Expert Support": 7,
+        "Developer & Agency Tools": 9,
+        "Scalability & Uptime": 7.2
+      },
+      "verdict": "Our wildcard pick, Pantheon, is less a traditional host and more a WebOps platform, offering a powerful, container-based architecture with first-class automation and dev-test-live workflows that are ideal for large, structured development teams.",
+      "verdict_short": "A powerful WebOps platform for enterprises with structured dev-test-live workflows.",
+      "praise": "Its automated, git-based workflow for deploying changes from development to testing to live environments is incredibly robust and a game-changer for team collaboration.",
+      "praise_short": "Best-in-class automated deployment workflows.",
+      "criticism": "The platform's complexity and developer-centric approach can be daunting for non-technical users, and its pricing can become very high for large-scale sites.",
+      "criticism_short": "Complex and can be very expensive.",
+      "sources_pending": [
+        "Pantheon Documentation",
+        "G2 Reviews",
+        "Forrester Wave Reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-10",
+        "summary": "No material public risk signals as of 2026-06-10.",
+        "signals": []
+      },
+      "price_min": 41,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Drupal",
+        "Git",
+        "New Relic",
+        "CircleCI",
+        "Composer"
+      ],
+      "compliance": [
+        "SOC 2",
+        "FedRAMP"
+      ],
+      "regions": [
+        "USA",
+        "Europe",
+        "Australia",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 2,
+      "max_team_size": null
+    }
+  ]
+}

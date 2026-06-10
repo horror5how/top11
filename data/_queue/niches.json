@@ -296,22 +296,6 @@
       "priority": 3
     },
     {
-      "slug": "password-managers-business",
-      "title": "The 11 Best Business Password Managers",
-      "vertical": "Security · IAM",
-      "audience": "Teams managing shared credentials",
-      "candidate_pool_size": 20,
-      "priority": 2
-    },
-    {
-      "slug": "managed-wordpress-hosting",
-      "title": "The 11 Best Managed WordPress Hosting",
-      "vertical": "Web · Hosting",
-      "audience": "Businesses running WordPress sites",
-      "candidate_pool_size": 30,
-      "priority": 2
-    },
-    {
       "slug": "ecommerce-platforms",
       "title": "The 11 Best Ecommerce Platforms",
       "vertical": "Ecommerce · Platforms",
@@ -421,7 +405,9 @@
     "seo-rank-trackers",
     "online-course-platforms",
     "property-management-software",
-    "vpn-for-business"
+    "vpn-for-business",
+    "password-managers-business",
+    "managed-wordpress-hosting"
   ],
   "skipped": []
 }
