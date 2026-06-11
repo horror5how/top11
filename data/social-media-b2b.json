@@ -1,0 +1,802 @@
+{
+  "slug": "social-media-b2b",
+  "title": "The 11 Best Social Media Tools for B2B",
+  "subtitle": "A ranked list of platforms for scheduling, analyzing, and engaging with B2B audiences on social media, with a heavy focus on LinkedIn integration and sales pipeline analytics.",
+  "vertical": "Marketing · Social",
+  "audience": "B2B marketers scheduling and analyzing social",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Social Media Management",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights LinkedIn Integration (30%), Analytics & Reporting (25%), Team Collaboration (20%), CRM Integration (15%), and Value for Money (10%)."
+    }
+  ],
+  "answer_capsule": "The best social media tool for B2B is HubSpot for its all-in-one CRM integration, followed by Sprout Social for enterprise-grade analytics and Agorapulse for streamlined team collaboration.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 30,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "LinkedIn Integration & Features",
+        "weight": 30,
+        "description": "Depth of integration with LinkedIn, including Company Page management, lead gen form integration, employee advocacy, and personal profile analytics."
+      },
+      {
+        "name": "Analytics & Reporting",
+        "weight": 25,
+        "description": "Ability to track ROI, attribute leads to social activity, generate custom reports, and conduct competitor analysis. Focus on conversion-related metrics."
+      },
+      {
+        "name": "Team Collaboration & Workflow",
+        "weight": 20,
+        "description": "Features for multi-user teams, such as approval workflows, task assignment, content calendars, and role-based permissions."
+      },
+      {
+        "name": "CRM & Martech Integration",
+        "weight": 15,
+        "description": "Native or deep integration with key B2B systems like Salesforce, HubSpot, Marketo, and Slack to connect social data with customer records."
+      },
+      {
+        "name": "Value for Money",
+        "weight": 10,
+        "description": "Pricing relative to the feature set, user limits, and profile limits, particularly for typical B2B marketing team sizes of 2-10 people."
+      }
+    ]
+  },
+  "segment_tags": [
+    "B2B Marketing",
+    "Social Media Management",
+    "Lead Generation",
+    "Marketing Analytics",
+    "Content Marketing"
+  ],
+  "problem_tags": [
+    "Social Media ROI",
+    "Content Scheduling",
+    "Brand Monitoring",
+    "Team Workflows",
+    "Lead Attribution"
+  ],
+  "query_intents": [
+    "best b2b social media tools",
+    "linkedin scheduling tool",
+    "social media analytics for b2b",
+    "sprout social vs hubspot b2b",
+    "b2b employee advocacy platform"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Connecting social media to sales",
+        "Unified marketing platform",
+        "Lead nurturing"
+      ],
+      "personas": [
+        "Marketing Manager (in-house)",
+        "Demand Generation Specialist"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Enterprise-scale social analytics",
+        "Social listening",
+        "Brand reputation management"
+      ],
+      "personas": [
+        "Social Media Director (Enterprise)",
+        "Corporate Communications"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Team workflow management",
+        "Unified social inbox",
+        "Client reporting"
+      ],
+      "personas": [
+        "Agency Account Manager",
+        "Small Business Marketing Team"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 30,
+    "ranked": 11,
+    "average_score": 8.41,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What makes a social media tool 'good for B2B'?",
+      "a": "A strong B2B social media tool excels in three areas most B2C tools don't. First, it has deep integration with LinkedIn, including company page features and employee advocacy. Second, its analytics can connect social activity to tangible business outcomes like leads, MQLs, and sales pipeline. Third, it integrates cleanly with your CRM (like Salesforce or HubSpot) to provide a full view of a prospect's journey."
+    },
+    {
+      "q": "Should I choose an all-in-one platform or a best-of-breed tool?",
+      "a": "Choose an all-in-one platform like HubSpot if your goal is to integrate social media tightly with your broader marketing and sales efforts within a single system. Opt for a best-of-breed tool like Sprout Social or Oktopost if you need superior, specialized features for social analytics, listening, or employee advocacy that an all-in-one platform may not offer at the same depth."
+    }
+  ],
+  "how_to_choose": [
+    "First, audit your primary social channel. If over 75% of your effort and results come from LinkedIn, prioritize tools built specifically for it, like Oktopost, or those with exceptional LinkedIn features.",
+    "Next, map your approval workflow. Identify how many people need to draft, review, and approve posts. Choose a tool like Agorapulse or Sprout Social that has user roles and permissions that match your process to avoid bottlenecks.",
+    "Finally, define your key metric for success. If it's lead generation, you need a tool with strong CRM integration and conversion tracking. If it's brand awareness, prioritize tools with advanced social listening and share-of-voice analytics."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best social media platform for B2B marketing?",
+      "a": "LinkedIn is overwhelmingly the best social media platform for B2B marketing. Its professional context, user demographics, and ad targeting capabilities make it the most effective channel for reaching decision-makers, generating leads, and building industry authority. While Twitter (X) and Facebook have a role, over 80% of B2B leads from social media come from LinkedIn."
+    },
+    {
+      "q": "How do I measure ROI from B2B social media?",
+      "a": "You measure B2B social media ROI by tracking conversions, not just engagement. Use UTM parameters in all links to track website traffic from social channels in Google Analytics. Integrate your social media tool with your CRM to attribute leads and pipeline revenue directly to specific social campaigns. The key formula is (Revenue from Social - Investment) / Investment."
+    },
+    {
+      "q": "Is an employee advocacy feature necessary for B2B?",
+      "a": "An employee advocacy feature is highly valuable but not strictly necessary for all B2B companies. It is most impactful for companies with 50+ employees in expert roles (e.g., consultants, engineers, sales reps) whose personal networks are a key source of leads and credibility. For smaller teams, manual encouragement can suffice initially."
+    },
+    {
+      "q": "Is a free social media tool good enough for a B2B company?",
+      "a": "A free social media tool is generally not sufficient for a serious B2B company. Free plans typically lack the essential B2B features like advanced analytics, ROI tracking, team collaboration workflows, and CRM integrations needed to prove business value and operate efficiently. They are best used for initial experimentation only."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes tools with strong LinkedIn capabilities, as it is the dominant B2B social network. Platforms focused primarily on visual media like Instagram or Pinterest are ranked lower or excluded.",
+    "The ranking favors platforms with clear ROI tracking and CRM integration, which may disadvantage tools that are strong on content creation but weaker on performance analytics."
+  ],
+  "glossary": {
+    "term": "Employee Advocacy",
+    "definition": "The promotion of a company by the people who work for it. In B2B social media, this involves providing employees with pre-approved content to share on their personal social networks, primarily LinkedIn, to extend the company's reach and credibility.",
+    "synonyms": [
+      "Employee amplification",
+      "Social selling"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "HubSpot Marketing Hub",
+      "url": "https://www.hubspot.com/products/marketing/social-media-software",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "5000+",
+      "best_for": "B2B companies already using or planning to use the HubSpot CRM, who want to tie social media activity directly to leads and customer data.",
+      "best_for_short": "Integrating social into the CRM",
+      "pricing_band": "$$$ ($800 to $3,600/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 8.8,
+        "Analytics & Reporting": 9.2,
+        "Team Collaboration & Workflow": 9,
+        "CRM & Martech Integration": 9.9,
+        "Value for Money": 8.5
+      },
+      "verdict": "HubSpot is the best B2B social media tool because its native integration with its own market-leading CRM provides an unmatched ability to track a contact's journey from first social click to closed deal.",
+      "verdict_short": "Unbeatable for tying social activity directly to CRM records, leads, and revenue.",
+      "praise": "The platform's key strength is its campaign-level reporting, which can attribute revenue directly back to specific social media campaigns with just a few clicks inside the CRM.",
+      "praise_short": "Directly attributes revenue to social campaigns in the CRM.",
+      "criticism": "As a standalone social tool, it lacks the depth of competitors like Sprout Social, particularly in advanced social listening and competitor analysis features.",
+      "criticism_short": "Social listening and competitor analysis are basic.",
+      "sources_pending": [
+        "HubSpot Pricing Page",
+        "G2 HubSpot Marketing Hub Reviews",
+        "HubSpot Social Media Tools Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 800,
+      "price_max": 3600,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 3000,
+      "integrations": [
+        "HubSpot CRM",
+        "Salesforce",
+        "Slack",
+        "Google Calendar",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Sprout Social",
+      "url": "https://www.sproutsocial.com",
+      "founded": 2010,
+      "hq": "Chicago, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Mid-market and enterprise B2B teams that require best-in-class analytics, social listening, and reporting capabilities for multiple brands or departments.",
+      "best_for_short": "Enterprise-grade analytics and listening",
+      "pricing_band": "$$$$ ($249 to $499+/user/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 9.2,
+        "Analytics & Reporting": 9.8,
+        "Team Collaboration & Workflow": 9.5,
+        "CRM & Martech Integration": 8.5,
+        "Value for Money": 7
+      },
+      "verdict": "Sprout Social earns its rank with the most powerful social analytics and listening engine on the market, making it ideal for B2B brands focused on data-driven strategy and competitor monitoring.",
+      "verdict_short": "The best tool for deep social analytics, reporting, and brand listening.",
+      "praise": "Its Premium Analytics suite offers over 250 metrics and customizable report builders that are superior to any other platform for proving social media's value to leadership.",
+      "praise_short": "Offers unmatched analytics with over 250 metrics.",
+      "criticism": "The per-user pricing model becomes very expensive quickly, and key features like the Salesforce integration require the Professional plan ($399/user/mo) or higher.",
+      "criticism_short": "Per-user pricing is expensive for growing teams.",
+      "sources_pending": [
+        "Sprout Social Pricing",
+        "G2 Sprout Social Reviews",
+        "Sprout Social Salesforce Integration Docs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 249,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Google Analytics",
+        "Microsoft Dynamics 365"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Agorapulse",
+      "url": "https://www.agorapulse.com",
+      "founded": 2011,
+      "hq": "Paris, France",
+      "team_size_band": "201-500",
+      "best_for": "B2B marketing teams and agencies that need an excellent balance of scheduling, monitoring, and collaboration features at a reasonable price point.",
+      "best_for_short": "Team collaboration and inbox management",
+      "pricing_band": "$$ ($49 to $119/user/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 8.5,
+        "Analytics & Reporting": 8.4,
+        "Team Collaboration & Workflow": 9.4,
+        "CRM & Martech Integration": 8,
+        "Value for Money": 9.2
+      },
+      "verdict": "Agorapulse is the top choice for team efficiency, offering a best-in-class unified social inbox and collaboration workflow that prevents missed messages and streamlines content approvals for B2B teams.",
+      "verdict_short": "Best for team efficiency with a superb unified inbox and approval workflow.",
+      "praise": "The 'Inbox Assistant' feature, which allows teams to create automated moderation rules, can save an estimated 2-3 hours per week for a community manager.",
+      "praise_short": "Inbox Assistant automates moderation, saving hours weekly.",
+      "criticism": "While its core reporting is solid, it lacks the deep, customizable analytics and competitive benchmarking found in more expensive tools like Sprout Social.",
+      "criticism_short": "Analytics are solid but lack deep customization.",
+      "sources_pending": [
+        "Agorapulse Pricing Page",
+        "Capterra Agorapulse Reviews",
+        "Agorapulse Features"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics",
+        "Slack",
+        "Bitly",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Oktopost",
+      "url": "https://www.oktopost.com",
+      "founded": 2013,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "51-200",
+      "best_for": "Tech-focused B2B companies that want to activate their employees' social networks for lead generation and brand building.",
+      "best_for_short": "B2B employee advocacy",
+      "pricing_band": "$$$$ (Custom pricing, est. $1000+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 9.8,
+        "Analytics & Reporting": 9,
+        "Team Collaboration & Workflow": 8.5,
+        "CRM & Martech Integration": 9,
+        "Value for Money": 6.5
+      },
+      "verdict": "Oktopost is the leading platform designed exclusively for B2B marketers, with a specific strength in employee advocacy and social selling that directly ties individual employee shares to lead conversions.",
+      "verdict_short": "The best platform built specifically for B2B, excelling at employee advocacy.",
+      "praise": "Its ability to integrate with Marketo and Salesforce allows it to map social engagement to specific lead scores and sales pipeline stages, a crucial feature for proving ROI.",
+      "praise_short": "Maps social engagement to Marketo/Salesforce lead scores.",
+      "criticism": "Oktopost does not support Instagram or Pinterest, and its pricing is enterprise-focused, making it inaccessible for small to medium-sized B2B businesses.",
+      "criticism_short": "Expensive and lacks support for visual platforms.",
+      "sources_pending": [
+        "Oktopost Website",
+        "G2 Oktopost Reviews",
+        "Oktopost Integration Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Eloqua",
+        "HubSpot",
+        "Microsoft Dynamics 365"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Hootsuite",
+      "url": "https://www.hootsuite.com",
+      "founded": 2008,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "1001-5000",
+      "best_for": "Organizations managing a high volume of social media accounts across many different platforms, requiring a single dashboard to monitor all activity.",
+      "best_for_short": "Managing many accounts in one dashboard",
+      "pricing_band": "$$$ ($99 to $739+/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 8.2,
+        "Analytics & Reporting": 8,
+        "Team Collaboration & Workflow": 8.8,
+        "CRM & Martech Integration": 7.8,
+        "Value for Money": 8
+      },
+      "verdict": "Hootsuite remains a top contender due to its powerful, customizable 'Streams' dashboard, which allows B2B marketers to monitor multiple LinkedIn hashtags, company mentions, and competitor feeds in a single view.",
+      "verdict_short": "Powerful dashboard for monitoring many social feeds and accounts at once.",
+      "praise": "The platform supports over 20 social networks and has an extensive app directory with over 150 integrations, offering flexibility that few competitors can match.",
+      "praise_short": "Unmatched flexibility with 20+ networks and 150+ apps.",
+      "criticism": "The user interface can feel dated and cluttered compared to newer tools, and the analytics reports in the lower-tier plans are less insightful than those from Agorapulse or Buffer.",
+      "criticism_short": "Dated user interface and basic entry-level analytics.",
+      "sources_pending": [
+        "Hootsuite Pricing",
+        "PCMag Hootsuite Review",
+        "Hootsuite App Directory"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 739,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Slack",
+        "Trello",
+        "Google Drive",
+        "Adobe"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Sendible",
+      "url": "https://www.sendible.com",
+      "founded": 2009,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Marketing agencies managing social media for multiple B2B clients, thanks to its client management and white-labeling features.",
+      "best_for_short": "Agencies managing B2B clients",
+      "pricing_band": "$ ($29 to $399/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 8,
+        "Analytics & Reporting": 8.2,
+        "Team Collaboration & Workflow": 8.5,
+        "CRM & Martech Integration": 7,
+        "Value for Money": 8.8
+      },
+      "verdict": "Sendible is the best platform for agencies serving B2B clients because its dashboard is designed for managing separate client workspaces, custom branding, and user permissions efficiently.",
+      "verdict_short": "Top choice for agencies due to client dashboards and white-label reports.",
+      "praise": "Its direct integration with Canva and a built-in image editor streamline the content creation process, saving time for busy agency teams managing dozens of accounts.",
+      "praise_short": "Built-in Canva integration speeds up content creation.",
+      "criticism": "The mobile app is less functional than competitors like Buffer or Sprout Social, making on-the-go management more difficult.",
+      "criticism_short": "Mobile app functionality is limited.",
+      "sources_pending": [
+        "Sendible Pricing",
+        "G2 Sendible Reviews",
+        "Sendible for Agencies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics",
+        "Canva",
+        "Slack",
+        "Dropbox",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "SocialPilot",
+      "url": "https://www.socialpilot.co",
+      "founded": 2014,
+      "hq": "Wilmington, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small B2B businesses and startups looking for a cost-effective solution with solid scheduling and reporting features without a high price tag.",
+      "best_for_short": "Best value for small businesses",
+      "pricing_band": "$ ($30 to $200/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 7.5,
+        "Analytics & Reporting": 7.4,
+        "Team Collaboration & Workflow": 8,
+        "CRM & Martech Integration": 6.5,
+        "Value for Money": 9.8
+      },
+      "verdict": "SocialPilot delivers the best value for money in the B2B space, offering bulk scheduling, content curation, and team management features at a price point that is often 50-70% lower than its direct competitors.",
+      "verdict_short": "Unbeatable value, offering core B2B features at a very low price.",
+      "praise": "The Professional plan at $50/month includes 10 social accounts and 3 users, a package that would cost over $200/month with most other providers.",
+      "praise_short": "Generous account and user limits on low-cost plans.",
+      "criticism": "It lacks advanced features like a unified social inbox for replying to comments and messages, and its analytics are basic, focusing on engagement rather than conversions.",
+      "criticism_short": "No unified social inbox and analytics are basic.",
+      "sources_pending": [
+        "SocialPilot Pricing",
+        "TrustRadius SocialPilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Canva",
+        "Bitly",
+        "Zapier",
+        "Dropbox"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Buffer",
+      "url": "https://buffer.com",
+      "founded": 2010,
+      "hq": "Remote",
+      "team_size_band": "51-200",
+      "best_for": "B2B teams that prioritize a simple, clean interface for straightforward content scheduling and publishing, especially for executive or brand accounts.",
+      "best_for_short": "Simple and intuitive scheduling",
+      "pricing_band": "$ ($6 to $120/mo per channel)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 7.8,
+        "Analytics & Reporting": 7.5,
+        "Team Collaboration & Workflow": 7,
+        "CRM & Martech Integration": 6,
+        "Value for Money": 9
+      },
+      "verdict": "Buffer offers the most intuitive and user-friendly scheduling experience, making it the best choice for B2B teams who need to plan and publish content quickly without a steep learning curve.",
+      "verdict_short": "The easiest and most intuitive tool for scheduling content.",
+      "praise": "The 'Start Page' feature provides a simple, beautiful landing page for a bio link, which is a valuable addition for driving traffic from social profiles.",
+      "praise_short": "Includes a simple, effective 'link in bio' tool.",
+      "criticism": "Its analytics and team workflow features are very limited compared to B2B-focused platforms; it lacks approval queues and conversion tracking.",
+      "criticism_short": "Lacks B2B-critical approval workflows and analytics.",
+      "sources_pending": [
+        "Buffer Pricing",
+        "TechCrunch Buffer Articles",
+        "G2 Buffer Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 6,
+      "price_max": 120,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Zapier",
+        "IFTTT",
+        "Automate.io"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Loomly",
+      "url": "https://www.loomly.com",
+      "founded": 2016,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "11-50",
+      "best_for": "B2B content marketing teams that need a structured process for brainstorming, drafting, and approving social media content.",
+      "best_for_short": "Content planning and idea generation",
+      "pricing_band": "$$ ($32 to $277/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 7,
+        "Analytics & Reporting": 7.2,
+        "Team Collaboration & Workflow": 8.5,
+        "CRM & Martech Integration": 6,
+        "Value for Money": 8.5
+      },
+      "verdict": "Loomly excels in the pre-publishing phase of social media, providing the best toolset for content ideation, calendar planning, and mockups before a post ever goes live.",
+      "verdict_short": "Best for content ideation, calendar planning, and post mockups.",
+      "praise": "The platform automatically generates post mockups for each social network as you type, and its content library for storing assets is a significant workflow improvement.",
+      "praise_short": "Live post mockups and a central asset library.",
+      "criticism": "Its post-publishing analytics are not as strong as competitors, and it lacks any form of social listening or brand monitoring.",
+      "criticism_short": "Weak post-publishing analytics and no social listening.",
+      "sources_pending": [
+        "Loomly Pricing",
+        "Social Media Today Loomly Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 32,
+      "price_max": 277,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Google Drive",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 2,
+      "max_team_size": 30
+    },
+    {
+      "rank": 10,
+      "name": "Zoho Social",
+      "url": "https://www.zoho.com/social/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10000+",
+      "best_for": "B2B companies that are already invested in the Zoho One ecosystem, particularly Zoho CRM.",
+      "best_for_short": "Existing Zoho CRM users",
+      "pricing_band": "$ ($15 to $460/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 7.2,
+        "Analytics & Reporting": 7.5,
+        "Team Collaboration & Workflow": 7.8,
+        "CRM & Martech Integration": 8,
+        "Value for Money": 7.8
+      },
+      "verdict": "Zoho Social is a strong choice for businesses committed to the Zoho ecosystem, offering seamless integration with Zoho CRM that allows teams to enrich leads with social data and engage prospects.",
+      "verdict_short": "Deep integration with Zoho CRM makes it a natural fit for Zoho users.",
+      "praise": "The platform's lead generation feature for LinkedIn Lead Gen Forms and Facebook Lead Ads pipes new leads directly into Zoho CRM, automating a typically manual process.",
+      "praise_short": "Automates lead syncing from social ads to Zoho CRM.",
+      "criticism": "For non-Zoho users, the platform's features are fairly standard and do not stand out against more specialized competitors like Agorapulse or SocialPilot.",
+      "criticism_short": "Less compelling for companies not using Zoho CRM.",
+      "sources_pending": [
+        "Zoho Social Pricing",
+        "G2 Zoho Social Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 460,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Zoho CRM",
+        "Zoho Desk",
+        "Zoho Campaigns",
+        "Canva",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Shield",
+      "url": "https://www.shieldapp.ai",
+      "founded": 2018,
+      "hq": "Copenhagen, Denmark",
+      "team_size_band": "11-50",
+      "best_for": "B2B companies focused on personal branding and employee advocacy who need deep analytics for individual LinkedIn profiles.",
+      "best_for_short": "Analytics for personal LinkedIn profiles",
+      "pricing_band": "$ ($8 to $16/user/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "LinkedIn Integration & Features": 9.9,
+        "Analytics & Reporting": 9.5,
+        "Team Collaboration & Workflow": 4,
+        "CRM & Martech Integration": 4,
+        "Value for Money": 9
+      },
+      "verdict": "Shield is a wildcard because it's not a management platform; it is a specialized analytics tool that provides deep insights into personal LinkedIn profile performance, a critical blind spot for most B2B social tools.",
+      "verdict_short": "A specialized analytics tool for personal LinkedIn profiles, not a scheduler.",
+      "praise": "It tracks individual content performance over time with metrics like growth rate and content virality score, allowing B2B leaders to measure the impact of their personal branding efforts.",
+      "praise_short": "Tracks personal content virality and growth on LinkedIn.",
+      "criticism": "It does not offer any scheduling, publishing, or inbox management features whatsoever. It is a pure analytics tool that must be used alongside a traditional social media manager.",
+      "criticism_short": "Analytics only. No scheduling or publishing features.",
+      "sources_pending": [
+        "Shield Pricing",
+        "Shield Blog"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 16,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "LinkedIn"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

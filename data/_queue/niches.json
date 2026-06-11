@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "social-media-b2b",
-      "title": "The 11 Best Social Media Tools for B2B",
-      "vertical": "Marketing · Social",
-      "audience": "B2B marketers scheduling and analyzing social",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
-      "slug": "email-marketing-ecommerce",
-      "title": "The 11 Best Email Marketing Platforms for Ecommerce",
-      "vertical": "Marketing · Email · Ecommerce",
-      "audience": "Ecommerce brands running flows and campaigns",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
       "slug": "podcast-hosting",
       "title": "The 11 Best Podcast Hosting Platforms",
       "vertical": "Media · Podcasting",
@@ -336,7 +320,9 @@
     "field-service-management",
     "hvac-software",
     "plumbing-software",
-    "landscaping-software"
+    "landscaping-software",
+    "social-media-b2b",
+    "email-marketing-ecommerce"
   ],
   "skipped": [
     {

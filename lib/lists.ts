@@ -85,6 +85,8 @@ import fieldServiceManagement from "@/data/field-service-management.json";
 import hvacSoftware from "@/data/hvac-software.json";
 import plumbingSoftware from "@/data/plumbing-software.json";
 import landscapingSoftware from "@/data/landscaping-software.json";
+import emailMarketingEcommerce from "@/data/email-marketing-ecommerce.json";
+import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 
 export type ListData = typeof fractionalCfo;
@@ -197,6 +199,7 @@ const REGISTRY: Record<string, ListData> = {
   [hvacSoftware.slug]: hvacSoftware as unknown as ListData,
   [plumbingSoftware.slug]: plumbingSoftware as unknown as ListData,
   [landscapingSoftware.slug]: landscapingSoftware as unknown as ListData,
+  [socialMediaB2b.slug]: socialMediaB2b as unknown as ListData,
 };
 
 export function listSlugs(): string[] {
