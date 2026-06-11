@@ -1,9 +1,13 @@
 import type { MetadataRoute } from "next";
 import { SITE_URL } from "@/lib/schema";
 import { getList, listSlugs } from "@/lib/lists";
-import { allBrandSlugs, allMatchupSlugs } from "@/lib/matchups";
-import { allSliceUrls } from "@/lib/slices";
 
+// Sitemap is intentionally lean: only canonical list pages + core static pages.
+// For a young domain, concentrating crawl budget on ~100 money pages gets them
+// indexed faster than spreading it across 13k+ thin slice/brand/vs pages.
+// Thin pages (vs/, review/, red-flags/, cheapest/, etc.) are noindex via
+// X-Robots-Tag headers in next.config.js — they remain accessible to users
+// but don't compete for crawl budget until the domain matures.
 export default function sitemap(): MetadataRoute.Sitemap {
   const slugs = listSlugs();
   const newest = slugs
@@ -23,10 +27,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${SITE_URL}/privacy`, lastModified: siteMod, changeFrequency: "yearly", priority: 0.3 },
     { url: `${SITE_URL}/terms`, lastModified: siteMod, changeFrequency: "yearly", priority: 0.3 },
     { url: `${SITE_URL}/authors/hayat-amin`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 },
-    { url: `${SITE_URL}/api/lists`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.6 },
-    { url: `${SITE_URL}/openapi.json`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.5 },
-    { url: `${SITE_URL}/llms-full.txt`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.5 },
-    { url: `${SITE_URL}/llms-by-question.txt`, lastModified: siteMod, changeFrequency: "weekly", priority: 0.6 },
   ];
 
   for (const slug of slugs) {
@@ -39,24 +39,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.9,
       images: [`${SITE_URL}/${slug}/opengraph-image`],
     });
-    pages.push({ url: `${SITE_URL}/api/lists/${slug}`, lastModified: mod, changeFrequency: "monthly", priority: 0.6 });
-  }
-
-  // Every view is submitted: comparison, alternatives, reviews, red-flags, and the
-  // price/speed/location/segment/integration/compliance slices. All reachable from the
-  // directory's "Browse every page" hub, so they are linked, not orphaned.
-  for (const brand of allBrandSlugs()) {
-    pages.push({ url: `${SITE_URL}/alternatives-to/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 });
-    pages.push({ url: `${SITE_URL}/review/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.7 });
-    pages.push({ url: `${SITE_URL}/red-flags/${brand}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 });
-  }
-
-  for (const matchup of allMatchupSlugs()) {
-    pages.push({ url: `${SITE_URL}/vs/${matchup}`, lastModified: siteMod, changeFrequency: "monthly", priority: 0.6 });
-  }
-
-  for (const url of allSliceUrls(SITE_URL)) {
-    pages.push({ url, lastModified: siteMod, changeFrequency: "weekly", priority: 0.7 });
   }
 
   return pages;
