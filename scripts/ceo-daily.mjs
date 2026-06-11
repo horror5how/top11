@@ -10,6 +10,8 @@
  *   - GitHub Actions: set secret GCP_SA_KEY = full JSON key.
  *   - Local: reads ~/Documents/beyond-elevation/.gcp-indexing-key.json (or GCP_SA_KEY_FILE).
  * Optional: SLACK_WEBHOOK for a one-line daily ping.
+ * Optional: VERCEL_TOKEN for real pageviews via Vercel Web Analytics (the goal metric).
+ *   Fail-soft: no token / API unavailable on plan → "Views/day: n/a", report still runs.
  */
 import crypto from "node:crypto";
 import fs from "node:fs";
@@ -60,9 +62,30 @@ async function inspect(t, url) {
 }
 const sum = (rows, k) => (rows || []).reduce((a, r) => a + (r[k] || 0), 0);
 
+// Vercel Web Analytics — total pageviews, last 7 full days. Returns null if the token is
+// missing or the API is unavailable on the plan (verified 404 as of 2026-06-11) — never throws.
+const VERCEL_TEAM = "team_oEv2jNzUwbHWI1N6lMhsOh86";
+const VERCEL_PROJECT = "prj_aNAcywzzJZK5QYucfPeTulZyqGMe"; // top11
+async function vercelViews7d() {
+  if (!process.env.VERCEL_TOKEN) return null;
+  const url = `https://vercel.com/api/web-analytics/timeseries?teamId=${VERCEL_TEAM}&projectId=${VERCEL_PROJECT}` +
+    `&environment=production&filter=%7B%7D&from=${dayStr(7)}T00:00:00.000Z&to=${dayStr(1)}T23:59:59.999Z&tz=UTC`;
+  try {
+    const r = await fetch(url, { headers: { Authorization: `Bearer ${process.env.VERCEL_TOKEN}` } });
+    if (!r.ok) return null;
+    const j = await r.json();
+    const views = sum(j.data, "total");
+    return Number.isFinite(views) ? views : null;
+  } catch { return null; }
+}
+
 (async () => {
   const key = loadKey();
   const t = await getToken(key, "https://www.googleapis.com/auth/webmasters");
+
+  // 0) Real pageviews — the goal metric
+  const views7 = await vercelViews7d();
+  const viewsPerDay = views7 == null ? null : (views7 / 7).toFixed(1);
 
   // 1) Traffic
   const d28 = await sa(t, 28);
@@ -85,7 +108,9 @@ const sum = (rows, k) => (rows || []).reduce((a, r) => a + (r[k] || 0), 0);
   const L = [];
   L.push(`# Top Eleven — CEO daily report (${dayStr(0)})`);
   L.push(`Goal: ${GOAL} organic views/day.`);
-  L.push(`Clicks/day (7d): ${perDay}  →  ${((perDay / GOAL) * 100).toFixed(1)}% of goal`);
+  if (viewsPerDay != null) L.push(`Views/day (7d): ${viewsPerDay} → ${viewsPerDay}/${GOAL} = ${((viewsPerDay / GOAL) * 100).toFixed(1)}% of goal`);
+  else L.push(`Views/day: n/a (analytics API unavailable)`);
+  L.push(`Clicks/day (7d, GSC): ${perDay}  →  ${((perDay / GOAL) * 100).toFixed(1)}% of goal`);
   L.push(`7d:  clicks ${clicks7} | impressions ${impr7}`);
   L.push(`28d: clicks ${clicks28} | impressions ${impr28}`);
   L.push(`Priority pages indexed: ${indexed}/${PRIORITY.length}`);
@@ -101,7 +126,8 @@ const sum = (rows, k) => (rows || []).reduce((a, r) => a + (r[k] || 0), 0);
 
   // 5) Slack one-liner
   if (process.env.SLACK_WEBHOOK) {
-    const msg = `🐴 Top Eleven: ${perDay} clicks/day (${((perDay / GOAL) * 100).toFixed(1)}% of 1k goal) · ${impr7} impr/7d · ${indexed}/${PRIORITY.length} priority indexed`;
+    const lead = viewsPerDay != null ? `${viewsPerDay} views/day (${((viewsPerDay / GOAL) * 100).toFixed(1)}% of 1k goal)` : `${perDay} clicks/day (${((perDay / GOAL) * 100).toFixed(1)}% of 1k goal)`;
+    const msg = `🐴 Top Eleven: ${lead} · ${impr7} impr/7d · ${indexed}/${PRIORITY.length} priority indexed`;
     try { await fetch(process.env.SLACK_WEBHOOK, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ text: msg }) }); } catch {}
   }
 })().catch((e) => { console.error("CEO daily failed:", e.message); process.exit(1); });

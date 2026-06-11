@@ -41,9 +41,11 @@ const posted = new Set(log.map((e) => e.slug));
 const exists = (s) => fs.existsSync(path.join(ROOT, "data", `${s}.json`));
 let slug = process.argv[2];
 if (!slug) slug = DEV_LISTS.find((s) => !posted.has(s) && exists(s)); // first unposted
-if (!slug) { // everything posted at least once — refresh the oldest
-  const ordered = [...log].filter((e) => DEV_LISTS.includes(e.slug)).sort((a, b) => a.date.localeCompare(b.date));
-  slug = (ordered[0] && ordered[0].slug) || DEV_LISTS.find(exists);
+if (!slug) { // everything posted at least once — refresh the least-recently-posted (true rotation, daily-safe)
+  const last = {};
+  for (const e of log) if (DEV_LISTS.includes(e.slug) && e.date > (last[e.slug] || "")) last[e.slug] = e.date;
+  const ordered = DEV_LISTS.filter(exists).sort((a, b) => (last[a] || "").localeCompare(last[b] || ""));
+  slug = ordered[0];
 }
 if (!slug || !exists(slug)) { console.error("No dev-relevant list available to syndicate."); process.exit(1); }
 

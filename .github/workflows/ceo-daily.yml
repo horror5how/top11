@@ -17,4 +17,5 @@ jobs:
         env:
           GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
         run: node scripts/ceo-daily.mjs

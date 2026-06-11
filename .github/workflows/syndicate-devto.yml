@@ -1,12 +1,13 @@
 name: Syndicate to Dev.to
 
-# Weekly: publish the next developer-relevant Top 11 list to Dev.to (DA ~90) with a
+# Daily: publish the next developer-relevant Top 11 list to Dev.to (DA ~90) with a
 # canonical link back to topelevens.com. Builds a do-follow backlink + referral traffic,
 # and the canonical keeps Google ranking the original, not the copy. Deterministic — no LLM.
+# Rotation lives in the script: first unposted list, then least-recently-posted.
 
 on:
   schedule:
-    - cron: "0 14 * * 1" # Mondays 14:00 UTC
+    - cron: "30 6 * * *" # daily 06:30 UTC
   workflow_dispatch:
     inputs:
       slug:
