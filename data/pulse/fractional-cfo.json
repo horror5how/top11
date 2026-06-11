@@ -1,13 +1,35 @@
 {
   "list_slug": "fractional-cfo",
-  "generated_at": "2026-06-10T07:51:28.008Z",
+  "generated_at": "2026-06-11T08:19:29.683Z",
   "pulse_version": "v1",
   "entries": {
     "1": {
       "rank": 1,
       "name": "Burkland Associates",
       "entry": "Burkland Associates",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "There is not enough signal in the provided data to form a judgment on Burkland Associates, as no direct customer testimonials were found. The firm is mentioned in two r/Accounting threads since late 2024: one asks for experiences with their R&D credit services for software companies, and another lists them as one of four fractional CFO firms being evaluated.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [
+        {
+          "theme": "Mentioned as an option in fractional CFO searches",
+          "polarity": "mixed",
+          "count": 1
+        },
+        {
+          "theme": "Associated with R&D credit services for software companies",
+          "polarity": "mixed",
+          "count": 1
+        }
+      ],
+      "watch_signals": [],
       "sample_size": 6,
       "sources": {
         "reddit": 6,
@@ -20,7 +42,18 @@
       "rank": 2,
       "name": "Kruze Consulting",
       "entry": "Kruze Consulting",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "No user reviews, testimonials, or mentions of Kruze Consulting were found in the provided data. The single data source is a Reddit post about a startup's fundraising experience that does not name the firm.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [],
       "sample_size": 1,
       "sources": {
         "reddit": 1,
@@ -33,7 +66,18 @@
       "rank": 3,
       "name": "Graphite Financial",
       "entry": "Graphite Financial",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "No reviews, discussions, or mentions of Graphite Financial were found in the provided dataset. The 12 supplied Reddit threads are entirely unrelated to the firm, instead covering topics like stock market speculation, technology, and a TV show summary.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [],
       "sample_size": 25,
       "sources": {
         "reddit": 25,
@@ -64,7 +108,26 @@
       "rank": 5,
       "name": "Zeni",
       "entry": "Zeni",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "There are no direct customer reviews for Zeni in the provided data, so no assessment of performance or satisfaction is possible. Zeni is mentioned in 2 Reddit threads as an example of an AI accounting platform, typically listed alongside competitors like Digits and Docyt. These discussions are general inquiries about the viability of AI in accounting, not first-hand experiences with the firm.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [
+        {
+          "theme": "Mentioned as an example of an AI accounting platform",
+          "polarity": "mixed",
+          "count": 2
+        }
+      ],
+      "watch_signals": [
+        "A similarly named but unrelated receipt-scanning app, 'zenyAI', creates potential for brand confusion."
+      ],
       "sample_size": 12,
       "sources": {
         "reddit": 12,
@@ -77,7 +140,18 @@
       "rank": 6,
       "name": "Preferred CFO",
       "entry": "Preferred CFO",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "No public reviews, testimonials, or mentions of Preferred CFO were found in the provided data. The single data source is an unrelated Reddit discussion about AI adoption that does not name the firm.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [],
       "sample_size": 1,
       "sources": {
         "reddit": 1,
@@ -90,7 +164,18 @@
       "rank": 7,
       "name": "Driven Insights",
       "entry": "Driven Insights",
-      "error": "Anthropic 400: {\"type\":\"error\",\"error\":{\"type\":\"invalid_request_error\",\"message\":\"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.\"},\"request_…",
+      "verdict": "No user reviews, testimonials, or direct mentions of the firm Driven Insights were found in the provided data. The phrase 'driven insights' appears generically as a descriptor for data analysis in two contexts (a price comparison platform and property reports), but not in reference to this specific company.",
+      "sentiment_score": null,
+      "strongest_praise": {
+        "quote": null,
+        "source_url": ""
+      },
+      "strongest_criticism": {
+        "quote": null,
+        "source_url": ""
+      },
+      "recurring_themes": [],
+      "watch_signals": [],
       "sample_size": 7,
       "sources": {
         "reddit": 7,
