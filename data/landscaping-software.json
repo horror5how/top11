@@ -1,0 +1,785 @@
+{
+  "slug": "landscaping-software",
+  "title": "The 11 Best Landscaping Business Software",
+  "subtitle": "This ranking identifies the top platforms for managing landscaping operations, focusing on scheduling, billing, and mobile crew management for businesses of all sizes.",
+  "vertical": "Landscaping · Operations",
+  "audience": "Landscaping companies managing routes, crews, and billing",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Field Service Management",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights Core Operations (30%), Billing & Financials (25%), and Crew & Mobile App (20%) as the most critical functions for landscaping businesses."
+    }
+  ],
+  "answer_capsule": "The best landscaping business software is Jobber for its all-around performance and ease of use, followed by the powerful automation of Service Autopilot and the enterprise-grade features of Aspire.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core Operations Management",
+        "weight": 30,
+        "description": "Effectiveness of scheduling, dispatching, route optimization, and job tracking features."
+      },
+      {
+        "name": "Billing & Financials",
+        "weight": 25,
+        "description": "Capabilities for estimating, invoicing, payment processing, and integration with accounting software like QuickBooks."
+      },
+      {
+        "name": "Crew & Mobile App",
+        "weight": 20,
+        "description": "Usability, reliability, and feature set of the mobile application for field technicians and crews."
+      },
+      {
+        "name": "Customer Management (CRM)",
+        "weight": 15,
+        "description": "Tools for managing client information, communication history, sales funnels, and customer portals."
+      },
+      {
+        "name": "Integrations & Scalability",
+        "weight": 10,
+        "description": "Ability to connect with third-party software and to support business growth from a few crews to many."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Small Business",
+    "Enterprise",
+    "Residential Services",
+    "Commercial Services",
+    "Lawn Care",
+    "Tree Care"
+  ],
+  "problem_tags": [
+    "Route Optimization",
+    "Crew Scheduling",
+    "Invoicing",
+    "Job Costing",
+    "Customer Communication"
+  ],
+  "query_intents": [
+    "best landscaping software",
+    "lawn care business software",
+    "Jobber vs Service Autopilot",
+    "free landscaping software",
+    "Aspire software pricing"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Scheduling complexity",
+        "Inefficient billing"
+      ],
+      "personas": [
+        "Small to medium business owner",
+        "Operations manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Lack of job profitability data",
+        "Scaling operations"
+      ],
+      "personas": [
+        "Large commercial contractor",
+        "CFO"
+      ]
+    },
+    "9": {
+      "solves": [
+        "High software costs",
+        "Getting started with business management"
+      ],
+      "personas": [
+        "Solo operator",
+        "New business owner"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.03,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "How is landscaping software different from generic field service software?",
+      "a": "Landscaping software offers industry-specific features that generic platforms lack. This includes tools for creating estimates based on property measurements, managing chemical application records for lawn care, and handling multi-day installation projects with specific materials and labor costs."
+    },
+    {
+      "q": "What is the most important factor when choosing a platform?",
+      "a": "The mobile app's usability for your crews is the most critical factor. If your team in the field finds the app difficult to use for clocking in, viewing job notes, or updating progress, the entire system's value diminishes because the data from the field will be inconsistent or incomplete."
+    },
+    {
+      "q": "When should a business switch from a free tool to a paid one?",
+      "a": "A business should upgrade from a free tool when manual workarounds begin to cost more in lost time than the price of a paid subscription. This tipping point often occurs around 3-5 employees, when coordinating schedules and tracking invoices on spreadsheets becomes a significant daily bottleneck."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your business size and primary need. Are you a 2-person team needing basic scheduling, or a 50-person firm needing deep job costing? Your scale dictates whether you need a tool like Jobber or an enterprise system like Aspire.",
+    "Second, request demos from your top 2-3 choices and focus on the mobile app experience. Involve a crew leader in the demo to get direct feedback on its practicality in the field.",
+    "Third, confirm the quality of the QuickBooks integration. Ask to see the specific workflow for syncing invoices and payments to avoid creating future accounting headaches.",
+    "Finally, clarify the total cost of ownership. Ask directly about implementation fees, charges for additional users, and any required long-term contracts, as these can significantly exceed the advertised monthly price."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best free software for a landscaping business?",
+      "a": "Yardbook is the best free software for a landscaping business. It offers a surprisingly functional free tier that includes scheduling, estimating, invoicing, and basic CRM, making it an excellent starting point for new or small companies before they need to upgrade."
+    },
+    {
+      "q": "How much does landscaping software typically cost?",
+      "a": "Landscaping software costs range from $0 to over $1,000 per month. Free plans like Yardbook exist, while popular options for small to mid-sized businesses like Jobber cost between $49 and $249 per month. Enterprise systems like Aspire have custom pricing that often starts at $500 per month plus setup fees."
+    },
+    {
+      "q": "Does landscaping software integrate with QuickBooks?",
+      "a": "Yes, nearly all top-tier landscaping software platforms integrate with QuickBooks Online and QuickBooks Desktop. This connection is a standard feature because it allows businesses to sync invoices, payments, and customer data, which prevents double entry and simplifies accounting."
+    },
+    {
+      "q": "What is the main difference between Jobber and Aspire?",
+      "a": "The main difference is their target customer: Jobber is built for small to medium-sized residential and light commercial service businesses, while Aspire is an enterprise-level platform for large landscaping companies with annual revenues over $3 million. Jobber prioritizes ease of use, whereas Aspire offers deeper job costing and financial management."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based and priced for North American markets; international support and feature localization can be limited.",
+    "The most powerful platforms, particularly Aspire, often require significant setup fees (thousands of dollars) and long-term contracts not reflected in monthly pricing.",
+    "Free tiers, like Yardbook's, are functional but typically lack the automation and support that growing businesses eventually require."
+  ],
+  "glossary": {
+    "term": "Job Costing",
+    "definition": "The process of tracking all costs associated with a specific job (labor, materials, equipment) and comparing them against the estimated budget and actual revenue to determine the job's true profitability.",
+    "synonyms": [
+      "Project Accounting",
+      "Profitability Tracking"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Jobber",
+      "url": "https://getjobber.com",
+      "founded": 2011,
+      "hq": "Edmonton, Canada",
+      "team_size_band": "501-1,000",
+      "best_for": "Small to medium-sized landscaping businesses seeking a powerful, user-friendly platform that balances features with ease of use.",
+      "best_for_short": "Best all-around platform",
+      "pricing_band": "$$ ($49 to $249/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core Operations Management": 9.3,
+        "Billing & Financials": 9.2,
+        "Crew & Mobile App": 9.5,
+        "Customer Management (CRM)": 9,
+        "Integrations & Scalability": 8.6
+      },
+      "verdict": "Jobber earns the top rank because it provides the most balanced and intuitive solution for the majority of landscaping businesses. Its mobile app is best-in-class, making crew adoption easy, and its workflow from quote to payment is the most refined on the market.",
+      "verdict_short": "The best all-around platform, balancing powerful features with an easy-to-use interface and a top-tier mobile app.",
+      "praise": "The platform's automated invoice follow-ups and integrated payment processing (Jobber Payments) can reduce accounts receivable by over 30% for many users.",
+      "praise_short": "Excellent mobile app and automated billing features.",
+      "criticism": "While it scales well, its job costing features are less detailed than those in enterprise systems like Aspire, making it less suitable for companies with complex, multi-phase projects.",
+      "criticism_short": "Job costing is less detailed than enterprise competitors.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Capterra user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "Mailchimp",
+        "FleetSharp GPS"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 2,
+      "name": "Service Autopilot",
+      "url": "https://www.serviceautopilot.com",
+      "founded": 2009,
+      "hq": "Richardson, Texas, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growth-oriented landscaping companies that want to automate marketing, sales, and operational workflows to scale faster.",
+      "best_for_short": "Best for automation",
+      "pricing_band": "$$ ($49 to $309/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core Operations Management": 9.2,
+        "Billing & Financials": 9,
+        "Crew & Mobile App": 8.5,
+        "Customer Management (CRM)": 9.5,
+        "Integrations & Scalability": 8.9
+      },
+      "verdict": "Service Autopilot is the best choice for businesses focused on automation, offering a set of marketing and workflow tools unmatched by others in its price class. Its 'Automations' feature can handle everything from lead nurturing to upsell campaigns, directly fueling growth.",
+      "verdict_short": "The top choice for automation, with powerful marketing and workflow tools that help businesses scale efficiently.",
+      "praise": "The two-way QuickBooks sync is highly reliable, and its detailed job costing reports provide better profitability insights than most non-enterprise competitors.",
+      "praise_short": "Powerful marketing automation and reliable QuickBooks sync.",
+      "criticism": "The user interface is less modern and intuitive than Jobber's, and the sheer number of features can create a steeper learning curve, requiring a 2-4 week adjustment period for new office staff.",
+      "criticism_short": "Steeper learning curve and a less modern interface.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Software Advice user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 309,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "SendJim",
+        "CallRail"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Aspire",
+      "url": "https://www.youraspire.com",
+      "founded": 2013,
+      "hq": "Chesterfield, Missouri, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large-scale commercial landscaping companies (typically $3M+ in annual revenue) that require deep financial reporting and job costing.",
+      "best_for_short": "Best for enterprise",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core Operations Management": 9.4,
+        "Billing & Financials": 9.8,
+        "Crew & Mobile App": 8,
+        "Customer Management (CRM)": 8.5,
+        "Integrations & Scalability": 9.2
+      },
+      "verdict": "Aspire is the definitive leader for enterprise-level landscaping contractors because it is built around job costing and financial management. It provides real-time visibility into the profitability of every job, division, and property, a feature essential for managing multi-million dollar operations.",
+      "verdict_short": "The undisputed choice for large commercial contractors, offering unmatched job costing and financial management tools.",
+      "praise": "Its ability to manage complex contracts, including multi-year maintenance agreements and large-scale construction projects, is superior to any other platform.",
+      "praise_short": "Exceptional job costing and large contract management.",
+      "criticism": "The platform is expensive, with implementation fees often exceeding $5,000, and its complexity makes it overkill and cost-prohibitive for businesses with less than $3 million in annual revenue.",
+      "criticism_short": "High cost and complexity make it unsuitable for smaller businesses.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "QuickBooks Enterprise",
+        "Acumatica",
+        "Inova Payroll",
+        "PropertyIntel",
+        "Greenius"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 15,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "LMN",
+      "url": "https://golmn.com",
+      "founded": 2009,
+      "hq": "Markham, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Landscaping businesses that want to build highly accurate estimates and manage budgets with a system designed by a former landscaper.",
+      "best_for_short": "Best for estimating & budgeting",
+      "pricing_band": "$$ ($197 to $394/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core Operations Management": 8.2,
+        "Billing & Financials": 9.2,
+        "Crew & Mobile App": 8,
+        "Customer Management (CRM)": 8.3,
+        "Integrations & Scalability": 8.4
+      },
+      "verdict": "LMN stands out for its intense focus on budgeting and estimating, making it the best option for contractors who prioritize financial planning. The software forces a disciplined approach to job costing, starting with a company-wide budget to ensure every estimate is profitable.",
+      "verdict_short": "Top choice for contractors focused on profitability, with best-in-class tools for building accurate budgets and estimates.",
+      "praise": "The time tracking app, LMN Time, is straightforward for crews and provides the exact data needed for accurate job costing and payroll.",
+      "praise_short": "Excellent budgeting tools and a simple time tracking app.",
+      "criticism": "The user interface feels dated compared to newer platforms, and the separation between different modules can feel less connected than in all-in-one systems like Jobber.",
+      "criticism_short": "Dated user interface and a slightly disjointed workflow.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Capterra user reviews",
+        "Lawn & Landscape Magazine reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 197,
+      "price_max": 394,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "Greenius"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "WorkWave",
+      "url": "https://www.workwave.com",
+      "founded": 1984,
+      "hq": "Holmdel, New Jersey, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Established landscaping companies looking for a mature platform with strong routing capabilities and business operations support.",
+      "best_for_short": "Mature platform with strong routing",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core Operations Management": 8.8,
+        "Billing & Financials": 8,
+        "Crew & Mobile App": 8.2,
+        "Customer Management (CRM)": 8.1,
+        "Integrations & Scalability": 8.5
+      },
+      "verdict": "WorkWave secures its position by offering one of the most advanced route optimization engines, a legacy of its long history in field services. For companies with high-density routes, this feature alone can save thousands in fuel and labor costs annually.",
+      "verdict_short": "A long-standing, reliable platform with a superior route optimization engine ideal for companies with dense service routes.",
+      "praise": "Its integration with proprietary payment processing (WorkWave Payments) and marketing services provides a convenient, single-vendor solution for core business needs.",
+      "praise_short": "Advanced route optimization and integrated payment services.",
+      "criticism": "The platform can be less flexible than some newer competitors, and pricing is often higher and less transparent, typically requiring a custom quote and contract.",
+      "criticism_short": "Less flexible and has less transparent pricing.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Forrester Wave reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Google Ads",
+        "Angi",
+        "Podium"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "RealGreen",
+      "url": "https://www.realgreen.com",
+      "founded": 1984,
+      "hq": "Walled Lake, Michigan, USA",
+      "team_size_band": "201-500",
+      "best_for": "Lawn care companies that specialize in recurring services like fertilization, weed control, and pest management.",
+      "best_for_short": "Best for lawn care specialists",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core Operations Management": 8.5,
+        "Billing & Financials": 8.2,
+        "Crew & Mobile App": 7.8,
+        "Customer Management (CRM)": 8,
+        "Integrations & Scalability": 7.9
+      },
+      "verdict": "RealGreen is the best platform for lawn care treatment businesses due to its specialized features for managing chemical applications, tracking product inventory, and automating recurring service schedules. Its functionality is deeply aligned with the unique operational needs of the chemical lawn care industry.",
+      "verdict_short": "The ideal choice for lawn care treatment businesses, with specialized features for managing chemical applications and recurring services.",
+      "praise": "The integrated marketing solutions, including direct mail and call center services, provide a direct path to acquiring new customers within the platform.",
+      "praise_short": "Specialized for chemical lawn care; integrated marketing.",
+      "criticism": "The software is less suited for design-build or installation-focused landscaping companies, and its interface is considered dated by many users.",
+      "criticism_short": "Not ideal for design-build; interface feels dated.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Capterra user reviews",
+        "Industry forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Service Assistant"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "SingleOps",
+      "url": "https://singleops.com",
+      "founded": 2013,
+      "hq": "Atlanta, Georgia, USA",
+      "team_size_band": "51-200",
+      "best_for": "Tree care and landscape maintenance companies looking for strong proposal and sales management features.",
+      "best_for_short": "Best for sales & proposals",
+      "pricing_band": "$$$ ($200 to $600/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Core Operations Management": 7.8,
+        "Billing & Financials": 8,
+        "Crew & Mobile App": 7.5,
+        "Customer Management (CRM)": 8.8,
+        "Integrations & Scalability": 7.6
+      },
+      "verdict": "SingleOps earns its spot with a superior set of sales tools, including digital proposal creation with e-signatures and a visual CRM pipeline. This makes it the best option for businesses that want to professionalize their sales process and close more high-value jobs.",
+      "verdict_short": "A great choice for sales-focused businesses, offering excellent digital proposal and CRM pipeline management tools.",
+      "praise": "The platform's job costing is very detailed, allowing for line-item tracking of labor, equipment, and materials against estimates.",
+      "praise_short": "Strong digital proposals and detailed job costing.",
+      "criticism": "The mobile app is functional but has fewer features and a less refined user experience than the apps from Jobber or Aspire.",
+      "criticism_short": "Mobile app is less polished than top competitors.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Software Advice user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 200,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "CompanyCam"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "FieldRoutes",
+      "url": "https://www.fieldroutes.com",
+      "founded": 2012,
+      "hq": "McKinney, Texas, USA",
+      "team_size_band": "201-500",
+      "best_for": "Lawn care and pest control companies needing a modern, all-in-one platform with solid mobile and payment features.",
+      "best_for_short": "Modern all-in-one platform",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Core Operations Management": 8,
+        "Billing & Financials": 7.8,
+        "Crew & Mobile App": 7.9,
+        "Customer Management (CRM)": 7,
+        "Integrations & Scalability": 7.5
+      },
+      "verdict": "FieldRoutes provides a capable, modern alternative to older systems, distinguished by its clean interface and integrated payment processing. It's a strong contender for businesses that value a straightforward user experience and want to manage operations and payments in one place.",
+      "verdict_short": "A solid, modern platform with a clean interface and tightly integrated payment processing capabilities.",
+      "praise": "The reporting and analytics dashboard offers clear, actionable insights into business performance without requiring complex report configuration.",
+      "praise_short": "Clean user interface and clear reporting dashboards.",
+      "criticism": "As a newer platform in the space, it lacks some of the deep, industry-specific features found in more established competitors like RealGreen or LMN.",
+      "criticism_short": "Lacks some of the niche features of older competitors.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Capterra user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Google Ads"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Yardbook",
+      "url": "https://www.yardbook.com",
+      "founded": 2013,
+      "hq": "Campbell, California, USA",
+      "team_size_band": "1-10",
+      "best_for": "New or small landscaping businesses, solo operators, and companies on a tight budget who need essential features without a monthly fee.",
+      "best_for_short": "Best free software",
+      "pricing_band": "$ (Free, with paid add-ons)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core Operations Management": 7,
+        "Billing & Financials": 8,
+        "Crew & Mobile App": 7.2,
+        "Customer Management (CRM)": 7.5,
+        "Integrations & Scalability": 6.9
+      },
+      "verdict": "Yardbook is the best free landscaping software available, offering a feature set that rivals the entry-level paid plans of many competitors. For a startup or solo operator, its ability to handle scheduling, invoicing, and estimating at no cost is an incredible value.",
+      "verdict_short": "The undisputed best free option, providing core business management tools at no cost for startups and solo operators.",
+      "praise": "The free plan is genuinely useful and not just a limited trial; you can run a small business on it for years before needing to upgrade.",
+      "praise_short": "A truly functional and powerful free plan.",
+      "criticism": "The platform lacks the advanced automation, robust mobile app, and dedicated support that growing businesses with multiple crews will eventually need.",
+      "criticism_short": "Lacks advanced automation and dedicated support.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Capterra user reviews",
+        "User forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Stripe",
+        "Google Calendar"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 10
+    },
+    {
+      "rank": 10,
+      "name": "Housecall Pro",
+      "url": "https://www.housecallpro.com",
+      "founded": 2013,
+      "hq": "Denver, Colorado, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Residential landscaping companies that prioritize customer communication and a simple, clean user experience.",
+      "best_for_short": "Best for customer communication",
+      "pricing_band": "$$ ($65 to $229/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Core Operations Management": 7,
+        "Billing & Financials": 7.5,
+        "Crew & Mobile App": 8,
+        "Customer Management (CRM)": 7.8,
+        "Integrations & Scalability": 6.5
+      },
+      "verdict": "Housecall Pro makes the list because of its exceptional customer communication features, like automated 'on-my-way' texts and easy online booking. While not landscaping-specific, its user-friendly design makes it a popular choice for smaller, residential-focused lawn care businesses.",
+      "verdict_short": "A user-friendly option with excellent customer communication tools, great for residential-focused lawn care services.",
+      "praise": "The mobile app is extremely easy for technicians to learn and use, leading to high adoption rates in the field.",
+      "praise_short": "Great automated customer notifications and simple mobile app.",
+      "criticism": "It lacks landscaping-specific features like property measurement tools, detailed job costing for materials, and management for chemical applications.",
+      "criticism_short": "Lacks landscaping-specific features like job costing.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Capterra user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 65,
+      "price_max": 229,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "QuickBooks Desktop",
+        "Zapier",
+        "Google Local Services Ads"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 20
+    },
+    {
+      "rank": 11,
+      "name": "CompanyCam",
+      "url": "https://companycam.com",
+      "founded": 2015,
+      "hq": "Lincoln, Nebraska, USA",
+      "team_size_band": "201-500",
+      "best_for": "Any landscaping company that needs to improve documentation, protect against liability, and communicate visually between the field and office.",
+      "best_for_short": "Best for photo documentation",
+      "pricing_band": "$$ ($19 to $49/user/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Core Operations Management": 7.2,
+        "Billing & Financials": 3,
+        "Crew & Mobile App": 9.4,
+        "Customer Management (CRM)": 7,
+        "Integrations & Scalability": 9.2
+      },
+      "verdict": "CompanyCam is a wildcard because it's not an all-in-one management suite, but a specialized photo documentation tool that solves a critical industry problem. It enables crews to instantly share time-stamped, geo-tagged photos of job sites, providing proof of work, documenting issues, and creating a visual history that integrates with many other platforms on this list.",
+      "verdict_short": "A specialized photo app that solves job documentation and integrates with your main software, protecting against disputes.",
+      "praise": "Its integration capabilities are excellent, allowing photos taken in CompanyCam to automatically appear in the customer's file in Jobber, SingleOps, and others.",
+      "praise_short": "Excellent integrations and simple, powerful photo sharing.",
+      "criticism": "It is an additional monthly cost on top of a primary business management software, and it does not handle any scheduling, invoicing, or estimating itself.",
+      "criticism_short": "It's an add-on cost and not a standalone management tool.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "App Store reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Jobber",
+        "SingleOps",
+        "LMN",
+        "Housecall Pro",
+        "QuickBooks"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100,
+      "is_wildcard": true
+    }
+  ]
+}

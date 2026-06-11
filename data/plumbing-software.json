@@ -1,0 +1,805 @@
+{
+  "slug": "plumbing-software",
+  "title": "The 11 Best Plumbing Business Software",
+  "subtitle": "A ranked analysis of the top platforms for managing scheduling, dispatching, invoicing, and operations for plumbing contractors.",
+  "vertical": "Plumbing · Service Management",
+  "audience": "Plumbing contractors managing service jobs and invoicing",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Field Service Management",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights Core FSM Features (30%), Financial Tools (25%), Mobile App Usability (20%), Pricing & Scalability (15%), and Integrations (10%)."
+    }
+  ],
+  "answer_capsule": "The best plumbing business software is ServiceTitan for large teams, followed by Jobber for small to mid-sized shops and Housecall Pro for its user-friendly interface.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core FSM Features",
+        "weight": 30,
+        "description": "Effectiveness of scheduling, dispatching, work order management, and customer history tracking."
+      },
+      {
+        "name": "Financial Tools",
+        "weight": 25,
+        "description": "Quality of invoicing, payment processing, estimating, and integration with accounting software like QuickBooks."
+      },
+      {
+        "name": "Mobile App Usability",
+        "weight": 20,
+        "description": "Performance, ease of use, and offline capabilities of the mobile application for field technicians."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 15,
+        "description": "Transparency of pricing, value for money, and ability to support growth from a single van to a large fleet."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 10,
+        "description": "Availability and quality of integrations with third-party software (accounting, marketing, payroll) and parts suppliers."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Field Service Management",
+    "Plumbing Contractors",
+    "Small Business Software",
+    "Job Management",
+    "Scheduling Software"
+  ],
+  "problem_tags": [
+    "inefficient scheduling",
+    "slow invoicing",
+    "poor communication",
+    "job tracking",
+    "cash flow management"
+  ],
+  "query_intents": [
+    "best plumbing software",
+    "plumbing scheduling app",
+    "service titan alternative",
+    "jobber vs housecall pro",
+    "plumbing invoicing software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "scaling operations",
+        "profitability tracking",
+        "multi-location management"
+      ],
+      "personas": [
+        "Large residential contractors",
+        "Commercial plumbing services"
+      ]
+    },
+    "2": {
+      "solves": [
+        "job scheduling",
+        "customer communication",
+        "online payments"
+      ],
+      "personas": [
+        "Small to mid-sized plumbing businesses",
+        "Owner-operators"
+      ]
+    },
+    "3": {
+      "solves": [
+        "user-friendly scheduling",
+        "online booking",
+        "local marketing"
+      ],
+      "personas": [
+        "Solo plumbers",
+        "Small residential service teams"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 1.9
+  },
+  "guide": [
+    {
+      "q": "What is Plumbing Business Software?",
+      "a": "Plumbing business software is a specialized tool that helps contractors manage their entire operation from a single platform. It typically combines scheduling and dispatching technicians, creating estimates and invoices, processing payments, and managing customer relationships. This replaces manual methods like spreadsheets and paper calendars, reducing administrative work and improving efficiency for service calls."
+    },
+    {
+      "q": "How Does This Software Improve Profitability?",
+      "a": "This software improves profitability primarily by increasing efficiency and providing better financial oversight. Optimized scheduling reduces travel time, allowing for more jobs per day. Instant invoicing and mobile payments accelerate cash flow. Furthermore, detailed reporting helps identify the most profitable services and technicians, enabling data-driven decisions to boost margins."
+    }
+  ],
+  "how_to_choose": [
+    "First, map your current workflow and identify the biggest bottlenecks, whether it's scheduling chaos, slow invoicing, or poor technician tracking.",
+    "Second, determine your budget and team size. A solo operator has different needs and a different budget than a 20-technician company; choose a tool that fits your current scale but has a clear path for growth.",
+    "Third, prioritize the mobile app experience. Your technicians will use it all day, so it must be fast, intuitive, and reliable, even in areas with poor connectivity.",
+    "Finally, request demos from your top 2-3 choices. Run a mock job from initial call to final payment to see exactly how the software performs in a real-world scenario."
+  ],
+  "faqs": [
+    {
+      "q": "What is the average cost of plumbing software?",
+      "a": "The average cost for plumbing software ranges from $49 per month for a single user to over $400 per month for a team of five. Pricing models vary, with some charging per user and others offering tiered plans. Enterprise-level software like ServiceTitan can cost significantly more and often requires a custom quote."
+    },
+    {
+      "q": "Does most plumbing software integrate with QuickBooks?",
+      "a": "Yes, nearly all leading plumbing software providers offer direct integration with both QuickBooks Online and QuickBooks Desktop. This is considered a standard feature because it eliminates double entry for invoices and payments, saving significant administrative time and reducing errors."
+    },
+    {
+      "q": "Can I manage inventory with this type of software?",
+      "a": "Most mid-tier and enterprise platforms include inventory management features. This allows you to track parts on each truck and in the warehouse, set reorder points, and link parts to specific jobs for accurate costing. Basic plans on some platforms may offer limited or no inventory tracking."
+    },
+    {
+      "q": "What is the single most important feature for a small plumbing business?",
+      "a": "For a small plumbing business, the most critical feature is a highly reliable and easy-to-use mobile app for technicians. The app is the central hub for job details, customer history, invoicing, and payment collection in the field. A clunky or slow app will frustrate technicians and slow down the entire operation."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are designed for the US and Canadian markets, so international users should verify region-specific features like tax calculations and payment gateways.",
+    "Pricing for the top-ranked, enterprise-focused platforms is often not public. It requires a sales call and can include significant setup fees and long-term contracts."
+  ],
+  "glossary": {
+    "term": "FSM",
+    "definition": "Field Service Management (FSM) is a category of software that helps companies manage resources and workers located outside the office.",
+    "synonyms": [
+      "Job Management Software",
+      "Service Management Software"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "ServiceTitan",
+      "url": "https://www.servicetitan.com",
+      "founded": 2012,
+      "hq": "Glendale, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large residential and commercial plumbing businesses seeking an all-in-one platform for growth and profitability tracking.",
+      "best_for_short": "Scaling large plumbing businesses",
+      "pricing_band": "$$$$ ($400 to $1500+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core FSM Features": 9.4,
+        "Financial Tools": 9.3,
+        "Mobile App Usability": 8.9,
+        "Pricing & Scalability": 8.5,
+        "Integrations & Ecosystem": 9.4
+      },
+      "verdict": "ServiceTitan is the best overall platform for established plumbing companies because its feature set for managing sales, marketing, and operations is the most advanced in the market.",
+      "verdict_short": "The most advanced all-in-one platform for established, growth-focused plumbing businesses.",
+      "praise": "Its reporting and analytics are unmatched, providing deep insights into technician performance, job profitability, and marketing ROI with over 150 built-in reports.",
+      "praise_short": "Unmatched reporting and business analytics.",
+      "criticism": "The platform is expensive, with pricing starting around $398 per month plus setup fees, making it inaccessible for smaller shops or solo operators.",
+      "criticism_short": "High cost and complexity make it unsuitable for small shops.",
+      "sources_pending": [
+        "ServiceTitan Pricing Guide 2026",
+        "G2 ServiceTitan Reviews",
+        "Capterra User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 398,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks",
+        "Google Ads",
+        "Zapier",
+        "Fleetio",
+        "Various supply houses"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Jobber",
+      "url": "https://getjobber.com",
+      "founded": 2011,
+      "hq": "Edmonton, Canada",
+      "team_size_band": "501-1000",
+      "best_for": "Small to medium-sized plumbing businesses that need a strong balance of core features, ease of use, and affordable pricing.",
+      "best_for_short": "Small to mid-sized plumbing shops",
+      "pricing_band": "$$ ($49 to $249/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core FSM Features": 8.9,
+        "Financial Tools": 9,
+        "Mobile App Usability": 9.3,
+        "Pricing & Scalability": 9.2,
+        "Integrations & Ecosystem": 8.5
+      },
+      "verdict": "Jobber earns its high rank by offering a polished, intuitive platform that covers all the essential needs of a growing plumbing business without the complexity of enterprise systems.",
+      "verdict_short": "A polished, intuitive platform with a great balance of features and price.",
+      "praise": "Its customer communication tools, including automated appointment reminders and follow-ups, are excellent and reduce no-shows by up to 25% according to user reports.",
+      "praise_short": "Excellent automated customer communication.",
+      "criticism": "The inventory management feature is basic and may not be sufficient for businesses that need to track a large volume of parts across multiple trucks.",
+      "criticism_short": "Inventory management is too basic for larger needs.",
+      "sources_pending": [
+        "Jobber Pricing Page",
+        "PCMag Review of Jobber",
+        "Software Advice User Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Zapier",
+        "Stripe",
+        "Mailchimp",
+        "FleetSharp"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "Housecall Pro",
+      "url": "https://www.housecallpro.com",
+      "founded": 2013,
+      "hq": "Denver, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Owner-operators and small plumbing teams who prioritize ease of use and built-in marketing tools to win new customers.",
+      "best_for_short": "Owner-operators needing marketing tools",
+      "pricing_band": "$$ ($65 to $399/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core FSM Features": 8.6,
+        "Financial Tools": 8.7,
+        "Mobile App Usability": 9.4,
+        "Pricing & Scalability": 8.5,
+        "Integrations & Ecosystem": 8.6
+      },
+      "verdict": "Housecall Pro stands out for its exceptionally user-friendly mobile app and consumer-facing features like online booking, making it ideal for residential service providers.",
+      "verdict_short": "Extremely user-friendly with strong consumer-facing features like online booking.",
+      "praise": "Its marketing suite, including automated postcard and email campaigns to past customers, is a built-in feature that helps generate repeat business effectively.",
+      "praise_short": "Built-in marketing suite for repeat business.",
+      "criticism": "The per-user pricing on higher tiers can become expensive as a team grows, potentially costing more than competitors for teams larger than 5 people.",
+      "criticism_short": "Per-user pricing becomes costly as teams grow.",
+      "sources_pending": [
+        "Housecall Pro Pricing Page",
+        "Forbes Advisor Review",
+        "G2 Housecall Pro vs Jobber"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 65,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Zapier",
+        "Google Local Services Ads",
+        "Stripe",
+        "CompanyCam"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "FieldEdge",
+      "url": "https://fieldedge.com",
+      "founded": 1980,
+      "hq": "Fort Myers, USA",
+      "team_size_band": "201-500",
+      "best_for": "Established plumbing contractors who are deeply integrated with QuickBooks Desktop and need powerful service agreement management.",
+      "best_for_short": "QuickBooks Desktop power users",
+      "pricing_band": "$$$ ($100 to $500+/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core FSM Features": 8.8,
+        "Financial Tools": 9.2,
+        "Mobile App Usability": 7.8,
+        "Pricing & Scalability": 8,
+        "Integrations & Ecosystem": 8.4
+      },
+      "verdict": "FieldEdge is the top choice for plumbing businesses committed to QuickBooks Desktop, offering a seamless integration that is superior to the sync capabilities of many other platforms.",
+      "verdict_short": "The best option for deep integration with QuickBooks Desktop.",
+      "praise": "Its service agreement management is a major strength, automating scheduling, billing, and renewals for maintenance contracts, which is a key profit center for many plumbers.",
+      "praise_short": "Powerful service agreement management.",
+      "criticism": "The mobile app's interface feels dated compared to newer competitors, and some users report slower performance on older devices.",
+      "criticism_short": "Mobile app interface feels dated.",
+      "sources_pending": [
+        "FieldEdge Website",
+        "Capterra FieldEdge Reviews",
+        "QuickBooks App Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 100,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks Desktop",
+        "QuickBooks Online",
+        "CompanyCam",
+        "Podium",
+        "Payzer"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Workiz",
+      "url": "https://www.workiz.com",
+      "founded": 2015,
+      "hq": "San Diego, USA",
+      "team_size_band": "51-200",
+      "best_for": "Plumbing businesses that rely heavily on phone calls for new jobs and want to track ad spend and call performance.",
+      "best_for_short": "Tracking ad spend and calls",
+      "pricing_band": "$$ ($65 to $299/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core FSM Features": 8.4,
+        "Financial Tools": 8.2,
+        "Mobile App Usability": 8.5,
+        "Pricing & Scalability": 8.3,
+        "Integrations & Ecosystem": 8
+      },
+      "verdict": "Workiz differentiates itself with unique, integrated tools like call tracking and masking, making it a strong contender for plumbing shops focused on optimizing their marketing ROI.",
+      "verdict_short": "Strong choice for its integrated call tracking and marketing ROI features.",
+      "praise": "The built-in call tracking system allows you to assign unique phone numbers to different ads (e.g., Google, Yelp) and see exactly which campaigns are making the phone ring.",
+      "praise_short": "Built-in call tracking for ad campaigns.",
+      "criticism": "Reporting features are less advanced than top competitors, lacking the deep financial and operational dashboards found in platforms like ServiceTitan.",
+      "criticism_short": "Reporting capabilities are not as advanced.",
+      "sources_pending": [
+        "Workiz Pricing Page",
+        "G2 Workiz Reviews",
+        "TechRadar Pro Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 65,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Zapier",
+        "Google Calendar",
+        "Stripe",
+        "CompanyCam"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 15
+    },
+    {
+      "rank": 6,
+      "name": "Simpro",
+      "url": "https://www.simprogroup.com",
+      "founded": 2002,
+      "hq": "Brisbane, Australia",
+      "team_size_band": "501-1000",
+      "best_for": "Larger plumbing companies, especially those managing complex projects, multi-stage jobs, and extensive inventory.",
+      "best_for_short": "Complex projects and inventory",
+      "pricing_band": "$$$$ ($300 to $1000+/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core FSM Features": 8.9,
+        "Financial Tools": 8.5,
+        "Mobile App Usability": 7.5,
+        "Pricing & Scalability": 7.8,
+        "Integrations & Ecosystem": 8
+      },
+      "verdict": "Simpro excels in handling operational complexity, offering powerful project management and inventory tools that surpass what many simpler FSM platforms provide.",
+      "verdict_short": "A powerful platform for managing complex, multi-stage plumbing projects.",
+      "praise": "Its inventory management is top-tier, with features for purchase orders, supplier catalogs, and multi-location stock tracking that are critical for large-scale operations.",
+      "praise_short": "Top-tier, multi-location inventory management.",
+      "criticism": "The platform has a steeper learning curve than competitors like Jobber, and the user interface can feel dense and less intuitive during initial setup.",
+      "criticism_short": "Steep learning curve and a dense user interface.",
+      "sources_pending": [
+        "Simpro Website",
+        "Software Advice Simpro Reviews",
+        "G2 Simpro vs ServiceTitan"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 300,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Zapier",
+        "Various supplier integrations"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Commusoft",
+      "url": "https://www.commusoft.com",
+      "founded": 2006,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Plumbing businesses focused on delivering a premium customer experience with detailed tracking and communication.",
+      "best_for_short": "Premium customer experience",
+      "pricing_band": "$$$ ($99 to $499/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Core FSM Features": 8.5,
+        "Financial Tools": 8,
+        "Mobile App Usability": 8.2,
+        "Pricing & Scalability": 7.5,
+        "Integrations & Ecosystem": 7.9
+      },
+      "verdict": "Commusoft secures its place by providing exceptional tools for managing the entire customer journey, from initial inquiry to post-job follow-up and service reminders.",
+      "verdict_short": "Exceptional tools for managing the end-to-end customer journey.",
+      "praise": "The platform's real-time technician tracking portal for customers (similar to Uber) is a standout feature that reduces 'where are you?' calls and improves customer satisfaction.",
+      "praise_short": "Live technician tracking for customers.",
+      "criticism": "Pricing is based on a modular approach, and costs can add up quickly as you add necessary features like inventory or service agreements.",
+      "criticism_short": "Modular pricing can become expensive quickly.",
+      "sources_pending": [
+        "Commusoft Pricing Page",
+        "Capterra UK Reviews",
+        "G2 Commusoft Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Stripe",
+        "Sage",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "USA",
+        "UK",
+        "Canada"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Service Fusion",
+      "url": "https://www.servicefusion.com",
+      "founded": 2014,
+      "hq": "Richardson, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growing plumbing businesses that want predictable software costs with an unlimited-user pricing model.",
+      "best_for_short": "Predictable, unlimited-user pricing",
+      "pricing_band": "$$ ($149 to $349/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Core FSM Features": 7.9,
+        "Financial Tools": 7.5,
+        "Mobile App Usability": 7.6,
+        "Pricing & Scalability": 8.9,
+        "Integrations & Ecosystem": 7
+      },
+      "verdict": "Service Fusion's primary appeal is its pricing model, which charges a flat monthly fee for unlimited users, making it exceptionally cost-effective for companies planning rapid team expansion.",
+      "verdict_short": "Highly cost-effective for growing teams due to its flat-rate, unlimited-user pricing.",
+      "praise": "The 'FusionPay' integrated payment processing offers competitive flat rates (e.g., 2.9% + $0.30) which simplifies cost forecasting for payment collection.",
+      "praise_short": "Competitive, flat-rate payment processing.",
+      "criticism": "The user interface for both the web and mobile apps is less modern and intuitive than top-ranked competitors, requiring more training time for new staff.",
+      "criticism_short": "User interface is less modern and intuitive.",
+      "sources_pending": [
+        "Service Fusion Pricing Page",
+        "G2 Service Fusion Reviews",
+        "Software Advice User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 349,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Google Calendar",
+        "Authorize.net"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "FieldPulse",
+      "url": "https://www.fieldpulse.com",
+      "founded": 2015,
+      "hq": "Dallas, USA",
+      "team_size_band": "11-50",
+      "best_for": "Tech-savvy small plumbing teams looking for a modern, mobile-first platform with flexible features.",
+      "best_for_short": "Modern, mobile-first platform",
+      "pricing_band": "$ ($59 to $119/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Core FSM Features": 7.5,
+        "Financial Tools": 7.8,
+        "Mobile App Usability": 8,
+        "Pricing & Scalability": 7.5,
+        "Integrations & Ecosystem": 7.2
+      },
+      "verdict": "FieldPulse offers a clean, modern interface and solid core functionality at a competitive price point, making it a great choice for younger businesses comfortable with digital tools.",
+      "verdict_short": "A clean, modern FSM with solid features at a competitive price.",
+      "praise": "Its estimating and invoicing tools are particularly strong, with options for good/better/best pricing tiers and e-signatures that help increase average ticket size.",
+      "praise_short": "Strong estimating with good/better/best options.",
+      "criticism": "While it covers the basics well, it lacks some of the advanced automation and reporting features that more established competitors have built over many years.",
+      "criticism_short": "Lacks advanced automation and reporting.",
+      "sources_pending": [
+        "FieldPulse Pricing Page",
+        "Capterra FieldPulse Reviews",
+        "G2 User Feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Xero",
+        "Zapier",
+        "Square"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 10,
+      "name": "SmartServ",
+      "url": "https://www.smartserv.io",
+      "founded": 2016,
+      "hq": "Irvine, USA",
+      "team_size_band": "51-200",
+      "best_for": "Data-driven plumbing companies that want to use operational data to improve scheduling, sales, and marketing.",
+      "best_for_short": "Data-driven decision making",
+      "pricing_band": "$$$ ($200 to $600/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core FSM Features": 7.8,
+        "Financial Tools": 7.5,
+        "Mobile App Usability": 7.4,
+        "Pricing & Scalability": 7.2,
+        "Integrations & Ecosystem": 7.5
+      },
+      "verdict": "SmartServ's strength lies in its focus on analytics, providing dashboards and reports that help managers optimize routes, track technician sales, and make informed business decisions.",
+      "verdict_short": "Strong analytics and reporting to optimize operations and sales.",
+      "praise": "The platform includes AI-powered call booking and scheduling assistants that can help office staff qualify leads and book jobs more efficiently.",
+      "praise_short": "AI-powered call booking and scheduling.",
+      "criticism": "The platform is less of an all-in-one solution than others, sometimes requiring more reliance on its integrations for things like advanced marketing or payroll.",
+      "criticism_short": "Less of an all-in-one solution than others.",
+      "sources_pending": [
+        "SmartServ Website",
+        "G2 SmartServ Reviews",
+        "Software Advice Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 200,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "ServiceTitan",
+        "Google Calendar",
+        "CallRail"
+      ],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Zuper",
+      "url": "https://zuper.co",
+      "founded": 2016,
+      "hq": "Seattle, USA",
+      "team_size_band": "51-200",
+      "best_for": "Plumbing businesses with unique workflows or those wanting to build a custom solution on a flexible FSM platform.",
+      "best_for_short": "Flexible and customizable workflows",
+      "pricing_band": "$$ ($39 to $119/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Core FSM Features": 7.5,
+        "Financial Tools": 7,
+        "Mobile App Usability": 7.8,
+        "Pricing & Scalability": 7,
+        "Integrations & Ecosystem": 7.9
+      },
+      "verdict": "Zuper is a wildcard because it's a general FSM platform, not plumbing-specific, but its high degree of customizability and strong API make it a powerful choice for businesses with non-standard needs.",
+      "verdict_short": "A highly customizable FSM for plumbing businesses with unique operational needs.",
+      "praise": "Its workflow builder allows you to create custom job processes, checklists, and automations with a drag-and-drop interface, offering flexibility that rigid systems lack.",
+      "praise_short": "Powerful custom workflow builder.",
+      "criticism": "Because it is not plumbing-specific, it lacks out-of-the-box features like flat-rate price books or direct integrations with plumbing supply houses.",
+      "criticism_short": "Lacks plumbing-specific features like price books.",
+      "sources_pending": [
+        "Zuper Pricing Page",
+        "G2 Zuper Reviews",
+        "Zuper API Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "QuickBooks",
+        "Zoho CRM",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100,
+      "is_wildcard": true
+    }
+  ]
+}

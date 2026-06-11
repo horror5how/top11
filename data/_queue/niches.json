@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "plumbing-software",
-      "title": "The 11 Best Plumbing Business Software",
-      "vertical": "Plumbing · Service Management",
-      "audience": "Plumbing contractors managing service jobs and invoicing",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
-      "slug": "landscaping-software",
-      "title": "The 11 Best Landscaping Business Software",
-      "vertical": "Landscaping · Operations",
-      "audience": "Landscaping companies managing routes, crews, and billing",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "social-media-b2b",
       "title": "The 11 Best Social Media Tools for B2B",
       "vertical": "Marketing · Social",
@@ -350,7 +334,9 @@
     "gym-management-software",
     "restaurant-pos",
     "field-service-management",
-    "hvac-software"
+    "hvac-software",
+    "plumbing-software",
+    "landscaping-software"
   ],
   "skipped": [
     {
