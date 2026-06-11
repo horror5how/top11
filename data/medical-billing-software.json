@@ -1,0 +1,803 @@
+{
+  "slug": "medical-billing-software",
+  "title": "The 11 Best Medical Billing Software",
+  "subtitle": "This ranking focuses on providers that balance powerful revenue cycle management features with user-friendly practice integration for small to mid-sized practices.",
+  "vertical": "Healthcare · Billing",
+  "audience": "Medical practices managing billing and revenue cycle",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Healthcare Technology",
+  "subsector": "Practice Management",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights Revenue Cycle Management (RCM) Features at 30%, EHR/EMR Integration at 25%, and Compliance & Security at 20%."
+    }
+  ],
+  "answer_capsule": "The best medical billing software is athenahealth for its extensive network and RCM services, followed by Tebra for small practices and AdvancedMD for its modular platform.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "RCM Features",
+        "weight": 30,
+        "description": "Effectiveness of core revenue cycle management tools, including claim submission, scrubbing, denial management, payment posting, and reporting."
+      },
+      {
+        "name": "EHR/EMR Integration",
+        "weight": 25,
+        "description": "Quality and depth of integration with electronic health record systems, assessing both native and third-party connectivity for smooth clinical-to-financial workflow."
+      },
+      {
+        "name": "Compliance & Security",
+        "weight": 20,
+        "description": "Adherence to healthcare regulations like HIPAA and support for value-based care reporting (MIPS/MACRA). Includes data security protocols."
+      },
+      {
+        "name": "Ease of Use & Support",
+        "weight": 15,
+        "description": "Intuitive user interface, quality of onboarding, and responsiveness of customer support channels (phone, email, chat)."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 10,
+        "description": "Clarity of pricing models, availability of public pricing information, and overall value relative to features. Penalizes opaque, quote-only models."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Small Practice",
+    "Mid-Sized Clinic",
+    "Specialty Practice",
+    "Revenue Cycle Management",
+    "Integrated EHR"
+  ],
+  "problem_tags": [
+    "Claim Denials",
+    "Inefficient Billing",
+    "Compliance Risk",
+    "Poor Cash Flow",
+    "Patient Collections"
+  ],
+  "query_intents": [
+    "best medical billing software",
+    "top RCM software",
+    "EHR with billing",
+    "medical practice management software",
+    "hipaa compliant billing software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Reducing claim denial rates",
+        "Automating billing workflows"
+      ],
+      "personas": [
+        "Hospital administrators",
+        "Large group practices"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Simplifying billing for new practices",
+        "Integrating patient engagement"
+      ],
+      "personas": [
+        "Solo practitioners",
+        "Small clinic owners"
+      ]
+    },
+    "11": {
+      "solves": [
+        "All-in-one practice management for therapists",
+        "Automating insurance claims for mental health"
+      ],
+      "personas": [
+        "Therapists",
+        "Psychologists",
+        "Social workers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.02,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What's the difference between standalone billing software and an integrated EHR suite?",
+      "a": "Standalone billing software focuses exclusively on the financial side (claims, payments, collections), while an integrated EHR suite combines clinical charting with billing in a single platform. Integrated suites streamline the workflow from patient visit to payment, reducing duplicate data entry, but can be more expensive and lock you into one vendor's ecosystem."
+    },
+    {
+      "q": "How do providers typically price their medical billing software?",
+      "a": "The most common pricing models are a percentage of monthly collections (typically 3-9%), a flat monthly fee per provider (e.g., $200-$500), or a per-claim fee. Percentage-based pricing aligns the vendor's success with yours but can be costly for high-volume practices. Flat fees are predictable but may not scale down for smaller practices."
+    }
+  ],
+  "how_to_choose": [
+    "Verify that the software integrates seamlessly with your current or planned EHR system to avoid manual data transfer.",
+    "Request a detailed demo focused on your specific specialty's billing codes and workflow challenges.",
+    "Clarify the total cost of ownership, including setup fees, training costs, and charges for customer support.",
+    "Check their average first-pass acceptance rate for claims, a key indicator of the software's claim scrubbing effectiveness."
+  ],
+  "faqs": [
+    {
+      "q": "What is the average cost of medical billing software?",
+      "a": "The average cost varies widely based on the pricing model and practice size, ranging from $100 per provider per month for basic software to 4-9% of monthly collections for full-service RCM platforms. Many providers do not publish pricing, requiring a custom quote."
+    },
+    {
+      "q": "Can medical billing software integrate with my existing EHR?",
+      "a": "Yes, most top-tier software offers integrations with major EHRs, but you must verify compatibility with your specific system. Ask for a list of certified integration partners before committing to a purchase."
+    },
+    {
+      "q": "Is medical billing software HIPAA compliant?",
+      "a": "Yes, any reputable medical billing software intended for use in the United States must be HIPAA compliant. The provider should be willing to sign a Business Associate Agreement (BAA) to formalize their responsibility in protecting patient data."
+    },
+    {
+      "q": "What is the difference between medical billing software and a billing service?",
+      "a": "Medical billing software is a tool your in-house staff uses to manage the billing process themselves. A medical billing service is an outsourced company that handles your entire billing cycle for you, using their own staff and software, typically for a percentage of your collections."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are primarily focused on the US healthcare market; features and compliance for other countries are limited.",
+    "Pricing in this industry is notoriously opaque. Many providers require a sales call for a quote, making direct cost comparison difficult."
+  ],
+  "glossary": {
+    "term": "Revenue Cycle Management (RCM)",
+    "definition": "The financial process used by healthcare providers to manage claims processing, payment, and revenue generation from patient care.",
+    "synonyms": [
+      "Medical Billing",
+      "Healthcare Financial Management"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "athenahealth",
+      "url": "https://www.athenahealth.com",
+      "founded": 1997,
+      "hq": "Watertown, MA, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Practices seeking a full-service, network-powered platform that combines EHR, billing, and patient engagement.",
+      "best_for_short": "Large practices and hospitals",
+      "pricing_band": "$$$$ (Percentage of collections)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "RCM Features": 9.4,
+        "EHR/EMR Integration": 9.3,
+        "Compliance & Security": 9.2,
+        "Ease of Use & Support": 8.8,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "athenahealth ranks first due to its powerful, cloud-based network that provides data-driven insights to reduce denial rates, often achieving a 95% or higher first-pass claim resolution rate.",
+      "verdict_short": "Best for its data-driven network that improves claim success rates for large practices.",
+      "praise": "The athenaNet platform's rules engine is continuously updated based on data from over 200,000 providers, catching errors before claims are submitted.",
+      "praise_short": "Vast network data improves claim scrubbing.",
+      "criticism": "The pricing model, based on a percentage of collections, can be significantly more expensive for high-volume practices compared to flat-fee software.",
+      "criticism_short": "Expensive percentage-of-collections pricing model.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Forrester Wave: RCM"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "LabCorp",
+        "Quest Diagnostics",
+        "Phreesia",
+        "Various HIEs"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA",
+        "ONC-ATCB Certified"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Tebra",
+      "url": "https://www.tebra.com",
+      "founded": 2021,
+      "hq": "Newport Beach, CA, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Small and independent practices needing an all-in-one, user-friendly platform for clinical and financial management.",
+      "best_for_short": "Small independent practices",
+      "pricing_band": "$$$ ($300 to $700/mo/provider)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "RCM Features": 8.8,
+        "EHR/EMR Integration": 9.2,
+        "Compliance & Security": 9,
+        "Ease of Use & Support": 9.3,
+        "Pricing & Transparency": 8.7
+      },
+      "verdict": "Tebra, the result of Kareo and PatientPop's merger, excels by offering a complete and easy-to-use practice management solution tailored for independent practices with 1-10 providers.",
+      "verdict_short": "Best all-in-one solution for small, independent medical practices.",
+      "praise": "Its mobile app is highly functional, allowing providers to manage schedules, charts, and billing tasks from a smartphone, a significant benefit for practitioners on the go.",
+      "praise_short": "Excellent, full-featured mobile application.",
+      "criticism": "While strong for general practice, the platform's billing and EHR templates can be less accommodating for highly specialized fields like dermatology or oncology.",
+      "criticism_short": "Less customization for niche specialties.",
+      "sources_pending": [
+        "Vendor website",
+        "Capterra reviews",
+        "KLAS Research reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 319,
+      "price_max": 769,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 250,
+      "integrations": [
+        "Apple Health",
+        "Google Calendar",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 3,
+      "name": "AdvancedMD",
+      "url": "https://www.advancedmd.com",
+      "founded": 1999,
+      "hq": "South Jordan, UT, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Mid-sized practices that want a modular, highly customizable solution to build a tailored practice management stack.",
+      "best_for_short": "Customizable for mid-sized practices",
+      "pricing_band": "$$$ ($400 to $800/mo/provider)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "RCM Features": 9,
+        "EHR/EMR Integration": 8.8,
+        "Compliance & Security": 8.5,
+        "Ease of Use & Support": 8.2,
+        "Pricing & Transparency": 8.6
+      },
+      "verdict": "AdvancedMD secures its position with a highly flexible, a la carte platform, allowing practices to purchase only the billing, EHR, and patient engagement modules they need.",
+      "verdict_short": "Best for its modular approach, letting practices build a custom solution.",
+      "praise": "The platform's reporting suite is exceptionally detailed, offering over 150 standard reports and a custom report builder for deep financial analysis.",
+      "praise_short": "Powerful and detailed reporting capabilities.",
+      "criticism": "The sheer number of features and customization options can result in a steep learning curve and a cluttered interface for new users.",
+      "criticism_short": "Steep learning curve and complex interface.",
+      "sources_pending": [
+        "Vendor pricing page",
+        "Software Advice user reviews",
+        "Company case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 429,
+      "price_max": 800,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "Surescripts",
+        "TriZetto Provider Solutions",
+        "Updox"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA",
+        "21st Century Cures Act"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 3,
+      "max_team_size": 250
+    },
+    {
+      "rank": 4,
+      "name": "CareCloud",
+      "url": "https://www.carecloud.com",
+      "founded": 2009,
+      "hq": "Somerset, NJ, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "High-growth practices looking for a modern, scalable platform with strong patient experience tools.",
+      "best_for_short": "Scalable for growing practices",
+      "pricing_band": "$$$ ($350 to $700/mo/provider)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "RCM Features": 8.6,
+        "EHR/EMR Integration": 8.5,
+        "Compliance & Security": 8.4,
+        "Ease of Use & Support": 8.7,
+        "Pricing & Transparency": 8.3
+      },
+      "verdict": "CareCloud stands out for its modern, web-based interface and strong suite of patient engagement tools, making it a great choice for practices focused on patient experience.",
+      "verdict_short": "Best for modern interface and patient engagement tools.",
+      "praise": "Its patient portal, Breeze, is one of the best in the industry, simplifying appointment booking, intake forms, and online payments for patients.",
+      "praise_short": "Excellent Breeze patient portal.",
+      "criticism": "Customer support response times can be inconsistent, with some users reporting delays of over 24 hours for non-critical issues.",
+      "criticism_short": "Inconsistent customer support response times.",
+      "sources_pending": [
+        "Vendor website",
+        "G2 reviews",
+        "Public company filings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 349,
+      "price_max": 629,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Zocdoc",
+        "Navicure",
+        "Waystar"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 5,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "NextGen Healthcare",
+      "url": "https://www.nextgen.com",
+      "founded": 1974,
+      "hq": "Atlanta, GA, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Ambulatory practices and specialty clinics needing a mature, feature-rich system with strong reporting.",
+      "best_for_short": "Ambulatory and specialty clinics",
+      "pricing_band": "$$$$ (Quote-based)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "RCM Features": 8.8,
+        "EHR/EMR Integration": 8.5,
+        "Compliance & Security": 8.7,
+        "Ease of Use & Support": 7.5,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "NextGen Enterprise is a powerful and established solution for ambulatory care, offering deep functionality for complex billing scenarios and value-based care models.",
+      "verdict_short": "Best for complex billing in ambulatory specialty practices.",
+      "praise": "The system provides specialty-specific content and workflows for over 25 different medical fields, reducing the need for extensive customization.",
+      "praise_short": "Strong specialty-specific templates and workflows.",
+      "criticism": "The user interface feels dated compared to newer, cloud-native competitors, and the system can feel slow during peak usage hours.",
+      "criticism_short": "Dated user interface and occasional slowness.",
+      "sources_pending": [
+        "Vendor website",
+        "KLAS Research reports",
+        "Gartner reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Surescripts",
+        "CoverMyMeds",
+        "Emdeon"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA",
+        "ONC Certified"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "DrChrono",
+      "url": "https://www.drchrono.com",
+      "founded": 2009,
+      "hq": "Sunnyvale, CA, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small, mobile-first practices, particularly those that rely heavily on Apple devices like iPads and iPhones.",
+      "best_for_short": "Mobile-first and Apple-centric practices",
+      "pricing_band": "$$$ ($200 to $600/mo/provider)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "RCM Features": 7.8,
+        "EHR/EMR Integration": 8.5,
+        "Compliance & Security": 8.2,
+        "Ease of Use & Support": 8.3,
+        "Pricing & Transparency": 7.9
+      },
+      "verdict": "DrChrono (part of EverHealth) earns its spot by being the first EHR/billing platform built for the iPad, offering an exceptional mobile experience for charting and charge capture.",
+      "verdict_short": "Best for its native iPad and iPhone mobile workflow.",
+      "praise": "The ability to customize medical forms and templates directly on the iPad is a key differentiator, allowing for quick adjustments to clinical documentation.",
+      "praise_short": "Highly customizable forms on mobile devices.",
+      "criticism": "The integrated billing service (RCM) has received mixed reviews, with some clients citing communication issues and slower-than-expected payment posting.",
+      "criticism_short": "Mixed reviews for its RCM service.",
+      "sources_pending": [
+        "Vendor website",
+        "Apple App Store reviews",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 499,
+      "integrations": [
+        "Square",
+        "Health Gorilla",
+        "CoverMyMeds"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 7,
+      "name": "CureMD",
+      "url": "https://www.curemd.com",
+      "founded": 1997,
+      "hq": "New York, NY, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Specialty practices (like cardiology and oncology) needing an all-in-one solution with tailored clinical and billing templates.",
+      "best_for_short": "Specialty practices needing templates",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "RCM Features": 8.2,
+        "EHR/EMR Integration": 8,
+        "Compliance & Security": 8.1,
+        "Ease of Use & Support": 7.5,
+        "Pricing & Transparency": 7.3
+      },
+      "verdict": "CureMD provides a solid, integrated EHR and billing platform with a notable strength in its pre-built templates for over 30 medical specialties, which accelerates implementation.",
+      "verdict_short": "Best for its large library of specialty-specific templates.",
+      "praise": "Its 'Avalon' update introduced a more streamlined user interface and improved automation for tasks like appointment reminders and eligibility checks.",
+      "praise_short": "Streamlined UI with the 'Avalon' update.",
+      "criticism": "The platform is not as open as some competitors, with a more limited API and fewer third-party app integrations available in its marketplace.",
+      "criticism_short": "Limited API and third-party integrations.",
+      "sources_pending": [
+        "Vendor website",
+        "Software Advice reviews",
+        "KLAS reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Surescripts",
+        "LabCorp",
+        "Quest Diagnostics"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA",
+        "ONC-ATCB"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": 200
+    },
+    {
+      "rank": 8,
+      "name": "RXNT",
+      "url": "https://www.rxnt.com",
+      "founded": 1999,
+      "hq": "Annapolis, MD, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small practices and budget-conscious clinics looking for a straightforward, affordable, and fully integrated solution.",
+      "best_for_short": "Affordable for small practices",
+      "pricing_band": "$$ ($150 to $250/mo/provider)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "RCM Features": 7.5,
+        "EHR/EMR Integration": 7.6,
+        "Compliance & Security": 7.8,
+        "Ease of Use & Support": 7.9,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "RXNT offers one of the most cost-effective, full-suite EHR and billing solutions on the market, making it an excellent entry point for new or small practices.",
+      "verdict_short": "Best for its transparent, affordable pricing for full-suite software.",
+      "praise": "The company is notable for its transparent, publicly listed pricing, a rarity in an industry that heavily favors opaque, quote-based sales processes.",
+      "praise_short": "Transparent, publicly available pricing.",
+      "criticism": "While functional, the feature set is less extensive than premium competitors, lacking some of the advanced automation and reporting found in higher-priced systems.",
+      "criticism_short": "Lacks advanced automation and reporting features.",
+      "sources_pending": [
+        "Vendor pricing page",
+        "Capterra reviews",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 150,
+      "price_max": 225,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "MyMeds",
+        "First Databank"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA",
+        "EPCS Certified"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 20
+    },
+    {
+      "rank": 9,
+      "name": "Practice Fusion",
+      "url": "https://www.practicefusion.com",
+      "founded": 2005,
+      "hq": "San Francisco, CA, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small, independent practices that need a simple, cloud-based EHR with basic integrated billing capabilities.",
+      "best_for_short": "Simple EHR with basic billing",
+      "pricing_band": "$$ ($149/mo/provider)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "RCM Features": 7,
+        "EHR/EMR Integration": 7.5,
+        "Compliance & Security": 7.8,
+        "Ease of Use & Support": 8,
+        "Pricing & Transparency": 8.2
+      },
+      "verdict": "Practice Fusion is primarily an EHR, but its integrated billing module is sufficient for small practices with straightforward billing needs, offered at a competitive flat rate.",
+      "verdict_short": "A simple, affordable EHR with adequate integrated billing for small clinics.",
+      "praise": "The platform's e-prescribing workflow is exceptionally smooth and was one of the first to be widely adopted by small practices.",
+      "praise_short": "Excellent e-prescribing workflow.",
+      "criticism": "Its billing features are not as deep as dedicated RCM platforms; it lacks advanced denial management and analytics tools needed by larger or more complex practices.",
+      "criticism_short": "Billing features are basic, lacking depth.",
+      "sources_pending": [
+        "Vendor website",
+        "G2 reviews",
+        "Company blog"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-11",
+        "summary": "Practice Fusion settled with the DOJ in 2020 over kickback allegations related to opioid prescribing. The company has since operated under new leadership and a corporate integrity agreement.",
+        "signals": [
+          "2020 DOJ Settlement"
+        ]
+      },
+      "price_min": 149,
+      "price_max": 149,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Updox",
+        "Various labs and imaging centers"
+      ],
+      "compliance": [
+        "HIPAA",
+        "MIPS/MACRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 15
+    },
+    {
+      "rank": 10,
+      "name": "Waystar",
+      "url": "https://www.waystar.com",
+      "founded": 2017,
+      "hq": "Louisville, KY, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Hospitals and large health systems that need a dedicated RCM platform to manage complex payment cycles across multiple departments.",
+      "best_for_short": "Hospitals and large health systems",
+      "pricing_band": "$$$$ (Quote-based)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "RCM Features": 9.2,
+        "EHR/EMR Integration": 7.5,
+        "Compliance & Security": 8,
+        "Ease of Use & Support": 6.5,
+        "Pricing & Transparency": 5
+      },
+      "verdict": "Waystar is a pure-play RCM powerhouse, excelling at managing high volumes of complex claims for large organizations, though it is not an all-in-one EHR/billing suite.",
+      "verdict_short": "A dedicated RCM platform for complex, high-volume hospital billing.",
+      "praise": "Its denial prevention and management tools use predictive analytics to flag claims with a high probability of denial, allowing billers to correct them pre-submission.",
+      "praise_short": "Predictive analytics for denial prevention.",
+      "criticism": "Waystar is a specialized tool that must be integrated with an existing EHR, adding a layer of complexity and cost that is unsuitable for smaller practices.",
+      "criticism_short": "Requires integration with a separate EHR.",
+      "sources_pending": [
+        "Vendor website",
+        "Gartner Magic Quadrant for RCM",
+        "Company IPO filings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "Allscripts",
+        "MEDITECH"
+      ],
+      "compliance": [
+        "HIPAA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "SimplePractice",
+      "url": "https://www.simplepractice.com",
+      "founded": 2012,
+      "hq": "Santa Monica, CA, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Solo and group private practices in the mental and behavioral health fields.",
+      "best_for_short": "Mental health private practices",
+      "pricing_band": "$ ($29 to $99/mo/provider)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "RCM Features": 6.5,
+        "EHR/EMR Integration": 7,
+        "Compliance & Security": 7.5,
+        "Ease of Use & Support": 8.5,
+        "Pricing & Transparency": 9
+      },
+      "verdict": "SimplePractice is a wildcard because it's not a general medical billing tool; instead, it's a dominant, all-in-one practice management platform for behavioral health that makes billing incredibly easy for therapists.",
+      "verdict_short": "An all-in-one platform that simplifies billing specifically for therapists.",
+      "praise": "The platform automates the creation and submission of CMS-1500 forms for insurance claims, a task that is a major pain point for many solo practitioners.",
+      "praise_short": "Automates CMS-1500 claim form submission.",
+      "criticism": "It is entirely unsuitable for any medical practice outside of behavioral health, as its clinical notes, codes, and billing workflows are purpose-built for that niche.",
+      "criticism_short": "Completely unsuitable for non-behavioral health practices.",
+      "sources_pending": [
+        "Vendor website",
+        "Trustpilot reviews",
+        "Psychology Today forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Google Calendar",
+        "Headway"
+      ],
+      "compliance": [
+        "HIPAA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 25
+    }
+  ]
+}

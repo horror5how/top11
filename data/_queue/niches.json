@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "transcription-services",
-      "title": "The 11 Best Transcription Services",
-      "vertical": "Media · Transcription",
-      "audience": "Anyone needing accurate transcription of audio/video",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "medical-billing-software",
-      "title": "The 11 Best Medical Billing Software",
-      "vertical": "Healthcare · Billing",
-      "audience": "Medical practices managing billing and revenue cycle",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "patient-engagement-software",
       "title": "The 11 Best Patient Engagement Software",
       "vertical": "Healthcare · Patient Experience",
@@ -308,7 +292,9 @@
     "social-media-b2b",
     "email-marketing-ecommerce",
     "podcast-hosting",
-    "video-hosting-business"
+    "video-hosting-business",
+    "transcription-services",
+    "medical-billing-software"
   ],
   "skipped": [
     {

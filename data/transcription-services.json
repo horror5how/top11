@@ -1,0 +1,773 @@
+{
+  "slug": "transcription-services",
+  "title": "The 11 Best Transcription Services",
+  "subtitle": "An analysis of the top providers for converting audio and video to text, ranked by accuracy, turnaround time, and overall workflow efficiency.",
+  "vertical": "Media · Transcription",
+  "audience": "Anyone needing accurate transcription of audio/video",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Services",
+  "subsector": "Transcription & Translation",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights accuracy (30%), turnaround time (25%), pricing (20%), features (15%), and security (10%)."
+    }
+  ],
+  "answer_capsule": "The best transcription service is Rev for its high human-powered accuracy, followed by GoTranscript and Scribie for their balance of speed and cost.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Accuracy",
+        "weight": 30,
+        "description": "The percentage of words transcribed correctly, accounting for difficult audio, multiple speakers, and industry-specific terminology. Human-reviewed services are expected to exceed 99%."
+      },
+      {
+        "name": "Turnaround Time (TAT)",
+        "weight": 25,
+        "description": "The speed of delivery from file submission to final transcript receipt. Measured in hours for human services and minutes for automated services."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 20,
+        "description": "Cost per audio minute or per month for subscriptions. Value is assessed based on the balance of cost against accuracy, speed, and included features."
+      },
+      {
+        "name": "Features & Workflow",
+        "weight": 15,
+        "description": "Availability of tools like an online editor, speaker identification, timestamping options, collaboration features, and API access."
+      },
+      {
+        "name": "Security & Compliance",
+        "weight": 10,
+        "description": "Measures to protect data confidentiality, including NDAs with transcribers, and adherence to standards like GDPR and HIPAA."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Human Transcription",
+    "AI Transcription",
+    "Video Subtitling",
+    "Meeting Notes",
+    "Podcast Transcription"
+  ],
+  "problem_tags": [
+    "Inaccurate Transcripts",
+    "Slow Delivery",
+    "High Costs",
+    "Data Security",
+    "Poor Workflow"
+  ],
+  "query_intents": [
+    "best transcription service",
+    "rev vs gotranscript",
+    "cheap transcription service",
+    "accurate transcription",
+    "ai transcription software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Inaccurate Transcripts",
+        "Poor Workflow"
+      ],
+      "personas": [
+        "Legal Professionals",
+        "Journalists",
+        "Production Houses"
+      ]
+    },
+    "5": {
+      "solves": [
+        "Slow Delivery",
+        "High Costs"
+      ],
+      "personas": [
+        "Students",
+        "Project Managers",
+        "Corporate Teams"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Poor Workflow"
+      ],
+      "personas": [
+        "Podcasters",
+        "Video Editors",
+        "Content Creators"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8,
+    "spread_top_to_bottom": 2.3
+  },
+  "guide": [
+    {
+      "q": "What is the primary difference between AI and human transcription?",
+      "a": "The primary difference is the trade-off between speed/cost and accuracy/nuance. AI transcription is nearly instant and very inexpensive (around $0.25/minute), but its accuracy drops with background noise, accents, or multiple speakers. Human transcription is slower and more expensive (around $1.25/minute) but delivers over 99% accuracy by understanding context and nuance."
+    },
+    {
+      "q": "How should I evaluate the pricing of transcription services?",
+      "a": "Evaluate pricing based on your primary need. If you have a one-off project, per-minute pricing from services like Rev or GoTranscript is straightforward. If you have a high volume of recurring audio, a subscription-based AI service like Otter.ai or Trint might offer better value, provided you are comfortable with editing the output for accuracy."
+    }
+  ],
+  "how_to_choose": [
+    "First, determine your required accuracy level; anything for legal, medical, or final publication needs 99%+ human accuracy, while draft work may tolerate 90% AI accuracy.",
+    "Next, consider your turnaround time. If you need transcripts in minutes, an AI service is your only option. If you can wait 12-24 hours, human services provide much higher quality.",
+    "Finally, audit your audio quality. Clear, single-speaker audio is a good fit for AI services. Audio with background noise, cross-talk, or strong accents will require a human service to be usable."
+  ],
+  "faqs": [
+    {
+      "q": "What is the most accurate transcription service?",
+      "a": "Rev is widely considered the most accurate transcription service for general use, guaranteeing 99% accuracy with its human-powered transcription. For specialized fields like legal or medical, dedicated services that use expert transcribers may offer slightly higher subject-matter accuracy."
+    },
+    {
+      "q": "How much does it cost to transcribe 1 hour of audio?",
+      "a": "Transcribing one hour of audio typically costs between $75 and $90 with a human service (at $1.25 to $1.50 per minute). Using an automated AI service, the cost is much lower, ranging from $6 with a subscription service like Sonix to $15 with a pay-as-you-go service like Temi."
+    },
+    {
+      "q": "Is AI transcription good enough?",
+      "a": "AI transcription is good enough for tasks where perfect accuracy is not critical, such as creating draft notes, analyzing sentiment, or making content searchable. For any public-facing or legally sensitive content, it usually requires a human review pass to correct errors in names, grammar, and speaker labels."
+    },
+    {
+      "q": "Are transcription services secure?",
+      "a": "Reputable transcription services use secure, encrypted platforms for file uploads and storage. Most providers have strict confidentiality agreements with their human transcribers and offer compliance with standards like GDPR. For highly sensitive data, look for providers like 3Play Media that offer specific compliance features for HIPAA."
+    }
+  ],
+  "honest_disclosures": [
+    "Pricing models vary significantly, from per-minute rates for human services to monthly subscriptions for AI tools, making direct cost comparison difficult without knowing your exact volume.",
+    "Accuracy claims of '99%' are for clear audio; performance degrades with poor recording quality, heavy accents, or significant background noise.",
+    "Most top-tier providers are based in the US or UK, which may have implications for data residency and support hours for international customers."
+  ],
+  "glossary": {
+    "term": "Verbatim Transcription",
+    "definition": "A style of transcription that captures every word and utterance exactly as spoken, including filler words (um, uh), false starts, and non-verbal sounds (laughter, pauses).",
+    "synonyms": [
+      "Strict Verbatim",
+      "Full Verbatim"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Rev",
+      "url": "https://www.rev.com",
+      "founded": 2010,
+      "hq": "Austin, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Users who require the highest level of human-powered accuracy (99%+) and reliability for professional, legal, or media projects.",
+      "best_for_short": "Highest human accuracy",
+      "pricing_band": "$$ ($1.50/min)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Accuracy": 9.4,
+        "Turnaround Time (TAT)": 8.8,
+        "Pricing & Value": 8.5,
+        "Features & Workflow": 9.4,
+        "Security & Compliance": 9.2
+      },
+      "verdict": "Rev ranks first because it consistently delivers 99% accurate human-powered transcripts with a simple workflow and reliable, though not the fastest, turnaround times.",
+      "verdict_short": "The industry standard for 99% accurate human transcription with a polished user experience.",
+      "praise": "The interactive transcript editor, which syncs audio playback with the text, makes reviewing and correcting files extremely efficient.",
+      "praise_short": "Excellent interactive editor for fast reviews.",
+      "criticism": "Its standard pricing of $1.50 per audio minute is among the highest in the market for non-specialized content.",
+      "criticism_short": "Premium pricing at $1.50 per minute.",
+      "sources_pending": [
+        "rev.com/pricing",
+        "g2.com/products/rev/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 1.5,
+      "price_max": 1.5,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "YouTube",
+        "Vimeo",
+        "Zoom",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "GoTranscript",
+      "url": "https://gotranscript.com",
+      "founded": 2005,
+      "hq": "Edinburgh, UK",
+      "team_size_band": "51-200",
+      "best_for": "Users looking for a strong balance of affordability, speed, and high accuracy from a global team of human transcribers.",
+      "best_for_short": "Best price-to-accuracy balance",
+      "pricing_band": "$ ($0.77/min)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Accuracy": 9,
+        "Turnaround Time (TAT)": 9.2,
+        "Pricing & Value": 9.4,
+        "Features & Workflow": 8,
+        "Security & Compliance": 8.5
+      },
+      "verdict": "GoTranscript earns its high rank by offering human transcription that is nearly as accurate as Rev's (99% guaranteed) but at a significantly lower starting price of $0.77 per minute.",
+      "verdict_short": "A highly accurate human service offering excellent value and fast turnaround options.",
+      "praise": "The ability to select rush delivery, with options down to 6-12 hours, provides valuable flexibility for time-sensitive projects.",
+      "praise_short": "Flexible rush delivery options available.",
+      "criticism": "The user interface and online editor are less modern and feature-rich than competitors like Rev or Trint.",
+      "criticism_short": "Dated user interface and editor.",
+      "sources_pending": [
+        "gotranscript.com/pricing",
+        "trustpilot.com/review/gotranscript.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0.77,
+      "price_max": 0.77,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "YouTube",
+        "Vimeo"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Scribie",
+      "url": "https://scribie.com",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Individuals and academics who prioritize accuracy and are willing to accept a slightly slower process for a meticulous, multi-step review.",
+      "best_for_short": "Meticulous review process",
+      "pricing_band": "$ ($0.80/min)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Accuracy": 9.3,
+        "Turnaround Time (TAT)": 8,
+        "Pricing & Value": 9,
+        "Features & Workflow": 8.2,
+        "Security & Compliance": 8.5
+      },
+      "verdict": "Scribie stands out for its four-step transcription process (transcription, review, proofreading, quality check) which ensures high accuracy, starting at a competitive $0.80 per minute.",
+      "verdict_short": "High accuracy achieved through a rigorous four-step quality control process.",
+      "praise": "The free re-review option provides peace of mind, allowing customers to request another check if they are not satisfied with the initial transcript's quality.",
+      "praise_short": "Offers a free re-review for quality assurance.",
+      "criticism": "The standard 36-hour turnaround time is slower than many competitors, and faster options come at a significant price increase.",
+      "criticism_short": "Standard 36-hour turnaround is slow.",
+      "sources_pending": [
+        "scribie.com/pricing",
+        "pcmag.com/reviews/scribie"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0.8,
+      "price_max": 0.8,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Dropbox",
+        "Google Drive"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Trint",
+      "url": "https://trint.com",
+      "founded": 2014,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Journalists, media teams, and researchers who need fast, AI-powered transcription combined with powerful collaborative editing and search tools.",
+      "best_for_short": "AI for collaborative media teams",
+      "pricing_band": "$$ ($48 to $60/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Accuracy": 7.8,
+        "Turnaround Time (TAT)": 9.4,
+        "Pricing & Value": 8,
+        "Features & Workflow": 9.3,
+        "Security & Compliance": 8.2
+      },
+      "verdict": "Trint is the best AI-based service for collaborative workflows, offering a fast, searchable, and editable transcript that integrates tightly with video and audio content for teams.",
+      "verdict_short": "A powerful, collaborative AI transcription platform designed for media and journalism workflows.",
+      "praise": "Its 'Vocab Builder' allows users to add custom words, names, and jargon, which significantly improves the AI's accuracy on subsequent files.",
+      "praise_short": "Custom vocabulary builder improves AI accuracy.",
+      "criticism": "The subscription model, which limits the number of files you can transcribe per month (e.g., 7 on the Starter plan), can be restrictive for high-volume users.",
+      "criticism_short": "Monthly file limits on subscription plans.",
+      "sources_pending": [
+        "trint.com/pricing",
+        "g2.com/products/trint/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 48,
+      "price_max": 60,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Adobe Premiere Pro",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Otter.ai",
+      "url": "https://otter.ai",
+      "founded": 2016,
+      "hq": "Mountain View, USA",
+      "team_size_band": "51-200",
+      "best_for": "Students, professionals, and teams who need real-time transcription for meetings and interviews, with automated summaries and speaker identification.",
+      "best_for_short": "Real-time meeting transcription",
+      "pricing_band": "$ ($0 to $20/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Accuracy": 7.5,
+        "Turnaround Time (TAT)": 9.4,
+        "Pricing & Value": 9,
+        "Features & Workflow": 9.1,
+        "Security & Compliance": 7
+      },
+      "verdict": "Otter.ai excels at real-time transcription and automated meeting notes, making it the top choice for live applications where speed and summaries are more important than perfect accuracy.",
+      "verdict_short": "The leader in AI-powered, real-time transcription and automated notes for meetings.",
+      "praise": "The 'OtterPilot' feature that automatically joins Zoom, Google Meet, or Microsoft Teams meetings to record and transcribe is a major productivity boost.",
+      "praise_short": "Automatically joins and transcribes virtual meetings.",
+      "criticism": "The AI struggles with heavy accents and cross-talk, often misattributing speakers or producing garbled text that requires significant manual correction.",
+      "criticism_short": "Accuracy drops with accents and cross-talk.",
+      "sources_pending": [
+        "otter.ai/pricing",
+        "capterra.com/p/175008/Otter/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Meet",
+        "Microsoft Teams",
+        "Dropbox",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Temi",
+      "url": "https://www.temi.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Users who need a fast, no-frills, and inexpensive automated transcript for clear, simple audio and are prepared to do their own editing.",
+      "best_for_short": "Fast and cheap AI transcription",
+      "pricing_band": "$ ($0.25/min)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Accuracy": 7.8,
+        "Turnaround Time (TAT)": 9.4,
+        "Pricing & Value": 9.2,
+        "Features & Workflow": 7,
+        "Security & Compliance": 7
+      },
+      "verdict": "Temi provides one of the fastest and most affordable AI transcription services on the market at just $0.25 per minute, making it ideal for high-volume, low-stakes projects with clear audio.",
+      "verdict_short": "A straightforward, pay-as-you-go AI service for fast, budget-friendly transcription.",
+      "praise": "The simple, pay-per-minute pricing with no subscriptions or commitments is perfect for users with inconsistent or one-off transcription needs.",
+      "praise_short": "Simple pay-as-you-go pricing model.",
+      "criticism": "As Rev's automated service, its accuracy is noticeably lower than human services, especially with any background noise, making it unsuitable for final-use cases without editing.",
+      "criticism_short": "Accuracy is low with any background noise.",
+      "sources_pending": [
+        "temi.com/pricing",
+        "techradar.com/reviews/temi"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0.25,
+      "price_max": 0.25,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Happy Scribe",
+      "url": "https://www.happyscribe.com",
+      "founded": 2017,
+      "hq": "Barcelona, Spain",
+      "team_size_band": "11-50",
+      "best_for": "Content creators and media companies needing both transcription and subtitling services, with a choice between fast AI or high-accuracy human options.",
+      "best_for_short": "Transcription and subtitling focus",
+      "pricing_band": "$$ ($0.20/min AI, $1.75/min Human)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Accuracy": 8,
+        "Turnaround Time (TAT)": 8.5,
+        "Pricing & Value": 7.8,
+        "Features & Workflow": 8.5,
+        "Security & Compliance": 7.5
+      },
+      "verdict": "Happy Scribe is a strong choice for video-focused users because it tightly integrates its transcription and subtitling services, offering both AI and human-powered options in one platform.",
+      "verdict_short": "A versatile platform offering both AI and human services with strong subtitling tools.",
+      "praise": "The dedicated subtitle editor is excellent, providing character-per-second limits and other formatting tools that are superior to general transcription editors.",
+      "praise_short": "Excellent dedicated subtitle editor.",
+      "criticism": "The human-made service, at €1.75 per minute (approx $1.90 USD), is more expensive than top-ranked competitors like Rev or GoTranscript.",
+      "criticism_short": "Human service is more expensive than competitors.",
+      "sources_pending": [
+        "happyscribe.com/pricing",
+        "trustpilot.com/review/happyscribe.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0.2,
+      "price_max": 1.9,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "YouTube",
+        "Vimeo",
+        "Zapier",
+        "Google Drive"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Sonix",
+      "url": "https://sonix.ai",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Podcasters and journalists who need to quickly transcribe, search, and organize large archives of audio content.",
+      "best_for_short": "Organizing audio archives",
+      "pricing_band": "$$ ($10/hr PAYG, $22/mo Subscription)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Accuracy": 7.5,
+        "Turnaround Time (TAT)": 9,
+        "Pricing & Value": 7.5,
+        "Features & Workflow": 8.5,
+        "Security & Compliance": 7
+      },
+      "verdict": "Sonix is an effective AI transcription tool for managing large libraries of audio, offering strong organizational features like folder management and powerful search within transcripts.",
+      "verdict_short": "Fast AI transcription with strong tools for organizing and searching audio libraries.",
+      "praise": "The automated translation feature, supporting over 35 languages, is a valuable tool for creators looking to reach a global audience.",
+      "praise_short": "Automated translation into 35+ languages.",
+      "criticism": "The pricing model, which is per-hour rather than per-minute, can be expensive for users with many short files, as each is rounded up.",
+      "criticism_short": "Per-hour pricing is costly for short files.",
+      "sources_pending": [
+        "sonix.ai/pricing",
+        "g2.com/products/sonix/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 22,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Adobe Premiere Pro",
+        "Final Cut Pro",
+        "Zoom",
+        "Zapier"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "3Play Media",
+      "url": "https://www.3playmedia.com",
+      "founded": 2007,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Enterprises, universities, and government agencies that require high accuracy plus strict compliance with accessibility standards like WCAG and Section 508.",
+      "best_for_short": "Enterprise and accessibility compliance",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Accuracy": 9.2,
+        "Turnaround Time (TAT)": 7,
+        "Pricing & Value": 6,
+        "Features & Workflow": 8,
+        "Security & Compliance": 9.4
+      },
+      "verdict": "3Play Media is the best choice for organizations with strict accessibility and compliance needs, offering a suite of services including transcription, captioning, and audio description that meet WCAG 2.1 AA standards.",
+      "verdict_short": "The market leader for enterprise-grade, accessibility-compliant transcription and captioning.",
+      "praise": "Its platform offers deep integrations with video players and learning management systems (LMS) like Kaltura, Brightcove, and Canvas.",
+      "praise_short": "Deep integrations with enterprise video and LMS platforms.",
+      "criticism": "The service is enterprise-focused with custom pricing, making it inaccessible and overly expensive for individuals or small businesses with basic needs.",
+      "criticism_short": "Enterprise focus makes it too expensive for individuals.",
+      "sources_pending": [
+        "3playmedia.com/services",
+        "g2.com/products/3play-media/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Kaltura",
+        "Brightcove",
+        "Panopto",
+        "YouTube",
+        "Zoom"
+      ],
+      "compliance": [
+        "HIPAA",
+        "WCAG",
+        "Section 508",
+        "CVAA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "GMR Transcription",
+      "url": "https://www.gmrtranscription.com",
+      "founded": 2004,
+      "hq": "Tustin, USA",
+      "team_size_band": "11-50",
+      "best_for": "Academic researchers, businesses, and individuals needing high-quality transcription from a 100% US-based human workforce.",
+      "best_for_short": "US-based human transcribers",
+      "pricing_band": "$$ ($1.25/min)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Accuracy": 9,
+        "Turnaround Time (TAT)": 7.5,
+        "Pricing & Value": 7,
+        "Features & Workflow": 6.5,
+        "Security & Compliance": 8
+      },
+      "verdict": "GMR Transcription secures a spot by guaranteeing 99% accuracy using only US-based human transcribers, a key requirement for customers with data residency or specific cultural context needs.",
+      "verdict_short": "A reliable service guaranteeing 99% accuracy with a 100% US-based workforce.",
+      "praise": "Their transparent pricing tiers for different audio quality (Clear, Difficult) and number of speakers helps customers accurately predict costs.",
+      "praise_short": "Transparent pricing based on audio quality.",
+      "criticism": "The web platform and workflow tools are basic and lack the advanced features, integrations, and online editors offered by more modern competitors.",
+      "criticism_short": "Lacks a modern web platform and editor.",
+      "sources_pending": [
+        "gmrtranscription.com/prices.aspx",
+        "trustpilot.com/review/gmrtranscription.com"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 1.25,
+      "price_max": 1.25,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Descript",
+      "url": "https://www.descript.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Podcasters and video creators who want to edit their audio or video by directly editing the transcript, not by manipulating waveforms.",
+      "best_for_short": "Editing media via text",
+      "pricing_band": "$ ($12 to $24/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Accuracy": 7.5,
+        "Turnaround Time (TAT)": 9.2,
+        "Pricing & Value": 7,
+        "Features & Workflow": 9,
+        "Security & Compliance": 5
+      },
+      "verdict": "Descript is the wildcard because it's not just a transcription service; it's a full audio/video editor that uses the transcript as the primary interface, fundamentally changing the editing workflow.",
+      "verdict_short": "An audio/video editor that treats transcription as the core of the creative process.",
+      "praise": "The 'Overdub' feature, which lets you create an AI model of your voice to correct words or add new ones, is a unique and powerful tool for content correction.",
+      "praise_short": "Unique 'Overdub' feature for AI voice correction.",
+      "criticism": "Its transcription accuracy, while good for an AI, is not its strongest feature and often requires more cleanup than dedicated transcription services.",
+      "criticism_short": "Transcription accuracy requires manual cleanup.",
+      "sources_pending": [
+        "descript.com/pricing",
+        "capterra.com/p/173232/Descript/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 24,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Adobe Premiere Pro",
+        "Final Cut Pro",
+        "YouTube",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
