@@ -1,0 +1,798 @@
+{
+  "slug": "podcast-hosting",
+  "title": "The 11 Best Podcast Hosting Platforms",
+  "subtitle": "A ranked list of the top services for audio distribution, analytics, and monetization based on IAB certification, storage limits, and ease of use.",
+  "vertical": "Media · Podcasting",
+  "audience": "Podcasters choosing hosting, distribution, and analytics",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Media Technology",
+  "subsector": "Audio Publishing",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights Distribution & Reliability (30%), Analytics & Insights (25%), Monetization Tools (20%), Ease of Use & Workflow (15%), and Pricing & Value (10%)."
+    }
+  ],
+  "answer_capsule": "The best podcast hosting platform is Transistor for its team-focused features, followed by Buzzsprout for ease of use and Captivate for growth tools.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Distribution & Reliability",
+        "weight": 30,
+        "description": "Effectiveness of one-click submission to directories like Apple Podcasts and Spotify, IAB certification status, uptime guarantees, and CDN performance."
+      },
+      {
+        "name": "Analytics & Insights",
+        "weight": 25,
+        "description": "Depth of listener data, including geographic location, device type, and download trends. IAB v2.1 compliance is a key factor."
+      },
+      {
+        "name": "Monetization Tools",
+        "weight": 20,
+        "description": "Availability and sophistication of tools like dynamic ad insertion (DAI), premium/subscriber-only content, and integrated ad marketplaces."
+      },
+      {
+        "name": "Ease of Use & Workflow",
+        "weight": 15,
+        "description": "Intuitive user interface for uploading episodes, managing show notes, and embedding players. Quality of integrations with other creative tools."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "Generosity of monthly download and storage limits relative to cost. Transparency of pricing tiers and lack of hidden fees."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Podcast Hosting",
+    "Audio Distribution",
+    "Digital Media",
+    "Content Creation"
+  ],
+  "problem_tags": [
+    "Podcast Distribution",
+    "Listener Analytics",
+    "Podcast Monetization",
+    "Audio File Storage"
+  ],
+  "query_intents": [
+    "best podcast host",
+    "compare podcast hosting",
+    "Buzzsprout vs Libsyn",
+    "podcast hosting for beginners",
+    "podcast hosting with ads"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Managing multiple shows",
+        "Collaborative podcasting"
+      ],
+      "personas": [
+        "Podcast networks",
+        "Professional teams"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Getting started quickly",
+        "Simple monetization"
+      ],
+      "personas": [
+        "Beginner podcasters",
+        "Hobbyists"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Audience growth",
+        "Marketing automation"
+      ],
+      "personas": [
+        "Growth-focused creators",
+        "Brand marketers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.16,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is a podcast hosting platform?",
+      "a": "A podcast hosting platform is a specialized service that stores your audio files and generates the RSS feed required for distribution. When you upload an episode to a host, it creates a public link for the audio and updates your podcast's RSS feed, which directories like Apple Podcasts and Spotify use to list your new content for listeners."
+    },
+    {
+      "q": "Why can't I just use my own website to host my podcast?",
+      "a": "You cannot use a standard website host because they are not optimized for large media file delivery. A podcast host provides a global Content Delivery Network (CDN) to ensure fast downloads for all listeners, offers specialized analytics that are IAB certified, and guarantees your site won't crash from thousands of simultaneous downloads, which would be very expensive on a regular web server."
+    },
+    {
+      "q": "What does IAB Certified mean and why does it matter?",
+      "a": "IAB Certified means the platform's analytics adhere to the Interactive Advertising Bureau's official measurement guidelines. This certification ensures your download and listener numbers are standardized and accurate, which is essential for attracting and reporting to advertisers. Uncertified analytics may inflate numbers, making them unreliable for business purposes."
+    }
+  ],
+  "how_to_choose": [
+    "Assess your download needs: Start with a plan that covers your current audience size. Most platforms offer tiers based on monthly downloads or storage; don't overpay for capacity you won't use for at least 6 months.",
+    "Define your monetization strategy: If you plan to use dynamic ads, choose a host like Spreaker or Captivate with built-in insertion tools. For subscriptions, look for platforms with native paywall features like Transistor or Castos.",
+    "Check for IAB Certification: If you ever plan to seek sponsors, non-negotiably choose a host that is IAB Certified. This is the industry standard for legitimate download statistics.",
+    "Evaluate the workflow: Consider how you produce your show. If you use WordPress heavily, Castos or Blubrry are excellent choices. If you edit in Descript, its native hosting might be the most efficient option."
+  ],
+  "faqs": [
+    {
+      "q": "What's the best free podcast hosting platform?",
+      "a": "The best free option for most beginners is Buzzsprout's free tier. It allows you to upload up to 2 hours of audio each month (hosted for 90 days) and provides access to their excellent dashboard and distribution tools. For a free plan with permanent hosting, Podbean offers 5 hours of total storage without a time limit."
+    },
+    {
+      "q": "How much does podcast hosting typically cost?",
+      "a": "Most podcasters can expect to pay between $12 and $25 per month. This price range typically includes unlimited storage, sufficient monthly download bandwidth for a growing show, and IAB certified analytics. Enterprise or network plans can cost $100 per month or more."
+    },
+    {
+      "q": "What is the difference between a podcast host and a podcast directory?",
+      "a": "A podcast host stores your audio files and creates your RSS feed. A podcast directory (like Apple Podcasts, Spotify, or Google Podcasts) reads your RSS feed from the host to list your show and make it available to listeners. You must have a host to be listed in a directory."
+    },
+    {
+      "q": "Can I switch podcast hosts later?",
+      "a": "Yes, you can switch hosts without losing your subscribers. All reputable hosting platforms make it easy to migrate by implementing a 301 redirect from your old RSS feed to your new one. This process is usually straightforward and ensures a seamless transition for your audience."
+    }
+  ],
+  "honest_disclosures": [
+    "Many top platforms are now owned by larger media corporations (e.g., Simplecast by SiriusXM, Spreaker by iHeartMedia, RSS.com by Libsyn), which can impact future product direction and pricing.",
+    "The market is heavily dominated by US-based providers. While they serve a global audience via CDNs, support hours and some integrations may be optimized for North American customers.",
+    "Pricing tiers are often designed to push growing podcasts into more expensive plans quickly. Pay close attention to download limits, not just storage."
+  ],
+  "glossary": {
+    "term": "IAB Certification",
+    "definition": "A verification that a podcast hosting platform's analytics and download metrics comply with the standards set by the Interactive Advertising Bureau (IAB). It is the industry benchmark for accurate and trustworthy podcast statistics, crucial for monetization and sponsorship.",
+    "synonyms": [
+      "IAB Tech Lab Certified",
+      "IAB Compliant"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Transistor",
+      "url": "https://transistor.fm",
+      "founded": 2018,
+      "hq": "Chicago, USA",
+      "team_size_band": "11-50",
+      "best_for": "Professionals and teams who need to manage multiple podcasts under a single account with excellent analytics.",
+      "best_for_short": "Teams managing multiple shows",
+      "pricing_band": "$$ ($19 to $99/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Distribution & Reliability": 9.3,
+        "Analytics & Insights": 9.5,
+        "Monetization Tools": 8.5,
+        "Ease of Use & Workflow": 9.4,
+        "Pricing & Value": 9
+      },
+      "verdict": "Transistor ranks first for its superior handling of multiple shows and users on one plan without extra cost. Its combination of deep, IAB-certified analytics and a clean, intuitive interface makes it the top choice for professional podcasters and networks.",
+      "verdict_short": "Best for managing multiple shows with pro-level analytics and a clean user interface.",
+      "praise": "The ability to add unlimited podcasts and team members to any plan, starting at $19/month, provides unmatched value for networks and businesses.",
+      "praise_short": "Unlimited shows and users on all plans.",
+      "criticism": "Monetization features are limited to private podcasting and subscriptions; it lacks a native dynamic ad insertion (DAI) system for programmatic ads.",
+      "criticism_short": "No built-in dynamic ad insertion system.",
+      "sources_pending": [
+        "transistor.fm/features",
+        "g2.com/products/transistor/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Spotify",
+        "Apple Podcasts",
+        "Mailchimp",
+        "ConvertKit",
+        "Zapier"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Buzzsprout",
+      "url": "https://www.buzzsprout.com",
+      "founded": 2009,
+      "hq": "Jacksonville, USA",
+      "team_size_band": "11-50",
+      "best_for": "Beginners and independent creators who prioritize an easy-to-use interface and straightforward monetization tools.",
+      "best_for_short": "Beginners needing simplicity",
+      "pricing_band": "$ ($12 to $24/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Distribution & Reliability": 9,
+        "Analytics & Insights": 8.8,
+        "Monetization Tools": 9.2,
+        "Ease of Use & Workflow": 9.5,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Buzzsprout is the best platform for new podcasters due to its exceptionally clean interface and guided workflow. Features like automatic episode optimization and the integrated Buzzsprout Ads marketplace simplify both the technical and business aspects of starting a show.",
+      "verdict_short": "The most user-friendly platform for new podcasters with simple, effective monetization tools.",
+      "praise": "Its 'Magic Mastering' feature, an automatic audio enhancement tool, saves beginners significant time in post-production for a small fee per episode.",
+      "praise_short": "Magic Mastering simplifies audio post-production.",
+      "criticism": "Pricing is based on hours uploaded per month, not downloads, which can be restrictive for creators producing a high volume of shorter episodes.",
+      "criticism_short": "Upload-hour limits can be restrictive.",
+      "sources_pending": [
+        "buzzsprout.com/pricing",
+        "pcmag.com/reviews/buzzsprout"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 24,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Canva",
+        "Headliner",
+        "Zapier",
+        "Chartable",
+        "Podtrac"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Captivate",
+      "url": "https://www.captivate.fm",
+      "founded": 2019,
+      "hq": "Sheffield, UK",
+      "team_size_band": "11-50",
+      "best_for": "Growth-minded podcasters who want built-in marketing and audience engagement tools.",
+      "best_for_short": "Growth-focused creators",
+      "pricing_band": "$$ ($19 to $99/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Distribution & Reliability": 9,
+        "Analytics & Insights": 9.2,
+        "Monetization Tools": 9,
+        "Ease of Use & Workflow": 8.5,
+        "Pricing & Value": 8.3
+      },
+      "verdict": "Captivate is designed specifically for podcasters focused on audience growth, offering a unique suite of marketing tools. Features like one-click sponsor kits, customizable websites, and built-in call-to-action management set it apart from hosts that only store audio.",
+      "verdict_short": "Best for audience growth with built-in marketing and sponsorship tools.",
+      "praise": "The platform is updated weekly based on user feedback, with a public roadmap and changelog that demonstrate a commitment to creator needs.",
+      "praise_short": "Constant, user-driven feature updates.",
+      "criticism": "The user interface, while powerful, has a steeper learning curve than Buzzsprout or Transistor due to the sheer number of features available.",
+      "criticism_short": "Interface can be complex for beginners.",
+      "sources_pending": [
+        "captivate.fm/features",
+        "thepodcasthost.com/hosting/captivate-review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "AWeber",
+        "Mailchimp",
+        "Podchaser",
+        "Zapier",
+        "WordPress"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Libsyn",
+      "url": "https://libsyn.com",
+      "founded": 2004,
+      "hq": "Pittsburgh, USA",
+      "team_size_band": "51-200",
+      "best_for": "Established podcasters and enterprises who require maximum reliability and proven distribution.",
+      "best_for_short": "Maximum reliability for pros",
+      "pricing_band": "$ ($5 to $150/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Distribution & Reliability": 9.8,
+        "Analytics & Insights": 8.8,
+        "Monetization Tools": 8.5,
+        "Ease of Use & Workflow": 7.5,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "Libsyn is one of the original podcast hosts, offering unmatched reliability and a trusted platform for thousands of top shows. While historically having a dated interface, its new Libsyn 5 platform modernizes the user experience while retaining the core stability it's known for.",
+      "verdict_short": "The most established and reliable host, trusted by major podcasts and enterprises.",
+      "praise": "Libsyn's distribution network and RSS feed generation are considered the industry gold standard, ensuring compatibility with all new and emerging platforms.",
+      "praise_short": "Industry-best reliability and distribution.",
+      "criticism": "The pricing model is based on monthly storage uploads, which can be confusing and less scalable than download-based tiers for shows with varying episode lengths.",
+      "criticism_short": "Confusing storage-based pricing tiers.",
+      "sources_pending": [
+        "libsyn.com/plans-pricing",
+        "trustradius.com/products/libsyn/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": 150,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "WordPress",
+        "Spotify",
+        "Apple Podcasts",
+        "Pandora",
+        "YouTube"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Simplecast",
+      "url": "https://simplecast.com",
+      "founded": 2013,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Brands and data-driven creators who need best-in-class analytics and collaboration tools.",
+      "best_for_short": "Data-driven brands",
+      "pricing_band": "$$ ($15 to $85/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Distribution & Reliability": 8.5,
+        "Analytics & Insights": 9.6,
+        "Monetization Tools": 7,
+        "Ease of Use & Workflow": 8.8,
+        "Pricing & Value": 7.6
+      },
+      "verdict": "Simplecast provides the most detailed listener analytics in the market, making it the top choice for brands and publishers who rely on data. Its Audience Intelligence dashboard offers unique insights, such as drop-off points within episodes, that go beyond standard download counts.",
+      "verdict_short": "Offers the most advanced listener analytics for data-driven publishers.",
+      "praise": "The platform's embeddable players are highly customizable and interactive, and its Recast tool allows listeners to share short clips, driving discoverability.",
+      "praise_short": "Advanced analytics and shareable clips.",
+      "criticism": "Since its acquisition by SiriusXM, some independent creators have expressed concern over future price increases and a shift in focus toward enterprise clients.",
+      "criticism_short": "Focus shifting towards enterprise clients.",
+      "sources_pending": [
+        "simplecast.com/pricing",
+        "g2.com/products/simplecast/reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-11",
+        "summary": "Acquired by a large corporation (SiriusXM), which can introduce strategic shifts.",
+        "signals": [
+          "Corporate acquisition"
+        ]
+      },
+      "price_min": 15,
+      "price_max": 85,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Chartable",
+        "Podtrac",
+        "Zapier",
+        "Headliner",
+        "Squarespace"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Castos",
+      "url": "https://castos.com",
+      "founded": 2017,
+      "hq": "Remote",
+      "team_size_band": "11-50",
+      "best_for": "WordPress users and creators who want to automate their workflow and offer private, members-only podcasts.",
+      "best_for_short": "WordPress users & private podcasts",
+      "pricing_band": "$$ ($19 to $99/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Distribution & Reliability": 8,
+        "Analytics & Insights": 7.8,
+        "Monetization Tools": 8.5,
+        "Ease of Use & Workflow": 8.9,
+        "Pricing & Value": 7.3
+      },
+      "verdict": "Castos is the best choice for anyone running their podcast from a WordPress site due to its Seriously Simple Podcasting plugin. This integration allows you to manage your entire podcast workflow, from uploading audio to publishing posts, directly within the WordPress dashboard.",
+      "verdict_short": "The top choice for WordPress users via its deep plugin integration.",
+      "praise": "Its private podcasting features are robust, making it easy to create internal corporate podcasts or premium content for a paid membership community.",
+      "praise_short": "Excellent private podcasting features.",
+      "criticism": "The core analytics dashboard is less detailed than competitors like Simplecast or Transistor, lacking some advanced listener behavior metrics.",
+      "criticism_short": "Analytics are less detailed than competitors.",
+      "sources_pending": [
+        "castos.com/pricing",
+        "wordpress.org/plugins/seriously-simple-podcasting"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "WordPress",
+        "MemberPress",
+        "WishList Member",
+        "Descript",
+        "YouTube"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Podbean",
+      "url": "https://www.podbean.com",
+      "founded": 2006,
+      "hq": "Wilmington, USA",
+      "team_size_band": "11-50",
+      "best_for": "Creators looking for an all-in-one platform with a generous free plan, live streaming, and multiple monetization options.",
+      "best_for_short": "All-in-one with a free plan",
+      "pricing_band": "$ ($0 to $99/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Distribution & Reliability": 7.5,
+        "Analytics & Insights": 7.4,
+        "Monetization Tools": 8.8,
+        "Ease of Use & Workflow": 8,
+        "Pricing & Value": 7.8
+      },
+      "verdict": "Podbean offers a wide array of features under one roof, including hosting, live streaming, and an ad marketplace, making it a versatile choice. Its free plan, which offers 5 hours of storage with no time limits, is one of the most generous available for those just starting out.",
+      "verdict_short": "A feature-rich platform with a great free tier and built-in live streaming.",
+      "praise": "The integrated PodAds marketplace and premium content features provide multiple, easy-to-access monetization paths directly within the platform.",
+      "praise_short": "Multiple built-in monetization options.",
+      "criticism": "The user interface feels less modern and more cluttered than top competitors, which can make navigating its many features challenging for new users.",
+      "criticism_short": "User interface is cluttered and dated.",
+      "sources_pending": [
+        "podbean.com/podcast-hosting-pricing",
+        "capterra.com/p/145495/Podbean"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Mailchimp",
+        "Stripe",
+        "PayPal",
+        "Apple Podcasts",
+        "Spotify"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Spreaker",
+      "url": "https://www.spreaker.com",
+      "founded": 2010,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Podcasters who want to broadcast live and leverage programmatic advertising for monetization.",
+      "best_for_short": "Live shows & programmatic ads",
+      "pricing_band": "$ ($8 to $120/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Distribution & Reliability": 7.9,
+        "Analytics & Insights": 7.5,
+        "Monetization Tools": 9,
+        "Ease of Use & Workflow": 7.2,
+        "Pricing & Value": 7.4
+      },
+      "verdict": "Spreaker excels at monetization and live podcasting, backed by the power of its parent company, iHeartMedia. Its dynamic ad insertion is available on all paid plans, automatically filling ad slots and providing a clear path to revenue even for smaller shows.",
+      "verdict_short": "Best for live podcasting and easy access to programmatic ad revenue.",
+      "praise": "The Spreaker Studio app allows for sophisticated live production, including sound effects and multiple guest inputs, directly from a desktop or mobile device.",
+      "praise_short": "Powerful live production studio app.",
+      "criticism": "The platform's core focus is on its own ecosystem and ad network, leading to fewer third-party integrations compared to more open platforms like Transistor.",
+      "criticism_short": "Fewer third-party integrations.",
+      "sources_pending": [
+        "spreaker.com/plans",
+        "g2.com/products/spreaker/reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-11",
+        "summary": "Acquired by a large corporation (iHeartMedia), which can introduce strategic shifts.",
+        "signals": [
+          "Corporate acquisition"
+        ]
+      },
+      "price_min": 8,
+      "price_max": 120,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "iHeartRadio",
+        "Apple Podcasts",
+        "Spotify",
+        "Google Podcasts"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Blubrry",
+      "url": "https://blubrry.com",
+      "founded": 2005,
+      "hq": "Columbus, USA",
+      "team_size_band": "11-50",
+      "best_for": "Serious podcasters and WordPress veterans who want precise control over their feed and statistics.",
+      "best_for_short": "Power users & WordPress pros",
+      "pricing_band": "$$ ($12 to $100/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Distribution & Reliability": 8.5,
+        "Analytics & Insights": 8,
+        "Monetization Tools": 6.5,
+        "Ease of Use & Workflow": 7,
+        "Pricing & Value": 8
+      },
+      "verdict": "Blubrry is a long-standing, reliable host that offers advanced tools for podcasters who want deep control, especially through its PowerPress plugin for WordPress. It provides professional-grade, IAB-certified stats and a no-nonsense approach to hosting.",
+      "verdict_short": "A reliable, no-frills host for power users, especially on WordPress.",
+      "praise": "The PowerPress plugin is the most feature-rich WordPress integration available, offering granular control over the RSS feed, players, and SEO.",
+      "praise_short": "Most powerful WordPress plugin available.",
+      "criticism": "The user interface on both the Blubrry site and within PowerPress is dated and can be intimidating for users who are not technically inclined.",
+      "criticism_short": "Dated and complex user interface.",
+      "sources_pending": [
+        "blubrry.com/podcast-hosting-plans",
+        "wordpress.org/plugins/powerpress"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "WordPress",
+        "Rev.com",
+        "Apple Podcasts",
+        "Spotify"
+      ],
+      "compliance": [
+        "IAB Certified"
+      ],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "RSS.com",
+      "url": "https://rss.com",
+      "founded": 2021,
+      "hq": "Remote",
+      "team_size_band": "11-50",
+      "best_for": "Beginners and students who need a simple, affordable, and all-inclusive hosting plan.",
+      "best_for_short": "Simple & affordable for beginners",
+      "pricing_band": "$ ($5 to $13/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Distribution & Reliability": 7.8,
+        "Analytics & Insights": 7,
+        "Monetization Tools": 7.1,
+        "Ease of Use & Workflow": 7.9,
+        "Pricing & Value": 7.2
+      },
+      "verdict": "RSS.com provides a straightforward, no-frills hosting solution with a single, affordable plan that includes unlimited episodes and storage. It's an excellent entry point for those who don't want to worry about complex tiers or feature sets.",
+      "verdict_short": "An easy and affordable all-in-one plan for new podcasters.",
+      "praise": "The platform offers a special discounted plan for students, making it one of the most accessible options for educational use.",
+      "praise_short": "Offers a discounted plan for students.",
+      "criticism": "Advanced features like detailed analytics, team management, and sophisticated monetization tools are limited compared to higher-ranked competitors.",
+      "criticism_short": "Lacks advanced features and analytics.",
+      "sources_pending": [
+        "rss.com/pricing",
+        "g2.com/products/rss-com/reviews"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-11",
+        "summary": "Acquired by Libsyn, which could lead to integration or strategic changes.",
+        "signals": [
+          "Corporate acquisition"
+        ]
+      },
+      "price_min": 4.99,
+      "price_max": 12.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Podcorn",
+        "Apple Podcasts",
+        "Spotify",
+        "Headliner"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 1
+    },
+    {
+      "rank": 11,
+      "name": "Descript",
+      "url": "https://www.descript.com",
+      "founded": 2017,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "is_wildcard": true,
+      "best_for": "Creators who want a single, integrated workflow for editing, transcribing, and publishing their podcast.",
+      "best_for_short": "Integrated edit-to-publish workflow",
+      "pricing_band": "$ ($12 to $24/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Distribution & Reliability": 6.5,
+        "Analytics & Insights": 6,
+        "Monetization Tools": 5.5,
+        "Ease of Use & Workflow": 9.8,
+        "Pricing & Value": 7.7
+      },
+      "verdict": "Descript is a wildcard because it's an AI-powered editor first and a host second, representing a new, all-in-one workflow. For creators already using its best-in-class transcription and editing tools, the ability to publish directly from the app with one click is an unmatched efficiency gain.",
+      "verdict_short": "An editor-first platform offering an incredibly efficient, all-in-one workflow.",
+      "praise": "The workflow of editing audio by editing a text document is revolutionary and can reduce editing time by over 50% for narrative or interview-based shows.",
+      "praise_short": "Revolutionary text-based audio editing.",
+      "criticism": "Its hosting features are basic. Analytics, monetization options, and distribution support are not as developed as dedicated hosting platforms, as it is not their core business.",
+      "criticism_short": "Hosting features and analytics are very basic.",
+      "sources_pending": [
+        "descript.com/pricing",
+        "capterra.com/p/175244/Descript"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 24,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Zapier",
+        "SquadCast",
+        "Riverside.fm",
+        "YouTube",
+        "Wistia"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global (CDN)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "podcast-hosting",
-      "title": "The 11 Best Podcast Hosting Platforms",
-      "vertical": "Media · Podcasting",
-      "audience": "Podcasters choosing hosting, distribution, and analytics",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "video-hosting-business",
-      "title": "The 11 Best Video Hosting Platforms for Business",
-      "vertical": "Media · Video",
-      "audience": "Business teams hosting embeddable video",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "transcription-services",
       "title": "The 11 Best Transcription Services",
       "vertical": "Media · Transcription",
@@ -322,7 +306,9 @@
     "plumbing-software",
     "landscaping-software",
     "social-media-b2b",
-    "email-marketing-ecommerce"
+    "email-marketing-ecommerce",
+    "podcast-hosting",
+    "video-hosting-business"
   ],
   "skipped": [
     {

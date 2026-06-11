@@ -1,0 +1,825 @@
+{
+  "slug": "video-hosting-business",
+  "title": "The 11 Best Video Hosting Platforms for Business",
+  "subtitle": "A ranked list of platforms for hosting, managing, and analyzing embeddable marketing, sales, and training videos, focusing on analytics, integrations, and player performance.",
+  "vertical": "Media · Video",
+  "audience": "Business teams hosting embeddable video",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-11",
+  "last_verified": "2026-06-11",
+  "next_review": "2026-09-09",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Video Platforms",
+  "changelog": [
+    {
+      "date": "2026-06-11",
+      "text": "Initial publication. Methodology v1.0 weights Player Performance & Customization (25%), Marketing & Analytics Tools (25%), Security & Control (20%), Integrations & API (15%), and Pricing & Scalability (15%)."
+    }
+  ],
+  "answer_capsule": "The best video hosting platform for business is Wistia, followed by Vimeo and Vidyard.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-11",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Player Performance & Customization",
+        "weight": 25,
+        "description": "Evaluates player load speed, mobile responsiveness, branding controls (colors, logos, player buttons), and interactive elements like chapters and annotations."
+      },
+      {
+        "name": "Marketing & Analytics Tools",
+        "weight": 25,
+        "description": "Assesses the quality of lead generation tools (email gates, CTAs), viewer-level analytics (heatmaps, engagement graphs), and A/B testing capabilities."
+      },
+      {
+        "name": "Security & Control",
+        "weight": 20,
+        "description": "Measures security features including domain restriction, password protection, IP whitelisting, SSO, and options for digital rights management (DRM)."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 15,
+        "description": "Scores the breadth and depth of native integrations with marketing automation platforms (e.g., HubSpot, Marketo), CRMs, and the usability of the developer API."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 15,
+        "description": "Analyzes the clarity and fairness of pricing models, including costs for storage, bandwidth overages, and per-user fees, against the value provided."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "Marketing Technology",
+    "Sales Enablement",
+    "Corporate Communications",
+    "Video on Demand"
+  ],
+  "problem_tags": [
+    "Low video engagement",
+    "Poor lead generation from video",
+    "Insecure video sharing",
+    "Inability to measure video ROI",
+    "Brand-inconsistent video player"
+  ],
+  "query_intents": [
+    "best wistia alternative",
+    "vimeo vs wistia for business",
+    "secure video hosting for internal training",
+    "video hosting with hubspot integration",
+    "marketing video analytics platform"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Measuring video ROI",
+        "Generating leads from video content"
+      ],
+      "personas": [
+        "Marketing Manager",
+        "Content Strategist"
+      ]
+    },
+    "2": {
+      "solves": [
+        "High-quality video delivery",
+        "Internal communications and training"
+      ],
+      "personas": [
+        "Creative Director",
+        "HR Manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Tracking prospect engagement",
+        "Personalized sales videos"
+      ],
+      "personas": [
+        "Sales Development Representative",
+        "Account Executive"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What defines a 'business' video hosting platform?",
+      "a": "A business video hosting platform provides tools beyond simple playback, focusing on marketing, sales, and security. Key features include detailed analytics to track viewer engagement, lead capture forms inside the video player, integrations with CRM and marketing software, and advanced security controls like domain restriction to protect proprietary content. Unlike consumer platforms like YouTube, they offer a customizable, ad-free player that keeps viewers on your website."
+    },
+    {
+      "q": "How is ROI measured with these platforms?",
+      "a": "Return on investment is measured primarily through analytics and integrations. Platforms like Wistia and Vidyard can show you which specific viewers watched which parts of a video, and their integrations can push this data directly into a CRM like Salesforce. This allows you to attribute leads, pipeline, and closed deals to specific video content, demonstrating a clear financial return."
+    },
+    {
+      "q": "Are these platforms suitable for internal training videos?",
+      "a": "Yes, they are highly suitable for internal training and corporate communications. Features like password protection, single sign-on (SSO) integration, and IP restrictions ensure that sensitive internal content is only accessible to employees. Platforms like Vimeo and Kaltura are often used for this purpose, providing secure channels and folders to organize content by department or training module."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary use case: is it for marketing lead generation, sales outreach, or internal training? This will determine whether you need stronger analytics (marketing), CRM integration (sales), or security controls (internal).",
+    "Second, audit your existing tech stack. Choose a platform with strong native integrations for the tools you already use, such as HubSpot, Salesforce, or Marketo, to avoid manual data transfer.",
+    "Third, estimate your video volume and viewership to model costs accurately. Some platforms charge by the number of videos, while others focus on bandwidth, which can become expensive with high traffic.",
+    "Finally, evaluate the player customization options. Ensure the player can be modified to match your brand's colors, logo, and overall design aesthetic to maintain a consistent user experience on your website."
+  ],
+  "faqs": [
+    {
+      "q": "What is the main difference between using YouTube and a paid business video host?",
+      "a": "The main difference is control over branding, audience, and data. Business hosts provide an ad-free, customizable player that keeps traffic on your site, whereas YouTube shows ads and suggests competitor videos. Paid platforms also offer granular analytics on individual viewers and integrate with marketing tools, which YouTube does not."
+    },
+    {
+      "q": "How much does business video hosting cost?",
+      "a": "Costs vary widely, from around $25 per month for basic plans to over $1,200 per month for enterprise-level features. Pricing is typically based on the number of videos, bandwidth consumed, or advanced features like marketing integrations and security protocols. Most providers offer tiered plans to suit different business sizes."
+    },
+    {
+      "q": "Can I use these platforms for live streaming?",
+      "a": "Some platforms, but not all, offer live streaming capabilities. Providers like Vimeo, Brightcove, Kaltura, and Dacast have strong live streaming features built-in, often including tools for audience interaction and post-event VOD recording. Others, like Wistia, are primarily focused on on-demand video."
+    },
+    {
+      "q": "What are the most important analytics to track for marketing videos?",
+      "a": "The most important analytics are play rate, engagement rate, and conversion events. Play rate shows how many visitors click play. Engagement graphs (or heatmaps) show which parts of the video people watch, re-watch, or skip. Conversion events, tracked via in-video calls-to-action or email gates, directly measure how many leads or sign-ups the video generated."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based, although their content delivery networks (CDNs) are global. Non-US buyers should verify local data residency options if required.",
+    "Pricing can be complex and difficult to compare. Many plans have soft limits on bandwidth or video counts, with overage fees that can significantly increase monthly costs. Always clarify overage policies before committing."
+  ],
+  "glossary": {
+    "term": "Video Heatmap",
+    "definition": "A visual representation of viewer engagement data overlaid on a video's timeline. It uses color-coding to show which segments of a video were watched most frequently, re-watched, or skipped, providing insight into what content resonates with the audience.",
+    "synonyms": [
+      "Engagement Graph",
+      "Viewer Analytics"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Wistia",
+      "url": "https://wistia.com",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "51-200",
+      "best_for": "Marketing teams that need to generate and qualify leads directly from their video content.",
+      "best_for_short": "Marketing and lead generation",
+      "pricing_band": "$$ ($99 to $399/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Player Performance & Customization": 9.3,
+        "Marketing & Analytics Tools": 9.4,
+        "Security & Control": 8.8,
+        "Integrations & API": 9.2,
+        "Pricing & Scalability": 9
+      },
+      "verdict": "Wistia is the best video hosting platform for business because of its superior marketing and analytics tools, including detailed viewer heatmaps and seamless integrations with marketing automation platforms.",
+      "verdict_short": "The best platform for video marketing analytics and lead generation tools.",
+      "praise": "Its Turnstile email collector and in-video call-to-action features are exceptionally effective for converting viewers into leads, directly connecting video performance to marketing goals.",
+      "praise_short": "Excellent for converting viewers with in-video forms.",
+      "criticism": "The per-video pricing model on lower tiers can become costly for businesses with a large library of content, requiring a jump to a more expensive plan sooner than expected.",
+      "criticism_short": "Lower-tier plans have tight limits on video count.",
+      "sources_pending": [
+        "Wistia Pricing Page",
+        "G2 Wistia Reviews",
+        "Wistia HubSpot Integration Docs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Marketo",
+        "Pardot",
+        "Salesforce",
+        "Google Analytics",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Vimeo",
+      "url": "https://vimeo.com",
+      "founded": 2004,
+      "hq": "New York, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Businesses and creative teams needing high-quality video delivery for both external marketing and internal communications.",
+      "best_for_short": "High-quality delivery and internal comms",
+      "pricing_band": "$ ($25 to $99/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Player Performance & Customization": 9.4,
+        "Marketing & Analytics Tools": 8.5,
+        "Security & Control": 9,
+        "Integrations & API": 8.8,
+        "Pricing & Scalability": 9.3
+      },
+      "verdict": "Vimeo ranks second for its combination of a world-class player, generous storage and bandwidth allowances, and strong features for internal video use cases like training and all-hands meetings.",
+      "verdict_short": "Excellent player and generous plans for internal and external video.",
+      "praise": "The platform's Advanced and Enterprise plans offer powerful tools for corporate communications, including secure video showcases and live streaming for town halls with Q&A features.",
+      "praise_short": "Strong features for corporate communications.",
+      "criticism": "While its marketing tools have improved, they are less advanced than Wistia's; for example, its lead capture forms lack the direct integration depth with CRMs found in competitors.",
+      "criticism_short": "Marketing and analytics tools trail the top competitor.",
+      "sources_pending": [
+        "Vimeo Business Pricing",
+        "PCMag Vimeo Review",
+        "Vimeo for Enterprise Docs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Adobe Creative Cloud",
+        "Final Cut Pro",
+        "HubSpot",
+        "Mailchimp",
+        "Constant Contact"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Vidyard",
+      "url": "https://www.vidyard.com",
+      "founded": 2011,
+      "hq": "Kitchener, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Sales teams using personalized video for outreach and tracking prospect engagement within their CRM.",
+      "best_for_short": "Sales teams and CRM integration",
+      "pricing_band": "$$ ($29 to $1250+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Player Performance & Customization": 8.5,
+        "Marketing & Analytics Tools": 9.2,
+        "Security & Control": 8.6,
+        "Integrations & API": 9.3,
+        "Pricing & Scalability": 8.4
+      },
+      "verdict": "Vidyard earns its spot for its deep focus on sales enablement, offering unique tools for creating and sharing personalized videos and tracking viewer engagement directly on contact records in Salesforce.",
+      "verdict_short": "Best-in-class for sales teams and tracking prospect engagement.",
+      "praise": "Its browser extension for recording and sending videos via email is a standout feature, allowing sales reps to create personalized outreach in under 2 minutes.",
+      "praise_short": "Excellent browser extension for sales outreach.",
+      "criticism": "The platform's pricing can escalate quickly, and some of the most valuable features, like the Salesforce integration, are reserved for higher-priced business plans, making it less accessible for smaller teams.",
+      "criticism_short": "Key sales integrations are on expensive tiers.",
+      "sources_pending": [
+        "Vidyard Pricing Page",
+        "Forrester Wave: Video Platforms",
+        "Vidyard Salesforce Integration Guide"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 1250,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Outreach",
+        "SalesLoft",
+        "Zendesk"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Brightcove",
+      "url": "https://www.brightcove.com",
+      "founded": 2004,
+      "hq": "Boston, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Large enterprises and media companies requiring a highly scalable, secure, and broadcast-quality video platform.",
+      "best_for_short": "Enterprise and media companies",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Player Performance & Customization": 9,
+        "Marketing & Analytics Tools": 8.5,
+        "Security & Control": 9.4,
+        "Integrations & API": 8.7,
+        "Pricing & Scalability": 6.9
+      },
+      "verdict": "Brightcove is a top choice for enterprises due to its exceptional security, reliability, and advanced features for live streaming and server-side ad insertion, making it ideal for broadcast media.",
+      "verdict_short": "The enterprise standard for security, scale, and broadcast-grade video.",
+      "praise": "The platform's dynamic ad insertion and DRM capabilities are market-leading, providing monetization and content protection solutions that meet the needs of major media publishers.",
+      "praise_short": "Top-tier ad insertion and DRM.",
+      "criticism": "Its high cost and complexity make it inaccessible for small to medium-sized businesses; the platform requires significant technical resources and budget, with pricing starting in the thousands per month.",
+      "criticism_short": "Prohibitively expensive and complex for SMBs.",
+      "sources_pending": [
+        "Brightcove Solutions Page",
+        "Gartner Magic Quadrant for Enterprise Video",
+        "Brightcove Customer Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Eloqua",
+        "Google Ad Manager",
+        "Adobe Analytics"
+      ],
+      "compliance": [
+        "FedRAMP",
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global (via CDN)",
+        "US",
+        "EU",
+        "APAC"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Kaltura",
+      "url": "https://corp.kaltura.com",
+      "founded": 2006,
+      "hq": "New York, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Universities and large enterprises needing a flexible, open-source-based platform for education, training, and virtual events.",
+      "best_for_short": "Education and large enterprises",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Player Performance & Customization": 8.2,
+        "Marketing & Analytics Tools": 8,
+        "Security & Control": 8.9,
+        "Integrations & API": 9.1,
+        "Pricing & Scalability": 7.3
+      },
+      "verdict": "Kaltura stands out for its extreme customizability and deep integrations with Learning Management Systems (LMS) like Moodle and Blackboard, making it the default choice in the education sector.",
+      "verdict_short": "The most customizable platform, ideal for education and training.",
+      "praise": "Its open-source framework and extensive API allow developers to build almost any custom video workflow, a level of flexibility unmatched by most competitors.",
+      "praise_short": "Highly flexible with an open-source framework.",
+      "criticism": "The platform's modularity can also be its downfall, often requiring significant developer resources and a lengthy implementation process (30-60 days) to get started.",
+      "criticism_short": "Complex setup requires significant developer resources.",
+      "sources_pending": [
+        "Kaltura for Education",
+        "Kaltura API Documentation",
+        "Capterra Kaltura Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Blackboard",
+        "Moodle",
+        "Canvas",
+        "SharePoint",
+        "Salesforce",
+        "Marketo"
+      ],
+      "compliance": [
+        "GDPR",
+        "FERPA",
+        "VPAT",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (via CDN)",
+        "US",
+        "EU",
+        "APAC"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "SproutVideo",
+      "url": "https://sproutvideo.com",
+      "founded": 2010,
+      "hq": "Brooklyn, USA",
+      "team_size_band": "11-50",
+      "best_for": "Small to medium-sized businesses looking for a straightforward platform with a strong balance of security and marketing features.",
+      "best_for_short": "Balanced features for SMBs",
+      "pricing_band": "$ ($25 to $499/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Player Performance & Customization": 8,
+        "Marketing & Analytics Tools": 8.2,
+        "Security & Control": 8.5,
+        "Integrations & API": 7.5,
+        "Pricing & Scalability": 8.3
+      },
+      "verdict": "SproutVideo offers a compelling package for SMBs by providing robust security features, such as login protection and IP address restriction, at a much lower price point than enterprise competitors.",
+      "verdict_short": "Strong security and marketing tools at an affordable price for SMBs.",
+      "praise": "Its detailed video sitemaps and SEO features are automatically generated, giving businesses a tangible advantage in getting their video content indexed by search engines.",
+      "praise_short": "Excellent, automated video SEO features.",
+      "criticism": "The platform's native integrations are limited compared to leaders like Wistia and Vidyard, often requiring use of Zapier for connections to major CRM or marketing platforms.",
+      "criticism_short": "Fewer native integrations than top competitors.",
+      "sources_pending": [
+        "SproutVideo Pricing",
+        "SproutVideo Features",
+        "TrustRadius SproutVideo Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Mailchimp",
+        "Zapier",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "JW Player",
+      "url": "https://www.jwplayer.com",
+      "founded": 2008,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Digital publishers and ad-supported media businesses that need reliable video delivery and monetization tools.",
+      "best_for_short": "Digital publishers and monetization",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Player Performance & Customization": 8.8,
+        "Marketing & Analytics Tools": 7.2,
+        "Security & Control": 7.5,
+        "Integrations & API": 8,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "JW Player is a strong contender for publishers because it was built from the ground up for high-volume streaming and ad delivery, supporting VAST and VPAID ad standards effectively.",
+      "verdict_short": "A reliable choice for publishers focused on ad-based monetization.",
+      "praise": "The core player technology is extremely fast and lightweight, contributing to better page load times and viewer experiences, which is critical for publisher websites.",
+      "praise_short": "Very fast and lightweight video player.",
+      "criticism": "Its platform lacks the advanced marketing and lead generation tools found in Wistia or Vidyard, making it a poor fit for B2B marketing or sales teams.",
+      "criticism_short": "Weak on B2B marketing and lead-gen tools.",
+      "sources_pending": [
+        "JW Player for Publishers",
+        "JW Player Pricing",
+        "G2 JW Player Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Ad Manager",
+        "SpotX",
+        "WordPress",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "TwentyThree",
+      "url": "https://www.twentythree.com",
+      "founded": 2006,
+      "hq": "Copenhagen, Denmark",
+      "team_size_band": "51-200",
+      "best_for": "Marketing teams deeply invested in the HubSpot ecosystem who want to run webinars and manage on-demand video.",
+      "best_for_short": "HubSpot-centric marketing teams",
+      "pricing_band": "$$$ ($499 to $1999/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Player Performance & Customization": 7.5,
+        "Marketing & Analytics Tools": 8.4,
+        "Security & Control": 7.2,
+        "Integrations & API": 8.5,
+        "Pricing & Scalability": 7.4
+      },
+      "verdict": "TwentyThree is the best choice for marketers running their entire operation on HubSpot, as its native integration is arguably the deepest on the market, syncing viewer data directly to contact timelines.",
+      "verdict_short": "Unmatched native integration for HubSpot users.",
+      "praise": "The platform's ability to manage both on-demand video and live webinars in one place, with all data flowing into HubSpot, simplifies the tech stack for marketing teams.",
+      "praise_short": "Combines VOD and webinars for HubSpot.",
+      "criticism": "The platform is expensive for what it offers if you are not a heavy HubSpot user, and its player and analytics are less refined than top-tier competitors like Wistia.",
+      "criticism_short": "Overpriced if not using HubSpot heavily.",
+      "sources_pending": [
+        "TwentyThree Pricing",
+        "TwentyThree HubSpot Integration",
+        "HubSpot App Marketplace Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 499,
+      "price_max": 1999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "Marketo",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Cincopa",
+      "url": "https://www.cincopa.com",
+      "founded": 2008,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "11-50",
+      "best_for": "Businesses that need to manage a variety of digital assets (video, images, audio) in a single platform.",
+      "best_for_short": "All-in-one digital asset management",
+      "pricing_band": "$$ ($49 to $350/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Player Performance & Customization": 7.2,
+        "Marketing & Analytics Tools": 7.8,
+        "Security & Control": 7.5,
+        "Integrations & API": 7.4,
+        "Pricing & Scalability": 8.1
+      },
+      "verdict": "Cincopa secures a spot by offering more than just video hosting; it's a full digital asset management (DAM) solution that lets teams host videos, image galleries, and podcasts from one dashboard.",
+      "verdict_short": "A good DAM solution for teams managing multiple media types.",
+      "praise": "The platform offers over 100 different templates for displaying media, including video portals and photo galleries, which is useful for teams without extensive design resources.",
+      "praise_short": "Over 100 templates for media display.",
+      "criticism": "As a jack-of-all-trades, its specific video hosting features, particularly analytics and marketing integrations, are not as deep or powerful as specialized video platforms.",
+      "criticism_short": "Video-specific features are less advanced.",
+      "sources_pending": [
+        "Cincopa Pricing",
+        "Cincopa for Video Hosting",
+        "Capterra Cincopa Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 350,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "Joomla",
+        "HubSpot",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Dacast",
+      "url": "https://www.dacast.com",
+      "founded": 2010,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Organizations focused on live streaming events that also need a reliable platform for hosting the on-demand recordings.",
+      "best_for_short": "Live streaming and VOD",
+      "pricing_band": "$$ ($39 to $188/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Player Performance & Customization": 7,
+        "Marketing & Analytics Tools": 7.1,
+        "Security & Control": 8,
+        "Integrations & API": 7,
+        "Pricing & Scalability": 7.9
+      },
+      "verdict": "Dacast is a solid choice for its strong live streaming capabilities, including features like real-time analytics, countdown timers, and secure pay-per-view options, which many VOD-first platforms lack.",
+      "verdict_short": "A live-streaming-first platform with capable VOD features.",
+      "praise": "Its acquisition of vzaar added more robust VOD features, and it uses the Limelight CDN, which provides reliable, high-quality streaming to global audiences.",
+      "praise_short": "Reliable global delivery via Limelight CDN.",
+      "criticism": "The user interface feels dated compared to modern competitors, and its on-demand video marketing tools are basic, lacking the sophistication of platforms like Wistia or Vidyard.",
+      "criticism_short": "Dated user interface and basic marketing tools.",
+      "sources_pending": [
+        "Dacast Pricing",
+        "Dacast Live Streaming Features",
+        "StreamingMedia.com Dacast Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 188,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "WordPress"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global (via CDN)"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Cloudflare Stream",
+      "url": "https://www.cloudflare.com/products/cloudflare-stream/",
+      "founded": 2009,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Developer-led teams that want to build custom video applications on top of a high-performance, usage-based infrastructure.",
+      "best_for_short": "Developer-first video infrastructure",
+      "pricing_band": "$ (Usage-based)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Player Performance & Customization": 8.5,
+        "Marketing & Analytics Tools": 5,
+        "Security & Control": 8,
+        "Integrations & API": 8.5,
+        "Pricing & Scalability": 9
+      },
+      "verdict": "Cloudflare Stream is the wildcard because it's not a business hosting 'platform' but a pure infrastructure service, offering incredibly fast video delivery at a low, pay-as-you-go price for teams building their own video tools.",
+      "verdict_short": "A high-performance, low-cost infrastructure play for developers.",
+      "praise": "Its pricing is simple and transparent: $5 per 1,000 minutes viewed and $1 per 1,000 minutes stored, with no complex plans, making it highly cost-effective for applications with variable traffic.",
+      "praise_short": "Simple, transparent, usage-based pricing.",
+      "criticism": "It provides zero built-in marketing or sales tools. There are no lead capture forms, no heatmaps, and no CRM integrations; you must build all of that yourself using their API.",
+      "criticism_short": "No built-in marketing or analytics tools.",
+      "sources_pending": [
+        "Cloudflare Stream Pricing",
+        "Cloudflare Stream Developer Docs",
+        "Hacker News discussions on CF Stream"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-11",
+        "summary": "No material public risk signals as of 2026-06-11.",
+        "signals": []
+      },
+      "price_min": 5,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "API-first"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global (Cloudflare Network)"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

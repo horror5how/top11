@@ -86,6 +86,8 @@ import hvacSoftware from "@/data/hvac-software.json";
 import plumbingSoftware from "@/data/plumbing-software.json";
 import landscapingSoftware from "@/data/landscaping-software.json";
 import emailMarketingEcommerce from "@/data/email-marketing-ecommerce.json";
+import podcastHosting from "@/data/podcast-hosting.json";
+import videoHostingBusiness from "@/data/video-hosting-business.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 
