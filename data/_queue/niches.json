@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "penetration-testing-services",
-      "title": "The 11 Best Penetration Testing Services",
-      "vertical": "Security · Pentest",
-      "audience": "Engineering leaders booking pentests for compliance or security",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "school-management-software",
-      "title": "The 11 Best School Management Software",
-      "vertical": "Education · K-12 · Operations",
-      "audience": "School administrators managing students, attendance, and grades",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "lms-corporate-training",
       "title": "The 11 Best LMS for Corporate Training",
       "vertical": "HR · Learning",
@@ -346,7 +330,9 @@
     "patient-engagement-software",
     "amazon-seller-tools",
     "social-media-analytics",
-    "investor-crm"
+    "investor-crm",
+    "penetration-testing-services",
+    "school-management-software"
   ],
   "skipped": [
     {

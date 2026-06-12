@@ -1,0 +1,822 @@
+{
+  "slug": "school-management-software",
+  "title": "The 11 Best School Management Software",
+  "subtitle": "Ranking the top platforms for K-12 administrators based on student information system (SIS) depth, parent communication tools, and overall usability.",
+  "vertical": "Education · K-12 · Operations",
+  "audience": "School administrators managing students, attendance, and grades",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Education Technology",
+  "subsector": "School Administration",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Student Information System (SIS) Core (30%), Academic & Gradebook Management (25%), Parent & Student Communication (20%), Integration & Extensibility (15%), and Usability & Support (10%)."
+    }
+  ],
+  "answer_capsule": "The best school management software is PowerSchool SIS for its unmatched scale in large districts, followed by Skyward for its comprehensive public school modules and Infinite Campus for its tightly integrated platform.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Student Information System (SIS) Core",
+        "weight": 30,
+        "description": "Depth of features for managing student data, enrollment, scheduling, and demographics."
+      },
+      {
+        "name": "Academic & Gradebook Management",
+        "weight": 25,
+        "description": "Functionality for teachers, including gradebooks, attendance tracking, assignment creation, and report card generation."
+      },
+      {
+        "name": "Parent & Student Communication",
+        "weight": 20,
+        "description": "Effectiveness of portals, mobile apps, and messaging tools for engaging parents and students."
+      },
+      {
+        "name": "Integration & Extensibility",
+        "weight": 15,
+        "description": "Ability to connect with other systems (LMS, finance) via API and pre-built integrations."
+      },
+      {
+        "name": "Usability & Support",
+        "weight": 10,
+        "description": "Ease of use for administrators, teachers, and parents, plus the quality and responsiveness of customer support."
+      }
+    ]
+  },
+  "segment_tags": [
+    "K-12 software",
+    "student information system",
+    "SIS",
+    "school administration software",
+    "education ERP"
+  ],
+  "problem_tags": [
+    "student tracking",
+    "grade management",
+    "parent communication",
+    "school operations",
+    "attendance management"
+  ],
+  "query_intents": [
+    "best school management software",
+    "top student information systems",
+    "PowerSchool vs Skyward",
+    "K-12 SIS comparison",
+    "school administration platform"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "large district management",
+        "state reporting compliance",
+        "complex scheduling"
+      ],
+      "personas": [
+        "Superintendent",
+        "District IT Director"
+      ]
+    },
+    "4": {
+      "solves": [
+        "improving teacher workflow",
+        "modernizing parent portal",
+        "data visualization"
+      ],
+      "personas": [
+        "Principal",
+        "School Tech Coordinator"
+      ]
+    },
+    "5": {
+      "solves": [
+        "private school admissions",
+        "tuition management",
+        "donor tracking integration"
+      ],
+      "personas": [
+        "Head of School",
+        "Admissions Director"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is the core function of school management software?",
+      "a": "The core function is to act as a central Student Information System (SIS). This system is the single source of truth for all student data, including demographics, enrollment history, schedules, grades, and attendance records, which simplifies administrative tasks and state reporting."
+    },
+    {
+      "q": "How do these platforms differ for public vs. private schools?",
+      "a": "Platforms for public schools prioritize state and federal reporting compliance, complex scheduling for large student bodies, and special education program management. Private school platforms often have stronger modules for admissions, enrollment contracts, tuition billing, and fundraising."
+    },
+    {
+      "q": "What's a realistic budget for this kind of software?",
+      "a": "Budgeting is typically done on a per-student, per-year basis. Small schools might pay $15-$30 per student, while large districts can negotiate rates as low as $5-$10 per student due to scale. Expect implementation and training fees that can range from a few thousand dollars to over $100,000 for complex district-wide rollouts."
+    }
+  ],
+  "how_to_choose": [
+    "First, verify the vendor's compliance with state-specific reporting requirements, as failure here creates significant administrative burdens.",
+    "Next, conduct usability tests with key user groups: administrators, teachers, and a small parent focus group. A powerful system that teachers refuse to use is a failed investment.",
+    "Finally, demand transparency on total cost of ownership, including implementation fees, data migration costs, annual support contracts, and charges for additional modules."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best school management software?",
+      "a": "PowerSchool SIS is the best school management software for large public school districts due to its market-leading feature depth and extensive third-party integration marketplace. For private schools, Veracross is a top choice for its focus on admissions and tuition management."
+    },
+    {
+      "q": "How much does school management software cost?",
+      "a": "School management software typically costs between $8 and $40 per student, per year. Pricing depends on school size, required modules, and the level of support. Most vendors use a custom quote model, so expect to negotiate based on a multi-year contract."
+    },
+    {
+      "q": "What is the difference between an SIS and an LMS?",
+      "a": "An SIS (Student Information System) manages official administrative records: who the students are, their schedules, grades, and attendance. An LMS (Learning Management System) manages the daily instructional experience: delivering course content, collecting assignments, and facilitating online discussions. Most schools use both, and a key feature of a good SIS is its ability to integrate with popular LMS platforms like Canvas or Schoology."
+    },
+    {
+      "q": "Is there free school management software?",
+      "a": "Yes, there are free and open-source options like OpenEduCat, but they require significant technical expertise to implement, host, and maintain. For most schools, the total cost of ownership for a 'free' system, factoring in IT staff time and server costs, is often higher than a commercial subscription-based product that includes support and hosting."
+    }
+  ],
+  "honest_disclosures": [
+    "This ranking has a strong focus on the North American K-12 market; providers specializing in higher education or specific international curricula (like the IB) may be underrepresented.",
+    "Pricing for this category is notoriously opaque, with most vendors requiring a custom quote. The price bands provided are estimates based on public data and user reports."
+  ],
+  "glossary": {
+    "term": "Student Information System (SIS)",
+    "definition": "A software application for education establishments to manage student data. SIS solutions manage student records, enrollment, scheduling, attendance, grading, and state reporting requirements.",
+    "synonyms": [
+      "Student Management System (SMS)",
+      "Student Record System (SRS)",
+      "School Administrative Software"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "PowerSchool SIS",
+      "url": "https://www.powerschool.com/solutions/student-information-system/powerschool-sis/",
+      "founded": 1997,
+      "hq": "Folsom, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large K-12 school districts requiring a powerful, scalable, and highly extensible platform for managing complex operations and state reporting.",
+      "best_for_short": "Large, complex school districts",
+      "pricing_band": "$$$ (Quote-based, est. $8-15/student/yr)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 9.4,
+        "Academic & Gradebook Management": 9.2,
+        "Parent & Student Communication": 9,
+        "Integration & Extensibility": 9.8,
+        "Usability & Support": 8.5
+      },
+      "verdict": "PowerSchool SIS is the top choice for its market-leading scale and feature depth, making it the operational backbone for over 45 million students globally.",
+      "verdict_short": "The market leader for its unmatched scale, feature depth, and integration marketplace.",
+      "praise": "Its extensive API and partner ecosystem of over 300 integrations allow districts to build a truly connected technology stack.",
+      "praise_short": "Unmatched 300+ integration partner ecosystem.",
+      "criticism": "The platform's vast feature set can result in a steep learning curve and a user interface that feels dated compared to newer competitors.",
+      "criticism_short": "Steep learning curve and dated interface.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 user reviews",
+        "Capterra pricing guides"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Canvas",
+        "Schoology",
+        "Google Classroom",
+        "Microsoft 365",
+        "Oracle",
+        "SAP"
+      ],
+      "compliance": [
+        "FERPA",
+        "COPPA",
+        "State-specific reporting"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Middle East"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 500,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Skyward",
+      "url": "https://www.skyward.com/k-12",
+      "founded": 1980,
+      "hq": "Stevens Point, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Public school districts looking for a fully integrated SIS and ERP solution that covers everything from student management to municipal accounting.",
+      "best_for_short": "Public districts needing integrated SIS/ERP",
+      "pricing_band": "$$$ (Quote-based, est. $9-18/student/yr)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 9.2,
+        "Academic & Gradebook Management": 9,
+        "Parent & Student Communication": 8.9,
+        "Integration & Extensibility": 8.8,
+        "Usability & Support": 9.2
+      },
+      "verdict": "Skyward earns its high rank by offering a remarkably complete suite of tools that extends beyond the SIS into district-level finance and HR.",
+      "verdict_short": "A complete SIS and ERP suite with strong finance and HR modules.",
+      "praise": "Customers consistently praise Skyward's customer support, citing fast response times and knowledgeable representatives, especially during implementation.",
+      "praise_short": "Highly-rated customer support and implementation.",
+      "criticism": "The user interface, while functional, is considered less intuitive and modern than newer platforms like Alma, requiring more clicks to complete common tasks.",
+      "criticism_short": "Functional but less intuitive user interface.",
+      "sources_pending": [
+        "Vendor website",
+        "EdSurge reviews",
+        "TrustRadius user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 9,
+      "price_max": 18,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Classroom",
+        "Microsoft Azure",
+        "ClassLink",
+        "Clever"
+      ],
+      "compliance": [
+        "FERPA",
+        "State-specific reporting"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 120,
+      "min_team_size": 250,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Infinite Campus",
+      "url": "https://www.infinitecampus.com/",
+      "founded": 1993,
+      "hq": "Blaine, USA",
+      "team_size_band": "501-1000",
+      "best_for": "K-12 districts seeking a single, tightly integrated platform that combines SIS, LMS, and parent communication tools without relying on third-party apps.",
+      "best_for_short": "Districts wanting a single, integrated platform",
+      "pricing_band": "$$$ (Quote-based, est. $10-20/student/yr)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 9,
+        "Academic & Gradebook Management": 9.1,
+        "Parent & Student Communication": 9.2,
+        "Integration & Extensibility": 8,
+        "Usability & Support": 8.8
+      },
+      "verdict": "Infinite Campus stands out for its 'one system' approach, providing a cohesive user experience across administrative, instructional, and communication functions.",
+      "verdict_short": "A cohesive all-in-one system for SIS, LMS, and parent communication.",
+      "praise": "The built-in LMS and parent messaging tools are deeply integrated, eliminating the data sync issues that plague multi-vendor solutions.",
+      "praise_short": "Deeply integrated, native LMS and messaging.",
+      "criticism": "While the all-in-one approach is a strength, it results in fewer pre-built integrations with best-of-breed third-party tools compared to PowerSchool.",
+      "criticism_short": "Fewer integrations with third-party tools.",
+      "sources_pending": [
+        "Vendor case studies",
+        "G2 reviews",
+        "District RFI documents"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 20,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google for Education",
+        "Microsoft Office 365",
+        "OneRoster API"
+      ],
+      "compliance": [
+        "FERPA",
+        "State-specific reporting"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 100,
+      "min_team_size": 250,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Alma",
+      "url": "https://www.getalma.com/",
+      "founded": 2012,
+      "hq": "Portland, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized districts and charter schools prioritizing a modern, intuitive user interface and strong teacher-centric features.",
+      "best_for_short": "Schools prioritizing modern UI and usability",
+      "pricing_band": "$$$ (Quote-based, est. $12-25/student/yr)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 8.5,
+        "Academic & Gradebook Management": 9,
+        "Parent & Student Communication": 9.2,
+        "Integration & Extensibility": 8.2,
+        "Usability & Support": 9.5
+      },
+      "verdict": "Alma excels by providing a user-friendly, modern alternative to legacy SIS platforms, with a design that significantly reduces training time for teachers and staff.",
+      "verdict_short": "A modern, user-friendly SIS that reduces teacher training time.",
+      "praise": "Its standards-based gradebook and curriculum mapping tools are exceptionally well-designed, making it a favorite among instructional leaders.",
+      "praise_short": "Excellent standards-based gradebook and curriculum tools.",
+      "criticism": "While strong in its core SIS and classroom features, it lacks the extensive financial and HR modules found in larger ERP-like systems like Skyward.",
+      "criticism_short": "Lacks the deep finance/HR modules of competitors.",
+      "sources_pending": [
+        "Vendor website",
+        "Capterra reviews",
+        "Common Sense Education review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 12,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Classroom",
+        "Canvas",
+        "Schoology",
+        "Clever",
+        "ClassLink"
+      ],
+      "compliance": [
+        "FERPA",
+        "COPPA"
+      ],
+      "regions": [
+        "North America",
+        "International"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 50,
+      "max_team_size": 10000
+    },
+    {
+      "rank": 5,
+      "name": "Veracross",
+      "url": "https://www.veracross.com/",
+      "founded": 2002,
+      "hq": "Wakefield, USA",
+      "team_size_band": "201-500",
+      "best_for": "Independent and private schools that need a single, integrated database for managing admissions, academics, and school development.",
+      "best_for_short": "Private schools needing integrated admissions",
+      "pricing_band": "$$$$ (Quote-based, est. $30-50/student/yr)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 9.2,
+        "Academic & Gradebook Management": 8.2,
+        "Parent & Student Communication": 8.8,
+        "Integration & Extensibility": 8,
+        "Usability & Support": 8.4
+      },
+      "verdict": "Veracross is the leader for private schools because its entire platform is built around a single-person record, seamlessly connecting a student from applicant to student to alumnus.",
+      "verdict_short": "The top choice for private schools, connecting admissions, SIS, and development.",
+      "praise": "The admissions and enrollment management module is best-in-class, streamlining a critical business function for private schools with features like online applications and contract generation.",
+      "praise_short": "Best-in-class admissions and enrollment module.",
+      "criticism": "The platform is purpose-built for the private school market and lacks the complex state reporting functionality required by most public school districts.",
+      "criticism_short": "Lacks public school state reporting features.",
+      "sources_pending": [
+        "Vendor website",
+        "NAIS member forums",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Finalsite",
+        "Raiser's Edge",
+        "Canvas",
+        "Google Workspace"
+      ],
+      "compliance": [
+        "FERPA",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 120,
+      "min_team_size": 100,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 6,
+      "name": "Blackbaud Education Management",
+      "url": "https://www.blackbaud.com/solutions/k-12-schools",
+      "founded": 1981,
+      "hq": "Charleston, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Private K-12 schools that are already using or plan to use Blackbaud's other products for fundraising, financial management, and marketing.",
+      "best_for_short": "Private schools in the Blackbaud ecosystem",
+      "pricing_band": "$$$$ (Quote-based, est. $35-55/student/yr)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 8.8,
+        "Academic & Gradebook Management": 8,
+        "Parent & Student Communication": 8.1,
+        "Integration & Extensibility": 8.5,
+        "Usability & Support": 7.5
+      },
+      "verdict": "Blackbaud's strength lies in its 'Total School Solution,' offering unparalleled integration between the SIS and its industry-leading fundraising and accounting platforms.",
+      "verdict_short": "Unmatched integration with top-tier fundraising and accounting tools.",
+      "praise": "For schools focused on development, the ability to link student data directly with Raiser's Edge NXT for fundraising is a significant operational advantage.",
+      "praise_short": "Direct, powerful link to Raiser's Edge NXT.",
+      "criticism": "The user interface for the academic modules is often cited by users as being less intuitive and more cumbersome than more modern, SIS-focused competitors.",
+      "criticism_short": "Academic modules feel less intuitive.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Software Advice reviews",
+        "Forums for independent schools"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 35,
+      "price_max": 55,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Blackbaud Raiser's Edge NXT",
+        "Blackbaud Financial Edge NXT",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "FERPA",
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 150,
+      "min_team_size": 100,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "FACTS SIS",
+      "url": "https://factsmgt.com/school-management/student-information-system/",
+      "founded": 1986,
+      "hq": "Lincoln, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Small to medium-sized private and faith-based schools looking for an affordable, all-in-one solution that includes tuition management and financial aid.",
+      "best_for_short": "Private schools needing integrated tuition",
+      "pricing_band": "$$ (Quote-based, est. $15-30/student/yr)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 8.2,
+        "Academic & Gradebook Management": 8,
+        "Parent & Student Communication": 8.5,
+        "Integration & Extensibility": 7,
+        "Usability & Support": 8.1
+      },
+      "verdict": "FACTS SIS (formerly RenWeb) provides a reliable and cost-effective platform for private schools, with its tight integration with FACTS Tuition Management being its key differentiator.",
+      "verdict_short": "Cost-effective SIS with standout tuition management integration.",
+      "praise": "The seamless connection to tuition and financial aid services simplifies the entire billing and collections process for school business offices, a major pain point for private schools.",
+      "praise_short": "Seamlessly integrates student data with billing.",
+      "criticism": "The platform's user interface and overall architecture feel dated, and it offers limited API access, making integrations outside the FACTS ecosystem challenging.",
+      "criticism_short": "Dated UI and limited third-party integrations.",
+      "sources_pending": [
+        "Vendor website",
+        "Capterra reviews",
+        "Christian school association forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 30,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "FACTS Tuition Management",
+        "Google Classroom",
+        "NWEA MAP"
+      ],
+      "compliance": [
+        "FERPA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 20,
+      "max_team_size": 2000
+    },
+    {
+      "rank": 8,
+      "name": "Gradelink",
+      "url": "https://www.gradelink.com/",
+      "founded": 2001,
+      "hq": "Aliso Viejo, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small private schools that need a simple, easy-to-use SIS without the complexity and high cost of enterprise-level systems.",
+      "best_for_short": "Small private schools seeking simplicity",
+      "pricing_band": "$$ (Public pricing, starts ~$1,400/yr)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 7.5,
+        "Academic & Gradebook Management": 8,
+        "Parent & Student Communication": 8.2,
+        "Integration & Extensibility": 6.5,
+        "Usability & Support": 9.2
+      },
+      "verdict": "Gradelink wins by focusing on simplicity and customer service, offering a straightforward SIS that small school administrators can implement and manage with minimal IT support.",
+      "verdict_short": "A simple, easy-to-use SIS with excellent support for small schools.",
+      "praise": "Their transparent, all-inclusive pricing model and highly-rated, unlimited customer support are major advantages for small schools with tight budgets and limited staff.",
+      "praise_short": "Transparent pricing and unlimited support.",
+      "criticism": "The feature set is intentionally limited; it lacks the advanced scheduling, reporting, and integration capabilities required by larger schools or districts.",
+      "criticism_short": "Limited features for larger schools.",
+      "sources_pending": [
+        "Vendor pricing page",
+        "Software Advice user reviews",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 1400,
+      "price_max": 8000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Classroom",
+        "QuickBooks",
+        "FACTS Tuition",
+        "Apple School Manager"
+      ],
+      "compliance": [
+        "FERPA"
+      ],
+      "regions": [
+        "North America",
+        "International"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 500
+    },
+    {
+      "rank": 9,
+      "name": "Rediker Software",
+      "url": "https://www.rediker.com/",
+      "founded": 1980,
+      "hq": "Hampden, USA",
+      "team_size_band": "51-200",
+      "best_for": "K-12 schools of all types looking for a long-standing, stable provider with a comprehensive suite of modular software, including admissions and mobile apps.",
+      "best_for_short": "Schools wanting a stable, modular suite",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 8,
+        "Academic & Gradebook Management": 7.8,
+        "Parent & Student Communication": 7.5,
+        "Integration & Extensibility": 7,
+        "Usability & Support": 7.5
+      },
+      "verdict": "Rediker's AdminPlus SIS is a veteran in the space, offering a reliable, feature-rich platform that covers the full student lifecycle from admissions to graduation.",
+      "verdict_short": "A reliable, veteran SIS covering the full student lifecycle.",
+      "praise": "The modular approach allows schools to purchase only the components they need, such as the admissions portal (Admissions Plus Pro) or parent communication app (ParentPlus).",
+      "praise_short": "Flexible modular purchasing options.",
+      "criticism": "The software is a desktop-based application with web portals, which feels less modern and flexible than the fully cloud-native platforms of competitors like Alma.",
+      "criticism_short": "Desktop-based core feels less modern.",
+      "sources_pending": [
+        "Vendor website",
+        "Capterra reviews",
+        "Client testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Classroom",
+        "Finalsite",
+        "Clever"
+      ],
+      "compliance": [
+        "FERPA"
+      ],
+      "regions": [
+        "North America",
+        "International"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 50,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 10,
+      "name": "Classe365",
+      "url": "https://www.classe365.com/",
+      "founded": 2013,
+      "hq": "Sydney, Australia",
+      "team_size_band": "11-50",
+      "best_for": "Modern educational institutions, from K-12 to higher ed, seeking a cloud-native platform that combines SIS, LMS, and a student recruitment CRM.",
+      "best_for_short": "Institutions needing SIS, LMS, and CRM",
+      "pricing_band": "$$ (Public pricing, starts ~$50/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 7.2,
+        "Academic & Gradebook Management": 7.5,
+        "Parent & Student Communication": 7.8,
+        "Integration & Extensibility": 8,
+        "Usability & Support": 7
+      },
+      "verdict": "Classe365 offers a broad, unified platform with a strong focus on the entire student journey, including pre-admission CRM features not found in many traditional K-12 SISs.",
+      "verdict_short": "Unified platform with strong student recruitment CRM features.",
+      "praise": "Its transparent, tiered pricing and inclusion of a lightweight LMS and CRM make it a high-value option for smaller, budget-conscious institutions.",
+      "praise_short": "High value with included LMS and CRM.",
+      "criticism": "As a broader platform serving K-12, higher ed, and training academies, its K-12 specific features, like state reporting, are less developed than those of focused competitors.",
+      "criticism_short": "K-12 specific features are less developed.",
+      "sources_pending": [
+        "Vendor pricing page",
+        "G2 reviews",
+        "GetApp user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Google Workspace",
+        "Microsoft 365",
+        "Zoom",
+        "PayPal",
+        "Stripe"
+      ],
+      "compliance": [
+        "FERPA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "OpenEduCat",
+      "url": "https://openeducat.org/",
+      "founded": 2016,
+      "hq": "Ahmedabad, India",
+      "team_size_band": "51-200",
+      "best_for": "Schools and universities with in-house IT resources that require a highly customizable, open-source ERP solution to manage all aspects of their institution.",
+      "best_for_short": "Schools needing an open-source ERP",
+      "pricing_band": "$ (Free, with paid hosting/support options)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Student Information System (SIS) Core": 7.5,
+        "Academic & Gradebook Management": 7,
+        "Parent & Student Communication": 7,
+        "Integration & Extensibility": 9.5,
+        "Usability & Support": 5
+      },
+      "verdict": "OpenEduCat is a wildcard because it's not a simple SaaS product but a full-featured, open-source ERP built on Odoo, offering unparalleled customizability for technically proficient schools.",
+      "verdict_short": "An open-source ERP offering ultimate customizability for technical teams.",
+      "praise": "Because it's open-source and built on a popular ERP framework (Odoo), the potential for customization and integration with finance, HR, and other modules is nearly limitless.",
+      "praise_short": "Nearly limitless customization and integration potential.",
+      "criticism": "The free, open-source model places the entire burden of hosting, implementation, maintenance, and support on the school's IT department, making it a non-starter for most institutions.",
+      "criticism_short": "Requires significant in-house technical resources.",
+      "sources_pending": [
+        "Project website",
+        "GitHub repository",
+        "Odoo marketplace"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-12",
+        "summary": "Relies on community support and/or paid support from the vendor. Requires significant self-management.",
+        "signals": [
+          "Open-source model requires self-hosting and maintenance."
+        ]
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Odoo Apps",
+        "Custom APIs"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 10,
+      "max_team_size": 100
+    }
+  ]
+}

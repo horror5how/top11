@@ -94,6 +94,8 @@ import patientEngagementSoftware from "@/data/patient-engagement-software.json";
 import amazonSellerTools from "@/data/amazon-seller-tools.json";
 import socialMediaAnalytics from "@/data/social-media-analytics.json";
 import investorCrm from "@/data/investor-crm.json";
+import penetrationTestingServices from "@/data/penetration-testing-services.json";
+import schoolManagementSoftware from "@/data/school-management-software.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 
