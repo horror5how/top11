@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "shipping-software-ecommerce",
-      "title": "The 11 Best Shipping Software for Ecommerce",
-      "vertical": "Ecommerce · Fulfillment",
-      "audience": "Online stores managing shipping and labels",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "session-replay-tools",
-      "title": "The 11 Best Session Replay Tools",
-      "vertical": "Analytics · UX",
-      "audience": "Teams watching real user sessions and heatmaps",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "ab-testing-tools",
       "title": "The 11 Best A/B Testing Tools",
       "vertical": "Growth · Experimentation",
@@ -318,7 +302,9 @@
     "penetration-testing-services",
     "school-management-software",
     "lms-corporate-training",
-    "esign-proposal-software"
+    "esign-proposal-software",
+    "shipping-software-ecommerce",
+    "session-replay-tools"
   ],
   "skipped": [
     {

@@ -1,0 +1,849 @@
+{
+  "slug": "session-replay-tools",
+  "title": "The 11 Best Session Replay Tools",
+  "subtitle": "This ranking focuses on tools that provide high-fidelity session playback with actionable analytics for UX, product, and engineering teams.",
+  "vertical": "Analytics · UX",
+  "audience": "Teams watching real user sessions and heatmaps",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Analytics Software",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Replay Fidelity (25%), Analytics & Insights (25%), Performance Impact (20%), Integration & Workflow (15%), and Pricing & Scalability (15%)."
+    }
+  ],
+  "answer_capsule": "The best session replay tool is FullStory for its high-fidelity playback and automatic event capture, followed by LogRocket for developer-focused diagnostics and Hotjar for its integrated UX toolkit.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Replay Fidelity & Accuracy",
+        "weight": 25,
+        "description": "Assesses the tool's ability to accurately capture and reconstruct user sessions, including complex SPAs, CSS animations, and iFrames, without breaking the visual playback."
+      },
+      {
+        "name": "Analytics & Insights",
+        "weight": 25,
+        "description": "Evaluates the depth of analysis beyond simple playback, including automatic error surfacing, rage click detection, conversion funnels, heatmaps, and user segmentation."
+      },
+      {
+        "name": "Performance Impact",
+        "weight": 20,
+        "description": "Measures the overhead of the tracking script on client-side performance, considering script size, network requests, and CPU/memory usage."
+      },
+      {
+        "name": "Integration & Workflow",
+        "weight": 15,
+        "description": "Scores the ease of connecting the tool with other systems like analytics platforms (e.g., Google Analytics), issue trackers (e.g., Jira), and support desks (e.g., Zendesk)."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 15,
+        "description": "Analyzes the fairness and transparency of the pricing model, availability of a free or trial tier, and how costs scale with user session volume."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "UX Research",
+    "Product Management",
+    "Frontend Development",
+    "CRO",
+    "Digital Experience"
+  ],
+  "problem_tags": [
+    "Bug Reproduction",
+    "User Frustration",
+    "Conversion Funnel Drop-off",
+    "UI/UX Issues",
+    "Customer Support"
+  ],
+  "query_intents": [
+    "best session replay software",
+    "hotjar alternatives",
+    "fullstory vs logrocket",
+    "free session replay tool",
+    "website user recording"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Understanding complex user journeys",
+        "Proactive issue detection"
+      ],
+      "personas": [
+        "Enterprise Product Manager",
+        "Senior UX Researcher"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Bug reproduction",
+        "Frontend performance monitoring"
+      ],
+      "personas": [
+        "Frontend Engineer",
+        "QA Analyst"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Visualizing user behavior with heatmaps",
+        "Gathering user feedback"
+      ],
+      "personas": [
+        "Marketing Manager",
+        "UX Designer"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Data privacy and control",
+        "Avoiding per-session costs"
+      ],
+      "personas": [
+        "DevOps Engineer",
+        "Startup CTO"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.23,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "How do you use session replay for bug reproduction?",
+      "a": "You use session replay for bug reproduction by finding a session where a user encountered a known bug and watching their exact interactions. The best tools, like LogRocket, also capture console logs and network requests alongside the visual replay, giving engineers the full context needed to diagnose the issue without needing to ask the user for more information."
+    },
+    {
+      "q": "What is the difference between session replay and product analytics?",
+      "a": "Session replay provides qualitative, visual data on individual user experiences, while product analytics provides quantitative, aggregate data on user behavior. For example, product analytics (like Amplitude or Mixpanel) can tell you that 30% of users drop off at the checkout page, but session replay (like FullStory or Hotjar) can show you *why* they are dropping off by replaying their frustrating experiences with a broken button."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary use case: Is it for engineering bug fixes (LogRocket, OpenReplay), UX research (Hotjar, FullStory), or conversion optimization (Contentsquare, Mouseflow)?",
+    "Second, assess the performance impact of the tracking script using tools like Google PageSpeed Insights on a staging environment before deploying to production.",
+    "Finally, model your costs based on projected monthly sessions, as pricing tiers can vary dramatically between providers from free (Clarity) to tens of thousands per year (FullStory)."
+  ],
+  "faqs": [
+    {
+      "q": "What is a session replay tool?",
+      "a": "A session replay tool is software that records and plays back a user's interactions on a website or web application. It captures mouse movements, clicks, scrolls, and keyboard inputs, allowing teams to watch a video-like reconstruction of a user's session to understand their behavior, identify usability issues, and reproduce bugs."
+    },
+    {
+      "q": "Do session replay tools slow down my website?",
+      "a": "Yes, they can, but top providers minimize the impact. These tools run a small JavaScript snippet on your site which consumes some resources. The performance impact is generally negligible with modern tools like FullStory or LogRocket, but it is always recommended to test the script's impact on your site's load time and Core Web Vitals before a full rollout."
+    },
+    {
+      "q": "Are session replay tools GDPR compliant?",
+      "a": "Yes, most major session replay tools offer features to help with GDPR compliance. These include automatic PII (Personally Identifiable Information) data masking, user consent management, and data residency options in regions like the EU. However, the responsibility for compliant implementation, such as correctly masking sensitive fields, ultimately lies with the website owner."
+    },
+    {
+      "q": "How much do session replay tools cost?",
+      "a": "Session replay tools range from completely free to over $100,000 per year. Microsoft Clarity is free for unlimited sessions. Tools like Hotjar and Smartlook offer free tiers and paid plans starting around $40-$60 per month. Enterprise-grade platforms like FullStory and Contentsquare have custom pricing based on high session volumes and can cost thousands per month."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-ranked tools are SaaS platforms with session-based pricing, which can become expensive at scale. Free and open-source options often require more engineering resources to implement and maintain.",
+    "Performance impact is a critical factor that can vary based on your site's complexity; our scores are based on general benchmarks, and you must test for your specific application."
+  ],
+  "glossary": {
+    "term": "Rage Click",
+    "definition": "A user interaction where a person repeatedly clicks on a specific element on a webpage in a short amount of time, typically out of frustration that the element is not responding as expected.",
+    "synonyms": [
+      "Frustration clicking"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "FullStory",
+      "url": "https://www.fullstory.com",
+      "founded": 2014,
+      "hq": "Atlanta, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Product and UX teams that need the highest-fidelity replay and automatic event instrumentation for proactive issue discovery.",
+      "best_for_short": "High-fidelity, proactive analytics",
+      "pricing_band": "$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 9.4,
+        "analytics_insights": 9.4,
+        "performance_impact": 9.2,
+        "integration_workflow": 9.3,
+        "pricing_scalability": 8.9
+      },
+      "verdict": "FullStory is the best session replay tool because of its pixel-perfect playback and powerful 'autocapture' engine that indexes every user interaction without manual tagging.",
+      "verdict_short": "Best for its flawless playback and automatic event indexing, enabling deep, retroactive analysis.",
+      "praise": "Its search capability is unmatched, allowing teams to find specific user sessions based on any clicked element or visited URL, even for events defined after they occurred.",
+      "praise_short": "Unmatched search for finding any past user interaction.",
+      "criticism": "The primary drawback is its premium pricing, which places it out of reach for many small businesses and startups.",
+      "criticism_short": "Enterprise-level pricing is prohibitive for smaller teams.",
+      "sources_pending": [
+        "FullStory Docs",
+        "G2 Reviews",
+        "Forrester Wave Digital Experience"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Jira",
+        "Slack",
+        "Salesforce",
+        "Sentry",
+        "Optimizely"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "LogRocket",
+      "url": "https://logrocket.com",
+      "founded": 2016,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Engineering and support teams who need to combine session replay with frontend performance monitoring and error reporting to resolve issues faster.",
+      "best_for_short": "Developers debugging frontend issues",
+      "pricing_band": "$$$ ($99 to $500+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 9.2,
+        "analytics_insights": 9.3,
+        "performance_impact": 9,
+        "integration_workflow": 9.2,
+        "pricing_scalability": 8.8
+      },
+      "verdict": "LogRocket earns its rank by pairing session replay with developer-centric tools, showing console logs, network requests, and performance data synchronized with the user's video.",
+      "verdict_short": "Best for developers due to its integrated console logs and network data with replay.",
+      "praise": "Its ability to show the application's Redux or Vuex state at any point during a session replay is a huge time-saver for debugging complex state management issues.",
+      "praise_short": "Shows application state alongside replay for easier debugging.",
+      "criticism": "While powerful for developers, its analytics and user segmentation features are less advanced than FullStory's for product management use cases.",
+      "criticism_short": "Less advanced product analytics than top competitors.",
+      "sources_pending": [
+        "LogRocket Docs",
+        "G2 Reviews",
+        "StackShare"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Sentry",
+        "GitHub",
+        "Zendesk",
+        "Datadog",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com",
+      "founded": 2014,
+      "hq": "St. Julian's, Malta",
+      "team_size_band": "201-500",
+      "best_for": "Marketers and UX designers looking for an affordable, all-in-one toolkit that combines session replay with heatmaps, surveys, and feedback widgets.",
+      "best_for_short": "All-in-one UX toolkit",
+      "pricing_band": "$$ ($39 to $212+/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8.5,
+        "analytics_insights": 8.8,
+        "performance_impact": 9,
+        "integration_workflow": 8.9,
+        "pricing_scalability": 9.4
+      },
+      "verdict": "Hotjar is the best integrated UX platform because it bundles good-enough session replay with excellent heatmaps and user feedback tools at a very accessible price point.",
+      "verdict_short": "Best value for a bundled suite of heatmaps, surveys, and session replay.",
+      "praise": "Its user interface is exceptionally clean and easy to use, making it simple for non-technical team members to find insights without extensive training.",
+      "praise_short": "Extremely easy to use for non-technical teams.",
+      "criticism": "The session replay fidelity can struggle with single-page applications (SPAs) and complex dynamic content compared to developer-focused tools like LogRocket.",
+      "criticism_short": "Replay fidelity is lower on complex modern web apps.",
+      "sources_pending": [
+        "Hotjar Docs",
+        "Capterra Reviews",
+        "Shopify App Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 212,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Slack",
+        "Microsoft Teams",
+        "HubSpot",
+        "Optimizely",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "LGPD"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Smartlook",
+      "url": "https://www.smartlook.com",
+      "founded": 2016,
+      "hq": "Brno, Czech Republic",
+      "team_size_band": "51-200",
+      "best_for": "Teams that need to analyze user behavior across both web and native mobile applications with a single tool.",
+      "best_for_short": "Web and native mobile apps",
+      "pricing_band": "$$ ($55 to $111+/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8.8,
+        "analytics_insights": 8.7,
+        "performance_impact": 8.5,
+        "integration_workflow": 8.4,
+        "pricing_scalability": 8.8
+      },
+      "verdict": "Smartlook excels by offering strong session replay capabilities for native iOS and Android apps, a feature many web-focused competitors lack.",
+      "verdict_short": "Best for its strong support of native mobile app session replay.",
+      "praise": "Its automatic event tracking is more granular than Hotjar's, and the ability to build funnels from these events and watch replays of drop-offs is very effective.",
+      "praise_short": "Granular event tracking and funnel drop-off analysis.",
+      "criticism": "The user interface can feel cluttered at times, and navigating between different features like events, funnels, and recordings is less intuitive than in Hotjar.",
+      "criticism_short": "User interface can be cluttered and less intuitive.",
+      "sources_pending": [
+        "Smartlook Docs",
+        "G2 Reviews",
+        "Cisco (acquirer) Press Releases"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 55,
+      "price_max": 111,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Jira",
+        "Slack",
+        "Intercom",
+        "Zendesk",
+        "Segment"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Microsoft Clarity",
+      "url": "https://clarity.microsoft.com",
+      "founded": 2020,
+      "hq": "Redmond, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Individuals and teams on a tight budget who need basic, reliable session replay and heatmaps without any cost.",
+      "best_for_short": "Best free session replay",
+      "pricing_band": "$ (Free)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8,
+        "analytics_insights": 8.2,
+        "performance_impact": 8.5,
+        "integration_workflow": 8,
+        "pricing_scalability": 9.4
+      },
+      "verdict": "Microsoft Clarity is the best free session replay tool available, offering unlimited recordings and heatmaps with minimal performance impact, making it an unbeatable value.",
+      "verdict_short": "Unbeatable value as a completely free tool with unlimited sessions.",
+      "praise": "Its integration with Google Analytics is excellent, allowing you to link directly from your GA reports to the corresponding Clarity recordings for specific user segments.",
+      "praise_short": "Excellent integration with Google Analytics.",
+      "criticism": "It lacks the advanced analytics, developer tools, and integrations of paid platforms; there are no error logs, custom event funnels, or Jira integrations.",
+      "criticism_short": "Lacks advanced analytics and developer integrations.",
+      "sources_pending": [
+        "Microsoft Clarity Docs",
+        "Product Hunt",
+        "Web.dev performance analysis"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Adobe Analytics"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Heap",
+      "url": "https://www.heap.io",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Data-driven product teams that want to connect session replays directly to quantitative analytics and user journey paths.",
+      "best_for_short": "Connecting replays to quantitative data",
+      "pricing_band": "$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8.5,
+        "analytics_insights": 9.2,
+        "performance_impact": 8,
+        "integration_workflow": 8.3,
+        "pricing_scalability": 7
+      },
+      "verdict": "Heap stands out by integrating session replay into its powerful autocapture analytics platform, letting you watch recordings of users who dropped out of a specific funnel step.",
+      "verdict_short": "Best for watching replays of users within specific analytics funnels.",
+      "praise": "Like FullStory, Heap's autocapture of all events means you can retroactively analyze user behavior without needing to add tracking code for new events.",
+      "praise_short": "Autocaptures all events for retroactive analysis.",
+      "criticism": "Session replay is a feature of its broader, expensive analytics suite rather than a standalone product, and its replay fidelity is not as high as specialized tools.",
+      "criticism_short": "Replay is an add-on to an expensive platform.",
+      "sources_pending": [
+        "Heap Docs",
+        "G2 Reviews",
+        "Contentsquare (acquirer) Press Releases"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Shopify",
+        "Intercom",
+        "Redshift"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "PostHog",
+      "url": "https://posthog.com",
+      "founded": 2020,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Technical teams and startups wanting an all-in-one, open-source product analytics suite with integrated session replay.",
+      "best_for_short": "Open-source analytics suite",
+      "pricing_band": "$$ (Usage-based)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8,
+        "analytics_insights": 8.4,
+        "performance_impact": 8.2,
+        "integration_workflow": 7.9,
+        "pricing_scalability": 8.5
+      },
+      "verdict": "PostHog provides the most feature-rich open-source alternative, combining session replay with product analytics, feature flags, and A/B testing in a single platform.",
+      "verdict_short": "Best open-source platform with replay, analytics, and feature flags.",
+      "praise": "Its generous free cloud tier (up to 1 million events and 15k recordings per month) and transparent, usage-based pricing are great for startups.",
+      "praise_short": "Generous free tier and transparent usage-based pricing.",
+      "criticism": "As an all-in-one tool, its session replay feature is less mature and has fewer specific insights (like rage click detection) than dedicated competitors.",
+      "criticism_short": "Session replay feature is less mature than dedicated tools.",
+      "sources_pending": [
+        "PostHog Docs",
+        "GitHub",
+        "YC Company Profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "Sentry",
+        "Zapier",
+        "BigQuery",
+        "Snowflake"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Mouseflow",
+      "url": "https://mouseflow.com",
+      "founded": 2010,
+      "hq": "Copenhagen, Denmark",
+      "team_size_band": "51-200",
+      "best_for": "Conversion rate optimization (CRO) specialists who want to analyze user behavior in forms and conversion funnels.",
+      "best_for_short": "Form and funnel analysis",
+      "pricing_band": "$$ ($39 to $399+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 7.5,
+        "analytics_insights": 8.2,
+        "performance_impact": 7.8,
+        "integration_workflow": 7.7,
+        "pricing_scalability": 8
+      },
+      "verdict": "Mouseflow's strength lies in its specialized analytics for forms, showing which fields cause drop-offs, take the longest to fill, or are left blank.",
+      "verdict_short": "Best for its detailed form analytics feature.",
+      "praise": "It offers a very competitive feature set for its price, including six types of heatmaps and user feedback surveys, making it a strong Hotjar alternative.",
+      "praise_short": "Competitive feature set and pricing vs. Hotjar.",
+      "criticism": "The user interface feels dated compared to more modern tools, and the session replay can sometimes be buggy on sites with heavy JavaScript.",
+      "criticism_short": "Dated user interface and occasional replay bugs.",
+      "sources_pending": [
+        "Mouseflow Docs",
+        "Capterra Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Shopify",
+        "WordPress",
+        "HubSpot",
+        "Unbounce"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "LGPD"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Pendo",
+      "url": "https://www.pendo.io",
+      "founded": 2013,
+      "hq": "Raleigh, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Product managers using Pendo for in-app guides and analytics who want to add qualitative context to user behavior.",
+      "best_for_short": "Context for in-app guides",
+      "pricing_band": "$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 7.2,
+        "analytics_insights": 8,
+        "performance_impact": 7.5,
+        "integration_workflow": 8.1,
+        "pricing_scalability": 7
+      },
+      "verdict": "Pendo's session replay is valuable because it's integrated with its product adoption platform, allowing you to see how users interact with your onboarding guides.",
+      "verdict_short": "Best for seeing how users interact with product tours.",
+      "praise": "The ability to launch a session replay directly from a user's profile within the Pendo analytics dashboard creates a smooth workflow.",
+      "praise_short": "Smooth workflow from user profile to replay.",
+      "criticism": "Session replay is a relatively new addition and less powerful than dedicated tools; it also requires a subscription to the expensive Pendo platform.",
+      "criticism_short": "A basic feature within a very expensive platform.",
+      "sources_pending": [
+        "Pendo Docs",
+        "G2 Reviews",
+        "TrustRadius"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Zendesk",
+        "Segment",
+        "Jira",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "APAC"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Contentsquare",
+      "url": "https://contentsquare.com",
+      "founded": 2012,
+      "hq": "Paris, France",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Large enterprises in retail, travel, and finance that need a deep, AI-driven analysis of user behavior at massive scale.",
+      "best_for_short": "AI-driven enterprise analytics",
+      "pricing_band": "$$$$$ (High-end enterprise plans)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 8.5,
+        "analytics_insights": 9,
+        "performance_impact": 6.5,
+        "integration_workflow": 7.5,
+        "pricing_scalability": 5.5
+      },
+      "verdict": "Contentsquare is a powerful enterprise suite that uses AI to automatically surface insights from millions of sessions, moving beyond manual replay analysis.",
+      "verdict_short": "Powerful AI-driven insights for large enterprise customers.",
+      "praise": "Its 'Zone-based Heatmaps' and 'Customer Journey Analysis' features provide a level of aggregated visual analysis that most other tools cannot match.",
+      "praise_short": "Advanced aggregated visual analysis features.",
+      "criticism": "The platform is extremely expensive, complex to implement, and its heavy script can have a noticeable impact on site performance.",
+      "criticism_short": "Very expensive, complex, and can impact site performance.",
+      "sources_pending": [
+        "Contentsquare Docs",
+        "Gartner Magic Quadrant",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Adobe Analytics",
+        "Google Analytics",
+        "Salesforce",
+        "Qualtrics",
+        "Tealium"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "OpenReplay",
+      "url": "https://openreplay.com",
+      "founded": 2021,
+      "hq": "Paris, France",
+      "team_size_band": "11-50",
+      "best_for": "Engineering teams that require a self-hosted, open-source solution for maximum data control, privacy, and cost management.",
+      "best_for_short": "Self-hosted open-source replay",
+      "pricing_band": "$ (Free self-hosted)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "replay_fidelity_accuracy": 7.8,
+        "analytics_insights": 7.5,
+        "performance_impact": 7,
+        "integration_workflow": 6.5,
+        "pricing_scalability": 9
+      },
+      "verdict": "OpenReplay is a compelling wildcard because it's an open-source, self-hostable tool that gives developers the core functionality of LogRocket without the SaaS price tag.",
+      "verdict_short": "Best open-source, self-hosted tool for developers needing data control.",
+      "praise": "For privacy-conscious organizations, the ability to deploy it entirely within their own infrastructure is a critical advantage over cloud-based competitors.",
+      "praise_short": "Self-hosting provides maximum data privacy and control.",
+      "criticism": "It requires significant engineering effort to set up and maintain, and it lacks the polish, advanced analytics, and broad integrations of mature commercial tools.",
+      "criticism_short": "Requires significant engineering effort to maintain.",
+      "sources_pending": [
+        "OpenReplay Docs",
+        "GitHub",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Sentry",
+        "Datadog",
+        "Slack",
+        "GitHub",
+        "Redux"
+      ],
+      "compliance": [
+        "GDPR (self-hosted)",
+        "HIPAA (self-hosted)"
+      ],
+      "regions": [
+        "Self-hosted"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

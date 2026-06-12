@@ -98,6 +98,8 @@ import penetrationTestingServices from "@/data/penetration-testing-services.json
 import schoolManagementSoftware from "@/data/school-management-software.json";
 import lmsCorporateTraining from "@/data/lms-corporate-training.json";
 import esignProposalSoftware from "@/data/esign-proposal-software.json";
+import shippingSoftwareEcommerce from "@/data/shipping-software-ecommerce.json";
+import sessionReplayTools from "@/data/session-replay-tools.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 
