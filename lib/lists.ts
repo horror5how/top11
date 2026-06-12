@@ -92,6 +92,8 @@ import transcriptionServices from "@/data/transcription-services.json";
 import medicalBillingSoftware from "@/data/medical-billing-software.json";
 import patientEngagementSoftware from "@/data/patient-engagement-software.json";
 import amazonSellerTools from "@/data/amazon-seller-tools.json";
+import socialMediaAnalytics from "@/data/social-media-analytics.json";
+import investorCrm from "@/data/investor-crm.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

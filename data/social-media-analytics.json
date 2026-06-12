@@ -1,0 +1,814 @@
+{
+  "slug": "social-media-analytics",
+  "title": "The 11 Best Social Media Analytics Tools",
+  "subtitle": "A ranked list of platforms for tracking social media performance, from enterprise-grade suites to focused reporting tools.",
+  "vertical": "Marketing · Analytics",
+  "audience": "Social media managers measuring reach, engagement, and ROI",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Social Media Management",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Data Depth (30%), Reporting & Visualization (25%), Listening & Competitive Analysis (20%), Integration & Workflow (15%), and Pricing & Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best social media analytics tool is Sprout Social for its all-in-one capabilities, followed by Brandwatch for deep consumer intelligence and Agorapulse for small to mid-sized businesses.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Data Depth & Platform Coverage",
+        "weight": 30,
+        "description": "Measures the number of social platforms supported (e.g., X, Instagram, TikTok, LinkedIn) and the granularity of data available, including historical data access and audience demographics."
+      },
+      {
+        "name": "Reporting & Visualization",
+        "weight": 25,
+        "description": "Assesses the quality and customizability of dashboards and reports. Evaluates ease of data export, automated reporting features, and the clarity of data presentation for stakeholders."
+      },
+      {
+        "name": "Listening & Competitive Analysis",
+        "weight": 20,
+        "description": "Evaluates the tool's ability to monitor brand mentions, keywords, and hashtags across the web and social media. Includes sentiment analysis accuracy and competitor benchmarking features."
+      },
+      {
+        "name": "Integration & Workflow",
+        "weight": 15,
+        "description": "Scores the platform's ability to connect with other marketing stack tools like CRMs (Salesforce, HubSpot) and BI platforms (Tableau). Also considers built-in publishing and engagement features."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Analyzes the transparency of pricing, overall value for the features offered, and the platform's ability to serve users from single managers to large, multi-departmental enterprises."
+      }
+    ]
+  },
+  "segment_tags": [
+    "social media analytics",
+    "social listening tools",
+    "brand monitoring",
+    "competitor analysis",
+    "social media ROI",
+    "enterprise social media",
+    "SMB social media tools"
+  ],
+  "problem_tags": [
+    "measuring engagement",
+    "tracking campaign performance",
+    "reporting to stakeholders",
+    "understanding audience sentiment",
+    "benchmarking against competitors"
+  ],
+  "query_intents": [
+    "best social media analytics software",
+    "Sprout Social vs Hootsuite",
+    "social listening tools for small business",
+    "enterprise social media reporting",
+    "free social media analytics"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "unified social media management",
+        "streamlined reporting",
+        "team collaboration"
+      ],
+      "personas": [
+        "Mid-Market Social Media Manager",
+        "Digital Marketing Director"
+      ]
+    },
+    "2": {
+      "solves": [
+        "deep consumer intelligence",
+        "crisis monitoring",
+        "market research"
+      ],
+      "personas": [
+        "Enterprise Brand Strategist",
+        "Market Researcher"
+      ]
+    },
+    "4": {
+      "solves": [
+        "proving social media ROI",
+        "efficient team inbox management",
+        "agency client reporting"
+      ],
+      "personas": [
+        "SMB Social Media Manager",
+        "Marketing Agency Account Manager"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What's the difference between social analytics and social listening?",
+      "a": "Social analytics focuses on your own social media accounts, measuring metrics like engagement rate, reach, and follower growth. Social listening looks outward, tracking conversations, keywords, and brand mentions across the entire social web to understand public sentiment and market trends."
+    },
+    {
+      "q": "How much should I expect to pay for a social media analytics tool?",
+      "a": "Pricing varies widely based on features and scale. Tools for small businesses or single users can start around $50-$150 per month. Mid-market solutions often range from $250-$1,000 per month, while enterprise platforms with deep listening capabilities can cost $1,000 to over $10,000 per month."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary goal: are you focused on reporting your own channel performance, listening for brand mentions, or conducting deep competitive analysis?",
+    "Next, list the social media platforms that are critical for your business. Ensure your chosen tool has strong, native API support for them, especially for newer platforms like TikTok.",
+    "Then, consider your team size and workflow. If you need publishing and collaboration features alongside analytics, an all-in-one suite like Sprout Social or Agorapulse is more efficient.",
+    "Finally, evaluate the reporting outputs. Can you easily create custom reports for different stakeholders (e.g., a high-level dashboard for executives and a granular one for the marketing team)?"
+  ],
+  "faqs": [
+    {
+      "q": "What is the best tool for social media analytics?",
+      "a": "Sprout Social is the best all-around tool for most businesses, offering a powerful combination of analytics, publishing, and listening in one platform. For enterprise-level consumer intelligence, Brandwatch is the top choice, while Agorapulse offers the best value for small to mid-sized teams."
+    },
+    {
+      "q": "Are there any free social media analytics tools?",
+      "a": "Yes, several tools offer a free tier, though they are typically limited. Buffer offers a basic free plan for publishing and simple analytics. Additionally, each social network (like Facebook Meta Business Suite, X Analytics, and LinkedIn Analytics) provides its own native analytics for free, which can be sufficient for basic tracking."
+    },
+    {
+      "q": "How do I measure the ROI of social media?",
+      "a": "To measure social media ROI, you track the revenue generated from social media activities against the investment (tools, ad spend, personnel). Use UTM parameters in your links to track website traffic and conversions from social channels in Google Analytics. Tools like Agorapulse and HubSpot have built-in calculators to help connect social activities to monetary value."
+    },
+    {
+      "q": "Which tool is best for monitoring competitors on social media?",
+      "a": "Rival IQ is the best specialized tool for competitor analysis, providing detailed automated reports on competitor activity, top content, and audience growth. Many all-in-one platforms like Sprout Social and Brandwatch also offer strong competitor tracking features within their broader analytics suites."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes platforms with broad social network coverage; tools specializing in a single network (e.g., only Instagram) were less likely to rank highly unless their features were exceptional.",
+    "The evaluation has a slight bias towards tools with transparent, publicly available pricing, as this is a key factor for our target audience.",
+    "Most candidates are US-based SaaS companies, which may affect the depth of support for non-English languages and region-specific social networks."
+  ],
+  "glossary": {
+    "term": "Sentiment Analysis",
+    "definition": "The automated process of identifying and categorizing opinions expressed in text to determine whether the writer's attitude towards a particular topic, product, or brand is positive, negative, or neutral.",
+    "synonyms": [
+      "opinion mining"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Sprout Social",
+      "url": "https://sproutsocial.com",
+      "founded": 2010,
+      "hq": "Chicago, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Teams seeking a unified platform for social media publishing, engagement, analytics, and listening without extreme complexity.",
+      "best_for_short": "All-in-one social management",
+      "pricing_band": "$$$ ($249 to $499+/user/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 9.3,
+        "Reporting & Visualization": 9.2,
+        "Listening & Competitive Analysis": 9,
+        "Integration & Workflow": 9.1,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Sprout Social ranks #1 for its exceptional balance of powerful analytics, intuitive publishing tools, and a unified smart inbox, making it the most effective all-in-one platform for most businesses.",
+      "verdict_short": "The best all-in-one platform, balancing powerful features with a user-friendly interface for analytics and publishing.",
+      "praise": "Its Premium Analytics suite offers over 100 pre-built report templates and a custom report builder that connects directly to BI tools like Tableau.",
+      "praise_short": "Excellent reporting suite with 100+ templates.",
+      "criticism": "The per-user pricing model can become costly for larger teams, and the Advanced Listening feature is a significant additional expense on top of the base plan.",
+      "criticism_short": "Per-user pricing gets expensive quickly.",
+      "sources_pending": [
+        "Sprout Social pricing page",
+        "G2 Sprout Social Reviews",
+        "PCMag Review 2026"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 249,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zendesk",
+        "Google Analytics",
+        "Tableau",
+        "Canva"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Brandwatch",
+      "url": "https://www.brandwatch.com",
+      "founded": 2007,
+      "hq": "Brighton, UK",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Enterprises needing deep consumer intelligence, market research, and real-time trend analysis powered by a massive historical data set.",
+      "best_for_short": "Enterprise consumer intelligence",
+      "pricing_band": "$$$$$ (Custom, starts ~$1,000/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 9.4,
+        "Reporting & Visualization": 8.8,
+        "Listening & Competitive Analysis": 9.3,
+        "Integration & Workflow": 8.2,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Brandwatch is the best choice for deep social listening and consumer intelligence, offering access to a historical data archive of over 1.4 trillion posts and advanced AI-powered analysis.",
+      "verdict_short": "The top platform for deep social listening and market research, with a massive historical data archive.",
+      "praise": "Its Iris AI analyst automatically detects significant changes in conversation, surfacing trends and potential crises before they escalate, saving hours of manual data sifting.",
+      "praise_short": "AI analyst Iris finds trends automatically.",
+      "criticism": "The platform is complex and requires significant training to use effectively, and its high price point puts it out of reach for most small and mid-sized businesses.",
+      "criticism_short": "Complex interface and high enterprise pricing.",
+      "sources_pending": [
+        "Brandwatch product docs",
+        "Forrester Wave: Social Listening Platforms",
+        "G2 Brandwatch Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 1000,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Hootsuite",
+        "Salesforce",
+        "Tableau",
+        "Google Drive",
+        "LexisNexis"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Sprinklr",
+      "url": "https://www.sprinklr.com",
+      "founded": 2009,
+      "hq": "New York, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Large, global enterprises that need to unify dozens of customer-facing functions (marketing, care, research) on a single, AI-powered platform.",
+      "best_for_short": "Unified enterprise CXM platform",
+      "pricing_band": "$$$$$ (Custom, starts ~$1,200/mo)",
+      "score_out_of_94": 8.7,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 9.2,
+        "Reporting & Visualization": 8.5,
+        "Listening & Competitive Analysis": 9,
+        "Integration & Workflow": 9.1,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Sprinklr secures the third spot by offering the most extensive, unified customer experience platform on the market, capable of managing over 30 digital channels from a single code base.",
+      "verdict_short": "A vast, unified platform for large enterprises managing 30+ digital channels for marketing and customer care.",
+      "praise": "Its AI-powered Smart Alerts for customer care can reduce response times by up to 40% by automatically routing inquiries to the correct agent with full customer context.",
+      "praise_short": "AI-powered alerts reduce customer response times.",
+      "criticism": "The platform's sheer size and number of features can be overwhelming, leading to a steep learning curve and a lengthy implementation process often lasting over 3 months.",
+      "criticism_short": "Overwhelmingly complex with a long setup time.",
+      "sources_pending": [
+        "Sprinklr customer case studies",
+        "Gartner Magic Quadrant for Content Marketing Platforms",
+        "TrustRadius Sprinklr Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 1200,
+      "price_max": 1200,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Adobe Experience Cloud",
+        "Microsoft Dynamics",
+        "ServiceNow",
+        "SAP"
+      ],
+      "compliance": [
+        "FedRAMP",
+        "HIPAA",
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Agorapulse",
+      "url": "https://www.agorapulse.com",
+      "founded": 2011,
+      "hq": "Paris, France",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized businesses and agencies that need an affordable, easy-to-use tool with strong ROI and reporting features.",
+      "best_for_short": "Best value for SMBs & agencies",
+      "pricing_band": "$$ ($49 to $119/user/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 8.2,
+        "Reporting & Visualization": 8.8,
+        "Listening & Competitive Analysis": 8,
+        "Integration & Workflow": 8.5,
+        "Pricing & Scalability": 9.3
+      },
+      "verdict": "Agorapulse earns its high ranking by providing the best combination of features, usability, and price for SMBs, with standout ROI tracking and an excellent unified inbox.",
+      "verdict_short": "The best value for SMBs, offering great ROI reporting and a top-tier social inbox at a fair price.",
+      "praise": "The built-in Social Media ROI calculator clearly connects specific posts and campaigns to website traffic and lead generation, a feature often missing in tools under $200/month.",
+      "praise_short": "Clear Social Media ROI calculator included.",
+      "criticism": "Its social listening capabilities are less advanced than competitors like Brandwatch, primarily focusing on direct mentions and core keywords rather than broader trend analysis.",
+      "criticism_short": "Social listening is basic compared to rivals.",
+      "sources_pending": [
+        "Agorapulse pricing page",
+        "G2 Agorapulse Reviews",
+        "Social Media Today Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Bitly",
+        "Canva",
+        "Google Drive"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 5,
+      "name": "Hootsuite",
+      "url": "https://www.hootsuite.com",
+      "founded": 2008,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Organizations that prioritize social media publishing and scheduling across many accounts and need solid, integrated analytics.",
+      "best_for_short": "Publishing-focused with solid analytics",
+      "pricing_band": "$$$ ($99 to $739+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 8.5,
+        "Reporting & Visualization": 8.2,
+        "Listening & Competitive Analysis": 7.8,
+        "Integration & Workflow": 8.7,
+        "Pricing & Scalability": 7.9
+      },
+      "verdict": "Hootsuite remains a top contender due to its market-leading scheduling and publishing tools, complemented by a strong analytics suite (Hootsuite Advanced Analytics) that is effective for most teams.",
+      "verdict_short": "A publishing powerhouse with strong analytics, ideal for managing a high volume of social accounts.",
+      "praise": "The platform's content calendar and bulk scheduler are best-in-class, allowing teams to plan and schedule up to 350 posts at once across multiple networks.",
+      "praise_short": "Best-in-class bulk scheduling for 350+ posts.",
+      "criticism": "The user interface feels dated compared to more modern rivals, and many of the most powerful analytics and listening features require expensive add-ons or a higher-tier plan.",
+      "criticism_short": "Dated interface; key features are expensive add-ons.",
+      "sources_pending": [
+        "Hootsuite plans page",
+        "G2 Hootsuite Reviews",
+        "Forrester Wave: Social Suites"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 739,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Slack",
+        "Adobe",
+        "Microsoft Dynamics",
+        "Asana",
+        "Brandwatch"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Talkwalker",
+      "url": "https://www.talkwalker.com",
+      "founded": 2009,
+      "hq": "Luxembourg City, Luxembourg",
+      "team_size_band": "501-1,000",
+      "best_for": "PR and communications teams that need a specialized listening tool with excellent image recognition and global language support.",
+      "best_for_short": "Specialized listening & PR tool",
+      "pricing_band": "$$$$ (Custom, starts ~$750/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 8.8,
+        "Reporting & Visualization": 8,
+        "Listening & Competitive Analysis": 8.9,
+        "Integration & Workflow": 7,
+        "Pricing & Scalability": 7.1
+      },
+      "verdict": "Talkwalker excels as a dedicated listening platform, distinguishing itself with proprietary image and video analytics technology that can identify logos and scenes in over 30,000 brands.",
+      "verdict_short": "A dedicated listening platform with standout image and video logo recognition for over 30,000 brands.",
+      "praise": "Its coverage of over 150 million websites and 187 languages is among the most extensive in the industry, making it ideal for global brand tracking.",
+      "praise_short": "Massive data coverage in 187 languages.",
+      "criticism": "As it is not an all-in-one suite, it lacks native publishing and scheduling features, requiring integration with another tool for a complete social media workflow.",
+      "criticism_short": "No native publishing or scheduling tools.",
+      "sources_pending": [
+        "Talkwalker product page",
+        "G2 Talkwalker Reviews",
+        "Gartner Peer Insights"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 750,
+      "price_max": 750,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Tableau",
+        "Hootsuite",
+        "Google Data Studio",
+        "Salesforce"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Iconosquare",
+      "url": "https://www.iconosquare.com",
+      "founded": 2011,
+      "hq": "Limoges, France",
+      "team_size_band": "51-200",
+      "best_for": "Visually-focused brands and e-commerce businesses that need deep analytics specifically for Instagram, Facebook, and TikTok.",
+      "best_for_short": "Deep analytics for visual platforms",
+      "pricing_band": "$ ($29 to $179+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 7.2,
+        "Reporting & Visualization": 8.9,
+        "Listening & Competitive Analysis": 7.5,
+        "Integration & Workflow": 7.6,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Iconosquare is the best specialized tool for visual platforms, offering exceptionally clear and actionable dashboards for Instagram and TikTok analytics that outperform many generalist tools.",
+      "verdict_short": "The best analytics tool for visual platforms like Instagram and TikTok, with clear, actionable dashboards.",
+      "praise": "Its 'Best Time to Post' feature is data-driven and highly accurate, analyzing your specific audience's engagement patterns to provide precise posting recommendations.",
+      "praise_short": "Highly accurate 'Best Time to Post' feature.",
+      "criticism": "The platform's coverage is narrow, lacking support for important networks like X and LinkedIn, making it an incomplete solution for many B2B or news-focused brands.",
+      "criticism_short": "Lacks support for X and LinkedIn.",
+      "sources_pending": [
+        "Iconosquare pricing page",
+        "Capterra Iconosquare Reviews",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 179,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Drive",
+        "Dropbox"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 20
+    },
+    {
+      "rank": 8,
+      "name": "Keyhole",
+      "url": "https://keyhole.co",
+      "founded": 2013,
+      "hq": "Toronto, Canada",
+      "team_size_band": "11-50",
+      "best_for": "Marketers and agencies focused on real-time campaign tracking, event monitoring, and influencer marketing analytics.",
+      "best_for_short": "Real-time campaign & hashtag tracking",
+      "pricing_band": "$$ ($79 to $199+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 7.5,
+        "Reporting & Visualization": 7.8,
+        "Listening & Competitive Analysis": 8.2,
+        "Integration & Workflow": 7,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Keyhole stands out for its speed and focus, providing some of the fastest real-time hashtag and keyword tracking on the market, making it ideal for live events and rapid campaign analysis.",
+      "verdict_short": "Excellent for real-time hashtag and keyword tracking during live events and campaigns.",
+      "praise": "The live dashboard for tracking event hashtags is highly effective, updating metrics like reach and top influencers every few seconds.",
+      "praise_short": "Live event dashboard updates in seconds.",
+      "criticism": "Historical data access is limited on lower-tier plans (often only 30-90 days), which hinders long-term performance analysis without upgrading to a custom enterprise plan.",
+      "criticism_short": "Limited historical data on lower-tier plans.",
+      "sources_pending": [
+        "Keyhole pricing page",
+        "G2 Keyhole Reviews",
+        "Blog articles on event marketing"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 79,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Google Data Studio"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "Rival IQ",
+      "url": "https://www.rivaliq.com",
+      "founded": 2012,
+      "hq": "Seattle, USA",
+      "team_size_band": "11-50",
+      "best_for": "Data-driven marketers who need to deeply understand their competitive landscape and benchmark performance with automated reports.",
+      "best_for_short": "Best-in-class competitive analysis",
+      "pricing_band": "$$$ ($239 to $519/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 7.8,
+        "Reporting & Visualization": 8,
+        "Listening & Competitive Analysis": 8.5,
+        "Integration & Workflow": 6,
+        "Pricing & Scalability": 6.8
+      },
+      "verdict": "Rival IQ is the undisputed leader for social media competitive analysis, delivering automated, presentation-ready reports that clearly show how your brand stacks up against any competitor set.",
+      "verdict_short": "The best tool for automated and detailed social media competitive analysis and benchmarking reports.",
+      "praise": "Its 'Landscape' reports automatically analyze up to 150 competitors and identify top-performing content and tactical shifts, saving dozens of hours of manual research.",
+      "praise_short": "Automated reports analyze up to 150 competitors.",
+      "criticism": "The tool is highly specialized on competitive analytics and lacks the publishing, scheduling, and inbox management features of an all-in-one suite.",
+      "criticism_short": "No publishing or inbox management features.",
+      "sources_pending": [
+        "Rival IQ pricing page",
+        "Content Marketing Institute review",
+        "G2 Rival IQ Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 239,
+      "price_max": 519,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics",
+        "Facebook Ads",
+        "Google Ads"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 10,
+      "name": "Brand24",
+      "url": "https://brand24.com",
+      "founded": 2011,
+      "hq": "Wrocław, Poland",
+      "team_size_band": "51-200",
+      "best_for": "Small businesses and startups needing an affordable and simple tool for brand monitoring and tracking online mentions.",
+      "best_for_short": "Affordable brand monitoring",
+      "pricing_band": "$ ($79 to $399/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 7,
+        "Reporting & Visualization": 7.1,
+        "Listening & Competitive Analysis": 7.9,
+        "Integration & Workflow": 6.8,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Brand24 provides a highly accessible and affordable entry point into social listening, making it a great first step for small businesses to start monitoring their online reputation.",
+      "verdict_short": "An affordable, easy-to-use social listening tool perfect for small businesses monitoring their reputation.",
+      "praise": "The automated daily and weekly email reports are simple, effective, and require almost no setup, delivering key mentions directly to your inbox.",
+      "praise_short": "Simple, effective automated email reports.",
+      "criticism": "The sentiment analysis can be inaccurate, frequently miscategorizing neutral or sarcastic comments, which requires manual review for important reports.",
+      "criticism_short": "Sentiment analysis is often inaccurate.",
+      "sources_pending": [
+        "Brand24 pricing page",
+        "Capterra Brand24 Reviews",
+        "Startup-focused blogs"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 79,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Dash Hudson",
+      "url": "https://www.dashhudson.com",
+      "founded": 2015,
+      "hq": "Halifax, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Consumer brands in retail, beauty, and CPG that need to measure the performance of visual content on platforms like Instagram and TikTok.",
+      "best_for_short": "Visual content intelligence",
+      "pricing_band": "$$$$ (Custom, starts ~$500/mo)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Data Depth & Platform Coverage": 7.5,
+        "Reporting & Visualization": 8.2,
+        "Listening & Competitive Analysis": 6.5,
+        "Integration & Workflow": 7,
+        "Pricing & Scalability": 6
+      },
+      "verdict": "Dash Hudson is a compelling wildcard because it moves beyond standard metrics to analyze the specific visual elements of content, using AI to predict which photos and videos will perform best.",
+      "verdict_short": "A unique tool that uses AI to analyze and predict the performance of visual content on Instagram and TikTok.",
+      "praise": "Its 'Vision' AI can analyze your content library and identify visual trends, such as which colors, objects, or styles are driving the highest engagement for your specific audience.",
+      "praise_short": "AI identifies visual trends in content.",
+      "criticism": "The platform is expensive and highly specialized for visual-first, entertainment-driven social channels, making it a poor fit for B2B or text-heavy social media strategies.",
+      "criticism_short": "Expensive and not suitable for B2B marketing.",
+      "sources_pending": [
+        "Dash Hudson product tour",
+        "Glossy.co articles",
+        "G2 Dash Hudson Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify",
+        "Google Analytics",
+        "Adobe Analytics",
+        "Salesforce Commerce Cloud"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    }
+  ]
+}

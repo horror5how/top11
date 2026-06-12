@@ -80,14 +80,6 @@
       "priority": 4
     },
     {
-      "slug": "social-media-analytics",
-      "title": "The 11 Best Social Media Analytics Tools",
-      "vertical": "Marketing · Analytics",
-      "audience": "Social media managers measuring reach, engagement, and ROI",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "employee-scheduling-software",
       "title": "The 11 Best Employee Scheduling Software",
       "vertical": "HR · Workforce Management",
@@ -134,14 +126,6 @@
       "audience": "Marketing teams organizing brand assets, images, and creative files",
       "candidate_pool_size": 25,
       "priority": 4
-    },
-    {
-      "slug": "investor-crm",
-      "title": "The 11 Best Investor Relations CRMs",
-      "vertical": "Finance · IR · CRM",
-      "audience": "Founders managing investor relationships and cap tables",
-      "candidate_pool_size": 20,
-      "priority": 3
     },
     {
       "slug": "penetration-testing-services",
@@ -360,7 +344,9 @@
     "transcription-services",
     "medical-billing-software",
     "patient-engagement-software",
-    "amazon-seller-tools"
+    "amazon-seller-tools",
+    "social-media-analytics",
+    "investor-crm"
   ],
   "skipped": [
     {

@@ -1,0 +1,815 @@
+{
+  "slug": "investor-crm",
+  "title": "The 11 Best Investor Relations CRMs",
+  "subtitle": "A ranked list of platforms for managing cap tables, investor updates, and fundraising communication, built for startup founders.",
+  "vertical": "Finance · IR · CRM",
+  "audience": "Founders managing investor relationships and cap tables",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Financial Technology",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Investor Reporting (30%), Cap Table Management (25%), Ease of Use (20%), Integrations (15%), and Pricing (10%)."
+    }
+  ],
+  "answer_capsule": "The best investor relations CRM is Carta for its industry-standard cap table management, followed by Pulley for its founder-friendly user experience and Affinity for pure relationship intelligence.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Investor Reporting & Communication",
+        "weight": 30,
+        "description": "Evaluates tools for sending updates, managing data rooms, tracking engagement, and automating communication workflows with stakeholders."
+      },
+      {
+        "name": "Cap Table Management",
+        "weight": 25,
+        "description": "Assesses the accuracy and functionality of cap table tools, including round modeling, equity plan administration, and generating compliance documents."
+      },
+      {
+        "name": "Ease of Use & Founder Focus",
+        "weight": 20,
+        "description": "Scores the user interface, onboarding process, and overall design for a non-expert founder audience, prioritizing speed and clarity."
+      },
+      {
+        "name": "Integration & Ecosystem",
+        "weight": 15,
+        "description": "Measures the ability to connect with essential founder tools like email, calendar, document storage (e.g., DocSend), and HRIS platforms."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Rates the transparency, value for money, and ability of the pricing model to scale from pre-seed through Series B without excessive costs."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Startup Fundraising",
+    "Venture Capital",
+    "Cap Table Software",
+    "Shareholder Management",
+    "Founder Tools"
+  ],
+  "problem_tags": [
+    "Investor Communication",
+    "Equity Management",
+    "Fundraising Workflow",
+    "Stakeholder Reporting",
+    "Data Room Management"
+  ],
+  "query_intents": [
+    "best crm for investors",
+    "carta vs pulley",
+    "investor update software",
+    "cap table management tools",
+    "crm for venture capital fundraising"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Cap table source of truth",
+        "409A valuations",
+        "Investor compliance"
+      ],
+      "personas": [
+        "VC-backed founders",
+        "CFOs",
+        "Paralegals"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Cap table complexity",
+        "Scenario modeling",
+        "Employee equity education"
+      ],
+      "personas": [
+        "Early-stage founders",
+        "First-time founders",
+        "Heads of People"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Manual data entry",
+        "Tracking relationships",
+        "Mapping investor networks"
+      ],
+      "personas": [
+        "Fundraising founders",
+        "Venture Capitalists",
+        "Business Development"
+      ]
+    },
+    "11": {
+      "solves": [
+        "Rigid CRM structures",
+        "Poor user experience",
+        "Building a custom workflow"
+      ],
+      "personas": [
+        "Product-led founders",
+        "Operations managers",
+        "Teams wanting flexibility"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.32,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is an Investor Relations CRM?",
+      "a": "An Investor Relations (IR) CRM is specialized software that helps companies, particularly startups, manage communication and relationships with their investors and stakeholders. Unlike a general sales CRM, an IR CRM is often integrated with cap table management, investor update tools, and data rooms to provide a single platform for all shareholder-related activities."
+    },
+    {
+      "q": "When do you need an IR CRM?",
+      "a": "You should consider an IR CRM as soon as you take on your first outside investor. Even at the angel or pre-seed stage, establishing a system for regular updates and maintaining an accurate cap table prevents significant legal and administrative headaches later. Platforms with free tiers are ideal for this early stage."
+    },
+    {
+      "q": "What's more important: Cap Table or CRM features?",
+      "a": "For most early-stage founders, accurate cap table management is the most critical function, as errors can be costly and legally complex. The CRM and communication features are built on top of that foundation. Therefore, prioritize the platform's ability to handle your equity structure correctly first, then evaluate its reporting and communication tools."
+    }
+  ],
+  "how_to_choose": [
+    "First, verify the platform can legally and accurately model your current and future equity structure, including options pools and convertible notes.",
+    "Second, evaluate the investor update workflow: assess the template editor, analytics on who opened what, and ease of sending recurring reports.",
+    "Third, check for key integrations with your existing tools, primarily your email provider (Google Workspace, Outlook) and any data room service you use (e.g., DocSend).",
+    "Finally, get a full pricing quote that projects costs through your next one or two funding rounds to avoid surprise expenses as you grow."
+  ],
+  "faqs": [
+    {
+      "q": "What's the difference between an IR CRM and a regular CRM like Salesforce?",
+      "a": "The primary difference is specialization. An IR CRM integrates cap table management, scenario modeling, and compliance features specific to equity, which Salesforce lacks out of the box. It's built for shareholder communication, not for sales pipelines, providing templates and workflows for investor updates rather than lead nurturing."
+    },
+    {
+      "q": "Do I need an IR CRM at the pre-seed stage?",
+      "a": "Yes, it is highly recommended. Starting with a platform like Carta or Pulley, many of which offer free plans for small companies, establishes a single source of truth for your equity from day one. This avoids messy spreadsheet-based cap tables that become a liability during due diligence in future funding rounds."
+    },
+    {
+      "q": "How much should I expect to pay for an investor CRM?",
+      "a": "Costs vary widely. Many platforms offer free tiers for companies with under 25 stakeholders. Paid plans typically start around $1,000 to $3,000 per year for seed-stage startups and can scale to $10,000 or more for later-stage companies requiring features like 409A valuations and advanced reporting."
+    },
+    {
+      "q": "Can these platforms help with 409A valuations?",
+      "a": "Yes, the leading platforms like Carta and Pulley offer integrated 409A valuation services. This is a major advantage, as it connects the valuation directly to your cap table data, simplifying the process and ensuring auditors have a clean, defensible report. This service is typically an add-on or included in higher-tier plans."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers focus heavily on cap table management as the core, with CRM features varying in depth. Some are pure CRMs without cap table functions.",
+    "Many platforms are US-centric in their compliance and feature sets, though European alternatives like Ledgy are strong contenders for international teams.",
+    "Pricing is often opaque and requires a sales call, especially for companies beyond the seed stage. The listed free tiers often have significant limitations."
+  ],
+  "glossary": {
+    "term": "Cap Table",
+    "definition": "A capitalization table (cap table) is a spreadsheet or table that details the equity ownership of a company. It lists all the company's securities (stock, options, warrants) and who owns them.",
+    "synonyms": [
+      "Capitalization Table",
+      "Equity Ledger"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Carta",
+      "url": "https://carta.com",
+      "founded": 2012,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "VC-backed startups seeking the industry-standard platform for cap table management, 409A valuations, and investor compliance.",
+      "best_for_short": "Industry-standard cap table management",
+      "pricing_band": "$$$ ($2,500 to $15,000+/yr)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "investor_reporting_communication": 8.8,
+        "cap_table_management": 9.8,
+        "ease_of_use_founder_focus": 8.5,
+        "integration_ecosystem": 9.5,
+        "pricing_scalability": 8.9
+      },
+      "verdict": "Carta ranks first because it is the market-defining platform for cap table management, providing a single source of truth that most investors and law firms already use and trust.",
+      "verdict_short": "The default, trusted platform for cap table management and 409A valuations that investors expect.",
+      "praise": "Its integrated 409A valuation service is the most widely accepted in the startup ecosystem, streamlining a critical compliance step for companies issuing stock options.",
+      "praise_short": "Integrated, widely accepted 409A valuation service.",
+      "criticism": "The platform can feel complex for first-time founders, and its pricing model often involves aggressive upselling to adjacent services like fund administration.",
+      "criticism_short": "Complex for beginners with aggressive upselling.",
+      "sources_pending": [
+        "Carta pricing page",
+        "G2 reviews",
+        "Capterra user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 15000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Most HRIS/Payroll (e.g., Gusto, Rippling)",
+        "Slack",
+        "Greenhouse",
+        "Lever"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global",
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Pulley",
+      "url": "https://pulley.com",
+      "founded": 2019,
+      "hq": "Oakland, USA",
+      "team_size_band": "51-200",
+      "best_for": "Early-stage founders who prioritize a modern user interface, fast onboarding, and transparent pricing for cap table management.",
+      "best_for_short": "Founder-friendly cap table platform",
+      "pricing_band": "$$ ($1,200 to $6,000/yr)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "investor_reporting_communication": 8.5,
+        "cap_table_management": 9.5,
+        "ease_of_use_founder_focus": 9.4,
+        "integration_ecosystem": 8.2,
+        "pricing_scalability": 9.3
+      },
+      "verdict": "Pulley is the best alternative to Carta, earning its rank with a superior user experience, faster onboarding, and more transparent pricing that appeals directly to founders.",
+      "verdict_short": "A more intuitive, founder-focused alternative to Carta with transparent pricing and great support.",
+      "praise": "The platform's scenario modeling tools are exceptionally easy to use, allowing founders to visualize dilution from future rounds in just a few clicks.",
+      "praise_short": "Intuitive, powerful fundraising scenario modeling.",
+      "criticism": "Its integration ecosystem is less developed than Carta's, requiring more manual data syncing with certain payroll or HR systems.",
+      "criticism_short": "Fewer direct integrations than Carta.",
+      "sources_pending": [
+        "Pulley pricing page",
+        "Y Combinator company directory",
+        "TechCrunch articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 6000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Gusto",
+        "Rippling",
+        "BambooHR",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global",
+        "North America"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Affinity",
+      "url": "https://www.affinity.co",
+      "founded": 2014,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Founders and VCs who need to map and track their professional network to manage deal flow and investor relationships automatically.",
+      "best_for_short": "Automated relationship intelligence",
+      "pricing_band": "$$$ ($5,000 to $25,000+/yr)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "investor_reporting_communication": 9.5,
+        "cap_table_management": 6,
+        "ease_of_use_founder_focus": 9,
+        "integration_ecosystem": 9.2,
+        "pricing_scalability": 8.1
+      },
+      "verdict": "Affinity secures a top spot by being the best pure-play relationship intelligence platform, automatically capturing communication data from emails and calendars to build a living network map.",
+      "verdict_short": "The best tool for automatically tracking investor communication and mapping your network.",
+      "praise": "Its 'Affinity Alliances' feature allows teams to see who has the strongest connection to a target investor, making warm introductions 10x more effective.",
+      "praise_short": "Maps relationship paths for warm introductions.",
+      "criticism": "It does not offer any cap table management features, requiring founders to use it in conjunction with a separate platform like Carta or Pulley.",
+      "criticism_short": "No cap table management functionality.",
+      "sources_pending": [
+        "Affinity customer stories",
+        "G2 reviews",
+        "Forrester Wave CRM"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 5000,
+      "price_max": 25000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "Salesforce",
+        "Slack",
+        "Zapier"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Ledgy",
+      "url": "https://ledgy.com",
+      "founded": 2017,
+      "hq": "Zurich, Switzerland",
+      "team_size_band": "51-200",
+      "best_for": "European startups and international teams that need to manage complex, multi-country equity plans and maintain GDPR compliance.",
+      "best_for_short": "Cap table management for Europe",
+      "pricing_band": "$$ (€1,000 to €7,000/yr)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "investor_reporting_communication": 8.4,
+        "cap_table_management": 9.2,
+        "ease_of_use_founder_focus": 8.9,
+        "integration_ecosystem": 7.8,
+        "pricing_scalability": 8.7
+      },
+      "verdict": "Ledgy is the leading cap table and investor relations platform for European startups, offering specific support for country-level regulations that US-based competitors often lack.",
+      "verdict_short": "The top choice for European startups needing localized equity management and compliance.",
+      "praise": "The platform provides excellent, hands-on support for migrating complex cap tables from spreadsheets, a common pain point for growing international companies.",
+      "praise_short": "Excellent support for complex cap table migrations.",
+      "criticism": "Its investor reporting tools are less mature than those of dedicated platforms like Visible.vc, focusing more heavily on the equity management side.",
+      "criticism_short": "Investor reporting tools are less developed.",
+      "sources_pending": [
+        "Ledgy pricing",
+        "Sifted articles",
+        "Customer reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 7000,
+      "currency": "EUR",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Personio",
+        "BambooHR",
+        "HiBob",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Europe",
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Visible.vc",
+      "url": "https://visible.vc",
+      "founded": 2014,
+      "hq": "Indianapolis, USA",
+      "team_size_band": "11-50",
+      "best_for": "Founders who want a dedicated, best-in-class tool for creating and distributing beautiful, data-rich investor updates.",
+      "best_for_short": "Best for investor updates",
+      "pricing_band": "$ ($588 to $2,000/yr)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "investor_reporting_communication": 9.7,
+        "cap_table_management": 6.5,
+        "ease_of_use_founder_focus": 9.1,
+        "integration_ecosystem": 8.5,
+        "pricing_scalability": 8
+      },
+      "verdict": "Visible.vc is the best dedicated platform for investor reporting, enabling founders to easily create and share professional updates that integrate key metrics from other sources.",
+      "verdict_short": "The top choice for crafting and sending professional, data-driven investor updates.",
+      "praise": "Its direct integrations with tools like Stripe, Xero, and Google Analytics allow founders to pull live data into their reports, saving hours of manual work each month.",
+      "praise_short": "Pulls live metrics into reports automatically.",
+      "criticism": "The platform lacks native cap table management, meaning it must be paired with another tool for a complete IR solution, though it does offer some basic tracking.",
+      "criticism_short": "No native cap table management.",
+      "sources_pending": [
+        "Visible.vc pricing page",
+        "Indie Hackers interviews",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "QuickBooks",
+        "Xero",
+        "Google Analytics",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Foundersuite",
+      "url": "https://foundersuite.com",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "2-10",
+      "best_for": "First-time founders looking for an all-in-one toolkit for the entire fundraising process, from lead generation to closing.",
+      "best_for_short": "All-in-one fundraising toolkit",
+      "pricing_band": "$ ($468 to $2,000/yr)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "investor_reporting_communication": 8.5,
+        "cap_table_management": 7,
+        "ease_of_use_founder_focus": 8.8,
+        "integration_ecosystem": 7,
+        "pricing_scalability": 8.5
+      },
+      "verdict": "Foundersuite earns its place by bundling a capable investor CRM with a proprietary database of over 200,000 investors, making it a strong all-in-one solution for fundraising.",
+      "verdict_short": "A solid CRM combined with a large, searchable database of venture investors.",
+      "praise": "The platform's 'Investor Updater' tool simplifies sending monthly or quarterly reports, and the CRM has a Kanban board view that's perfect for tracking fundraising stages.",
+      "praise_short": "Kanban board view for fundraising pipeline.",
+      "criticism": "Its cap table management tool is more basic than dedicated providers like Carta or Pulley and may not suit companies with complex equity structures.",
+      "criticism_short": "Basic cap table management features.",
+      "sources_pending": [
+        "Foundersuite pricing",
+        "Customer testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 166,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "DocSend"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 7,
+      "name": "Captable.io",
+      "url": "https://captable.io",
+      "founded": 2012,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "11-50",
+      "best_for": "Very early-stage startups that need a simple, free, and reliable tool to create their first capitalization table.",
+      "best_for_short": "Free, simple cap table creation",
+      "pricing_band": "$ (Free to $1,000+/yr)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "investor_reporting_communication": 6.5,
+        "cap_table_management": 8.5,
+        "ease_of_use_founder_focus": 8.9,
+        "integration_ecosystem": 6,
+        "pricing_scalability": 9
+      },
+      "verdict": "Captable.io, now part of the Long-Term Stock Exchange (LTSE), is the best starting point for founders, offering a free and straightforward cap table tool that's perfect for pre-seed companies.",
+      "verdict_short": "A free, no-frills tool for creating your first cap table before you need advanced features.",
+      "praise": "Its core cap table product is genuinely free for unlimited stakeholders and provides basic round and exit modeling, offering immense value for bootstrapped startups.",
+      "praise_short": "Genuinely free for unlimited stakeholders.",
+      "criticism": "The platform has very limited CRM and investor communication features, forcing users to manage reporting through separate email workflows.",
+      "criticism_short": "Almost no CRM or reporting features.",
+      "sources_pending": [
+        "LTSE website",
+        "Captable.io FAQ"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Floww",
+      "url": "https://floww.io",
+      "founded": 2017,
+      "hq": "London, UK",
+      "team_size_band": "11-50",
+      "best_for": "UK-based startups looking for a single platform to manage reporting, connect with investors, and handle cap table administration.",
+      "best_for_short": "UK fundraising and reporting platform",
+      "pricing_band": "$$ (£500 to £5,000/yr)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "investor_reporting_communication": 8,
+        "cap_table_management": 7.8,
+        "ease_of_use_founder_focus": 7.5,
+        "integration_ecosystem": 6.8,
+        "pricing_scalability": 7.9
+      },
+      "verdict": "Floww provides a solid, integrated solution for UK startups, combining cap table management and investor reporting with a network connecting founders to capital.",
+      "verdict_short": "An integrated cap table, reporting, and investor network platform focused on the UK market.",
+      "praise": "The platform is recognized by the London Stock Exchange, adding a layer of credibility and providing unique access to a network of institutional investors and family offices.",
+      "praise_short": "Recognized by the London Stock Exchange.",
+      "criticism": "As a newer player focused on the UK market, its feature set and integrations are less extensive than global leaders like Carta or Pulley.",
+      "criticism_short": "Less mature feature set than competitors.",
+      "sources_pending": [
+        "Floww website",
+        "UK tech news outlets"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 5000,
+      "currency": "GBP",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Xero",
+        "QuickBooks"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Europe",
+        "UK"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Irwin",
+      "url": "https://www.getirwin.com",
+      "founded": 2017,
+      "hq": "Toronto, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Late-stage private and public companies with dedicated investor relations teams needing advanced targeting and surveillance tools.",
+      "best_for_short": "Advanced IR for public companies",
+      "pricing_band": "$$$$ ($15,000 to $50,000+/yr)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "investor_reporting_communication": 8.7,
+        "cap_table_management": 6,
+        "ease_of_use_founder_focus": 6.5,
+        "integration_ecosystem": 8,
+        "pricing_scalability": 7
+      },
+      "verdict": "Irwin is a powerful IR platform designed for sophisticated, dedicated teams, offering investor targeting and shareholder monitoring that goes far beyond the needs of a typical startup.",
+      "verdict_short": "A powerful, pro-level IR tool for later-stage companies, but overkill for most startups.",
+      "praise": "Its database and targeting tools allow IR professionals to identify and research institutional investors that align with the company's profile with high precision.",
+      "praise_short": "Excellent institutional investor targeting tools.",
+      "criticism": "The platform is too complex and expensive for an early-stage founder managing their own IR, and it lacks integrated cap table management.",
+      "criticism_short": "Too complex and expensive for startups.",
+      "sources_pending": [
+        "Irwin case studies",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 15000,
+      "price_max": 50000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "FactSet",
+        "S&P Global",
+        "Bloomberg",
+        "Salesforce"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "4Degrees",
+      "url": "https://4degrees.ai",
+      "founded": 2017,
+      "hq": "Chicago, USA",
+      "team_size_band": "11-50",
+      "best_for": "Deal-focused teams who want an AI-powered tool to surface new opportunities and manage relationships within their existing network.",
+      "best_for_short": "AI-powered relationship management",
+      "pricing_band": "$$ ($2,000 to $10,000/yr)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "investor_reporting_communication": 8,
+        "cap_table_management": 6,
+        "ease_of_use_founder_focus": 7.9,
+        "integration_ecosystem": 7.5,
+        "pricing_scalability": 7.2
+      },
+      "verdict": "4Degrees operates in a similar space to Affinity, using AI to analyze communication patterns and strengthen networks, making it a solid choice for managing a pipeline of potential investors.",
+      "verdict_short": "A relationship intelligence platform that helps manage and activate your professional network.",
+      "praise": "The platform automatically suggests connections and follow-ups based on communication history, helping ensure important investor relationships don't go cold.",
+      "praise_short": "AI-powered suggestions for relationship follow-ups.",
+      "criticism": "Like other pure-play CRMs, it lacks cap table features and is less specialized for post-investment reporting than a tool like Visible.vc.",
+      "criticism_short": "No cap table and not built for reporting.",
+      "sources_pending": [
+        "4Degrees website",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 2000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Attio",
+      "url": "https://attio.com",
+      "founded": 2020,
+      "hq": "London, UK",
+      "team_size_band": "51-200",
+      "best_for": "Product-savvy founders who want to build a completely custom investor relations workflow on a fast, flexible, and modern CRM platform.",
+      "best_for_short": "Flexible, modern build-your-own CRM",
+      "pricing_band": "$ ($0 to $1,000/yr)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "investor_reporting_communication": 7.5,
+        "cap_table_management": 6,
+        "ease_of_use_founder_focus": 8.5,
+        "integration_ecosystem": 7,
+        "pricing_scalability": 8.8
+      },
+      "verdict": "Attio is our wildcard pick because it's not an IR CRM by design, but its powerful, flexible data model allows founders to build a bespoke investor management system that perfectly fits their process.",
+      "verdict_short": "A highly customizable CRM for founders who want to design their own perfect IR workflow.",
+      "praise": "Its real-time data sync with email and calendar is best-in-class, and the ability to create custom objects for 'Funds' and 'Rounds' makes it uniquely adaptable for venture fundraising.",
+      "praise_short": "Uniquely adaptable with custom data objects.",
+      "criticism": "It requires significant initial setup to function as an IR CRM and has no built-in cap table, 409A, or specific investor reporting features.",
+      "criticism_short": "Requires significant setup; no built-in IR features.",
+      "sources_pending": [
+        "Attio blog",
+        "Product Hunt launch page",
+        "Twitter user feedback"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 29,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Workspace",
+        "Microsoft 365",
+        "Slack",
+        "Zapier",
+        "API"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
