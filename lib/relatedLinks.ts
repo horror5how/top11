@@ -29,6 +29,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "dental-crm", "legal-crm", "real-estate-crm",
     "sales-crm-software", "customer-success-software",
     "property-management-software", "telehealth-platforms",
+    "medical-billing-software", "patient-engagement-software",
   ],
   // HR & workforce cluster
   [
@@ -43,7 +44,8 @@ const VERTICAL_CLUSTERS: string[][] = [
     "seo-tools", "landing-page-builder", "automation-platforms",
     "marketing-automation-software", "webinar-software", "proposal-software",
     "seo-rank-trackers", "seo-tools-saas", "product-analytics-tools",
-    "online-course-platforms",
+    "online-course-platforms", "email-marketing-ecommerce", "social-media-b2b",
+    "podcast-hosting", "video-hosting-business", "transcription-services",
   ],
   // SMB core software cluster
   [
@@ -65,11 +67,17 @@ const VERTICAL_CLUSTERS: string[][] = [
   ],
   // Commerce & infrastructure cluster
   [
-    "ecommerce-platform", "web-hosting-small-business",
+    "ecommerce-platform", "ecommerce-platforms", "web-hosting-small-business",
     "managed-wordpress-hosting", "cloud-storage-business",
     "appointment-scheduling-software", "headless-cms",
     "inventory-management-software", "payment-gateways",
-    "shopify-apps-conversion",
+    "shopify-apps-conversion", "amazon-seller-tools",
+  ],
+  // Field services & trades SMB cluster
+  [
+    "restaurant-pos", "fitness-studio-software", "salon-spa-software",
+    "gym-management-software", "field-service-management",
+    "hvac-software", "plumbing-software", "landscaping-software",
   ],
 ];
 

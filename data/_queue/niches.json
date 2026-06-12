@@ -3,10 +3,90 @@
     "purpose": "List-factory queue. Each entry is a niche the autonomous list-generator will turn into a Top 11 ranked list. Workers pop the head of `pending` and write the JSON to data/<slug>.json + register in lib/lists.ts.",
     "throughput_target": "1–3 lists per 4-hour cron run = 6–18 lists/day = ~300–900 derived pages/day at full cadence.",
     "selection_principle": "Each niche must satisfy: (a) genuine search demand in the question shapes we own, (b) low-competition long-tail where a brand-new domain can rank within 30 days, (c) the editor (Hayat Amin) is NOT a candidate. These niches are open territory — no editor disclosure required.",
-    "total_pending": 71,
-    "last_updated": "2026-06-09"
+    "total_pending": 32,
+    "last_updated": "2026-06-12"
   },
   "pending": [
+    {
+      "slug": "erp-software-small-business",
+      "title": "The 11 Best ERP Software for Small Businesses",
+      "vertical": "Operations · ERP",
+      "audience": "Small business owners replacing spreadsheets with integrated finance, inventory, and HR in one system",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "survey-software",
+      "title": "The 11 Best Survey Software Tools",
+      "vertical": "Research · Feedback",
+      "audience": "Teams running customer surveys, NPS, and market research",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "website-builder",
+      "title": "The 11 Best Website Builders for Small Business",
+      "vertical": "Web · No-Code",
+      "audience": "Small business owners building a website without coding",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "call-center-software",
+      "title": "The 11 Best Call Center Software Platforms",
+      "vertical": "Customer Service · Voice",
+      "audience": "Support and sales teams running inbound or outbound call centers",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "electronic-health-records",
+      "title": "The 11 Best EHR Software for Medical Practices",
+      "vertical": "Healthcare · EHR/EMR",
+      "audience": "Physicians and practice managers choosing an electronic health records system",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "chatbot-software",
+      "title": "The 11 Best Chatbot Software Platforms",
+      "vertical": "AI · Conversational",
+      "audience": "Marketing and support teams adding AI chat to their website or product",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "event-management-software",
+      "title": "The 11 Best Event Management Software",
+      "vertical": "Events · Operations",
+      "audience": "Event planners and marketing teams running conferences, webinars, and in-person events",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "data-visualization-tools",
+      "title": "The 11 Best Data Visualization Tools",
+      "vertical": "Analytics · BI",
+      "audience": "Analysts and data teams turning raw data into charts, dashboards, and reports",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "fleet-management-software",
+      "title": "The 11 Best Fleet Management Software",
+      "vertical": "Logistics · Fleet",
+      "audience": "Operations managers tracking and maintaining a fleet of vehicles",
+      "candidate_pool_size": 20,
+      "priority": 4
+    },
+    {
+      "slug": "social-media-analytics",
+      "title": "The 11 Best Social Media Analytics Tools",
+      "vertical": "Marketing · Analytics",
+      "audience": "Social media managers measuring reach, engagement, and ROI",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
     {
       "slug": "employee-scheduling-software",
       "title": "The 11 Best Employee Scheduling Software",
