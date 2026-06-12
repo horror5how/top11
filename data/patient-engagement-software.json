@@ -1,0 +1,848 @@
+{
+  "slug": "patient-engagement-software",
+  "title": "The 11 Best Patient Engagement Software",
+  "subtitle": "This ranking identifies the top platforms for automating patient communication, streamlining intake, and improving health outcomes for practices of all sizes.",
+  "vertical": "Healthcare · Patient Experience",
+  "audience": "Healthcare practices engaging patients between visits",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Healthcare Technology",
+  "subsector": "Patient Experience Platforms",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Patient Experience & Usability (25%), Practice Workflow Integration (25%), HIPAA Compliance & Security (20%), Feature Set & Modularity (15%), Interoperability & API Access (10%), and Pricing & Transparency (5%)."
+    }
+  ],
+  "answer_capsule": "The best patient engagement software is Phreesia for its deep check-in automation, followed by WELL Health for enterprise communication and Luma Health for its intelligent scheduling.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Patient Experience & Usability",
+        "weight": 25,
+        "description": "Ease of use for patients across all touchpoints, including reminders, forms, and messaging. High scores require mobile-first design and accessibility."
+      },
+      {
+        "name": "Practice Workflow Integration",
+        "weight": 25,
+        "description": "Depth and reliability of integration with major EHR/PM systems. Measures ability to reduce manual data entry and save staff time."
+      },
+      {
+        "name": "HIPAA Compliance & Security",
+        "weight": 20,
+        "description": "Adherence to HIPAA, HITECH, and other regulations. Includes data encryption, audit trails, and secure infrastructure."
+      },
+      {
+        "name": "Feature Set & Modularity",
+        "weight": 15,
+        "description": "Breadth of available tools (e.g., telehealth, payments, surveys) and the flexibility for practices to select only the modules they need."
+      },
+      {
+        "name": "Interoperability & API Access",
+        "weight": 10,
+        "description": "Availability and documentation of APIs for custom integrations and data exchange beyond standard EHR connections."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 5,
+        "description": "Clarity and fairness of pricing models. Penalizes opaque pricing, long-term lock-in, and significant hidden fees."
+      }
+    ]
+  },
+  "segment_tags": [
+    "small practice",
+    "enterprise health system",
+    "specialty clinic",
+    "dental",
+    "outpatient",
+    "FQHC"
+  ],
+  "problem_tags": [
+    "patient no-shows",
+    "manual intake forms",
+    "phone tag",
+    "appointment scheduling",
+    "patient satisfaction",
+    "care plan adherence",
+    "revenue cycle management"
+  ],
+  "query_intents": [
+    "best patient communication software",
+    "HIPAA compliant messaging",
+    "automated appointment reminders",
+    "digital patient intake",
+    "patient engagement platform reviews"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "manual intake forms",
+        "revenue cycle management"
+      ],
+      "personas": [
+        "large health systems",
+        "multi-location specialty groups"
+      ]
+    },
+    "2": {
+      "solves": [
+        "phone tag",
+        "patient no-shows"
+      ],
+      "personas": [
+        "enterprise health system",
+        "call centers"
+      ]
+    },
+    "3": {
+      "solves": [
+        "appointment scheduling",
+        "patient no-shows"
+      ],
+      "personas": [
+        "specialty clinic",
+        "outpatient centers"
+      ]
+    },
+    "4": {
+      "solves": [
+        "patient satisfaction",
+        "care plan adherence"
+      ],
+      "personas": [
+        "small practice",
+        "dental offices"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.5,
+    "spread_top_to_bottom": 2
+  },
+  "guide": [
+    {
+      "q": "How is Patient Engagement Software different from a CRM?",
+      "a": "Patient engagement software is purpose-built for healthcare workflows and HIPAA compliance, unlike a general-purpose CRM. It integrates directly with Electronic Health Record (EHR) systems to automate clinical and administrative tasks like appointment reminders, digital intake, and care plan follow-ups. A standard CRM manages sales or marketing leads, while patient engagement software manages the entire patient journey with secure, health-specific communication tools."
+    },
+    {
+      "q": "What's the primary benefit of these platforms?",
+      "a": "The primary benefit is reducing administrative burden on front-office staff while improving the patient experience. By automating tasks like appointment scheduling, reminders, and form collection, these platforms can decrease patient no-show rates by up to 30% and save staff dozens of hours per week. This allows staff to focus on higher-value patient interactions and care coordination."
+    }
+  ],
+  "how_to_choose": [
+    "First, verify deep integration with your specific EHR or Practice Management system; surface-level connections cause manual work.",
+    "Second, map your top 3 patient communication bottlenecks (e.g., no-shows, phone tag, intake) and choose a vendor that excels at solving those specific problems.",
+    "Third, request a demo that uses your practice's actual workflows, not a generic sales presentation, to see how it performs.",
+    "Finally, get a clear, all-inclusive quote that specifies per-provider fees, messaging costs, and any one-time setup charges."
+  ],
+  "faqs": [
+    {
+      "q": "What is patient engagement software?",
+      "a": "Patient engagement software is a tool that helps healthcare providers communicate with patients and manage their care journey outside of the clinic. It automates tasks like appointment reminders, digital check-in, feedback surveys, and secure messaging to improve efficiency and patient satisfaction."
+    },
+    {
+      "q": "What are the key features of patient engagement software?",
+      "a": "The most important features are automated appointment reminders (via SMS, email, voice), two-way secure messaging, digital intake and registration forms, patient satisfaction surveys, and broadcast messaging capabilities. Many platforms also offer online scheduling, telehealth, and payment collection."
+    },
+    {
+      "q": "How much does patient engagement software cost?",
+      "a": "Pricing typically ranges from $200 to $500 per provider per month, with enterprise plans for large health systems being custom-quoted. Costs can vary based on the number of providers, patient volume, and selected features. Some vendors charge extra for high volumes of text messages."
+    },
+    {
+      "q": "Is all patient engagement software HIPAA compliant?",
+      "a": "No, but all reputable vendors designed for healthcare are. Always verify that the provider will sign a Business Associate Agreement (BAA) and has features like end-to-end encryption, access controls, and audit logs to ensure Protected Health Information (PHI) is secure."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based and optimized for North American healthcare systems; international support can be limited.",
+    "Pricing is often opaque, with many vendors requiring a sales call for a custom quote rather than publishing standard rates.",
+    "Integration quality varies significantly; a vendor claiming 'EHR integration' may only offer a basic data sync, not a deep workflow connection."
+  ],
+  "glossary": {
+    "term": "Patient Engagement",
+    "definition": "The process of involving patients in their own healthcare through tools and strategies that promote communication, education, and shared decision-making between patients and providers.",
+    "synonyms": [
+      "Patient Relationship Management",
+      "Patient Communication Platform"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Phreesia",
+      "url": "https://www.phreesia.com",
+      "founded": 2005,
+      "hq": "Raleigh, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Multi-location practices and health systems seeking to automate the entire patient check-in process, from intake to payment.",
+      "best_for_short": "Automated patient intake and payments",
+      "pricing_band": "$$$ ($250 to $600/mo/provider)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Patient Experience & Usability": 9.4,
+        "Practice Workflow Integration": 9.5,
+        "HIPAA Compliance & Security": 9.2,
+        "Feature Set & Modularity": 9,
+        "Interoperability & API Access": 8.8,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "Phreesia is the best patient engagement software for its market-leading digital intake and payment collection tools that deeply integrate with major EHRs. Its ability to automate registration, consent forms, and copay collection before the patient even arrives saves significant staff time and reduces claim denials.",
+      "verdict_short": "The market leader for automating patient intake, registration, and payments with deep EHR integration.",
+      "praise": "The platform's intake workflows are highly customizable, capturing clinical, demographic, and financial data with a reported 90% patient self-service adoption rate.",
+      "praise_short": "Customizable intake with 90% patient adoption.",
+      "criticism": "Its pricing is at the higher end of the market, and the feature set can be overwhelming for small, single-location practices that don't need its full power.",
+      "criticism_short": "Expensive and potentially too complex for small practices.",
+      "sources_pending": [
+        "Vendor documentation",
+        "KLAS Research reports",
+        "G2 user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 250,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 2000,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "athenahealth",
+        "Allscripts",
+        "NextGen",
+        "Greenway"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "SOC 2 Type II",
+        "PCI DSS"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "WELL Health",
+      "url": "https://wellhealth.com",
+      "founded": 2015,
+      "hq": "Santa Barbara, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Large health systems and enterprise clinics that need a unified, multi-channel communication hub for patient messaging.",
+      "best_for_short": "Enterprise patient communication hub",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Patient Experience & Usability": 9.2,
+        "Practice Workflow Integration": 9.2,
+        "HIPAA Compliance & Security": 9.3,
+        "Feature Set & Modularity": 8.8,
+        "Interoperability & API Access": 9,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "WELL Health excels as a centralized communication platform for large organizations, enabling conversations across SMS, email, and phone in one patient thread. Its strength lies in intelligent message routing and automation that can handle complex scheduling and referral workflows for thousands of patients daily.",
+      "verdict_short": "A unified messaging platform for large health systems managing complex communication workflows.",
+      "praise": "The platform supports over 20 languages and integrates with 60+ EHRs, making it a flexible choice for diverse patient populations and complex IT environments.",
+      "praise_short": "Supports 20+ languages and integrates with 60+ EHRs.",
+      "criticism": "Pricing is entirely quote-based and geared towards large enterprises, making it inaccessible for smaller practices. Some users report the interface can be slow to load.",
+      "criticism_short": "Opaque, enterprise-focused pricing; not for small clinics.",
+      "sources_pending": [
+        "Vendor case studies",
+        "Forrester Wave report",
+        "Capterra user reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "athenahealth",
+        "eClinicalWorks",
+        "NextGen",
+        "MEDITECH"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "Luma Health",
+      "url": "https://www.lumahealth.io",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Specialty clinics and outpatient centers focused on optimizing schedules and reducing patient no-shows.",
+      "best_for_short": "Intelligent scheduling and access",
+      "pricing_band": "$$$ ($200 to $500/mo/provider)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Patient Experience & Usability": 9.3,
+        "Practice Workflow Integration": 9,
+        "HIPAA Compliance & Security": 9,
+        "Feature Set & Modularity": 8.5,
+        "Interoperability & API Access": 8.5,
+        "Pricing & Transparency": 7.8
+      },
+      "verdict": "Luma Health provides the best solution for patient scheduling and access, using smart waitlists and referral management to fill cancelled slots automatically. Its platform is designed to guide the entire patient journey, from referral to post-visit follow-up, with a strong focus on keeping schedules full.",
+      "verdict_short": "Excels at automated scheduling, smart waitlists, and referral management to reduce no-shows.",
+      "praise": "Clients report a 79% reduction in no-shows by using Luma's automated, interactive appointment reminders and one-click confirmation process.",
+      "praise_short": "Reduces no-shows by a reported 79%.",
+      "criticism": "While its scheduling features are top-tier, its capabilities in other areas like payments and deep clinical intake are less developed than competitors like Phreesia.",
+      "criticism_short": "Scheduling is strong; payment and intake features are weaker.",
+      "sources_pending": [
+        "Vendor website",
+        "G2 user reviews",
+        "Press releases"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 200,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "Epic",
+        "athenahealth",
+        "eClinicalWorks",
+        "NextGen",
+        "Allscripts",
+        "Modernizing Medicine"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Solutionreach",
+      "url": "https://www.solutionreach.com",
+      "founded": 2000,
+      "hq": "Lehi, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to medium-sized practices, especially in dentistry and optometry, needing a reliable, all-in-one communication tool.",
+      "best_for_short": "All-in-one for small practices",
+      "pricing_band": "$$ ($299 to $599/mo/location)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Patient Experience & Usability": 8.2,
+        "Practice Workflow Integration": 8.8,
+        "HIPAA Compliance & Security": 8.9,
+        "Feature Set & Modularity": 9,
+        "Interoperability & API Access": 7.5,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "Solutionreach is a veteran in the space, offering a dependable and feature-rich platform that covers all the basics of patient communication effectively. It's a workhorse for appointment reminders, recalls, and reputation management, making it a safe and solid choice for practices that prioritize stability over the newest interface.",
+      "verdict_short": "A stable, feature-rich platform ideal for established small to mid-sized practices.",
+      "praise": "The platform includes strong patient recall and reactivation campaigns, which are particularly effective for dental and specialty care practices needing to maintain patient volume.",
+      "praise_short": "Strong patient recall and reactivation features.",
+      "criticism": "Its user interface feels dated compared to newer, more mobile-centric competitors, and it lacks the deep, enterprise-level workflow automation of WELL Health or Phreesia.",
+      "criticism_short": "Dated user interface and lacks deep enterprise features.",
+      "sources_pending": [
+        "Vendor website",
+        "Software Advice reviews",
+        "DentalTown forum discussions"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 299,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "Dentrix",
+        "Eaglesoft",
+        "athenahealth",
+        "eClinicalWorks",
+        "AdvancedMD"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 5,
+      "name": "GetWell",
+      "url": "https://www.getwellnetwork.com",
+      "founded": 2000,
+      "hq": "Bethesda, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Hospitals and health systems focused on the inpatient experience and post-discharge follow-up.",
+      "best_for_short": "Inpatient and post-discharge care",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Patient Experience & Usability": 8.8,
+        "Practice Workflow Integration": 8.5,
+        "HIPAA Compliance & Security": 9,
+        "Feature Set & Modularity": 8.6,
+        "Interoperability & API Access": 8,
+        "Pricing & Transparency": 6.5
+      },
+      "verdict": "GetWell stands out for its deep focus on the entire care journey, including inpatient stays, which most competitors ignore. Its platform uses interactive pathways on bedside devices and mobile apps to educate patients, manage care transitions, and automate follow-up, directly aiming to reduce readmissions.",
+      "verdict_short": "Focuses on the full care journey, including inpatient and post-discharge engagement.",
+      "praise": "The GetWell Loop feature provides automated, condition-specific check-ins post-discharge, which has been shown in studies to reduce 30-day readmission rates.",
+      "praise_short": "Automated post-discharge check-ins reduce readmissions.",
+      "criticism": "The platform is heavily geared towards large hospital systems and its pricing and complexity make it unsuitable for outpatient clinics or smaller practices.",
+      "criticism_short": "Overly complex and expensive for non-hospital settings.",
+      "sources_pending": [
+        "Vendor case studies",
+        "KLAS Research reports",
+        "Client testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Epic",
+        "Cerner",
+        "MEDITECH",
+        "Allscripts"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Middle East"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Klara",
+      "url": "https://www.klara.com",
+      "founded": 2013,
+      "hq": "New York, USA",
+      "team_size_band": "201-500",
+      "best_for": "Specialty practices (like dermatology and plastics) that require secure, asynchronous patient messaging and team collaboration.",
+      "best_for_short": "Secure messaging for specialty practices",
+      "pricing_band": "$$ ($150 to $400/mo/provider)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Patient Experience & Usability": 8.9,
+        "Practice Workflow Integration": 8,
+        "HIPAA Compliance & Security": 9.1,
+        "Feature Set & Modularity": 7.5,
+        "Interoperability & API Access": 7,
+        "Pricing & Transparency": 8
+      },
+      "verdict": "Klara provides the best secure messaging experience in the market, functioning like a HIPAA-compliant chat app for practices. It excels at centralizing patient conversations, sharing files, and enabling internal team collaboration around a specific patient case, dramatically reducing phone tag.",
+      "verdict_short": "A top-tier, HIPAA-compliant messaging platform that reduces phone calls and streamlines communication.",
+      "praise": "Its user interface is exceptionally clean and intuitive for both patients and staff, leading to high adoption rates with minimal training required.",
+      "praise_short": "Clean, intuitive interface requires minimal training.",
+      "criticism": "Acquired by ModMed, its development roadmap is now tightly coupled with that EHR, and its feature set is narrower than all-in-one platforms, lacking advanced payment or marketing tools.",
+      "criticism_short": "Narrow feature set; focus is on ModMed EHR integration.",
+      "sources_pending": [
+        "Vendor website",
+        "G2 reviews",
+        "ModMed acquisition press release"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 150,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Modernizing Medicine (ModMed)",
+        "athenahealth",
+        "eClinicalWorks",
+        "DrChrono"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Mend",
+      "url": "https://www.mend.com",
+      "founded": 2014,
+      "hq": "Orlando, USA",
+      "team_size_band": "51-200",
+      "best_for": "Practices of any size seeking a simple, integrated solution for telehealth and patient scheduling.",
+      "best_for_short": "Integrated telehealth and scheduling",
+      "pricing_band": "$$ ($79 to $299/mo/provider)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Patient Experience & Usability": 8.5,
+        "Practice Workflow Integration": 8,
+        "HIPAA Compliance & Security": 8.7,
+        "Feature Set & Modularity": 7.9,
+        "Interoperability & API Access": 7,
+        "Pricing & Transparency": 8.8
+      },
+      "verdict": "Mend distinguishes itself by tightly bundling user-friendly telehealth directly into its patient engagement platform. Its 'Attendance Predictor' AI is a unique feature that identifies patients likely to no-show for virtual or in-person appointments, allowing staff to intervene proactively.",
+      "verdict_short": "A simple telehealth and scheduling platform with a unique AI-powered no-show predictor.",
+      "praise": "Mend boasts an impressive sub-1% no-show rate for telehealth appointments, attributed to its multi-modal reminders and easy, one-click video visit access for patients.",
+      "praise_short": "Achieves a sub-1% telehealth no-show rate.",
+      "criticism": "The platform's primary focus is on telehealth and scheduling; its capabilities for broader engagement like reputation management or payment processing are not as strong.",
+      "criticism_short": "Less capable for payments or reputation management.",
+      "sources_pending": [
+        "Vendor website",
+        "Capterra reviews",
+        "AHA case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 79,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "athenahealth",
+        "eClinicalWorks",
+        "NextGen",
+        "Kareo",
+        "AdvancedMD"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Tebra",
+      "url": "https://www.tebra.com",
+      "founded": 2021,
+      "hq": "Newport Beach, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Independent practices looking for a single platform that combines patient engagement with practice management and EHR.",
+      "best_for_short": "All-in-one practice operating system",
+      "pricing_band": "$$$ ($349 to $700/mo/provider)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Patient Experience & Usability": 7.8,
+        "Practice Workflow Integration": 8.5,
+        "HIPAA Compliance & Security": 8,
+        "Feature Set & Modularity": 8.2,
+        "Interoperability & API Access": 6.5,
+        "Pricing & Transparency": 8.1
+      },
+      "verdict": "Tebra, formed by the merger of Kareo and PatientPop, offers a complete practice operating system, not just an engagement layer. Its value is in having marketing, engagement, clinical, and billing tools from one vendor, eliminating the need to integrate multiple disparate systems.",
+      "verdict_short": "A unified platform combining marketing, engagement, EHR, and billing for independent practices.",
+      "praise": "The integration between the former PatientPop marketing tools (like SEO and web presence) and the Kareo clinical tools is a key strength for practices focused on growth.",
+      "praise_short": "Tightly integrates patient acquisition with clinical tools.",
+      "criticism": "As a jack-of-all-trades, its individual patient engagement features are not as deep or innovative as those from specialized competitors like Luma or Klara.",
+      "criticism_short": "Engagement features are less advanced than specialists'.",
+      "sources_pending": [
+        "Vendor website",
+        "Merger announcements",
+        "G2 reviews for Kareo and PatientPop"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 349,
+      "price_max": 700,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "N/A (All-in-one system)"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Weave",
+      "url": "https://www.getweave.com",
+      "founded": 2008,
+      "hq": "Lehi, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Small businesses, particularly in dental, optometry, and veterinary, that need to unify phone, text, and payments.",
+      "best_for_short": "Unified phone, text, and payments",
+      "pricing_band": "$$ ($399 to $599/mo/location)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Patient Experience & Usability": 8,
+        "Practice Workflow Integration": 7.5,
+        "HIPAA Compliance & Security": 7.8,
+        "Feature Set & Modularity": 8.1,
+        "Interoperability & API Access": 6,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "Weave's unique strength is its integration of a VoIP phone system with patient communication tools. When a patient calls, a screen pop shows staff their upcoming appointments, outstanding balance, and family information before they even answer the phone, creating a highly personal and efficient interaction.",
+      "verdict_short": "Combines a VoIP phone system with patient data for smarter, more personal interactions.",
+      "praise": "The hardware phone system combined with their software provides a reliable, all-in-one communication stack that doesn't rely on staff using personal cell phones.",
+      "praise_short": "Includes hardware phones for a complete communication stack.",
+      "criticism": "Its reliance on its own phone system makes it a heavier lift to install, and its integrations are primarily focused on dental and optometry PM systems, with less support for medical EHRs.",
+      "criticism_short": "Requires hardware install; limited medical EHR integrations.",
+      "sources_pending": [
+        "Vendor website",
+        "G2 reviews",
+        "Public company financial reports"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 399,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Dentrix",
+        "Eaglesoft",
+        "Open Dental",
+        "Compulink",
+        "Crystal PM"
+      ],
+      "compliance": [
+        "HIPAA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 10,
+      "name": "Relatient",
+      "url": "https://www.relatient.com",
+      "founded": 2012,
+      "hq": "Franklin, USA",
+      "team_size_band": "201-500",
+      "best_for": "Musculoskeletal and outpatient rehab practices needing automated, episode-based communication.",
+      "best_for_short": "Automated outreach for MSK/rehab",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Patient Experience & Usability": 7.5,
+        "Practice Workflow Integration": 8,
+        "HIPAA Compliance & Security": 8,
+        "Feature Set & Modularity": 7.6,
+        "Interoperability & API Access": 7,
+        "Pricing & Transparency": 6.8
+      },
+      "verdict": "Relatient (which acquired Radix) is effective for practices where care is delivered in episodes, like physical therapy or orthopedics. It automates appointment and follow-up communication based on the patient's specific care plan, ensuring they stay on track with their treatment schedule.",
+      "verdict_short": "Strong at automating appointment and follow-up sequences for episode-based care.",
+      "praise": "Its Dash platform provides good visibility into patient outreach and scheduling metrics, helping practices identify and fix bottlenecks in their patient access workflows.",
+      "praise_short": "Dash platform offers strong patient access analytics.",
+      "criticism": "The user interface is less modern than many competitors, and some users report that building custom communication workflows can be complex and require vendor support.",
+      "criticism_short": "UI is dated; custom workflows can be complex.",
+      "sources_pending": [
+        "Vendor website",
+        "KLAS Research data",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "athenahealth",
+        "eClinicalWorks",
+        "NextGen",
+        "Greenway",
+        "Cerner"
+      ],
+      "compliance": [
+        "HIPAA",
+        "HITECH",
+        "SOC 2 Type II"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Twilio",
+      "url": "https://www.twilio.com/solutions/healthcare",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Health tech companies or large health systems with development teams that want to build their own custom patient communication solutions.",
+      "best_for_short": "APIs for building custom solutions",
+      "pricing_band": "$ (Usage-based)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Patient Experience & Usability": 7,
+        "Practice Workflow Integration": 6.5,
+        "HIPAA Compliance & Security": 8.5,
+        "Feature Set & Modularity": 9,
+        "Interoperability & API Access": 9.4,
+        "Pricing & Transparency": 9
+      },
+      "verdict": "Twilio is not an out-of-the-box software but a set of communication APIs, making it a powerful wildcard for organizations with engineering resources. It provides the HIPAA-eligible building blocks (SMS, voice, video, email) to create a completely bespoke patient engagement platform tailored to a practice's exact workflows.",
+      "verdict_short": "A developer platform of communication APIs for building custom, HIPAA-eligible patient engagement tools.",
+      "praise": "It offers unmatched flexibility and scale with transparent, pay-as-you-go pricing, which is a stark contrast to the per-provider, long-term contracts of most vendors.",
+      "praise_short": "Maximum flexibility with transparent, usage-based pricing.",
+      "criticism": "It is entirely unsuitable for any practice without a dedicated software development team; it is a toolkit, not a finished product, and requires significant technical expertise to implement.",
+      "criticism_short": "Requires a development team; not a ready-to-use product.",
+      "sources_pending": [
+        "Twilio for Healthcare documentation",
+        "Developer forums",
+        "Customer case studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "N/A (API-based)"
+      ],
+      "compliance": [
+        "HIPAA (with BAA)",
+        "SOC 2 Type II",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    }
+  ]
+}

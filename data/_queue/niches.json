@@ -56,22 +56,6 @@
       "priority": 4
     },
     {
-      "slug": "patient-engagement-software",
-      "title": "The 11 Best Patient Engagement Software",
-      "vertical": "Healthcare · Patient Experience",
-      "audience": "Healthcare practices engaging patients between visits",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "amazon-seller-tools",
-      "title": "The 11 Best Amazon Seller Tools",
-      "vertical": "Ecommerce · Amazon",
-      "audience": "Amazon FBA sellers managing listings and ads",
-      "candidate_pool_size": 40,
-      "priority": 3
-    },
-    {
       "slug": "investor-crm",
       "title": "The 11 Best Investor Relations CRMs",
       "vertical": "Finance · IR · CRM",
@@ -294,7 +278,9 @@
     "podcast-hosting",
     "video-hosting-business",
     "transcription-services",
-    "medical-billing-software"
+    "medical-billing-software",
+    "patient-engagement-software",
+    "amazon-seller-tools"
   ],
   "skipped": [
     {

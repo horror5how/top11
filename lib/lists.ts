@@ -90,6 +90,8 @@ import podcastHosting from "@/data/podcast-hosting.json";
 import videoHostingBusiness from "@/data/video-hosting-business.json";
 import transcriptionServices from "@/data/transcription-services.json";
 import medicalBillingSoftware from "@/data/medical-billing-software.json";
+import patientEngagementSoftware from "@/data/patient-engagement-software.json";
+import amazonSellerTools from "@/data/amazon-seller-tools.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

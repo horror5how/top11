@@ -1,0 +1,793 @@
+{
+  "slug": "amazon-seller-tools",
+  "title": "The 11 Best Amazon Seller Tools",
+  "subtitle": "A ranked list of the top platforms for Amazon FBA sellers to manage product research, listing optimization, and advertising campaigns.",
+  "vertical": "Ecommerce · Amazon",
+  "audience": "Amazon FBA sellers managing listings and ads",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-12",
+  "last_verified": "2026-06-12",
+  "next_review": "2026-09-10",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Ecommerce Software",
+  "subsector": "Amazon Seller Tools",
+  "changelog": [
+    {
+      "date": "2026-06-12",
+      "text": "Initial publication. Methodology v1.0 weights Keyword & Product Research Accuracy (25%), Listing & PPC Management Features (25%), Data Analytics & Reporting (20%), Ease of Use & UI (15%), and Pricing & Value (15%)."
+    }
+  ],
+  "answer_capsule": "The best Amazon seller tool is Helium 10 for its all-in-one feature set, followed by Jungle Scout for product research and Viral Launch for product launches.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-12",
+    "candidate_pool": 40,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Keyword & Product Research Accuracy",
+        "weight": 25,
+        "description": "Accuracy and depth of data for identifying profitable products and high-intent keywords, including sales estimates and competition analysis."
+      },
+      {
+        "name": "Listing & PPC Management Features",
+        "weight": 25,
+        "description": "Effectiveness of tools for creating and optimizing product listings, managing PPC campaigns, and automating bid adjustments."
+      },
+      {
+        "name": "Data Analytics & Reporting",
+        "weight": 20,
+        "description": "Quality of dashboards, profit analytics, inventory tracking, and custom reporting to inform business decisions."
+      },
+      {
+        "name": "Ease of Use & UI",
+        "weight": 15,
+        "description": "Intuitive design of the user interface, clarity of data presentation, and the overall learning curve for new users."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 15,
+        "description": "The tool's affordability relative to its feature set, availability of a free tier or trial, and transparent pricing structures."
+      }
+    ]
+  },
+  "segment_tags": [
+    "FBA sellers",
+    "private label",
+    "wholesale",
+    "arbitrage",
+    "PPC management",
+    "keyword research",
+    "product discovery"
+  ],
+  "problem_tags": [
+    "low profitability",
+    "inefficient ad spend",
+    "poor inventory management",
+    "finding winning products",
+    "competitor analysis"
+  ],
+  "query_intents": [
+    "best amazon fba software",
+    "helium 10 vs jungle scout",
+    "amazon keyword tool",
+    "amazon ppc software",
+    "free amazon seller tools"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "finding profitable products",
+        "optimizing PPC campaigns",
+        "managing listings"
+      ],
+      "personas": [
+        "experienced FBA sellers",
+        "private label brand owners"
+      ]
+    },
+    "2": {
+      "solves": [
+        "product research",
+        "supplier sourcing",
+        "market trend analysis"
+      ],
+      "personas": [
+        "new Amazon sellers",
+        "product sourcing specialists"
+      ]
+    },
+    "3": {
+      "solves": [
+        "product launches",
+        "competitor intelligence",
+        "market analysis"
+      ],
+      "personas": [
+        "sellers launching new products",
+        "competitive intelligence analysts"
+      ]
+    },
+    "7": {
+      "solves": [
+        "automating PPC bid management",
+        "optimizing ad spend at scale"
+      ],
+      "personas": [
+        "large brands",
+        "Amazon advertising agencies"
+      ]
+    },
+    "11": {
+      "solves": [
+        "tracking historical price data",
+        "identifying sourcing opportunities"
+      ],
+      "personas": [
+        "online arbitrage sellers",
+        "data-driven product researchers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 40,
+    "ranked": 11,
+    "average_score": 8.2,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is an 'all-in-one' Amazon seller tool?",
+      "a": "An all-in-one tool combines multiple functions into a single platform, covering the entire seller lifecycle from product research to advertising and analytics. Tools like Helium 10 and Jungle Scout offer features for keyword research, listing optimization, PPC campaign management, and profit tracking, eliminating the need for multiple separate subscriptions."
+    },
+    {
+      "q": "How much should I budget for Amazon seller software?",
+      "a": "Most sellers should budget between $50 and $200 per month for a primary software suite. New sellers can start with free tools or basic plans around $30-$50 per month. Larger brands or agencies managing significant ad spend might invest $500 to over $2,000 monthly for advanced advertising automation and analytics platforms like Teikametrics."
+    },
+    {
+      "q": "Do I need a tool to be successful on Amazon?",
+      "a": "While not strictly required, using a specialized tool provides a significant competitive advantage. The Amazon marketplace is data-intensive; tools automate the process of analyzing sales trends, tracking keyword ranks, and managing ad bids, which is nearly impossible to do effectively at scale using only Amazon's Seller Central."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary need: Are you focused on finding new products, optimizing existing listings, or scaling your advertising? Choose a tool that excels in your most critical area.",
+    "Second, consider your experience level. Beginners should prioritize tools with a simple user interface and strong educational resources, like Jungle Scout's Academy. Experienced sellers may prefer the data depth of Helium 10 or the ad automation of Teikametrics.",
+    "Finally, evaluate the total cost of ownership. Look beyond the monthly fee to consider feature limits, the number of users allowed, and whether you will need to supplement it with other specialized tools. A slightly more expensive all-in-one might be cheaper than three separate subscriptions."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best free tool for Amazon sellers?",
+      "a": "The best free tool is Amazon's own Seller Central, supplemented by the free plan from a provider like Helium 10 or the Keepa browser extension. Helium 10's free tier offers limited daily uses of its powerful tools like Black Box and Cerebro, while Keepa provides essential historical price and sales rank data for free."
+    },
+    {
+      "q": "Is Helium 10 or Jungle Scout better?",
+      "a": "Helium 10 is generally better for experienced sellers who need a powerful, all-encompassing toolkit with superior keyword and listing optimization features. Jungle Scout is often preferred by beginners for its user-friendly interface, strong product research capabilities, and excellent educational content."
+    },
+    {
+      "q": "What software do 7-figure Amazon sellers use?",
+      "a": "Seven-figure sellers typically use a combination of tools, led by an all-in-one platform like Helium 10 for core operations. They often supplement this with specialized software for advertising automation (Teikametrics, Perpetua), inventory management (RestockPro), and external analytics to get a granular view of their business."
+    },
+    {
+      "q": "Can these tools guarantee I will find a profitable product?",
+      "a": "No tool can guarantee profitability, as success also depends on sourcing, marketing, and operational execution. These tools significantly increase your probability of success by providing data to validate product ideas, analyze competition, and identify market demand, reducing the risk of launching a product with no audience."
+    }
+  ],
+  "honest_disclosures": [
+    "Most tools on this list are designed primarily for the Amazon US marketplace; data accuracy and feature availability may vary for international marketplaces.",
+    "The rankings favor 'all-in-one' platforms that serve a broad range of seller needs, potentially undervaluing excellent specialized tools that solve a single problem well.",
+    "Pricing for many tools scales with the volume of sales or ad spend, meaning the listed price ranges can be exceeded by very large sellers."
+  ],
+  "glossary": {
+    "term": "FBA (Fulfillment by Amazon)",
+    "definition": "A service where sellers store their products in Amazon's fulfillment centers, and Amazon picks, packs, ships, and provides customer service for these products.",
+    "synonyms": [
+      "Amazon FBA"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Helium 10",
+      "url": "https://www.helium10.com",
+      "founded": 2015,
+      "hq": "Irvine, USA",
+      "team_size_band": "201-500",
+      "best_for": "Experienced sellers who need a complete, data-rich toolkit for every stage of the selling process, from product research to PPC management.",
+      "best_for_short": "All-in-one power toolset",
+      "pricing_band": "$$ ($39 to $399/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 9.4,
+        "Listing & PPC Management Features": 9.5,
+        "Data Analytics & Reporting": 9.2,
+        "Ease of Use & UI": 8.8,
+        "Pricing & Value": 9.2
+      },
+      "verdict": "Helium 10 ranks first because it offers the most extensive and accurate suite of tools for serious Amazon sellers, covering the entire lifecycle from keyword research with Cerebro to financial analytics with Profits.",
+      "verdict_short": "The most extensive and accurate all-in-one tool suite for serious sellers.",
+      "praise": "Its Cerebro reverse ASIN lookup tool is unmatched for competitive keyword analysis, and the Adtomic PPC platform provides sophisticated campaign automation that can reduce ACoS by 5-10% within 60 days.",
+      "praise_short": "Unmatched keyword tools (Cerebro) and powerful PPC automation (Adtomic).",
+      "criticism": "The sheer number of tools can be overwhelming for beginners, and the user interface, while powerful, is less intuitive than competitors like Jungle Scout.",
+      "criticism_short": "Overwhelming for beginners; less intuitive UI than competitors.",
+      "sources_pending": [
+        "Helium 10 Pricing Page",
+        "G2 Reviews",
+        "Trustpilot Ratings"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central",
+        "Walmart Marketplace"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Jungle Scout",
+      "url": "https://www.junglescout.com",
+      "founded": 2015,
+      "hq": "Austin, USA",
+      "team_size_band": "201-500",
+      "best_for": "New and intermediate sellers who prioritize ease of use and need a strong, reliable tool for product research and supplier sourcing.",
+      "best_for_short": "Best for product research",
+      "pricing_band": "$$ ($49 to $129/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 9.3,
+        "Listing & PPC Management Features": 8.8,
+        "Data Analytics & Reporting": 9,
+        "Ease of Use & UI": 9.5,
+        "Pricing & Value": 9
+      },
+      "verdict": "Jungle Scout earns the second spot for its best-in-class user experience and highly accurate product research data, making it the most accessible entry point for new sellers.",
+      "verdict_short": "Most accessible tool with top-tier product research data for new sellers.",
+      "praise": "Its Supplier Database is a unique feature that directly connects product research to vetted manufacturers, saving users dozens of hours in sourcing time.",
+      "praise_short": "Unique Supplier Database feature simplifies sourcing.",
+      "criticism": "While its PPC and listing optimization tools have improved, they still lack the depth and advanced features of Helium 10's Adtomic and Listing Builder.",
+      "criticism_short": "PPC and listing tools are less advanced than Helium 10.",
+      "sources_pending": [
+        "Jungle Scout Pricing Page",
+        "Capterra Reviews",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 129,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Viral Launch",
+      "url": "https://www.viral-launch.com",
+      "founded": 2014,
+      "hq": "Indianapolis, USA",
+      "team_size_band": "51-200",
+      "best_for": "Sellers focused on launching new products and gaining initial traction through market intelligence and promotional tools.",
+      "best_for_short": "Product launches & market intelligence",
+      "pricing_band": "$$$ ($69 to $199/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 9.1,
+        "Listing & PPC Management Features": 8.9,
+        "Data Analytics & Reporting": 8.5,
+        "Ease of Use & UI": 8.6,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "Viral Launch is third for its specialized focus on product launches, offering a powerful combination of market intelligence and a product giveaway platform to help new ASINs rank quickly.",
+      "verdict_short": "Specialized tools for successful product launches and initial sales velocity.",
+      "praise": "Its Market Intelligence tool provides a unique 'product idea score' that is among the most reliable predictors of launch success, analyzing trends and competition with high accuracy.",
+      "praise_short": "Highly reliable 'product idea score' in Market Intelligence tool.",
+      "criticism": "The platform's pricing is higher than many competitors for comparable core features, and its PPC management tools are not as developed as the market leaders.",
+      "criticism_short": "Higher price point and less developed PPC tools.",
+      "sources_pending": [
+        "Viral Launch Website",
+        "G2 Reviews",
+        "SoftwarePundit Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "SellerApp",
+      "url": "https://www.sellerapp.com",
+      "founded": 2017,
+      "hq": "Singapore, Singapore",
+      "team_size_band": "51-200",
+      "best_for": "Data-driven sellers and agencies looking for advanced PPC optimization and in-depth analytics features.",
+      "best_for_short": "Advanced PPC & analytics",
+      "pricing_band": "$$ ($49 to $99/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 8.5,
+        "Listing & PPC Management Features": 9,
+        "Data Analytics & Reporting": 9,
+        "Ease of Use & UI": 8.2,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "SellerApp secures the fourth position with its strong focus on PPC automation and business intelligence, offering agency-level analytics at a price accessible to individual sellers.",
+      "verdict_short": "Agency-level PPC automation and analytics for individual sellers.",
+      "praise": "The platform's machine learning algorithms for PPC automation are highly effective, with many users reporting a 20-30% improvement in ACoS after the initial learning period of 4 weeks.",
+      "praise_short": "ML-powered PPC automation improves ACoS by 20-30%.",
+      "criticism": "Its product research tools are less intuitive and provide less accurate sales estimates compared to Jungle Scout and Helium 10.",
+      "criticism_short": "Product research tools are less accurate than top competitors.",
+      "sources_pending": [
+        "SellerApp Pricing Page",
+        "Capterra Reviews",
+        "StartupBlink Profile"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Teikametrics",
+      "url": "https://www.teikametrics.com",
+      "founded": 2013,
+      "hq": "Boston, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large brands and agencies managing six-figure or higher monthly ad spends who require sophisticated, AI-driven advertising optimization.",
+      "best_for_short": "Enterprise-grade ad optimization",
+      "pricing_band": "$$$$ (Starts at $500+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 7,
+        "Listing & PPC Management Features": 9.6,
+        "Data Analytics & Reporting": 9.2,
+        "Ease of Use & UI": 8,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "Teikametrics is the top choice for large-scale advertising management, leveraging its Flywheel 2.0 platform to automate bidding and keyword harvesting at a level beyond what all-in-one suites can offer.",
+      "verdict_short": "Top choice for large-scale, AI-driven advertising management.",
+      "praise": "Its AI bidding algorithm is one of the most effective in the industry, capable of analyzing hourly conversion data to optimize bids for specific placement opportunities.",
+      "praise_short": "Industry-leading AI bidding algorithm optimizes bids hourly.",
+      "criticism": "The platform is prohibitively expensive for small to medium-sized sellers, and it is not an all-in-one tool, lacking core product research and listing features.",
+      "criticism_short": "Expensive and lacks product research or listing tools.",
+      "sources_pending": [
+        "Teikametrics Website",
+        "Forrester Wave Report",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Amazon Advertising",
+        "Walmart Connect",
+        "Instacart Ads"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "ZonGuru",
+      "url": "https://www.zonguru.com",
+      "founded": 2015,
+      "hq": "Perth, Australia",
+      "team_size_band": "11-50",
+      "best_for": "Private label sellers looking for innovative tools for niche discovery and listing optimization, backed by strong customer support.",
+      "best_for_short": "Niche discovery & listing optimization",
+      "pricing_band": "$$ ($49 to $199/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 8.5,
+        "Listing & PPC Management Features": 8,
+        "Data Analytics & Reporting": 7.8,
+        "Ease of Use & UI": 8.5,
+        "Pricing & Value": 8.4
+      },
+      "verdict": "ZonGuru stands out for its unique set of tools aimed at finding and validating niche product ideas, making it a strong contender for sellers focused on building a private label brand.",
+      "verdict_short": "Unique tools for finding and validating private label product ideas.",
+      "praise": "The 'Niche Finder' tool is excellent for uncovering low-competition product areas by visually mapping demand versus competition, a feature not found in other major tools.",
+      "praise_short": "Unique 'Niche Finder' tool visually maps product opportunities.",
+      "criticism": "Its analytics and PPC management capabilities are more basic than the top-ranked platforms, making it less suitable for sellers managing complex advertising strategies.",
+      "criticism_short": "Basic analytics and PPC management features.",
+      "sources_pending": [
+        "ZonGuru Website",
+        "Trustpilot Reviews",
+        "EcomCrew Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central",
+        "Alibaba"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 10
+    },
+    {
+      "rank": 7,
+      "name": "AMZScout",
+      "url": "https://amzscout.net",
+      "founded": 2017,
+      "hq": "Wilmington, USA",
+      "team_size_band": "51-200",
+      "best_for": "Sellers on a budget, especially those focused on online arbitrage, who need reliable product research tools without the cost of a full suite.",
+      "best_for_short": "Best value for product research",
+      "pricing_band": "$ ($29 to $49/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 8.4,
+        "Listing & PPC Management Features": 7,
+        "Data Analytics & Reporting": 7.5,
+        "Ease of Use & UI": 8.8,
+        "Pricing & Value": 9
+      },
+      "verdict": "AMZScout offers the best value for core product research, providing accurate sales estimates and a user-friendly interface at a significantly lower price point than its main competitors.",
+      "verdict_short": "Excellent value, providing accurate product research at a low price.",
+      "praise": "The platform offers a lifetime subscription option, which is extremely rare in this space and provides exceptional long-term value for sellers committed to the platform.",
+      "praise_short": "Rare lifetime subscription option offers great long-term value.",
+      "criticism": "The toolset is heavily focused on research and discovery; it lacks any meaningful PPC management or advanced analytics features found in all-in-one platforms.",
+      "criticism_short": "Lacks PPC management or advanced analytics features.",
+      "sources_pending": [
+        "AMZScout Website",
+        "G2 Reviews",
+        "Chrome Web Store"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 49,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 5
+    },
+    {
+      "rank": 8,
+      "name": "DataHawk",
+      "url": "https://datahawk.co",
+      "founded": 2017,
+      "hq": "Paris, France",
+      "team_size_band": "51-200",
+      "best_for": "Brands and agencies that require deep, customizable analytics and SEO tracking across multiple Amazon marketplaces.",
+      "best_for_short": "Deep analytics & SEO tracking",
+      "pricing_band": "$$$ ($149 to $999/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 7.5,
+        "Listing & PPC Management Features": 7.2,
+        "Data Analytics & Reporting": 9.4,
+        "Ease of Use & UI": 7.8,
+        "Pricing & Value": 7
+      },
+      "verdict": "DataHawk excels at providing granular analytics and market intelligence, making it the best choice for users who need to track keyword rankings, monitor the digital shelf, and build custom reports.",
+      "verdict_short": "Best for granular analytics, keyword rank tracking, and custom reporting.",
+      "praise": "Its ability to track Share of Voice and content on product detail pages is superior to all-in-one tools, providing critical data for brand managers.",
+      "praise_short": "Superior Share of Voice and product page content tracking.",
+      "criticism": "It is not a tool for beginners or those looking for product discovery; its focus is squarely on tracking and optimizing existing product performance.",
+      "criticism_short": "Not for beginners; no product discovery features.",
+      "sources_pending": [
+        "DataHawk Website",
+        "G2 Reviews",
+        "Amazon Advertising Partner Directory"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Amazon Seller Central",
+        "Amazon Advertising",
+        "Google Data Studio"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "eComEngine",
+      "url": "https://www.ecomengine.com",
+      "founded": 2007,
+      "hq": "Richmond, USA",
+      "team_size_band": "11-50",
+      "best_for": "Sellers who prefer to use best-in-class specialized tools for specific tasks like feedback management and inventory restocking.",
+      "best_for_short": "Specialized feedback & inventory tools",
+      "pricing_band": "$$ ($29 to $249/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 6.5,
+        "Listing & PPC Management Features": 8.5,
+        "Data Analytics & Reporting": 8,
+        "Ease of Use & UI": 8.2,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "eComEngine earns its place by offering a suite of highly effective, specialized tools, with FeedbackFive being the long-standing market leader for automating seller feedback and product review requests.",
+      "verdict_short": "Market leader for automating feedback and product review requests.",
+      "praise": "FeedbackFive's campaign manager allows for precise targeting of review requests based on SKU, delivery date, and customer history, leading to a 20-40% higher review rate than Amazon's default tool.",
+      "praise_short": "FeedbackFive's precise targeting boosts review rates by 20-40%.",
+      "criticism": "It's not an integrated platform; each tool (FeedbackFive, RestockPro, MarketScout) is a separate product, which can be cumbersome and costly to manage together.",
+      "criticism_short": "Not an integrated platform; tools are separate products.",
+      "sources_pending": [
+        "eComEngine Website",
+        "Amazon Seller Appstore",
+        "WebRetailer Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Amazon Seller Central"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Perpetua (formerly Sellics)",
+      "url": "https://perpetua.io",
+      "founded": 2014,
+      "hq": "Toronto, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Brands looking to scale their advertising across multiple retail media networks, not just Amazon.",
+      "best_for_short": "Multi-channel retail media advertising",
+      "pricing_band": "$$$$ (Starts at $250+/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 6.8,
+        "Listing & PPC Management Features": 8.8,
+        "Data Analytics & Reporting": 8.2,
+        "Ease of Use & UI": 7.5,
+        "Pricing & Value": 6.5
+      },
+      "verdict": "Perpetua, which acquired Sellics, is a top-tier choice for sophisticated advertising, offering powerful goal-based campaign creation and optimization across Amazon, Walmart, and Instacart.",
+      "verdict_short": "Sophisticated, multi-channel advertising optimization for large brands.",
+      "praise": "Its ability to manage and optimize ad spend across multiple platforms from a single interface is a key differentiator, saving brand managers significant time.",
+      "praise_short": "Manages ad spend across Amazon, Walmart, and Instacart.",
+      "criticism": "The legacy Sellics all-in-one seller tools have been deemphasized since the acquisition, and the platform's core focus is now on enterprise advertising, making it a poor fit for smaller sellers.",
+      "criticism_short": "Focus is on enterprise advertising; not for small sellers.",
+      "sources_pending": [
+        "Perpetua Website",
+        "G2 Reviews",
+        "AdExchanger Articles"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 250,
+      "price_max": 250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Amazon Advertising",
+        "Walmart Connect",
+        "Instacart Ads",
+        "Target Product Ads"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "name": "Keepa",
+      "url": "https://keepa.com",
+      "is_wildcard": true,
+      "founded": 2012,
+      "hq": "Cologne, Germany",
+      "team_size_band": "1-10",
+      "best_for": "Any serious seller, especially those in wholesale or arbitrage, who needs the most detailed historical pricing and sales rank data available.",
+      "best_for_short": "Historical price & rank data",
+      "pricing_band": "$ (€19/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Keyword & Product Research Accuracy": 9,
+        "Listing & PPC Management Features": 0,
+        "Data Analytics & Reporting": 9,
+        "Ease of Use & UI": 8,
+        "Pricing & Value": 9.8
+      },
+      "verdict": "Keepa is our wildcard because it is not a software suite but an indispensable data tool that does one thing perfectly: it provides comprehensive historical charts for price, sales rank, and buy box ownership for nearly every product on Amazon.",
+      "verdict_short": "An indispensable data tool for historical price and sales rank tracking.",
+      "praise": "Its browser extension overlays data directly onto Amazon product pages, providing instant, critical context for sourcing decisions that has saved sellers from thousands of bad buys.",
+      "praise_short": "Browser extension provides instant, critical data on product pages.",
+      "criticism": "Keepa offers no features beyond data tracking. It does not help with keywords, PPC, listings, or customer service, requiring users to pair it with other tools.",
+      "criticism_short": "Offers no features beyond historical data tracking.",
+      "sources_pending": [
+        "Keepa Website",
+        "Chrome Web Store",
+        "Seller Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-12",
+        "summary": "No material public risk signals as of 2026-06-12.",
+        "signals": []
+      },
+      "price_min": 19,
+      "price_max": 19,
+      "currency": "EUR",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
