@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "lms-corporate-training",
-      "title": "The 11 Best LMS for Corporate Training",
-      "vertical": "HR · Learning",
-      "audience": "L&D leaders rolling out company training programs",
-      "candidate_pool_size": 30,
-      "priority": 3
-    },
-    {
-      "slug": "esign-proposal-software",
-      "title": "The 11 Best Proposal Software",
-      "vertical": "Sales · Proposals",
-      "audience": "Sales teams sending quotes and proposals",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "shipping-software-ecommerce",
       "title": "The 11 Best Shipping Software for Ecommerce",
       "vertical": "Ecommerce · Fulfillment",
@@ -332,7 +316,9 @@
     "social-media-analytics",
     "investor-crm",
     "penetration-testing-services",
-    "school-management-software"
+    "school-management-software",
+    "lms-corporate-training",
+    "esign-proposal-software"
   ],
   "skipped": [
     {
