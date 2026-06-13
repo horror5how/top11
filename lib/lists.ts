@@ -106,6 +106,8 @@ import membershipSoftware from "@/data/membership-software.json";
 import nonprofitCrm from "@/data/nonprofit-crm.json";
 import donorManagementSoftware from "@/data/donor-management-software.json";
 import churchManagementSoftware from "@/data/church-management-software.json";
+import employeeEngagementSoftware from "@/data/employee-engagement-software.json";
+import backgroundCheckServices from "@/data/background-check-services.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

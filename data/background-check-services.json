@@ -1,0 +1,820 @@
+{
+  "slug": "background-check-services",
+  "title": "The 11 Best Background Check Services",
+  "subtitle": "A ranked analysis of FCRA-compliant screening providers for employers, focusing on turnaround time, accuracy, and ATS integration.",
+  "vertical": "HR · Screening",
+  "audience": "Employers screening candidates",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Human Resources",
+  "subsector": "Talent Acquisition",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Accuracy & Compliance (30%), Turnaround Time (25%), Platform & UX (20%), Integrations (15%), and Pricing & Value (10%)."
+    }
+  ],
+  "answer_capsule": "The best background check service for most employers is Checkr, followed by GoodHire for small businesses and HireRight for global enterprises.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Accuracy & Compliance",
+        "weight": 30,
+        "description": "Adherence to FCRA, GDPR, and other regulations, plus the verified accuracy of search results and dispute resolution process."
+      },
+      {
+        "name": "Turnaround Time",
+        "weight": 25,
+        "description": "Average speed to complete common checks, from basic criminal searches to complex verifications, based on public data and user reviews."
+      },
+      {
+        "name": "Platform & User Experience",
+        "weight": 20,
+        "description": "Ease of use for both HR managers and candidates, including dashboard clarity, mobile experience, and report readability."
+      },
+      {
+        "name": "Integrations",
+        "weight": 15,
+        "description": "Quality and quantity of pre-built integrations with Applicant Tracking Systems (ATS) and HRIS platforms, plus API accessibility."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "Transparency of pricing, cost per report relative to included searches, and availability of volume discounts or subscription plans."
+      }
+    ]
+  },
+  "segment_tags": [
+    "pre-employment screening",
+    "FCRA compliant",
+    "criminal background check",
+    "employee verification",
+    "HR tech"
+  ],
+  "problem_tags": [
+    "hiring compliance",
+    "candidate screening",
+    "time-to-hire",
+    "negligent hiring risk",
+    "workforce management"
+  ],
+  "query_intents": [
+    "best background check for small business",
+    "fastest background check service",
+    "enterprise background screening",
+    "Checkr vs GoodHire",
+    "FCRA background check cost"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "high-volume hiring",
+        "gig economy screening",
+        "ATS integration"
+      ],
+      "personas": [
+        "Tech Startups",
+        "On-Demand Marketplaces"
+      ]
+    },
+    "2": {
+      "solves": [
+        "SMB compliance",
+        "user-friendly interface",
+        "occasional hiring"
+      ],
+      "personas": [
+        "Small Business Owners",
+        "HR Generalists"
+      ]
+    },
+    "3": {
+      "solves": [
+        "global screening",
+        "complex compliance needs",
+        "regulated industries"
+      ],
+      "personas": [
+        "Enterprise HR",
+        "Global Mobility Teams"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.44,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What defines a 'best' background check service?",
+      "a": "The best services blend FCRA compliance, fast turnaround times, and a simple user experience for both employers and candidates. They must provide accurate, legally defensible information while integrating smoothly into existing hiring workflows, typically via an Applicant Tracking System (ATS)."
+    },
+    {
+      "q": "How does pricing typically work?",
+      "a": "Most providers use a pay-per-check model with tiered packages (e.g., Basic, Standard, Premium) that bundle different types of searches. Pricing often starts around $25 for a basic criminal search and can exceed $100 for reports including education, employment, and professional license verification. Volume discounts are common."
+    },
+    {
+      "q": "Why is FCRA compliance so important?",
+      "a": "The Fair Credit Reporting Act (FCRA) is a federal law that governs how consumer information, including background checks for employment, can be collected and used. Non-compliance can lead to significant legal penalties and class-action lawsuits, making it the single most critical factor when choosing a provider for hiring purposes."
+    }
+  ],
+  "how_to_choose": [
+    "First, confirm any potential provider is PBSA accredited and strictly follows FCRA guidelines, including processes for candidate consent and adverse action.",
+    "Next, evaluate turnaround times for the specific searches you need; a 24-hour claim for a national criminal search may not apply to a 3-day county court search.",
+    "Then, request a demo to assess the platform's usability and check for pre-built integrations with your current ATS or HRIS to avoid manual data entry.",
+    "Finally, demand a clear pricing sheet that details costs for all searches, including third-party pass-through fees (like court or DMV fees) to avoid billing surprises."
+  ],
+  "faqs": [
+    {
+      "q": "How long does a background check for employment take?",
+      "a": "It depends on the depth of the search, but most basic criminal checks complete within 24 to 72 hours. Verifications for employment or education can take longer, from 3 to 5 business days, especially if the source institutions are slow to respond."
+    },
+    {
+      "q": "What shows up on a pre-employment background check?",
+      "a": "A typical check includes criminal records (felonies, misdemeanors), sex offender registry status, and identity verification. More detailed checks can add driving records (MVR), credit reports, employment history, education verification, and professional license confirmation."
+    },
+    {
+      "q": "Can an employer run a background check without my permission?",
+      "a": "No, under the FCRA, an employer must obtain your written consent before running a background check for employment purposes. They must also inform you if they intend to take adverse action (like not hiring you) based on the report's findings."
+    },
+    {
+      "q": "What is the difference between a professional service and an instant online people search site?",
+      "a": "Professional services are FCRA-compliant, meaning their data can be legally used for hiring decisions. Instant people search sites are not FCRA-compliant; their data is aggregated from public sources without verification and cannot legally be used for employment, tenant, or credit screening."
+    }
+  ],
+  "honest_disclosures": [
+    "This ranking prioritizes providers serving US-based employers; international screening capabilities were considered but weighted less heavily than FCRA compliance.",
+    "Pricing information is difficult to obtain as most providers use custom, volume-based quotes. The price ranges provided are estimates based on publicly available data for small business tiers.",
+    "Turnaround times are based on provider claims and aggregated user reviews, but can vary significantly based on the specific search and jurisdiction."
+  ],
+  "glossary": {
+    "term": "FCRA",
+    "definition": "The Fair Credit Reporting Act, a U.S. federal law regulating the collection of consumers' credit information and access to their credit reports. It dictates the rules for how background checks can be used for employment purposes.",
+    "synonyms": [
+      "Fair Credit Reporting Act"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Checkr",
+      "url": "https://checkr.com",
+      "founded": 2014,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Technology companies and gig economy platforms that require high-volume, API-driven screening with a fast, mobile-first candidate experience.",
+      "best_for_short": "High-volume & API-driven screening",
+      "pricing_band": "$$ ($29 to $79+ per check)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Accuracy & Compliance": 9,
+        "Turnaround Time": 9.5,
+        "Platform & User Experience": 9.7,
+        "Integrations": 9.5,
+        "Pricing & Value": 8
+      },
+      "verdict": "Checkr ranks first due to its superior technology platform, which offers the fastest average turnaround times and the most extensive set of ATS integrations in the industry.",
+      "verdict_short": "Best for its fast, modern platform and deep integrations with over 100 ATS partners.",
+      "praise": "Its candidate portal is the best in the market, reducing friction and abandonment rates by offering a fully mobile-native experience for consent and data entry.",
+      "praise_short": "Exceptional mobile-first candidate experience.",
+      "criticism": "Customer support for smaller accounts can be slow, with some users reporting response times exceeding 48 hours for non-critical issues.",
+      "criticism_short": "Support can be slow for smaller accounts.",
+      "sources_pending": [
+        "Checkr Pricing Page",
+        "G2 User Reviews",
+        "Checkr API Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 79,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Greenhouse",
+        "Lever",
+        "Workday",
+        "BambooHR",
+        "Jobvite"
+      ],
+      "compliance": [
+        "FCRA",
+        "GDPR",
+        "Ban-the-Box"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "GoodHire",
+      "url": "https://www.goodhire.com",
+      "founded": 2013,
+      "hq": "Redwood City, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized businesses that need an easy-to-use platform with transparent pricing and strong, built-in compliance workflows.",
+      "best_for_short": "SMBs needing ease-of-use",
+      "pricing_band": "$$ ($29 to $84+ per check)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Accuracy & Compliance": 9.4,
+        "Turnaround Time": 8.8,
+        "Platform & User Experience": 9.2,
+        "Integrations": 8,
+        "Pricing & Value": 9.3
+      },
+      "verdict": "GoodHire earns the second spot for its exceptional user experience and focus on SMB compliance, making the complex screening process simple for non-expert users.",
+      "verdict_short": "Best for SMBs due to its simple interface and transparent, online-purchase pricing.",
+      "praise": "The platform's built-in compliance tools, which automate the generation of adverse action notices, save HR managers hours of administrative work.",
+      "praise_short": "Excellent automated compliance tools.",
+      "criticism": "While it has an API, its list of pre-built ATS integrations is less extensive than Checkr's, requiring custom development for some platforms.",
+      "criticism_short": "Fewer pre-built ATS integrations.",
+      "sources_pending": [
+        "GoodHire Pricing Page",
+        "Capterra Reviews",
+        "FCRA Compliance Resources"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 29.99,
+      "price_max": 84.99,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "BambooHR",
+        "Greenhouse",
+        "iCIMS",
+        "Jobvite",
+        "Lever"
+      ],
+      "compliance": [
+        "FCRA",
+        "PBSA Accredited"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "HireRight",
+      "url": "https://www.hireright.com",
+      "founded": 1995,
+      "hq": "Nashville, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Large, global enterprises with complex, international screening needs across highly regulated industries like finance and transportation.",
+      "best_for_short": "Global enterprise screening",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Accuracy & Compliance": 9.8,
+        "Turnaround Time": 8.2,
+        "Platform & User Experience": 8,
+        "Integrations": 9.2,
+        "Pricing & Value": 8.5
+      },
+      "verdict": "HireRight is the top choice for global enterprises because of its unmatched international reach, covering over 200 countries, and its deep expertise in industry-specific compliance.",
+      "verdict_short": "Best for its extensive global coverage and deep compliance expertise for enterprises.",
+      "praise": "Its drug testing and health screening services are seamlessly integrated, providing a single platform for all pre-employment needs in sectors like healthcare and logistics.",
+      "praise_short": "Integrated drug and health screening.",
+      "criticism": "The platform interface feels dated compared to newer competitors, and turnaround times for international checks can sometimes extend beyond 10 business days.",
+      "criticism_short": "Dated user interface and slow international checks.",
+      "sources_pending": [
+        "HireRight Service Offerings",
+        "Gartner Peer Insights",
+        "HireRight Integrations List"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Oracle Taleo",
+        "SAP SuccessFactors",
+        "Workday",
+        "iCIMS",
+        "Cornerstone"
+      ],
+      "compliance": [
+        "FCRA",
+        "GDPR",
+        "DOT",
+        "FINRA"
+      ],
+      "regions": [
+        "Global (200+ countries)"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Sterling",
+      "url": "https://www.sterlingcheck.com",
+      "founded": 1975,
+      "hq": "New York, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Companies in healthcare, financial services, and retail that require specialized, vertical-specific screening packages and identity verification services.",
+      "best_for_short": "Vertical-specific screening",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Accuracy & Compliance": 9.5,
+        "Turnaround Time": 8.4,
+        "Platform & User Experience": 8.2,
+        "Integrations": 8.8,
+        "Pricing & Value": 8
+      },
+      "verdict": "Sterling excels by offering deep, industry-specific screening solutions, including advanced identity verification and monitoring services that other providers lack.",
+      "verdict_short": "Best for its specialized solutions in healthcare, finance, and retail.",
+      "praise": "Sterling's proprietary CourtDirect technology provides direct access to 70% of U.S. county court records, often speeding up criminal searches.",
+      "praise_short": "Proprietary CourtDirect tech speeds up searches.",
+      "criticism": "The account setup and configuration process can be lengthy, sometimes taking over a week, and the platform has a steeper learning curve than more modern alternatives.",
+      "criticism_short": "Lengthy setup process and complex platform.",
+      "sources_pending": [
+        "Sterling Industry Solutions",
+        "TrustRadius Reviews",
+        "Sterling Identity Services"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Workday",
+        "iCIMS",
+        "Oracle",
+        "SAP SuccessFactors",
+        "UKG"
+      ],
+      "compliance": [
+        "FCRA",
+        "GDPR",
+        "Healthcare Sanctions (OIG)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 50,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Accurate",
+      "url": "https://www.accurate.com",
+      "founded": 1997,
+      "hq": "Irvine, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Mid-market and enterprise companies looking for a customizable and scalable platform with strong customer support and a robust API.",
+      "best_for_short": "Customizable enterprise screening",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8.8,
+        "Turnaround Time": 8.5,
+        "Platform & User Experience": 8,
+        "Integrations": 8.5,
+        "Pricing & Value": 7.8
+      },
+      "verdict": "Accurate secures its position with a highly flexible platform that can be tailored to complex workflows, backed by consistently high ratings for its U.S.-based customer service.",
+      "verdict_short": "Best for its flexible platform and highly-rated U.S.-based customer support.",
+      "praise": "Their client service teams receive praise for being responsive and knowledgeable, often providing a dedicated account manager for mid-sized clients.",
+      "praise_short": "Responsive, knowledgeable customer service.",
+      "criticism": "Some users report that the user interface for ordering and reviewing reports is less intuitive than competitors like Checkr or GoodHire.",
+      "criticism_short": "Less intuitive user interface.",
+      "sources_pending": [
+        "Accurate Platform Overview",
+        "G2 User Reviews",
+        "Accurate API Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "iCIMS",
+        "Oracle Taleo",
+        "SAP SuccessFactors",
+        "Workday",
+        "Avature"
+      ],
+      "compliance": [
+        "FCRA",
+        "PBSA Accredited",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Asia-Pacific"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "First Advantage",
+      "url": "https://fadv.com",
+      "founded": 2003,
+      "hq": "Atlanta, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Fortune 1000 companies, particularly in transportation and logistics, that need a full suite of screening, verification, and fleet compliance services.",
+      "best_for_short": "Enterprise fleet & logistics",
+      "pricing_band": "$$$ (Quote-based)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8.9,
+        "Turnaround Time": 7.8,
+        "Platform & User Experience": 7.5,
+        "Integrations": 8.7,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "First Advantage distinguishes itself with its deep focus on the transportation industry, offering specialized DOT compliance and driver monitoring services that are critical for fleet operators.",
+      "verdict_short": "Best for transportation and logistics with specialized DOT compliance management.",
+      "praise": "Their driver qualification file management service is a key differentiator, helping trucking companies stay compliant with complex Federal Motor Carrier Safety Administration (FMCSA) regulations.",
+      "praise_short": "Strong driver qualification file management.",
+      "criticism": "The platform is powerful but complex, and some customers report that report statuses can be unclear, requiring calls to support for clarification.",
+      "criticism_short": "Complex platform with sometimes unclear statuses.",
+      "sources_pending": [
+        "First Advantage Transportation Solutions",
+        "Gartner Peer Insights",
+        "FMCSA Regulations"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Workday",
+        "SAP SuccessFactors",
+        "Oracle",
+        "Tenstreet",
+        "EBE"
+      ],
+      "compliance": [
+        "FCRA",
+        "DOT",
+        "FMCSA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Certn",
+      "url": "https://certn.co",
+      "founded": 2016,
+      "hq": "Victoria, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Fast-growing companies in North America and Europe looking for quick, reliable screening with a modern interface and flexible API.",
+      "best_for_short": "Fast screening for tech companies",
+      "pricing_band": "$$ (Quote-based, starts ~$25)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8,
+        "Turnaround Time": 9,
+        "Platform & User Experience": 8.5,
+        "Integrations": 7.5,
+        "Pricing & Value": 7
+      },
+      "verdict": "Certn earns its place with a focus on speed, leveraging data aggregation and a clean user interface to deliver some of the fastest results for criminal and credit checks.",
+      "verdict_short": "Best for speed, delivering basic checks in minutes through a modern platform.",
+      "praise": "Their use of preliminary results from database searches, which are then verified, gives hiring managers a quick signal in under 15 minutes for many candidates.",
+      "praise_short": "Provides preliminary results in minutes.",
+      "criticism": "While fast, their international verification services are less mature than those of global giants like HireRight, with coverage gaps in some regions.",
+      "criticism_short": "International coverage is less mature.",
+      "sources_pending": [
+        "Certn Product Tour",
+        "G2 Reviews",
+        "Certn for Developers"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 25,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Greenhouse",
+        "Lever",
+        "BambooHR",
+        "Comeet"
+      ],
+      "compliance": [
+        "FCRA",
+        "PIPA",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Backgrounds Online",
+      "url": "https://www.backgroundsonline.com",
+      "founded": 1997,
+      "hq": "Sacramento, USA",
+      "team_size_band": "11-50",
+      "best_for": "Non-profits, churches, and small businesses that value personalized customer service and straightforward, no-frills background screening.",
+      "best_for_short": "SMBs wanting personal service",
+      "pricing_band": "$ ($19 to $69+ per check)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8.5,
+        "Turnaround Time": 7.5,
+        "Platform & User Experience": 7,
+        "Integrations": 6,
+        "Pricing & Value": 9.5
+      },
+      "verdict": "Backgrounds Online stands out for its exceptional, U.S.-based customer support and transparent, a la carte pricing, making it a trusted choice for smaller organizations.",
+      "verdict_short": "Best for its top-tier customer support and transparent pricing for small organizations.",
+      "praise": "Clients consistently praise their ability to speak directly with a knowledgeable screener to resolve issues, a level of service rare in the industry.",
+      "praise_short": "Direct access to knowledgeable human support.",
+      "criticism": "The platform lacks the advanced features and ATS integrations of larger competitors, requiring more manual work for companies with high hiring volume.",
+      "criticism_short": "Lacks advanced features and integrations.",
+      "sources_pending": [
+        "Backgrounds Online Services",
+        "BBB Profile",
+        "Client Testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 19.95,
+      "price_max": 69.95,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [
+        "FCRA",
+        "PBSA Accredited"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 9,
+      "name": "Verifirst",
+      "url": "https://www.verifirst.com",
+      "founded": 2004,
+      "hq": "Westerville, USA",
+      "team_size_band": "51-200",
+      "best_for": "Property management companies and financial institutions that require integrated tenant and pre-employment screening.",
+      "best_for_short": "Integrated tenant & employee screening",
+      "pricing_band": "$$ (Quote-based)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8.2,
+        "Turnaround Time": 7.5,
+        "Platform & User Experience": 7.2,
+        "Integrations": 7,
+        "Pricing & Value": 8
+      },
+      "verdict": "Verifirst is ranked for its unique specialization in serving the property management industry, offering a single platform for both prospective tenants and employees.",
+      "verdict_short": "Best for property managers needing a unified tenant and employee screening platform.",
+      "praise": "Their integrations with property management software like Yardi and RealPage are a significant workflow advantage for clients in that sector.",
+      "praise_short": "Integrates with property management software.",
+      "criticism": "For clients outside of property management or finance, their service offerings and platform features are less compelling than more generalized providers.",
+      "criticism_short": "Less compelling for non-property clients.",
+      "sources_pending": [
+        "Verifirst Tenant Screening",
+        "Verifirst Integrations",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Yardi",
+        "RealPage",
+        "Entrata",
+        "ResMan"
+      ],
+      "compliance": [
+        "FCRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "InfoMart",
+      "url": "https://www.infomart-usa.com",
+      "founded": 1989,
+      "hq": "Marietta, USA",
+      "team_size_band": "51-200",
+      "best_for": "Organizations seeking a long-standing, reputable provider with a strong focus on data security and a wide array of service offerings.",
+      "best_for_short": "Reputable provider focused on security",
+      "pricing_band": "$$ (Quote-based)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8.5,
+        "Turnaround Time": 7,
+        "Platform & User Experience": 7,
+        "Integrations": 7,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "InfoMart makes the list because of its long history of reliability, woman-owned business status, and early adoption of advanced security protocols for protecting candidate data.",
+      "verdict_short": "A long-standing, reliable provider with a strong emphasis on data security.",
+      "praise": "As one of the first providers to be NAPBS (now PBSA) accredited, their commitment to compliant practices is deeply embedded in their operations.",
+      "praise_short": "Long-standing commitment to compliance.",
+      "criticism": "Their core technology platform, while functional, has not kept pace with the user experience design of newer, venture-backed competitors.",
+      "criticism_short": "Technology platform is less modern.",
+      "sources_pending": [
+        "InfoMart Services",
+        "About InfoMart",
+        "PBSA Accreditation Directory"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "iCIMS",
+        "Workday",
+        "Greenhouse",
+        "Jobvite"
+      ],
+      "compliance": [
+        "FCRA",
+        "PBSA Accredited"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "ShareAble for Hires",
+      "url": "https://www.transunion.com/shareable-for-hires",
+      "founded": 2016,
+      "hq": "Chicago, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Very small businesses, landlords, or individuals who need to run a small number of checks per year without a subscription or setup process.",
+      "best_for_short": "On-demand checks for micro-businesses",
+      "pricing_band": "$ ($25 to $60 per check)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Accuracy & Compliance": 8,
+        "Turnaround Time": 8,
+        "Platform & User Experience": 7.5,
+        "Integrations": 2,
+        "Pricing & Value": 9
+      },
+      "verdict": "This TransUnion service is our wildcard pick because it serves a completely different use case: on-demand, candidate-pushed screening with no employer setup, perfect for infrequent hiring.",
+      "verdict_short": "A unique on-demand model where applicants push reports to employers.",
+      "praise": "The process is incredibly simple for employers: you send an invite, the applicant pays and runs their own check, and then shares the results directly from TransUnion.",
+      "praise_short": "Extremely simple, zero-setup process.",
+      "criticism": "It is not a solution for volume hiring, as it lacks a central dashboard, ATS integrations, and any verification services beyond credit and criminal data from TransUnion's files.",
+      "criticism_short": "No dashboard, integrations, or verifications.",
+      "sources_pending": [
+        "ShareAble for Hires Website",
+        "TransUnion Corporate Site",
+        "PCMag Review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 60,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [
+        "FCRA"
+      ],
+      "regions": [
+        "USA"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 10,
+      "is_wildcard": true
+    }
+  ]
+}

@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "employee-engagement-software",
-      "title": "The 11 Best Employee Engagement Software",
-      "vertical": "HR · Engagement",
-      "audience": "HR teams measuring and improving engagement",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "background-check-services",
-      "title": "The 11 Best Background Check Services",
-      "vertical": "HR · Screening",
-      "audience": "Employers screening candidates",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "customer-feedback-tools",
       "title": "The 11 Best Customer Feedback Tools",
       "vertical": "Product · Feedback",
@@ -382,7 +366,9 @@
     "membership-software",
     "nonprofit-crm",
     "donor-management-software",
-    "church-management-software"
+    "church-management-software",
+    "employee-engagement-software",
+    "background-check-services"
   ],
   "skipped": [
     {

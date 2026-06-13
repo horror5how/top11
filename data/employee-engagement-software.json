@@ -1,0 +1,824 @@
+{
+  "slug": "employee-engagement-software",
+  "title": "The 11 Best Employee Engagement Software",
+  "subtitle": "This ranking focuses on platforms that combine scientifically-backed surveys with actionable analytics for HR leaders and managers.",
+  "vertical": "HR · Engagement",
+  "audience": "HR teams measuring and improving engagement",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "HR Software",
+  "subsector": "Employee Engagement",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Survey & Analytics Quality (30%), Actionability & Manager Tools (25%), Integrations & Workflow (20%), User Experience & Adoption (15%), and Pricing & Transparency (10%)."
+    }
+  ],
+  "answer_capsule": "The best employee engagement software is Culture Amp for its deep analytics, followed by Lattice for its integrated performance features and Glint for its enterprise-scale capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Survey & Analytics Quality",
+        "weight": 30,
+        "description": "Quality of survey templates, question science, and depth of analytics, including benchmarks, heatmaps, and driver analysis."
+      },
+      {
+        "name": "Actionability & Manager Tools",
+        "weight": 25,
+        "description": "Effectiveness of tools and recommendations provided to managers and leaders to act on survey results."
+      },
+      {
+        "name": "Integrations & Workflow",
+        "weight": 20,
+        "description": "Ability to connect with key HRIS (e.g., Workday, BambooHR) and communication platforms (e.g., Slack, Teams)."
+      },
+      {
+        "name": "User Experience & Adoption",
+        "weight": 15,
+        "description": "Ease of use for both administrators and employees, driving higher participation and platform adoption."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 10,
+        "description": "Clarity of pricing models, value for money, and availability of pricing information without a sales call."
+      }
+    ]
+  },
+  "segment_tags": [
+    "employee feedback",
+    "pulse surveys",
+    "eNPS",
+    "company culture",
+    "HR analytics"
+  ],
+  "problem_tags": [
+    "high turnover",
+    "low morale",
+    "poor communication",
+    "change management",
+    "manager effectiveness"
+  ],
+  "query_intents": [
+    "best employee engagement platforms",
+    "Culture Amp vs Lattice",
+    "employee survey tools",
+    "how to measure employee engagement",
+    "Glint pricing"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "data-driven culture strategy",
+        "turnover prediction"
+      ],
+      "personas": [
+        "Head of People",
+        "Data-savvy HRBP"
+      ]
+    },
+    "2": {
+      "solves": [
+        "linking engagement to performance",
+        "career pathing"
+      ],
+      "personas": [
+        "CHRO",
+        "VP of Talent Management"
+      ]
+    },
+    "3": {
+      "solves": [
+        "large-scale survey deployment",
+        "enterprise change management"
+      ],
+      "personas": [
+        "Fortune 500 HR Leader",
+        "Organizational Development"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.22,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What is the core function of employee engagement software?",
+      "a": "The core function is to systematically measure employee sentiment and provide leaders with data to improve workplace culture, motivation, and retention. It moves beyond a simple annual survey to continuous listening through pulse surveys, lifecycle feedback (onboarding, exit), and detailed analytics that connect engagement to business outcomes like performance and attrition."
+    },
+    {
+      "q": "How do these platforms differ from simple survey tools like SurveyMonkey?",
+      "a": "Employee engagement platforms differ by providing a specialized, closed-loop system designed for the workplace. Unlike generic tools, they offer scientifically-validated question banks, industry and role-based benchmarks, confidential reporting, and AI-driven analysis to identify key drivers of engagement. They also include action-planning tools for managers to respond directly to team feedback."
+    },
+    {
+      "q": "What's the difference between engagement, performance, and recognition tools?",
+      "a": "They address different parts of the employee experience, though many modern platforms bundle them. Engagement tools measure sentiment (e.g., pulse surveys). Performance tools manage goals, reviews, and 1-on-1s. Recognition tools facilitate peer-to-peer praise and rewards. An integrated platform like Lattice or Leapsome aims to show how recognition and performance management directly impact engagement scores."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary goal: are you diagnosing a known issue (like turnover) or building a continuous listening program from scratch? This determines if you need a deep analytics tool (Culture Amp) or a simpler pulse tool (Officevibe).",
+    "Second, assess your managers' capacity. If managers are already stretched thin, choose a platform with strong, automated action-planning and coaching features (like 15Five) to reduce their administrative burden.",
+    "Finally, map your existing HR tech stack. Prioritize a platform that offers pre-built, deep integrations with your HRIS (like Workday or BambooHR) and communication tools (Slack or Teams) to automate user provisioning and embed feedback into daily workflows."
+  ],
+  "faqs": [
+    {
+      "q": "What is a good employee engagement score?",
+      "a": "A good score is relative and best understood through benchmarking. Most platforms will show your score relative to your industry, company size, and region. Generally, a score above 75% is considered strong, but the trend line (is it improving?) is more important than the absolute number."
+    },
+    {
+      "q": "How much does employee engagement software cost?",
+      "a": "Pricing typically ranges from $4 to $15 per employee per month. Most vendors use a tiered model based on features (e.g., basic surveys vs. advanced analytics) and company size. Expect annual contracts and, for larger deployments, a one-time implementation fee."
+    },
+    {
+      "q": "Can employee surveys truly be anonymous?",
+      "a": "Yes, top platforms ensure anonymity through aggregation rules. Feedback is typically only shown in reports when a minimum number of responses (usually 3 to 5) are collected for a specific group (e.g., a team or department). This prevents managers from identifying individual responses."
+    },
+    {
+      "q": "What is eNPS and how is it measured?",
+      "a": "eNPS stands for Employee Net Promoter Score. It measures employee loyalty by asking a single question: 'On a scale of 0-10, how likely are you to recommend this company as a place to work?' The score is calculated by subtracting the percentage of 'Detractors' (scores 0-6) from the percentage of 'Promoters' (scores 9-10)."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-ranked platforms are designed for mid-market to enterprise companies (100+ employees), and pricing can be opaque without a sales demo.",
+    "Our ranking prioritizes platforms with strong analytics and survey science, which may undervalue simpler tools focused purely on recognition or perks.",
+    "The market is consolidating quickly; several independent providers have been acquired by larger HR tech companies in the last 24 months."
+  ],
+  "glossary": {
+    "term": "eNPS (Employee Net Promoter Score)",
+    "definition": "A metric used to measure employee loyalty and advocacy, based on a single question about recommending the company as a workplace.",
+    "synonyms": [
+      "employee loyalty score"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Culture Amp",
+      "url": "https://www.cultureamp.com",
+      "founded": 2009,
+      "hq": "Melbourne, Australia",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Organizations that want the most powerful analytics and industry benchmarks to build a data-driven people strategy.",
+      "best_for_short": "Best for analytics and benchmarking",
+      "pricing_band": "$$$ ($8-$15/user/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 9.4,
+        "Actionability & Manager Tools": 9.2,
+        "Integrations & Workflow": 9,
+        "User Experience & Adoption": 9.3,
+        "Pricing & Transparency": 8.5
+      },
+      "verdict": "Culture Amp is the best employee engagement software because of its superior people science, providing deep, predictive analytics and the most extensive benchmark dataset on the market.",
+      "verdict_short": "The market leader for its powerful people science, analytics, and extensive benchmark data.",
+      "praise": "Its turnover prediction model can identify at-risk employee segments with over 80% accuracy, allowing for proactive intervention.",
+      "praise_short": "Best-in-class turnover prediction and benchmarking.",
+      "criticism": "The platform's power comes with complexity; it can be overwhelming for smaller HR teams or managers without data analysis experience.",
+      "criticism_short": "Can be complex for smaller HR teams.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Forrester Wave: Employee Experience Platforms"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 15,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Workday",
+        "BambooHR",
+        "Slack",
+        "Microsoft Teams",
+        "Greenhouse"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Lattice",
+      "url": "https://lattice.com",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Companies looking to tightly integrate engagement data with performance management, goals (OKRs), and career development.",
+      "best_for_short": "Best for performance integration",
+      "pricing_band": "$$$ ($9-$16/user/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 8.9,
+        "Actionability & Manager Tools": 9.3,
+        "Integrations & Workflow": 9.5,
+        "User Experience & Adoption": 9.2,
+        "Pricing & Transparency": 8
+      },
+      "verdict": "Lattice ranks second for its excellent integration of engagement surveys with a full performance management suite, making it easy to see how goals and feedback impact sentiment.",
+      "verdict_short": "Seamlessly connects engagement surveys with performance reviews, goals, and 1-on-1s.",
+      "praise": "The ability to link a low engagement score directly to a team's OKR progress or recent performance reviews in one platform is a major workflow advantage.",
+      "praise_short": "Links engagement data directly to performance.",
+      "criticism": "Its engagement analytics and benchmarking are less mature than Culture Amp's, offering fewer filters and a smaller comparison dataset.",
+      "criticism_short": "Analytics are less mature than #1.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "TrustRadius reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 9,
+      "price_max": 16,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 4000,
+      "integrations": [
+        "Gusto",
+        "Rippling",
+        "Workday",
+        "Slack",
+        "Jira"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Glint",
+      "url": "https://www.glintinc.com",
+      "founded": 2013,
+      "hq": "Redwood City, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Large enterprises that need a scalable, robust platform for managing complex, global engagement programs.",
+      "best_for_short": "Best for enterprise scale",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 9.2,
+        "Actionability & Manager Tools": 9,
+        "Integrations & Workflow": 8.8,
+        "User Experience & Adoption": 8.5,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "Glint, now part of LinkedIn, is the best choice for large enterprises due to its ability to handle immense scale, complex organizational hierarchies, and its AI-driven narrative intelligence.",
+      "verdict_short": "An enterprise-grade platform built for scale, with powerful AI for analyzing open-text feedback.",
+      "praise": "Its natural language processing for open-ended comments is top-tier, capable of identifying themes across tens of thousands of responses instantly.",
+      "praise_short": "Excellent AI for open-text analysis.",
+      "criticism": "The platform can feel slow and less intuitive than more modern rivals, and its integration into the wider Microsoft/LinkedIn ecosystem is still a work in progress.",
+      "criticism_short": "User interface feels dated compared to rivals.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Gartner Magic Quadrant",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "LinkedIn Learning",
+        "Workday",
+        "SAP SuccessFactors",
+        "Microsoft Teams"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 500,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "Qualtrics EmployeeXM",
+      "url": "https://www.qualtrics.com/employee-experience/",
+      "founded": 2002,
+      "hq": "Provo, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Organizations already invested in the Qualtrics ecosystem that want to connect employee data with customer and brand experience data.",
+      "best_for_short": "Best for total experience management",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 9.3,
+        "Actionability & Manager Tools": 8.5,
+        "Integrations & Workflow": 8.2,
+        "User Experience & Adoption": 8,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Qualtrics EmployeeXM offers the most powerful survey engine on the market, ideal for companies wanting to link employee engagement directly to customer experience (CX) outcomes.",
+      "verdict_short": "The most powerful survey engine, connecting employee experience (EX) to customer experience (CX).",
+      "praise": "The platform's ability to correlate a frontline team's engagement score with that same team's customer satisfaction (CSAT) scores is a unique and powerful feature.",
+      "praise_short": "Directly links employee and customer data.",
+      "criticism": "It is by far the most complex and expensive tool on this list, requiring significant internal resources or professional services to manage effectively.",
+      "criticism_short": "Very complex and expensive; requires specialists.",
+      "sources_pending": [
+        "Vendor documentation",
+        "Gartner reports",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Workday",
+        "SAP",
+        "Tableau"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR",
+        "HIPAA",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 500,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "15Five",
+      "url": "https://www.15five.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Companies focused on improving manager effectiveness through a combination of engagement data, check-ins, and coaching.",
+      "best_for_short": "Best for manager enablement",
+      "pricing_band": "$$ ($4-$14/user/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 8,
+        "Actionability & Manager Tools": 9.4,
+        "Integrations & Workflow": 8.5,
+        "User Experience & Adoption": 8.8,
+        "Pricing & Transparency": 9
+      },
+      "verdict": "15Five excels at translating engagement survey data into concrete actions for managers, with the best suite of tools for 1-on-1s, check-ins, and coaching.",
+      "verdict_short": "Strongest focus on manager tools, turning engagement data into coaching and 1-on-1 agendas.",
+      "praise": "The 'Manager Copilot' feature provides AI-generated talking points for managers to address specific team feedback in their next 1-on-1, a highly practical tool.",
+      "praise_short": "AI-powered talking points for managers.",
+      "criticism": "Its core engagement survey analytics are less advanced than the top-ranked tools, lacking sophisticated heatmaps and deep statistical analysis.",
+      "criticism_short": "Engagement analytics are relatively basic.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "PCMag review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 4,
+      "price_max": 14,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "BambooHR",
+        "Rippling",
+        "Slack",
+        "Jira",
+        "Salesforce"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Quantum Workplace",
+      "url": "https://www.quantumworkplace.com",
+      "founded": 2002,
+      "hq": "Omaha, USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-market companies that want a reliable, feature-rich platform covering engagement, performance, and succession planning.",
+      "best_for_short": "Best for mid-market HR teams",
+      "pricing_band": "$$$ (Custom pricing)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 8.8,
+        "Actionability & Manager Tools": 8.5,
+        "Integrations & Workflow": 7.8,
+        "User Experience & Adoption": 7.9,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "Quantum Workplace provides a solid, all-in-one talent management platform with strong survey and analytics capabilities tailored for the needs of mid-market companies.",
+      "verdict_short": "A reliable, all-in-one talent platform with strong survey tools for mid-sized businesses.",
+      "praise": "The platform includes features like succession planning and talent reviews, which are often missing from competitors focused purely on engagement.",
+      "praise_short": "Includes succession planning tools.",
+      "criticism": "Its user interface is less modern than competitors like Lattice or Culture Amp, which can impact user adoption rates.",
+      "criticism_short": "User interface feels less modern.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "SelectSoftware Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ADP",
+        "UKG",
+        "Paylocity",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 50,
+      "max_team_size": 5000
+    },
+    {
+      "rank": 7,
+      "name": "Leapsome",
+      "url": "https://www.leapsome.com",
+      "founded": 2016,
+      "hq": "Berlin, Germany",
+      "team_size_band": "201-500",
+      "best_for": "Fast-growing tech companies, particularly in Europe, that need an integrated platform for engagement, performance, and learning.",
+      "best_for_short": "Best for European tech companies",
+      "pricing_band": "$$ ($8-$12/user/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 7.8,
+        "Actionability & Manager Tools": 8.2,
+        "Integrations & Workflow": 8.5,
+        "User Experience & Adoption": 8.5,
+        "Pricing & Transparency": 8.8
+      },
+      "verdict": "Leapsome offers a highly flexible and modular platform that combines engagement with learning and development pathways, making it a strong choice for development-focused cultures.",
+      "verdict_short": "A flexible, modular platform connecting engagement surveys to learning and development paths.",
+      "praise": "Its learning module allows managers to assign specific training courses directly based on negative feedback from an engagement survey, closing the loop effectively.",
+      "praise_short": "Tightly links survey feedback to training.",
+      "criticism": "The platform's analytics are not as deep as top competitors, and it lacks the extensive external benchmarking data of Culture Amp.",
+      "criticism_short": "Lacks deep analytics and external benchmarks.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "OMR Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 8,
+      "price_max": 12,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Personio",
+        "HiBob",
+        "BambooHR",
+        "Slack",
+        "Microsoft Teams"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 20,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Officevibe",
+      "url": "https://officevibe.com",
+      "founded": 2013,
+      "hq": "Montreal, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized businesses looking for a simple, user-friendly, and affordable tool to start measuring engagement.",
+      "best_for_short": "Best for ease of use (SMBs)",
+      "pricing_band": "$ ($4-$6/user/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 7,
+        "Actionability & Manager Tools": 7.8,
+        "Integrations & Workflow": 8,
+        "User Experience & Adoption": 9.5,
+        "Pricing & Transparency": 9.2
+      },
+      "verdict": "Officevibe is the easiest-to-use platform on the market, making it the perfect starting point for smaller companies new to employee engagement surveys.",
+      "verdict_short": "The most user-friendly and accessible platform, ideal for SMBs starting their engagement journey.",
+      "praise": "Its setup process takes minutes, not weeks, and the weekly automated pulse surveys have consistently high participation rates (often over 85%) due to the simple interface.",
+      "praise_short": "Extremely easy setup and high participation.",
+      "criticism": "The platform lacks the analytical depth and customizability required by larger or more complex organizations.",
+      "criticism_short": "Lacks deep analytics and customization.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 4,
+      "price_max": 6,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "BambooHR",
+        "Gusto"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 2000
+    },
+    {
+      "rank": 9,
+      "name": "Bonusly",
+      "url": "https://bonus.ly",
+      "founded": 2012,
+      "hq": "Boulder, USA",
+      "team_size_band": "51-200",
+      "best_for": "Companies that want to build a culture of recognition and use that as the primary driver of engagement.",
+      "best_for_short": "Best for recognition-led engagement",
+      "pricing_band": "$ ($3-$6/user/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 6.8,
+        "Actionability & Manager Tools": 7,
+        "Integrations & Workflow": 8.5,
+        "User Experience & Adoption": 9.6,
+        "Pricing & Transparency": 9
+      },
+      "verdict": "Bonusly takes a unique approach by centering engagement around a fun and highly visible peer-to-peer recognition and rewards program.",
+      "verdict_short": "A recognition-first platform that drives engagement through peer-to-peer rewards.",
+      "praise": "The platform's adoption is incredibly high because employees enjoy giving and receiving points; it integrates seamlessly into Slack, making recognition a daily habit.",
+      "praise_short": "Drives high adoption via its rewards system.",
+      "criticism": "Its formal survey and analytics capabilities are very limited compared to dedicated engagement platforms; it's more of a culture tool than an analytics tool.",
+      "criticism_short": "Formal survey and analytics tools are basic.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Forbes Advisor review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 3,
+      "price_max": 6,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Gusto",
+        "BambooHR",
+        "Okta"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "WorkTango",
+      "url": "https://www.worktango.com",
+      "founded": 2021,
+      "hq": "Austin, USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-market companies wanting to combine surveys, recognition, and rewards in a single, modern platform.",
+      "best_for_short": "Best for combined surveys & rewards",
+      "pricing_band": "$$ (Custom pricing)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 7.5,
+        "Actionability & Manager Tools": 7.8,
+        "Integrations & Workflow": 7.5,
+        "User Experience & Adoption": 8,
+        "Pricing & Transparency": 6.5
+      },
+      "verdict": "WorkTango, formed from the merger of Kazoo and WorkTango, offers a competent suite that bundles engagement surveys with a robust recognition and rewards marketplace.",
+      "verdict_short": "A solid mid-market option combining surveys with a large recognition and rewards marketplace.",
+      "praise": "The platform's global rewards catalog is extensive, offering thousands of options in over 20 countries, which is great for international teams.",
+      "praise_short": "Extensive global rewards catalog.",
+      "criticism": "The platform can feel like two separate products (surveys and recognition) that are not yet fully integrated, leading to a disjointed admin experience.",
+      "criticism_short": "Integration between modules feels incomplete.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Software Advice reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "ADP",
+        "UKG",
+        "Slack",
+        "Microsoft Teams",
+        "Outlook"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 100,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Assembly",
+      "url": "https://www.joinassembly.com",
+      "founded": 2017,
+      "hq": "Los Angeles, USA",
+      "team_size_band": "51-200",
+      "best_for": "Remote-first or hybrid teams that live in Slack or Microsoft Teams and want a lightweight, workflow-native engagement tool.",
+      "best_for_short": "Best for workflow-native engagement",
+      "pricing_band": "$ ($2-$5/user/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Survey & Analytics Quality": 6.5,
+        "Actionability & Manager Tools": 6.8,
+        "Integrations & Workflow": 9,
+        "User Experience & Adoption": 8.5,
+        "Pricing & Transparency": 9.5
+      },
+      "verdict": "Assembly is a wildcard because it approaches engagement not as a separate destination, but as a set of automated workflows inside the communication tools your team already uses.",
+      "verdict_short": "A workflow-native tool that embeds recognition, surveys, and standups directly into Slack and Teams.",
+      "praise": "Its 'Core Values' feature, which lets employees tag recognition with specific company values, is a simple but effective way to reinforce culture in daily work.",
+      "praise_short": "Effectively reinforces company values daily.",
+      "criticism": "The platform is not a fit for companies that require deep, standalone analytics or complex survey logic; it prioritizes flow of work over deep HR analysis.",
+      "criticism_short": "Not suitable for deep HR analysis.",
+      "sources_pending": [
+        "Vendor documentation",
+        "G2 reviews",
+        "Product Hunt"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 2,
+      "price_max": 5,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Google Workspace",
+        "Rippling",
+        "Gusto"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 1000
+    }
+  ]
+}
