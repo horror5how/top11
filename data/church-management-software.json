@@ -1,0 +1,793 @@
+{
+  "slug": "church-management-software",
+  "title": "The 11 Best Church Management Software",
+  "subtitle": "This ranking focuses on providers that balance powerful member and giving management with ease of use for non-technical church staff and volunteers.",
+  "vertical": "Nonprofit · Faith",
+  "audience": "Churches managing members and giving",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Vertical SaaS",
+  "subsector": "Nonprofit Tech",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Core ChMS Features (30%), Giving & Financials (25%), and Ease of Use (20%) as the most critical factors for church administrators."
+    }
+  ],
+  "answer_capsule": "The best church management software is Planning Center for its modular flexibility, followed by Tithe.ly for its all-in-one value and Breeze CHMS for its exceptional ease of use.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Core ChMS Features",
+        "weight": 30,
+        "description": "Effectiveness of member database, small group management, attendance tracking, volunteer scheduling, and event registration."
+      },
+      {
+        "name": "Giving & Financials",
+        "weight": 25,
+        "description": "Quality of online giving tools, pledge campaign management, contribution tracking, and integrations with accounting software like QuickBooks."
+      },
+      {
+        "name": "Ease of Use & Admin",
+        "weight": 20,
+        "description": "Intuitive interface for non-technical staff and volunteers, quality of mobile apps, and simplicity of reporting."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 15,
+        "description": "Availability of an API and pre-built integrations for background checks, worship software, and communication tools."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 10,
+        "description": "Transparency, affordability, and scalability of pricing tiers relative to the features provided. Lack of hidden fees."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Church Management Software",
+    "ChMS",
+    "Nonprofit CRM",
+    "Faith-Based Software",
+    "Online Giving Platforms"
+  ],
+  "problem_tags": [
+    "Member Management",
+    "Donation Tracking",
+    "Volunteer Scheduling",
+    "Church Communication",
+    "Event Management"
+  ],
+  "query_intents": [
+    "best church management software",
+    "free church management software",
+    "church database software",
+    "church giving software",
+    "Breeze vs Planning Center"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "complex service planning",
+        "a la carte software needs"
+      ],
+      "personas": [
+        "Worship Pastor",
+        "Large Church Administrator"
+      ]
+    },
+    "2": {
+      "solves": [
+        "consolidating giving and management",
+        "mobile-first engagement"
+      ],
+      "personas": [
+        "Church Planter",
+        "Mid-Sized Church Pastor"
+      ]
+    },
+    "3": {
+      "solves": [
+        "overly complex software",
+        "training volunteers quickly"
+      ],
+      "personas": [
+        "Small Church Pastor",
+        "Part-Time Church Admin"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.35,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What is the primary function of Church Management Software?",
+      "a": "The primary function is to centralize a church's administrative tasks into one system. This includes managing a database of members and visitors, tracking attendance and giving, organizing small groups and events, and scheduling volunteers."
+    },
+    {
+      "q": "How does ChMS differ from a standard nonprofit CRM?",
+      "a": "ChMS is specifically designed for church workflows, which a standard CRM is not. It includes specialized modules for things like worship service planning, child check-in security, volunteer scheduling for services, and tracking spiritual milestones, which are absent in generic CRMs like Salesforce for Nonprofits."
+    },
+    {
+      "q": "Should I choose an all-in-one suite or best-of-breed tools?",
+      "a": "An all-in-one suite simplifies administration and data syncing, making it ideal for most churches up to 1,000 members. A best-of-breed approach (e.g., using separate tools for giving, service planning, and communication) offers more power in each category but requires more technical skill to integrate and manage, typically suiting very large or tech-savvy churches."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your church's size and complexity; a church of 50 has vastly different needs than a church of 5,000.",
+    "Second, prioritize your biggest pain point: is it disorganized giving, chaotic volunteer scheduling, or poor member communication?",
+    "Third, test the top 2-3 candidates with your least tech-savvy volunteer or staff member; their ability to use it is a critical test.",
+    "Finally, calculate the total cost of ownership, including any per-member fees, giving transaction fees, and paid add-ons."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best church management software for a small church?",
+      "a": "Breeze CHMS is widely considered the best for small churches due to its simple, flat-rate pricing ($72/month for all features) and an extremely intuitive interface that requires minimal training for volunteers."
+    },
+    {
+      "q": "Is there any good free church management software?",
+      "a": "Yes, several providers offer functional free tiers, though with limitations. Tithe.ly offers a free plan that covers basic management and giving tools (minus their 2.9% + $0.30 transaction fee). ChurchTrac also has a free plan for up to 100 names, which is suitable for very small congregations or church plants."
+    },
+    {
+      "q": "How much does church management software typically cost?",
+      "a": "Costs vary widely based on church size. Expect to pay between $50 to $150 per month for a small-to-midsize church (50-250 attendees). For larger churches (500+ attendees), prices can range from $200 to over $1,000 per month, especially for enterprise systems like Pushpay or Blackbaud."
+    },
+    {
+      "q": "Does church management software include accounting?",
+      "a": "Most ChMS platforms do not include full fund accounting but offer strong contribution management and reporting that integrates with dedicated accounting software like QuickBooks Online. A few, like ChurchTrac and Aplos, have built-in accounting modules as a key feature."
+    }
+  ],
+  "honest_disclosures": [
+    "The majority of candidates are US-based, and pricing and feature sets may differ for international churches.",
+    "This ranking prioritizes cloud-based (SaaS) solutions; churches requiring on-premise, self-hosted software will find fewer options on this list."
+  ],
+  "glossary": {
+    "term": "ChMS",
+    "definition": "An acronym for Church Management Software, a specialized type of software used by churches to manage administrative and operational tasks.",
+    "synonyms": [
+      "Church Administration Software",
+      "Church Database Software"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Planning Center",
+      "url": "https://www.planningcenter.com",
+      "founded": 2006,
+      "hq": "Carlsbad, USA",
+      "team_size_band": "51-200",
+      "best_for": "Churches of any size that want a flexible, modular system they can build over time, starting with best-in-class service planning.",
+      "best_for_short": "Modular, a la carte ChMS",
+      "pricing_band": "$$ ($100 to $500/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Core ChMS Features": 9.4,
+        "Giving & Financials": 9,
+        "Ease of Use & Admin": 8.8,
+        "Integrations & Ecosystem": 9.5,
+        "Pricing & Value": 9
+      },
+      "verdict": "Planning Center is the best church management software because its a la carte model allows churches to pay only for the modules they need, with each module being a category-leading product on its own.",
+      "verdict_short": "A flexible, modular system where each component is a best-in-class tool.",
+      "praise": "Its Services module for worship planning and volunteer scheduling is the undisputed industry standard, used by thousands of churches even if they use another ChMS for their main database.",
+      "praise_short": "Industry-standard worship planning module.",
+      "criticism": "The pay-per-module pricing, while flexible, can become more expensive than all-in-one competitors once a church needs 4 or more applications.",
+      "criticism_short": "Can get expensive with multiple modules.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 14,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Sage Intacct",
+        "Checkr",
+        "Mailchimp",
+        "ProPresenter"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Tithe.ly",
+      "url": "https://www.tithe.ly",
+      "founded": 2015,
+      "hq": "Nashville, USA",
+      "team_size_band": "51-200",
+      "best_for": "Growing churches looking for a modern, all-in-one platform that started with best-in-class digital giving and expanded into a full ChMS.",
+      "best_for_short": "All-in-one with great giving tools",
+      "pricing_band": "$$ ($119 to $300/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Core ChMS Features": 8.8,
+        "Giving & Financials": 9.5,
+        "Ease of Use & Admin": 9,
+        "Integrations & Ecosystem": 8.5,
+        "Pricing & Value": 9.3
+      },
+      "verdict": "Tithe.ly ranks this high for its excellent value, combining a full suite of management tools with some of the industry's best digital giving features for a single monthly price.",
+      "verdict_short": "An excellent value all-in-one suite with top-tier digital giving features.",
+      "praise": "The All Access plan at $119/month provides nearly every tool a church needs, including a website, app, and text messaging, making it one of the best deals available.",
+      "praise_short": "All Access plan is an incredible value.",
+      "criticism": "While the core ChMS features are solid, they lack the depth of specialized modules from competitors like Planning Center's Services or Pushpay's financial tools.",
+      "criticism_short": "Core ChMS features are good, not great.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "softwareadvice page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 119,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Elvanto",
+        "ProPresenter",
+        "Facebook",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Breeze CHMS",
+      "url": "https://www.breezechms.com",
+      "founded": 2013,
+      "hq": "Grand Rapids, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small to medium-sized churches that prioritize simplicity and ease of use for volunteers and non-technical staff above all else.",
+      "best_for_short": "Easiest to use for volunteers",
+      "pricing_band": "$ ($72/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Core ChMS Features": 8.5,
+        "Giving & Financials": 8.4,
+        "Ease of Use & Admin": 9.8,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Value": 9.5
+      },
+      "verdict": "Breeze is the easiest-to-use church management software on the market, making it the top choice for churches where volunteer adoption is the most important factor.",
+      "verdict_short": "The simplest and most intuitive ChMS, perfect for volunteer-led churches.",
+      "praise": "Its single, flat-rate price of $72 per month for all features, regardless of church size, is refreshingly simple and highly affordable.",
+      "praise_short": "Simple, flat-rate $72/mo pricing.",
+      "criticism": "The platform lacks some advanced functionality, such as deep financial reporting or complex workflow automation, which larger churches may require.",
+      "criticism_short": "Lacks advanced features for large churches.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "getapp page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 72,
+      "price_max": 72,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks Online",
+        "Mailchimp",
+        "Stripe",
+        "Checkr",
+        "Ministry Grid"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Realm by ACS Technologies",
+      "url": "https://www.acstechnologies.com/realm",
+      "founded": 1978,
+      "hq": "Florence, USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-sized to large churches that need a robust, integrated platform for ministry, financials, and community engagement from a long-standing, trusted provider.",
+      "best_for_short": "Integrated ministry and financials",
+      "pricing_band": "$$$ ($250 to $800/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Core ChMS Features": 9,
+        "Giving & Financials": 9.2,
+        "Ease of Use & Admin": 8,
+        "Integrations & Ecosystem": 8.2,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "Realm excels by tightly integrating core church management with full fund accounting, making it a powerful solution for churches that want a single source of truth for both people and money.",
+      "verdict_short": "A powerful, unified system for managing ministry and accounting together.",
+      "praise": "The platform's financial module is one of the most powerful available, offering true fund accounting that goes far beyond the simple contribution tracking of many competitors.",
+      "praise_short": "Includes true fund accounting.",
+      "criticism": "The user interface, while modern, can feel complex and less intuitive than newer competitors like Breeze, requiring a steeper learning curve for staff.",
+      "criticism_short": "Steeper learning curve than competitors.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "trustradius page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 44,
+      "price_max": 800,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "Protect My Ministry",
+        "Constant Contact",
+        "Vanco"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 3,
+      "max_team_size": null
+    },
+    {
+      "rank": 5,
+      "name": "Pushpay / Church Community Builder",
+      "url": "https://pushpay.com/church-management-software/",
+      "founded": 2009,
+      "hq": "Redmond, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Large and multi-site churches that require an enterprise-level system focused on driving engagement and increasing digital giving.",
+      "best_for_short": "Enterprise-grade for large churches",
+      "pricing_band": "$$$$ ($500 to $1500+/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Core ChMS Features": 8.8,
+        "Giving & Financials": 9.4,
+        "Ease of Use & Admin": 7.5,
+        "Integrations & Ecosystem": 8.5,
+        "Pricing & Value": 7
+      },
+      "verdict": "Pushpay's combined suite with Church Community Builder provides an unmatched feature set for large churches, particularly in its ability to analyze giving trends and drive engagement through its custom app platform.",
+      "verdict_short": "An enterprise platform for large churches focused on giving and engagement.",
+      "praise": "The platform's tools for recurring giving setup and donor analytics are the most sophisticated in the market, proven to increase overall giving for their client churches.",
+      "praise_short": "Sophisticated donor analytics and giving tools.",
+      "criticism": "This power comes at a significant cost, with pricing that puts it out of reach for most small and mid-sized churches, and the system can be complex to implement.",
+      "criticism_short": "High cost and complexity.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 300,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "ProPresenter",
+        "Resi",
+        "MortarStone",
+        "Background Checks API"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Australia",
+        "New Zealand"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "ChurchTrac",
+      "url": "https://www.churchtrac.com",
+      "founded": 2002,
+      "hq": "Jacksonville, USA",
+      "team_size_band": "11-50",
+      "best_for": "Budget-conscious small to mid-sized churches that want an all-in-one solution that includes built-in fund accounting.",
+      "best_for_short": "All-in-one with accounting",
+      "pricing_band": "$ ($60 to $120/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Core ChMS Features": 8,
+        "Giving & Financials": 8.5,
+        "Ease of Use & Admin": 8,
+        "Integrations & Ecosystem": 7,
+        "Pricing & Value": 9.2
+      },
+      "verdict": "ChurchTrac stands out by offering a complete church management suite, including true fund accounting, at a price point accessible to almost any church.",
+      "verdict_short": "An affordable all-in-one ChMS that includes fund accounting.",
+      "praise": "The Plus plan at $72/month includes unlimited names, worship planning, child check-in, and full accounting, representing one of the best feature-per-dollar values on the market.",
+      "praise_short": "Exceptional feature-per-dollar value.",
+      "criticism": "The user interface is functional but feels dated compared to more modern platforms, and it lacks a broad ecosystem of third-party integrations.",
+      "criticism_short": "Dated user interface and few integrations.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "softwareadvice page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 72,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "Planning Center",
+        "Stripe"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Servant Keeper",
+      "url": "https://servantkeeper.com",
+      "founded": 1994,
+      "hq": "Lock Haven, USA",
+      "team_size_band": "51-200",
+      "best_for": "Churches that want the flexibility of choosing between a cloud-based or a locally-installed desktop solution.",
+      "best_for_short": "Cloud and local hosting options",
+      "pricing_band": "$$$ ($300 to $1000 one-time)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Core ChMS Features": 8.2,
+        "Giving & Financials": 8,
+        "Ease of Use & Admin": 7.5,
+        "Integrations & Ecosystem": 7.5,
+        "Pricing & Value": 8
+      },
+      "verdict": "Servant Keeper secures its place by being one of the few reputable providers still offering a robust, locally-hosted option alongside its cloud product, serving churches with limited internet or specific data control needs.",
+      "verdict_short": "A reliable choice offering both cloud and local-install versions.",
+      "praise": "Their customer support is consistently rated as a top strength, with users reporting helpful and responsive U.S.-based teams available by phone.",
+      "praise_short": "Highly-rated U.S.-based phone support.",
+      "criticism": "The software's design and user experience feel less modern than cloud-native competitors, and the one-time licensing fee model is a significant upfront investment.",
+      "criticism_short": "Less modern UI and high upfront cost.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "g2 page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 299,
+      "price_max": 2499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "Vanco Payment Solutions"
+      ],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Elvanto",
+      "url": "https://www.elvanto.com",
+      "founded": 2011,
+      "hq": "Brisbane, Australia",
+      "team_size_band": "11-50",
+      "best_for": "International churches, particularly in Australia and Europe, that need strong customization options and multi-language support.",
+      "best_for_short": "Customizable for international churches",
+      "pricing_band": "$$ ($50 to $250/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Core ChMS Features": 8.5,
+        "Giving & Financials": 7.5,
+        "Ease of Use & Admin": 7.8,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Value": 7
+      },
+      "verdict": "Elvanto (now part of Tithe.ly) is a great choice for churches outside the U.S. due to its strong international roots, custom field capabilities, and comprehensive feature set that rivals larger U.S. players.",
+      "verdict_short": "A powerful, customizable ChMS with strong international support.",
+      "praise": "The ability to create unlimited custom fields and reports allows churches to track specific data points and processes unique to their ministry, a feature often lacking in simpler systems.",
+      "praise_short": "Deep customization with custom fields.",
+      "criticism": "Since its acquisition by Tithe.ly, the pace of new feature development has slowed, and its pricing is less competitive than the main Tithe.ly All Access bundle.",
+      "criticism_short": "Slower development since Tithe.ly acquisition.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra.au page",
+        "g2 page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 50,
+      "price_max": 250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Tithe.ly",
+        "Mailchimp",
+        "QuickBooks Online",
+        "Xero",
+        "SongSelect"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Blackbaud Church Management",
+      "url": "https://www.blackbaud.com/solutions/church-management",
+      "founded": 1981,
+      "hq": "Charleston, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large churches or dioceses that are part of a broader nonprofit ecosystem and need enterprise-grade CRM and financial tools.",
+      "best_for_short": "Enterprise CRM for large churches",
+      "pricing_band": "$$$$ ($600 to $2000+/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Core ChMS Features": 7.8,
+        "Giving & Financials": 8.5,
+        "Ease of Use & Admin": 6.5,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Value": 6
+      },
+      "verdict": "Blackbaud's solution is best for institutionally complex churches, like dioceses or denominations, that can benefit from its powerful underlying nonprofit CRM (Raiser's Edge NXT) for managing relationships and finances at scale.",
+      "verdict_short": "An enterprise nonprofit CRM adapted for complex church organizations.",
+      "praise": "The platform offers unmatched capabilities for managing complex hierarchical relationships, such as tracking families across multiple parishes within a diocese.",
+      "praise_short": "Manages complex diocesan structures well.",
+      "criticism": "The system is notoriously complex and expensive, making it a poor fit for the vast majority of individual churches that do not need its enterprise-level power.",
+      "criticism_short": "Overly complex and expensive for most.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "trustradius page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 600,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Blackbaud Financial Edge NXT",
+        "Microsoft Office",
+        "Various payment gateways"
+      ],
+      "compliance": [
+        "PCI",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "Faithlife Equip",
+      "url": "https://faithlife.com/equip",
+      "founded": 1992,
+      "hq": "Bellingham, USA",
+      "team_size_band": "201-500",
+      "best_for": "Churches that want to deeply integrate their management software with discipleship content and Bible study tools.",
+      "best_for_short": "Integrated with discipleship content",
+      "pricing_band": "$$ ($140 to $400/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Core ChMS Features": 7.5,
+        "Giving & Financials": 7.5,
+        "Ease of Use & Admin": 7,
+        "Integrations & Ecosystem": 8,
+        "Pricing & Value": 7
+      },
+      "verdict": "Faithlife Equip is a unique offering that bundles a solid ChMS with a massive library of digital books, videos, and media from Faithlife (makers of Logos Bible Software), making it ideal for churches focused on content-rich discipleship.",
+      "verdict_short": "A solid ChMS bundled with a huge library of discipleship content.",
+      "praise": "No other platform provides this level of integration between administrative tools and theological resources, allowing pastors to link sermon notes, small group curriculum, and member profiles.",
+      "praise_short": "Unique integration of ChMS and theological content.",
+      "criticism": "The core ChMS features are not as polished or intuitive as the top-ranked competitors, and churches not invested in the Faithlife content ecosystem may find it a poor value.",
+      "criticism_short": "Core ChMS features are less polished.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "g2 page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 139.99,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Logos Bible Software",
+        "Proclaim",
+        "Faithlife TV"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Flocknote",
+      "url": "https://flocknote.com",
+      "is_wildcard": true,
+      "founded": 2009,
+      "hq": "Tyler, USA",
+      "team_size_band": "11-50",
+      "best_for": "Churches that believe effective, multi-channel communication (email and text) is the most critical component of member management.",
+      "best_for_short": "Communication-first church software",
+      "pricing_band": "$ ($10 to $200/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Core ChMS Features": 6.5,
+        "Giving & Financials": 7,
+        "Ease of Use & Admin": 9,
+        "Integrations & Ecosystem": 6,
+        "Pricing & Value": 8
+      },
+      "verdict": "Flocknote is a wildcard because it's a communication platform first and a ChMS second, flipping the traditional model to focus on engaging members through simple, powerful email and texting tools.",
+      "verdict_short": "A communication tool with ChMS features, not the other way around.",
+      "praise": "Its text messaging and email composer tools are among the simplest and most effective in the industry, achieving high open and engagement rates for its church clients.",
+      "praise_short": "Best-in-class email and text messaging.",
+      "criticism": "As a ChMS, it is very light, lacking dedicated modules for volunteer scheduling, in-depth financial reporting, or child check-in, requiring churches to use other tools for those functions.",
+      "criticism_short": "Lacks many core ChMS modules.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "g2 page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 200,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [],
+      "compliance": [],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

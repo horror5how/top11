@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "donor-management-software",
-      "title": "The 11 Best Donor Management Software",
-      "vertical": "Nonprofit · Fundraising",
-      "audience": "Development teams tracking donations",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
-      "slug": "church-management-software",
-      "title": "The 11 Best Church Management Software",
-      "vertical": "Nonprofit · Faith",
-      "audience": "Churches managing members and giving",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "employee-engagement-software",
       "title": "The 11 Best Employee Engagement Software",
       "vertical": "HR · Engagement",
@@ -396,7 +380,9 @@
     "ab-testing-tools",
     "webinar-platforms",
     "membership-software",
-    "nonprofit-crm"
+    "nonprofit-crm",
+    "donor-management-software",
+    "church-management-software"
   ],
   "skipped": [
     {
