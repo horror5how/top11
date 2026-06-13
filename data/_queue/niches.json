@@ -128,14 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "customer-feedback-tools",
-      "title": "The 11 Best Customer Feedback Tools",
-      "vertical": "Product · Feedback",
-      "audience": "Teams collecting and acting on feedback",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "billing-invoicing-software",
       "title": "The 11 Best Invoicing & Billing Software for Small Business",
       "vertical": "Finance · Billing",
@@ -190,14 +182,6 @@
       "audience": "Small business owners choosing a content management system",
       "candidate_pool_size": 30,
       "priority": 4
-    },
-    {
-      "slug": "video-editing-software-business",
-      "title": "The 11 Best Video Editing Software for Business",
-      "vertical": "Media · Video",
-      "audience": "Marketing teams and creators producing business video content",
-      "candidate_pool_size": 25,
-      "priority": 3
     },
     {
       "slug": "email-finder-tools",
@@ -368,7 +352,9 @@
     "donor-management-software",
     "church-management-software",
     "employee-engagement-software",
-    "background-check-services"
+    "background-check-services",
+    "customer-feedback-tools",
+    "video-editing-software-business"
   ],
   "skipped": [
     {

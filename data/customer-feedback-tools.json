@@ -1,0 +1,826 @@
+{
+  "slug": "customer-feedback-tools",
+  "title": "The 11 Best Customer Feedback Tools",
+  "subtitle": "This ranking identifies the top platforms for collecting, analyzing, and acting on user feedback, focusing on integration and analytical capabilities.",
+  "vertical": "Product · Feedback",
+  "audience": "Teams collecting and acting on feedback",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Product Management",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Feedback Collection Channels (25%), Analysis & Reporting (25%), Integration Ecosystem (20%), User Experience (15%), and Pricing & Scalability (15%)."
+    }
+  ],
+  "answer_capsule": "The best customer feedback tool is Hotjar for its combined quantitative and qualitative insights, followed by Canny for public roadmap integration and Sprig for in-product micro-surveys.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Feedback Collection Channels",
+        "weight": 25,
+        "description": "Evaluates the variety and effectiveness of methods for gathering feedback, including surveys, in-app widgets, NPS/CSAT/CES, and email."
+      },
+      {
+        "name": "Analysis & Reporting",
+        "weight": 25,
+        "description": "Assesses the quality of tools for interpreting data, such as dashboards, text and sentiment analysis, segmentation, and reporting features."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 20,
+        "description": "Measures the ability to connect with key operational tools like Jira, Slack, Salesforce, and Segment to create actionable workflows."
+      },
+      {
+        "name": "User Experience & Ease of Use",
+        "weight": 15,
+        "description": "Scores the intuitiveness of the interface for setting up campaigns, managing feedback, and generating insights without specialized training."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 15,
+        "description": "Rates the fairness of the pricing model, availability of a free or trial tier, and ability to scale cost-effectively with user growth."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "Product Management",
+    "User Research",
+    "CX",
+    "Customer Support"
+  ],
+  "problem_tags": [
+    "low user engagement",
+    "high churn rate",
+    "feature prioritization",
+    "bug reporting",
+    "product-market fit"
+  ],
+  "query_intents": [
+    "best feedback software",
+    "user feedback tools",
+    "NPS survey tool",
+    "in-app feedback widget",
+    "customer feedback analysis"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "understanding user behavior",
+        "collecting visual feedback",
+        "running NPS surveys"
+      ],
+      "personas": [
+        "Product Managers",
+        "UX Designers",
+        "Marketers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "managing feature requests",
+        "building a public roadmap",
+        "closing the feedback loop"
+      ],
+      "personas": [
+        "Product Managers",
+        "Community Managers"
+      ]
+    },
+    "3": {
+      "solves": [
+        "collecting contextual in-product feedback",
+        "AI-powered text analysis",
+        "concept testing"
+      ],
+      "personas": [
+        "Product Managers",
+        "User Researchers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.16,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What are the main types of customer feedback tools?",
+      "a": "Customer feedback tools fall into several categories. Survey tools (Survicate, Delighted) focus on structured questionnaires. User behavior tools (Hotjar) combine surveys with analytics like heatmaps. Feature request platforms (Canny) manage and prioritize ideas. User research platforms (UserTesting) provide deep qualitative video feedback. Finally, repositories (Dovetail) help synthesize feedback from all sources."
+    },
+    {
+      "q": "How do you integrate feedback into your product workflow?",
+      "a": "Effective integration turns feedback into action. First, centralize feedback from all channels into one system. Next, use integrations with tools like Jira or Asana to turn specific feedback points into development tickets. Finally, use tools like Canny to communicate progress back to users on a public roadmap, closing the loop."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary goal: are you trying to measure satisfaction (NPS/CSAT), prioritize features, or understand user behavior? Your goal dictates the type of tool you need.",
+    "Second, evaluate the integration capabilities. The tool must connect seamlessly with your existing stack (e.g., Slack for notifications, Jira for tickets, Salesforce for CRM data) to be effective.",
+    "Third, consider your user volume and pricing model. Some tools charge per response, while others charge by monthly tracked users (MTUs). Choose a model that aligns with your business economics.",
+    "Finally, assess the analysis features. If you expect high volumes of text feedback, a tool with strong AI-powered theme and sentiment analysis like Sprig will save hundreds of hours."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between customer feedback and user research?",
+      "a": "Customer feedback is typically reactive and collected continuously to gauge sentiment or identify issues (e.g., NPS surveys, bug reports). User research is proactive and involves targeted studies to answer specific questions about user needs and behaviors, often using methods like in-depth interviews or usability tests."
+    },
+    {
+      "q": "How often should I collect customer feedback?",
+      "a": "Feedback collection should be a continuous process, but the method varies. Passive feedback channels like a website widget should be always-on. Active requests like surveys should be event-triggered (e.g., post-purchase, after a support interaction) or sent periodically (e.g., quarterly NPS) to avoid survey fatigue."
+    },
+    {
+      "q": "What is a 'feedback loop' and why is it important?",
+      "a": "A feedback loop is the process of collecting feedback, acting on it, and then communicating the changes back to the customers who provided the input. Closing the loop is critical because it shows users their voice is heard, which builds loyalty and encourages future participation."
+    },
+    {
+      "q": "Can I use free tools for customer feedback?",
+      "a": "Yes, many powerful tools offer free tiers that are excellent for startups or small projects. Hotjar's free plan offers basic heatmaps and surveys, and many survey tools have free versions for a limited number of responses. These are perfect for validating the need before committing to a paid plan."
+    }
+  ],
+  "honest_disclosures": [
+    "Most tools are designed primarily for SaaS and digital products; fewer are optimized for e-commerce or physical goods feedback.",
+    "Pricing models based on Monthly Tracked Users (MTUs) can become prohibitively expensive for B2C companies with large, infrequent user bases.",
+    "The evaluation focuses on English-language analysis capabilities. Support for sentiment and theme analysis in other languages varies significantly between providers."
+  ],
+  "glossary": {
+    "term": "NPS (Net Promoter Score)",
+    "definition": "A customer loyalty metric measured by a single-question survey asking respondents to rate their likelihood of recommending a product or service on a scale of 0-10.",
+    "synonyms": [
+      "Net Promoter System"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Hotjar",
+      "url": "https://www.hotjar.com",
+      "founded": 2014,
+      "hq": "St. Julian's, Malta",
+      "team_size_band": "201-500",
+      "best_for": "Teams that need to connect what users say (feedback, surveys) with what they do (session recordings, heatmaps) in one platform.",
+      "best_for_short": "Combining user behavior and feedback",
+      "pricing_band": "$$ ($0 to $799+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Feedback Collection Channels": 9.5,
+        "Analysis & Reporting": 8.8,
+        "Integration Ecosystem": 9,
+        "User Experience & Ease of Use": 9.5,
+        "Pricing & Scalability": 9.4
+      },
+      "verdict": "Hotjar is the best overall customer feedback tool because it uniquely combines qualitative user behavior data like heatmaps and session recordings with direct feedback collection from surveys and widgets.",
+      "verdict_short": "Connects user behavior analytics with direct feedback collection in a single, easy-to-use platform.",
+      "praise": "Its 'Observe' and 'Ask' products provide a powerful, integrated view of user actions and opinions, all accessible via a generous free-forever plan for small sites.",
+      "praise_short": "Generous free plan combines behavior analytics and surveys.",
+      "criticism": "The analysis tools for open-ended survey responses are less advanced than dedicated AI platforms like Sprig, requiring more manual work to synthesize text feedback.",
+      "criticism_short": "Lacks automated AI analysis for open-text feedback.",
+      "sources_pending": [
+        "Hotjar pricing page",
+        "G2 reviews for Hotjar",
+        "Hotjar product documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 799,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Microsoft Teams",
+        "Jira",
+        "Segment",
+        "Google Analytics",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Canny",
+      "url": "https://canny.io",
+      "founded": 2017,
+      "hq": "Remote",
+      "team_size_band": "11-50",
+      "best_for": "Product teams focused on transparently managing feature requests and closing the loop with users via a public roadmap.",
+      "best_for_short": "Feature requests and public roadmaps",
+      "pricing_band": "$$$ ($400 to $999+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8,
+        "Analysis & Reporting": 8.8,
+        "Integration Ecosystem": 9.5,
+        "User Experience & Ease of Use": 9.3,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Canny excels at closing the feedback loop by connecting feature requests from multiple sources directly to a public-facing product roadmap.",
+      "verdict_short": "The best tool for managing feature requests and communicating product updates via a public roadmap.",
+      "praise": "Its core strength is transparency; users can submit, vote on, and track the status of ideas, which reduces support tickets and builds community trust.",
+      "praise_short": "Excellent user transparency and feedback loop closure.",
+      "criticism": "The platform is highly specialized for feature requests and roadmapping, lacking the general-purpose survey or NPS capabilities of other tools.",
+      "criticism_short": "Not a general-purpose survey or CX tool.",
+      "sources_pending": [
+        "Canny pricing page",
+        "Canny customer stories",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 400,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Slack",
+        "Zendesk",
+        "Intercom",
+        "Salesforce",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 3,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Sprig",
+      "url": "https://sprig.com",
+      "founded": 2019,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Product teams needing to run targeted in-product micro-surveys and quickly analyze open-text responses using AI.",
+      "best_for_short": "AI-powered in-product surveys",
+      "pricing_band": "$$$ ($0 to $1500+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8.9,
+        "Analysis & Reporting": 9.6,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Ease of Use": 9,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Sprig is the top choice for collecting contextual feedback through targeted in-product micro-surveys and analyzing it with a market-leading AI engine.",
+      "verdict_short": "Best for contextual in-product surveys and AI-driven analysis of open-text feedback.",
+      "praise": "Its AI analysis can identify and cluster themes from thousands of open-text responses in minutes, a task that would take days of manual work.",
+      "praise_short": "Powerful AI saves days of manual text analysis.",
+      "criticism": "The pricing model, based on Monthly Tracked Users (MTUs), can become expensive very quickly for B2C products with large user bases.",
+      "criticism_short": "MTU-based pricing can be costly for B2C.",
+      "sources_pending": [
+        "Sprig pricing page",
+        "Sprig AI product tour",
+        "G2 reviews for Sprig"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "Amplitude",
+        "Mixpanel",
+        "Figma",
+        "Jira",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "UserTesting",
+      "url": "https://www.usertesting.com",
+      "founded": 2007,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Research and product teams that require deep qualitative insights through moderated and unmoderated video feedback from a panel of testers.",
+      "best_for_short": "Video-based user feedback",
+      "pricing_band": "$$$$ (Custom enterprise pricing)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Feedback Collection Channels": 9,
+        "Analysis & Reporting": 9.2,
+        "Integration Ecosystem": 8,
+        "User Experience & Ease of Use": 8.5,
+        "Pricing & Scalability": 6.5
+      },
+      "verdict": "UserTesting is the leader for deep qualitative insights, providing a platform to get video feedback from real users as they interact with products, websites, or prototypes.",
+      "verdict_short": "The market leader for moderated and unmoderated video feedback from a global user panel.",
+      "praise": "Access to a diverse, global panel of testers allows teams to get feedback from specific demographics within hours, dramatically speeding up the research cycle.",
+      "praise_short": "Fast access to a global panel of testers.",
+      "criticism": "Its high cost and focus on qualitative research make it a specialized tool, not a replacement for high-volume quantitative feedback platforms.",
+      "criticism_short": "Expensive and not suited for quantitative feedback.",
+      "sources_pending": [
+        "UserTesting platform overview",
+        "Forrester Wave report",
+        "TrustRadius reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Jira",
+        "Slack",
+        "Trello",
+        "Adobe XD",
+        "Figma"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Pendo",
+      "url": "https://www.pendo.io",
+      "founded": 2013,
+      "hq": "Raleigh, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Established product organizations that want a single platform for product analytics, in-app guidance, and feedback management.",
+      "best_for_short": "All-in-one product experience platform",
+      "pricing_band": "$$$$ ($0 to $2000+/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8.5,
+        "Analysis & Reporting": 8.5,
+        "Integration Ecosystem": 9,
+        "User Experience & Ease of Use": 7.5,
+        "Pricing & Scalability": 7.8
+      },
+      "verdict": "Pendo provides a complete product experience suite where feedback is one component alongside powerful product analytics and in-app user guidance tools.",
+      "verdict_short": "An integrated suite for analytics, in-app guides, and feedback, best for mature product orgs.",
+      "praise": "The ability to link feedback directly to user segments defined by product usage data allows teams to prioritize requests from their most valuable customers.",
+      "praise_short": "Links feedback directly to product usage analytics.",
+      "criticism": "As an all-in-one platform, its feedback-specific features are less specialized than a dedicated tool like Canny, and the platform can be complex to implement.",
+      "criticism_short": "Feedback module is less deep than dedicated tools.",
+      "sources_pending": [
+        "Pendo pricing page",
+        "Pendo Feedback documentation",
+        "Gartner Peer Insights"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Zendesk",
+        "Jira",
+        "Segment",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "GetFeedback",
+      "url": "https://www.getfeedback.com",
+      "founded": 2013,
+      "hq": "San Mateo, USA",
+      "team_size_band": "51-200",
+      "best_for": "Salesforce-centric organizations looking to build sophisticated customer experience (CX) programs by mapping feedback to CRM data.",
+      "best_for_short": "Salesforce-integrated CX programs",
+      "pricing_band": "$$$$ (Custom pricing)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8.3,
+        "Analysis & Reporting": 8,
+        "Integration Ecosystem": 9.2,
+        "User Experience & Ease of Use": 8,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "GetFeedback (from Momentive) is the best choice for teams that need to deeply integrate customer feedback with their Salesforce CRM data to drive CX initiatives.",
+      "verdict_short": "A CX platform with best-in-class, native integration with Salesforce for mapping feedback to accounts.",
+      "praise": "Its native Salesforce integration is unmatched, allowing for automated survey triggers based on any CRM event and writing feedback data directly to customer records.",
+      "praise_short": "Unmatched native Salesforce integration for automated workflows.",
+      "criticism": "The platform is expensive and its value is significantly diminished for companies that do not use Salesforce as their primary CRM.",
+      "criticism_short": "Expensive and less valuable without Salesforce.",
+      "sources_pending": [
+        "GetFeedback product page",
+        "Salesforce AppExchange listing",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Slack",
+        "Jira",
+        "Microsoft Teams"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 15,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Delighted",
+      "url": "https://delighted.com",
+      "founded": 2013,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "51-200",
+      "best_for": "Teams that need a simple, fast, and elegant way to run NPS, CSAT, and CES surveys across multiple channels like email, web, and SMS.",
+      "best_for_short": "Simple, multi-channel NPS/CSAT surveys",
+      "pricing_band": "$$ ($0 to $224+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8.8,
+        "Analysis & Reporting": 7.5,
+        "Integration Ecosystem": 7.8,
+        "User Experience & Ease of Use": 9,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Delighted, now part of Qualtrics, provides the simplest and fastest way to set up and deploy standardized CX surveys (NPS, CSAT, CES) across multiple channels.",
+      "verdict_short": "The fastest way to deploy beautiful NPS, CSAT, and CES surveys via email, web, or SMS.",
+      "praise": "The entire platform is built for speed and simplicity, enabling a user to sign up and send their first survey in under 5 minutes.",
+      "praise_short": "Can send the first survey in under 5 minutes.",
+      "criticism": "It is intentionally limited to a few core survey types and lacks the advanced survey logic and customization options of its parent company, Qualtrics.",
+      "criticism_short": "Lacks advanced survey logic and customization.",
+      "sources_pending": [
+        "Delighted pricing page",
+        "Delighted help center",
+        "PCMag review"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 224,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Slack",
+        "Zendesk",
+        "Salesforce",
+        "Shopify",
+        "Stripe"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Survicate",
+      "url": "https://survicate.com",
+      "founded": 2013,
+      "hq": "Warsaw, Poland",
+      "team_size_band": "51-200",
+      "best_for": "Marketing and product teams looking for a versatile survey tool that works across websites, emails, and mobile apps with strong marketing automation integrations.",
+      "best_for_short": "Versatile multi-channel survey tool",
+      "pricing_band": "$$ ($0 to $299+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8.5,
+        "Analysis & Reporting": 7,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Ease of Use": 8,
+        "Pricing & Scalability": 7.5
+      },
+      "verdict": "Survicate is a strong all-around survey tool that offers flexible distribution across web, email, and mobile, with a particular strength in native integrations with marketing automation platforms.",
+      "verdict_short": "A flexible survey tool with excellent integrations for marketing automation platforms like HubSpot.",
+      "praise": "It offers over 125 survey templates and deep, native integrations with tools like HubSpot and Intercom, making it easy to trigger surveys from marketing activities.",
+      "praise_short": "125+ templates and deep marketing automation integrations.",
+      "criticism": "The reporting and analytics dashboards are functional but less powerful than tools that offer AI analysis or advanced data visualization.",
+      "criticism_short": "Reporting dashboards are more basic than competitors.",
+      "sources_pending": [
+        "Survicate pricing page",
+        "Survicate integrations list",
+        "Capterra reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Intercom",
+        "ActiveCampaign",
+        "Slack",
+        "Google Analytics"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Usersnap",
+      "url": "https://usersnap.com",
+      "founded": 2013,
+      "hq": "Linz, Austria",
+      "team_size_band": "11-50",
+      "best_for": "Development, QA, and product teams that need to collect visual feedback and bug reports with annotated screenshots and technical metadata.",
+      "best_for_short": "Visual feedback and bug reporting",
+      "pricing_band": "$$ ($69 to $949+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Feedback Collection Channels": 8,
+        "Analysis & Reporting": 6.5,
+        "Integration Ecosystem": 8.2,
+        "User Experience & Ease of Use": 8.5,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Usersnap is the best tool for collecting actionable, visual feedback, allowing users to submit annotated screenshots and screen recordings directly from a website or application.",
+      "verdict_short": "Excels at collecting visual bug reports and feedback with screen annotations and technical data.",
+      "praise": "Every feedback item automatically includes critical context for developers, such as browser version, OS, and console logs, which can reduce bug resolution time by up to 40%.",
+      "praise_short": "Auto-captures technical data, speeding up bug fixes.",
+      "criticism": "It is highly focused on visual feedback and bug tracking, making it less suitable for quantitative feedback collection like NPS or general satisfaction surveys.",
+      "criticism_short": "Not designed for quantitative or NPS surveys.",
+      "sources_pending": [
+        "Usersnap pricing page",
+        "Usersnap customer case studies",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 69,
+      "price_max": 949,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Azure DevOps",
+        "Slack",
+        "Asana",
+        "Trello",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Productboard",
+      "url": "https://www.productboard.com",
+      "founded": 2014,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Product managers who need to consolidate feedback from many sources to inform prioritization decisions and build their roadmap.",
+      "best_for_short": "Consolidating feedback for roadmapping",
+      "pricing_band": "$$$ ($20 to $100/user/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Feedback Collection Channels": 6,
+        "Analysis & Reporting": 8,
+        "Integration Ecosystem": 8.5,
+        "User Experience & Ease of Use": 7.5,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Productboard excels as a product management system that centralizes feedback from various channels, linking customer insights directly to feature ideas and roadmap priorities.",
+      "verdict_short": "A product management platform that links multi-source feedback directly to roadmap features.",
+      "praise": "Its greatest strength is the 'Insights' inbox, which aggregates feedback from email, Intercom, Zendesk, and more into a single, searchable repository for product managers.",
+      "praise_short": "Centralizes feedback from many sources into one inbox.",
+      "criticism": "Productboard is not a primary feedback collection tool; it relies on other systems to gather the feedback and can be a complex and expensive system to adopt.",
+      "criticism_short": "Relies on other tools for feedback collection.",
+      "sources_pending": [
+        "Productboard pricing page",
+        "Productboard feature overview",
+        "G2 reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Jira",
+        "Zendesk",
+        "Intercom",
+        "Salesforce",
+        "Slack",
+        "GitHub"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 10,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Dovetail",
+      "url": "https://dovetailapp.com",
+      "founded": 2017,
+      "hq": "Sydney, Australia",
+      "team_size_band": "51-200",
+      "best_for": "User research and product teams that need a central place to analyze, synthesize, and store qualitative data from any source.",
+      "best_for_short": "Synthesizing research from all sources",
+      "pricing_band": "$$ ($0 to $1250+/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Feedback Collection Channels": 5,
+        "Analysis & Reporting": 9.4,
+        "Integration Ecosystem": 7,
+        "User Experience & Ease of Use": 8.5,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "Dovetail is a powerful wildcard because it focuses entirely on synthesizing existing feedback from any source, rather than collecting new feedback itself.",
+      "verdict_short": "A research repository for analyzing and finding insights in qualitative data from any source.",
+      "praise": "It serves as a central research hub, allowing teams to tag, cluster, and find insights from user interviews, support tickets, and survey data, creating a single source of truth for user needs.",
+      "praise_short": "Creates a single, searchable source of truth for user research.",
+      "criticism": "It requires a mature feedback process to be effective, as you must import your own data; it offers no native tools for running surveys or collecting feedback.",
+      "criticism_short": "Does not collect feedback, only analyzes it.",
+      "sources_pending": [
+        "Dovetail pricing page",
+        "Dovetail product tour",
+        "G2 reviews for Dovetail"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 1250,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zoom",
+        "Google Drive",
+        "Zapier",
+        "Jira",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
