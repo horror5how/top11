@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "membership-software",
-      "title": "The 11 Best Membership Site Software",
-      "vertical": "Creators · Membership",
-      "audience": "Creators running paid membership communities",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
-      "slug": "nonprofit-crm",
-      "title": "The 11 Best Nonprofit CRMs",
-      "vertical": "Nonprofit · CRM",
-      "audience": "Nonprofits managing donors and fundraising",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "donor-management-software",
       "title": "The 11 Best Donor Management Software",
       "vertical": "Nonprofit · Fundraising",
@@ -410,7 +394,9 @@
     "shipping-software-ecommerce",
     "session-replay-tools",
     "ab-testing-tools",
-    "webinar-platforms"
+    "webinar-platforms",
+    "membership-software",
+    "nonprofit-crm"
   ],
   "skipped": [
     {

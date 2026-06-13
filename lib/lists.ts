@@ -102,6 +102,8 @@ import shippingSoftwareEcommerce from "@/data/shipping-software-ecommerce.json";
 import sessionReplayTools from "@/data/session-replay-tools.json";
 import abTestingTools from "@/data/ab-testing-tools.json";
 import webinarPlatforms from "@/data/webinar-platforms.json";
+import membershipSoftware from "@/data/membership-software.json";
+import nonprofitCrm from "@/data/nonprofit-crm.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

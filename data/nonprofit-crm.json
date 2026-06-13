@@ -1,0 +1,822 @@
+{
+  "slug": "nonprofit-crm",
+  "title": "The 11 Best Nonprofit CRMs",
+  "subtitle": "A ranked analysis of the top platforms for managing donor relationships, fundraising campaigns, and operational reporting.",
+  "vertical": "Nonprofit · CRM",
+  "audience": "Nonprofits managing donors and fundraising",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "CRM",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Fundraising & Donor Management (30%), Ease of Use (25%), Pricing & Value (20%), Integrations (15%), and Support (10%)."
+    }
+  ],
+  "answer_capsule": "The best nonprofit CRM is Bloomerang for its focus on donor retention and ease of use, followed by the powerful Salesforce Nonprofit Cloud and the balanced DonorPerfect.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Fundraising & Donor Management",
+        "weight": 30,
+        "description": "Core features for donation processing, donor segmentation, communication tracking, grant management, and campaign reporting."
+      },
+      {
+        "name": "Ease of Use & Training",
+        "weight": 25,
+        "description": "Intuitive user interface, quality of onboarding, and availability of training resources for staff and volunteers with varying technical skills."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 20,
+        "description": "Overall cost relative to features provided, including subscription fees, transaction percentages, and hidden costs. Transparency is key."
+      },
+      {
+        "name": "Integrations & Ecosystem",
+        "weight": 15,
+        "description": "Ability to connect with essential third-party tools like accounting software (e.g., QuickBooks), email marketing, and payment gateways."
+      },
+      {
+        "name": "Support & Community",
+        "weight": 10,
+        "description": "Responsiveness and quality of customer support channels (phone, email, chat) and the strength of the user community for peer advice."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Small Nonprofits",
+    "Mid-Sized Nonprofits",
+    "Large Nonprofits",
+    "Fundraising Software",
+    "Donor Management"
+  ],
+  "problem_tags": [
+    "Donor Retention",
+    "Fundraising Campaigns",
+    "Volunteer Management",
+    "Grant Tracking",
+    "Data Silos"
+  ],
+  "query_intents": [
+    "best crm for nonprofits",
+    "nonprofit donor database",
+    "free nonprofit crm",
+    "bloomerang vs salesforce",
+    "raiser's edge alternative"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Donor retention",
+        "Simplified fundraising"
+      ],
+      "personas": [
+        "Small to mid-sized nonprofits",
+        "Development directors"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Complex data models",
+        "Scalable operations"
+      ],
+      "personas": [
+        "Large national/international NGOs",
+        "Enterprise nonprofits"
+      ]
+    },
+    "3": {
+      "solves": [
+        "All-in-one fundraising",
+        "Integrated payments"
+      ],
+      "personas": [
+        "Growing nonprofits",
+        "Fundraising managers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2.3
+  },
+  "guide": [
+    {
+      "q": "How to evaluate a nonprofit CRM?",
+      "a": "First, define your core needs: are you focused on individual donors, grants, or events? Then, calculate the total cost of ownership, including subscription, payment processing fees, and any paid training. Finally, request a live demo with your specific use cases and have at least two team members evaluate its ease of use."
+    },
+    {
+      "q": "What's the biggest mistake nonprofits make when choosing a CRM?",
+      "a": "The most common mistake is buying a system that is too complex for their needs. A powerful CRM with dozens of features is wasted if your team only uses 10% of them and finds the interface intimidating. Prioritize usability for your actual daily workflows over a long list of theoretical capabilities."
+    }
+  ],
+  "how_to_choose": [
+    "Map your current fundraising process and identify key bottlenecks the CRM must solve.",
+    "Set a realistic budget that includes software fees, payment processing, and potential implementation support.",
+    "Shortlist 2-3 vendors and schedule demos tailored to your specific campaign or reporting needs.",
+    "Check references from nonprofits of a similar size and mission.",
+    "Confirm the CRM integrates with your existing accounting software, email client, and website."
+  ],
+  "faqs": [
+    {
+      "q": "What is a nonprofit CRM?",
+      "a": "A nonprofit CRM (Customer Relationship Management) is a software system designed specifically for charitable organizations to manage relationships with donors, volunteers, and other constituents. It tracks donations, communications, event attendance, and campaign engagement to help nonprofits fundraise more effectively and build stronger communities."
+    },
+    {
+      "q": "How much does a nonprofit CRM cost?",
+      "a": "Costs vary widely, from free platforms that charge transaction fees to enterprise systems costing over $20,000 per year. A typical small to mid-sized nonprofit can expect to pay between $100 and $500 per month. Pricing is usually based on the number of contacts in your database and the feature set you require."
+    },
+    {
+      "q": "Are there any truly free CRMs for nonprofits?",
+      "a": "Yes, some providers like Givebutter and Zeffy offer free platforms. These are typically funded by optional tips from donors during checkout or by charging for advanced features. While the core CRM is free, you should always factor in standard credit card processing fees, which are unavoidable."
+    },
+    {
+      "q": "What is the main difference between a nonprofit CRM and a standard one like HubSpot?",
+      "a": "The main difference is the data model and terminology. Nonprofit CRMs are built around households, donations, pledges, and grants, whereas for-profit CRMs are built around leads, deals, and companies. A nonprofit CRM has fundraising-specific features like donation pages, peer-to-peer campaigns, and donor retention reporting out of the box."
+    }
+  ],
+  "honest_disclosures": [
+    "Most candidates are US-based with strong North American support; international nonprofits should verify region-specific features and compliance (e.g., GDPR handling, local payment gateways).",
+    "Pricing models based on contact count can become expensive quickly for organizations with large mailing lists but low donor conversion."
+  ],
+  "glossary": {
+    "term": "CRM",
+    "definition": "Customer Relationship Management software. In the nonprofit context, it's a system for managing interactions with donors, volunteers, and beneficiaries.",
+    "synonyms": [
+      "Donor Database",
+      "Constituent Relationship Management"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Bloomerang",
+      "url": "https://bloomerang.com",
+      "founded": 2012,
+      "hq": "Indianapolis, USA",
+      "team_size_band": "201-500",
+      "best_for": "Small to mid-sized nonprofits prioritizing donor retention and ease of use.",
+      "best_for_short": "Donor retention and usability",
+      "pricing_band": "$$ ($119 to $599/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 9,
+        "Ease of Use & Training": 9.8,
+        "Pricing & Value": 8.8,
+        "Integrations & Ecosystem": 8.9,
+        "Support & Community": 9.5
+      },
+      "verdict": "Bloomerang earns the top spot because its entire platform is built around a clear, actionable goal: improving donor retention. Its intuitive interface and engagement meters make it the most user-friendly option for teams without a dedicated IT staff.",
+      "verdict_short": "The best for donor retention and ease of use, making advanced fundraising simple for non-technical teams.",
+      "praise": "The interactive dashboard, with its donor engagement meter and retention wheel, provides an at-a-glance health check of your fundraising efforts that no competitor matches for clarity.",
+      "praise_short": "Unique, actionable donor retention dashboard.",
+      "criticism": "While excellent for individual giving, its built-in tools for complex grant management or multi-step event ticketing are less developed than specialized platforms.",
+      "criticism_short": "Lacks deep grant and event management features.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 119,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "Stripe",
+        "PayPal",
+        "DonorSearch",
+        "Fundraise Up"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Salesforce Nonprofit Cloud",
+      "url": "https://www.salesforce.org/products/nonprofit-cloud/",
+      "founded": 1999,
+      "hq": "San Francisco, USA",
+      "team_size_band": "10,001+",
+      "best_for": "Large or complex nonprofits that require a highly customizable, scalable platform and have the technical resources to manage it.",
+      "best_for_short": "Ultimate customization and scale",
+      "pricing_band": "$$$ ($60 to $132/user/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 9.8,
+        "Ease of Use & Training": 7.5,
+        "Pricing & Value": 8.5,
+        "Integrations & Ecosystem": 9.9,
+        "Support & Community": 9
+      },
+      "verdict": "Salesforce Nonprofit Cloud is the most powerful and extensible CRM on the market, offering unparalleled customization for unique workflows. Its strength lies in the vast AppExchange ecosystem and its ability to manage fundraising, programs, and marketing in a single, unified data model.",
+      "verdict_short": "The most powerful and customizable platform, ideal for large organizations with technical staff.",
+      "praise": "The AppExchange provides over 1,000 nonprofit-specific apps, allowing organizations to add functions like volunteer management or grant tracking that are deeply integrated into the core platform.",
+      "praise_short": "Unmatched extensibility via the AppExchange.",
+      "criticism": "The platform's power comes at the cost of complexity; implementation often requires a certified consultant, and total cost of ownership can be 3-5x the license fee.",
+      "criticism_short": "High complexity and total cost of ownership.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "salesforce trailblazer community"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 720,
+      "price_max": 132,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Virtually anything via AppExchange",
+        "QuickBooks",
+        "DocuSign",
+        "Marketing Cloud",
+        "Classy"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA (with shield)"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 3,
+      "name": "DonorPerfect",
+      "url": "https://www.donorperfect.com",
+      "founded": 1981,
+      "hq": "Fort Washington, USA",
+      "team_size_band": "201-500",
+      "best_for": "Growing nonprofits looking for a balanced, all-in-one solution with integrated payment processing and strong reporting.",
+      "best_for_short": "Balanced all-in-one fundraising",
+      "pricing_band": "$$ ($99 to $799/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 9,
+        "Ease of Use & Training": 8.5,
+        "Pricing & Value": 9,
+        "Integrations & Ecosystem": 8.5,
+        "Support & Community": 9
+      },
+      "verdict": "DonorPerfect provides a reliable, feature-rich platform that strikes an excellent balance between capability and cost. It's a workhorse for fundraising departments, offering robust reporting and integrated payment services that simplify donation management from end to end.",
+      "verdict_short": "A reliable, balanced platform with strong reporting and integrated payment processing.",
+      "praise": "Its library of over 100 pre-built report templates allows fundraisers to quickly analyze campaign performance, donor trends, and financial data without needing a data analyst.",
+      "praise_short": "Excellent pre-built reporting capabilities.",
+      "criticism": "The user interface, while functional, feels dated compared to more modern platforms, which can result in a steeper learning curve for some users.",
+      "criticism_short": "User interface feels dated.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "trustradius page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 799,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 199,
+      "integrations": [
+        "QuickBooks",
+        "Constant Contact",
+        "DonorSearch",
+        "Mailchimp",
+        "ReadySetAuction"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Australia"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 4,
+      "name": "Neon CRM",
+      "url": "https://www.neoncrm.com",
+      "founded": 2004,
+      "hq": "Chicago, USA",
+      "team_size_band": "201-500",
+      "best_for": "Mid-sized nonprofits that need a unified system for fundraising, marketing, event management, and website integration.",
+      "best_for_short": "Unified fundraising and marketing",
+      "pricing_band": "$$ ($99 to $399/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 8.8,
+        "Ease of Use & Training": 8.5,
+        "Pricing & Value": 8.7,
+        "Integrations & Ecosystem": 8.2,
+        "Support & Community": 8.8
+      },
+      "verdict": "Neon CRM stands out for its comprehensive suite of tools that extends beyond fundraising to include email marketing, volunteer management, and event registration. This all-in-one approach helps reduce the number of systems a nonprofit has to manage, creating a single source of truth for constituent data.",
+      "verdict_short": "A strong all-in-one choice for managing fundraising, events, and marketing in one place.",
+      "praise": "The workflow automation tool allows for creating multi-step communication plans, such as a welcome series for new donors, which saves significant staff time.",
+      "praise_short": "Effective workflow automation for communications.",
+      "criticism": "While it covers many areas, the depth in certain modules, like peer-to-peer fundraising, may not be as extensive as best-in-class point solutions.",
+      "criticism_short": "Some modules are less deep than specialized tools.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "software advice page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 500,
+      "integrations": [
+        "QuickBooks",
+        "Mailchimp",
+        "Stripe",
+        "Constant Contact",
+        "Eventbrite"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 5,
+      "name": "Little Green Light",
+      "url": "https://www.littlegreenlight.com",
+      "founded": 2007,
+      "hq": "Arlington, USA",
+      "team_size_band": "11-50",
+      "best_for": "Small and emerging nonprofits seeking a powerful, no-frills CRM at an exceptionally affordable price point.",
+      "best_for_short": "Best value for small nonprofits",
+      "pricing_band": "$ ($45 to $135/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 8.2,
+        "Ease of Use & Training": 8.8,
+        "Pricing & Value": 9.9,
+        "Integrations & Ecosystem": 7.5,
+        "Support & Community": 8
+      },
+      "verdict": "Little Green Light is the undisputed value leader in the nonprofit CRM space, offering core fundraising and donor management features for a fraction of the cost of its competitors. Its straightforward pricing, based only on contact count with all features included, is a major advantage for budget-conscious organizations.",
+      "verdict_short": "The best value on the market, offering powerful core CRM features at a very low price.",
+      "praise": "For a monthly fee starting at $45, it includes features like mail merge and constituent mapping that often cost hundreds in other systems.",
+      "praise_short": "Incredible feature set for the price.",
+      "criticism": "The platform relies heavily on third-party integrations for functions like email marketing and advanced forms, which can add complexity and cost.",
+      "criticism_short": "Relies on third-party tools for key functions.",
+      "sources_pending": [
+        "vendor docs",
+        "capterra page",
+        "lgl user forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 45,
+      "price_max": 135,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Mailchimp",
+        "PayPal",
+        "Stripe",
+        "QuickBooks",
+        "Wufoo"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America",
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 6,
+      "name": "Virtuous",
+      "url": "https://www.virtuous.org",
+      "founded": 2014,
+      "hq": "Phoenix, USA",
+      "team_size_band": "51-200",
+      "best_for": "Forward-thinking, mid-to-large nonprofits focused on personalized, multi-channel donor journeys.",
+      "best_for_short": "Personalized donor journeys",
+      "pricing_band": "$$$ (Starts ~$400/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 9,
+        "Ease of Use & Training": 8.5,
+        "Pricing & Value": 7,
+        "Integrations & Ecosystem": 8.5,
+        "Support & Community": 8
+      },
+      "verdict": "Virtuous is designed around the concept of 'responsive fundraising', using automation and data insights to help nonprofits build more personal relationships with donors at scale. Its modern interface and powerful marketing automation tools set it apart for organizations ready to move beyond basic CRM.",
+      "verdict_short": "A modern CRM with strong marketing automation for creating personalized donor experiences.",
+      "praise": "The automation builder makes it easy to create complex donor journeys, such as automatically sending a personalized thank-you text 24 hours after a first-time online gift.",
+      "praise_short": "Powerful and intuitive automation builder.",
+      "criticism": "It is one of the more expensive options in its category, and its advanced features may be overkill for smaller nonprofits with simpler fundraising needs.",
+      "criticism_short": "Higher price point and potential for over-complexity.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "virtuous user community"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 400,
+      "price_max": 400,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1000,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "Mailchimp",
+        "DonorSearch",
+        "Shopify"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 3,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "Blackbaud Raiser's Edge NXT",
+      "url": "https://www.blackbaud.com/products/raisers-edge-nxt",
+      "founded": 1981,
+      "hq": "Charleston, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Large, established institutions like universities and hospitals with complex fundraising structures and a need for enterprise-level tools.",
+      "best_for_short": "Enterprise-grade fundraising",
+      "pricing_band": "$$$$ (Starts ~$10,000/yr)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 9.5,
+        "Ease of Use & Training": 7,
+        "Pricing & Value": 6.5,
+        "Integrations & Ecosystem": 9,
+        "Support & Community": 8.5
+      },
+      "verdict": "Raiser's Edge NXT is the long-standing industry incumbent for a reason: it offers one of the most powerful and deep feature sets for managing complex fundraising operations, from major gifts to planned giving. The modern 'NXT' web interface is a significant improvement over its database-centric predecessor.",
+      "verdict_short": "The enterprise standard for complex fundraising, especially in higher education and healthcare.",
+      "praise": "Its wealth analytics and prospect research tools are deeply integrated, providing unmatched insight for identifying and cultivating major donors directly within the CRM.",
+      "praise_short": "Superior major gift and prospect research tools.",
+      "criticism": "The platform remains one of the most expensive on the market, and despite the NXT interface, some core functions still require using the older, less intuitive database view.",
+      "criticism_short": "Very expensive; some functions use an old interface.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "blackbaud community"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 10000,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Blackbaud Financial Edge NXT",
+        "Microsoft Office",
+        "Classy",
+        "JustGiving"
+      ],
+      "compliance": [
+        "PCI",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Keela",
+      "url": "https://www.keela.co",
+      "founded": 2015,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Small to mid-sized nonprofits wanting an easy-to-use platform with strong, integrated email marketing and automation tools.",
+      "best_for_short": "Integrated email marketing",
+      "pricing_band": "$$ ($149 to $649/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 7.5,
+        "Ease of Use & Training": 8.5,
+        "Pricing & Value": 8,
+        "Integrations & Ecosystem": 7,
+        "Support & Community": 8
+      },
+      "verdict": "Keela excels by combining core CRM functionality with a native, powerful email marketing suite, eliminating the need for a separate tool like Mailchimp. Its clean interface and focus on smart, data-driven recommendations make it an accessible choice for organizations looking to improve their digital fundraising.",
+      "verdict_short": "A user-friendly CRM with excellent built-in email marketing and smart recommendations.",
+      "praise": "The 'Keela Intelligence' feature automatically suggests which donors to contact next based on engagement data, helping fundraisers prioritize their outreach effectively.",
+      "praise_short": "Smart tools suggest donor outreach priorities.",
+      "criticism": "The platform's integration options are more limited than competitors, which could be a challenge for nonprofits with established workflows in other systems.",
+      "criticism_short": "Fewer third-party integration options.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 649,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "QuickBooks",
+        "Stripe",
+        "PayPal",
+        "Eventbrite",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CASL"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Funraise",
+      "url": "https://www.funraise.org",
+      "founded": 2015,
+      "hq": "Long Beach, USA",
+      "team_size_band": "51-200",
+      "best_for": "Digitally-focused nonprofits that prioritize a modern, mobile-first online donation experience for their supporters.",
+      "best_for_short": "Modern online fundraising tools",
+      "pricing_band": "$$ (Free plan + custom pricing)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 8,
+        "Ease of Use & Training": 8,
+        "Pricing & Value": 7.5,
+        "Integrations & Ecosystem": 7,
+        "Support & Community": 7
+      },
+      "verdict": "Funraise is built for the modern web, offering best-in-class donation forms, peer-to-peer campaign sites, and text-to-give features. While it includes a solid donor management backend, its primary strength is empowering nonprofits to raise more money through superior online giving tools.",
+      "verdict_short": "Excels at providing modern, high-converting online and mobile donation experiences.",
+      "praise": "The platform's donation forms are highly customizable and include features like Apple Pay and tribute giving, which have been shown to increase conversion rates by over 15%.",
+      "praise_short": "High-converting donation forms with Apple Pay.",
+      "criticism": "The back-end CRM and reporting capabilities are less robust than more established players, making it better for front-end fundraising than for complex data analysis.",
+      "criticism_short": "Back-end CRM features are less developed.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Mailchimp",
+        "Double the Donation",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 200
+    },
+    {
+      "rank": 10,
+      "name": "CharityEngine",
+      "url": "https://charityengine.net",
+      "founded": 2005,
+      "hq": "McLean, USA",
+      "team_size_band": "51-200",
+      "best_for": "Large-scale nonprofits with sophisticated multi-channel fundraising, particularly those using direct mail and advocacy campaigns.",
+      "best_for_short": "Multi-channel enterprise fundraising",
+      "pricing_band": "$$$$ (Starts ~$500/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 8.5,
+        "Ease of Use & Training": 6.5,
+        "Pricing & Value": 6,
+        "Integrations & Ecosystem": 7.5,
+        "Support & Community": 7.5
+      },
+      "verdict": "CharityEngine offers a true all-in-one platform for enterprise nonprofits, uniquely combining online giving, direct mail management, advocacy tools, and event features in a single system. Its strength is in providing a unified view of constituents who engage across many different channels.",
+      "verdict_short": "An all-in-one platform for large nonprofits managing complex online, direct mail, and advocacy campaigns.",
+      "praise": "The native direct mail tools, which allow for complex segmentation and integration with mail houses, are a rare and valuable feature for organizations that rely on mail appeals.",
+      "praise_short": "Strong, integrated direct mail management tools.",
+      "criticism": "The platform is powerful but can be complex and less intuitive than more modern systems, and the pricing structure puts it out of reach for most small to mid-sized organizations.",
+      "criticism_short": "Complex interface and high price point.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "software advice page"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "QuickBooks",
+        "FedEx",
+        "Stripe",
+        "Authorize.net",
+        "Microsoft Dynamics"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 90,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Givebutter",
+      "url": "https://givebutter.com",
+      "founded": 2016,
+      "hq": "Washington, D.C., USA",
+      "team_size_band": "51-200",
+      "best_for": "New and small nonprofits that need a completely free, modern fundraising platform and are willing to grow with a newer CRM.",
+      "best_for_short": "Free fundraising-first CRM",
+      "pricing_band": "$ (Free)",
+      "score_out_of_94": 6.9,
+      "score_breakdown": {
+        "Fundraising & Donor Management": 7,
+        "Ease of Use & Training": 8,
+        "Pricing & Value": 9.5,
+        "Integrations & Ecosystem": 5,
+        "Support & Community": 6
+      },
+      "verdict": "Givebutter is a wildcard because it flips the traditional CRM model on its head, offering a full suite of fundraising tools and a donor database for free, supported by optional donor tips. Originally a fundraising platform, its rapid expansion into a full CRM makes it a disruptive and compelling option for budget-strapped organizations.",
+      "verdict_short": "A disruptive, free platform that combines modern fundraising tools with a growing CRM.",
+      "praise": "It provides a completely free platform that includes donation forms, event ticketing, and auction tools, a value proposition no other provider on this list can match.",
+      "praise_short": "Genuinely free fundraising and CRM platform.",
+      "criticism": "As a newer entrant to the CRM space, its donor management features, particularly for segmentation and reporting, are not yet as mature as established competitors.",
+      "criticism_short": "CRM reporting and segmentation are still basic.",
+      "sources_pending": [
+        "vendor docs",
+        "g2 page",
+        "capterra page"
+      ],
+      "risk_signals": {
+        "level": "low",
+        "checked": "2026-06-13",
+        "summary": "Relatively new entrant in the CRM space; long-term feature roadmap and support structure are still developing.",
+        "signals": [
+          "Newer company with a rapidly evolving product."
+        ]
+      },
+      "price_min": 0,
+      "price_max": 0,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "Double the Donation"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    }
+  ]
+}

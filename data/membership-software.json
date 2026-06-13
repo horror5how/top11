@@ -1,0 +1,814 @@
+{
+  "slug": "membership-software",
+  "title": "The 11 Best Membership Site Software",
+  "subtitle": "A ranked list of platforms for creators to build, manage, and grow a paid membership community without requiring deep technical skill.",
+  "vertical": "Creators · Membership",
+  "audience": "Creators running paid membership communities",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Software",
+  "subsector": "Creator Platforms",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Creator Tooling (25%), Community Engagement (25%), Monetization (20%), Integrations (15%), and Ease of Use (15%)."
+    }
+  ],
+  "answer_capsule": "The best membership site software is Mighty Networks, followed by Circle.so and Kajabi.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Creator Tooling & Content Management",
+        "weight": 25,
+        "description": "Evaluates the platform's native ability to create, host, and organize diverse content types like courses, articles, and videos."
+      },
+      {
+        "name": "Community Engagement Features",
+        "weight": 25,
+        "description": "Scores the quality and depth of tools for member interaction, including forums, direct messaging, live events, and member directories."
+      },
+      {
+        "name": "Monetization & Payments",
+        "weight": 20,
+        "description": "Assesses the flexibility of payment models (tiers, annual/monthly, trials) and the number of supported payment gateways."
+      },
+      {
+        "name": "Integrations & Extensibility",
+        "weight": 15,
+        "description": "Measures the ability to connect with third-party tools like email marketing services, analytics platforms, and automation engines (e.g., Zapier)."
+      },
+      {
+        "name": "Ease of Use & Onboarding",
+        "weight": 15,
+        "description": "Rates the user-friendliness of the admin dashboard and the speed at which a non-technical creator can launch a functional site."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Membership Platforms",
+    "Community Software",
+    "Creator Economy",
+    "Online Courses"
+  ],
+  "problem_tags": [
+    "Recurring Revenue",
+    "Audience Engagement",
+    "Content Monetization",
+    "Community Building"
+  ],
+  "query_intents": [
+    "best membership platform",
+    "Mighty Networks vs Circle",
+    "Kajabi pricing",
+    "how to create a membership site"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Building an integrated community and content hub",
+        "Reducing reliance on multiple plugins"
+      ],
+      "personas": [
+        "Community-first creators",
+        "Brand builders"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Creating a premium, modern community space",
+        "Integrating community into an existing product"
+      ],
+      "personas": [
+        "Established creators",
+        "Coaches and consultants"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Monetizing expertise through courses and memberships",
+        "Automating marketing and sales funnels"
+      ],
+      "personas": [
+        "Course creators",
+        "Infopreneurs"
+      ]
+    },
+    "4": {
+      "solves": [
+        "Adding powerful membership features to a WordPress site",
+        "Maintaining full control over site data and design"
+      ],
+      "personas": [
+        "WordPress power users",
+        "Developers"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.15,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What's the main difference between all-in-one platforms and WordPress plugins?",
+      "a": "All-in-one platforms like Mighty Networks or Kajabi handle hosting, security, and feature updates for you, offering a simpler user experience at a higher monthly cost. WordPress plugins like MemberPress give you total control and ownership over your site on your own hosting, which is cheaper and more flexible but requires more technical maintenance and security management."
+    },
+    {
+      "q": "Should I choose a platform based on community or content features first?",
+      "a": "Prioritize the feature set that drives the core value for your members. If your main offering is member interaction, live events, and networking, choose a community-first platform like Circle. If your value comes from structured courses and premium articles, start with a content-focused platform like Kajabi or Podia."
+    }
+  ],
+  "how_to_choose": [
+    "First, decide if you want to build on your own WordPress site or use a fully hosted platform. This is the most significant fork in the road.",
+    "Second, map your core member value. Is it courses, community discussion, exclusive content, or live events? Rank platforms by their strengths in your primary area.",
+    "Third, calculate your total cost of ownership. Factor in transaction fees, integration costs (like a separate email service), and the price of higher tiers you'll need as you grow.",
+    "Finally, test the user experience of your top 2-3 choices. Sign up for a free trial and evaluate how intuitive it is to create content and for a member to navigate the site."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best software for a membership site?",
+      "a": "The best software for most creators is Mighty Networks, because it provides the strongest combination of built-in community, course, and content features without needing external plugins. For those focused purely on a premium community experience, Circle.so is a close second."
+    },
+    {
+      "q": "How much does it cost to run a membership site?",
+      "a": "Running a membership site on a hosted platform typically costs between $40 and $400 per month, plus payment processing fees of around 3%. Using a WordPress plugin can be cheaper initially, around $200-$400 per year for the plugin plus hosting costs, but may require more investment in other plugins or developer help."
+    },
+    {
+      "q": "Can I build a membership site on WordPress?",
+      "a": "Yes, you can build a powerful membership site on WordPress using plugins like MemberPress or WishList Member. This approach offers maximum flexibility and data ownership but requires you to manage your own hosting, security, and updates."
+    },
+    {
+      "q": "What's the easiest membership platform for beginners?",
+      "a": "Podia is often considered the easiest platform for beginners. Its user interface is clean, straightforward, and combines memberships, courses, and digital downloads in one place with predictable pricing and zero transaction fees on paid plans."
+    }
+  ],
+  "honest_disclosures": [
+    "This list prioritizes all-in-one and hosted platforms, as they fit the target audience of non-technical creators. WordPress-based solutions, while powerful, are ranked lower due to their higher maintenance burden.",
+    "Most candidates are US-based SaaS companies. Pricing is almost exclusively in USD, and support hours may be limited for creators in Asian and Australian time zones."
+  ],
+  "glossary": {
+    "term": "Content Dripping",
+    "definition": "A feature that allows you to release content to members on a schedule, such as one new module per week after they sign up.",
+    "synonyms": [
+      "Scheduled Content",
+      "Drip Feed"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Mighty Networks",
+      "url": "https://www.mightynetworks.com",
+      "founded": 2017,
+      "hq": "Palo Alto, USA",
+      "team_size_band": "51-200",
+      "best_for": "Creators who want to build a vibrant, independent community with integrated courses, content, and events in one place.",
+      "best_for_short": "All-in-one community platform",
+      "pricing_band": "$$ ($41 to $299+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 9,
+        "Community Engagement Features": 9.8,
+        "Monetization & Payments": 9,
+        "Integrations & Extensibility": 8.5,
+        "Ease of Use & Onboarding": 9.5
+      },
+      "verdict": "Mighty Networks ranks first because it offers the most complete suite of native community and content tools, including courses, live streaming, and events, which eliminates the need for third-party plugins.",
+      "verdict_short": "The best all-in-one platform with deep community features, courses, and live events built-in.",
+      "praise": "Its 'Spaces' feature provides exceptional flexibility for organizing different types of content and conversations, far surpassing simple forum structures.",
+      "praise_short": "Flexible 'Spaces' for organizing content and community.",
+      "criticism": "The platform's deep feature set can present a steeper learning curve for absolute beginners compared to simpler alternatives like Podia.",
+      "criticism_short": "Can be complex for absolute beginners.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 41,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Google Analytics",
+        "Stripe",
+        "ConvertKit"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Circle.so",
+      "url": "https://circle.so",
+      "founded": 2019,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Established creators and brands looking to build a premium, modern community space with powerful discussion and live event features.",
+      "best_for_short": "Premium modern communities",
+      "pricing_band": "$$ ($49 to $399+/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 8.8,
+        "Community Engagement Features": 9.7,
+        "Monetization & Payments": 8.9,
+        "Integrations & Extensibility": 9.5,
+        "Ease of Use & Onboarding": 9
+      },
+      "verdict": "Circle.so earns the second spot for its best-in-class community design and user experience, making it the top choice for creators who prioritize a polished, modern feel for their discussions and events.",
+      "verdict_short": "A beautifully designed community platform with excellent integrations and a premium feel.",
+      "praise": "The platform's deep integration with Zapier and its API allows for sophisticated workflows, such as automatically adding members who purchase a product elsewhere.",
+      "praise_short": "Excellent API and Zapier integration for workflows.",
+      "criticism": "While course features have improved, they are less developed than Kajabi's, and the platform lacks native email marketing tools.",
+      "criticism_short": "Course features and email marketing are not native.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Product Hunt",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "Thinkific",
+        "Teachable",
+        "Memberstack"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Kajabi",
+      "url": "https://kajabi.com",
+      "founded": 2010,
+      "hq": "Irvine, USA",
+      "team_size_band": "201-500",
+      "best_for": "Serious course creators and infopreneurs who want an all-in-one platform to manage content, marketing funnels, email, and memberships.",
+      "best_for_short": "All-in-one for course creators",
+      "pricing_band": "$$$ ($149 to $399+/mo)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 9.5,
+        "Community Engagement Features": 7.5,
+        "Monetization & Payments": 9.2,
+        "Integrations & Extensibility": 8.5,
+        "Ease of Use & Onboarding": 9
+      },
+      "verdict": "Kajabi is the third-best option, leading the market for creators whose business is centered on online courses and who need powerful, integrated marketing and sales funnel automation.",
+      "verdict_short": "A powerful, course-centric platform with built-in marketing automation and sales funnels.",
+      "praise": "Its 'Pipelines' feature for building automated sales funnels is unmatched by any other platform on this list, directly connecting marketing actions to sales.",
+      "praise_short": "Unmatched 'Pipelines' for marketing automation.",
+      "criticism": "The community feature feels like an add-on, lacking the engagement tools and modern design of Mighty Networks or Circle, and the price point is high for beginners.",
+      "criticism_short": "Community features are basic; high starting price.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Trustpilot Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Stripe",
+        "PayPal",
+        "ConvertKit",
+        "AWeber"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 25
+    },
+    {
+      "rank": 4,
+      "name": "MemberPress",
+      "url": "https://memberpress.com",
+      "founded": 2013,
+      "hq": "South Jordan, USA",
+      "team_size_band": "11-50",
+      "best_for": "WordPress users who want maximum control and flexibility to build a custom membership site integrated with the broader WordPress ecosystem.",
+      "best_for_short": "Best WordPress membership plugin",
+      "pricing_band": "$ ($179 to $399/yr)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 9,
+        "Community Engagement Features": 7,
+        "Monetization & Payments": 9.5,
+        "Integrations & Extensibility": 9.8,
+        "Ease of Use & Onboarding": 7.5
+      },
+      "verdict": "MemberPress is the best choice for creators committed to the WordPress platform, offering the most dependable and feature-rich plugin for content restriction, payments, and integrations.",
+      "verdict_short": "The most powerful and flexible membership plugin for WordPress, offering total control.",
+      "praise": "Its content protection rules are extremely granular, allowing creators to restrict access to almost any part of their site, from single pages to custom post types.",
+      "praise_short": "Granular content protection rules for WordPress.",
+      "criticism": "As a plugin, it requires users to manage their own hosting, security, and plugin conflicts, creating a significant technical overhead that hosted platforms avoid.",
+      "criticism_short": "Requires user to manage hosting and security.",
+      "sources_pending": [
+        "Vendor Docs",
+        "WordPress.org Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 179,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "WooCommerce",
+        "LearnDash",
+        "Zapier",
+        "Mailchimp"
+      ],
+      "compliance": [],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Podia",
+      "url": "https://www.podia.com",
+      "founded": 2014,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Beginner creators who need a simple, affordable, and user-friendly platform to sell memberships, courses, and digital downloads.",
+      "best_for_short": "Easiest all-in-one for beginners",
+      "pricing_band": "$ ($39 to $89/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 8,
+        "Community Engagement Features": 7.5,
+        "Monetization & Payments": 8.5,
+        "Integrations & Extensibility": 7.5,
+        "Ease of Use & Onboarding": 9.8
+      },
+      "verdict": "Podia secures its rank by being the most user-friendly and straightforward all-in-one platform, making it the ideal starting point for creators who feel overwhelmed by more complex systems.",
+      "verdict_short": "The easiest platform for beginners, combining memberships, courses, and digital products.",
+      "praise": "The platform charges zero transaction fees on its paid plans, which is a significant cost saving for creators compared to platforms that take 5-10% of revenue.",
+      "praise_short": "Zero transaction fees on paid plans.",
+      "criticism": "Its feature set is less advanced than competitors; for example, the community tool is a simple forum and it lacks the marketing automation of Kajabi.",
+      "criticism_short": "Lacks advanced features and marketing automation.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 39,
+      "price_max": 89,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Mailchimp",
+        "ConvertKit",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "Memberful",
+      "url": "https://memberful.com",
+      "founded": 2013,
+      "hq": "Remote",
+      "team_size_band": "11-50",
+      "best_for": "Creators with an existing website or brand who want to add a clean, reliable membership and payment layer without migrating their entire site.",
+      "best_for_short": "Add memberships to any site",
+      "pricing_band": "$ ($0 to $100/mo + fees)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 7,
+        "Community Engagement Features": 7,
+        "Monetization & Payments": 9.5,
+        "Integrations & Extensibility": 9,
+        "Ease of Use & Onboarding": 8.5
+      },
+      "verdict": "Memberful is ranked here for being the best solution for adding paid memberships to an existing website, focusing purely on payments and access control while letting you use your preferred tools for content.",
+      "verdict_short": "The best tool for adding a payment and access layer to an existing website.",
+      "praise": "Its integration with Stripe is exceptionally smooth, and it offers features like Apple Pay and Google Pay, which can increase conversion rates at checkout.",
+      "praise_short": "Excellent Stripe integration with Apple/Google Pay.",
+      "criticism": "It is not an all-in-one platform; you must bring your own website, content hosting, and community tools, which adds complexity and potential cost.",
+      "criticism_short": "Not an all-in-one; requires your own website.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Reviews",
+        "Acquired by Patreon notice"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 100,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "WordPress",
+        "Mailchimp",
+        "Discord",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Thinkific",
+      "url": "https://www.thinkific.com",
+      "founded": 2012,
+      "hq": "Vancouver, Canada",
+      "team_size_band": "201-500",
+      "best_for": "Educators and businesses focused on creating in-depth online courses who want to add a community or membership model to their offerings.",
+      "best_for_short": "Course platform with memberships",
+      "pricing_band": "$$ ($49 to $199/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 9.2,
+        "Community Engagement Features": 7.5,
+        "Monetization & Payments": 8,
+        "Integrations & Extensibility": 7.5,
+        "Ease of Use & Onboarding": 7.5
+      },
+      "verdict": "Thinkific earns its spot as a leading course-first platform that has added solid membership and community features, making it a great choice for educators expanding their business model.",
+      "verdict_short": "A top-tier course creation platform that also supports memberships and communities.",
+      "praise": "The course builder is among the most flexible on the market, supporting a wide variety of lesson types, assignments, and quizzes.",
+      "praise_short": "Highly flexible and powerful course builder.",
+      "criticism": "The platform's design and customization options for site pages are more limited than competitors like Kajabi, requiring more effort to create a unique brand look.",
+      "criticism_short": "Site design and customization options are limited.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Reviews",
+        "Capterra Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 199,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Zapier",
+        "Mailchimp",
+        "ConvertKit"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Uscreen",
+      "url": "https://www.uscreen.tv",
+      "founded": 2015,
+      "hq": "Washington D.C., USA",
+      "team_size_band": "51-200",
+      "best_for": "Video creators who want to launch a subscription service (SVOD) with their own branded apps for web, mobile, and TV.",
+      "best_for_short": "Best for video memberships",
+      "pricing_band": "$$$ ($149 to $499+/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 8.5,
+        "Community Engagement Features": 6.5,
+        "Monetization & Payments": 8.5,
+        "Integrations & Extensibility": 7,
+        "Ease of Use & Onboarding": 8
+      },
+      "verdict": "Uscreen is the undisputed leader for video-centric memberships, providing the best infrastructure for video hosting, streaming, and monetization across web and native apps.",
+      "verdict_short": "The leading platform for launching a Netflix-style video subscription service.",
+      "praise": "Its ability to create and launch branded OTT apps for Roku, Apple TV, iOS, and Android is a key differentiator that no other platform on this list offers.",
+      "praise_short": "Creates branded apps for TV and mobile.",
+      "criticism": "Community and text-based content tools are very basic, as the platform is almost entirely focused on video. It is also one of the more expensive options.",
+      "criticism_short": "Non-video features are very basic; high price.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Reviews",
+        "Trustpilot Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 149,
+      "price_max": 499,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "PayPal",
+        "Mailchimp",
+        "Google Analytics",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 5,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "MemberSpace",
+      "url": "https://www.memberspace.com",
+      "founded": 2015,
+      "hq": "Remote",
+      "team_size_band": "1-10",
+      "best_for": "Creators using non-WordPress website builders like Squarespace, Webflow, or Carrd who need to add membership functionality.",
+      "best_for_short": "Memberships for Squarespace/Webflow",
+      "pricing_band": "$ ($29 to $299/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 6.5,
+        "Community Engagement Features": 6,
+        "Monetization & Payments": 8.5,
+        "Integrations & Extensibility": 8.5,
+        "Ease of Use & Onboarding": 8.5
+      },
+      "verdict": "MemberSpace is the best solution for adding membership paywalls to websites built on platforms that lack native membership features, such as Squarespace and Webflow.",
+      "verdict_short": "The go-to tool for adding member paywalls to platforms like Squarespace and Webflow.",
+      "praise": "It works with a wide variety of website builders, making it one of the most platform-agnostic tools available for gating content.",
+      "praise_short": "Works with many different website builders.",
+      "criticism": "The member experience can feel disjointed as users are interacting with a third-party tool layered on top of your site, and it offers no native content or community tools.",
+      "criticism_short": "User experience can feel disjointed; no native tools.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Reviews",
+        "Webflow Community Forums"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Squarespace",
+        "Webflow",
+        "Wix",
+        "Zapier",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Wild Apricot",
+      "url": "https://www.wildapricot.com",
+      "founded": 2006,
+      "hq": "Toronto, Canada",
+      "team_size_band": "51-200",
+      "best_for": "Non-profits, clubs, and professional associations that need an all-in-one system for managing members, events, and payments.",
+      "best_for_short": "For clubs and associations",
+      "pricing_band": "$$ ($60 to $900/mo)",
+      "score_out_of_94": 7.3,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 6.5,
+        "Community Engagement Features": 8,
+        "Monetization & Payments": 8,
+        "Integrations & Extensibility": 6,
+        "Ease of Use & Onboarding": 7.5
+      },
+      "verdict": "Wild Apricot is the best choice for formal organizations like clubs and associations due to its strong focus on member databases, event management, and automated invoicing.",
+      "verdict_short": "A member management system built for formal organizations like non-profits and clubs.",
+      "praise": "Its member database and event management capabilities are specifically designed for the needs of associations, including features like member directories and event registration forms.",
+      "praise_short": "Strong member database and event tools for associations.",
+      "criticism": "The platform's interface and website builder feel dated compared to modern creator platforms, and it's not well-suited for content-heavy businesses like online courses.",
+      "criticism_short": "Dated interface; not built for content creators.",
+      "sources_pending": [
+        "Vendor Docs",
+        "Capterra Reviews",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 60,
+      "price_max": 900,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "WordPress",
+        "QuickBooks",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [
+        "PCI"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "Ghost",
+      "url": "https://ghost.org",
+      "founded": 2013,
+      "hq": "Singapore",
+      "team_size_band": "11-50",
+      "best_for": "Writers and publishers who want to build a membership business around their content with a focus on newsletters and beautiful design.",
+      "best_for_short": "Publishing platform with memberships",
+      "pricing_band": "$ ($11 to $249/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Creator Tooling & Content Management": 9,
+        "Community Engagement Features": 5,
+        "Monetization & Payments": 8,
+        "Integrations & Extensibility": 7.5,
+        "Ease of Use & Onboarding": 7
+      },
+      "verdict": "Ghost is a wildcard pick because it approaches memberships from a publishing-first perspective, making it the best option for writers who want to monetize a blog or newsletter, not run a forum or course.",
+      "verdict_short": "A publishing-first platform for writers to monetize blogs and newsletters with memberships.",
+      "praise": "The writing and publishing experience is clean and focused, and its native email newsletter tools are seamlessly integrated with paid subscription tiers.",
+      "praise_short": "Excellent writing experience and integrated newsletters.",
+      "criticism": "It has no native community features like forums or member profiles, requiring integration with third-party tools for any member-to-member interaction.",
+      "criticism_short": "No native community features like forums.",
+      "sources_pending": [
+        "Vendor Docs",
+        "G2 Reviews",
+        "Indie Hackers"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 11,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "Zapier",
+        "Slack",
+        "Google Analytics",
+        "Discourse"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}
