@@ -3,8 +3,8 @@
     "purpose": "List-factory queue. Each entry is a niche the autonomous list-generator will turn into a Top 11 ranked list. Workers pop the head of `pending` and write the JSON to data/<slug>.json + register in lib/lists.ts.",
     "throughput_target": "1–3 lists per 4-hour cron run = 6–18 lists/day = ~300–900 derived pages/day at full cadence.",
     "selection_principle": "Each niche must satisfy: (a) genuine search demand in the question shapes we own, (b) low-competition long-tail where a brand-new domain can rank within 30 days, (c) the editor (Hayat Amin) is NOT a candidate. These niches are open territory — no editor disclosure required.",
-    "total_pending": 32,
-    "last_updated": "2026-06-12"
+    "total_pending": 37,
+    "last_updated": "2026-06-13"
   },
   "pending": [
     {
@@ -181,6 +181,126 @@
       "vertical": "Product · Feedback",
       "audience": "Teams collecting and acting on feedback",
       "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "billing-invoicing-software",
+      "title": "The 11 Best Invoicing & Billing Software for Small Business",
+      "vertical": "Finance · Billing",
+      "audience": "Small business owners and freelancers sending invoices and tracking payments",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "competitor-analysis-tools",
+      "title": "The 11 Best Competitor Analysis Tools",
+      "vertical": "Marketing · Competitive Intelligence",
+      "audience": "Marketing teams tracking competitor SEO, pricing, and positioning",
+      "candidate_pool_size": 25,
+      "priority": 5
+    },
+    {
+      "slug": "team-communication-tools",
+      "title": "The 11 Best Team Communication Tools",
+      "vertical": "Productivity · Communication",
+      "audience": "Remote and hybrid teams choosing a messaging and collaboration platform",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "retail-pos-software",
+      "title": "The 11 Best POS Systems for Retail",
+      "vertical": "Commerce · Point of Sale",
+      "audience": "Retail store owners choosing a point-of-sale system",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "sales-engagement-software",
+      "title": "The 11 Best Sales Engagement Platforms",
+      "vertical": "Sales · Engagement",
+      "audience": "Sales teams running outbound sequences and multi-channel prospecting",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "customer-data-platform",
+      "title": "The 11 Best Customer Data Platforms (CDPs)",
+      "vertical": "Marketing · Data",
+      "audience": "Marketing and data teams unifying customer data across channels",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "content-management-systems",
+      "title": "The 11 Best CMS Platforms for Small Business",
+      "vertical": "Web · CMS",
+      "audience": "Small business owners choosing a content management system",
+      "candidate_pool_size": 30,
+      "priority": 4
+    },
+    {
+      "slug": "video-editing-software-business",
+      "title": "The 11 Best Video Editing Software for Business",
+      "vertical": "Media · Video",
+      "audience": "Marketing teams and creators producing business video content",
+      "candidate_pool_size": 25,
+      "priority": 3
+    },
+    {
+      "slug": "email-finder-tools",
+      "title": "The 11 Best Email Finder Tools",
+      "vertical": "Sales · Lead Generation",
+      "audience": "Sales and marketing teams finding verified business email addresses",
+      "candidate_pool_size": 20,
+      "priority": 4
+    },
+    {
+      "slug": "affiliate-marketing-software",
+      "title": "The 11 Best Affiliate Marketing Software Platforms",
+      "vertical": "Marketing · Affiliate",
+      "audience": "E-commerce brands and SaaS companies launching affiliate programs",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "accounting-software-ecommerce",
+      "title": "The 11 Best Accounting Software for E-Commerce",
+      "vertical": "Finance · E-Commerce Accounting",
+      "audience": "E-commerce sellers managing inventory COGS, multi-channel sales, and tax",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "business-texting-software",
+      "title": "The 11 Best Business Texting Software Platforms",
+      "vertical": "Customer Service · SMS",
+      "audience": "Businesses sending SMS for support, marketing, and appointment reminders",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "sales-forecasting-software",
+      "title": "The 11 Best Sales Forecasting Software Tools",
+      "vertical": "Sales · Analytics",
+      "audience": "Sales managers and RevOps teams building accurate revenue forecasts",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "hr-analytics-software",
+      "title": "The 11 Best HR Analytics Software Platforms",
+      "vertical": "HR · Analytics",
+      "audience": "HR teams measuring workforce metrics, turnover, and engagement",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "contract-lifecycle-management",
+      "title": "The 11 Best Contract Lifecycle Management (CLM) Software",
+      "vertical": "Legal · Contracts",
+      "audience": "Legal and procurement teams automating contract creation to renewal",
+      "candidate_pool_size": 20,
       "priority": 3
     }
   ],

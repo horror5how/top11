@@ -13,7 +13,7 @@ const VERTICAL_CLUSTERS: string[][] = [
   [
     "fractional-cfo", "cfo-ai-operators", "cfo-fundraise-readiness",
     "cfo-ip-patent-strategists", "fractional-csuite-deep-tech", "saas-bookkeeping",
-    "fractional-cmo", "fractional-coo", "fractional-cto",
+    "fractional-cmo", "fractional-coo", "fractional-cto", "investor-crm",
   ],
   [
     "ai-coding-assistants", "ai-agent-builders", "ai-observability-platforms",
@@ -22,7 +22,7 @@ const VERTICAL_CLUSTERS: string[][] = [
   ],
   [
     "ai-meeting-assistants", "ai-sales-tools", "ai-customer-support",
-    "video-conferencing-software", "webinar-software",
+    "video-conferencing-software", "webinar-software", "webinar-platforms",
   ],
   // Industry CRM & vertical SaaS cluster
   [
@@ -30,13 +30,14 @@ const VERTICAL_CLUSTERS: string[][] = [
     "sales-crm-software", "customer-success-software",
     "property-management-software", "telehealth-platforms",
     "medical-billing-software", "patient-engagement-software",
+    "school-management-software",
   ],
   // HR & workforce cluster
   [
     "smb-payroll", "smb-hris", "no-code-platforms",
     "construction-project-management", "hr-software-small-business",
     "applicant-tracking-systems", "employee-scheduling-software",
-    "freelance-platforms",
+    "freelance-platforms", "lms-corporate-training",
   ],
   // Marketing & growth cluster
   [
@@ -46,6 +47,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "seo-rank-trackers", "seo-tools-saas", "product-analytics-tools",
     "online-course-platforms", "email-marketing-ecommerce", "social-media-b2b",
     "podcast-hosting", "video-hosting-business", "transcription-services",
+    "ab-testing-tools", "session-replay-tools", "social-media-analytics",
   ],
   // SMB core software cluster
   [
@@ -56,6 +58,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "help-desk-software", "live-chat-software",
     "project-management-agencies", "business-intelligence-tools",
     "password-managers-business", "vpn-for-business",
+    "penetration-testing-services",
   ],
   // Finance & compliance cluster
   [
@@ -64,6 +67,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "expense-management-software", "contract-management-software",
     "esignature-software", "ap-automation", "expense-management",
     "subscription-billing-software", "tax-software-small-business",
+    "esign-proposal-software",
   ],
   // Commerce & infrastructure cluster
   [
@@ -72,6 +76,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "appointment-scheduling-software", "headless-cms",
     "inventory-management-software", "payment-gateways",
     "shopify-apps-conversion", "amazon-seller-tools",
+    "shipping-software-ecommerce",
   ],
   // Field services & trades SMB cluster
   [
