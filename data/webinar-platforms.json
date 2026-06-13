@@ -1,0 +1,820 @@
+{
+  "slug": "webinar-platforms",
+  "title": "The 11 Best Webinar Platforms",
+  "subtitle": "An analysis of the top providers for marketing teams focused on engagement, automation, and CRM integration.",
+  "vertical": "Marketing · Webinars",
+  "audience": "Teams running webinars and virtual events",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Virtual Events",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights Engagement & Interactivity (30%), Automation & Evergreen Features (20%), Integrations & API (20%), Analytics & Reporting (15%), and Production Quality & Reliability (15%)."
+    }
+  ],
+  "answer_capsule": "The best webinar platform is Livestorm for its strong engagement features and native integrations, followed by Demio and BigMarker.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 25,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Engagement & Interactivity",
+        "weight": 30,
+        "description": "Availability and quality of features like polls, Q&A with upvoting, chat, and in-webinar calls-to-action that keep audiences participating."
+      },
+      {
+        "name": "Automation & Evergreen Features",
+        "weight": 20,
+        "description": "Support for on-demand, automated, and 'simulated-live' webinars to scale content delivery without live presenters."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 20,
+        "description": "Depth and reliability of native integrations with CRMs (e.g., Salesforce, HubSpot) and marketing automation platforms, plus API access."
+      },
+      {
+        "name": "Analytics & Reporting",
+        "weight": 15,
+        "description": "Granularity of reporting on attendee engagement, lead qualification data, and ROI tracking."
+      },
+      {
+        "name": "Production Quality & Reliability",
+        "weight": 15,
+        "description": "HD video and audio streaming stability, browser-based access, and customization options for branding."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "Marketing Automation",
+    "Lead Generation",
+    "Virtual Events",
+    "Content Marketing"
+  ],
+  "problem_tags": [
+    "Generating qualified leads",
+    "Scaling content marketing",
+    "Audience engagement",
+    "Sales pipeline acceleration",
+    "Customer education"
+  ],
+  "query_intents": [
+    "best webinar software",
+    "livestorm vs demio",
+    "zoom webinar alternative",
+    "automated webinar platforms",
+    "webinar software for marketing"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Audience engagement",
+        "CRM data sync"
+      ],
+      "personas": [
+        "Marketing Manager",
+        "Demand Generation Specialist"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Ease of use",
+        "Reliable automated events"
+      ],
+      "personas": [
+        "Small Business Owner",
+        "Content Marketer"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Hosting large-scale events",
+        "Creating hybrid events"
+      ],
+      "personas": [
+        "Event Marketer",
+        "Corporate Trainer"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 25,
+    "ranked": 11,
+    "average_score": 8.45,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "How is a webinar platform different from a video conferencing tool like Zoom Meetings?",
+      "a": "Webinar platforms are designed for a one-to-many presentation format with audience engagement tools, while video conferencing tools are for many-to-many collaboration. Webinar software provides features like moderated Q&A, polls, automated email sequences, and detailed analytics on attendee behavior, which are absent in standard meeting tools."
+    },
+    {
+      "q": "What defines an 'evergreen' or 'automated' webinar?",
+      "a": "An evergreen webinar is a pre-recorded event that runs on an automated schedule, often appearing as if it's live to new attendees. This allows companies to generate leads and deliver content continuously without a live host present for every session, scaling a single recording into an ongoing marketing asset."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary goal: lead generation, customer training, or internal communications. Lead generation requires strong CRM integrations and automation.",
+    "Next, estimate your typical audience size and event frequency to select a pricing plan that matches your needs without excessive overage fees.",
+    "Then, evaluate the specific engagement tools you will actually use. If interactive Q&A is critical, prioritize platforms with upvoting and dedicated moderation panels.",
+    "Finally, check for native integrations with your existing marketing stack (e.g., HubSpot, Salesforce, Marketo) to ensure smooth data flow for lead tracking and follow-up."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best platform for webinars?",
+      "a": "Livestorm is the best overall webinar platform due to its excellent balance of engagement features, automation capabilities, and deep integrations with marketing CRMs. For users prioritizing simplicity and reliability, Demio is a close second."
+    },
+    {
+      "q": "How much does a webinar platform cost?",
+      "a": "Webinar platforms typically cost between $99 and $599 per month for small to mid-sized teams. Pricing is usually based on the number of attendees per event and the number of hosts. Enterprise plans from providers like ON24 can exceed $2,000 per month."
+    },
+    {
+      "q": "Can I host a webinar for free?",
+      "a": "Yes, you can host a webinar for free, but with significant limitations. Some platforms offer a free tier, like Livestorm's, which is typically restricted to 20-minute sessions and a small number of attendees (e.g., 10-30). These are best for testing the platform or for very small, informal events."
+    },
+    {
+      "q": "What is the difference between Livestorm and Demio?",
+      "a": "The main difference is that Livestorm offers more extensive native integrations and slightly more advanced analytics, making it better for data-driven teams. Demio focuses on a cleaner, more intuitive user experience and is often considered easier to set up for a first-time webinar host."
+    }
+  ],
+  "honest_disclosures": [
+    "Pricing for enterprise-focused platforms like ON24 and Cvent is often opaque, requiring a sales call. Our list favors providers with more transparent, self-service pricing where possible.",
+    "Most candidates are US-based companies. While they offer global service, dedicated support hours and data residency options for regions like APAC or LATAM can vary."
+  ],
+  "glossary": {
+    "term": "Evergreen Webinar",
+    "definition": "A pre-recorded webinar that is automated to run at set times or on-demand, often simulating a live experience for attendees. It's a marketing automation tool used to scale lead generation from a single piece of video content.",
+    "synonyms": [
+      "Automated Webinar",
+      "On-Demand Webinar",
+      "Simulated-Live Webinar"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Livestorm",
+      "url": "https://livestorm.co",
+      "founded": 2016,
+      "hq": "Paris, France",
+      "team_size_band": "201-500",
+      "best_for": "Teams seeking a modern, browser-based platform with strong engagement tools and deep native integrations into their existing marketing stack.",
+      "best_for_short": "Marketing teams needing deep CRM integration.",
+      "pricing_band": "$$ ($99 to $300/mo)",
+      "score_out_of_94": 9.3,
+      "score_breakdown": {
+        "Engagement & Interactivity": 9.4,
+        "Automation & Evergreen Features": 9.2,
+        "Integrations & API": 9.3,
+        "Analytics & Reporting": 9,
+        "Production Quality & Reliability": 9.1
+      },
+      "verdict": "Livestorm earns the top rank for its excellent balance of powerful features and user-friendly design, all accessible from a browser. Its native integrations with Salesforce and HubSpot are particularly effective, pushing detailed engagement data directly into the CRM without needing a third-party connector.",
+      "verdict_short": "The best all-around platform for marketing teams, with top-tier engagement tools and native CRM integrations.",
+      "praise": "The platform's analytics dashboard is very useful, providing a source-tracking report that shows which channels drove the most sign-ups and attended contacts.",
+      "praise_short": "Excellent analytics with marketing source tracking.",
+      "criticism": "The free plan is quite limited, capped at 20 minutes per event and 30 live attendees, making it more of a trial than a functional free tier.",
+      "criticism_short": "Free plan is too limited for practical use.",
+      "sources_pending": [
+        "Livestorm Pricing Page",
+        "G2 Crowd Reviews",
+        "Livestorm API Documentation"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Pipedrive",
+        "Zapier",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 2,
+      "name": "Demio",
+      "url": "https://demio.com",
+      "founded": 2014,
+      "hq": "Tampa, USA",
+      "team_size_band": "51-200",
+      "best_for": "Marketers who prioritize a clean, reliable, and incredibly easy-to-use platform for both hosts and attendees, with strong automation features.",
+      "best_for_short": "Simplicity and reliable automated events.",
+      "pricing_band": "$$ ($59 to $299/mo)",
+      "score_out_of_94": 9.1,
+      "score_breakdown": {
+        "Engagement & Interactivity": 9.2,
+        "Automation & Evergreen Features": 9.3,
+        "Integrations & API": 9,
+        "Analytics & Reporting": 8.8,
+        "Production Quality & Reliability": 9.2
+      },
+      "verdict": "Demio is the runner-up because it offers the most intuitive and hassle-free webinar experience on the market. Its setup process takes minutes, and the browser-based interface for attendees means no downloads are required, which consistently leads to higher attendance rates.",
+      "verdict_short": "An exceptionally easy-to-use platform with a focus on a clean, reliable user experience.",
+      "praise": "The 'simulated-live' webinar feature is well-executed, allowing pre-recorded video to play alongside a live chat and Q&A, creating an engaging, scalable event.",
+      "praise_short": "Excellent 'simulated-live' webinar execution.",
+      "criticism": "While it integrates with major platforms via Zapier, its list of deep, native integrations is smaller than Livestorm's, sometimes requiring more setup.",
+      "criticism_short": "Fewer native integrations than top competitors.",
+      "sources_pending": [
+        "Demio Pricing Page",
+        "Capterra Reviews",
+        "Demio Knowledge Base"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 299,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Marketo",
+        "ActiveCampaign",
+        "ConvertKit",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "BigMarker",
+      "url": "https://www.bigmarker.com",
+      "founded": 2010,
+      "hq": "Chicago, USA",
+      "team_size_band": "51-200",
+      "best_for": "Organizations needing a versatile platform that can handle everything from standard marketing webinars to large-scale virtual and hybrid events.",
+      "best_for_short": "Versatile virtual and hybrid events.",
+      "pricing_band": "$$$ ($99 to $1,000+/mo)",
+      "score_out_of_94": 8.9,
+      "score_breakdown": {
+        "Engagement & Interactivity": 9.3,
+        "Automation & Evergreen Features": 9,
+        "Integrations & API": 8.8,
+        "Analytics & Reporting": 8.7,
+        "Production Quality & Reliability": 8.5
+      },
+      "verdict": "BigMarker secures the third spot with its sheer breadth of features, supporting up to 10,000 attendees and offering unique capabilities like white-labeling and embedded webinar experiences. It's more of a full event suite than just a webinar tool, making it suitable for complex event marketing.",
+      "verdict_short": "A powerful, feature-rich platform ideal for large or complex virtual and hybrid events.",
+      "praise": "The platform includes native tools for creating landing pages and emails, reducing the need for separate software for event promotion.",
+      "praise_short": "Includes native landing page and email tools.",
+      "criticism": "The interface can feel cluttered and less intuitive than Demio or Livestorm due to the vast number of features, presenting a steeper learning curve.",
+      "criticism_short": "Interface can be cluttered and complex.",
+      "sources_pending": [
+        "BigMarker Pricing Page",
+        "Forrester Wave Report",
+        "BigMarker Customer Stories"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 99,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Eloqua",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 4,
+      "name": "GoTo Webinar",
+      "url": "https://www.goto.com/webinar",
+      "founded": 2003,
+      "hq": "Boston, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Enterprises and established organizations that value reliability, security, and a long-standing market presence over the latest interface design.",
+      "best_for_short": "Established enterprises valuing reliability.",
+      "pricing_band": "$$ ($49 to $399/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8,
+        "Automation & Evergreen Features": 8.5,
+        "Integrations & API": 8.8,
+        "Analytics & Reporting": 8.7,
+        "Production Quality & Reliability": 9.3
+      },
+      "verdict": "GoTo Webinar ranks fourth as the established, reliable workhorse of the industry. Its streaming stability is exceptional, and it provides solid core features, but its user interface feels dated compared to modern, browser-first competitors like Livestorm and Demio.",
+      "verdict_short": "A highly reliable and secure platform, though with a less modern user interface.",
+      "praise": "The platform's back-end management and reporting tools are very mature, offering detailed post-event analytics that are useful for sales follow-up.",
+      "praise_short": "Mature and detailed post-event analytics.",
+      "criticism": "The requirement for attendees to download a desktop client can be a point of friction, sometimes resulting in lower attendance rates compared to browser-based platforms.",
+      "criticism_short": "Requires a software download for attendees.",
+      "sources_pending": [
+        "GoTo Webinar Pricing",
+        "Gartner Magic Quadrant",
+        "TrustRadius Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 399,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Zapier",
+        "Leadpages"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Zoom Webinars",
+      "url": "https://zoom.us/webinar",
+      "founded": 2011,
+      "hq": "San Jose, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "Companies already using the Zoom ecosystem who need a familiar and reliable solution for large-audience broadcasts and internal events.",
+      "best_for_short": "Existing Zoom users needing scale.",
+      "pricing_band": "$$ ($79 to $600+/mo)",
+      "score_out_of_94": 8.4,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8.5,
+        "Automation & Evergreen Features": 7.5,
+        "Integrations & API": 8.7,
+        "Analytics & Reporting": 8.3,
+        "Production Quality & Reliability": 9.4
+      },
+      "verdict": "Zoom Webinars makes the list due to its ubiquity, reliability, and high-quality video streaming for large audiences up to 50,000 people. While it's a solid choice, its marketing automation and engagement features are less developed than dedicated platforms like Livestorm, making it more of a broadcast tool than a lead generation machine.",
+      "verdict_short": "A familiar, reliable choice for large broadcasts, but lighter on marketing-specific features.",
+      "praise": "The platform's stability and video quality are industry-leading, ensuring a smooth experience even with thousands of attendees.",
+      "praise_short": "Industry-leading stability and video quality.",
+      "criticism": "The on-demand and automated webinar features are basic, lacking the sophisticated scheduling and engagement options found in Demio or eWebinar.",
+      "criticism_short": "Basic on-demand and automation features.",
+      "sources_pending": [
+        "Zoom Webinar Pricing",
+        "PCMag Review",
+        "Zoom App Marketplace"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 79,
+      "price_max": 600,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Pardot",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR",
+        "HIPAA",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "ON24",
+      "url": "https://www.on24.com",
+      "founded": 1998,
+      "hq": "San Francisco, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Large enterprises that require deep analytics, extensive customization, and a platform built to capture detailed prospect buying signals.",
+      "best_for_short": "Enterprises needing deep engagement analytics.",
+      "pricing_band": "$$$$ ($2,000+/mo)",
+      "score_out_of_94": 8.2,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8.8,
+        "Automation & Evergreen Features": 8.5,
+        "Integrations & API": 8.9,
+        "Analytics & Reporting": 9.4,
+        "Production Quality & Reliability": 7
+      },
+      "verdict": "ON24 is ranked for its unparalleled enterprise-grade analytics, which track dozens of engagement points to create a detailed profile of each attendee. This data is invaluable for sales teams, but the platform's high price point and less modern interface place it out of reach for smaller businesses.",
+      "verdict_short": "The leader in enterprise analytics and lead intelligence, with a premium price tag.",
+      "praise": "Its 'Engagement Hub' allows companies to create a branded, Netflix-style portal for all their on-demand webinar content, boosting content consumption.",
+      "praise_short": "Excellent branded content hub for on-demand assets.",
+      "criticism": "The platform is one of the most expensive on the market, with pricing often starting above $24,000 per year, and its Flash-based legacy architecture can sometimes feel slow.",
+      "criticism_short": "Very expensive and the interface feels dated.",
+      "sources_pending": [
+        "ON24 G2 Crowd Reviews",
+        "Forrester Total Economic Impact Study",
+        "ON24 Website"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 2000,
+      "price_max": 2000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Marketo",
+        "Eloqua",
+        "SAP",
+        "Veeva"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "WebinarNinja",
+      "url": "https://webinarninja.com",
+      "founded": 2014,
+      "hq": "Sydney, Australia",
+      "team_size_band": "11-50",
+      "best_for": "Solopreneurs, coaches, and small businesses who need an all-in-one solution with built-in landing pages, email marketing, and payment processing.",
+      "best_for_short": "Coaches and creators needing all-in-one tools.",
+      "pricing_band": "$$ ($29 to $249/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8,
+        "Automation & Evergreen Features": 8.6,
+        "Integrations & API": 7.5,
+        "Analytics & Reporting": 7.8,
+        "Production Quality & Reliability": 8.1
+      },
+      "verdict": "WebinarNinja stands out for its focus on creators and small businesses, bundling marketing tools directly into the platform. It allows users to charge for webinars directly via a Stripe integration, making it a complete system for monetizing content without needing several other tools.",
+      "verdict_short": "An all-in-one platform for creators, with built-in payments and marketing pages.",
+      "praise": "The 'Webinar Finder' marketplace provides an additional distribution channel for public webinars, helping creators find new audiences.",
+      "praise_short": "Public webinar marketplace for audience growth.",
+      "criticism": "The platform's core integrations and analytics are less advanced than marketing-focused tools like Livestorm, making it less suitable for B2B demand generation teams.",
+      "criticism_short": "Analytics and integrations are not B2B-focused.",
+      "sources_pending": [
+        "WebinarNinja Pricing",
+        "SoftwarePundit Review",
+        "WebinarNinja Help Center"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 249,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Stripe",
+        "ConvertKit",
+        "Mailchimp",
+        "AWeber",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 50,
+      "is_wildcard": false
+    },
+    {
+      "rank": 8,
+      "name": "eWebinar",
+      "url": "https://ewebinar.com",
+      "founded": 2019,
+      "hq": "Portland, USA",
+      "team_size_band": "11-50",
+      "best_for": "Teams that want to scale their demos, onboarding, and training with automated webinars that feel interactive and engaging.",
+      "best_for_short": "Scaling with highly interactive automated webinars.",
+      "pricing_band": "$$ ($49 to $250/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8.2,
+        "Automation & Evergreen Features": 9.4,
+        "Integrations & API": 7.8,
+        "Analytics & Reporting": 7.2,
+        "Production Quality & Reliability": 7.5
+      },
+      "verdict": "eWebinar is ranked for being the best-in-class platform purely for automated webinars. It combines a pre-recorded video with a pre-programmed chat timeline and interactive elements, creating an on-demand experience that feels surprisingly live and frees up staff from repetitive presentations.",
+      "verdict_short": "The best platform on the market specifically for creating interactive, automated webinars.",
+      "praise": "The chat system is unique: if an attendee asks a question, it sends a notification (e.g., via Slack) so a team member can jump in and answer live, blending automation with real-time support.",
+      "praise_short": "Unique live chat takeover for automated events.",
+      "criticism": "The platform does not support live webinars at all, making it a supplementary tool rather than a complete replacement for a general-purpose webinar platform.",
+      "criticism_short": "Does not support live webinars.",
+      "sources_pending": [
+        "eWebinar Pricing Page",
+        "Indie Hackers Interview with Founder",
+        "eWebinar Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Slack",
+        "Intercom",
+        "ActiveCampaign",
+        "HubSpot"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Goldcast",
+      "url": "https://www.goldcast.io",
+      "founded": 2020,
+      "hq": "Boston, USA",
+      "team_size_band": "51-200",
+      "best_for": "B2B event marketers focused on creating branded, TV-like virtual and hybrid events that generate deep engagement data for sales teams.",
+      "best_for_short": "B2B marketers creating branded event experiences.",
+      "pricing_band": "$$$$ ($1,250+/mo)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Engagement & Interactivity": 8.4,
+        "Automation & Evergreen Features": 7,
+        "Integrations & API": 8.5,
+        "Analytics & Reporting": 8.6,
+        "Production Quality & Reliability": 7.9
+      },
+      "verdict": "Goldcast earns its spot by focusing specifically on the B2B event marketer, offering deep integrations with HubSpot and Salesforce and creating highly polished, brandable event experiences. It's more than a simple webinar tool, designed to be the central hub for a company's field marketing efforts.",
+      "verdict_short": "A premium platform for B2B marketers to run polished, data-rich virtual events.",
+      "praise": "The platform can push an impressive amount of data to CRMs, including polls answered, questions asked, and resources downloaded, giving sales reps rich context for follow-up.",
+      "praise_short": "Pushes granular engagement data to CRMs.",
+      "criticism": "The pricing starts at around $15,000 per year, making it inaccessible for small businesses or teams with modest webinar programs.",
+      "criticism_short": "High starting price is prohibitive for SMBs.",
+      "sources_pending": [
+        "Goldcast Website",
+        "G2 Crowd Reviews",
+        "Demand Gen Live Podcast"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 1250,
+      "price_max": 1250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Marketo",
+        "Pardot",
+        "Eloqua"
+      ],
+      "compliance": [
+        "SOC 2",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "ClickMeeting",
+      "url": "https://clickmeeting.com",
+      "founded": 2011,
+      "hq": "Gdańsk, Poland",
+      "team_size_band": "51-200",
+      "best_for": "Small and medium-sized businesses looking for a budget-friendly, straightforward platform with a solid set of core webinar features.",
+      "best_for_short": "Budget-friendly option for SMBs.",
+      "pricing_band": "$ ($30 to $309/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Engagement & Interactivity": 7.5,
+        "Automation & Evergreen Features": 7.8,
+        "Integrations & API": 7,
+        "Analytics & Reporting": 7.1,
+        "Production Quality & Reliability": 7.6
+      },
+      "verdict": "ClickMeeting is a solid, affordable option that covers all the basics of running a webinar effectively. While it lacks the slick interface of Demio or the deep analytics of ON24, it provides a reliable service with good automation features for a very competitive price, starting at just $30 per month.",
+      "verdict_short": "A reliable, affordable platform that covers all the essential webinar features for SMBs.",
+      "praise": "The platform includes useful features not always found at its price point, such as paid webinars via PayPal and the ability to host meetings as well as webinars.",
+      "praise_short": "Good value with paid webinars and meeting modes.",
+      "criticism": "The user interface and overall design feel less modern than the top-ranked platforms, and video quality can sometimes be less consistent.",
+      "criticism_short": "Dated user interface and inconsistent video quality.",
+      "sources_pending": [
+        "ClickMeeting Pricing",
+        "Capterra Reviews",
+        "ClickMeeting Features List"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 30,
+      "price_max": 309,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "PayPal",
+        "HubSpot",
+        "Pipedrive",
+        "Zapier",
+        "Moodle"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Riverside.fm",
+      "url": "https://riverside.fm",
+      "founded": 2019,
+      "hq": "Tel Aviv, Israel",
+      "team_size_band": "51-200",
+      "best_for": "Content creators and marketers who prioritize flawless audio and video quality above all else, using a recording-first workflow.",
+      "best_for_short": "Highest possible audio/video quality.",
+      "pricing_band": "$ ($15 to $29/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Engagement & Interactivity": 6.5,
+        "Automation & Evergreen Features": 6,
+        "Integrations & API": 7.5,
+        "Analytics & Reporting": 6.8,
+        "Production Quality & Reliability": 9.4
+      },
+      "verdict": "Riverside is our wildcard because it approaches webinars from a production-first angle rather than a marketing-first one. It's fundamentally a remote recording studio that ensures pristine, locally recorded 4K video from each participant. This makes it the best choice for creating high-quality, pre-recorded 'simulated-live' webinars where production value is the top priority.",
+      "verdict_short": "A recording studio platform ideal for creating high-production-value, pre-recorded webinars.",
+      "praise": "Its core technology of recording separate, uncompressed audio and video tracks locally for each speaker is unmatched, eliminating internet-related glitches from the final product.",
+      "praise_short": "Unmatched local recording quality for glitch-free video.",
+      "criticism": "It lacks the core marketing automation, email sequencing, and deep CRM integration features that are standard in dedicated webinar platforms.",
+      "criticism_short": "Missing key marketing automation and CRM features.",
+      "sources_pending": [
+        "Riverside.fm Pricing",
+        "MKBHD Studio Tour (mentions use)",
+        "Riverside.fm Help Center"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 29,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Adobe Premiere Pro",
+        "Descript",
+        "Zapier",
+        "Dropbox",
+        "Google Drive"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100,
+      "is_wildcard": true
+    }
+  ]
+}

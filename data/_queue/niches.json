@@ -128,22 +128,6 @@
       "priority": 4
     },
     {
-      "slug": "ab-testing-tools",
-      "title": "The 11 Best A/B Testing Tools",
-      "vertical": "Growth · Experimentation",
-      "audience": "Growth teams running experiments",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
-      "slug": "webinar-platforms",
-      "title": "The 11 Best Webinar Platforms",
-      "vertical": "Marketing · Webinars",
-      "audience": "Teams running webinars and virtual events",
-      "candidate_pool_size": 25,
-      "priority": 3
-    },
-    {
       "slug": "membership-software",
       "title": "The 11 Best Membership Site Software",
       "vertical": "Creators · Membership",
@@ -304,7 +288,9 @@
     "lms-corporate-training",
     "esign-proposal-software",
     "shipping-software-ecommerce",
-    "session-replay-tools"
+    "session-replay-tools",
+    "ab-testing-tools",
+    "webinar-platforms"
   ],
   "skipped": [
     {

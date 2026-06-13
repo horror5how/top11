@@ -100,6 +100,8 @@ import lmsCorporateTraining from "@/data/lms-corporate-training.json";
 import esignProposalSoftware from "@/data/esign-proposal-software.json";
 import shippingSoftwareEcommerce from "@/data/shipping-software-ecommerce.json";
 import sessionReplayTools from "@/data/session-replay-tools.json";
+import abTestingTools from "@/data/ab-testing-tools.json";
+import webinarPlatforms from "@/data/webinar-platforms.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

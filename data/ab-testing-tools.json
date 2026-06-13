@@ -1,0 +1,848 @@
+{
+  "slug": "ab-testing-tools",
+  "title": "The 11 Best A/B Testing Tools",
+  "subtitle": "A ranked analysis of the top experimentation platforms for growth teams, focusing on statistical rigor, ease of use, and integration performance.",
+  "vertical": "Growth · Experimentation",
+  "audience": "Growth teams running experiments",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-13",
+  "last_verified": "2026-06-13",
+  "next_review": "2026-09-11",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Conversion Rate Optimization",
+  "changelog": [
+    {
+      "date": "2026-06-13",
+      "text": "Initial publication. Methodology v1.0 weights statistical rigor (30%), ease of use (25%), integration/performance (20%), feature scope (15%), and pricing (10%)."
+    }
+  ],
+  "answer_capsule": "The best A/B testing tool is Optimizely for its enterprise-grade statistical rigor, followed by VWO for its all-around capabilities and AB Tasty for its strong personalization features.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-13",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Statistical Rigor",
+        "weight": 30,
+        "description": "Accuracy and reliability of the statistical engine, including options for Bayesian or Frequentist models, and handling of common errors like peeking."
+      },
+      {
+        "name": "Ease of Use & Editor",
+        "weight": 25,
+        "description": "Quality of the visual editor for non-technical users and the overall workflow for creating, launching, and analyzing experiments."
+      },
+      {
+        "name": "Integration & Performance",
+        "weight": 20,
+        "description": "Ability to connect with analytics and data platforms (e.g., GA4, Segment) and impact on site speed, including flicker mitigation."
+      },
+      {
+        "name": "Feature Scope",
+        "weight": 15,
+        "description": "Availability of advanced testing types (MVT, multi-page), server-side testing, feature flagging, and personalization capabilities."
+      },
+      {
+        "name": "Pricing & Transparency",
+        "weight": 10,
+        "description": "Clarity of pricing, availability of self-serve plans, and overall value for the feature set provided."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Enterprise",
+    "Mid-Market",
+    "SMB",
+    "Developer-focused",
+    "Client-side",
+    "Server-side"
+  ],
+  "problem_tags": [
+    "Low conversion rates",
+    "User engagement",
+    "Product adoption",
+    "Feature validation",
+    "Website personalization"
+  ],
+  "query_intents": [
+    "best experimentation platform",
+    "Optimizely vs VWO",
+    "free A/B testing tool",
+    "server-side testing tools",
+    "A/B testing software for startups"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "enterprise-scale experimentation",
+        "program management"
+      ],
+      "personas": [
+        "Head of Growth",
+        "Data Scientist"
+      ]
+    },
+    "2": {
+      "solves": [
+        "all-in-one CRO platform",
+        "mid-market testing"
+      ],
+      "personas": [
+        "Growth Marketer",
+        "CRO Manager"
+      ]
+    },
+    "8": {
+      "solves": [
+        "developer-led testing",
+        "feature flagging"
+      ],
+      "personas": [
+        "Product Manager",
+        "Software Engineer"
+      ]
+    },
+    "11": {
+      "solves": [
+        "testing on existing data warehouse",
+        "open-source experimentation"
+      ],
+      "personas": [
+        "Data Analyst",
+        "Growth Engineer"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.13,
+    "spread_top_to_bottom": 1.8
+  },
+  "guide": [
+    {
+      "q": "How should I choose an A/B testing tool?",
+      "a": "Select your tool based on three main factors: your team's technical skill, your primary use case, and your data stack. If your team is mostly marketers, prioritize a tool with a strong visual editor like VWO or AB Tasty. If you have engineers running tests, a developer-focused tool like Statsig or LaunchDarkly is better. For use cases, decide if you need client-side (visual changes), server-side (deep feature changes), or both. Finally, consider how it integrates with your existing analytics and CDP; tools like GrowthBook connect directly to your data warehouse, offering maximum data control."
+    },
+    {
+      "q": "What's the difference between client-side and server-side testing?",
+      "a": "Client-side testing runs in the user's browser, making it ideal for visual changes like headlines and button colors without needing developer support. Server-side testing runs on your web server before the page is sent to the user, which is necessary for testing deeper functionality, complex features, or multi-channel experiences. Server-side is more powerful and avoids the 'flicker' effect but requires engineering resources to implement."
+    }
+  ],
+  "how_to_choose": [
+    "First, determine if your primary users will be marketers (needing a visual editor) or developers (needing APIs and SDKs).",
+    "Next, decide if you need client-side testing for visual tweaks or server-side testing for feature rollouts and deeper changes.",
+    "Then, evaluate the statistical engine. Bayesian engines often allow for faster decisions, while Frequentist models are more traditional.",
+    "Finally, check for critical integrations with your analytics platform (e.g., GA4, Amplitude) to ensure you can analyze experiment impact on downstream metrics."
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between A/B testing and multivariate testing?",
+      "a": "A/B testing compares two or more distinct versions of a page (e.g., a red button vs. a green button). Multivariate testing (MVT) tests multiple combinations of changes simultaneously (e.g., headline A/B, button color C/D, image E/F) to identify which combination performs best. A/B testing is simpler and faster for testing big changes, while MVT is better for optimizing multiple small elements at once but requires significantly more traffic."
+    },
+    {
+      "q": "How long should you run an A/B test?",
+      "a": "You should run an A/B test until it reaches statistical significance and you have captured at least one full business cycle, typically 1-2 weeks. Stopping a test too early just because one variation is ahead can lead to false positives due to random chance. Most tools will tell you when significance (usually 95% confidence) has been reached."
+    },
+    {
+      "q": "What is a good conversion rate uplift to aim for?",
+      "a": "A realistic conversion rate uplift is typically in the 1-10% range for iterative tests on an already optimized page. While massive 50%+ lifts are possible on brand new or very poor-performing pages, most mature experimentation programs see success through a series of smaller, consistent wins. The goal is cumulative improvement, not a single home run."
+    },
+    {
+      "q": "Can A/B testing hurt my SEO?",
+      "a": "A/B testing is unlikely to hurt your SEO if done correctly. Google encourages testing to improve user experience. To stay safe, use a `rel=\"canonical\"` tag on variation pages, avoid cloaking (showing different content to Googlebot than to users), and don't run tests for an unnecessarily long time. Most modern A/B testing tools handle these technical aspects automatically."
+    }
+  ],
+  "honest_disclosures": [
+    "This list leans towards established, full-featured platforms; pricing for the top-ranked tools can be substantial and often requires a sales call.",
+    "Teams seeking purely developer-centric or open-source tools should pay special attention to the lower-ranked and wildcard entries, which may be a better fit.",
+    "Most candidates are US-based, though all have global customer bases and support for GDPR/CCPA."
+  ],
+  "glossary": {
+    "term": "Statistical Significance",
+    "definition": "A measure of the probability that the observed difference between two variations in a test is not due to random chance. A common threshold is 95%, meaning there is only a 5% chance the results are a fluke.",
+    "synonyms": [
+      "Stat sig",
+      "Confidence level"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Optimizely",
+      "url": "https://www.optimizely.com",
+      "founded": 2009,
+      "hq": "New York, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Large enterprises requiring a full-stack experimentation platform with advanced features and program management.",
+      "best_for_short": "Enterprise-scale experimentation",
+      "pricing_band": "$$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Statistical Rigor": 9.4,
+        "Ease of Use & Editor": 8.8,
+        "Integration & Performance": 9.2,
+        "Feature Scope": 9.4,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Optimizely is the best A/B testing tool for large organizations due to its powerful Stats Engine and extensive feature set that covers web, server-side, and feature flagging. It offers unparalleled control and reliability for mature experimentation programs, including advanced tools for managing multiple concurrent experiments across different teams.",
+      "verdict_short": "The enterprise standard for its powerful stats engine and full-stack experimentation features.",
+      "praise": "Its Stats Engine, which uses a sequential testing model with false discovery rate control, allows teams to get reliable results up to 3x faster than traditional methods.",
+      "praise_short": "Best-in-class statistical engine for fast, reliable results.",
+      "criticism": "The platform's pricing is opaque and among the highest in the market, making it inaccessible for most small to medium-sized businesses.",
+      "criticism_short": "Opaque, high-end enterprise pricing is a barrier for SMBs.",
+      "sources_pending": [
+        "Optimizely Docs",
+        "G2 Reviews",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics 4",
+        "Adobe Analytics",
+        "Segment",
+        "Salesforce",
+        "Slack",
+        "Jira"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "VWO (Visual Website Optimizer)",
+      "url": "https://vwo.com",
+      "founded": 2010,
+      "hq": "Pune, India",
+      "team_size_band": "251-500",
+      "best_for": "Mid-market growth teams who need a powerful, all-in-one conversion optimization platform that is more accessible than enterprise-only options.",
+      "best_for_short": "All-in-one CRO platform",
+      "pricing_band": "$$$ ($350 to $1,500+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Statistical Rigor": 9,
+        "Ease of Use & Editor": 9.4,
+        "Integration & Performance": 8.5,
+        "Feature Scope": 8.8,
+        "Pricing & Transparency": 8.9
+      },
+      "verdict": "VWO secures the second spot by offering a feature-rich platform with an excellent visual editor that empowers both marketing and product teams. It combines A/B testing, heatmaps, session recordings, and surveys into a single suite, providing great value and more transparent pricing than the top enterprise players.",
+      "verdict_short": "A powerful, accessible all-in-one platform with a superb visual editor for mid-market teams.",
+      "praise": "The platform's SmartStats engine uses Bayesian statistics, allowing users to see the probability of a variation winning in real-time and often reach conclusions faster.",
+      "praise_short": "Bayesian stats engine provides faster, intuitive results.",
+      "criticism": "While powerful, running many experiments or using advanced features can sometimes cause a noticeable impact on site load times if not implemented carefully.",
+      "criticism_short": "Can impact site performance if not configured properly.",
+      "sources_pending": [
+        "VWO Docs",
+        "Capterra Reviews",
+        "Client Case Studies"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 356,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics 4",
+        "Heap",
+        "Mixpanel",
+        "Segment",
+        "Shopify",
+        "WordPress"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": 1000
+    },
+    {
+      "rank": 3,
+      "name": "AB Tasty",
+      "url": "https://www.abtasty.com",
+      "founded": 2009,
+      "hq": "Paris, France",
+      "team_size_band": "251-500",
+      "best_for": "E-commerce and marketing teams focused on AI-driven personalization alongside traditional A/B testing.",
+      "best_for_short": "AI-powered personalization & testing",
+      "pricing_band": "$$$$ (Custom plans)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Statistical Rigor": 8.8,
+        "Ease of Use & Editor": 9.2,
+        "Integration & Performance": 8.5,
+        "Feature Scope": 9,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "AB Tasty earns its rank with a strong combination of user-friendly client-side testing and advanced AI-powered personalization features. Its platform is particularly effective for e-commerce, offering audience segmentation and content automation that goes beyond simple A/B comparisons.",
+      "verdict_short": "A user-friendly platform excelling at AI-driven personalization for e-commerce and marketing.",
+      "praise": "The platform includes unique features like image-matching recommendations and automated audience discovery, which help marketers scale personalization efforts with less manual work.",
+      "praise_short": "Strong AI features for scaling personalization efforts.",
+      "criticism": "The reporting and analytics interface is less intuitive than competitors like VWO, sometimes requiring users to export data for deeper analysis.",
+      "criticism_short": "Reporting interface can be clunky for deep analysis.",
+      "sources_pending": [
+        "AB Tasty Docs",
+        "G2 Reviews",
+        "Customer Success Stories"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics 4",
+        "Adobe Analytics",
+        "Segment",
+        "Tealium",
+        "Salesforce Marketing Cloud"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 10,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Convert.com",
+      "url": "https://www.convert.com",
+      "founded": 2009,
+      "hq": "Walnut, USA",
+      "team_size_band": "51-100",
+      "best_for": "Privacy-conscious teams who need a fast, reliable, and flicker-free tool with transparent pricing.",
+      "best_for_short": "Fast, privacy-first testing",
+      "pricing_band": "$$$ ($199 to $1,999/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Statistical Rigor": 8.5,
+        "Ease of Use & Editor": 8.2,
+        "Integration & Performance": 9.4,
+        "Feature Scope": 7.5,
+        "Pricing & Transparency": 9.4
+      },
+      "verdict": "Convert.com stands out for its commitment to performance and privacy, using a globally distributed CDN to deliver tests without flicker and processing no personal data. Its transparent, traffic-based pricing and lack of long-term contracts make it a straightforward choice for teams that prioritize speed and data ethics.",
+      "verdict_short": "A privacy-focused tool with excellent performance and transparent, flexible pricing.",
+      "praise": "The tool consistently performs well in third-party speed tests, ensuring that running experiments has a minimal impact on user experience and Core Web Vitals.",
+      "praise_short": "Minimal impact on site speed and Core Web Vitals.",
+      "criticism": "Its visual editor and user interface feel less modern and are not as intuitive as those of VWO or AB Tasty, presenting a steeper learning curve for non-technical users.",
+      "criticism_short": "User interface and visual editor feel dated.",
+      "sources_pending": [
+        "Convert.com Docs",
+        "G2 Reviews",
+        "Public Speed Tests"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 199,
+      "price_max": 1999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Google Analytics 4",
+        "Mixpanel",
+        "Kissmetrics",
+        "Shopify",
+        "WordPress"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 5,
+      "name": "Adobe Target",
+      "url": "https://business.adobe.com/products/target/adobe-target.html",
+      "founded": 1996,
+      "hq": "San Jose, USA",
+      "team_size_band": "10001+",
+      "best_for": "Large enterprises already invested in the Adobe Experience Cloud who need deep integration with their existing analytics and marketing tools.",
+      "best_for_short": "Adobe Experience Cloud users",
+      "pricing_band": "$$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Statistical Rigor": 8.8,
+        "Ease of Use & Editor": 7.5,
+        "Integration & Performance": 9,
+        "Feature Scope": 8.9,
+        "Pricing & Transparency": 6
+      },
+      "verdict": "Adobe Target is the default choice for enterprises embedded in the Adobe ecosystem, offering seamless integration with Adobe Analytics, Audience Manager, and Experience Manager. Its strength lies in leveraging rich, unified customer profiles to power sophisticated personalization and testing campaigns across multiple channels.",
+      "verdict_short": "The best choice for enterprises in the Adobe ecosystem, with deep native integrations.",
+      "praise": "The native integration with Adobe Analytics allows for much deeper analysis of test results against hundreds of existing metrics and segments without any extra setup.",
+      "praise_short": "Seamless, powerful integration with Adobe Analytics.",
+      "criticism": "The platform is notoriously complex and expensive, with a steep learning curve that often requires specialized training or consulting services to use effectively.",
+      "criticism_short": "Extremely complex and expensive, requires specialized training.",
+      "sources_pending": [
+        "Adobe Target Docs",
+        "Forrester Wave",
+        "Gartner Magic Quadrant"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Adobe Analytics",
+        "Adobe Experience Manager",
+        "Adobe Audience Manager",
+        "Marketo"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "FedRAMP"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 6,
+      "name": "Kameleoon",
+      "url": "https://www.kameleoon.com",
+      "founded": 2012,
+      "hq": "Paris, France",
+      "team_size_band": "51-250",
+      "best_for": "Teams needing a unified platform for both client-side web experimentation and server-side feature flagging with AI optimization.",
+      "best_for_short": "Unified client & server-side AI testing",
+      "pricing_band": "$$$$ (Custom plans)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Statistical Rigor": 8.5,
+        "Ease of Use & Editor": 8,
+        "Integration & Performance": 8.2,
+        "Feature Scope": 8.5,
+        "Pricing & Transparency": 7
+      },
+      "verdict": "Kameleoon provides a strong, unified solution for both marketing-led A/B testing and engineering-led feature management. Its real-time AI personalization engine can automatically identify converting segments and serve them the winning variation, making it a good fit for teams looking to automate optimization.",
+      "verdict_short": "A unified platform for web testing and feature flagging, enhanced by AI personalization.",
+      "praise": "The platform's performance is a key selling point, with a script that is lighter than many competitors and an architecture designed to prevent flicker.",
+      "praise_short": "Lightweight script and flicker-free architecture.",
+      "criticism": "While it offers both client-side and server-side capabilities, the user interface for managing each can feel disconnected, and it lacks the polish of more specialized tools.",
+      "criticism_short": "The UI can feel disjointed between different modules.",
+      "sources_pending": [
+        "Kameleoon Docs",
+        "G2 Reviews",
+        "Client Testimonials"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics 4",
+        "Mixpanel",
+        "Segment",
+        "Heap",
+        "Tealium"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 15,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "SiteSpect",
+      "url": "https://www.sitespect.com",
+      "founded": 2000,
+      "hq": "Boston, USA",
+      "team_size_band": "51-250",
+      "best_for": "Technically advanced teams at large companies needing to test complex, dynamic site elements without any client-side code.",
+      "best_for_short": "Flicker-free proxy-based testing",
+      "pricing_band": "$$$$$ (Custom enterprise plans)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Statistical Rigor": 8.4,
+        "Ease of Use & Editor": 6.5,
+        "Integration & Performance": 9.2,
+        "Feature Scope": 9,
+        "Pricing & Transparency": 6.5
+      },
+      "verdict": "SiteSpect's unique proxy-based architecture places it on this list for its ability to test anything on a site without adding any JavaScript to the page. By sitting between the user and the server, it can modify HTML, CSS, and JavaScript on the fly, eliminating flicker and allowing tests on single-page applications and secure checkout pages where other tools fail.",
+      "verdict_short": "A unique proxy-based tool that tests anything without client-side JS, eliminating flicker.",
+      "praise": "Its 'Find and Replace' engine is extremely powerful, allowing teams to test changes to hard-coded elements, pricing logic, or API responses that are impossible for tag-based tools.",
+      "praise_short": "Powerful 'Find and Replace' engine tests hard-coded elements.",
+      "criticism": "The platform has a very steep learning curve, requires significant technical expertise to operate, and its user interface is considered outdated by modern standards.",
+      "criticism_short": "Very steep learning curve and an outdated user interface.",
+      "sources_pending": [
+        "SiteSpect Docs",
+        "Gartner Peer Insights",
+        "Technical Whitepapers"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Analytics 4",
+        "Adobe Analytics",
+        "Coremetrics",
+        "Slack"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "PCI DSS"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 50,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "Statsig",
+      "url": "https://www.statsig.com",
+      "founded": 2021,
+      "hq": "Kirkland, USA",
+      "team_size_band": "51-250",
+      "best_for": "Product and engineering teams who want to run experiments directly from their codebase with a powerful statistical engine.",
+      "best_for_short": "Developer-first experimentation",
+      "pricing_band": "$$ ($150/mo to custom)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Statistical Rigor": 9.2,
+        "Ease of Use & Editor": 6,
+        "Integration & Performance": 8.5,
+        "Feature Scope": 8.5,
+        "Pricing & Transparency": 9
+      },
+      "verdict": "Statsig is a top choice for developer-centric teams because it was built by ex-Facebook engineers to replicate their internal experimentation culture. It combines feature flagging, automated experiment analysis, and deep product analytics, with a standout statistical model that includes CUPED (Controlled-experiment using Pre-Experiment Data) to reduce variance and get faster results.",
+      "verdict_short": "A developer-first platform with a sophisticated stats engine for running experiments from code.",
+      "praise": "The automated 'Pulse' analysis provides a comprehensive view of an experiment's impact on dozens of key metrics, not just the primary goal, preventing unintended negative consequences.",
+      "praise_short": "Automated 'Pulse' analysis shows impact across all key metrics.",
+      "criticism": "It has no visual editor, making it entirely unsuitable for non-technical marketers who want to run their own tests without writing code.",
+      "criticism_short": "No visual editor; completely unsuitable for non-technical users.",
+      "sources_pending": [
+        "Statsig Docs",
+        "GitHub",
+        "Blog Posts"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 150,
+      "price_max": 150,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "Rudderstack",
+        "Snowflake",
+        "BigQuery",
+        "Redshift",
+        "Datadog",
+        "Jira"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "LaunchDarkly",
+      "url": "https://launchdarkly.com",
+      "founded": 2014,
+      "hq": "Oakland, USA",
+      "team_size_band": "501-1000",
+      "best_for": "Engineering teams implementing feature flags who also want to run server-side experiments on new functionality.",
+      "best_for_short": "Feature management & server-side testing",
+      "pricing_band": "$$$ ($250/mo to custom)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Statistical Rigor": 7.5,
+        "Ease of Use & Editor": 7,
+        "Integration & Performance": 8.8,
+        "Feature Scope": 8,
+        "Pricing & Transparency": 7.5
+      },
+      "verdict": "LaunchDarkly is the market leader in feature management, and its experimentation capabilities are a powerful extension of that core function. It excels at server-side testing and phased rollouts, allowing engineering teams to de-risk releases and measure the impact of new features on performance and business metrics directly within their deployment workflow.",
+      "verdict_short": "The top feature management platform with strong, integrated server-side experimentation.",
+      "praise": "The platform supports a massive number of SDKs (over 30 languages) and has a proven track record of serving flags at enterprise scale with minimal latency.",
+      "praise_short": "Extensive SDK support and enterprise-grade performance.",
+      "criticism": "Its statistical engine and analytics capabilities are less advanced than dedicated experimentation platforms like Optimizely or Statsig, focusing more on basic conversion metrics.",
+      "criticism_short": "Statistical analysis is less advanced than dedicated tools.",
+      "sources_pending": [
+        "LaunchDarkly Docs",
+        "G2 Reviews",
+        "Forrester Wave"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 250,
+      "price_max": 250,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Datadog",
+        "New Relic",
+        "Splunk",
+        "Jira",
+        "Slack",
+        "Segment",
+        "mParticle"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 10,
+      "name": "PostHog",
+      "url": "https://posthog.com",
+      "founded": 2020,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-250",
+      "best_for": "Startups and scale-ups wanting an integrated, open-source suite for product analytics and experimentation.",
+      "best_for_short": "Open-source product analytics + A/B testing",
+      "pricing_band": "$ (Free to $450+/mo)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Statistical Rigor": 7.5,
+        "Ease of Use & Editor": 7.2,
+        "Integration & Performance": 7,
+        "Feature Scope": 8,
+        "Pricing & Transparency": 9.2
+      },
+      "verdict": "PostHog makes the list by bundling A/B testing directly into its open-source product analytics platform. This tight integration allows teams to analyze experiment results against any user behavior tracked in PostHog, from funnels to retention curves, without needing a separate tool. Its generous free tier and transparent pricing are highly attractive for early-stage companies.",
+      "verdict_short": "An open-source platform that tightly integrates A/B testing with product analytics.",
+      "praise": "The ability to create a hypothesis, run an experiment, and analyze its impact on a retention cohort all within a single platform is a huge workflow improvement.",
+      "praise_short": "Seamless workflow from hypothesis to deep cohort analysis.",
+      "criticism": "The experimentation feature set is not as mature as dedicated tools; it lacks a visual editor and has a less sophisticated statistical engine than leaders like Optimizely.",
+      "criticism_short": "Lacks a visual editor and has a basic statistical engine.",
+      "sources_pending": [
+        "PostHog Docs",
+        "GitHub",
+        "G2 Reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": 450,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Segment",
+        "Rudderstack",
+        "Salesforce",
+        "HubSpot",
+        "BigQuery",
+        "Snowflake"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2",
+        "HIPAA"
+      ],
+      "regions": [
+        "US",
+        "EU"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "GrowthBook",
+      "url": "https://www.growthbook.io",
+      "founded": 2020,
+      "hq": "San Francisco, USA",
+      "team_size_band": "11-50",
+      "best_for": "Data-savvy teams who want to own their experimentation data and run tests using their existing data warehouse.",
+      "best_for_short": "Open-source testing on your data warehouse",
+      "pricing_band": "$ (Free to custom)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Statistical Rigor": 8,
+        "Ease of Use & Editor": 6.5,
+        "Integration & Performance": 8,
+        "Feature Scope": 7,
+        "Pricing & Transparency": 9.4
+      },
+      "verdict": "GrowthBook is our wildcard pick because it decouples the experimentation engine from the data source, a contrarian approach in this market. It's an open-source platform that sits on top of your existing data warehouse (like Snowflake or BigQuery), using your data to calculate results. This gives data-centric companies full control and ownership of their experimentation data without vendor lock-in.",
+      "verdict_short": "An open-source tool that runs on your data warehouse, giving you full data ownership.",
+      "praise": "The direct integration with a company's data warehouse means there's no need to pipe event data to a third party, which improves security, privacy, and data freshness.",
+      "praise_short": "No third-party data piping improves security and privacy.",
+      "criticism": "Setup is complex and requires a data warehouse and engineering resources; it's not an out-of-the-box solution for marketing teams without data support.",
+      "criticism_short": "Complex setup requires a data warehouse and engineers.",
+      "sources_pending": [
+        "GrowthBook Docs",
+        "GitHub",
+        "User Community"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-13",
+        "summary": "No material public risk signals as of 2026-06-13.",
+        "signals": []
+      },
+      "price_min": 0,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Snowflake",
+        "BigQuery",
+        "Redshift",
+        "Databricks",
+        "ClickHouse",
+        "Segment"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 3,
+      "min_team_size": 2,
+      "max_team_size": 100
+    }
+  ]
+}
