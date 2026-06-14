@@ -222,6 +222,166 @@
       "audience": "Legal and procurement teams automating contract creation to renewal",
       "candidate_pool_size": 20,
       "priority": 3
+    },
+    {
+      "slug": "lead-generation-tools",
+      "title": "The 11 Best Lead Generation Tools",
+      "vertical": "Sales · Lead Gen",
+      "audience": "Sales and marketing teams building top-of-funnel pipelines",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "it-service-management",
+      "title": "The 11 Best ITSM Software Platforms",
+      "vertical": "IT · Service Management",
+      "audience": "IT teams managing incidents, service requests, and change management",
+      "candidate_pool_size": 25,
+      "priority": 5
+    },
+    {
+      "slug": "cold-email-software",
+      "title": "The 11 Best Cold Email Software Tools",
+      "vertical": "Sales · Outreach",
+      "audience": "SDRs and founders running outbound cold email campaigns",
+      "candidate_pool_size": 25,
+      "priority": 5
+    },
+    {
+      "slug": "ai-writing-software",
+      "title": "The 11 Best AI Writing Tools for Business",
+      "vertical": "Content · AI",
+      "audience": "Marketing teams and writers using AI to draft, edit, and scale content",
+      "candidate_pool_size": 30,
+      "priority": 5
+    },
+    {
+      "slug": "account-based-marketing",
+      "title": "The 11 Best ABM Software Platforms",
+      "vertical": "Marketing · ABM",
+      "audience": "B2B marketing teams running account-based marketing campaigns",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "sales-intelligence-tools",
+      "title": "The 11 Best Sales Intelligence Platforms",
+      "vertical": "Sales · Intelligence",
+      "audience": "Sales reps finding buyer intent signals and prospect data",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "customer-loyalty-software",
+      "title": "The 11 Best Customer Loyalty & Rewards Software",
+      "vertical": "Commerce · Loyalty",
+      "audience": "Retailers and ecommerce brands running loyalty programs",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "referral-marketing-software",
+      "title": "The 11 Best Referral Marketing Software Tools",
+      "vertical": "Marketing · Referral",
+      "audience": "Growth teams building referral and word-of-mouth programs",
+      "candidate_pool_size": 20,
+      "priority": 4
+    },
+    {
+      "slug": "conversion-rate-optimization",
+      "title": "The 11 Best CRO Tools for Higher Conversions",
+      "vertical": "Marketing · CRO",
+      "audience": "Growth and product teams improving website conversion rates",
+      "candidate_pool_size": 25,
+      "priority": 4
+    },
+    {
+      "slug": "b2b-data-providers",
+      "title": "The 11 Best B2B Data Providers & Contact Databases",
+      "vertical": "Sales · Data",
+      "audience": "Sales teams sourcing verified B2B contact lists and intent data",
+      "candidate_pool_size": 20,
+      "priority": 4
+    },
+    {
+      "slug": "it-asset-management",
+      "title": "The 11 Best IT Asset Management Software",
+      "vertical": "IT · Asset Management",
+      "audience": "IT managers tracking hardware and software assets across the organization",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "workplace-wellness-software",
+      "title": "The 11 Best Employee Wellness Software Platforms",
+      "vertical": "HR · Wellness",
+      "audience": "HR teams running employee wellness, mental health, and benefits programs",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "revenue-intelligence",
+      "title": "The 11 Best Revenue Intelligence Platforms",
+      "vertical": "Sales · Revenue Ops",
+      "audience": "Sales leaders using AI to analyze pipeline health and forecast revenue",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "linkedin-automation",
+      "title": "The 11 Best LinkedIn Automation Tools for Outreach",
+      "vertical": "Sales · Social Selling",
+      "audience": "SDRs and founders automating LinkedIn prospecting and outreach",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "email-deliverability-tools",
+      "title": "The 11 Best Email Deliverability Tools",
+      "vertical": "Marketing · Email",
+      "audience": "Email marketers and developers improving inbox placement rates",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "digital-adoption-platforms",
+      "title": "The 11 Best Digital Adoption Platforms",
+      "vertical": "Product · Adoption",
+      "audience": "Product and customer success teams guiding users through software onboarding",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "vendor-management-software",
+      "title": "The 11 Best Vendor Management Software",
+      "vertical": "Operations · Procurement",
+      "audience": "Procurement teams managing supplier relationships and contracts",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "product-roadmap-software",
+      "title": "The 11 Best Product Roadmap Software Tools",
+      "vertical": "Product · Planning",
+      "audience": "Product managers building and sharing product roadmaps",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "cloud-cost-management",
+      "title": "The 11 Best Cloud Cost Management Tools",
+      "vertical": "Engineering · FinOps",
+      "audience": "DevOps and finance teams optimizing AWS, Azure, and GCP spend",
+      "candidate_pool_size": 20,
+      "priority": 3
+    },
+    {
+      "slug": "social-proof-software",
+      "title": "The 11 Best Social Proof & Review Software Tools",
+      "vertical": "Marketing · Trust",
+      "audience": "Ecommerce and SaaS companies collecting and displaying reviews and testimonials",
+      "candidate_pool_size": 20,
+      "priority": 3
     }
   ],
   "in_progress": [],
