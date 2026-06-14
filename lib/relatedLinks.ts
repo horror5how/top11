@@ -10,16 +10,19 @@ import { brandSlug } from "@/lib/matchups";
 // Vertical clusters — used to cross-link sibling lists so orphaned pages get
 // a crawl path from every indexed peer page (not just the home page).
 const VERTICAL_CLUSTERS: string[][] = [
+  // CFO & finance leadership cluster
   [
     "fractional-cfo", "cfo-ai-operators", "cfo-fundraise-readiness",
     "cfo-ip-patent-strategists", "fractional-csuite-deep-tech", "saas-bookkeeping",
     "fractional-cmo", "fractional-coo", "fractional-cto", "investor-crm",
   ],
+  // AI dev tools cluster
   [
     "ai-coding-assistants", "ai-agent-builders", "ai-observability-platforms",
     "llm-evaluation-platforms", "prompt-engineering-tools", "rag-frameworks",
     "vector-databases",
   ],
+  // Meetings & sales communications cluster
   [
     "ai-meeting-assistants", "ai-sales-tools", "ai-customer-support",
     "video-conferencing-software", "webinar-software", "webinar-platforms",
@@ -38,6 +41,7 @@ const VERTICAL_CLUSTERS: string[][] = [
     "construction-project-management", "hr-software-small-business",
     "applicant-tracking-systems", "employee-scheduling-software",
     "freelance-platforms", "lms-corporate-training",
+    "background-check-services", "employee-engagement-software",
   ],
   // Marketing & growth cluster
   [
@@ -48,6 +52,8 @@ const VERTICAL_CLUSTERS: string[][] = [
     "online-course-platforms", "email-marketing-ecommerce", "social-media-b2b",
     "podcast-hosting", "video-hosting-business", "transcription-services",
     "ab-testing-tools", "session-replay-tools", "social-media-analytics",
+    "affiliate-marketing-software", "customer-feedback-tools",
+    "video-editing-software-business",
   ],
   // SMB core software cluster
   [
@@ -76,13 +82,19 @@ const VERTICAL_CLUSTERS: string[][] = [
     "appointment-scheduling-software", "headless-cms",
     "inventory-management-software", "payment-gateways",
     "shopify-apps-conversion", "amazon-seller-tools",
-    "shipping-software-ecommerce",
+    "shipping-software-ecommerce", "accounting-software-ecommerce",
+    "membership-software",
   ],
   // Field services & trades SMB cluster
   [
     "restaurant-pos", "fitness-studio-software", "salon-spa-software",
     "gym-management-software", "field-service-management",
     "hvac-software", "plumbing-software", "landscaping-software",
+  ],
+  // Nonprofit & community org cluster
+  [
+    "nonprofit-crm", "donor-management-software",
+    "church-management-software",
   ],
 ];
 
