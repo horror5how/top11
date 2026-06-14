@@ -110,6 +110,8 @@ import employeeEngagementSoftware from "@/data/employee-engagement-software.json
 import backgroundCheckServices from "@/data/background-check-services.json";
 import customerFeedbackTools from "@/data/customer-feedback-tools.json";
 import videoEditingSoftwareBusiness from "@/data/video-editing-software-business.json";
+import affiliateMarketingSoftware from "@/data/affiliate-marketing-software.json";
+import accountingSoftwareEcommerce from "@/data/accounting-software-ecommerce.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

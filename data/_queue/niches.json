@@ -192,22 +192,6 @@
       "priority": 4
     },
     {
-      "slug": "affiliate-marketing-software",
-      "title": "The 11 Best Affiliate Marketing Software Platforms",
-      "vertical": "Marketing · Affiliate",
-      "audience": "E-commerce brands and SaaS companies launching affiliate programs",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
-      "slug": "accounting-software-ecommerce",
-      "title": "The 11 Best Accounting Software for E-Commerce",
-      "vertical": "Finance · E-Commerce Accounting",
-      "audience": "E-commerce sellers managing inventory COGS, multi-channel sales, and tax",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "business-texting-software",
       "title": "The 11 Best Business Texting Software Platforms",
       "vertical": "Customer Service · SMS",
@@ -354,7 +338,9 @@
     "employee-engagement-software",
     "background-check-services",
     "customer-feedback-tools",
-    "video-editing-software-business"
+    "video-editing-software-business",
+    "affiliate-marketing-software",
+    "accounting-software-ecommerce"
   ],
   "skipped": [
     {

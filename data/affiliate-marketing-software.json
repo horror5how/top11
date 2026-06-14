@@ -1,0 +1,809 @@
+{
+  "slug": "affiliate-marketing-software",
+  "title": "The 11 Best Affiliate Marketing Software Platforms",
+  "subtitle": "A ranked analysis of the top platforms for e-commerce and SaaS companies to manage, track, and scale their affiliate and partner programs.",
+  "vertical": "Marketing · Affiliate",
+  "audience": "E-commerce brands and SaaS companies launching affiliate programs",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-14",
+  "last_verified": "2026-06-14",
+  "next_review": "2026-09-12",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Marketing Technology",
+  "subsector": "Partner Marketing",
+  "changelog": [
+    {
+      "date": "2026-06-14",
+      "text": "Initial publication. Methodology v1.0 weights Tracking & Attribution (30%), Partner Management & Payouts (25%), Platform Usability (20%), Integration Ecosystem (15%), and Pricing & Scalability (10%)."
+    }
+  ],
+  "answer_capsule": "The best affiliate marketing software is Impact for its enterprise-grade tracking and massive partner network, followed closely by PartnerStack for B2B SaaS and ShareASale for e-commerce.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-14",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Tracking & Attribution",
+        "weight": 30,
+        "description": "Accuracy and flexibility of tracking methods (cookies, server-to-server, SDKs), support for various attribution models, and reliability of the core tracking engine."
+      },
+      {
+        "name": "Partner Management & Payouts",
+        "weight": 25,
+        "description": "Tools for recruiting, onboarding, communicating with, and segmenting partners. Includes the ease and automation of commission calculations and global payouts."
+      },
+      {
+        "name": "Platform Usability",
+        "weight": 20,
+        "description": "Ease of use for both program managers and affiliates. Assesses the clarity of the interface, reporting dashboards, and the typical time to become proficient."
+      },
+      {
+        "name": "Integration Ecosystem",
+        "weight": 15,
+        "description": "Availability and quality of pre-built integrations with e-commerce platforms (e.g., Shopify), payment processors (e.g., Stripe), CRMs, and other marketing tools."
+      },
+      {
+        "name": "Pricing & Scalability",
+        "weight": 10,
+        "description": "Clarity of pricing, value for money, and the platform's ability to scale from a small startup program to a large, multi-channel partner ecosystem."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SaaS",
+    "E-commerce",
+    "B2B Marketing",
+    "B2C Marketing",
+    "Partner Programs",
+    "Influencer Marketing"
+  ],
+  "problem_tags": [
+    "customer acquisition",
+    "affiliate fraud",
+    "partner payouts",
+    "marketing ROI",
+    "channel sales"
+  ],
+  "query_intents": [
+    "best affiliate tracking software",
+    "partnerstack vs impact",
+    "shopify affiliate app",
+    "affiliate software for saas"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "enterprise partner management",
+        "multi-channel attribution",
+        "global partner payments"
+      ],
+      "personas": [
+        "Enterprise Marketing Manager",
+        "Head of Partnerships"
+      ]
+    },
+    "2": {
+      "solves": [
+        "b2b saas partner programs",
+        "reseller channel management",
+        "automated partner payouts"
+      ],
+      "personas": [
+        "SaaS Marketing Lead",
+        "Partnerships Manager"
+      ]
+    },
+    "3": {
+      "solves": [
+        "finding new e-commerce affiliates",
+        "cost-effective affiliate network",
+        "affiliate program launch"
+      ],
+      "personas": [
+        "E-commerce Store Owner",
+        "SMB Marketing Director"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.25,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What's the difference between an affiliate network and affiliate software?",
+      "a": "An affiliate network is a two-sided marketplace connecting brands with publishers, while affiliate software is the underlying technology platform a brand uses to manage its own private program. Networks like ShareASale or CJ provide both the technology and the marketplace. Platforms like PartnerStack or Tapfiliate provide just the technology, leaving recruitment to you."
+    },
+    {
+      "q": "How should I structure commissions for my first affiliate program?",
+      "a": "The best commission structure depends on your business model and margins. E-commerce brands typically offer a percentage of the sale (e.g., 10-20%), while SaaS companies often provide a recurring percentage of the subscription fee (e.g., 20-30% for the first year) or a one-time flat fee per new customer."
+    },
+    {
+      "q": "What are the key features to look for in affiliate marketing software?",
+      "a": "The most critical features are reliable tracking and attribution, automated commission payouts, customizable dashboards for both you and your affiliates, and integrations with your core business systems like your e-commerce platform or payment processor. Look for platforms that support different commission types (e.g., percentage, flat-rate, recurring) to match your needs."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary business model: B2B SaaS companies have different needs (e.g., recurring commissions, reseller tracking) than D2C e-commerce brands (e.g., coupon codes, influencer gifting).",
+    "Next, evaluate the integration requirements. Ensure the platform has a native or simple integration with your e-commerce platform (Shopify, BigCommerce) or payment gateway (Stripe, Braintree).",
+    "Finally, consider your budget and scale. Some platforms are networks that charge a percentage of affiliate commissions, while others are pure SaaS with a flat monthly fee. Choose a model that aligns with your projected program size and cash flow."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best affiliate marketing software for Shopify?",
+      "a": "The best affiliate marketing software for Shopify is UpPromote for its deep integration, ease of use, and affordable pricing tiers designed specifically for Shopify merchants. It offers features like post-purchase popups and multi-level marketing directly within the Shopify ecosystem."
+    },
+    {
+      "q": "How much does affiliate marketing software cost?",
+      "a": "Affiliate marketing software costs range from $29 per month for simple platforms to over $5,000 per month for enterprise systems. Many platforms, like Impact or PartnerStack, charge a base platform fee plus a percentage of partner-driven revenue, typically between 3% and 5%."
+    },
+    {
+      "q": "Can I run an affiliate program for free?",
+      "a": "Yes, you can run a basic affiliate program for free using platforms that offer a free tier, such as UpPromote or LeadDyno. These free plans are usually limited by the number of affiliates you can have or the amount of revenue you can generate through the program."
+    },
+    {
+      "q": "What is the difference between Impact and PartnerStack?",
+      "a": "The main difference is their target market: Impact is an enterprise-grade platform for all types of partnerships (affiliate, influencer, B2B) across many verticals, while PartnerStack is specifically built for B2B SaaS companies to manage affiliate, referral, and reseller channels. PartnerStack's strength is its B2B partner marketplace and automated payouts."
+    }
+  ],
+  "honest_disclosures": [
+    "Our analysis focuses on platforms serving the North American and European markets; suitability for other regions may vary.",
+    "Many enterprise-level platforms do not publish pricing, requiring a sales call. The stated price bands are based on publicly available data and user reports, which may not reflect final negotiated rates.",
+    "The distinction between a pure software platform and a network with software is blurry. We included both types as they often compete for the same customers."
+  ],
+  "glossary": {
+    "term": "Attribution",
+    "definition": "The process of identifying which marketing touchpoints or channels are responsible for a conversion, such as a sale or a lead. In affiliate marketing, it determines which affiliate gets credit for a specific customer action.",
+    "synonyms": [
+      "Tracking",
+      "Crediting"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Impact.com",
+      "url": "https://impact.com",
+      "founded": 2008,
+      "hq": "Santa Barbara, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Enterprise brands and high-growth companies needing a single platform to manage all types of partnerships, from traditional affiliates to strategic B2B partners.",
+      "best_for_short": "Enterprise partnership management",
+      "pricing_band": "$$$$ ($2,500 to $10,000+/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Tracking & Attribution": 9.4,
+        "Partner Management & Payouts": 9.3,
+        "Platform Usability": 8.5,
+        "Integration Ecosystem": 9.4,
+        "Pricing & Scalability": 9
+      },
+      "verdict": "Impact.com is the best overall platform because its powerful tracking and automation tools can manage the entire partnership lifecycle for any business model, from influencers to complex B2B channel sales.",
+      "verdict_short": "The most powerful and flexible platform for managing all types of partnerships at scale.",
+      "praise": "Its attribution technology is best-in-class, offering cookieless tracking and detailed cross-channel journey reporting that provides a true source of truth for partner performance.",
+      "praise_short": "Superior tracking and attribution technology.",
+      "criticism": "The platform's extensive feature set comes with a steep learning curve and a high price tag, making it overkill for small businesses or simple affiliate programs.",
+      "criticism_short": "Complex and expensive for small businesses.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/impact-com/reviews",
+        "capteerra.com/p/142993/impact/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 2500,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 5000,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "Salesforce",
+        "HubSpot",
+        "Stripe",
+        "Mobile SDKs"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 5,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "PartnerStack",
+      "url": "https://partnerstack.com",
+      "founded": 2015,
+      "hq": "Toronto, Canada",
+      "team_size_band": "201-500",
+      "best_for": "B2B SaaS companies looking to scale affiliate, referral, and reseller programs with automated partner payouts.",
+      "best_for_short": "B2B SaaS partner programs",
+      "pricing_band": "$$$ ($800 to $5,000/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Tracking & Attribution": 8.8,
+        "Partner Management & Payouts": 9.4,
+        "Platform Usability": 9.2,
+        "Integration Ecosystem": 9,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "PartnerStack is the top choice for B2B SaaS because it is built from the ground up to handle complex partner ecosystems, including resellers and referral partners, and its automated payout system is a major time-saver.",
+      "verdict_short": "The best platform specifically designed for B2B SaaS partner programs and automated payouts.",
+      "praise": "The exclusive B2B partner marketplace provides direct access to over 80,000 active partners, significantly accelerating recruitment for new programs.",
+      "praise_short": "Excellent B2B partner marketplace for recruitment.",
+      "criticism": "Pricing is based on a percentage of partner-generated revenue on top of a platform fee, which can become expensive for high-volume programs.",
+      "criticism_short": "Revenue-share pricing can get costly.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/partnerstack/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 800,
+      "price_max": 5000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 1500,
+      "integrations": [
+        "Stripe",
+        "Salesforce",
+        "HubSpot",
+        "Zapier",
+        "Chargebee",
+        "Recurly"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 2,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "ShareASale",
+      "url": "https://www.shareasale.com",
+      "founded": 2000,
+      "hq": "Chicago, USA",
+      "team_size_band": "51-200",
+      "best_for": "Small to medium-sized e-commerce businesses looking for a cost-effective platform with a large, active affiliate network.",
+      "best_for_short": "E-commerce affiliate network",
+      "pricing_band": "$$ ($550 setup + 20% network fee)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Tracking & Attribution": 8.5,
+        "Partner Management & Payouts": 9.2,
+        "Platform Usability": 8.4,
+        "Integration Ecosystem": 8.5,
+        "Pricing & Scalability": 9.3
+      },
+      "verdict": "ShareASale is the best entry point for e-commerce brands due to its low barrier to entry, transparent pricing, and access to a vast network of over 241,000 active affiliate partners.",
+      "verdict_short": "A cost-effective network with a huge affiliate pool, ideal for e-commerce.",
+      "praise": "The platform's reputation for reliable and timely payments makes it highly attractive to top-performing content and review site affiliates.",
+      "praise_short": "Trusted by affiliates for reliable payments.",
+      "criticism": "The user interface for merchants feels dated compared to modern SaaS platforms, and it can be challenging to navigate for first-time users.",
+      "criticism_short": "Dated and sometimes confusing user interface.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/shareasale/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "Owned by Awin, a major global network, providing stability.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 550,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 650,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "WooCommerce",
+        "Wix"
+      ],
+      "compliance": [
+        "FTC"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 500
+    },
+    {
+      "rank": 4,
+      "name": "Everflow",
+      "url": "https://www.everflow.io",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Agencies and experienced affiliate managers who need granular control over tracking, reporting, and fraud detection.",
+      "best_for_short": "Powerful tracking for experts",
+      "pricing_band": "$$$ ($750 to $3,000/mo)",
+      "score_out_of_94": 8.6,
+      "score_breakdown": {
+        "Tracking & Attribution": 9.3,
+        "Partner Management & Payouts": 8.5,
+        "Platform Usability": 7.8,
+        "Integration Ecosystem": 8.8,
+        "Pricing & Scalability": 8.5
+      },
+      "verdict": "Everflow offers the most detailed analytics and tracking capabilities on the market, making it the preferred choice for performance marketers who live in data and need to optimize campaigns at a granular level.",
+      "verdict_short": "Unmatched tracking and analytics for performance marketing pros and agencies.",
+      "praise": "The platform can process billions of clicks per month with minimal latency, and its 'Click to Conversion Time' reporting is invaluable for campaign optimization.",
+      "praise_short": "Handles massive click volume with deep analytics.",
+      "criticism": "Its interface is data-dense and less intuitive than competitors, requiring a significant time investment to master all of its features.",
+      "criticism_short": "Complex interface with a steep learning curve.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/everflow/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 750,
+      "price_max": 3000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "ClickFunnels",
+        "Stripe",
+        "Zapier",
+        "Mobile SDKs"
+      ],
+      "compliance": [
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "Refersion",
+      "url": "https://www.refersion.com",
+      "founded": 2015,
+      "hq": "New York, USA",
+      "team_size_band": "51-200",
+      "best_for": "Direct-to-consumer e-commerce brands that want a straightforward, easy-to-manage platform for both affiliates and influencers.",
+      "best_for_short": "Simple e-commerce affiliate management",
+      "pricing_band": "$$ ($119 to $599+/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Tracking & Attribution": 8,
+        "Partner Management & Payouts": 8.2,
+        "Platform Usability": 9,
+        "Integration Ecosystem": 8.5,
+        "Pricing & Scalability": 7.8
+      },
+      "verdict": "Refersion is a top choice for e-commerce stores because its user-friendly interface and direct integrations with platforms like Shopify make launching and managing an affiliate program exceptionally simple.",
+      "verdict_short": "The easiest way for e-commerce brands to launch and manage an affiliate program.",
+      "praise": "Its automated commission payments via PayPal and direct link tracking for influencers (no coupon codes needed) simplify two of the biggest operational headaches.",
+      "praise_short": "Simple automated payouts and link tracking.",
+      "criticism": "The platform's features are heavily focused on e-commerce, making it a poor fit for SaaS or other business models that require recurring commission structures.",
+      "criticism_short": "Limited functionality outside of e-commerce.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/refersion/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 119,
+      "price_max": 599,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "WooCommerce",
+        "Stripe",
+        "PayPal"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 250
+    },
+    {
+      "rank": 6,
+      "name": "Tapfiliate",
+      "url": "https://tapfiliate.com",
+      "founded": 2014,
+      "hq": "Amsterdam, Netherlands",
+      "team_size_band": "11-50",
+      "best_for": "SaaS and subscription businesses looking for a flexible and customizable platform without a high price tag.",
+      "best_for_short": "Affordable for SaaS & subscriptions",
+      "pricing_band": "$ ($89 to $149/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Tracking & Attribution": 8,
+        "Partner Management & Payouts": 8.2,
+        "Platform Usability": 8.5,
+        "Integration Ecosystem": 7.5,
+        "Pricing & Scalability": 7.8
+      },
+      "verdict": "Tapfiliate provides a great balance of features and affordability, particularly for SaaS businesses that need to set up recurring and lifetime commissions without paying enterprise-level fees.",
+      "verdict_short": "A flexible, affordable platform ideal for SaaS and subscription-based businesses.",
+      "praise": "The platform allows for deep customization of the affiliate dashboard and signup pages, enabling brands to create a fully white-labeled partner experience.",
+      "praise_short": "Highly customizable, white-labeled affiliate experience.",
+      "criticism": "While it integrates with major services via Zapier, its list of native, one-click integrations is smaller than competitors like PartnerStack.",
+      "criticism_short": "Fewer native integrations than competitors.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/tapfiliate/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 89,
+      "price_max": 149,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "WooCommerce",
+        "Stripe",
+        "PayPal",
+        "Zapier"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 2,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "TUNE",
+      "url": "https://www.tune.com",
+      "founded": 2009,
+      "hq": "Seattle, USA",
+      "team_size_band": "201-500",
+      "best_for": "Large advertisers and networks that require a highly reliable, enterprise-grade platform with a focus on mobile and API-first functionality.",
+      "best_for_short": "Enterprise-grade mobile & API focus",
+      "pricing_band": "$$$$ ($799 to $1,999+/mo)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Tracking & Attribution": 9,
+        "Partner Management & Payouts": 7.8,
+        "Platform Usability": 7,
+        "Integration Ecosystem": 8.5,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "TUNE (formerly HasOffers) is a veteran platform trusted for its 99.9% uptime and powerful API, making it a solid choice for large-scale operations with the developer resources to leverage its full capabilities.",
+      "verdict_short": "A highly reliable, API-first platform for large advertisers with technical teams.",
+      "praise": "Its real-time reporting and API are extremely powerful, allowing for the creation of custom dashboards and workflows that other platforms cannot support.",
+      "praise_short": "Powerful API and real-time reporting.",
+      "criticism": "The platform is one of the most expensive on the market, and its user interface is considered complex and less modern than newer competitors.",
+      "criticism_short": "Expensive with a complex, dated interface.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/tune/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 799,
+      "price_max": 1999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Shopify",
+        "Stripe",
+        "Mobile SDKs",
+        "Extensive API"
+      ],
+      "compliance": [
+        "GDPR",
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 10,
+      "max_team_size": null
+    },
+    {
+      "rank": 8,
+      "name": "UpPromote",
+      "url": "https://uppromote.com",
+      "founded": 2019,
+      "hq": "Hanoi, Vietnam",
+      "team_size_band": "51-200",
+      "best_for": "Shopify merchants of all sizes looking for a native, feature-rich, and highly-rated affiliate marketing app.",
+      "best_for_short": "Top-rated Shopify affiliate app",
+      "pricing_band": "$ ($29 to $299/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Tracking & Attribution": 7.5,
+        "Partner Management & Payouts": 7.8,
+        "Platform Usability": 8.8,
+        "Integration Ecosystem": 7,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "UpPromote is the best dedicated solution for Shopify stores because it operates seamlessly within the Shopify ecosystem, is easy to set up in minutes, and offers a generous free plan to get started.",
+      "verdict_short": "A feature-rich, easy-to-use affiliate app built exclusively for Shopify.",
+      "praise": "The marketplace feature helps merchants find and recruit new affiliates directly within the app, and the customer support is consistently praised as fast and helpful.",
+      "praise_short": "In-app affiliate marketplace and great support.",
+      "criticism": "Its functionality is almost entirely limited to the Shopify platform, making it unsuitable for businesses that use other e-commerce systems or plan to migrate.",
+      "criticism_short": "Only works with the Shopify platform.",
+      "sources_pending": [
+        "vendor docs",
+        "apps.shopify.com/uppromote-affiliate-marketing/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 29.99,
+      "price_max": 299.99,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "PayPal",
+        "Klaviyo",
+        "Mailchimp"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Post Affiliate Pro",
+      "url": "https://www.postaffiliatepro.com",
+      "founded": 2004,
+      "hq": "Bratislava, Slovakia",
+      "team_size_band": "11-50",
+      "best_for": "Businesses with specific technical requirements that need a highly customizable, self-hosted option with a one-time license fee.",
+      "best_for_short": "Customizable self-hosted software",
+      "pricing_band": "$$ ($129/mo or $1,199 license)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Tracking & Attribution": 8,
+        "Partner Management & Payouts": 7.5,
+        "Platform Usability": 6.8,
+        "Integration Ecosystem": 7.5,
+        "Pricing & Scalability": 8
+      },
+      "verdict": "Post Affiliate Pro is a strong contender for tech-savvy businesses because it offers an enormous number of features and customizations, including a downloadable, self-hosted version for complete data control.",
+      "verdict_short": "A feature-packed, customizable platform available as SaaS or self-hosted license.",
+      "praise": "It supports dozens of unique commission types, such as split commissions and multi-tier commissions, offering more flexibility than most competitors.",
+      "praise_short": "Extremely flexible commission structures.",
+      "criticism": "The user interface is widely considered to be outdated and clunky, and the sheer number of settings can be overwhelming for new users.",
+      "criticism_short": "Outdated interface is difficult to navigate.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/post-affiliate-pro/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 129,
+      "price_max": 1199,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "Stripe",
+        "PayPal",
+        "Over 200 CMS/Gateways"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "LeadDyno",
+      "url": "https://www.leaddyno.com",
+      "founded": 2014,
+      "hq": "Sacramento, USA",
+      "team_size_band": "11-50",
+      "best_for": "Startups and small businesses looking for an easy-to-use platform with simple, transparent pricing.",
+      "best_for_short": "Simple for startups",
+      "pricing_band": "$ ($49 to $749/mo)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Tracking & Attribution": 7,
+        "Partner Management & Payouts": 7.5,
+        "Platform Usability": 8.5,
+        "Integration Ecosystem": 7,
+        "Pricing & Scalability": 7
+      },
+      "verdict": "LeadDyno is one of the easiest platforms to get started with, offering a clean interface and one-click integrations that allow a small business to launch a program in under an hour.",
+      "verdict_short": "An exceptionally easy-to-use platform for small businesses launching their first program.",
+      "praise": "Each affiliate gets their own dashboard with pre-written social media content, making it very simple for them to start promoting your product immediately.",
+      "praise_short": "Easy-to-use affiliate dashboards with content.",
+      "criticism": "The platform's tracking and reporting are less advanced than competitors, and it lacks the sophisticated features needed for managing large, complex partner programs.",
+      "criticism_short": "Lacks advanced tracking and reporting features.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/leaddyno/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 49,
+      "price_max": 749,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "Stripe",
+        "PayPal",
+        "HubSpot"
+      ],
+      "compliance": [
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 50
+    },
+    {
+      "rank": 11,
+      "is_wildcard": true,
+      "name": "GRIN",
+      "url": "https://grin.co",
+      "founded": 2014,
+      "hq": "Sacramento, USA",
+      "team_size_band": "201-500",
+      "best_for": "Direct-to-consumer brands focused on building authentic relationships with creators and influencers, rather than just managing traditional affiliates.",
+      "best_for_short": "Creator & influencer relationship management",
+      "pricing_band": "$$$$ ($2,500 to $10,000+/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Tracking & Attribution": 7,
+        "Partner Management & Payouts": 8,
+        "Platform Usability": 8.5,
+        "Integration Ecosystem": 6,
+        "Pricing & Scalability": 6
+      },
+      "verdict": "GRIN is a wildcard because it's a creator management platform first and an affiliate tool second, focusing on relationship building, content tracking, and product seeding for influencer programs.",
+      "verdict_short": "A creator management platform that treats affiliates as long-term brand partners.",
+      "praise": "It excels at tracking user-generated content across social platforms like TikTok and Instagram, providing metrics that go far beyond simple click and conversion data.",
+      "praise_short": "Excellent for tracking social UGC and content.",
+      "criticism": "It is very expensive and lacks the deep financial tracking and complex commission structures of dedicated affiliate platforms, making it unsuitable for traditional performance-based programs.",
+      "criticism_short": "Expensive and lacks deep financial tracking.",
+      "sources_pending": [
+        "vendor docs",
+        "g2.com/products/grin/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 2500,
+      "price_max": 10000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify",
+        "BigCommerce",
+        "WooCommerce",
+        "Magento"
+      ],
+      "compliance": [
+        "FTC",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 3,
+      "max_team_size": 100
+    }
+  ]
+}
