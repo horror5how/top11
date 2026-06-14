@@ -1,0 +1,816 @@
+{
+  "slug": "sales-forecasting-software",
+  "title": "The 11 Best Sales Forecasting Software Tools",
+  "subtitle": "An analysis of platforms that use AI and CRM data to predict revenue, ranked by forecasting accuracy and integration depth for RevOps teams.",
+  "vertical": "Sales · Analytics",
+  "audience": "Sales managers and RevOps teams building accurate revenue forecasts",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-14",
+  "last_verified": "2026-06-14",
+  "next_review": "2026-09-12",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Sales Software",
+  "subsector": "Revenue Operations",
+  "changelog": [
+    {
+      "date": "2026-06-14",
+      "text": "Initial publication. Methodology v1.0 weights Forecasting Accuracy & AI (30%), CRM Integration Depth (25%), Usability & Adoption (20%), Data & Analytics Features (15%), and Scalability & Enterprise Fit (10%)."
+    }
+  ],
+  "answer_capsule": "The best sales forecasting software is Clari for its purpose-built revenue platform, followed by Gong for its conversation intelligence-driven insights and Aviso AI for its predictive accuracy.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-14",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Forecasting Accuracy & AI",
+        "weight": 30,
+        "description": "Effectiveness of the AI/ML models in predicting sales outcomes, accounting for historical data, deal momentum, and rep behavior."
+      },
+      {
+        "name": "CRM Integration Depth",
+        "weight": 25,
+        "description": "Quality and reliability of bi-directional sync with major CRMs (especially Salesforce). Assesses data capture accuracy and automation."
+      },
+      {
+        "name": "Usability & Adoption",
+        "weight": 20,
+        "description": "Ease of use for both sales reps and managers. An intuitive interface that promotes regular use and requires minimal training is scored higher."
+      },
+      {
+        "name": "Data & Analytics Features",
+        "weight": 15,
+        "description": "Breadth of features beyond forecasting, such as pipeline inspection, deal health scoring, activity tracking, and conversation intelligence."
+      },
+      {
+        "name": "Scalability & Enterprise Fit",
+        "weight": 10,
+        "description": "Ability to support complex sales hierarchies, multiple currencies, large data volumes, and enterprise-grade security and compliance (e.g., SOC 2)."
+      }
+    ]
+  },
+  "segment_tags": [
+    "Revenue Intelligence",
+    "Sales Analytics",
+    "Predictive Analytics",
+    "RevOps",
+    "Sales Management"
+  ],
+  "problem_tags": [
+    "Inaccurate Forecasts",
+    "Pipeline Visibility",
+    "Manual Reporting",
+    "Deal Slippage",
+    "Sales Productivity"
+  ],
+  "query_intents": [
+    "best sales forecasting tools",
+    "Clari vs Gong",
+    "AI sales forecasting software",
+    "Salesforce forecasting alternatives",
+    "revenue prediction software"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Inaccurate Forecasts",
+        "Pipeline Visibility"
+      ],
+      "personas": [
+        "CRO",
+        "VP of Sales",
+        "RevOps Leader"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Deal Slippage",
+        "Sales Productivity"
+      ],
+      "personas": [
+        "Sales Manager",
+        "Sales Enablement"
+      ]
+    },
+    "5": {
+      "solves": [
+        "Manual Reporting",
+        "Inaccurate Forecasts"
+      ],
+      "personas": [
+        "SMB Sales Manager",
+        "Marketing & Sales Leader"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.11,
+    "spread_top_to_bottom": 2.2
+  },
+  "guide": [
+    {
+      "q": "What's the difference between CRM-native and dedicated forecasting tools?",
+      "a": "CRM-native tools (like Salesforce's) offer basic forecasting inside your existing system, while dedicated platforms (like Clari) layer on top, adding advanced AI, activity data capture, and deeper pipeline analytics that CRMs lack."
+    },
+    {
+      "q": "How much does sales forecasting software typically cost?",
+      "a": "Pricing varies widely. Expect to pay per user, per month, often with costs ranging from $50 to over $150 per user for advanced platforms. Most enterprise-grade tools require a custom quote and have minimum seat counts of 10-25 users."
+    },
+    {
+      "q": "Can these tools integrate with systems other than my CRM?",
+      "a": "Yes, many leading tools integrate with a broader GTM tech stack. Common integrations include email and calendar (Google Workspace, Microsoft 365), conversation intelligence tools, and BI platforms to pull in a complete picture of revenue activity."
+    }
+  ],
+  "how_to_choose": [
+    "First, evaluate your CRM's built-in forecasting features to identify specific gaps; don't pay for capabilities you already have.",
+    "Prioritize tools with the deepest, most reliable integration for your specific CRM, as poor data sync undermines the entire system.",
+    "Request a proof-of-concept using your own historical sales data to test the platform's predictive accuracy against past quarters."
+  ],
+  "faqs": [
+    {
+      "q": "What are the most common sales forecasting methods?",
+      "a": "The most common methods include opportunity stage forecasting (based on deal progression), historical forecasting (based on past performance), and intuitive forecasting (based on sales rep judgment). Modern software often blends these with AI-driven predictive models for higher accuracy."
+    },
+    {
+      "q": "How can I improve my sales forecast accuracy?",
+      "a": "You can improve accuracy by enforcing consistent CRM data entry, using a weighted pipeline based on historical conversion rates, and incorporating activity data (emails, meetings) as leading indicators. Adopting a dedicated forecasting tool automates much of this process."
+    },
+    {
+      "q": "Is Excel good enough for sales forecasting?",
+      "a": "Excel can work for very small teams with simple sales cycles, but it is not ideal. It's manual, prone to errors, lacks real-time data, and cannot provide the AI-driven insights or automated data capture of specialized software."
+    },
+    {
+      "q": "What is 'revenue intelligence' and how does it relate to forecasting?",
+      "a": "Revenue intelligence is a broader category of software that captures and analyzes customer interaction data (emails, calls, meetings) to provide insights across the entire revenue process. Sales forecasting is a key output of a revenue intelligence platform, using that rich data to make more accurate predictions."
+    }
+  ],
+  "honest_disclosures": [
+    "Most top-tier tools are priced for mid-market and enterprise teams, with limited options for small businesses or startups.",
+    "The effectiveness of any tool is highly dependent on the quality and consistency of your underlying CRM data; these platforms are not a magic fix for poor data hygiene.",
+    "Our evaluation focuses on B2B SaaS sales models; tools may be less suited for highly transactional, e-commerce, or retail forecasting."
+  ],
+  "glossary": {
+    "term": "Revenue Intelligence (RevI)",
+    "definition": "A category of software that automatically captures customer interaction data from emails, calendars, and calls, then uses AI to analyze it and provide actionable insights for sales, marketing, and customer success teams. Accurate forecasting is a primary benefit.",
+    "synonyms": [
+      "Conversation Intelligence",
+      "Revenue Operations & Intelligence"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "Clari",
+      "url": "https://www.clari.com",
+      "founded": 2013,
+      "hq": "Sunnyvale, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Enterprise and high-growth RevOps teams needing the most complete, purpose-built platform for managing and predicting revenue.",
+      "best_for_short": "Enterprise revenue operations",
+      "pricing_band": "$$$$ (Custom Quote)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 9.4,
+        "CRM Integration Depth": 9.3,
+        "Usability & Adoption": 8.8,
+        "Data & Analytics Features": 9.2,
+        "Scalability & Enterprise Fit": 9.5
+      },
+      "verdict": "Clari is the best sales forecasting software because it provides the most mature and dedicated platform for governing the entire revenue process, from pipeline inspection to board-level reporting.",
+      "verdict_short": "The most mature, purpose-built revenue platform for enterprise forecasting and pipeline management.",
+      "praise": "Its RevenueDB technology captures a vast amount of signal data from emails, calendars, and CRM, giving its AI models a rich dataset for highly accurate, real-time predictions.",
+      "praise_short": "Extremely accurate AI models fueled by deep data capture.",
+      "criticism": "The platform's power comes with a high price tag and a level of complexity that can be overkill for smaller sales teams without a dedicated RevOps function.",
+      "criticism_short": "Expensive and can be too complex for smaller teams.",
+      "sources_pending": [
+        "clari.com/product",
+        "g2.com/products/clari/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Google Workspace",
+        "Microsoft 365",
+        "Gong",
+        "SalesLoft"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 25,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Gong",
+      "url": "https://www.gong.io",
+      "founded": 2015,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1,001-5,000",
+      "best_for": "Sales teams who want forecasting grounded in the reality of customer conversations and rep activities.",
+      "best_for_short": "Conversation-driven forecasting",
+      "pricing_band": "$$$$ (Custom Quote)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 9,
+        "CRM Integration Depth": 8.9,
+        "Usability & Adoption": 9.4,
+        "Data & Analytics Features": 9.5,
+        "Scalability & Enterprise Fit": 8.5
+      },
+      "verdict": "Gong ranks this high because its best-in-class conversation intelligence provides a qualitative layer to forecasting that quantitative-only tools miss, identifying deal risk based on what is actually said in sales calls.",
+      "verdict_short": "Top-tier forecasting powered by unmatched analysis of actual sales conversations.",
+      "praise": "The platform's ability to automatically surface deal warnings, competitor mentions, and buyer sentiment from calls and emails provides managers with early indicators that CRM data alone can't offer.",
+      "praise_short": "Surfaces deal risks directly from customer conversations.",
+      "criticism": "While its forecasting is powerful, it's an outcome of its primary conversation intelligence engine, making it a less direct or customizable forecasting tool than a platform like Clari.",
+      "criticism_short": "Forecasting is a feature, not the core product focus.",
+      "sources_pending": [
+        "gong.io/product",
+        "g2.com/products/gong-io/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Zoho CRM",
+        "Microsoft Dynamics 365",
+        "Zoom",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 21,
+      "min_team_size": 20,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "Aviso AI",
+      "url": "https://www.aviso.com",
+      "founded": 2012,
+      "hq": "Redwood City, USA",
+      "team_size_band": "201-500",
+      "best_for": "Data-driven sales organizations looking for highly accurate, AI-powered deal-level predictions and long-range forecasting.",
+      "best_for_short": "AI-driven forecast accuracy",
+      "pricing_band": "$$$$ (Custom Quote)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 9.5,
+        "CRM Integration Depth": 9,
+        "Usability & Adoption": 8.2,
+        "Data & Analytics Features": 8.5,
+        "Scalability & Enterprise Fit": 8.9
+      },
+      "verdict": "Aviso AI earns its spot with a deep focus on predictive AI, using its time-series database to deliver exceptionally accurate win-score predictions and forecast calls at the individual deal level.",
+      "verdict_short": "A highly accurate, AI-first platform for deal-level win predictions.",
+      "praise": "Its AI models are particularly effective at identifying which deals in the 'commit' category are truly at risk, allowing managers to focus coaching efforts with precision.",
+      "praise_short": "Excels at identifying risk in committed deals.",
+      "criticism": "The user interface, while powerful, can feel less intuitive and modern compared to competitors like Gong and Clari, potentially impacting broader sales rep adoption.",
+      "criticism_short": "User interface feels less modern than competitors.",
+      "sources_pending": [
+        "aviso.com/platform",
+        "g2.com/products/aviso-sales-vision-platform/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Microsoft Dynamics 365",
+        "Oracle CRM",
+        "SAP"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 50,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "Salesforce Sales Cloud",
+      "url": "https://www.salesforce.com/products/sales-cloud/overview/",
+      "founded": 1999,
+      "hq": "San Francisco, USA",
+      "team_size_band": "50,001+",
+      "best_for": "Companies deeply embedded in the Salesforce ecosystem that prefer a native, highly customizable forecasting solution.",
+      "best_for_short": "Native Salesforce forecasting",
+      "pricing_band": "$$$ ($75 to $300/user/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 8,
+        "CRM Integration Depth": 9.8,
+        "Usability & Adoption": 8.5,
+        "Data & Analytics Features": 7.8,
+        "Scalability & Enterprise Fit": 9.2
+      },
+      "verdict": "Salesforce provides the best native forecasting solution, leveraging its position as the central CRM to offer unmatched data integrity and infinite customizability for teams that live and breathe its platform.",
+      "verdict_short": "The best native forecasting tool for teams already using Salesforce CRM.",
+      "praise": "The direct integration with opportunity data, quoting, and custom objects means there are no data sync issues, and forecasting can be tailored precisely to a company's unique sales process.",
+      "praise_short": "Perfect data integrity and deep customization within the CRM.",
+      "criticism": "Its native capabilities lack the automated activity capture and advanced AI of dedicated tools, often requiring manual data entry and expensive add-ons like Sales Cloud Einstein to approach their accuracy.",
+      "criticism_short": "Lacks the automated AI and activity capture of dedicated tools.",
+      "sources_pending": [
+        "salesforce.com/products/sales-cloud/features/sales-forecasting",
+        "g2.com/products/salesforce-sales-cloud/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 75,
+      "price_max": 300,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Native Salesforce Platform",
+        "AppExchange ecosystem"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "HubSpot Sales Hub",
+      "url": "https://www.hubspot.com/products/sales",
+      "founded": 2006,
+      "hq": "Cambridge, USA",
+      "team_size_band": "5,001-10,000",
+      "best_for": "SMB and mid-market companies using the HubSpot platform who need a simple, integrated, and easy-to-use forecasting tool.",
+      "best_for_short": "SMBs on the HubSpot platform",
+      "pricing_band": "$$$ ($450 to $1,500/mo for teams)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 7.8,
+        "CRM Integration Depth": 9.5,
+        "Usability & Adoption": 9.6,
+        "Data & Analytics Features": 7.5,
+        "Scalability & Enterprise Fit": 7
+      },
+      "verdict": "HubSpot Sales Hub is the best choice for simplicity and value, offering straightforward forecasting tools directly within its widely adopted CRM platform, making it exceptionally easy for SMBs to adopt.",
+      "verdict_short": "The easiest-to-use forecasting tool for SMBs already using HubSpot CRM.",
+      "praise": "The tool is incredibly intuitive for sales managers, allowing them to set up revenue goals and view forecast submissions in minutes without needing a dedicated administrator or RevOps team.",
+      "praise_short": "Extremely intuitive setup and use for sales managers.",
+      "criticism": "Its forecasting capabilities are less sophisticated than dedicated platforms, lacking the deep AI-driven insights and flexibility required for businesses with complex sales hierarchies or multi-channel revenue streams.",
+      "criticism_short": "Forecasting is too basic for complex enterprise sales.",
+      "sources_pending": [
+        "hubspot.com/products/sales/sales-analytics",
+        "g2.com/products/hubspot-sales-hub/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 450,
+      "price_max": 1500,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 750,
+      "integrations": [
+        "Native HubSpot Platform",
+        "Salesforce",
+        "Gmail",
+        "Outlook",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 14,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "BoostUp.ai",
+      "url": "https://boostup.ai",
+      "founded": 2018,
+      "hq": "Santa Clara, USA",
+      "team_size_band": "51-200",
+      "best_for": "RevOps leaders seeking a unified platform that combines forecasting with deep pipeline and activity risk analysis.",
+      "best_for_short": "Unified forecasting and risk analysis",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 8.5,
+        "CRM Integration Depth": 8.8,
+        "Usability & Adoption": 7.8,
+        "Data & Analytics Features": 8,
+        "Scalability & Enterprise Fit": 7.5
+      },
+      "verdict": "BoostUp.ai provides a strong, unified revenue operations and intelligence platform that excels at identifying deal risk through multi-factor analysis, making its forecasts more reliable.",
+      "verdict_short": "A strong RevOps platform that connects forecasting with deal risk intelligence.",
+      "praise": "The platform's risk intelligence is a key differentiator, flagging issues like single-threaded deals or a lack of recent engagement directly within the forecasting workflow.",
+      "praise_short": "Excels at flagging specific deal risks automatically.",
+      "criticism": "As a smaller player compared to Clari or Gong, its brand recognition is lower, and its product roadmap may evolve more rapidly, which can be a concern for large enterprise deployments.",
+      "criticism_short": "Less established brand than top-tier competitors.",
+      "sources_pending": [
+        "boostup.ai/product",
+        "g2.com/products/boostup-ai/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Google Workspace",
+        "Microsoft 365"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe"
+      ],
+      "onboarding_days": 30,
+      "min_team_size": 20,
+      "max_team_size": null
+    },
+    {
+      "rank": 7,
+      "name": "InsightSquared (by Mediafly)",
+      "url": "https://www.insightsquared.com",
+      "founded": 2010,
+      "hq": "Boston, USA",
+      "team_size_band": "51-200",
+      "best_for": "Sales leaders who prioritize deep, visual analytics and historical trend analysis alongside their forecasting.",
+      "best_for_short": "Analytics-heavy forecasting",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 7.9,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 7.5,
+        "CRM Integration Depth": 8.5,
+        "Usability & Adoption": 7.8,
+        "Data & Analytics Features": 9,
+        "Scalability & Enterprise Fit": 7
+      },
+      "verdict": "InsightSquared stands out for its powerful sales analytics engine, offering some of the most detailed dashboards for pipeline health, sales cycle analysis, and rep performance to support forecast assumptions.",
+      "verdict_short": "A forecasting tool built on a foundation of deep sales analytics and reporting.",
+      "praise": "Its pre-built reports and visualizations are excellent for diagnosing the 'why' behind a forecast, quickly showing metrics like pipeline coverage, stage conversion rates, and deal velocity.",
+      "praise_short": "Excellent pre-built dashboards for pipeline analysis.",
+      "criticism": "Since its acquisition by Mediafly, the product focus has broadened to the full revenue enablement lifecycle, with less singular focus on being a best-of-breed forecasting tool.",
+      "criticism_short": "Less singular product focus since its acquisition.",
+      "sources_pending": [
+        "insightsquared.com/platform/sales-analytics",
+        "g2.com/products/insightsquared/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Microsoft Dynamics 365",
+        "HubSpot",
+        "NetSuite"
+      ],
+      "compliance": [
+        "SOC 2"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 45,
+      "min_team_size": 15,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "People.ai",
+      "url": "https://people.ai",
+      "founded": 2016,
+      "hq": "San Francisco, USA",
+      "team_size_band": "201-500",
+      "best_for": "Enterprise sales teams focused on improving rep productivity and data hygiene as the foundation for accurate forecasting.",
+      "best_for_short": "Activity-driven data capture",
+      "pricing_band": "$$$$ (Custom Quote)",
+      "score_out_of_94": 7.7,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 7.5,
+        "CRM Integration Depth": 9.2,
+        "Usability & Adoption": 7,
+        "Data & Analytics Features": 7.5,
+        "Scalability & Enterprise Fit": 8
+      },
+      "verdict": "People.ai earns its place by focusing on the root cause of bad forecasts: poor data. Its core strength is automatically capturing all sales activity and mapping stakeholder relationships to build a clean data foundation in the CRM.",
+      "verdict_short": "Fixes forecasting by first fixing CRM data with automated activity capture.",
+      "praise": "The platform is unmatched in its ability to automatically create and enrich contacts in the CRM based on email and calendar activity, saving reps hundreds of hours of manual data entry.",
+      "praise_short": "Best-in-class automated contact creation and activity logging.",
+      "criticism": "The forecasting and analytics features are less mature than the data capture engine, serving more as a valuable output of the clean data rather than a standalone, best-in-class forecasting module.",
+      "criticism_short": "Forecasting features are less mature than its data capture core.",
+      "sources_pending": [
+        "people.ai/product",
+        "g2.com/products/people-ai/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Google Workspace",
+        "Microsoft 365",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "CCPA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 100,
+      "max_team_size": null
+    },
+    {
+      "rank": 9,
+      "name": "Xactly Forecasting",
+      "url": "https://www.xactlycorp.com/products/sales-planning-forecasting",
+      "founded": 2005,
+      "hq": "San Jose, USA",
+      "team_size_band": "501-1,000",
+      "best_for": "Organizations that want to tightly couple their sales forecasts with sales compensation and territory planning.",
+      "best_for_short": "Forecasting for comp planning",
+      "pricing_band": "$$$ (Custom Quote)",
+      "score_out_of_94": 7.5,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 7.2,
+        "CRM Integration Depth": 7.5,
+        "Usability & Adoption": 7.4,
+        "Data & Analytics Features": 7.8,
+        "Scalability & Enterprise Fit": 8
+      },
+      "verdict": "Xactly Forecasting is a strong contender for companies already using its industry-leading sales performance management (SPM) tools, as it connects forecasting directly to quota and compensation planning.",
+      "verdict_short": "A solid forecasting tool that integrates directly with sales compensation management.",
+      "praise": "The ability to model the impact of different forecast scenarios on commission payouts and attainment is a unique feature that directly links planning to rep motivation.",
+      "praise_short": "Connects forecast scenarios directly to commission modeling.",
+      "criticism": "As a standalone forecasting tool, it lacks the deep AI-driven deal insights and automated activity capture of the revenue intelligence platforms that lead this list.",
+      "criticism_short": "Lacks the deep deal intelligence of RevI platforms.",
+      "sources_pending": [
+        "xactlycorp.com/products/sales-planning-forecasting",
+        "g2.com/products/xactly-forecasting/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": null,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Salesforce",
+        "Microsoft Dynamics 365",
+        "Oracle",
+        "SAP",
+        "Workday"
+      ],
+      "compliance": [
+        "SOC 1",
+        "SOC 2",
+        "ISO 27001",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 60,
+      "min_team_size": 50,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Zoho CRM",
+      "url": "https://www.zoho.com/crm/",
+      "founded": 1996,
+      "hq": "Chennai, India",
+      "team_size_band": "10,001+",
+      "best_for": "Small businesses and cost-conscious teams looking for an all-in-one CRM with capable, built-in forecasting features.",
+      "best_for_short": "All-in-one CRM for SMBs",
+      "pricing_band": "$ ($14 to $52/user/mo)",
+      "score_out_of_94": 7.2,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 6.8,
+        "CRM Integration Depth": 8,
+        "Usability & Adoption": 8.2,
+        "Data & Analytics Features": 6.5,
+        "Scalability & Enterprise Fit": 6
+      },
+      "verdict": "Zoho CRM provides the best value for small businesses by including a solid, customizable forecasting module as part of its affordable, all-in-one CRM suite.",
+      "verdict_short": "The best value for SMBs needing an integrated CRM and forecasting tool.",
+      "praise": "Its AI-powered assistant, Zia, can provide forecast predictions and identify anomalies, offering a level of intelligence not typically found in CRMs at this price point.",
+      "praise_short": "Includes AI predictions at a very low price point.",
+      "criticism": "The forecasting is entirely dependent on manually entered CRM data and lacks the automated activity capture and deep analysis to be truly predictive for complex sales cycles.",
+      "criticism_short": "Relies entirely on manual CRM data entry.",
+      "sources_pending": [
+        "zoho.com/crm/features.html",
+        "g2.com/products/zoho-crm/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 14,
+      "price_max": 52,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Native Zoho Suite",
+        "Google Workspace",
+        "Microsoft 365",
+        "Slack"
+      ],
+      "compliance": [
+        "SOC 2 Type II",
+        "GDPR",
+        "HIPAA"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 11,
+      "name": "Tableau",
+      "url": "https://www.tableau.com",
+      "founded": 2003,
+      "hq": "Seattle, USA",
+      "team_size_band": "1,001-5,000",
+      "is_wildcard": true,
+      "best_for": "Highly analytical RevOps or data science teams that want to build completely custom forecasting models from the ground up.",
+      "best_for_short": "Custom-built forecasting models",
+      "pricing_band": "$$ ($70/user/mo for Creator)",
+      "score_out_of_94": 7,
+      "score_breakdown": {
+        "Forecasting Accuracy & AI": 7,
+        "CRM Integration Depth": 7.5,
+        "Usability & Adoption": 5,
+        "Data & Analytics Features": 9.5,
+        "Scalability & Enterprise Fit": 8
+      },
+      "verdict": "Our wildcard pick, Tableau, is not a sales forecasting tool but a powerful business intelligence platform that allows expert users to build bespoke, sophisticated forecasting models that are impossible with out-of-the-box software.",
+      "verdict_short": "A BI tool for building completely custom forecasting models, not an out-of-the-box solution.",
+      "praise": "Its unparalleled flexibility allows you to connect and blend data from dozens of sources (CRM, ERP, marketing automation) to create predictive models that precisely match your business logic.",
+      "praise_short": "Unmatched flexibility to blend data sources for custom models.",
+      "criticism": "It requires significant data science and analytics expertise to build and maintain, is not a plug-and-play solution, and provides none of the sales-specific workflows like pipeline inspection or activity capture.",
+      "criticism_short": "Requires deep analytics expertise and has no sales workflows.",
+      "sources_pending": [
+        "tableau.com/products/creator",
+        "g2.com/products/tableau-desktop/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "Tableau is owned by Salesforce, a stable, publicly traded company.",
+        "signals": []
+      },
+      "price_min": 70,
+      "price_max": 70,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "SQL Databases",
+        "Spreadsheets",
+        "Snowflake",
+        "Redshift",
+        "Hundreds more"
+      ],
+      "compliance": [
+        "SOC 2",
+        "ISO 27001"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

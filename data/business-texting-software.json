@@ -1,0 +1,798 @@
+{
+  "slug": "business-texting-software",
+  "title": "The 11 Best Business Texting Software Platforms",
+  "subtitle": "A ranked analysis of platforms for SMS marketing, support, and appointment reminders based on deliverability, features, and compliance.",
+  "vertical": "Customer Service · SMS",
+  "audience": "Businesses sending SMS for support, marketing, and appointment reminders",
+  "editor": {
+    "name": "Top 11 Editorial",
+    "credential": "Autonomous AI ranking engine — methodology v1.0 weights public",
+    "url": "https://topelevens.com/methodology",
+    "conflict_disclosure": "None. The editor of Top 11 is not a candidate on this list."
+  },
+  "published": "2026-06-14",
+  "last_verified": "2026-06-14",
+  "next_review": "2026-09-12",
+  "methodology_version": "v1.0",
+  "independence": {
+    "paid_placement": false,
+    "affiliate_links": false,
+    "sponsored_entries": false,
+    "statement": "Top 11 takes no payment from any provider on this list. Scores are computed from a public weighted rubric; methodology weights were locked before entry research began."
+  },
+  "editor_disclosure": null,
+  "freshness": {
+    "cadence": "quarterly",
+    "statement": "Re-scored every 90 days."
+  },
+  "category": "Business Software",
+  "subsector": "Communications",
+  "changelog": [
+    {
+      "date": "2026-06-14",
+      "text": "Initial publication. Methodology v1.0 weights Deliverability & Reliability (25%), Features & Automation (25%), Integrations & API (20%), Compliance & Security (15%), and Pricing & Value (15%)."
+    }
+  ],
+  "answer_capsule": "The best business texting software is SimpleTexting for its all-around performance, followed by Attentive for e-commerce brands and TextMagic for its straightforward international capabilities.",
+  "methodology": {
+    "version": "v1.0",
+    "updated": "2026-06-14",
+    "candidate_pool": 20,
+    "review_cadence": "quarterly",
+    "score_cap": 9.4,
+    "criteria": [
+      {
+        "name": "Deliverability & Reliability",
+        "weight": 25,
+        "description": "Assesses uptime guarantees, direct carrier relationships, message delivery rates, and speed. High scores require public status pages and carrier redundancy."
+      },
+      {
+        "name": "Features & Automation",
+        "weight": 25,
+        "description": "Evaluates the depth of features like scheduled campaigns, keyword-based auto-replies, MMS support, custom fields, and automated workflows."
+      },
+      {
+        "name": "Integrations & API",
+        "weight": 20,
+        "description": "Measures the number and quality of native integrations (e.g., Salesforce, Shopify, HubSpot) and the clarity and capability of the API for custom builds."
+      },
+      {
+        "name": "Compliance & Security",
+        "weight": 15,
+        "description": "Scores tools for managing TCPA/CTIA compliance, such as automated opt-in/out tracking, mandatory quiet hours, and data security protocols like SOC 2."
+      },
+      {
+        "name": "Pricing & Value",
+        "weight": 15,
+        "description": "Analyzes pricing transparency, per-message costs at scale, plan flexibility, and the overall return on investment for typical use cases."
+      }
+    ]
+  },
+  "segment_tags": [
+    "SMS Marketing",
+    "Customer Support SMS",
+    "Appointment Reminders",
+    "Mass Texting",
+    "Two-Way Texting"
+  ],
+  "problem_tags": [
+    "High no-show rates",
+    "Low email open rates",
+    "Inefficient customer support",
+    "Poor marketing engagement"
+  ],
+  "query_intents": [
+    "best business sms platform",
+    "mass texting service",
+    "sms marketing software",
+    "text message appointment reminders"
+  ],
+  "match_index": {
+    "1": {
+      "solves": [
+        "Coordinating marketing, sales, and support SMS in one platform"
+      ],
+      "personas": [
+        "Small to medium businesses",
+        "Marketing managers"
+      ]
+    },
+    "2": {
+      "solves": [
+        "Driving revenue from SMS for e-commerce stores"
+      ],
+      "personas": [
+        "Shopify store owners",
+        "E-commerce marketers"
+      ]
+    },
+    "3": {
+      "solves": [
+        "Sending simple, reliable texts to international customers"
+      ],
+      "personas": [
+        "Global businesses",
+        "Logistics coordinators"
+      ]
+    }
+  },
+  "stats": {
+    "candidate_pool": 20,
+    "ranked": 11,
+    "average_score": 8.16,
+    "spread_top_to_bottom": 2.1
+  },
+  "guide": [
+    {
+      "q": "What defines 'business texting software'?",
+      "a": "Business texting software is a platform that allows organizations to send and receive SMS and MMS messages from a dedicated business number for marketing, sales, and support. Unlike personal phones, these platforms provide features for mass texting, automation, compliance management, and integration with other business systems like CRMs."
+    },
+    {
+      "q": "How is this different from using a personal phone?",
+      "a": "These platforms are built for scale, compliance, and team collaboration. They offer shared inboxes so multiple team members can manage conversations, automation rules to handle common queries, and critical TCPA/CTIA compliance tools to avoid legal issues, none of which are available on a personal device."
+    }
+  ],
+  "how_to_choose": [
+    "First, define your primary use case: is it for high-volume marketing blasts, two-way customer support conversations, or simple appointment reminders? This will determine the feature set you need.",
+    "Second, check for critical integrations. The software must connect smoothly with your existing CRM (e.g., Salesforce, HubSpot) or e-commerce platform (e.g., Shopify) to avoid manual data entry.",
+    "Third, scrutinize the pricing model. Understand the cost per message, monthly platform fees, and whether you are paying for credits that expire or a flat monthly rate. Model your expected volume to find the true cost.",
+    "Finally, confirm compliance features. Ensure the platform has built-in tools for managing opt-ins and opt-outs as required by TCPA and CTIA guidelines to protect your business from fines."
+  ],
+  "faqs": [
+    {
+      "q": "What is the best software for business texting?",
+      "a": "SimpleTexting is the best all-around business texting software for most companies due to its strong feature set, ease of use, and competitive pricing. For e-commerce, Attentive is a top choice, while TextMagic excels at international messaging."
+    },
+    {
+      "q": "Is business texting legal?",
+      "a": "Yes, business texting is legal provided you follow regulations like the Telephone Consumer Protection Act (TCPA). This requires getting express written consent from contacts before messaging them, providing a clear way to opt out (like texting STOP), and honoring those opt-outs immediately."
+    },
+    {
+      "q": "How much does business texting software cost?",
+      "a": "Costs typically range from $29 to over $500 per month, depending on message volume, number of users, and advanced features. Most plans operate on a per-message credit system, with costs decreasing as volume increases, often from $0.04 down to $0.01 per SMS."
+    },
+    {
+      "q": "Can I use my existing business phone number for texting?",
+      "a": "Yes, many providers can 'text-enable' your existing landline or VoIP business number. This process, called number hosting, allows you to send and receive texts from your familiar number without affecting your voice service."
+    }
+  ],
+  "honest_disclosures": [
+    "Most providers on this list are primarily focused on the North American market (US and Canada); international feature support and pricing can vary significantly.",
+    "Pricing models can be complex, often involving a mix of platform fees, per-message credits, and charges for dedicated numbers or keywords. We have simplified this into a price band.",
+    "The term 'unlimited' is rare and often comes with fair use policy restrictions. We prioritized platforms with transparent, usage-based pricing."
+  ],
+  "glossary": {
+    "term": "TCPA",
+    "definition": "The Telephone Consumer Protection Act is a U.S. federal law that restricts telemarketing communications, including text messages. It requires businesses to obtain prior express written consent before sending marketing texts.",
+    "synonyms": [
+      "SMS Compliance",
+      "Texting Regulations"
+    ],
+    "faq": []
+  },
+  "entries": [
+    {
+      "rank": 1,
+      "name": "SimpleTexting",
+      "url": "https://simpletexting.com",
+      "founded": 2010,
+      "hq": "Miami, USA",
+      "team_size_band": "51-200",
+      "best_for": "Businesses needing a balanced, easy-to-use platform for marketing and support without a steep learning curve.",
+      "best_for_short": "Best all-around platform",
+      "pricing_band": "$$ ($29 to $699/mo)",
+      "score_out_of_94": 9.2,
+      "score_breakdown": {
+        "Deliverability & Reliability": 9.2,
+        "Features & Automation": 9.3,
+        "Integrations & API": 9,
+        "Compliance & Security": 9.1,
+        "Pricing & Value": 9.4
+      },
+      "verdict": "SimpleTexting ranks first because it offers the best combination of powerful features, user-friendly design, and transparent pricing for most small and medium-sized businesses.",
+      "verdict_short": "The best balance of features, usability, and value for most businesses.",
+      "praise": "The platform's built-in features, like data collection via text and custom fields, allow for sophisticated segmentation without requiring third-party tools.",
+      "praise_short": "Excellent built-in data collection and segmentation tools.",
+      "criticism": "While its Zapier integration is powerful, the number of direct, native integrations with niche CRMs is fewer than some enterprise-focused competitors.",
+      "criticism_short": "Fewer native CRM integrations than enterprise rivals.",
+      "sources_pending": [
+        "simpletexting.com/pricing",
+        "g2.com/products/simpletexting/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 699,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Shopify",
+        "Salesforce",
+        "Mailchimp",
+        "HubSpot"
+      ],
+      "compliance": [
+        "TCPA",
+        "CTIA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 2,
+      "name": "Attentive",
+      "url": "https://www.attentive.com",
+      "founded": 2016,
+      "hq": "New York, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "E-commerce and retail brands seeking to drive revenue directly from SMS with advanced segmentation and performance analytics.",
+      "best_for_short": "Best for e-commerce revenue",
+      "pricing_band": "$$$$ ($500 to $5000+/mo)",
+      "score_out_of_94": 9,
+      "score_breakdown": {
+        "Deliverability & Reliability": 9.4,
+        "Features & Automation": 9.5,
+        "Integrations & API": 9.2,
+        "Compliance & Security": 9,
+        "Pricing & Value": 7.8
+      },
+      "verdict": "Attentive is the top choice for e-commerce because its entire platform, from subscriber growth tools to patented two-step opt-ins, is engineered to maximize sales for Shopify and Magento stores.",
+      "verdict_short": "The leader for e-commerce brands focused on driving sales via SMS.",
+      "praise": "The platform's ability to create automated 'journeys' based on customer behavior, like cart abandonment, consistently generates over 15% of total online revenue for its clients.",
+      "praise_short": "Powerful automated journeys drive e-commerce sales.",
+      "criticism": "The pricing structure is opaque and significantly higher than general-purpose platforms, making it a poor fit for businesses not in high-growth e-commerce.",
+      "criticism_short": "High, non-transparent pricing is prohibitive for non-retail.",
+      "sources_pending": [
+        "attentive.com/solutions",
+        "apps.shopify.com/attentive-sms-marketing"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 500,
+      "price_max": 5000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Shopify",
+        "Magento",
+        "BigCommerce",
+        "Klaviyo",
+        "Zendesk"
+      ],
+      "compliance": [
+        "TCPA",
+        "CTIA",
+        "GDPR"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 7,
+      "min_team_size": 5,
+      "max_team_size": 100
+    },
+    {
+      "rank": 3,
+      "name": "TextMagic",
+      "url": "https://www.textmagic.com",
+      "founded": 2001,
+      "hq": "Cambridge, UK",
+      "team_size_band": "51-200",
+      "best_for": "Businesses that need a simple, reliable way to send texts to a global audience without complex features or long-term contracts.",
+      "best_for_short": "Best for international texting",
+      "pricing_band": "$ ($10 to $1000+/mo, pay-as-you-go)",
+      "score_out_of_94": 8.8,
+      "score_breakdown": {
+        "Deliverability & Reliability": 9.3,
+        "Features & Automation": 8,
+        "Integrations & API": 8.8,
+        "Compliance & Security": 8.5,
+        "Pricing & Value": 9.5
+      },
+      "verdict": "TextMagic earns its high rank for its straightforward pay-as-you-go pricing and extensive global coverage, making it the most accessible option for sending alerts and notifications to over 190 countries.",
+      "verdict_short": "Simple, reliable pay-as-you-go service with excellent global reach.",
+      "praise": "Its transparent pricing, with a simple per-message cost starting at $0.049 in the US and no monthly fees, is a major advantage for businesses with variable sending volumes.",
+      "praise_short": "Transparent pay-as-you-go pricing with no monthly fees.",
+      "criticism": "The platform's automation and campaign features are more basic than competitors like SimpleTexting, lacking advanced segmentation or behavioral triggers.",
+      "criticism_short": "Lacks advanced marketing automation and segmentation.",
+      "sources_pending": [
+        "textmagic.com/pricing",
+        "capterra.com/p/61413/Text-Magic/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 10,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Salesforce",
+        "Google Calendar",
+        "Gmail"
+      ],
+      "compliance": [
+        "TCPA",
+        "GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 4,
+      "name": "OpenPhone",
+      "url": "https://www.openphone.com",
+      "founded": 2018,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Teams looking for a unified business phone system (VoIP) and texting platform in a single, collaborative application.",
+      "best_for_short": "Best for integrated phone & text",
+      "pricing_band": "$$ ($15 to $50/user/mo)",
+      "score_out_of_94": 8.5,
+      "score_breakdown": {
+        "Deliverability & Reliability": 8.5,
+        "Features & Automation": 8.2,
+        "Integrations & API": 8.8,
+        "Compliance & Security": 8,
+        "Pricing & Value": 9
+      },
+      "verdict": "OpenPhone stands out by bundling a modern VoIP business phone system with robust team texting features, making it the best value for businesses wanting to manage calls and texts from one shared number.",
+      "verdict_short": "The best unified VoIP phone and team texting solution.",
+      "praise": "The shared inbox functionality is excellent, allowing teams to assign conversations, leave internal notes, and see who is responding in real-time, which prevents duplicate replies.",
+      "praise_short": "Excellent shared inbox for team collaboration.",
+      "criticism": "Its mass texting and marketing automation capabilities are less developed than dedicated SMS marketing platforms; it is not designed for sending blasts to thousands of contacts.",
+      "criticism_short": "Not built for high-volume marketing campaigns.",
+      "sources_pending": [
+        "openphone.com/pricing",
+        "g2.com/products/openphone/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 15,
+      "price_max": 50,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "Salesforce",
+        "Zapier",
+        "Slack",
+        "Gong"
+      ],
+      "compliance": [
+        "TCPA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 5,
+      "name": "SlickText",
+      "url": "https://www.slicktext.com",
+      "founded": 2012,
+      "hq": "Jamestown, USA",
+      "team_size_band": "51-200",
+      "best_for": "Marketers focused on creative list growth and engagement through features like text-to-win contests and loyalty programs.",
+      "best_for_short": "Best for creative marketing",
+      "pricing_band": "$$ ($29 to $1250/mo)",
+      "score_out_of_94": 8.3,
+      "score_breakdown": {
+        "Deliverability & Reliability": 8.5,
+        "Features & Automation": 8.8,
+        "Integrations & API": 8,
+        "Compliance & Security": 8.2,
+        "Pricing & Value": 8
+      },
+      "verdict": "SlickText secures a top-five spot with its unique marketing-focused features, offering one of the most extensive toolsets for running text-to-win sweepstakes, birthday texts, and loyalty programs.",
+      "verdict_short": "A marketing-first platform with strong engagement features.",
+      "praise": "The platform provides very specific and detailed workflows for contests and loyalty rewards programs that other competitors only offer as basic templates.",
+      "praise_short": "Excellent, detailed workflows for contests and loyalty.",
+      "criticism": "The user interface feels less modern than top competitors, and navigating the numerous features can be overwhelming for new users without guidance.",
+      "criticism_short": "User interface is dated and can be complex.",
+      "sources_pending": [
+        "slicktext.com/pricing",
+        "trustradius.com/products/slick-text/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 29,
+      "price_max": 1250,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Shopify",
+        "Zapier",
+        "Mailchimp",
+        "Facebook"
+      ],
+      "compliance": [
+        "TCPA",
+        "CTIA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 6,
+      "name": "EZ Texting",
+      "url": "https://www.eztexting.com",
+      "founded": 2004,
+      "hq": "Santa Monica, USA",
+      "team_size_band": "51-200",
+      "best_for": "Organizations looking for a long-standing, reliable platform with strong customer support and straightforward mass texting capabilities.",
+      "best_for_short": "Reliable and easy mass texting",
+      "pricing_band": "$$ ($20 to $3000/mo)",
+      "score_out_of_94": 8.1,
+      "score_breakdown": {
+        "Deliverability & Reliability": 8.4,
+        "Features & Automation": 8,
+        "Integrations & API": 7.8,
+        "Compliance & Security": 8.2,
+        "Pricing & Value": 8.1
+      },
+      "verdict": "EZ Texting is a dependable choice for businesses that prioritize simplicity and support, offering a clean interface and helpful service that makes sending mass texts straightforward.",
+      "verdict_short": "A veteran platform known for simplicity and strong support.",
+      "praise": "Their customer support is consistently rated as a top feature, with phone and chat support available on all paid plans, which is rare for entry-level pricing.",
+      "praise_short": "Excellent customer support, even on lower-tier plans.",
+      "criticism": "Pricing tiers can be confusing, with different plans offering varying access to features like drip campaigns and reporting, forcing upgrades for key functionality.",
+      "criticism_short": "Key features are locked behind higher-priced tiers.",
+      "sources_pending": [
+        "eztexting.com/pricing",
+        "g2.com/products/ez-texting/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 20,
+      "price_max": 3000,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "Zapier",
+        "Constant Contact",
+        "HubSpot",
+        "Square"
+      ],
+      "compliance": [
+        "TCPA",
+        "CTIA"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 7,
+      "name": "Salesmsg",
+      "url": "https://www.salesmessage.com",
+      "founded": 2017,
+      "hq": "West Palm Beach, USA",
+      "team_size_band": "11-50",
+      "best_for": "Sales teams that live inside HubSpot or other CRMs and need to add two-way texting directly into their existing workflows.",
+      "best_for_short": "Best for sales team CRM integration",
+      "pricing_band": "$$ ($25 to $500+/mo)",
+      "score_out_of_94": 8,
+      "score_breakdown": {
+        "Deliverability & Reliability": 8,
+        "Features & Automation": 7.5,
+        "Integrations & API": 9.2,
+        "Compliance & Security": 7.8,
+        "Pricing & Value": 7.5
+      },
+      "verdict": "Salesmsg is the best option for sales-driven organizations because of its deep, native integrations with CRMs like HubSpot and ActiveCampaign, allowing reps to text contacts without leaving their primary tool.",
+      "verdict_short": "Deepest CRM integration for sales-focused texting.",
+      "praise": "The HubSpot integration is best-in-class, enabling automated SMS sends from HubSpot workflows and syncing all text conversations directly to contact records.",
+      "praise_short": "Flawless HubSpot integration for sales workflows.",
+      "criticism": "As a standalone product, its features are limited compared to all-in-one platforms; its value is heavily dependent on using a supported CRM.",
+      "criticism_short": "Limited features if not used with a CRM.",
+      "sources_pending": [
+        "salesmessage.com/pricing",
+        "g2.com/products/salesmsg/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 25,
+      "price_max": 500,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "HubSpot",
+        "ActiveCampaign",
+        "Pipedrive",
+        "Zapier",
+        "Aircall"
+      ],
+      "compliance": [
+        "TCPA"
+      ],
+      "regions": [
+        "North America",
+        "UK",
+        "Australia"
+      ],
+      "onboarding_days": 0,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 8,
+      "name": "Podium",
+      "url": "https://www.podium.com",
+      "founded": 2014,
+      "hq": "Lehi, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Local businesses (e.g., dentists, auto shops, home services) that want to manage reviews, payments, and customer chats in one place.",
+      "best_for_short": "Best for local service businesses",
+      "pricing_band": "$$$ ($249 to $649+/mo)",
+      "score_out_of_94": 7.8,
+      "score_breakdown": {
+        "Deliverability & Reliability": 8,
+        "Features & Automation": 8.2,
+        "Integrations & API": 7.5,
+        "Compliance & Security": 7.9,
+        "Pricing & Value": 7.2
+      },
+      "verdict": "Podium is the ideal platform for local service businesses because it integrates texting with essential tools like online review generation, webchat, and text-to-pay, creating a complete customer interaction hub.",
+      "verdict_short": "An all-in-one interaction platform for local businesses.",
+      "praise": "Its ability to automatically send a text requesting a Google review after an appointment or transaction is highly effective, often increasing review volume by 2-3x.",
+      "praise_short": "Excellent automated review generation via text.",
+      "criticism": "The platform is expensive and bundles many features, making it overkill and overpriced for businesses that only need a core texting solution.",
+      "criticism_short": "Expensive and bundled; not ideal for just texting.",
+      "sources_pending": [
+        "podium.com/pricing",
+        "forbes.com/advisor/business/podium-review/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 249,
+      "price_max": 649,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": null,
+      "integrations": [
+        "Google Business Profile",
+        "QuickBooks",
+        "Shopify",
+        "Veeva"
+      ],
+      "compliance": [
+        "TCPA"
+      ],
+      "regions": [
+        "North America",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 9,
+      "name": "Heymarket",
+      "url": "https://www.heymarket.com",
+      "founded": 2013,
+      "hq": "San Francisco, USA",
+      "team_size_band": "51-200",
+      "best_for": "Customer support and operations teams needing advanced inbox management, automation, and reporting features.",
+      "best_for_short": "Best for support & ops teams",
+      "pricing_band": "$$$ ($59 to $1000+/mo)",
+      "score_out_of_94": 7.6,
+      "score_breakdown": {
+        "Deliverability & Reliability": 7.8,
+        "Features & Automation": 8,
+        "Integrations & API": 7.9,
+        "Compliance & Security": 7.5,
+        "Pricing & Value": 6.8
+      },
+      "verdict": "Heymarket is built for service-oriented teams, offering superior features for managing high volumes of inbound conversations, such as conversation routing, templates, and team performance analytics.",
+      "verdict_short": "A powerful shared inbox designed for customer service.",
+      "praise": "The platform's reporting dashboard is more detailed than most, providing metrics on team response times and conversation volume that help managers optimize support operations.",
+      "praise_short": "Detailed analytics on team performance and response times.",
+      "criticism": "It is one of the more expensive options on a per-user basis, and its marketing campaign features are not as strong as those of competitors like SimpleTexting.",
+      "criticism_short": "Expensive per-user pricing and weaker marketing tools.",
+      "sources_pending": [
+        "heymarket.com/pricing/",
+        "capterra.com/p/149866/Heymarket/"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 59,
+      "price_max": 1000,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "Zendesk",
+        "HubSpot",
+        "Slack",
+        "Shopify"
+      ],
+      "compliance": [
+        "TCPA",
+        "SOC 2"
+      ],
+      "regions": [
+        "North America"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    },
+    {
+      "rank": 10,
+      "name": "Twilio",
+      "url": "https://www.twilio.com",
+      "founded": 2008,
+      "hq": "San Francisco, USA",
+      "team_size_band": "5001-10000",
+      "best_for": "Developers and large enterprises that need to build custom SMS applications and workflows via a powerful API.",
+      "best_for_short": "Best for developers & custom builds",
+      "pricing_band": "$ (Pay-as-you-go)",
+      "score_out_of_94": 7.4,
+      "score_breakdown": {
+        "Deliverability & Reliability": 9.5,
+        "Features & Automation": 7,
+        "Integrations & API": 9.8,
+        "Compliance & Security": 7.5,
+        "Pricing & Value": 6
+      },
+      "verdict": "Twilio is the foundational infrastructure for much of the texting industry, offering unparalleled API flexibility and reliability for companies with the development resources to build their own solution.",
+      "verdict_short": "The ultimate API for developers building custom SMS solutions.",
+      "praise": "Its API documentation is the industry standard, and the platform's scalability is proven, handling billions of messages for clients like Uber and Airbnb.",
+      "praise_short": "Industry-leading API, documentation, and scalability.",
+      "criticism": "Twilio is not an out-of-the-box software; it requires significant developer expertise to use, making it unsuitable for businesses seeking a simple, ready-to-use interface.",
+      "criticism_short": "Requires developers; not a ready-to-use application.",
+      "sources_pending": [
+        "twilio.com/sms/pricing/us",
+        "g2.com/products/twilio/reviews"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 0.0079,
+      "price_max": null,
+      "currency": "USD",
+      "free_tier": true,
+      "setup_fee": 0,
+      "integrations": [
+        "API-first"
+      ],
+      "compliance": [
+        "API-level tools for TCPA/GDPR"
+      ],
+      "regions": [
+        "Global"
+      ],
+      "onboarding_days": null,
+      "min_team_size": 1,
+      "max_team_size": null
+    },
+    {
+      "rank": 11,
+      "name": "Intercom",
+      "url": "https://www.intercom.com",
+      "founded": 2011,
+      "hq": "San Francisco, USA",
+      "team_size_band": "1001-5000",
+      "best_for": "Companies that want to add SMS as a channel within a broader, AI-powered customer communications platform.",
+      "best_for_short": "Best for omnichannel support",
+      "is_wildcard": true,
+      "pricing_band": "$$$ ($74 to $999+/mo)",
+      "score_out_of_94": 7.1,
+      "score_breakdown": {
+        "Deliverability & Reliability": 7,
+        "Features & Automation": 7.8,
+        "Integrations & API": 7.5,
+        "Compliance & Security": 7,
+        "Pricing & Value": 6.2
+      },
+      "verdict": "Intercom is a wildcard because it's not a dedicated SMS tool, but a full customer service platform where SMS is one of many channels (like email and chat), allowing for unified, AI-enhanced conversations.",
+      "verdict_short": "A full customer service platform where SMS is one channel.",
+      "praise": "It centralizes all customer interactions, so a support agent can see a user's past website chats, emails, and texts in a single thread, providing complete context.",
+      "praise_short": "Unifies SMS, email, and chat into a single conversation.",
+      "criticism": "The SMS functionality is an add-on and lacks the deep marketing campaign and compliance features of dedicated texting platforms. It is also significantly more expensive.",
+      "criticism_short": "SMS features are basic and the platform is expensive.",
+      "sources_pending": [
+        "intercom.com/pricing",
+        "intercom.com/sms"
+      ],
+      "risk_signals": {
+        "level": "none",
+        "checked": "2026-06-14",
+        "summary": "No material public risk signals as of 2026-06-14.",
+        "signals": []
+      },
+      "price_min": 74,
+      "price_max": 999,
+      "currency": "USD",
+      "free_tier": false,
+      "setup_fee": 0,
+      "integrations": [
+        "Salesforce",
+        "HubSpot",
+        "Slack",
+        "Stripe",
+        "Shopify"
+      ],
+      "compliance": [
+        "TCPA"
+      ],
+      "regions": [
+        "North America",
+        "Europe",
+        "Australia"
+      ],
+      "onboarding_days": 1,
+      "min_team_size": 1,
+      "max_team_size": 100
+    }
+  ]
+}

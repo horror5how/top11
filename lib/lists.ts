@@ -112,6 +112,8 @@ import customerFeedbackTools from "@/data/customer-feedback-tools.json";
 import videoEditingSoftwareBusiness from "@/data/video-editing-software-business.json";
 import affiliateMarketingSoftware from "@/data/affiliate-marketing-software.json";
 import accountingSoftwareEcommerce from "@/data/accounting-software-ecommerce.json";
+import businessTextingSoftware from "@/data/business-texting-software.json";
+import salesForecastingSoftware from "@/data/sales-forecasting-software.json";
 import socialMediaB2b from "@/data/social-media-b2b.json";
 import { SITE_URL } from "@/lib/schema";
 

@@ -192,22 +192,6 @@
       "priority": 4
     },
     {
-      "slug": "business-texting-software",
-      "title": "The 11 Best Business Texting Software Platforms",
-      "vertical": "Customer Service · SMS",
-      "audience": "Businesses sending SMS for support, marketing, and appointment reminders",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
-      "slug": "sales-forecasting-software",
-      "title": "The 11 Best Sales Forecasting Software Tools",
-      "vertical": "Sales · Analytics",
-      "audience": "Sales managers and RevOps teams building accurate revenue forecasts",
-      "candidate_pool_size": 20,
-      "priority": 3
-    },
-    {
       "slug": "hr-analytics-software",
       "title": "The 11 Best HR Analytics Software Platforms",
       "vertical": "HR · Analytics",
@@ -500,7 +484,9 @@
     "customer-feedback-tools",
     "video-editing-software-business",
     "affiliate-marketing-software",
-    "accounting-software-ecommerce"
+    "accounting-software-ecommerce",
+    "business-texting-software",
+    "sales-forecasting-software"
   ],
   "skipped": [
     {
