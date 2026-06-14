@@ -1,13 +1,13 @@
 {
   "list_slug": "fractional-cfo",
-  "generated_at": "2026-06-13T07:09:32.638Z",
+  "generated_at": "2026-06-14T08:00:08.492Z",
   "pulse_version": "v1",
   "entries": {
     "1": {
       "rank": 1,
       "name": "Burkland Associates",
       "entry": "Burkland Associates",
-      "verdict": "There is very little public commentary on Burkland Associates. The firm is mentioned in two Reddit threads as a fractional CFO option, with one user specifically asking about their experience with R&D tax credits for software companies. No direct customer testimonials, positive or negative, were found in the provided data.",
+      "verdict": "The internet offers no direct customer reviews or testimonials for Burkland Associates based on the provided data. The firm is mentioned in two relevant contexts on Reddit's r/Accounting: one user specifically requested feedback on their services for software companies needing R&D credits, and another user listed them as one of four fractional CFO firms they evaluated before leaning towards competitors. There is not enough public commentary to form a clear picture of their service quality.",
       "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
@@ -19,9 +19,9 @@
       },
       "recurring_themes": [
         {
-          "theme": "Mentioned as an option for fractional CFO services",
+          "theme": "Mentioned as an option in fractional CFO consideration sets",
           "polarity": "mixed",
-          "count": 2
+          "count": 1
         },
         {
           "theme": "Associated with R&D credits for software companies",
@@ -29,10 +29,7 @@
           "count": 1
         }
       ],
-      "watch_signals": [
-        "No direct customer reviews or testimonials were found in the provided data.",
-        "One user who met with the firm reported leaning towards two other named competitors."
-      ],
+      "watch_signals": [],
       "sample_size": 6,
       "sources": {
         "reddit": 6,
@@ -45,7 +42,7 @@
       "rank": 2,
       "name": "Kruze Consulting",
       "entry": "Kruze Consulting",
-      "verdict": "There is no public review signal for Kruze Consulting in the provided data. The single Reddit thread supplied does not mention the firm or its services.",
+      "verdict": "No information about Kruze Consulting was found in the provided data. The single supplied Reddit thread does not mention the firm, so no public opinion or user experience can be extracted.",
       "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
@@ -69,7 +66,7 @@
       "rank": 3,
       "name": "Graphite Financial",
       "entry": "Graphite Financial",
-      "verdict": "No public reviews, testimonials, or discussion about Graphite Financial were found in the provided data. The dataset consists of 12 unrelated Reddit threads about stock market speculation, technology, and automobiles, offering no context or information about the firm's services or reputation.",
+      "verdict": "No mentions of Graphite Financial were found in the provided dataset. The 25 Reddit threads supplied for analysis are entirely unrelated to the firm, instead focusing on stock trading, critical minerals, and personal technology anecdotes.",
       "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
@@ -111,8 +108,8 @@
       "rank": 5,
       "name": "Zeni",
       "entry": "Zeni",
-      "verdict": "There is very little public signal about Zeni in this data, with no direct customer reviews found. The firm is mentioned twice in Reddit threads on r/SaaS and r/startups as an example of an AI-powered accounting platform for small businesses. In these discussions, it is consistently listed alongside competitors like Digits and Docyt.",
-      "sentiment_score": 5,
+      "verdict": "The provided data contains no direct customer reviews or testimonials for Zeni. The firm is mentioned twice in Reddit discussions, where it is categorized as an 'AI-powered accounting' platform for startups alongside competitors like Digits and Docyt.",
+      "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
         "source_url": ""
@@ -123,13 +120,19 @@
       },
       "recurring_themes": [
         {
-          "theme": "Mentioned as an AI accounting option for startups",
+          "theme": "Mentioned as an AI accounting platform",
           "polarity": "mixed",
+          "count": 2
+        },
+        {
+          "theme": "Potential brand confusion with 'zenyAI' mobile app",
+          "polarity": "negative",
           "count": 2
         }
       ],
       "watch_signals": [
-        "Public discussion is sometimes confused with an unrelated receipt-scanning mobile app named 'zenyAI'."
+        "No direct customer reviews or testimonials were found in the provided data set.",
+        "There is potential brand confusion with an unrelated mobile receipt scanning app named 'zenyAI'."
       ],
       "sample_size": 12,
       "sources": {
@@ -143,15 +146,15 @@
       "rank": 6,
       "name": "Preferred CFO",
       "entry": "Preferred CFO",
-      "verdict": "No public reviews, discussions, or direct testimonials for Preferred CFO were found in the provided data. The single data point supplied is an unrelated Reddit thread about AI adoption in business with no mention of the firm.",
+      "verdict": "No public reviews, testimonials, or discussions concerning Preferred CFO were found in the provided data. The single data point supplied is an unrelated Reddit thread about AI adoption in business, with no mention of the firm.",
       "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
-        "source_url": ""
+        "source_url": null
       },
       "strongest_criticism": {
         "quote": null,
-        "source_url": ""
+        "source_url": null
       },
       "recurring_themes": [],
       "watch_signals": [],
@@ -167,7 +170,7 @@
       "rank": 7,
       "name": "Driven Insights",
       "entry": "Driven Insights",
-      "verdict": "No public reviews, user testimonials, or direct mentions of the firm Driven Insights were found in the provided data. The phrase 'driven insights' appears as a generic business term in two Reddit threads but is not a reference to this specific company, resulting in a complete lack of signal.",
+      "verdict": "No public discussion specifically about the fractional CFO firm Driven Insights was found in the provided data. The search results appear to be false positives, matching on the common business phrase 'driven insights' rather than the specific company name.",
       "sentiment_score": null,
       "strongest_praise": {
         "quote": null,
